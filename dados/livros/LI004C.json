@@ -1,0 +1,68 @@
+{
+  "obra_id": 175,
+  "autor": "Louise Millar",
+  "titulo": "Uma questão de confiança",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Suspense. Confiança. Relações familiares.",
+  "palavras_chave": "millar questao confianca",
+  "edicao_id": 171,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 382,
+  "peso": 550,
+  "isbn": "9788581631936",
+  "editora": "Novo Conceito",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em um subúrbio tranquilo de Londres, algumas mães se ajudam através de amizade, favores e fofocas. No entanto, algumas delas não parecem confiáveis e outras têm segredos obscuros.</p> <p>Quando Callie se mudou para seu novo bairro, pensou que seria fácil adaptar-se. Contudo, os outros pais e mães têm sido estranhamente hostis com ela e com sua filha, Rae, que também descobriu como é difícil fazer novas amizades. Suzy, seu marido rico e seus três filhos parecem ser a única família disposta a fazer amigos, mas, recentemente, a amizade com Suzy anda tensa. Ainda mais com a atmosfera pesada que pairou sobre o bairro após a chegada da polícia e o relato de um possível suspeito morando por lá. O que Callie e sua pequena Rae podem esperar? Em quem confiar? E, sobretudo, como imaginar que certas atitudes rotineiras podem colocar em risco a vida de sua pequena filha? Verdades e mentiras parecem se esconder nestas pequenas casas.</p> <p>Uma questão de confiança é um suspense contemporâneo que explora o dia a dia de pessoas comuns e nos faz questionar até que ponto podemos confiar em alguém.</p> <p>“Um suspense psicológico perturbador que explora a vida de exceção no subúrbio de Londres.”</p> <p>The New York Times</p> <p>“O suspense viciante de Millar traz mães ansiosas como foco da história.”</p> <p>People</p>",
+  "sinopse": "No subúrbio tranquilo de Londres, a mudança de Callie e sua filha Rae para um novo bairro se revela desafiadora quando elas enfrentam a hostilidade de outras mães e a dificuldade de fazer novas amizades. A relação tensa com Suzy, uma das mães do bairro, e a atmosfera pesada após a chegada da polícia, levantam questões sobre confiança e segurança. O que parecia ser um ambiente acolhedor esconde segredos obscuros e desafios inesperados.",
+  "exemplar_id": 170,
+  "sku": "LI004C",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/louise-millar--uma-quest-o-de-confian-a--capa--20250226--133802.jpg",
+  "contracapa": "static/uploads/louise-millar--uma-quest-o-de-confian-a--contracapa--20250226--133802.jpg",
+  "fotos": [
+    "static/uploads/louise-millar--uma-quest-o-de-confian-a--foto1--20250226--133802.jpg",
+    "static/uploads/louise-millar--uma-quest-o-de-confian-a--foto2--20250226--133802.jpg",
+    "static/uploads/louise-millar--uma-quest-o-de-confian-a--foto3--20250226--133802.jpg",
+    "static/uploads/louise-millar--uma-quest-o-de-confian-a--foto4--20250226--133802.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:01",
+  "observacoes": null
+}

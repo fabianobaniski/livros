@@ -1,0 +1,68 @@
+{
+  "obra_id": 243,
+  "autor": "Becky Albertalli",
+  "titulo": "Os 27 crushes de Molly",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Amor. Juventude. Auto-descoberta.",
+  "palavras_chave": "albertalli 27 crushes molly",
+  "edicao_id": 237,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 318,
+  "peso": 350,
+  "isbn": "9788551002360",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Não foi por acaso que tive vinte e seis crushes e nenhum namorado. Não entra muito na minha cabeça como é possível alguém arrumar um namorado. Ou namorada. Parece a coisa mais improvável do mundo. Você tem que ficar a fim da pessoa certa no momento certo. E a pessoa também tem que gostar de você. Um alinhamento perfeito de sentimentos e circunstâncias. É quase incompreensível que aconteça com tanta frequência.”</p>",
+  "sinopse": "Molly, uma jovem que nunca teve um namorado, reflete sobre a improbabilidade de encontrar o amor. Ao longo de suas experiências com 27 crushes, ela questiona como é possível que a 'pessoa certa' não tenha cruzado seu caminho, enquanto busca entender os sentimentos e circunstâncias que cercam o amor.",
+  "exemplar_id": 236,
+  "sku": "LI0064",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/becky-albertalli--os-27-crushes-de-molly--capa--20250226--133810.jpg",
+  "contracapa": "static/uploads/becky-albertalli--os-27-crushes-de-molly--contracapa--20250226--133810.jpg",
+  "fotos": [
+    "static/uploads/becky-albertalli--os-27-crushes-de-molly--foto1--20250226--133810.jpg",
+    "static/uploads/becky-albertalli--os-27-crushes-de-molly--foto2--20250226--133810.jpg",
+    "static/uploads/becky-albertalli--os-27-crushes-de-molly--foto3--20250226--133810.jpg",
+    "static/uploads/becky-albertalli--os-27-crushes-de-molly--foto4--20250226--133810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:00:56",
+  "observacoes": null
+}

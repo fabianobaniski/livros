@@ -1,0 +1,68 @@
+{
+  "obra_id": 1830,
+  "autor": "Maria Thereza Pompa Antunes",
+  "titulo": "Capital intelectual",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Administração de empresas. Capital intelectual. Ativos intangíveis. Avaliação de empresas.",
+  "palavras_chave": "antunes capital intelectual",
+  "edicao_id": 1810,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 139,
+  "peso": 310,
+  "isbn": "9788522425013",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>CAPITAL INTELECTUAL</h1><p>Muito se tem comentado, nos últimos tempos, que os relatórios fornecidos pela Contabilidade Financeira não retratam certas realidades das empresas, tendo em vista o fato de o valor contábil das ações estar muitas vezes abaixo do seu valor de mercado. Esse contraste entre os dois valores vem sendo identificado como Capital Intelectual, um novo conceito de administração de empresas que conduz à necessidade de aplicação de novas estratégias, de nova filosofia de administração e novas formas de avaliação do valor da empresa.</p><p>Neste livro a autora emprega o enfoque contábil para apresentar o conceito desse ativo intangível e seu impacto sobre a Contabilidade. O estudo parte da evolução da sociedade, desde sua era primitiva até o momento atual, demonstrando que o conhecimento passa a ser admitido como um recurso econômico. Comenta o modelo de mensuração do capital intelectual desenvolvido pelo grupo Skandia e seu processo de gerenciamento e faz uma apreciação crítica entre o Goodwill e Capital Intelectual.</p><h2>NOTA SOBRE A AUTORA</h2><p>MARIA THEREZA POMPA ANTUNES é mestre em Ciências Contábeis pela FEA/USP, administradora de empresas com especialização em Finanças pela PUC-RJ. Professora da Universidade Mackenzie e do Centro Universitário Ibero-Americano, analista econômico-financeira e pesquisadora na área contábil.</p><h2>APLICAÇÃO</h2><p>Livro-texto para as disciplinas CONTABILIDADE GERENCIAL, TEORIA DA CONTABILIDADE e AVALIAÇÃO DE EMPRESAS dos cursos de Ciências Contábeis e Administração de Empresas. Leitura relevante para contadores e profissionais da área financeira.</p>",
+  "sinopse": "O livro discute como a Contabilidade Financeira muitas vezes não reflete a realidade das empresas diante do conceito de Capital Intelectual, que exige novas formas de avaliação e estratégias nas organizações. Utilizando um enfoque contábil, a autora apresenta o conceito de ativos intangíveis, sua evolução e impacto, destacando modelos como o do grupo Skandia e a distinção entre Goodwill e Capital Intelectual. O conteúdo é relevante para profissionais e estudantes das áreas contábil, financeira e de administração.",
+  "exemplar_id": 1809,
+  "sku": "LI010W",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maria-thereza-pompa-antunes--capital-intelectual--capa--20250430--102953.jpg",
+  "contracapa": "static/uploads/maria-thereza-pompa-antunes--capital-intelectual--contracapa--20250430--102953.jpg",
+  "fotos": [
+    "static/uploads/maria-thereza-pompa-antunes--capital-intelectual--foto1--20250430--102953.jpg",
+    "static/uploads/maria-thereza-pompa-antunes--capital-intelectual--foto2--20250430--102953.jpg",
+    "static/uploads/maria-thereza-pompa-antunes--capital-intelectual--foto3--20250430--102953.jpg",
+    "static/uploads/maria-thereza-pompa-antunes--capital-intelectual--foto4--20250430--102953.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:14:36",
+  "observacoes": "procedencia_biblioteca"
+}

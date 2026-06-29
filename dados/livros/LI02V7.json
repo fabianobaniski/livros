@@ -1,0 +1,63 @@
+{
+  "obra_id": 5179,
+  "autor": "Waka Hirako",
+  "titulo": "My Broken Mariko",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura. Relações humanas. Abuso emocional.",
+  "palavras_chave": "hirako broken mariko",
+  "edicao_id": 5154,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 340,
+  "isbn": "9786555942491",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Shiino, uma grosseira vendedora, almoçava em um restaurante no intervalo do serviço quando viu uma notícia na televisão. Era sobre a morte repentina de sua melhor amiga, Mariko. Saber dessa morte fez Shiino tomar uma decisão.</p>",
+  "sinopse": "Shiino, uma vendedora, descobre a morte de sua amiga Mariko através de uma notícia na televisão. Essa revelação leva Shiino a tomar uma decisão importante, explorando temas delicados como abuso emocional e físico, depressão e suicídio.",
+  "exemplar_id": 5153,
+  "sku": "LI02V7",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 34.0,
+  "capa": "static/uploads/my-broken-mariko__waka-hirako__capa__2026-02-20_10-32-28-967623-000.png",
+  "contracapa": "static/uploads/my-broken-mariko__waka-hirako__contracapa__2026-02-20_10-32-29-200227-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2918,
+  "autor": "David F. Clarke",
+  "titulo": "Talk about literature",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Crítica Literária",
+  "temas": "",
+  "palavras_chave": "clarke talk about literature",
+  "edicao_id": 2898,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 116,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Edward Arnold",
+  "numero_edicao": null,
+  "ano": 1989,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Talk About Literature oferece uma introdução dinâmica ao estudo da literatura, usando textos autênticos de poesias, canções, peças e prosas de diferentes partes do mundo e períodos. Projetado para estudantes intermediários, o livro explora cinco temas principais: infância, educação, trabalho, dinheiro e o mundo natural. Através de atividades como análise de vocabulário, comparação de textos e escrita de resumos, o livro ajuda a desenvolver a confiança dos alunos para interpretar textos literários. Inclui obras de autores renomados como William Blake, Charles Dickens e Ernest Hemingway.",
+  "exemplar_id": 2897,
+  "sku": "LI01V2",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/talk-about-literature-david-f-clarke-capa_rev895.jpg",
+  "contracapa": "static/uploads/talk-about-literature-david-f-clarke-contracapa_rev633.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:51:25",
+  "observacoes": null
+}

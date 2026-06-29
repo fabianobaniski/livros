@@ -1,0 +1,68 @@
+{
+  "obra_id": 179,
+  "autor": "Caitlin Doughty",
+  "titulo": "Verdades além do túmulo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Morte. Cultura. Vida.",
+  "palavras_chave": "doughty verdades tumulo",
+  "edicao_id": 175,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 217,
+  "peso": 380,
+  "isbn": "9786555980233",
+  "editora": "Darkside",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 174,
+  "sku": "LI004G",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/caitlin-doughty--verdades-al-m-do-t-mulo--capa--20250226--133802.jpg",
+  "contracapa": "static/uploads/caitlin-doughty--verdades-al-m-do-t-mulo--contracapa--20250226--133802.jpg",
+  "fotos": [
+    "static/uploads/caitlin-doughty--verdades-al-m-do-t-mulo--foto1--20250226--133802.jpg",
+    "static/uploads/caitlin-doughty--verdades-al-m-do-t-mulo--foto2--20250226--133802.jpg",
+    "static/uploads/caitlin-doughty--verdades-al-m-do-t-mulo--foto3--20250226--133802.jpg",
+    "static/uploads/caitlin-doughty--verdades-al-m-do-t-mulo--foto4--20250226--133802.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:45",
+  "observacoes": null
+}

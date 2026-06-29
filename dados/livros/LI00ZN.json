@@ -1,0 +1,68 @@
+{
+  "obra_id": 1784,
+  "autor": "Valder Luiz Palombo Alberto",
+  "titulo": "Perícia contábil",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Ciências sociais aplicadas. Contabilidade. Perícia contábil.",
+  "palavras_chave": "alberto pericia contabil",
+  "edicao_id": 1764,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 220,
+  "peso": 490,
+  "isbn": "9788522448173",
+  "editora": "Atlas",
+  "numero_edicao": 4,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Perícia Contábil</h1> <p>Perícia contábil, instrumento apropriado para trazer aos ordenamentos decisórios – judicial ou extrajudicial – a verdade cientificamente demonstrada, é a aplicação da Ciência Contábil expressa de modo especial para que o Direito possa ser plenamente exercido em bases seguras e verdadeiras. É instrumento auxiliar para a precisa compreensão, avaliação e julgamento das interferências que as ações econômicas e as mutações patrimoniais têm na criação das riquezas individuais e coletivas.</p> <p>Este livro, além de permitir ampla visão das finalidades e das formas de atuação das perícias em geral, oferece particularmente o embasamento doutrinário-institucional da Perícia Contábil. Ênfase especial foi colocada sobre dois aspectos: primeiro, sobre os requisitos éticos e educacionais do perito contábil; segundo, sobre a sistematização das técnicas periciais, normas existentes e espécies de relatórios que pode produzir, mediante exemplos e apresentação de casos reais.</p> <h2>NOTA SOBRE O AUTOR</h2> <p>VALDER LUIZ PALOMBO ALBERTO é bacharel em Ciências Contábeis, especializado em perícias e arbitragens contábeis e professor de cursos de Perícia Judicial ministrados em todo o País. Foi presidente da Associação dos Peritos Judiciais do Estado de São Paulo, diretor técnico do Instituto Brasileiro de Perícia e Arbitragem e membro do Grupo de Perícias do Conselho Federal de Contabilidade. É sócio da HVV Perícias Contábeis Judiciais e Extrajudiciais S/S.</p> <h2>APLICAÇÃO</h2> <p>Livro-texto para a disciplina PERÍCIA CONTÁBIL, integrante do currículo mínimo dos cursos de graduação em Ciências Contábeis, e para cursos de extensão ou pós-graduação em Perícia Contábil. Livro complementar para cursos de graduação de Direito e para estudiosos de ciências sociais aplicadas e de formação de árbitros. Leitura recomendada para auditores, peritos, advogados, legisladores e árbitros em matéria contratual, tributária, civil e trabalhista.</p>",
+  "sinopse": "O livro apresenta uma visão abrangente das finalidades e formas de atuação da perícia contábil, destacando sua aplicação no contexto judicial e extrajudicial como instrumento de verdade científica e segurança para o Direito. Aborda requisitos éticos e educacionais do perito contábil, além da sistematização das técnicas periciais, normas, tipos de relatórios e exemplos de casos reais. É indicado como livro-texto para cursos de Ciências Contábeis, Direito e para profissionais como auditores, peritos, advogados e árbitros.",
+  "exemplar_id": 1763,
+  "sku": "LI00ZN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/valder-luiz-palombo-alberto--per-cia-cont-bil--capa--20250430--102946.jpg",
+  "contracapa": "static/uploads/valder-luiz-palombo-alberto--per-cia-cont-bil--contracapa--20250430--102946.jpg",
+  "fotos": [
+    "static/uploads/valder-luiz-palombo-alberto--per-cia-cont-bil--foto1--20250430--102946.jpg",
+    "static/uploads/valder-luiz-palombo-alberto--per-cia-cont-bil--foto2--20250430--102946.jpg",
+    "static/uploads/valder-luiz-palombo-alberto--per-cia-cont-bil--foto3--20250430--102946.jpg",
+    "static/uploads/valder-luiz-palombo-alberto--per-cia-cont-bil--foto4--20250430--102946.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:00:31",
+  "observacoes": "procedencia_biblioteca"
+}

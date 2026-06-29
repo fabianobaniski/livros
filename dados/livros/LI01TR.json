@@ -1,0 +1,63 @@
+{
+  "obra_id": 2871,
+  "autor": "Lic. Licia Leone",
+  "titulo": "Psicoastrología",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "lic leone psicoastrologia",
+  "edicao_id": 2851,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 348,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Lidiun",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro combina as antigas sabedorias astrológicas com os princípios da psicopedagogia moderna, oferecendo uma análise detalhada de como os doze signos astrológicos se relacionam com diferentes perfis de personalidade. A obra não se limita ao esotérico, mas busca aplicar essas tradições ao pensamento contemporâneo, explorando a continuidade histórica e filosófica do conhecimento. A autora, Licia Leone, psicóloga e educadora, sintetiza sua vasta experiência e profundo entendimento da psicologia para criar uma abordagem única e esclarecedora da psicoastrologia.",
+  "exemplar_id": 2850,
+  "sku": "LI01TR",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/psicoastrologia-lic-licia-leone-capa_rev798.jpg",
+  "contracapa": "static/uploads/psicoastrologia-lic-licia-leone-contracapa_rev869.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel bastante amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:18:06",
+  "observacoes": null
+}

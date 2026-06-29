@@ -1,0 +1,63 @@
+{
+  "obra_id": 5010,
+  "autor": "Takehiko Inoue",
+  "titulo": "Real",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Esportes.",
+  "palavras_chave": "inoue real",
+  "edicao_id": 4985,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 210,
+  "peso": 350,
+  "isbn": "9786559821242",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "Real, de Takehiko Inoue, é um mangá seinen de drama e esporte que explora a vida de três jovens cujas trajetórias são alteradas por tragédias que os levam à cadeira de rodas ou a profundas crises pessoais, todos unidos pela paixão pelo basquete (incluindo o basquete em cadeira de rodas). A narrativa acompanha Nomiya Tomomi, um desertor escolar atormentado pela culpa de um acidente de moto que paralisou uma garota; Togawa Kiyoharu, ex-corredor de elite que perde a perna para câncer ósseo e se dedica ao basquete adaptado; e Takahashi Hisanobu, ex-líder arrogante de time escolar que se torna paraplégico após um atropelamento. A obra destaca o realismo psicológico, a superação de barreiras internas e sociais, a marginalização e a busca por propósito e identidade por meio do esporte, com arte detalhada e introspectiva característica do autor.",
+  "exemplar_id": 4984,
+  "sku": "LI02QS",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/real__takehiko-inoue__capa__2026-02-20_10-31-37-876707-000.png",
+  "contracapa": "static/uploads/real__takehiko-inoue__contracapa__2026-02-20_10-31-37-933101-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 982,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Tiago",
+  "subtitulo": "Transformando provas em triunfo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Cristianismo. Prática da fé. Reflexão espiritual.",
+  "palavras_chave": "lopes tiago transformando provas",
+  "edicao_id": 967,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 158,
+  "peso": 300,
+  "isbn": "9788589320887",
+  "editora": "Hagnos",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>A carta de Tiago é um dos livros mais atuais e necessários para a igreja contemporânea. Tiago é comparado ao sermão do monte. Ele tem princípios práticos. Ele tange os grandes temas da vida cristã de forma clara, direta e rica. Tiago está preocupado com a prática do cristianismo. Para ele não basta ter um credo, fazer uma profissão de fé ortodoxa, é preciso viver de forma digna de Deus. A leitura deste livro vai desafiar você a fazer um balanço da sua vida, um diagnóstico da sua experiência cristã. É impossível colocar-se diante do espelho deste livro sem identificar a necessidade de sermos corrigidos por Deus.</p><p>Hernandes Dias Lopes, casado com Udemilta Pimentel Lopes, pai de Tiago e Mariana. Bacharel em Teologia pelo Seminário Presbiteriano do Sul, Campinas, São Paulo e Doutor em Ministério pelo Reformed Theological Seminary de Jackson, Mississippi, Estados Unidos. Pastor da Primeira Igreja Presbiteriana de Vitória, Espírito Santo, desde 1985. Conferencista e escritor, com mais de 100 livros publicados.</p>",
+  "sinopse": "A carta de Tiago é essencial para a vida cristã contemporânea, abordando temas relevantes de forma clara e prática. O autor destaca a importância de viver a fé de maneira digna diante de Deus, desafiando o leitor a refletir sobre sua própria experiência cristã e a necessidade de correção espiritual.",
+  "exemplar_id": 966,
+  "sku": "LI00Q4",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/hernandes-dias-lopes--tiago--capa--20250305--153044.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--tiago--contracapa--20250305--153044.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:23:55",
+  "observacoes": null
+}

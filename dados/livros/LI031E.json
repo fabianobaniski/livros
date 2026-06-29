@@ -1,0 +1,63 @@
+{
+  "obra_id": 5625,
+  "autor": "Yu Kuraishi; Kazu Inabe",
+  "titulo": "Fort of Apocalypse",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Zumbis. Sobrenatural.",
+  "palavras_chave": "kuraishi fort apocalypse",
+  "edicao_id": 5600,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "9788545703747",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>Os dois Bokors se fundem em um bebê gigantesco e perseguem freneticamente o jovem Maeda. Nesta situação de extremo desespero, a última resistência dos detentos começa! No campo de batalha em que vida e morte andam lado a lado, o que os espera é um final trágico ou então...?! A agonizante história de delinquentes e zumbis chega ao fim!</p>",
+  "sinopse": "Os dois Bokors transformam-se em um bebê gigantesco e perseguem Maeda em um desespero extremo, enquanto a última resistência dos detentos se inicia. Em um campo de batalha onde vida e morte coexistem, um final trágico ou surpreendente os aguarda. O emocionante final da saga de delinquentes e zumbis.",
+  "exemplar_id": 5599,
+  "sku": "LI031E",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/fort-of-apocalypse__yu-kuraishi-kazu-inabe__capa__2026-02-24_13-36-43-246598-000.jpg",
+  "contracapa": "static/uploads/fort-of-apocalypse__yu-kuraishi-kazu-inabe__contracapa__2026-02-24_13-36-43-281568-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

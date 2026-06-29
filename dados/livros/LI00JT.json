@@ -1,0 +1,63 @@
+{
+  "obra_id": 750,
+  "autor": "J. Alec Motyer",
+  "titulo": "O comentário de Isaías",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Exegese. Literatura bíblica.",
+  "palavras_chave": "motyer comentario isaias",
+  "edicao_id": 735,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 728,
+  "peso": 1200,
+  "isbn": "9788580380538",
+  "editora": "Shedd Publicações",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Entre os livros proféticos do AT, nenhum outro se iguala a Isaías em estilo e metáfora brilhantes, na impactante visão do Santo de Israel e na multifacetada visão da divina restauração futura de Israel e do mundo. Ao lado dos Salmos, não há outra voz do AT que ecoa com mais força através das páginas do NT. Isaías, como os escritores do NT e os comentaristas cristãos desde Jerônimo reconheceram, transmite o evangelho na linguagem das tradições de Israel.</p><p>É de surpreender que, nos dias atuais, comentários exegéticos evangélicos tenham sido raros. Agora, depois de mais de trinta anos de estudos e ensinos sobre Isaías, Alec Motyer apresenta uma riqueza de comentários e perspectivas sobre este livro.</p><p>Embora sua ênfase seja sobre a dimensão gramatical, histórica, estrutural, literária e teológica do texto, Motyer escreve tendo em vista o significado de Isaías para os cristãos de hoje. Com base no conhecimento do autor do texto hebraico, utilizando a NVI, o comentário acomoda facilmente leitores sem qualquer proficiência da língua original.</p>",
+  "sinopse": "O Comentário de Isaías, de J. Alec Motyer, se destaca por sua riqueza de interpretações e pela clareza com que aborda as complexidades do texto. Com uma abordagem que combina erudição e acessibilidade, Motyer oferece uma visão aprofundada das nuances gramaticais e teológicas, além de ressaltar a relevância da mensagem de Isaías para os cristãos contemporâneos.",
+  "exemplar_id": 734,
+  "sku": "LI00JT",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/j--alec-motyer--o-coment-rio-de-isa-as--capa--20250227--152902.jpg",
+  "contracapa": "static/uploads/j--alec-motyer--o-coment-rio-de-isa-as--contracapa--20250227--152902.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro no geral em ótimo estado, com leves marcas da passagem do tempo, com a ressalva de que há marca de dobra na capa. Miolo em ótimo estado. Texto sem grifos ou anotações. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:57:43",
+  "observacoes": null
+}

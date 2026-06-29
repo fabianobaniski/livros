@@ -1,0 +1,63 @@
+{
+  "obra_id": 2488,
+  "autor": "Janethe Fontes",
+  "titulo": "Doce perseguição",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "fontes doce perseguicao",
+  "edicao_id": 2468,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 247,
+  "peso": 400,
+  "isbn": "9788581081229",
+  "editora": "Giostri",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Graziela tinha apenas quatorze anos de idade quando a irmã fora violentamente assassinada, e ela jurou vingança ao assassino. Essa, porém, seria a missão mais difícil de sua vida, pois, por mais que renegasse seus sentimentos, ela amava o principal suspeito do assassinato. Mas Graziela está disposta a ir até as últimas consequências para descobrir a verdade e cumprir sua promessa, afinal a paz de seu coração depende exclusivamente disso.",
+  "exemplar_id": 2467,
+  "sku": "LI01J4",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/janethe-fontes--doce-perseguicao--capa--20260316--192720.jpg",
+  "contracapa": "static/uploads/janethe-fontes--doce-perseguicao--contracapa--20260316--192720.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ruim",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em mau estado. Foi molhado, empenou. Texto sem prejuízos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:32:24",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 368,
+  "autor": "Lindley Baldwin",
+  "titulo": "Samuel Morris",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Inspiração. Missões.",
+  "palavras_chave": "baldwin samuel morris",
+  "edicao_id": 358,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 82,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Betânia",
+  "numero_edicao": null,
+  "ano": 1991,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>é a prova de que qualquer pessoa pode exercer um ministério transcultural de grande impacto. Sequestrado na África por uma feroz tribo rival, o jovem Samuel foi milagrosamente livre e depois guiado pela selva por uma estranha luz até um acampamento de libertadores de escravos, onde ouviu pela primeira vez o evangelho de Jesus Cristo. Foi então que a luz que brilhava floresta como lâmpada para seus pés tornou-se também luz para sua vida.</p> <p>Numa busca constante de crescimento espiritual, Samuel embarcou como tripulante num veleiro que o parou os Estados Unidos. A princípio sofreu nas mãos de um capitão ímpio e de sua cruel tripulação, mas antes de chegarem a Nova Iorque, já havia conquistado o coração de seus perseguidores.</p> <p>Nos Estados Unidos, Samuel foi o instrumento simples e iletrado que Deus usou para despertar cristãos adormecidos e fazer de uma prestigiosa faculdade evangélica, transforma-se em um celeiro de missionários.</p> <p>A vida de Samuel Morris é comovente e instrutiva: nela você vai aprender como ser usado por Deus em meio a qualquer classe de pessoas.</p>",
+  "sinopse": "A vida de Samuel Morris demonstra que qualquer pessoa pode exercer um ministério transcultural impactante. Após ser sequestrado na África, ele foi libertado de forma milagrosa e guiado por uma luz até um grupo de libertadores de escravos, onde encontrou o evangelho de Jesus Cristo. Sua jornada o levou aos Estados Unidos, onde, apesar das dificuldades, conquistou o coração de seus perseguidores e se tornou um instrumento de Deus, inspirando muitas pessoas e formando missionários.",
+  "exemplar_id": 357,
+  "sku": "LI009E",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/lindley-baldwin--samuel-morris--capa--20250226--133823.jpg",
+  "contracapa": "static/uploads/lindley-baldwin--samuel-morris--contracapa--20250226--133823.jpg",
+  "fotos": [
+    "static/uploads/lindley-baldwin--samuel-morris--foto1--20250226--133823.jpg",
+    "static/uploads/lindley-baldwin--samuel-morris--foto2--20250226--133823.jpg",
+    "static/uploads/lindley-baldwin--samuel-morris--foto3--20250226--133823.jpg",
+    "static/uploads/lindley-baldwin--samuel-morris--foto4--20250226--133823.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro pocket, bem conservado, sem danos na capa, lombada e contracapa, porém bem amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:50:54",
+  "observacoes": null
+}

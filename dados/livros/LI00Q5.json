@@ -1,0 +1,63 @@
+{
+  "obra_id": 983,
+  "autor": "Charles R. Swindoll",
+  "titulo": "Moisés",
+  "subtitulo": "Um homem dedicado e generoso",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. História. Biografia.",
+  "palavras_chave": "swindoll moisés",
+  "edicao_id": 968,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 420,
+  "peso": 400,
+  "isbn": "9788573252095",
+  "editora": "Mundo Cristão",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "Heróis da Fé",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quem? Eu, Senhor?</p><p>A imagem de um Moisés imponente e destemido criada pelo cinema norte-americano dá lugar ao relato bíblico e real de um homem comum, que viveu as dificuldades de sua época com as quais nem sempre soube lidar de maneira perfeita. Apesar das limitações e dos temores e dúvidas que Moisés tinha quanto à sua habilidade e capacitação para a tarefa que Deus lhe designava, ele cedeu à vontade divina e tornou-se uma das personalidades de maior destaque na história do povo judeu, para não dizer na história da humanidade.</p><p>Este livro faz um estudo realista dessa figura não menos notável que a apresentada pelo cinema, porém com uma diferença: demonstra que a fonte de sua força e sucesso estava totalmente nas mãos do Deus Todo-Poderoso, cuja graça soberana moldou o caráter e a personalidade dessa extraordinária figura histórica.</p><p>Moisés – Um Homem Dedicado e Generoso é o quarto volume da série \"Heróis da Fé\", que já conta com outros três livros: Davi, Ester e José.</p>",
+  "sinopse": "Moisés é apresentado como um homem comum que lidou com as dificuldades de sua época. As limitações e temores de Moisés são explorados, mostrando que sua força estava nas mãos de Deus Todo-Poderoso, cuja graça moldou seu caráter e personalidade. Este livro compõe a série 'Heróis da Fé', retratando a figura de Moisés de maneira realista.",
+  "exemplar_id": 967,
+  "sku": "LI00Q5",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 53.0,
+  "capa": "static/uploads/charles-r--swindoll--mois-s--capa--20250305--153115.jpg",
+  "contracapa": "static/uploads/charles-r--swindoll--mois-s--contracapa--20250305--153115.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:41",
+  "observacoes": null
+}

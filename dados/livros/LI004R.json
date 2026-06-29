@@ -1,0 +1,68 @@
+{
+  "obra_id": 193,
+  "autor": "Kimberly Derting",
+  "titulo": "Desejos dos mortos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Mistério. Thriller. Sobrenatural.",
+  "palavras_chave": "derting desejos mortos",
+  "edicao_id": 188,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 286,
+  "peso": 300,
+  "isbn": "9788580571981",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "The Body Finder - Livro Dois",
+  "volume": null,
+  "transcricao_contracapa": "<p>Violet entrou sem avisar. Estava preocupada demais para se importar se alguém poderia vê-la. O som suave das harpas ficou mais forte, até as vibrações se tornarem praticamente dolorosas, e Violet percebeu que estava trincando os dentes.</p> <p>Era convidativo, aquele eco... aquela morte.</p> <p>E Violet estava muito perto.</p> <p>“Um verdadeiro thriller, the body finder fará o leitor andar olhando para trás e se recusar a sair por aí sozinho.” — Booklist</p>",
+  "sinopse": "Em 'Desejos dos mortos', Violet se encontra em uma situação inquietante, cercada por vibrações dolorosas que a levam a sentir a presença de uma morte iminente. O mistério se intensifica quando ela percebe que está mais perto do que nunca de um segredo escondido, enquanto a tensão aumenta ao longo da história.",
+  "exemplar_id": 187,
+  "sku": "LI004R",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/kimberly-derting--desejos-dos-mortos--capa--20250226--133804.jpg",
+  "contracapa": "static/uploads/kimberly-derting--desejos-dos-mortos--contracapa--20250226--133804.jpg",
+  "fotos": [
+    "static/uploads/kimberly-derting--desejos-dos-mortos--foto1--20250226--133804.jpg",
+    "static/uploads/kimberly-derting--desejos-dos-mortos--foto2--20250226--133804.jpg",
+    "static/uploads/kimberly-derting--desejos-dos-mortos--foto3--20250226--133804.jpg",
+    "static/uploads/kimberly-derting--desejos-dos-mortos--foto4--20250226--133804.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:40:50",
+  "observacoes": null
+}

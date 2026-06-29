@@ -1,0 +1,68 @@
+{
+  "obra_id": 1327,
+  "autor": "Lucídio Bianchetti; Paulo Meksenas",
+  "titulo": "A trama do conhecimento",
+  "subtitulo": "Teoria, método e escrita em ciência e pesquisa",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Ciência. Pesquisa.",
+  "palavras_chave": "bianchetti trama conhecimento",
+  "edicao_id": 1311,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 334,
+  "peso": 400,
+  "isbn": "9788530808709",
+  "editora": "Papirus",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Todos nós sabemos dos problemas da educação básica. Mas vale perguntar: e como está, hoje, a formação acadêmica, voltada para a pesquisa?</p><p>Dividido em três partes – teoria, método e escrita –, este livro mostra como é essencial que a formação de pesquisadores esteja integrada a uma cultura institucional que valorize a construção de novos conhecimentos.</p><p>Assim, na primeira parte, os autores discutem alguns contextos de formulação de teorias em ciências humanas, com análises centradas nas políticas de ciência e pesquisa, nas tarefas da intelectualidade e nos problemas decorrentes da prática científica quando esta é pensada na dinâmica social. A segunda parte da obra trata dos métodos, com reflexões sobre os diversos tipos de pesquisa e suas técnicas. Por fim, são abordados os pressupostos da linguagem acadêmica, a fim de qualificar os interessados na redação, na organização e na apresentação de textos científicos.</p>",
+  "sinopse": "O livro A trama do conhecimento analisa os desafios da formação acadêmica em pesquisa, dividindo-se em três partes que discutem teoria, método e escrita. Os autores abordam a necessidade de uma cultura institucional que promova a construção de novos conhecimentos, explorando teorias em ciências humanas e reflexões sobre práticas científicas e tipos de pesquisa.",
+  "exemplar_id": 1310,
+  "sku": "LI00RV",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/luc-dio-bianchetti--a-trama-do-conhecimento--capa--20250401--114912.png",
+  "contracapa": "static/uploads/luc-dio-bianchetti--a-trama-do-conhecimento--contracapa--20250401--114912.png",
+  "fotos": [
+    "static/uploads/luc-dio-bianchetti--a-trama-do-conhecimento--foto1--20250401--114912.jpg",
+    "static/uploads/luc-dio-bianchetti--a-trama-do-conhecimento--foto2--20250401--114912.jpg",
+    "static/uploads/luc-dio-bianchetti--a-trama-do-conhecimento--foto3--20250401--114912.jpg",
+    "static/uploads/luc-dio-bianchetti--a-trama-do-conhecimento--foto4--20250401--114912.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:42:10",
+  "observacoes": "procedencia_biblioteca"
+}

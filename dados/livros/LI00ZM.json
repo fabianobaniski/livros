@@ -1,0 +1,68 @@
+{
+  "obra_id": 1783,
+  "autor": "Luis Mariz",
+  "titulo": "Fala, Galeraaa!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Juventude. Internet. Biografia. Comportamento adolescente.",
+  "palavras_chave": "mariz fala galeraaa",
+  "edicao_id": 1763,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 144,
+  "peso": 290,
+  "isbn": "9788582462874",
+  "editora": "Astral Cultural",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Ele adora macarrão instantâneo, sushi e açaí. Mastiga TODAS as canetas que passam pela sua mão (incluindo as emprestadas) e acha meninas sardentas a coisa mais linda do mundo. Detesta futebol, mas AMA conversar com a galera da internet.</p><p>O <b>LUIS MARIZ</b> tem um jeito todo engraçado de falar sobre as coisas da vida, e, como todo adolescente, tem mais perguntas que respostas. Neste livro você vai descobrir por que mais de 2 milhões e meio de meninos e meninas viraram amigos desse garoto meio doido e muito gente boa.</p><div>AQUI TEM</div><div>YOUTUBE HUMOR BIOGRAFIA</div>",
+  "sinopse": "Luis Mariz compartilha de forma divertida suas experiências, gostos e pensamentos sobre a vida de adolescente, revelando seu jeito único e engraçado que conquistou mais de 2 milhões e meio de seguidores na internet. Misturando humor, relatos pessoais e curiosidades, o livro mostra como esse garoto, que adora conversar, rapidamente virou o amigo de muitos jovens.",
+  "exemplar_id": 1762,
+  "sku": "LI00ZM",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luis-mariz--fala--galeraaa---capa--20250430--102946.jpg",
+  "contracapa": "static/uploads/luis-mariz--fala--galeraaa---contracapa--20250430--102946.jpg",
+  "fotos": [
+    "static/uploads/luis-mariz--fala--galeraaa---foto1--20250430--102946.jpg",
+    "static/uploads/luis-mariz--fala--galeraaa---foto2--20250430--102946.jpg",
+    "static/uploads/luis-mariz--fala--galeraaa---foto3--20250430--102946.jpg",
+    "static/uploads/luis-mariz--fala--galeraaa---foto4--20250430--102946.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:45:16",
+  "observacoes": "procedencia_biblioteca"
+}

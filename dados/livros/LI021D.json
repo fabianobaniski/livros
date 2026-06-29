@@ -1,0 +1,63 @@
+{
+  "obra_id": 3145,
+  "autor": "Luís Freitas Lobo; Prefácio: António Oliveira",
+  "titulo": "Os Magos do Futebol",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": null,
+  "palavras_chave": "lobo magos futebol",
+  "edicao_id": 3125,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 400,
+  "isbn": "9789722512503",
+  "editora": "Bertrand",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro explora o futebol como um fenômeno cultural e histórico que atravessa continentes, refletindo as peculiaridades de diferentes países e suas culturas. Com relatos sobre lendas como Garrincha, Puskas, Maradona e Pelé, a obra aborda estilos de jogo e táticas revolucionárias ao longo do tempo. O autor destaca a magia e poesia do futebol, transformando-o em uma arte que espelha o talento e a criatividade dos jogadores, oferecendo uma visão apaixonante e poética desse esporte global.",
+  "exemplar_id": 3124,
+  "sku": "LI021D",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Lombada alinhada. Miolo firme, sem folhas soltas. Texto livre de sublinhados e anotações. Sem vestígios de umidade, sol excessivo, mofo ou traça. Bordas um pouco oxidadas. Leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:21:15",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

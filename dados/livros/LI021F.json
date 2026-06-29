@@ -1,0 +1,63 @@
+{
+  "obra_id": 3147,
+  "autor": "Sinon Montefiore",
+  "titulo": "Sachenka",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": null,
+  "palavras_chave": "sinon montefiore sachenka",
+  "edicao_id": 3127,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 493,
+  "peso": 900,
+  "isbn": "9789896221607",
+  "editora": "Aletheia",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Inverno de 1916: a Rússia está à beira da revolução. Bonita e obstinada, Sachenka Zeitlin tem somente 16 anos. Vinte anos depois, está casada com um poderoso líder do Exército Vermelho, com quem tem dois filhos. O terror do stalinismo assombra a todos, enquanto sua família está segura no conforto da elite. Tudo poderá mudar quando Sashenka fica prestes a embarcar em um amor proibido, que lhe trará conseqüências devastadoras.",
+  "exemplar_id": 3126,
+  "sku": "LI021F",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Texto sem anotações ou sublinhados. Miolo firme, sem folhas soltas. Lombada bem alinhada. Não possui marca de umidade, sol excessivo, traça ou mofo. Papel um pouco amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 17:16:18",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

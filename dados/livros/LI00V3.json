@@ -1,0 +1,68 @@
+{
+  "obra_id": 1453,
+  "autor": "Kenneth E. Hagin",
+  "titulo": "A arte da intercessão",
+  "subtitulo": "Manual de como interceder",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Intercessão.",
+  "palavras_chave": "hagin arte intercessao manual",
+  "edicao_id": 1434,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 163,
+  "peso": 200,
+  "isbn": "9788573430110",
+  "editora": "Graça Editorial",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Todo grupo de oração e toda igreja não podem deixar de ler este livro</p> <p>Conhecida pelos primeiros pentecostais, a arte da oração intercessória ficou esquecida nos dias atuais. Para Deus realizar aquilo que Ele deseja, a arte da intercessão precisa ser “ressuscitada” na igreja. Neste livro, Kenneth E. Hagin mostra como isso pode ser feito e afirma: Cremos que Deus usará este livro para trazer a existência [a oração de intercessão] e treinar um grupo de intercessores que estará na vanguarda da obra do Senhor nestes últimos dias. Este livro é uma necessidade para todo grupo de oração e toda igreja.</p> <p>Dentre os capítulos dessa importante obra, destacam-se: Intercedendo pela sua nação; Intercedendo pelos perdidos; Jesus: nosso Intercessor; Reavivando a arte da intercessão; Intercessão pelo livramento; O Espírito Santo: gemidos e angústias.</p>",
+  "sinopse": "Neste livro, Kenneth E. Hagin revela a importância da arte da intercessão na igreja atual. Com uma reflexão sobre como reavivar este ministério, o autor oferece insights para treinar intercessores e destaca capítulos que tratam de temas como intercessão pela nação e pelos perdidos. Ideal para grupos de oração que buscam fortalecer sua prática espiritual.",
+  "exemplar_id": 1433,
+  "sku": "LI00V3",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/kenneth-e--hagin--a-arte-da-intercess-o--capa--20250401--115734.jpg",
+  "contracapa": "static/uploads/kenneth-e--hagin--a-arte-da-intercess-o--contracapa--20250401--115734.jpg",
+  "fotos": [
+    "static/uploads/kenneth-e--hagin--a-arte-da-intercess-o--foto1--20250401--115734.jpg",
+    "static/uploads/kenneth-e--hagin--a-arte-da-intercess-o--foto2--20250401--115734.jpg",
+    "static/uploads/kenneth-e--hagin--a-arte-da-intercess-o--foto3--20250401--115734.jpg",
+    "static/uploads/kenneth-e--hagin--a-arte-da-intercess-o--foto4--20250401--115734.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:08:01",
+  "observacoes": null
+}

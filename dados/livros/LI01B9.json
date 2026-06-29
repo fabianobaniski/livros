@@ -1,0 +1,68 @@
+{
+  "obra_id": 2204,
+  "autor": "Henrique Altemani; Antônio Carlos Lessa",
+  "titulo": "Relações Internacionais do Brasil",
+  "subtitulo": "Temas e agendas",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "Relações internacionais. Política externa brasileira. Parcerias internacionais. Multilateralismo.",
+  "palavras_chave": "altemani relacoes internacionais brasil temas agendas",
+  "edicao_id": 2184,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 356,
+  "peso": 570,
+  "isbn": "9788502060425",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Organizado por Henrique Altemani de Oliveira e Antônio Carlos Lessa, <b>Relações Internacionais do Brasil: temas e agendas</b> aborda em dois volumes os principais assuntos que circundam a prática dos estudos internacionais no País. As obras nos ajudam a entender os rumos das relações nacionais com o restante do mundo ao longo do tempo.</p> <p>Este primeiro volume de <b>Relações Internacionais do Brasil: temas e agendas</b> está dividido em três partes: Linha de Força, As Antigas e as Novas Parcerias e O Brasil e o seu Entorno, nos quais os autores discorrem sobre as linhas de força da ação internacional do País, o redimensionamento das parcerias e o multilateralismo político e econômico.</p> <p>O segundo volume expõe a abertura de horizontes na direção da incorporação de novos temas, até recentemente inéditos, na agenda externa do Brasil quanto na reflexão crítica de tais assuntos.</p>",
+  "sinopse": "Organizado por Henrique Altemani e Antônio Carlos Lessa, este primeiro volume de 'Relações internacionais do Brasil: temas e agendas' reúne e discute os principais temas dos estudos internacionais no país. Dividido em três partes, o livro aborda as linhas de força da ação internacional do Brasil, o redimensionamento das parcerias e o multilateralismo político e econômico, ajudando a compreender como o Brasil se relaciona com o mundo ao longo do tempo.",
+  "exemplar_id": 2183,
+  "sku": "LI01B9",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/henrique-altemani--rela--es-internacionais-do-brasil--capa--20250430--105057.jpg",
+  "contracapa": "static/uploads/henrique-altemani--rela--es-internacionais-do-brasil--contracapa--20250430--105057.jpg",
+  "fotos": [
+    "static/uploads/henrique-altemani--rela--es-internacionais-do-brasil--foto1--20250430--105057.jpg",
+    "static/uploads/henrique-altemani--rela--es-internacionais-do-brasil--foto2--20250430--105057.jpg",
+    "static/uploads/henrique-altemani--rela--es-internacionais-do-brasil--foto3--20250430--105057.jpg",
+    "static/uploads/henrique-altemani--rela--es-internacionais-do-brasil--foto4--20250430--105057.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:42:37",
+  "observacoes": "procedencia_biblioteca"
+}

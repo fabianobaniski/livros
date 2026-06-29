@@ -1,0 +1,68 @@
+{
+  "obra_id": 1282,
+  "autor": "eliane cavalleiro",
+  "titulo": "Racismo e anti-racismo na educação",
+  "subtitulo": "Repensando nossa escola",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Racismo. Antirracismo.",
+  "palavras_chave": "cavalleiro racismo anti racismo educacao",
+  "edicao_id": 1266,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 213,
+  "peso": 300,
+  "isbn": "9788587478146",
+  "editora": "Selo Negro",
+  "numero_edicao": 4,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Como integrar a temática racismo ao refletirmos sobre o tipo de educação que queremos?</p> <p>Como o ambiente educacional organiza seu cotidiano para a presença do preconceito, de discriminações raciais diárias? Sob diferentes óticas, autores e autoras examinam nessa obra desde os livros infanto-juvenis, presentes nesse universo, até algumas revistas especializadas em educação. O trato pedagógico vai traçando, nas análises, referências à África, aos PCNs, às questões sobre letramento, até uma inevitável comparação com o modelo norte-americano que envolve relações raciais e educação. Auto-estima e embranquecer para ser aceito são algumas das polêmicas questões que nos dão dicas sobre nossa responsabilidade por um ambiente anti-racista na escola. São reflexões construídas por pessoas militantes, e na maioria negras. Baseadas na observação sensível desse cotidiano, tiram da invisibilidade e do silêncio práticas racistas e contribuem para iniciativas que assumem com responsabilidade uma educação anti-racista.</p>",
+  "sinopse": "O livro aborda como integrar a temática do racismo na reflexão sobre a educação desejada. Com uma análise de diferentes perspectivas, examina a presença do preconceito e das discriminações raciais diárias no ambiente escolar, incluindo referências à literatura infanto-juvenil e revistas especializadas. A obra discute a responsabilidade de oferecer uma educação anti-racista, refletindo sobre o cotidiano e práticas que desafiam o silêncio e a invisibilidade das questões raciais.",
+  "exemplar_id": 1265,
+  "sku": "LI00QM",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/eliane-cavalleiro--racismo-e-anti-racismo-na-educa--o--capa--20250401--114905.png",
+  "contracapa": "static/uploads/eliane-cavalleiro--racismo-e-anti-racismo-na-educa--o--contracapa--20250401--114905.png",
+  "fotos": [
+    "static/uploads/eliane-cavalleiro--racismo-e-anti-racismo-na-educa--o--foto1--20250401--114905.jpg",
+    "static/uploads/eliane-cavalleiro--racismo-e-anti-racismo-na-educa--o--foto2--20250401--114905.jpg",
+    "static/uploads/eliane-cavalleiro--racismo-e-anti-racismo-na-educa--o--foto3--20250401--114905.jpg",
+    "static/uploads/eliane-cavalleiro--racismo-e-anti-racismo-na-educa--o--foto4--20250401--114905.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. / Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:26:26",
+  "observacoes": "procedencia_biblioteca"
+}

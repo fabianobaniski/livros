@@ -1,0 +1,63 @@
+{
+  "obra_id": 3078,
+  "autor": "Raul Emrich Melo",
+  "titulo": "Reação Imediata",
+  "subtitulo": "Romance Histórico",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": null,
+  "palavras_chave": "melo reacao imediata romance",
+  "edicao_id": 3058,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 300,
+  "peso": 550,
+  "isbn": "9788576361312",
+  "editora": "Asbai",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este romance histórico explora a evolução da medicina e da especialidade de Alergia-Imunologia desde a segunda metade do século XX até os dias de hoje. Através de quatro camadas narrativas, a obra aborda o contexto político-cultural, a história global da imunologia, o crescimento da especialidade no Brasil e as angústias do protagonista, Dr. Alfeu, um ícone da área médica. Com uma trajetória de vida notável, Alfeu é retratado como um self-made man, cuja dedicação à ciência o levou ao mais alto reconhecimento, celebrando a medicina como um dos maiores legados culturais da humanidade.",
+  "exemplar_id": 3057,
+  "sku": "LI01ZI",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "A incrível história da Alergia-Imunologia e da sua Sociedade Brasileira. / Livro em excelente estado, sem danos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:39:16",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

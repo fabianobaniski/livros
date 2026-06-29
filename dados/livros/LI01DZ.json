@@ -1,0 +1,68 @@
+{
+  "obra_id": 2302,
+  "autor": "Alfonso Blanco Nespereira",
+  "titulo": "1000 ejercicios de musculación",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "nespereira 1000 ejercicios musculacion",
+  "edicao_id": 2282,
+  "encadernacao": null,
+  "quantidade_paginas": 538,
+  "peso": 473,
+  "isbn": "9788486475802",
+  "editora": "Paidotribo",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A primeira parte cobre as bases teóricas da musculação, incluindo conceitos, objetivos, desenvolvimento, tipos de força e planejamento de treinamento. A segunda parte é prática, detalhando exercícios para diferentes grupos musculares (braços, pernas, tronco) usando várias técnicas e equipamentos, como autocargas, trabalho em duplas, halteres, balões medicinais, calçados com peso e discos de halterofilismo.",
+  "exemplar_id": 2281,
+  "sku": "LI01DZ",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/alfonso-blanco-nespereira--1000-ejercicios-de-musculacion--capa--20251020--203549.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/alfonso-blanco-nespereira--1000-ejercicios-de-musculacion--foto1--20251020--203524.jpg",
+    "static/uploads/alfonso-blanco-nespereira--1000-ejercicios-de-musculacion--foto2--20251020--203524.jpg",
+    "static/uploads/alfonso-blanco-nespereira--1000-ejercicios-de-musculacion--foto3--20251020--203524.jpg",
+    "static/uploads/alfonso-blanco-nespereira--1000-ejercicios-de-musculacion--foto4--20251020--203524.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Obra com , ricamente ilustrada em preto e branco. Texto livre de anotações ou sublinhados. Ótima conservação. Há, apenas, pequeno carimbo de livraria na parte interna da contracapa. Papel um pouco oxidado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:04:09",
+  "observacoes": null
+}

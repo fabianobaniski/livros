@@ -1,0 +1,63 @@
+{
+  "obra_id": 2830,
+  "autor": "Piet Legay",
+  "titulo": "Os passageiros do tempo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "legay passageiros tempo",
+  "edicao_id": 2810,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 97,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Grafipar",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em uma jornada galáctica rumo a Triton, o planeta obscuro, os astronautas da nave YC-10 se deparam com passageiros misteriosos que desafiam sua compreensão do tempo e do destino. Annalise e Heya, as duas mulheres a bordo, jamais poderiam imaginar as reviravoltas que enfrentariam. Escravos de um destino inimaginável, eles se veem presos a eventos que transcendem suas expectativas, enquanto segredos sobre o espaço e o tempo começam a se revelar, mudando o curso de suas vidas para sempre.",
+  "exemplar_id": 2809,
+  "sku": "LI01SM",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/os-passageiros-do-tempo-piet-legay-capa_rev1574.jpg",
+  "contracapa": "static/uploads/os-passageiros-do-tempo-piet-legay-contracapa_rev617.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:21:58",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2834,
+  "autor": "Aurelino Kovalski",
+  "titulo": "Os polacos de Água Branca",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Brasil",
+  "temas": "",
+  "palavras_chave": "kovalski polacos agua branca",
+  "edicao_id": 2814,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 300,
+  "isbn": "9788592280901",
+  "editora": "Optagraf",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A comunidade de Água Branca, em São Mateus do Sul, guarda fortes raízes polonesas que marcaram sua história e cultura. Neste livro, Aurelino Kovalski explora a saga dos primeiros imigrantes poloneses que chegaram à região no fim do século XIX, detalhando suas tradições, desafios e conquistas. A obra traz uma rica pesquisa documental e busca preservar a memória desses colonos, oferecendo um olhar profundo sobre a contribuição polonesa para a identidade local. É uma leitura essencial para quem deseja compreender essa parte da história regional.",
+  "exemplar_id": 2813,
+  "sku": "LI01SQ",
+  "preco_estante_virtual": 32.0,
+  "preco_amazon": 32.0,
+  "capa": "static/uploads/os-polacos-de-agua-branca-aurelino-kovalski-capa_rev578.jpg",
+  "contracapa": "static/uploads/os-polacos-de-agua-branca-aurelino-kovalski-contracapa_rev98.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:25:57",
+  "observacoes": null
+}

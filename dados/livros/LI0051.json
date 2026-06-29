@@ -1,0 +1,68 @@
+{
+  "obra_id": 204,
+  "autor": "Nath Finanças",
+  "titulo": "Orçamento sem falhas",
+  "subtitulo": "Saia do vermelho e aprenda a poupar com pouco dinheiro",
+  "idioma": "Português",
+  "categoria": "Economia",
+  "temas": "Finanças pessoais. Economia doméstica. Planejamento financeiro.",
+  "palavras_chave": "financas orcamento falhas",
+  "edicao_id": 198,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 125,
+  "peso": 200,
+  "isbn": "9786555601565",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2021,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em <i>Orçamento sem falhas</i>, Nath Finanças vai ajudar você a melhorar sua relação com o dinheiro, refletir onde é possível economizar, parar com os gastos desnecessários, entender todos os nomes que aparecem no aplicativo do banco e se organizar para enfim pagar as dívidas.</p> <p>Mas sair do vermelho e ter dinheiro no fim do mês é apenas o começo: com os conselhos e dicas da Nath, você também vai aprender a poupar para sua reserva de emergência, entender melhor sobre investimentos e fazer planos viáveis para os próximos anos.</p>",
+  "sinopse": "Neste guia, Nath Finanças oferece dicas eficazes para melhorar sua relação com o dinheiro, ajudando a economizar e a organizar suas finanças. O livro aborda desde como sair do vermelho até a construção de uma reserva de emergência, promovendo um entendimento mais profundo sobre investimentos e planejamento financeiro para o futuro.",
+  "exemplar_id": 197,
+  "sku": "LI0051",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/nath-finan-as--or-amento-sem-falhas--capa--20250226--133805.jpg",
+  "contracapa": "static/uploads/nath-finan-as--or-amento-sem-falhas--contracapa--20250226--133805.jpg",
+  "fotos": [
+    "static/uploads/nath-finan-as--or-amento-sem-falhas--foto1--20250226--133805.jpg",
+    "static/uploads/nath-finan-as--or-amento-sem-falhas--foto2--20250226--133805.jpg",
+    "static/uploads/nath-finan-as--or-amento-sem-falhas--foto3--20250226--133805.jpg",
+    "static/uploads/nath-finan-as--or-amento-sem-falhas--foto4--20250226--133805.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:39",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2681,
+  "autor": "Luiz Carlos de Souza",
+  "titulo": "Maralto",
+  "subtitulo": "Relato de uma pesca perigosa",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "souza maralto relato uma",
+  "edicao_id": 2661,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 97,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Civilização Brasileira",
+  "numero_edicao": null,
+  "ano": 1976,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Maralto é uma tocante reportagem sobre a árdua e silenciosa batalha dos pescadores profissionais. Com base em sua própria vivência a bordo de uma traineira, Luiz Carlos de Souza traz um relato sensível e profundo, capturando o sacrifício e a coragem dos trabalhadores do mar. As páginas revelam dramas, medos, solidão, heroísmo e desespero, expondo a exploração humana em seu microcosmo. É uma reflexão sobre os limites da vida e a busca incessante de sobrevivência nas vastidões do mar.",
+  "exemplar_id": 2660,
+  "sku": "LI01OH",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maralto-luiz-carlos-de-souza-capa_rev1415.jpg",
+  "contracapa": "static/uploads/maralto-luiz-carlos-de-souza-contracapa_rev1593.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 18:00:41",
+  "observacoes": null
+}

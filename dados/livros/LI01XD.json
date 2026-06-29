@@ -1,0 +1,63 @@
+{
+  "obra_id": 3001,
+  "autor": "Yu Pi Yueh",
+  "titulo": "A Virtude das Flores",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Outros Assuntos",
+  "temas": null,
+  "palavras_chave": "yueh virtude das flores",
+  "edicao_id": 2981,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 350,
+  "isbn": "9788571648746",
+  "editora": "Paulos",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 2980,
+  "sku": "LI01XD",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:46:33",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 916,
+  "autor": "Thomas Nelson",
+  "titulo": "Vestibular bíblico",
+  "subtitulo": "Avalie e desenvolva seu conhecimento da Bíblia Sagrada",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Conhecimento bíblico.",
+  "palavras_chave": "nelson vestibular biblico",
+  "edicao_id": 901,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 430,
+  "peso": 700,
+  "isbn": "9788578607234",
+  "editora": "Thomas Nelson",
+  "numero_edicao": 1,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Então você acha que conhece bem a Bíblia?</h1> <p>Uma das maiores necessidades do cristão é, sem dúvida, aprimorar e aprofundar seu conhecimento sobre Deus, por intermédio da Bíblia — isso garante sua aprovação na escola da vida. Esse processo se dá de diversas formas: mensagens, estudos, lições da escola dominical, aulas de seminário etc. Mas como avaliar seu progresso? Como consolidar esse conteúdo na mente e no coração?</p> <p>No <i>Vestibular bíblico Thomas Nelson</i>, o leitor que procura desenvolver seu entendimento das Escrituras vai encontrar mais de três mil perguntas e respostas sobre os mais variados assuntos da Bíblia. Tudo isso vai enriquecer e facilitar sua busca, além de tornar cada vez mais amplo e sólido seu conhecimento a respeito de Deus, revelado na Palavra.</p>",
+  "sinopse": "O livro 'Vestibular bíblico Thomas Nelson' é uma ferramenta essencial para quem deseja aprofundar seu conhecimento sobre as Escrituras. Com mais de três mil perguntas e respostas sobre diversos temas, o material promete enriquecer a compreensão bíblica e facilitar a busca por conhecimento. Ideal para cristãos que buscam aprovação na escola da vida e a consolidação de seu entendimento na mente e no coração.",
+  "exemplar_id": 900,
+  "sku": "LI00OA",
+  "preco_estante_virtual": 38.0,
+  "preco_amazon": 37.0,
+  "capa": "static/uploads/thomas-nelson--vestibular-b-blico--capa--20250227--152913.jpg",
+  "contracapa": "static/uploads/thomas-nelson--vestibular-b-blico--contracapa--20250227--152913.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:57",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3085,
+  "autor": "Pierre Vayer; Denis Trudelle",
+  "titulo": "Como Aprende a Criança",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "vayer como aprende crianca",
+  "edicao_id": 3065,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 167,
+  "peso": 350,
+  "isbn": "9789727711598",
+  "editora": "Instituto Piaget",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A criança tem tudo a aprender. O adulto tem sempre o desejo de a ensinar. Mas será que o que o adulto deseja ensinar à criança, corresponde ao que a criança deseja? O que se propõe, aqui, é um outro modelo de compreensão do que é, efectivamente, a aprendizagem da criança. O importante não é saber o que se deve ensinar à criança, mas como ela aprende, como constrói a sua pessoa e o seu conhecimento do mundo. A criança possui em si mesma os meios para o seu próprio desenvolvimento. O desenvolvimento da criança é uma autoconstrução...",
+  "exemplar_id": 3064,
+  "sku": "LI01ZP",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, embora amarelado pela ação do tempo. Não possui anotações, sublinhados, rabiscos, rasgos, amassados, sinal de umidade, mofo ou exposição excessiva ao sol. Miolo íntegro, sem folhas soltas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:48:36",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

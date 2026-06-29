@@ -1,0 +1,63 @@
+{
+  "obra_id": 2642,
+  "autor": "Terry Lynn Taylor; Mary Beth Crain",
+  "titulo": "La sabiduria del ángel",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "taylor sabiduria del angel",
+  "edicao_id": 2622,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 400,
+  "isbn": "950071227X",
+  "editora": "Editorial Sudamericana",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro oráculo oferece mensagens dos anjos que iluminam o caminho e trazem esperança em momentos difíceis. Com ensinamentos celestiais, ele ajuda a perceber sinais e respostas aos desafios da vida, mostrando que onde há vida, há alegria. Cada página contém meditações que conectam o leitor com sua energia criativa, auxiliando no crescimento pessoal. Não importa o quão desafiadora seja a jornada, sempre haverá um anjo guardião oferecendo luz e orientação. Uma obra de inspiração para encontrar sentido e paz diariamente.",
+  "exemplar_id": 2621,
+  "sku": "LI01NE",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/terry-lynn-taylor--la-sabiduria-del-angel--capa--20260316--214218.jpg",
+  "contracapa": "static/uploads/terry-lynn-taylor--la-sabiduria-del-angel--contracapa--20260316--214219.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Apresenta apenas leves sinais deixados pelo uso. Texto sem anotações ou sublinhados. Há pequeno selo de livraria na primeira folha. Não consta a quantidade de páginas, mas passa de 200."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:02:56",
+  "observacoes": null
+}

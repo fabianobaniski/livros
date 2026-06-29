@@ -1,0 +1,63 @@
+{
+  "obra_id": 5146,
+  "autor": "Muneyuki Kaneshiro; Kensuke Nishida",
+  "titulo": "Jagaaan / Jagan",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Anti-herói. Parasitas.",
+  "palavras_chave": "kaneshiro jagaan",
+  "edicao_id": 5121,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 212,
+  "peso": 200,
+  "isbn": "9786555121957",
+  "editora": "Planet Manga",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Conheça a Equipe Especial de Análise de Sucumbidos!!!! Jagasaki se junta ao grupo para deter seu inimigo parasita, Chiharu!</p><p>Sob o comando do capitão Mikazuchi, de corpo mais resistente que um diamante, Jagaan ultrapassa seus limites para lutar contra os sucumbidos malignos!</p><p>Além disso, um sucumbido possui o corpo de uma universitária e começa a se apaixonar na república onde vive?!</p><p>Não perca o alucinante sexto volume da aventura do anti-herói da destruição e dos desejos!!</p>",
+  "sinopse": "Jagasaki se junta à Equipe Especial de Análise de Sucumbidos para enfrentar o inimigo parasita Chiharu. Com o capitão Mikazuchi, Jagaan ultrapassa limites para combater os sucumbidos malignos. Enquanto isso, um sucumbido apaixona-se por uma universitária possuída. Acompanhe o sexto volume repleto de aventura e desejo.",
+  "exemplar_id": 5120,
+  "sku": "LI02UA",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/jagaan__muneyuki-kaneshiro-kensuke-nishida__capa__2026-02-20_10-32-19-309040-000.png",
+  "contracapa": "static/uploads/jagaan__muneyuki-kaneshiro-kensuke-nishida__contracapa__2026-02-20_10-32-19-354572-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, adquirido de colecionador, em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

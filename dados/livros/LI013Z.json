@@ -1,0 +1,68 @@
+{
+  "obra_id": 1941,
+  "autor": "Alfredo Pena-Vega; Cleide R. S. Almeida; Izabel Petraglia",
+  "titulo": "Edgar Morin",
+  "subtitulo": "Ética, Cultura e Educação",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Filosofia da educação. Globalização.",
+  "palavras_chave": "pena-vega edgar morin",
+  "edicao_id": 1921,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 175,
+  "peso": 290,
+  "isbn": "9788524908286",
+  "editora": "Cortez",
+  "numero_edicao": 3,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nós devemos pensar o ensino a partir da consideração dos efeitos cada vez mais graves da hiperespecialização dos saberes e da incapacidade para articulá-los uns com os outros. A hiperespecialização impede que se veja o global (que ela fragmenta em parcelas), assim como o essencial (que ela dissolve). Ora, os problemas essenciais nunca são parciais e os problemas globais são cada vez mais essenciais. Além disso, nenhum problema particular pode ser formulado e pensado corretamente fora de seu contexto, e seu próprio contexto deve ser inserido mais e mais no contexto planetário global.</p>",
+  "sinopse": "O livro propõe uma reflexão sobre o ensino a partir dos desafios impostos pela hiperespecialização dos saberes e pela dificuldade de articulação entre diferentes áreas do conhecimento. Discute-se o impacto dessa fragmentação na compreensão do global e do essencial, ressaltando a importância de inserir os problemas particulares em um contexto planetário e global, conforme o pensamento de Edgar Morin.",
+  "exemplar_id": 1920,
+  "sku": "LI013Z",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/alfredo-pena-vega--edgar-morin--capa--20250430--104304.jpg",
+  "contracapa": "static/uploads/alfredo-pena-vega--edgar-morin--contracapa--20250430--104304.jpg",
+  "fotos": [
+    "static/uploads/alfredo-pena-vega--edgar-morin--foto1--20250430--104304.jpg",
+    "static/uploads/alfredo-pena-vega--edgar-morin--foto2--20250430--104304.jpg",
+    "static/uploads/alfredo-pena-vega--edgar-morin--foto3--20250430--104304.jpg",
+    "static/uploads/alfredo-pena-vega--edgar-morin--foto4--20250430--104304.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:51:11",
+  "observacoes": "procedencia_biblioteca"
+}

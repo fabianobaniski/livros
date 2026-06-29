@@ -1,0 +1,63 @@
+{
+  "obra_id": 2631,
+  "autor": "José Sérgio Fonseca Carvalho",
+  "titulo": "José Mário Pires Azanha",
+  "subtitulo": "Coleção Educadores (MEC)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "carvalho jose mario pires",
+  "edicao_id": 2611,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 199,
+  "isbn": "9788570195180",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2610,
+  "sku": "LI01N3",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jose-sergio-fonseca-carvalho--jose-mario-pires-azanha--capa--20260316--213725.jpg",
+  "contracapa": "static/uploads/jose-sergio-fonseca-carvalho--jose-mario-pires-azanha--contracapa--20260316--213725.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:54:17",
+  "observacoes": null
+}

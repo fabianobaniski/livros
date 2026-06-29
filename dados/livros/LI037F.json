@@ -1,0 +1,68 @@
+{
+  "obra_id": 5842,
+  "autor": "Gerald Messadié",
+  "titulo": "Sócrates e Xantipa",
+  "subtitulo": "Um crime em Atenas",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Filosofia. História antiga. Romance policial. Sócrates. Grécia antiga.",
+  "palavras_chave": "messadie socrates xantipa crime atenas",
+  "edicao_id": 5817,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 350,
+  "peso": 520,
+  "isbn": "9788528609875",
+  "editora": "Bertrand Brasil",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Sócrates e Xantipa</b></p><p>UM ROMANCE POLICIAL E FILOSÓFICO NO SÉCULO DE PÉRICLES</p><p>SÓCRATES, o mais célebre dos filósofos, não tinha medo de morrer, mas temia a sua mulher, Xantipa. Certamente, devia ter as suas razões para isso, pois, ao tomar conhecimento de um crime em Atenas, ela incute a ideia de encontrar o seu autor, comprometendo com isso toda a sociedade ateniense. E que sociedade! Nada menos que o ilustre século de Péricles.</p><p>ALCIBÍADES, o favorito de Sócrates, o aventureiro extravagante, estará comprometido com esse crime? E por que o grande Péricles deixou a sua mulher e correu para os braços de Aspásia, a cafetina mais célebre da Antiguidade? Trata-se da era de ouro da democracia e das artes de Atenas, uma época, porém, semeada de espiões e repleta de escândalos; um dédalo de corrupção recheado de superstições. Todas as noites, o vício e a loucura vêm jantar com o gênio, e, quando Aspásia dá uma festa, quais não serão os convidados?!? Sófocles, Fídias, Aristóteles, Anaxágoras...</p><p>QUANDO Xantipa encontra o inspirador do crime, é a própria mão da História que se abate sobre ele, encerrando o capítulo mais célebre da Antiguidade.</p><p>DE uma insolência e inspiração que misturam realidade e ficção, Gerald Messadié retira a Grécia do endurecido gesso da História. O autor restitui um cotidiano sem maquiagens, mas com cores que jamais ousamos imaginar.</p>",
+  "sinopse": "Em meio ao século de Péricles, Sócrates teme mais a sua mulher Xantipa do que a própria morte. Quando um crime intriga Atenas, Xantipa decide investigar, arrastando consigo figuras célebres como Alcibíades e Péricles para um cenário repleto de escândalos, corrupção e superstições. A trama policial e filosófica envolve festas, conspirações e personagens históricos da essência da democracia ateniense. Ao descobrir o verdadeiro criminoso, Xantipa testemunha a História resolvendo um dos episódios mais famosos da Antiguidade, em uma narrativa que mistura realidade e ficção com vivacidade.",
+  "exemplar_id": 5816,
+  "sku": "LI037F",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/socrates-e-xantipa__um-crime-em-atenas__gerald-messadie__capa__2026-01-18_14-12-09-625516-000.png",
+  "contracapa": "static/uploads/socrates-e-xantipa__um-crime-em-atenas__gerald-messadie__contracapa__2026-01-18_14-12-09-660393-001.png",
+  "fotos": [
+    "static/uploads/socrates-e-xantipa__um-crime-em-atenas__gerald-messadie__foto-01__2026-01-18_14-12-09-697292-002.jpg",
+    "static/uploads/socrates-e-xantipa__um-crime-em-atenas__gerald-messadie__foto-02__2026-01-18_14-12-09-742768-003.jpg",
+    "static/uploads/socrates-e-xantipa__um-crime-em-atenas__gerald-messadie__foto-03__2026-01-18_14-12-09-774864-004.jpg",
+    "static/uploads/socrates-e-xantipa__um-crime-em-atenas__gerald-messadie__foto-04__2026-01-18_14-12-09-814117-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:34:38",
+  "observacoes": null
+}

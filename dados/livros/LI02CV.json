@@ -1,0 +1,68 @@
+{
+  "obra_id": 3564,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Terror. Suspense. Transformação.",
+  "palavras_chave": "oshimi happiness",
+  "edicao_id": 3541,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788583621980",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>O <b>sangue</b> dele foi a coisa mais <b>deliciosa</b> que eu já experimentei.</p><p>Makoto <b>não resistiu</b> à “<b>sede</b>” e <b>bebeu o sangue</b> do Yuuki junto com o <b>misterioso</b> Saku.</p><p>Mais tarde, <b>Yuuki</b> e os <b>antigos colegas desapareceram</b>.</p><p>Saku <b>reaparece</b> para <b>matar</b> Makoto, o <b>único sobrevivente</b>, mas é impedido por Nora, que tinha <b>atacado</b> o Makoto “<b>naquela noite</b>”.</p><p>Makoto <b>segue o cheiro de sangue</b> pela noite e consegue encontrar Yuuki, mas <b>novas transformações</b> começam a ocorrer...</p>",
+  "sinopse": "Makoto sucumbe à sede e bebe o sangue de Yuuki, junto com o enigmático Saku. Logo, Yuuki e outros colegas desaparecem misteriosamente. Saku retorna para matar Makoto, o único que sobreviveu, mas acaba sendo impedido por Nora, que também havia atacado Makoto anteriormente. Seguindo o rastro de sangue pela noite, Makoto consegue encontrar Yuuki, porém novas e perturbadoras transformações começam a acontecer.",
+  "exemplar_id": 3540,
+  "sku": "LI02CV",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2025-11-05_16-16-39-989336.jpg",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2025-11-05_16-16-40-020367.jpg",
+  "fotos": [
+    "static/uploads/happiness__shuzo-oshimi__foto-01__2025-11-05_16-16-40-055321.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-02__2025-11-05_16-16-40-081866.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-03__2025-11-05_16-16-40-101229.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-04__2025-11-05_16-16-40-435600.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:46:02",
+  "observacoes": null
+}

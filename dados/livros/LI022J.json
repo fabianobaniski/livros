@@ -1,0 +1,63 @@
+{
+  "obra_id": 3187,
+  "autor": "Ana Maria Petraitis Liblik; Outros",
+  "titulo": "Contextos Educacionais",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "liblik contextos educacionais",
+  "edicao_id": 3167,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 187,
+  "peso": 150,
+  "isbn": "9788565704632",
+  "editora": "Intersaberes",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro explora o conceito de contexto educativo, enfatizando que a educação vai além da sala de aula, abrangendo também os espaços externos e a comunidade. A obra apresenta um breve histórico das transformações da escola, destacando o modelo de educação integral e integradora de conteúdos. Além disso, propõe práticas educativas inovadoras que dialogam com o entorno escolar, promovendo a integração entre escola e comunidade. Uma leitura essencial para repensar a educação como um processo amplo e inclusivo.",
+  "exemplar_id": 3166,
+  "sku": "LI022J",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:12:56",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

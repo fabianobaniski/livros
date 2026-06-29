@@ -1,0 +1,68 @@
+{
+  "obra_id": 1493,
+  "autor": "Patricia Lages",
+  "titulo": "Bolsa blindada",
+  "subtitulo": "Dicas e passos práticos para tornar a sua vida financeira à prova de fracassos",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Finanças pessoais. Empoderamento feminino.",
+  "palavras_chave": "lages bolsa",
+  "edicao_id": 1474,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 212,
+  "peso": 350,
+  "isbn": "9788578604233",
+  "editora": "Thomas Nelson Brasil",
+  "numero_edicao": 1,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Atitudes positivas para sair do negativo.</h1> <p>O mês ainda não chegou ao fim, ainda há contas a pagar, mas você constata que não há dinheiro na carteira nem no banco. Pior: a dívida do cheque especial ou do cartão de crédito só aumenta. Ninguém gosta de viver endividado ou com dinheiro contado, mas quando não há controle sobre a renda, a tendência é que os problemas financeiros se transformem numa bola de neve. E pode ter certeza: Deus não deseja ver ninguém martirizado por isso.</p> <p>Foi pensando em ajudar as pessoas a se planejar e se organizar que a jornalista e publicitária Patricia Lages criou este manual de finanças pessoais, voltado especialmente para as mulheres. Em linguagem acessível, bem-humorada e repleto de histórias pessoais, o livro desmistifica o <i>economês</i>, mostrando como identificar os inimigos do orçamento doméstico. A autora ensina como planejar gastos pessoais e familiares, criar uma poupança para as emergências e até investir. Não é preciso viver a pão e água - basta ter responsabilidade e disciplina.</p> <p>\"Patricia demonstra não apenas ser uma conhecedora do tema; ela também se revela uma excelente orientadora. Temos o maior prazer em apresentar Bolsa blindada porque sabemos que este livro será uma ferramenta valiosa para muitas pessoas.\"</p>",
+  "sinopse": "Bolsa blindada é um manual de finanças pessoais voltado especialmente para mulheres, que ensina como planejar gastos, criar uma poupança para emergências e administrar a vida financeira de forma a evitar dívidas. Com uma linguagem acessível e histórias pessoais, a autora Patricia Lages oferece dicas práticas para transformar a relação com o dinheiro.",
+  "exemplar_id": 1473,
+  "sku": "LI00W6",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/patricia-lages--bolsa-blindada--capa--20250401--115740.jpg",
+  "contracapa": "static/uploads/patricia-lages--bolsa-blindada--contracapa--20250401--115740.jpg",
+  "fotos": [
+    "static/uploads/patricia-lages--bolsa-blindada--foto1--20250401--115740.jpg",
+    "static/uploads/patricia-lages--bolsa-blindada--foto2--20250401--115740.jpg",
+    "static/uploads/patricia-lages--bolsa-blindada--foto3--20250401--115740.jpg",
+    "static/uploads/patricia-lages--bolsa-blindada--foto4--20250401--115740.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:54:57",
+  "observacoes": null
+}

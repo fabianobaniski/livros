@@ -1,0 +1,63 @@
+{
+  "obra_id": 3153,
+  "autor": "David Bodanis",
+  "titulo": "E=mc2",
+  "subtitulo": "uma Biografia da Equação Que Mudou o Mundo e o Que Ela Signifi",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": null,
+  "palavras_chave": "bodanis emc2 uma biografia",
+  "edicao_id": 3133,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 327,
+  "peso": 500,
+  "isbn": "8500008725",
+  "editora": "Ediouro",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Em 1905, Albert Einstein, então funcionário de um escritório de patentes em Berna, Suíça, revolucionou a ciência com cinco artigos, incluindo a introdução da teoria da relatividade e a famosa equação E=MC². Esta fórmula, associada à relatividade e à energia nuclear, é amplamente conhecida, mas poucos realmente a compreendem. Neste livro, David Bodanis desmistifica a equação, explorando seu significado, origem e implicações. A narrativa envolvente esclarece cada parte da equação, desde seus antecedentes até suas consequências científicas e históricas.",
+  "exemplar_id": 3132,
+  "sku": "LI021L",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Boa conservação geral. Capa e contracapa um pouco amareladas em razão da passagem do tempo e do uso. Miolo em ótimo estado; papel ainda bem branco. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:53:01",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2452,
+  "autor": "Vários Autores",
+  "titulo": "Crônica Ilustrada",
+  "subtitulo": "Revolucion Mexicana (lote com 32 revistas)",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "autores cronica ilustrada revolucion",
+  "edicao_id": 2432,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 600,
+  "peso": 800,
+  "isbn": "",
+  "editora": "Impresso En Mexico",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2431,
+  "sku": "LI01I4",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": 100.0,
+  "capa": "static/uploads/varios-autores--cronica-ilustrada--capa--20260316--185841.jpg",
+  "contracapa": "static/uploads/varios-autores--cronica-ilustrada--contracapa--20260316--185841.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Revistas em bom estado, embora um tanto marcadas pelo manuseio e pela passagem dos anos. Não identificamos nem grifos nem anotações. Havendo interesse, solicite fotos.  Coletânea com 32 revistas, numeradas e sem falhas entre 1 a 32. Todas ilustradas em preto e branco, com aproximadamente  cada fascículo. Uma narrativa completa da primeira grande revolução do século XX!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:16:47",
+  "observacoes": null
+}

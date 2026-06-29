@@ -1,0 +1,63 @@
+{
+  "obra_id": 2687,
+  "autor": "Carlos Heitor Cony",
+  "titulo": "Matéria de memória",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "cony materia memoria",
+  "edicao_id": 2667,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 198,
+  "peso": 300,
+  "isbn": "9788571648517",
+  "editora": "Companhia das Letras",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O romance explora um amor marcado por um mal-entendido trágico, onde os protagonistas, apesar de se amarem, jamais descobrem esse fato. A obra investiga as forças internas que os afastam, revelando uma relação de dor e piedade.",
+  "exemplar_id": 2666,
+  "sku": "LI01ON",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/materia-de-memoria-carlos-heitor-cony-capa_rev1867.jpg",
+  "contracapa": "static/uploads/materia-de-memoria-carlos-heitor-cony-contracapa_rev1289.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa (com um trecho rasgado). Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:57:50",
+  "observacoes": null
+}

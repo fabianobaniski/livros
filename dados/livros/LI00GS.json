@@ -1,0 +1,63 @@
+{
+  "obra_id": 641,
+  "autor": "Ronaldo Lidório",
+  "titulo": "Revitalização de igrejas",
+  "subtitulo": "Avaliando a vitalidade de igrejas locais",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Liderança. Crescimento da Igreja.",
+  "palavras_chave": "lidorio revitalizacao igrejas",
+  "edicao_id": 626,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 76,
+  "peso": 150,
+  "isbn": "9788527507233",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Atuar na revitalização de igrejas locais sem um diagnóstico de vitalidade espiritual é temerário, podendo levar ao exaustivo investimento em áreas de menor carência e à omissão em áreas vitais. Este livro apresenta uma ferramenta para a avaliação da vitalidade da igreja local, provendo indicadores nas áreas de maior necessidade de investimento e sugerindo ações para o amadurecimento e crescimento.</p> <p>Revitalização de igrejas é uma ferramenta desenhada de forma simples e prática, podendo ser aplicada em contextos nacionais ou transculturais, rurais ou urbanos, mono ou multiétnicos. Colabora para que pastores, missionários e líderes invistam tempo, oração e trabalho nas áreas de maior carência da igreja, com planejamento, continuidade e expectativa. Tem como alvo ver igrejas mais fortalecidas no conhecimento da Palavra, no amor a Jesus e nas marcas de uma vivência bíblica.</p>",
+  "sinopse": "Este livro oferece uma abordagem prática para a revitalização de igrejas, essencial para garantir investimento em áreas críticas. Através de diagnósticos e ferramentas práticas, busca fortalecer a vitalidade das igrejas locais e orientar líderes e pastores na direção correta para um crescimento saudável.",
+  "exemplar_id": 625,
+  "sku": "LI00GS",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/ronaldo-lid-rio--revitaliza--o-de-igrejas--capa--20250227--152854.jpg",
+  "contracapa": "static/uploads/ronaldo-lid-rio--revitaliza--o-de-igrejas--contracapa--20250227--152854.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:23",
+  "observacoes": null
+}

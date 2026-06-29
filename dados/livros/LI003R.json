@@ -1,0 +1,68 @@
+{
+  "obra_id": 153,
+  "autor": "Neil Gaiman",
+  "titulo": "The graveyard book",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura fantástica. Morte. Adoção.",
+  "palavras_chave": "gaiman graveyard book",
+  "edicao_id": 149,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 311,
+  "peso": 300,
+  "isbn": "9780060530945",
+  "editora": "Harper",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>The 10th Anniversary Edition of The Graveyard Book includes a foreword by Margaret Atwood as well as sketches from the illustrator, handwritten drafts, and Neil Gaiman’s Newbery acceptance speech.</h1> <h1>It takes a graveyard to raise a child.</h1> <p>Nobody Owens, known as Bod, is a normal boy. He would be completely normal if he didn’t live in a graveyard, being raised by ghosts, with a guardian who belongs to neither the world of the living nor the dead. There are adventures in the graveyard for a boy—an ancient Indigo Man, a gateway to the abandoned city of ghouls, the strange and terrible Sleer. But if Bod leaves the graveyard, he will be in danger from the man Jack—who has already killed Bod’s family.</p> <p>The Graveyard Book, a modern classic, is the only work ever to win both the Newbery (US) and Carnegie (UK) medals.</p>",
+  "sinopse": "Ninguém Owens, conhecido como Bod, é um garoto normal. Ele seria completamente normal se não vivesse em um cemitério, sendo criado por fantasmas, com um guardião que pertence a nenhum dos mundos, nem o dos vivos nem o dos mortos. Há aventuras no cemitério para um garoto - um antigo Homem Indigo, um portal para a cidade abandonada de ghouls, o estranho e terrível Sleer. Mas se Bod deixar o cemitério, estará em perigo do homem Jack, que já matou a família de Bod.",
+  "exemplar_id": 148,
+  "sku": "LI003R",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/neil-gaiman--the-graveyard-book--capa--20250226--133759.jpg",
+  "contracapa": "static/uploads/neil-gaiman--the-graveyard-book--contracapa--20250226--133759.jpg",
+  "fotos": [
+    "static/uploads/neil-gaiman--the-graveyard-book--foto1--20250226--133759.jpg",
+    "static/uploads/neil-gaiman--the-graveyard-book--foto2--20250226--133759.jpg",
+    "static/uploads/neil-gaiman--the-graveyard-book--foto3--20250226--133759.jpg",
+    "static/uploads/neil-gaiman--the-graveyard-book--foto4--20250226--133759.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:13:29",
+  "observacoes": null
+}

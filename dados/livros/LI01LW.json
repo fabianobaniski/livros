@@ -1,0 +1,63 @@
+{
+  "obra_id": 2588,
+  "autor": "B. Champigneulle",
+  "titulo": "História da Música",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Música",
+  "temas": "",
+  "palavras_chave": "champigneulle historia musica",
+  "edicao_id": 2568,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 137,
+  "peso": 254,
+  "isbn": "",
+  "editora": "Difusão Europeia do Livro",
+  "numero_edicao": 0,
+  "ano": 1961,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2567,
+  "sku": "LI01LW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/b-champigneulle--historia-da-musica--capa--20260316--212335.jpg",
+  "contracapa": "static/uploads/b-champigneulle--historia-da-musica--contracapa--20260316--212335.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:51:51",
+  "observacoes": null
+}

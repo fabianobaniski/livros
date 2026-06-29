@@ -1,0 +1,63 @@
+{
+  "obra_id": 3099,
+  "autor": "G. Campbell Morgan",
+  "titulo": "The Answers of Jesus to Job",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "morgan the answers jesus",
+  "edicao_id": 3079,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 136,
+  "peso": 280,
+  "isbn": "0801059178",
+  "editora": "Baker Book House",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3078,
+  "sku": "LI0203",
+  "preco_estante_virtual": 27.5,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: A obra oferece uma análise profunda do Livro de Jó à luz dos ensinamentos de Jesus. Morgan explora as questões fundamentais levantadas por Jó, como o sofrimento, a justiça divina e o propósito da vida, relacionando-as com as respostas encontradas nos ensinamentos do Novo Testamento. O livro é dividido em capítulos que abordam temas como o pedido por um mediador, a busca por Deus e o sentido da vida, oferecendo uma visão esclarecedora sobre o sofrimento humano e a fé. Uma obra ideal para aqueles que buscam uma compreensão teológica mais profunda. / Em inglês. / Livro em bom estado, embora um tanto amarelado pela ação do tempo sobre o papel. Com carimbo de biblioteca particular. Livre de anotações, sublinhados, rabiscos, rasgos ou amassados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:12:22",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

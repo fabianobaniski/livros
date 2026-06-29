@@ -1,0 +1,63 @@
+{
+  "obra_id": 4897,
+  "autor": "Buronson; Tetsuo Hara",
+  "titulo": "Hokuto No Ken",
+  "subtitulo": "Fist of the North Star",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ação. Aventura. Ficção pós-apocalíptica.",
+  "palavras_chave": "buronson hokuto ken",
+  "edicao_id": 4872,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 297,
+  "peso": 340,
+  "isbn": "9788545712459",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Para salvar a pequena Lin, Kenshiro destrói sozinho a cidade de Godland. Porém, o justiceiro errante mal terá tempo de descansar, pois Jakal, um inimigo ainda mais cruel, ataca a comunidade de Bat! Jakal é um homem sanguinário e muito estratégico, e marca Kenshiro como seu próximo alvo!</p> <p>“Não farei nenhuma prece por suas almas...”</p>",
+  "sinopse": "Kenshiro enfrenta novos desafios enquanto tenta salvar a pequena Lin, destruindo a cidade de Godland. Sem descanso, ele enfrenta Jakal, um inimigo cruel que ameaça a comunidade de Bat. Com estratégias implacáveis, Jakal escolhe Kenshiro como seu próximo alvo, prometendo um confronto intenso.",
+  "exemplar_id": 4871,
+  "sku": "LI02NN",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/hokuto-no-ken__fist-of-the-north-star__buronson-tetsuo-hara__capa__2026-02-20_10-31-03-587625-000.png",
+  "contracapa": "static/uploads/hokuto-no-ken__fist-of-the-north-star__buronson-tetsuo-hara__contracapa__2026-02-20_10-31-03-644737-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

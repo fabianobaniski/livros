@@ -1,0 +1,63 @@
+{
+  "obra_id": 2832,
+  "autor": "Platão",
+  "titulo": "Os Pensadores",
+  "subtitulo": "Platão",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "platao pensadores platao",
+  "edicao_id": 2812,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 191,
+  "peso": 300,
+  "isbn": "9788513008461",
+  "editora": "Nova Cultural",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2811,
+  "sku": "LI01SO",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/os-pensadores-platao-capa_rev125.jpg",
+  "contracapa": "static/uploads/os-pensadores-platao-contracapa_rev2191.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro capa dura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados. Ilustrado em preto e branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:22:03",
+  "observacoes": null
+}

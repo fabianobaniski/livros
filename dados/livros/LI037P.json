@@ -1,0 +1,68 @@
+{
+  "obra_id": 5852,
+  "autor": "Brian Kibuuka",
+  "titulo": "Levítico",
+  "subtitulo": "Estudo da Torá",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Judaísmo. Cristianismo. Estudos bíblicos. Pentateuco.",
+  "palavras_chave": "kibuuka levitico estudo tora",
+  "edicao_id": 5827,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 262,
+  "peso": 400,
+  "isbn": "9786559967896",
+  "editora": "Penkall",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Explorando as raízes da fé: um guia de comentário bíblico para o Pentateuco”</p><p>Esta obra é um convite para uma jornada de descoberta das raízes da fé judaico-cristã por meio da exploração do Pentateuco. Comentários detalhados sobre cada livro (Gênesis, Êxodo, Levítico, Números e Deuteronômio) ajudam o leitor a entender o contexto histórico, cultural e teológico que moldou a revelação divina na Bíblia.</p><p>O teólogo Brian Kibuuka a cada capítulo faz análises de passagens do Pentateuco, bem como aplicação em nossa vida diária. Descubra a profundidade e a riqueza das Escrituras e como elas ainda são relevantes para nós hoje.</p><p>Este livro é uma ferramenta essencial para estudiosos, pastores, líderes religiosos e qualquer pessoa que deseje aprofundar seu conhecimento e compreensão da Palavra de Deus. Venha se juntar a nós nesta jornada de exploração e descoberta do Pentateuco.</p>",
+  "sinopse": "Este livro é um convite à descoberta das raízes da fé judaico-cristã por meio do estudo do Pentateuco, trazendo comentários detalhados sobre Gênesis, Êxodo, Levítico, Números e Deuteronômio. Com análises do teólogo Brian Kibuuka, a obra aprofunda o entendimento histórico, cultural e teológico desses textos, mostrando sua relevância para a vida cotidiana. Indicado para estudiosos, pastores e qualquer pessoa interessada em aprofundar o conhecimento e compreensão da Palavra de Deus.",
+  "exemplar_id": 5826,
+  "sku": "LI037P",
+  "preco_estante_virtual": 90.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/levitico__estudo-da-tora__brian-kibuuka__capa__2026-01-18_14-12-17-163304-000.png",
+  "contracapa": "static/uploads/levitico__estudo-da-tora__brian-kibuuka__contracapa__2026-01-18_14-12-17-964335-001.png",
+  "fotos": [
+    "static/uploads/levitico__estudo-da-tora__brian-kibuuka__foto-01__2026-01-18_14-12-18-043622-002.jpg",
+    "static/uploads/levitico__estudo-da-tora__brian-kibuuka__foto-02__2026-01-18_14-12-18-177395-003.jpg",
+    "static/uploads/levitico__estudo-da-tora__brian-kibuuka__foto-03__2026-01-18_14-12-18-698241-004.jpg",
+    "static/uploads/levitico__estudo-da-tora__brian-kibuuka__foto-04__2026-01-18_14-12-18-780249-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:22:21",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5532,
+  "autor": "Kohei Horikoshi",
+  "titulo": "My Hero Academia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Super-heróis. Treinamento.",
+  "palavras_chave": "horikoshi hero academia",
+  "edicao_id": 5507,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9786555940084",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "Boku no Hero Academia",
+  "volume": 26,
+  "transcricao_contracapa": "<p>Hawks e a Comissão de Segurança Pública descobriram informações secretas. Para se prepararem para enfrentar os vilões no dia prometido, resolveram aumentar nossas forças de ataque melhorando as habilidades dos estudantes com os estágios... Muito bem! Eu, <b>o atual Herói Nº 1</b>, vou cuidar do treinamento de vocês três! \"Plus Ultra\"!</p>",
+  "sinopse": "Hawks e a Comissão de Segurança Pública obtêm informações secretas e para enfrentar os vilões decidem melhorar as habilidades dos estudantes. O atual Herói Nº 1 se encarrega do treinamento, preparando-os para o desafio iminente.",
+  "exemplar_id": 5506,
+  "sku": "LI02YT",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/my-hero-academia__kohei-horikoshi__capa__2026-02-24_13-36-24-056327-000.png",
+  "contracapa": "static/uploads/my-hero-academia__kohei-horikoshi__contracapa__2026-02-24_13-36-24-109831-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

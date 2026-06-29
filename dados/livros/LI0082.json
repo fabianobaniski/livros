@@ -1,0 +1,68 @@
+{
+  "obra_id": 316,
+  "autor": "Marcel Colombo",
+  "titulo": "Al-Aisha e os esquecidos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Ficção. Fantasia. Mistério.",
+  "palavras_chave": "colombo al aisha esquecidos",
+  "edicao_id": 307,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 429,
+  "peso": 350,
+  "isbn": "9788576797241",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Como num sopro de dragão, um fantasma surge em seu quarto, no lugar que você jurava ser o local perfeito e seguro. Mas essa aparição é apenas o começo de longos acontecimentos estranhos que estão por vir.</p> <p>Será que você sobreviverá à queda de uma estranha bola de fogo, que poderia destruir, quase que por completo, a sua cidade?</p> <p>Estaria pronto para descobrir o que existe dentro da destruição e da fumaça que se forma, indo muito além da imaginação de seu mundo?</p> <p>O seu mundo está para colidir com um outro, e isso poderá mudar tudo... Até mesmo o seu destino. Tudo poderá acontecer e, de uma forma ou de outra, sua vida irá mudar para sempre, não importa onde e nem como.</p> <p>Siga as ordens de um coelho ranzinza, ajude o seu misterioso amigo, perdoe quem você jamais perdoaria, em nome da verdade e deixe que eu seja a sua guia nessa jornada.</p> <p>Eu me chamo Al-Aisha e irei te guiar. Mas, antes, preciso saber: Você está pronto para ser esquecido?</p>",
+  "sinopse": "Quando um fantasma aparece em seu quarto, o que parecia ser um lugar seguro se transforma em um cenário de estranhas ocorrências. Uma bola de fogo pode ameaçar sua cidade, e você pode estar prestes a descobrir um mundo além de sua imaginação. Al-Aisha se oferece como guia em uma jornada que promete mudar tudo, até mesmo seu destino.",
+  "exemplar_id": 306,
+  "sku": "LI0082",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/marcel-colombo--al-aisha--capa--20250226--133818.jpg",
+  "contracapa": "static/uploads/marcel-colombo--al-aisha--contracapa--20250226--133818.jpg",
+  "fotos": [
+    "static/uploads/marcel-colombo--al-aisha--foto1--20250226--133818.jpg",
+    "static/uploads/marcel-colombo--al-aisha--foto2--20250226--133818.jpg",
+    "static/uploads/marcel-colombo--al-aisha--foto3--20250226--133818.jpg",
+    "static/uploads/marcel-colombo--al-aisha--foto4--20250226--133818.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:11:54",
+  "observacoes": null
+}

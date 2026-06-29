@@ -1,0 +1,63 @@
+{
+  "obra_id": 2809,
+  "autor": "Antonio Carlos Wolkmer",
+  "titulo": "O terceiro mundo e a nova ordem internacional",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "wolkmer terceiro mundo nova",
+  "edicao_id": 2789,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 95,
+  "peso": 150,
+  "isbn": "9788508034536",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Ao destacar contradições entre o Norte rico e o Sul dominado, o autor propõe estratégias de mudança para a construção de uma nova ordem internacional. Com ênfase nas crises latentes e na emancipação dos povos do Terceiro Mundo, a obra sugere medidas críticas para transformar essa realidade desigual, trazendo reflexões relevantes para o Direito, a Política e a Sociologia.",
+  "exemplar_id": 2788,
+  "sku": "LI01S1",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-terceiro-mundo-e-a-nova-ordem-internacional-antonio-carlos-wolkmer-capa_rev949.jpg",
+  "contracapa": "static/uploads/o-terceiro-mundo-e-a-nova-ordem-internacional-antonio-carlos-wolkmer-contracapa_rev756.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de formato pocket, brochura, em boas condições para manuseio e leitura, mas com sinais de envelhecimento. O papel apresenta pigmentação nas bordas devido ao tempo. A lombada está alinhada, e a capa e contracapa estão em bom estado, com leves sinais de uso. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:45:08",
+  "observacoes": null
+}

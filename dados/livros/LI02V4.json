@@ -1,0 +1,63 @@
+{
+  "obra_id": 5176,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Death Note",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Thriller psicológico. Moralidade.",
+  "palavras_chave": "ohba death note",
+  "edicao_id": 5151,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 380,
+  "peso": 450,
+  "isbn": "9788577877058",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Light Yagami é um estudante promissor, mas que está muitíssimo entediado por ser mais inteligente do que todo mundo. Tudo isso muda quando ele encontra o Death Note, um caderno deixado na Terra por um Shinigami (deus da morte) renegado, e qualquer humano que tiver o nome escrito no caderno morrerá. Light jura usar o poder do Death Note para livrar o mundo do mal, mas a teoria de que “os fins justificam os meios” não é bem aceita pela polícia. Mergulhe neste eletrizante thriller psicológico e responda a pergunta: se achasse um caderno assim, o que você faria?</p>",
+  "sinopse": "Light Yagami, um estudante extremamente inteligente porém entediado, encontra o Death Note, um caderno sobrenatural que permite matar qualquer pessoa cujo nome seja escrito nele. Ele decide usar o caderno para eliminar o mal do mundo, mas enfrenta dilemas morais e policiais em um thriller psicológico intenso.",
+  "exemplar_id": 5150,
+  "sku": "LI02V4",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/death-note__tsugumi-ohba-takeshi-obata__capa__2026-02-20_10-32-28-375814-000.png",
+  "contracapa": "static/uploads/death-note__tsugumi-ohba-takeshi-obata__contracapa__2026-02-20_10-32-28-415227-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

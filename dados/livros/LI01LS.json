@@ -1,0 +1,63 @@
+{
+  "obra_id": 2584,
+  "autor": "Gerrit L. Verschuur",
+  "titulo": "Hidden attraction",
+  "subtitulo": "The history and mystery of magnetism",
+  "idioma": "Português",
+  "categoria": "Outros Assuntos",
+  "temas": "",
+  "palavras_chave": "verschuur hidden attraction the",
+  "edicao_id": 2564,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 256,
+  "peso": 544,
+  "isbn": "9780195106558",
+  "editora": "Oxford University Press",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Hidden Attraction, de Gerrit L. Verschuur, explora a história do magnetismo, desde suas origens em superstições e alquimia até as descobertas de cientistas como Faraday, Maxwell e Hertz. O livro mostra a evolução do entendimento do magnetismo, que já foi associado a feitiços e curas milagrosas, e agora é reconhecido como uma força fundamental no universo. Verschuur, indicado ao National Book Award, utiliza o magnetismo para demonstrar a transição da humanidade de crenças supersticiosas para teorias científicas avançadas, incluindo a Teoria de Tudo...",
+  "exemplar_id": 2563,
+  "sku": "LI01LS",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/gerrit-l-verschuur--hidden-attraction--capa--20260316--211929.jpg",
+  "contracapa": "static/uploads/gerrit-l-verschuur--hidden-attraction--contracapa--20260316--211929.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:29:50",
+  "observacoes": null
+}

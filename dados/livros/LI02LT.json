@@ -1,0 +1,63 @@
+{
+  "obra_id": 4831,
+  "autor": "Cygames; cocho; Makoto Fugetsu",
+  "titulo": "Granblue fantasy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Fantasia. Aventuras. Poderes sobrenaturais.",
+  "palavras_chave": "cygames granblue fantasy",
+  "edicao_id": 4806,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 180,
+  "isbn": "9788542628777",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>HISTÓRIA</p> <p>Gran e seus amigos lutam contra Leviathan, que perdeu o controle por causa do cristal demoníaco. Ao fim do embate, Lyria começa a absorver esse poder, mas Orchis, a garota que acompanha o Cavaleiro Negro, faz o mesmo! Agora, o grupo parte rumo ao Arquipélago Lumacie em busca de pistas sobre o poder de Lyria.</p>",
+  "sinopse": "Gran e seus amigos enfrentam Leviathan, descontrolado pelo cristal demoníaco. Após a batalha, Lyria e Orchis absorvem um estranho poder. A equipe então se dirige ao Arquipélago Lumacie, buscando entender o poder de Lyria.",
+  "exemplar_id": 4805,
+  "sku": "LI02LT",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/granblue-fantasy__cygames-cocho-makoto-fugetsu__capa__2026-02-20_10-30-47-695133-000.png",
+  "contracapa": "static/uploads/granblue-fantasy__cygames-cocho-makoto-fugetsu__contracapa__2026-02-20_10-30-47-736651-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com capa e contracapa sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

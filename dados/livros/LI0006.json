@@ -1,0 +1,68 @@
+{
+  "obra_id": 7,
+  "autor": "Jamie McGuire",
+  "titulo": "Belo desastre",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Drama. Universitário",
+  "palavras_chave": "mcguire belo desastre",
+  "edicao_id": 7,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 389,
+  "peso": 450,
+  "isbn": "9788576861911",
+  "editora": "Verus",
+  "numero_edicao": 1,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Abby Abernathy</b> é uma boa garota. Ela não bebe nem fala palavrão, e tem a quantidade apropriada de cardigãs no guarda-roupa. Abby acredita que seu passado sombrio está bem distante, mas, quando se muda para uma nova cidade com America, sua melhor amiga, para cursar a faculdade, seu recomeço é rapidamente ameaçado pelo bad boy da universidade.</p><p><b>Travis Maddox</b>, com seu abdômen definido e seus braços tatuados, é exatamente o que Abby precisa – e deseja – evitar. Ele passa as noites ganhando dinheiro em um clube da luta e os dias seduzindo as garotas da faculdade.</p><p>Intrigado com a resistência de Abby ao seu charme, Travis a atrai com uma aposta. Se ele perder, terá que ficar sem sexo por um mês. Se ela perder, deverá morar no apartamento dele pelo mesmo período. Qualquer que seja o resultado da aposta, Travis nem imagina que finalmente encontrou uma adversária à altura. É então que eles se envolvem em uma relação intensa e conturbada, que pode acabar levando-os à loucura.</p><p><b>Belo desastre</b> é um livro sexy e apaixonante, que vai deixar você completamente viciado.</p>",
+  "sinopse": "Abby Abernathy quer deixar seu passado para trás ao ingressar na faculdade, mas sua vida muda ao conhecer Travis Maddox, um bad boy envolvido em lutas clandestinas. Uma aposta entre eles desencadeia uma relação intensa e perigosa.",
+  "exemplar_id": 7,
+  "sku": "LI0006",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/jamie-mcguire--belo-desastre--capa--20250225--163003.jpg",
+  "contracapa": "static/uploads/jamie-mcguire--belo-desastre--contracapa--20250225--163003.jpg",
+  "fotos": [
+    "static/uploads/jamie-mcguire--belo-desastre--foto1--20250225--163003.jpg",
+    "static/uploads/jamie-mcguire--belo-desastre--foto2--20250225--163003.jpg",
+    "static/uploads/jamie-mcguire--belo-desastre--foto3--20250225--163003.jpg",
+    "static/uploads/jamie-mcguire--belo-desastre--foto4--20250225--163003.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:54:07",
+  "observacoes": null
+}

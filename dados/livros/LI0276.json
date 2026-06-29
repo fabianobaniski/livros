@@ -1,0 +1,68 @@
+{
+  "obra_id": 3359,
+  "autor": "Taishi Tsutsui",
+  "titulo": "We never learn",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Vida escolar. Amizade. Mistério.",
+  "palavras_chave": "tsutsui never learn",
+  "edicao_id": 3336,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9786555125689",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Nariyuki deve ajudar Fumino, Rizu e Uruka nos estudos como seu tutor acadêmico. O problema é quando as garotas precisam tirar nota acima da média da turma! E, durante um acampamento estudantil, Rizu desaparece! O que será que aconteceu?!</p>",
+  "sinopse": "Nariyuki assume o papel de tutor acadêmico das alunas Fumino, Rizu e Uruka, encarregado de ajudá-las a melhorar o desempenho escolar. Em meio ao desafio de alcançar notas acima da média, um novo obstáculo surge durante um acampamento estudantil quando Rizu desaparece misteriosamente. Os estudantes então precisam descobrir o que aconteceu enquanto enfrentam as dificuldades dos estudos.",
+  "exemplar_id": 3335,
+  "sku": "LI0276",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/we-never-learn__taishi-tsutsui__capa__2025-11-05_16-25-43-928452.jpg",
+  "contracapa": "static/uploads/we-never-learn__taishi-tsutsui__contracapa__2025-11-05_16-25-43-958151.jpg",
+  "fotos": [
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-01__2025-11-05_16-25-43-987287.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-02__2025-11-05_16-25-44-422214.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-03__2025-11-05_16-25-44-494639.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-04__2025-11-05_16-25-44-548144.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:13:06",
+  "observacoes": null
+}

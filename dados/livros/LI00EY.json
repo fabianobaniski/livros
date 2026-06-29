@@ -1,0 +1,63 @@
+{
+  "obra_id": 575,
+  "autor": "Plínio Moreira da Silva",
+  "titulo": "Homilética",
+  "subtitulo": "A eloquência da pregação",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Educação. Formação Teológica. Prática Ministerial.",
+  "palavras_chave": "silva homiletica eloquencia pregacao",
+  "edicao_id": 560,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 184,
+  "peso": 300,
+  "isbn": "8574590029",
+  "editora": "A. D. Santos",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Deus concede dons visando o apefeiçoamento dos santos para o ministério (Ef 4:11-13).</p> <p>Usa quem Ele capacitou, como instrumento em suas mãos, para instruir os escolhidos ao aprimoramento da sua vocação.</p> <p>Colocando-se como meio disponível para alcançar a todos que desejam adquirir ou ampliar seus conhecimentos, A. D. Santos Editora oferece neste livro, o que há de melhor em HOMILÉTICA aos vocacionados, professores e obreiros.</p> <p>O autor, Plínio Moreira da Silva, é pastor de longa experiência ministerial. Como professor, lecionou em várias matérias em diversas faculdades teológicas no Estado de São Paulo. Escritor renomeado e muito apreciado a longos anos.</p>",
+  "sinopse": "Este livro, 'Homilética: A ELOQUÊNCIA DA PREGAÇÃO', é um guia para capacitar obreiros na arte da pregação, destacando a importância da eloquência e do aprimoramento ministerial. Plínio Moreira da Silva compartilha experiências e conhecimentos valiosos para aqueles que desejam se aprofundar na prática homilética.",
+  "exemplar_id": 559,
+  "sku": "LI00EY",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/pl-nio-moreira-da-silva--homil-tica--capa--20250227--152850.jpg",
+  "contracapa": "static/uploads/pl-nio-moreira-da-silva--homil-tica--contracapa--20250227--152851.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:13:00",
+  "observacoes": null
+}

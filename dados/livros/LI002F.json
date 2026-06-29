@@ -1,0 +1,68 @@
+{
+  "obra_id": 102,
+  "autor": "James Baldwin",
+  "titulo": "Giovanni",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura clássica. Homossexualidade. Relações interpessoais.",
+  "palavras_chave": "baldwin giovanni",
+  "edicao_id": 100,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "Grandes Sucessos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Dramática viagem através do submundo da homossexualidade masculina. Na trajetória amorosa de Giovanni e David — principais personagens do romance de James Baldwin — onde não faltam os sentimentos comuns aos relacionamentos heterossexuais, a insofismável assertiva: o amor é passível de crises e dúvidas, mas nunca objeto de culpa ou anormalidade.</p>",
+  "sinopse": "Giovanni traz uma dramática jornada pelo submundo da homossexualidade masculina, explorando a relação amorosa entre os protagonistas, Giovanni e David. Neste contexto, o romance revela sentimentos universais presentes em qualquer relacionamento, enfatizando que o amor, independente da orientação sexual, pode enfrentar crises e dúvidas.",
+  "exemplar_id": 99,
+  "sku": "LI002F",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/james-baldwin--giovanni--capa--20250308--210748.jpg",
+  "contracapa": "static/uploads/james-baldwin--giovanni--contracapa--20250308--210748.jpg",
+  "fotos": [
+    "static/uploads/james-baldwin--giovanni--foto1--20250308--210748.jpg",
+    "static/uploads/james-baldwin--giovanni--foto2--20250308--210748.jpg",
+    "static/uploads/james-baldwin--giovanni--foto3--20250308--210748.jpg",
+    "static/uploads/james-baldwin--giovanni--foto4--20250308--210748.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:13:30",
+  "observacoes": null
+}

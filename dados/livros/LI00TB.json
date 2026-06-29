@@ -1,0 +1,68 @@
+{
+  "obra_id": 1386,
+  "autor": "Henri Charrière",
+  "titulo": "Papillon",
+  "subtitulo": "O homem que fugiu do inferno",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "charriere papillon",
+  "edicao_id": 1368,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 494,
+  "peso": 600,
+  "isbn": "",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": 1987,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1367,
+  "sku": "LI00TB",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/henri-charri-re--papillon--capa--20250401--115338.jpg",
+  "contracapa": "static/uploads/henri-charri-re--papillon--contracapa--20250401--115338.jpg",
+  "fotos": [
+    "static/uploads/henri-charri-re--papillon--foto1--20250401--115338.jpg",
+    "static/uploads/henri-charri-re--papillon--foto2--20250401--115338.jpg",
+    "static/uploads/henri-charri-re--papillon--foto3--20250401--115338.jpg",
+    "static/uploads/henri-charri-re--papillon--foto4--20250401--115338.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel fortemente amarelado; capa com sinal de rasgo na parte inferior."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:35:11",
+  "observacoes": null
+}

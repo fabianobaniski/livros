@@ -1,0 +1,63 @@
+{
+  "obra_id": 2640,
+  "autor": "Geneviève Boulanger Balleyguier",
+  "titulo": "La investigación en Ciencia Humanas",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "balleyguier investigacion ciencia humanas",
+  "edicao_id": 2620,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 168,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Marova",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O crescente interesse pelas ciências humanas traz o desafio de manter o rigor metodológico necessário para obter conclusões válidas. Esta obra descreve as principais etapas e dificuldades enfrentadas durante investigações científicas, buscando auxiliar tanto iniciantes quanto especialistas a avaliar a validade das pesquisas. O autor questiona se o estudo científico do homem é útil ou perigoso, refletindo sobre o potencial de libertação ou controle que ele pode gerar. A obra sugere que o conhecimento de si mesmo é a chave para a evolução humana.",
+  "exemplar_id": 2619,
+  "sku": "LI01NC",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/genevieve-boulanger-balleyguier--la-investigacion-en-ciencia-humanas--capa--20260316--214142.jpg",
+  "contracapa": "static/uploads/genevieve-boulanger-balleyguier--la-investigacion-en-ciencia-humanas--contracapa--20260316--214142.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fortemente marcado pelo tempo e manuseio. Capa manchada (vide imagem). Bordas e miolo amarelados. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:02:49",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1353,
+  "autor": "A.C. Bhaktivedanta Swami Prabhupada",
+  "titulo": "Transcendência",
+  "subtitulo": "Uma perspectiva védica para o pensamento ocidental",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Psicologia. Teologia.",
+  "palavras_chave": "bhaktivedanta transcendencia",
+  "edicao_id": 1336,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 300,
+  "peso": 200,
+  "isbn": "9788564775312",
+  "editora": "The Bhaktivedanta",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Filosofia, política, psicologia, teologia... Muitos são os ramos do pensamento humano, alguns desenvolveram-se por pensadores que se destacaram em sua esfera de saber e foram consagrados pelo tempo como as maiores autoridades no assunto.</p> <p>Nesta obra, revisamos o pensamento ocidental desde filósofos gregos até psicólogos do século XX, mas de uma forma inovadora. A.C. Bhaktivedanta Swami Prabhupada, grande estudioso dos Vedas e também possuidor de conhecimento geral sobre a história do mundo, aborda o pensamento ocidental em contraste com os saberes da Bhagavad-gītā e outras obras védicas. O resultado é um instigante exercício de aproximação e distanciamento das duas culturas, levando nosso conhecimento a um novo patamar crítico.</p>",
+  "sinopse": "A obra revisita o pensamento ocidental desde filósofos gregos até psicólogos do século XX, apresentando uma abordagem inovadora sob a perspectiva védica de A.C. Bhaktivedanta Swami Prabhupada. Com vasto conhecimento dos Vedas, o autor explora o contraste entre o pensamento ocidental e os ensinamentos da Bhagavad-gītā, estimulando uma nova compreensão crítica entre essas culturas.",
+  "exemplar_id": 1335,
+  "sku": "LI00SK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/a-c--bhaktivedanta-swami-prabhupada--transcend-ncia--capa--20250401--114916.png",
+  "contracapa": "static/uploads/a-c--bhaktivedanta-swami-prabhupada--transcend-ncia--contracapa--20250401--114916.png",
+  "fotos": [
+    "static/uploads/a-c--bhaktivedanta-swami-prabhupada--transcend-ncia--foto1--20250401--114916.jpg",
+    "static/uploads/a-c--bhaktivedanta-swami-prabhupada--transcend-ncia--foto2--20250401--114916.jpg",
+    "static/uploads/a-c--bhaktivedanta-swami-prabhupada--transcend-ncia--foto3--20250401--114916.jpg",
+    "static/uploads/a-c--bhaktivedanta-swami-prabhupada--transcend-ncia--foto4--20250401--114916.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro pocket em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:28:06",
+  "observacoes": null
+}

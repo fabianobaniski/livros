@@ -1,0 +1,63 @@
+{
+  "obra_id": 2970,
+  "autor": "Sérgio Buarque de Holanda",
+  "titulo": "Visão do paraíso",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "holanda visao paraiso",
+  "edicao_id": 2950,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 452,
+  "peso": 500,
+  "isbn": "9788511131093",
+  "editora": "Brasiliense",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Visão do Paraíso (1959) de Sérgio Buarque de Holanda explora as fantasias e mitos que moldaram a percepção europeia sobre a América durante a época das grandes navegações. O autor analisa como o Novo Mundo foi idealizado como um paraíso terrestre, com riquezas abundantes e uma natureza exuberante, profundamente influenciado pelas tradições renascentistas e medievais. A obra reflete sobre como essas visões utópicas afetaram o imaginário colonial e contribuíram para a construção de uma narrativa distorcida, guiada pela busca de um Éden perdido e pela exploração dos recursos naturais da América.",
+  "exemplar_id": 2949,
+  "sku": "LI01WI",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/visao-do-paraiso-sergio-buarque-de-holanda-capa_rev1218.jpg",
+  "contracapa": "static/uploads/visao-do-paraiso-sergio-buarque-de-holanda-contracapa_rev1313.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sem anotações ou sublinhados. Ótima conservação, apesar de um pouco amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:44:54",
+  "observacoes": null
+}

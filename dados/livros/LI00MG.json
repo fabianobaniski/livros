@@ -1,0 +1,63 @@
+{
+  "obra_id": 846,
+  "autor": "Augustus Nicodemus",
+  "titulo": "Livres em Cristo",
+  "subtitulo": "A mensagem de Gálatas para a igreja de hoje",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Cristianismo. Teologia. Igreja.",
+  "palavras_chave": "nicodemus livres cristo galatas",
+  "edicao_id": 831,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 320,
+  "peso": 400,
+  "isbn": "9788527505918",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este comentário da Carta aos Gálatas é dirigido especialmente à situação das igrejas evangélicas no Brasil. Existem muitos outros comentários dessa importante carta, fruto de pesquisas detalhadas e exaustivas, reunidas de forma magistral em volumes considerados clássicos. Mas o que torna esta obra única é o fato de que ela é o resultado de exposições bíblicas voltadas para o público brasileiro contemporâneo, o qual, em muitos sentidos, se parece bastante com os destinatários da carta de Paulo.</p> <p>Capítulo por capítulo, esta obra expõe os argumentos que o apóstolo Paulo dirigiu aos cristãos da Galácia, mostrando como esses argumentos se aplicam diretamente à situação em que a igreja evangélica brasileira se encontra hoje. Paulo combateu em sua carta a mensagem de missionários judeus que se diziam cristãos e ensinavam que a salvação não se dava somente pela fé em Cristo Jesus, mas também pela obediência à Lei de Moisés, especialmente pela circuncisão, a guarda do sábado e a observância da dieta religiosa dos judeus.</p> <p>Hoje enfrentamos mensagem semelhante, defendida e disseminada pelos chamados judeus messiânicos e por pseudoapóstolos, os quais reintroduzem as cerimônias judaicas no culto cristão e obrigam os crentes em Cristo a se sujeitar à mesma Lei a que o Senhor deu pleno cumprimento na sua morte e ressurreição. Seitas neopentecostais constroem uma réplica do Templo de Salomão, falsos apóstolos adentram a arca como parte do culto, vestem-se como rabinos e ensinam preceitos já abolidos em Cristo Jesus.</p> <p>Nossa oração é que Livres em Cristo: a mensagem de Gálatas para a igreja de hoje seja útil aos crentes brasileiros que desejam permanecer firmes na graça de Deus e na obra completa e suficiente de Jesus Cristo para nossa salvação.</p>",
+  "sinopse": "Este livro é um comentário da Carta aos Gálatas, focado na situação das igrejas evangélicas no Brasil. A obra analisa os argumentos de Paulo em relação aos cristãos da Galácia e como eles se aplicam ao contexto atual da igreja brasileira. O autor destaca a necessidade de entender a mensagem de liberdade em Cristo, contrastando-a com as influências de grupos que tentam reintroduzir práticas judaicas no cristianismo.",
+  "exemplar_id": 830,
+  "sku": "LI00MG",
+  "preco_estante_virtual": 38.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/augustus-nicodemus--livres-em-cristo--capa--20250227--152908.jpg",
+  "contracapa": "static/uploads/augustus-nicodemus--livres-em-cristo--contracapa--20250227--152908.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:32:36",
+  "observacoes": null
+}

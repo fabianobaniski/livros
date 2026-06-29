@@ -1,0 +1,68 @@
+{
+  "obra_id": 3463,
+  "autor": "Makoto Shinkai; Midori Motobashi",
+  "titulo": "O jardim das palavras",
+  "subtitulo": "Kotonoha no Niwa",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Romance. Relações interpessoais. Juventude japonesa.",
+  "palavras_chave": "shinkai jardim palavras",
+  "edicao_id": 3440,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 230,
+  "isbn": "9788583621195",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Baseado no filme de Makoto Shinkai, “O Jardim das Palavras” é uma história tocante entre um casal unido pela chuva. Takao Akizuki é um colegial que sonha em ser sapateiro e passa os dias desenhando e criando novos modelos. Numa manhã chuvosa, em uma de suas escapadas para desenhar, conhece Yukari Yukino no jardim. Os dois passam a conversar e uma conexão especial nasce, agora, sempre que chove durante a manhã, os dois se encontram no jardim.</p>",
+  "sinopse": "Inspirado no filme de Makoto Shinkai, 'O Jardim das Palavras' narra o encontro de Takao Akizuki, um estudante que sonha em ser sapateiro, e Yukari Yukino, em meio a manhãs chuvosas em um jardim. Unidos pelo acaso e pela chuva, eles desenvolvem uma conexão especial, criando laços afetivos em seus encontros marcados pela delicadeza e pela busca de sentido para suas vidas.",
+  "exemplar_id": 3439,
+  "sku": "LI02A2",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/o-jardim-das-palavras__kotonoha-no-niwa__makoto-shinkai-midori-motobashi__capa__2025-11-05_16-15-34-660966.jpg",
+  "contracapa": "static/uploads/o-jardim-das-palavras__kotonoha-no-niwa__makoto-shinkai-midori-motobashi__contracapa__2025-11-05_16-15-34-704065.jpg",
+  "fotos": [
+    "static/uploads/o-jardim-das-palavras__kotonoha-no-niwa__makoto-shinkai-midori-motobashi__foto-01__2025-11-05_16-15-34-741079.jpg",
+    "static/uploads/o-jardim-das-palavras__kotonoha-no-niwa__makoto-shinkai-midori-motobashi__foto-02__2025-11-05_16-15-34-765817.jpg",
+    "static/uploads/o-jardim-das-palavras__kotonoha-no-niwa__makoto-shinkai-midori-motobashi__foto-03__2025-11-05_16-15-34-791582.jpg",
+    "static/uploads/o-jardim-das-palavras__kotonoha-no-niwa__makoto-shinkai-midori-motobashi__foto-04__2025-11-05_16-15-34-817946.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:51:36",
+  "observacoes": null
+}

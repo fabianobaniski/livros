@@ -1,0 +1,68 @@
+{
+  "obra_id": 189,
+  "autor": "Jack London",
+  "titulo": "As vozes da floresta",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Aventura. Animais. Natureza.",
+  "palavras_chave": "london vozes floresta",
+  "edicao_id": 184,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 139,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Clube do Livro",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Sobre a brincadeira da neve, há uma calma fantasmagórica. Músculos tensos, olhares raivosos, Buck e Spitz se estudam, procurando o melhor momento para atacar. Enquanto isso, o restante da matilha aguarda o instante de se atirar sobre o vencido. Desta vez foi Spitz. Para Buck foi mais um passo no aprendizado da dura vida de cão de trenó.</p><p>Mas enquanto os homens que o empregavam corriam desesperadamente em busca do ouro do Alaska, Buck caminhava lentamente em direção a seus ancestrais, os lobos, que o chamavam do interior da floresta gelada. Seu criador, Jack London, um dos mais famosos escritores americanos de sua geração foi, antes de ficar famoso, operário, pescador de ostras, garimpeiro, correspondente de guerra e marinheiro, tendo passado a maior parte de sua vida no mar ou nas regiões geladas do Alaska. Essa vida aventureira reflete-se profundamente nos romances que escreveu, e seu desencanto com a civilização moderna fez com que dedicasse especial carinho aos animais, o que permitiu que criasse personagens tão marcantes quanto a Buck deste As vozes da floresta, sua principal obra, traduzida em mais de 40 idiomas.</p>",
+  "sinopse": "Nas paisagens geladas do Alaska, Buck, um cão de trenó, se vê em um ambiente hostil, onde rivalidades e instintos ancestrais se desenrolam. A narrativa de Jack London retrata a luta pela sobrevivência e a conexão com a natureza selvagem, enquanto Buck faz a transição de uma vida tranquila para os desafios brutais da vida no gelo.",
+  "exemplar_id": 183,
+  "sku": "LI004N",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jack-london--as-vozes-da-floresta--capa--20250226--133803.jpg",
+  "contracapa": "static/uploads/jack-london--as-vozes-da-floresta--contracapa--20250226--133803.jpg",
+  "fotos": [
+    "static/uploads/jack-london--as-vozes-da-floresta--foto1--20250226--133803.jpg",
+    "static/uploads/jack-london--as-vozes-da-floresta--foto2--20250226--133803.jpg",
+    "static/uploads/jack-london--as-vozes-da-floresta--foto3--20250226--133803.jpg",
+    "static/uploads/jack-london--as-vozes-da-floresta--foto4--20250226--133803.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel fortemente amarelado. Possui marcas de dobra na capa e contracapa. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:28:10",
+  "observacoes": null
+}

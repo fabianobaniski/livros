@@ -1,0 +1,63 @@
+{
+  "obra_id": 4718,
+  "autor": "Yoshihiro Togashi",
+  "titulo": "Hunter x Hunter",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Fantasia.",
+  "palavras_chave": "togashi hunter",
+  "edicao_id": 4693,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 184,
+  "peso": 230,
+  "isbn": "9788577870677",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>Hunter é o caçador de criaturas mágicas, tesouros, criminosos...</p> <p><b>Nesta edição,</b> após o desfecho da prova final do Exame Hunter, Gon, Leorio e Kurapaika vão visitar Killua. Mas, para chegar à mansão da família de assassinos, eles vão viver uma grande aventura.</p>",
+  "sinopse": "Neste volume, os acontecimentos se desenrolam após o Exame Hunter, levando Gon, Leorio e Kurapaika a enfrentar desafios para visitar Killua em sua mansão, prometendo grandes aventuras.",
+  "exemplar_id": 4692,
+  "sku": "LI02IO",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 32.0,
+  "capa": "static/uploads/hunter-x-hunter__yoshihiro-togashi__capa__2026-02-20_10-30-15-182519-000.png",
+  "contracapa": "static/uploads/hunter-x-hunter__yoshihiro-togashi__contracapa__2026-02-20_10-30-15-220765-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com capa e contracapa sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

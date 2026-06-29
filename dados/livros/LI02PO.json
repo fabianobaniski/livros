@@ -1,0 +1,63 @@
+{
+  "obra_id": 4970,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance. Comédia.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 4945,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 170,
+  "isbn": "9788542612967",
+  "editora": "Panini Comics; Planeta Manga",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 15,
+  "transcricao_contracapa": "<p>Yui, amiga de infância de Raku, declara seu amor por ele! Chitoge ouve tudo e fica muito abalada. Quando as meninas descobrem que os membros da Shueigumi viajaram, decidem fazer de tudo para impedir que Yui e Raku fiquem sozinhos em casa.</p>",
+  "sinopse": "Yui, amiga de infância de Raku, confessa seu amor por ele, causando preocupação em Chitoge. Quando as meninas descobrem que membros da Shueigumi viajaram, fazem de tudo para manter Yui e Raku afastados.",
+  "exemplar_id": 4944,
+  "sku": "LI02PO",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2026-02-20_10-31-25-604786-000.png",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2026-02-20_10-31-25-727930-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2933,
+  "autor": "Melvin Shestack",
+  "titulo": "The country music encyclopedia",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Música",
+  "temas": "",
+  "palavras_chave": "shestack the country music",
+  "edicao_id": 2913,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 375,
+  "peso": 450,
+  "isbn": "",
+  "editora": "Omnibus Press",
+  "numero_edicao": null,
+  "ano": 1979,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "...",
+  "exemplar_id": 2912,
+  "sku": "LI01VH",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/the-country-music-encyclopedia-melvin-shestack-capa_rev1164.jpg",
+  "contracapa": "static/uploads/the-country-music-encyclopedia-melvin-shestack-contracapa_rev1515.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:12:42",
+  "observacoes": null
+}

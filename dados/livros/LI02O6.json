@@ -1,0 +1,63 @@
+{
+  "obra_id": 4916,
+  "autor": "Yu Sasuga; Ken-Ichi Tachibana",
+  "titulo": "Terra Formars",
+  "subtitulo": "12ª missão: invenção divina",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Exploradores. Marte.",
+  "palavras_chave": "sasuga terra formars missoes",
+  "edicao_id": 4891,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 250,
+  "isbn": "9788545701828",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 12,
+  "transcricao_contracapa": "<p>A mensagem de socorro chega à Terra, entretanto naves de resgate já estavam a caminho! A China não medirá esforços para conseguir o que quer, mas os outros países também têm interesses próprios! Começa uma nova corrida, com novos personagens! Quem alcançará Marte primeiro?!</p>",
+  "sinopse": "Uma mensagem de socorro é recebida na Terra enquanto naves de resgate estão a caminho. A China está determinada a alcançar seus objetivos, mas enfrenta interesses de outros países. Em meio a esta corrida, novos personagens entram em ação para conquistar Marte.",
+  "exemplar_id": 4890,
+  "sku": "LI02O6",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/terra-formars__12a-missao-invencao-divina__yu-sasuga-ken-ichi-tachibana__capa__2026-02-20_10-31-10-873882-000.png",
+  "contracapa": "static/uploads/terra-formars__12a-missao-invencao-divina__yu-sasuga-ken-ichi-tachibana__contracapa__2026-02-20_10-31-10-957033-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

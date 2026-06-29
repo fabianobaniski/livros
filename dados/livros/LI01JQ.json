@@ -1,0 +1,63 @@
+{
+  "obra_id": 2510,
+  "autor": "Virginia Perkins Brague",
+  "titulo": "El encanto del buen vivir",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "brague encanto del buen",
+  "edicao_id": 2490,
+  "encadernacao": null,
+  "quantidade_paginas": 389,
+  "peso": 450,
+  "isbn": "9789580437130",
+  "editora": "Editorial Norma S. A.",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro é uma guia prática para transformar as tarefas diárias de casa, como cozinhar e organizar, em atividades leves e agradáveis. Destinado a pessoas com vidas ocupadas que buscam manter um lar harmonioso, oferece dicas e estratégias para simplificar o cotidiano sem sacrificar o bem-estar. Escrito por Virginia Perkins Braque, uma especialista no arte de bem viver, o livro é uma fonte de inspiração para tornar as obrigações domésticas mais fáceis e eficientes, promovendo uma vida mais equilibrada e prazerosa.",
+  "exemplar_id": 2489,
+  "sku": "LI01JQ",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/virginia-perkins-brague--el-encanto-del-buen-vivir--capa--20260316--193515.jpg",
+  "contracapa": "static/uploads/virginia-perkins-brague--el-encanto-del-buen-vivir--contracapa--20260316--193515.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, embora amarelado pela passagem dos anos e com leves sinais deixados pelo uso. Lombada reta, miolo firme, texto sem anotações ou sublinhados. Há pequeno carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:01:17",
+  "observacoes": null
+}

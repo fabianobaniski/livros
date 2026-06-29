@@ -1,0 +1,63 @@
+{
+  "obra_id": 5052,
+  "autor": "ONE; Yusuke Murata",
+  "titulo": "One-Punch Man",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Super-heróis. Humor.",
+  "palavras_chave": "one punch man",
+  "edicao_id": 5027,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 310,
+  "isbn": "9786525914428",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "",
+  "volume": 26,
+  "transcricao_contracapa": "",
+  "sinopse": "One-Punch Man é um mangá de ação, comédia e sátira ao gênero shonen/super-heróis. A história segue Saitama, um herói independente que, após um treinamento intenso de três anos, adquiriu força invencível capaz de derrotar qualquer adversário com um único soco. Entediado pela ausência de desafios e pela falta de emoção nas batalhas, ele registra-se na Hero Association, onde é subestimado e classificado em ranks baixos apesar de sua potência absoluta. Enquanto enfrenta monstros, vilões, alienígenas e heróis excêntricos — incluindo o discípulo Genos —, Saitama busca um oponente digno que restaure o thrill do combate, em um mundo repleto de destruição constante, hierarquias heroicas e humor absurdo.",
+  "exemplar_id": 5026,
+  "sku": "LI02RO",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/one-punch-man__one-yusuke-murata__capa__2026-02-20_10-31-50-716526-000.png",
+  "contracapa": "static/uploads/one-punch-man__one-yusuke-murata__contracapa__2026-02-20_10-31-50-824648-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

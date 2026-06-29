@@ -1,0 +1,63 @@
+{
+  "obra_id": 3175,
+  "autor": "Elyesley Silva do Nascimento",
+  "titulo": "Os 7 Hábitos do Concurseiro",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "nascimento habitos concurseiro",
+  "edicao_id": 3155,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 106,
+  "peso": 250,
+  "isbn": "9788576267119",
+  "editora": "Impetus",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3154,
+  "sku": "LI0227",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Os 7 Hábitos do Concurseiro oferece um guia prático para aqueles que desejam sucesso em concursos públicos. Sem fórmulas prontas, o autor Elyesley apresenta um caminho direcionado para quem busca mudanças significativas na vida ao se preparar para concursos. Com orientações claras e aplicáveis, a obra é elogiada por sua objetividade e por fornecer dicas pontuais que podem ser utilizadas tanto por iniciantes quanto por concurseiros experientes. / Formato pocket (de bolso). Ótima conservação. Sem anotações, sublinhados, marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:03:39",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2583,
+  "autor": "Hélene Gratiot Alfandéry",
+  "titulo": "Henri Wallon",
+  "subtitulo": "Coleção Educadores (MEC)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "alfandery henri wallon colecao",
+  "edicao_id": 2563,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 268,
+  "isbn": "9788570195418",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2562,
+  "sku": "LI01LR",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/helene-gratiot-alfandery--henri-wallon--capa--20260316--211953.jpg",
+  "contracapa": "static/uploads/helene-gratiot-alfandery--henri-wallon--contracapa--20260316--211953.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:29:37",
+  "observacoes": null
+}

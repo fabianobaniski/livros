@@ -1,0 +1,68 @@
+{
+  "obra_id": 1770,
+  "autor": "Jayr Figueiredo de Oliveira (Org.); Marcos Cordeiro Pires; Sérgio Antônio dos Santos",
+  "titulo": "Economia para administradores",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Economia.",
+  "palavras_chave": "oliveira economia para administradores",
+  "edicao_id": 1750,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 432,
+  "peso": 760,
+  "isbn": "9788502052031",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço <b>www.saraivauni.com.br</b></p>",
+  "sinopse": "Este livro oferece uma introdução à economia voltada especialmente para administradores, reunindo conceitos e aplicações práticas essenciais para o universo da administração. Organizado por Jayr Figueiredo de Oliveira, com a colaboração de Marcos Cordeiro Pires e Sérgio Antônio dos Santos, a obra propicia uma base teórica para estudantes e profissionais da área, sendo um recurso fundamental para o aprendizado aplicado ao contexto empresarial.",
+  "exemplar_id": 1749,
+  "sku": "LI00Z9",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--capa--20250430--102944.jpg",
+  "contracapa": "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--contracapa--20250430--102944.jpg",
+  "fotos": [
+    "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--foto1--20250430--102944.jpg",
+    "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--foto2--20250430--102944.jpg",
+    "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--foto3--20250430--102944.jpg",
+    "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--foto4--20250430--102944.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:48:40",
+  "observacoes": "procedencia_biblioteca"
+}

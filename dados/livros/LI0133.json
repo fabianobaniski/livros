@@ -1,0 +1,68 @@
+{
+  "obra_id": 1909,
+  "autor": "Jayr Figueiredo de Oliveira (Org.); Marcos Cordeiro Pires; Sérgio Antônio dos Santos",
+  "titulo": "Economia para administradores",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Economia. Formação superior.",
+  "palavras_chave": "oliveira economia para administradores",
+  "edicao_id": 1889,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 432,
+  "peso": 760,
+  "isbn": "9788502052031",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço <b>www.saraivauni.com.br</b></p><img src=\"capa_site_saraivauni.jpg\" alt=\"Imagem do site SaraivaUni\"/><p>SAC Uni (11) 3613-3075<br>www.saraivauni.com.br</p>",
+  "sinopse": "Este livro, elaborado por Jayr Figueiredo de Oliveira, Marcos Cordeiro Pires e Sérgio Antônio dos Santos, aborda conceitos econômicos aplicados à administração, sendo indicado para estudantes e profissionais da área. A edição conta com apoio da Editora Saraiva e está inserida em um contexto de apoio ao ensino superior, divulgando também outras obras e materiais complementares por meio do site SaraivaUni.",
+  "exemplar_id": 1888,
+  "sku": "LI0133",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--capa--20250430--104259.jpg",
+  "contracapa": "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--contracapa--20250430--104259.jpg",
+  "fotos": [
+    "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--foto1--20250430--104259.jpg",
+    "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--foto2--20250430--104259.jpg",
+    "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--foto3--20250430--104259.jpg",
+    "static/uploads/jayr-figueiredo-de-oliveira--org----economia-para-administradores--foto4--20250430--104259.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular em razão de contato leve com umidade (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:48:40",
+  "observacoes": "procedencia_biblioteca"
+}

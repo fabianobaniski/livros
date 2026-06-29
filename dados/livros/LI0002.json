@@ -1,0 +1,68 @@
+{
+  "obra_id": 3,
+  "autor": "Gareth Roberts",
+  "titulo": "Doctor Who: Shada",
+  "subtitulo": "A aventura perdida de Douglas Adams",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Ficção Científica. Séries de TV. Doctor Who",
+  "palavras_chave": "roberts shada doctor who",
+  "edicao_id": 3,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 345,
+  "peso": 400,
+  "isbn": "9788581051994",
+  "editora": "Suma de Letras",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Doctor Who",
+  "volume": null,
+  "transcricao_contracapa": "<p>Vista e cultuada em mais de duzentos países, a série de TV <i>Doctor Who</i> é um ícone cultural britânico que conquistou mais de 70 milhões de fãs em cinquenta anos de aventura.</p><p>O seriado acompanha o Doutor: um viajante misterioso, vindo do planeta Gallifrey, movido pelo desejo de explorar todos os cantos do tempo e do espaço. Um dos Senhores do Tempo, o Doutor é capaz de se regenerar para escapar da morte, mudando de corpo, rosto e personalidade. Com seus companheiros, humanos e alienígenas, ele protege a Terra e o cosmos contra perigos de todos os tipos.</p><p><i>Shada</i> reconta um episódio que nunca foi transposto para as telas de televisão, uma aventura \"perdida\" de 1979. Escrita pelo então editor de roteiros da série, Douglas Adams, o autor de <i>O guia do mochileiro das galáxias</i>, <i>Shada</i> traz a quarta encarnação do Doutor e sua companheira Romana II.</p>",
+  "sinopse": "Baseado em um roteiro perdido de Douglas Adams, Shada reconta uma aventura não filmada de Doctor Who, escrita em 1979. O Doutor e sua companheira Romana II enfrentam perigos pelo tempo e espaço.",
+  "exemplar_id": 3,
+  "sku": "LI0002",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/gareth-roberts--shada--capa--20250225--162645.jpg",
+  "contracapa": "static/uploads/gareth-roberts--shada--contracapa--20250225--162645.jpg",
+  "fotos": [
+    "static/uploads/gareth-roberts--shada--foto1--20250225--162645.jpg",
+    "static/uploads/gareth-roberts--shada--foto2--20250225--162645.jpg",
+    "static/uploads/gareth-roberts--shada--foto3--20250225--162645.jpg",
+    "static/uploads/gareth-roberts--shada--foto4--20250225--162645.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:33:02",
+  "observacoes": null
+}

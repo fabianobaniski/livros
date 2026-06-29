@@ -1,0 +1,63 @@
+{
+  "obra_id": 695,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Tito e Filemom",
+  "subtitulo": "Doutrina e Vida, um binômio inseparável",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Doutrina. Relações humanas.",
+  "palavras_chave": "lopes tito filemom",
+  "edicao_id": 680,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 162,
+  "peso": 280,
+  "isbn": "9788577420513",
+  "editora": "Hagnos",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>As cartas de Paulo a Tito e Filemom são gemas valiosíssimas que enriquecem o conteúdo da verdade revelada de Deus. Tito associa de forma magnífica a doutrina ao dever; a teologia à vida. O dever decorre da doutrina; a vida é resultado da teologia. Desprezar a doutrina é cair no abismo de uma vida desregrada. Abandonar a teologia é enveredar-se pelos atalhos sinuosos da heresia e cair no abismo da devassidão moral.</p><p>A carta a Filemom é a menor e a última carta de Paulo no cânon. É uma das jóias mais belas de toda a literatura universal. É um manual de relacionamento humano no qual se proclama de forma clara o poder e a eficácia do evangelho. Não há casos perdidos para Deus. Não há vidas irrecuperáveis para Deus. Não há instrumento tão poderoso como o evangelho para transformar vidas, famílias e a própria sociedade.</p><p>Hernandes Dias Lopes, casado com Udemilta Pimentel Lopes, pai de Thiago e Mariana. Bacharel em teologia pelo Seminário Presbiteriano do Sul, Campinas, SP e Doutor em Ministério pelo Reformed Theological Seminary de Jackson, Mississippi, Estados Unidos. Pastor da Primeira Igreja Presbiteriana de Vitória, Espírito Santo, desde 1985. Conferencista e escritor, com mais de 100 livros publicados. Contatos: www.hernandesdiasslopes.com.br hdlopes@veloxmail.com.br</p>",
+  "sinopse": "As cartas de Paulo a Tito e Filemom trazem ensinamentos valiosos sobre a doutrina e a vida, refletindo sobre a importância de associá-las de forma equilibrada. A obra enfatiza que desprezar a doutrina leva a uma vida desregrada, enquanto a conexão entre teologia e vida é crucial para o desenvolvimento espiritual e social. A carta a Filemom é destacada como um tesouro da literatura universal, abordando o valor das relações humanas sob a luz do evangelho.",
+  "exemplar_id": 679,
+  "sku": "LI00IA",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/hernandes-dias-lopes--tito-e-filemom--capa--20250227--152858.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--tito-e-filemom--contracapa--20250227--152858.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:24:11",
+  "observacoes": null
+}

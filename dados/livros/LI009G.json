@@ -1,0 +1,68 @@
+{
+  "obra_id": 370,
+  "autor": "Jean Guitton",
+  "titulo": "O trabalho intelectual",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Educação. Autodisciplina. Metodologia.",
+  "palavras_chave": "guitton trabalho intelectual",
+  "edicao_id": 360,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788594090119",
+  "editora": "Kirion",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>É raro, durante a juventude do aluno, que o professor o ensine a trabalhar. Ele lhe indica o enunciado do exercício; aprecia, avalia os seus trabalhos e, vez ou outra, propõe-lhe certas correções. Mas, quanto à maneira como ele fez, pouco ou nada lhe diz. É dessa inexperiência sobre <b>a maneira de fazer</b> que resulta, em grande parte, a impressão de desânimo que muitos tiram de seus estudos. Este livro nasceu de um sentimento de profunda amizade pelos estudantes, sobretudo por aqueles que sofrem dos males causados pela desorganização e pela solidão. Tem por objetivo ajudá-los no seu trabalho; aspiraria, pois, à libertação de toda e qualquer impressão de inferioridade ou de angústia. Mas este livro também se dirige a todos aqueles que, apesar da barafunda da vida moderna, ainda não renunciaram à leitura, à escrita, ao pensamento. Este livro também é dedicado aos que já sabem: dado que, no que diz respeito ao conhecimento, ao estilo e à linguagem, somos todos aprendizes e, como dizia Goethe, é bom que se aprenda a fazer a coisa mais insignificante da maneira mais grandiosa.</p>",
+  "sinopse": "O trabalho intelectual se propõe a orientar estudantes e leitores na busca por uma metodologia de estudo e aprendizado. A obra destaca a importância de desenvolver uma maneira eficaz de fazer as coisas, refletindo sobre as dificuldades que muitos enfrentam durante sua formação. O autor busca inspirar a autoconfiança e a resiliência diante da desorganização e da solidão, promovendo uma abordagem enriquecedora para a leitura e o conhecimento.",
+  "exemplar_id": 359,
+  "sku": "LI009G",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/jean-guitton--o-trabalho-intelectual--capa--20250226--133823.jpg",
+  "contracapa": "static/uploads/jean-guitton--o-trabalho-intelectual--contracapa--20250226--133823.jpg",
+  "fotos": [
+    "static/uploads/jean-guitton--o-trabalho-intelectual--foto1--20250226--133823.jpg",
+    "static/uploads/jean-guitton--o-trabalho-intelectual--foto2--20250226--133823.jpg",
+    "static/uploads/jean-guitton--o-trabalho-intelectual--foto3--20250226--133823.jpg",
+    "static/uploads/jean-guitton--o-trabalho-intelectual--foto4--20250226--133823.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:45:46",
+  "observacoes": null
+}

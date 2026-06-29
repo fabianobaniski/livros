@@ -1,0 +1,63 @@
+{
+  "obra_id": 2589,
+  "autor": "Vários autores - Grafipar",
+  "titulo": "História do Paraná",
+  "subtitulo": "Volume III",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "grafipar historia parana volume",
+  "edicao_id": 2569,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 329,
+  "peso": 500,
+  "isbn": "",
+  "editora": "Grafipar",
+  "numero_edicao": 0,
+  "ano": 1969,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2568,
+  "sku": "LI01LX",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/historia-do-parana-varios-autores--grafipar-capa_rev1590.jpg",
+  "contracapa": "static/uploads/historia-do-parana-varios-autores--grafipar-contracapa_rev577.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa com marca deixada por traça. Contracapa sem danos. Lombada alinhada. Texto sem grifos ou anotações. Papel amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:52:37",
+  "observacoes": null
+}

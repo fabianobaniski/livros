@@ -1,0 +1,68 @@
+{
+  "obra_id": 5767,
+  "autor": "Carlos Alberto de Quadros Bezerra",
+  "titulo": "Apascentai o rebanho",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Liderança pastoral. Vida cristã.",
+  "palavras_chave": "bezerra apascentai rebanho",
+  "edicao_id": 5742,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 203,
+  "peso": 260,
+  "isbn": "",
+  "editora": "Vida",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O livro <i>Apascentai o Rebanho</i> é fruto de anos de experiência ministerial do Pr. Carlos Alberto de Quadros Bezerra. Nele, o autor abre o seu amoroso coração e expõe os desafios pastorais e as soluções que encontrou para eles.</p><p>Sendo responsável por um grande rebanho, o Pr. Carlos Alberto cedo entendeu que não poderia apascentá-lo sozinho. Tal como Moisés, o grande patriarca de Israel e um dos maiores líderes de todos os tempos, ele convocou e preparou jovens vocacionados por Deus e os colocou para trabalhar ao seu lado. Dessa forma, dividindo as tarefas pastorais com outros líderes da igreja, ele alargou seu ministério e abençoou a sua comunidade.</p><p>Além desse tema altamente palpitrante, neste livro o autor também aborda a necessidade de uma reflexão profunda acerca do Evangelho que ouvimos e pregamos e sobre a vida cristã que praticamos nas igrejas.</p><p>Nestes momentos difíceis em que vivemos, quando muitos lobos devoradores infiltram-se na igreja para arrebatar as ovelhas do Senhor, é necessário uma vigilância maior da parte dos pastores.</p><p><i>Carlos Alberto de Quadros Bezerra é pastor, líder da Comunidade da Graça no Brasil e apresentador do Programa 'Encontros de Paz' pela rede CNT de televisão.</i></p>",
+  "sinopse": "Este livro reúne experiências do pastor Carlos Alberto de Quadros Bezerra em seu ministério, abordando os desafios pastorais e as soluções encontradas. Ele destaca a importância do trabalho em equipe na liderança da igreja e a preparação de jovens líderes. Além disso, reflete sobre o Evangelho e a vida cristã praticada nas comunidades, alertando para a necessidade de vigilância frente aos desafios atuais que a igreja enfrenta.",
+  "exemplar_id": 5741,
+  "sku": "LI035C",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/apascentai-o-rebanho__none__carlos-alberto-de-quadros-bezerra__capa__2026-01-18_14-11-34-079029-000.png",
+  "contracapa": "static/uploads/apascentai-o-rebanho__none__carlos-alberto-de-quadros-bezerra__contracapa__2026-01-18_14-11-34-097229-001.png",
+  "fotos": [
+    "static/uploads/apascentai-o-rebanho__none__carlos-alberto-de-quadros-bezerra__foto-01__2026-01-18_14-11-34-116681-002.jpg",
+    "static/uploads/apascentai-o-rebanho__none__carlos-alberto-de-quadros-bezerra__foto-02__2026-01-18_14-11-34-144618-003.jpg",
+    "static/uploads/apascentai-o-rebanho__none__carlos-alberto-de-quadros-bezerra__foto-03__2026-01-18_14-11-34-177851-004.jpg",
+    "static/uploads/apascentai-o-rebanho__none__carlos-alberto-de-quadros-bezerra__foto-04__2026-01-18_14-11-34-209289-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:52:04",
+  "observacoes": null
+}

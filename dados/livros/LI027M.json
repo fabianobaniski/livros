@@ -1,0 +1,68 @@
+{
+  "obra_id": 3375,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance. Comédia romântica. Vida escolar.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 3352,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788542607932",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Raku continua tentando encontrar uma maneira de dizer à Onodera que gosta dela. Enquanto isso, Claude envia Tsugumi para vigiar o relacionamento de Chitoge, disposto a livrar sua protegida de todas as más intenções de seu \"namorado\". Quais serão as chances de Raku escapar da mira de alguém que foi treinado como assassino?</p>",
+  "sinopse": "Raku está em busca de uma oportunidade para confessar seus sentimentos por Onodera, mas enfrenta novos desafios quando Claude envia Tsugumi para vigiar seu relacionamento com Chitoge. Determinado a proteger Chitoge de possíveis más intenções, Tsugumi representa uma ameaça para Raku, que precisará encontrar uma forma de escapar das armadilhas de alguém treinado como assassino.",
+  "exemplar_id": 3351,
+  "sku": "LI027M",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2025-11-05_16-14-45-642580.jpg",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2025-11-05_16-14-45-687802.jpg",
+  "fotos": [
+    "static/uploads/nisekoi__naoshi-komi__foto-01__2025-11-05_16-14-45-715730.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-02__2025-11-05_16-14-45-750107.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-03__2025-11-05_16-14-45-773422.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-04__2025-11-05_16-14-45-800786.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:36:13",
+  "observacoes": null
+}

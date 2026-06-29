@@ -1,0 +1,68 @@
+{
+  "obra_id": 3387,
+  "autor": "Keiko Suenobu",
+  "titulo": "Limit",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Sobrevivência. Relações interpessoais. Conflitos adolescentes.",
+  "palavras_chave": "suenobu limit",
+  "edicao_id": 3364,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788545700630",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Após um inesperado acidente, o \"mundo perfeito\" de Mizuki Konno se faz em pedaços. Ao se ver presa a um grupo de sobreviventes liderado pela rancorosa Arisa Morishige, a jovem deve escolher entre a fome e uma violenta disputa com sua colega Haru Ichinose. Completo em 6 edições</p>",
+  "sinopse": "Depois de um acidente inesperado, Mizuki Konno vê seu \"mundo perfeito\" se despedaçar. Agora, presa entre sobreviventes sob o comando de Arisa Morishige, Mizuki tem que escolher entre a fome e enfrentar uma disputa lenta e violenta com Haru Ichinose. Este é o segundo volume do suspense dramático completo em seis volumes.",
+  "exemplar_id": 3363,
+  "sku": "LI027Y",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/limit__keiko-suenobu__capa__2025-11-05_16-14-48-938185.jpg",
+  "contracapa": "static/uploads/limit__keiko-suenobu__contracapa__2025-11-05_16-14-48-974975.jpg",
+  "fotos": [
+    "static/uploads/limit__keiko-suenobu__foto-01__2025-11-05_16-14-49-013432.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-02__2025-11-05_16-14-49-120339.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-03__2025-11-05_16-14-49-240180.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-04__2025-11-05_16-14-49-260005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:35:34",
+  "observacoes": null
+}

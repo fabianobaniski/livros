@@ -1,0 +1,63 @@
+{
+  "obra_id": 5261,
+  "autor": "Satoru Noda",
+  "titulo": "Golden Kamuy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Sobrevivência. Cultura.",
+  "palavras_chave": "noda golden kamuy",
+  "edicao_id": 5236,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 230,
+  "isbn": "9786559600823",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 15,
+  "transcricao_contracapa": "<p>“Karafuto é um lugar perigoso!!” O grupo de Sugimoto se depara com uma nova cultura, animais diferentes e um outro ambiente na ilha de Karafuto, localizada ao norte de Hokkaido!! De Honshu para Hokkaido, e de lá, para Karafuto! Ataques de carcaju, embates na stenka e banya! Sugimoto, o imortal, oficia sua luta pela sobrevivência! Sem despedida, não há reencontro! A história da viagem dos dois! Este é o volume 15!!</p>",
+  "sinopse": "O grupo de Sugimoto enfrenta novos desafios em Karafuto, com uma cultura diferente e perigos como animais selvagens. Vivendo aventuras cheias de ação, a luta pela sobrevivência se intensifica neste volume 15.",
+  "exemplar_id": 5235,
+  "sku": "LI02XH",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/golden-kamuy__satoru-noda__capa__2026-02-20_10-33-00-281654-000.png",
+  "contracapa": "static/uploads/golden-kamuy__satoru-noda__contracapa__2026-02-20_10-33-00-455014-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

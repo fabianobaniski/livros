@@ -1,0 +1,63 @@
+{
+  "obra_id": 2884,
+  "autor": "Emmanuel Fraisse; J. C. Pompaugnac; M. Poulain",
+  "titulo": "Representações e imagens da leitura",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "fraisse representacoes imagens leitura",
+  "edicao_id": 2864,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 300,
+  "isbn": "9788508066377",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Explorando a relação entre o leitor e a leitura, este livro reflete sobre como a prática de ler vai além do simples ato de decifrar textos, analisando as camadas autobiográficas presentes na crítica literária e na pintura entre 1880 e 1980. Através de testemunhos de figuras como Sartre e Simone de Beauvoir, a obra revela como a leitura é uma experiência subjetiva, que conecta o leitor às obras de forma única e pessoal, estabelecendo um diálogo profundo entre o texto e seu público ao longo do tempo.",
+  "exemplar_id": 2863,
+  "sku": "LI01U4",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/representacoes-e-imagens-da-leitura-emmanuel-fraisse-j-c-pompaugnac-m-poulain-capa_rev1657.jpg",
+  "contracapa": "static/uploads/representacoes-e-imagens-da-leitura-emmanuel-fraisse-j-c-pompaugnac-m-poulain-contracapa_rev1847.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem cuidado, apesar de um tanto amarelado pelo tempo. Capa, lombada e miolo sem danos significativos. Texto livre de grifos e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:42:42",
+  "observacoes": null
+}

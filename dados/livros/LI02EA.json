@@ -1,0 +1,68 @@
+{
+  "obra_id": 3615,
+  "autor": "Minha Biblioteca Católica",
+  "titulo": "Guia O Santo do Cotidiano",
+  "subtitulo": "Ano 1 - Nº 2 - Janeiro 2022",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "catolica guia santo cotidiano",
+  "edicao_id": 3592,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 93,
+  "peso": 160,
+  "isbn": "",
+  "editora": "Minha Biblioteca Católica",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3591,
+  "sku": "LI02EA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/minha-biblioteca-catolica--guia-o-santo-do-cotidiano--capa--20251114--175710.png",
+  "contracapa": "static/uploads/minha-biblioteca-catolica--guia-o-santo-do-cotidiano--contracapa--20251114--175716.png",
+  "fotos": [
+    "static/uploads/minha-biblioteca-catolica--guia-o-santo-do-cotidiano--foto1--20251121--185449.jpg",
+    "static/uploads/minha-biblioteca-catolica--guia-o-santo-do-cotidiano--foto2--20251121--185449.jpg",
+    "static/uploads/minha-biblioteca-catolica--guia-o-santo-do-cotidiano--foto3--20251121--185449.jpg",
+    "static/uploads/minha-biblioteca-catolica--guia-o-santo-do-cotidiano--foto4--20251121--185449.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:27:56",
+  "observacoes": null
+}

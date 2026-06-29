@@ -1,0 +1,68 @@
+{
+  "obra_id": 5835,
+  "autor": "Harlan Coben",
+  "titulo": "Win",
+  "subtitulo": "Windsor Horne Lockwood III",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Suspense policial. Justiça pessoal. Investigações familiares. Mistério.",
+  "palavras_chave": "coben win windsor horne lockwood",
+  "edicao_id": 5810,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 287,
+  "peso": 415,
+  "isbn": "9786555651942",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Neste suspense inédito de Harlan Coben, o protagonista é o milionário Windsor Horne Lockwood III – ou simplesmente Win, como é chamado pelos (poucos) amigos, entre eles Myron Bolitar.</p><p>Em uma cobertura em Nova York, um homem recluso é encontrado morto. Junto ao corpo, há duas peças dignas de nota: uma pintura de Vermeer e uma mala de couro com as iniciais WHL3 gravadas.</p><p>Levado até o local pelo FBI, Win não faz ideia de como sua mala e o quadro que foi roubado de sua família anos atrás foram parar lá.</p><p>Mas ele decide que vai descobrir, principalmente depois de saber que o homem assassinado pode estar ligado ao sequestro de sua prima, ocorrido há mais de 20 anos. Na época, ela conseguiu fugir, mas seus captores e os objetos roubados nunca foram encontrados.</p><p>Dono de uma apurada capacidade de observação, Win tem três coisas a seu favor para desvendar esse mistério: uma ligação pessoal com o caso, uma enorme fortuna e um estilo único de fazer justiça.</p><p>“Harlan Coben já provou ser um mestre em criar enredos elaborados, e <i>Win</i> não é exceção: mantém os leitores intrigados do início ao fim.”<br><b>Toronto Star</b></p>",
+  "sinopse": "Neste suspense protagonizado por Windsor Horne Lockwood III, mais conhecido como Win, um homem é encontrado morto em uma cobertura de Nova York ao lado de uma mala com as iniciais WHL3 e uma pintura de Vermeer, ambos roubados da família de Win há anos. Chamado pelo FBI, ele busca desvendar a ligação do assassinato com o sequestro de sua prima ocorrido há mais de 20 anos. Utilizando sua perspicácia, fortuna e estilo único de justiça, Win se empenha em solucionar um mistério de profundas conexões pessoais.",
+  "exemplar_id": 5809,
+  "sku": "LI0378",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/win__windsor-horne-lockwood-iii__harlan-coben__capa__2026-01-18_14-12-07-485652-000.png",
+  "contracapa": "static/uploads/win__windsor-horne-lockwood-iii__harlan-coben__contracapa__2026-01-18_14-12-07-518098-001.png",
+  "fotos": [
+    "static/uploads/win__windsor-horne-lockwood-iii__harlan-coben__foto-01__2026-01-18_14-12-07-539537-002.jpg",
+    "static/uploads/win__windsor-horne-lockwood-iii__harlan-coben__foto-02__2026-01-18_14-12-07-574301-003.jpg",
+    "static/uploads/win__windsor-horne-lockwood-iii__harlan-coben__foto-03__2026-01-18_14-12-07-599232-004.jpg",
+    "static/uploads/win__windsor-horne-lockwood-iii__harlan-coben__foto-04__2026-01-18_14-12-07-678142-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:01:21",
+  "observacoes": null
+}

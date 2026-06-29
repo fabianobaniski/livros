@@ -1,0 +1,68 @@
+{
+  "obra_id": 1491,
+  "autor": "Randal Rauser",
+  "titulo": "Encontre Deus na cabana",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Superação. Amor.",
+  "palavras_chave": "rauser encontre deus cabana",
+  "edicao_id": 1472,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 174,
+  "peso": 250,
+  "isbn": "9788576656975",
+  "editora": "Planeta",
+  "numero_edicao": 2,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A filha mais nova de Mack Allen Phillips é assassinada dentro de uma cabana abandonada. O brutal crime deixa o pai da menina envolto em profunda angústia e tristeza. Quatro anos depois, Mack recebe um convite de Deus para passar um fim de semana na mesma cabana onde o crime aconteceu. Esse convite mudará para sempre a vida desse pai. Deus não abandona seus filhos.</p><p>O livro de William P. Young tornou-se um best-seller mundial e é fácil saber por quê. Embora muitas vidas tenham se transformado após a leitura desse livro, outros leitores ainda têm dúvidas sobre sua verdadeira mensagem. O autor e teólogo Randal Rauser revela neste livro todas as mensagens divinas de amor, paz e perdão e explica por que Deus se manifesta em diferentes formas e por que devemos aceitar o convite de Deus para começarmos a mudar nossa vida e encontrarmos a verdadeira paz de espírito.</p><p>Descubra por que o livro A Cabana é considerado:</p><blockquote><p>“Um potencial para oferecer consolo inegável. (...) um final cheio de esperança.”</p><p>Revista Veja</p></blockquote>",
+  "sinopse": "A história gira em torno de Mack Allen Phillips, cuja filha mais nova é assassinada em uma cabana abandonada. Após quatro anos de sofrimento, Mack recebe um convite de Deus que mudará sua vida. O livro aborda temas de amor, paz e perdão, revelando mensagens divinas que podem transformar vidas.",
+  "exemplar_id": 1471,
+  "sku": "LI00W4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/randal-rauser--encontre-deus-na-cabana--capa--20250401--115739.jpg",
+  "contracapa": "static/uploads/randal-rauser--encontre-deus-na-cabana--contracapa--20250401--115739.jpg",
+  "fotos": [
+    "static/uploads/randal-rauser--encontre-deus-na-cabana--foto1--20250401--115739.jpg",
+    "static/uploads/randal-rauser--encontre-deus-na-cabana--foto2--20250401--115740.jpg",
+    "static/uploads/randal-rauser--encontre-deus-na-cabana--foto3--20250401--115740.jpg",
+    "static/uploads/randal-rauser--encontre-deus-na-cabana--foto4--20250401--115740.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Algumas páginas com leve marca de dobra nas pontas. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:18:30",
+  "observacoes": null
+}

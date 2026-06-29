@@ -1,0 +1,63 @@
+{
+  "obra_id": 471,
+  "autor": "William Douglas; Davi Lago",
+  "titulo": "Formigas",
+  "subtitulo": "Lições da sociedade mais bem-sucedida da terra",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Inteligência. Trabalho. Aprendizado.",
+  "palavras_chave": "douglas lago formigas licoes",
+  "edicao_id": 456,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 118,
+  "peso": 280,
+  "isbn": "9788543301303",
+  "editora": "Mundo Cristão",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Com sua habitual perspicácia, William Douglas, autor de <i>As 25 leis bíblicas do sucesso</i>, acompanhado pela pena criativa de Davi Lago, resgatam um trecho do livro bíblico de Provérbios para nos transmitir lições preciosas para os dias de hoje.</p> <p>O personagem citado na Bíblia que tem muito a nos ensinar é a formiga, que integra uma das sociedades mais incríveis do planeta:</p> <p>Formigas não têm medo de trabalhar; possuem iniciativa, sabem as razões de seu esforço, são organizadas e capazes de armazenar riqueza. Além disso, combatem a cultura do desperdício, cientes de que cada migalha é importante; também não ficam pelo caminho, antes concluem suas atividades. A despeito de tudo isso, sabem usufruir do descanso e dos resultados de seu trabalho.</p> <p>Se você sente a necessidade de buscar uma vida melhor e com significado, considere avaliar as dez valiosas lições que precisamos aprender com as formigas, explicadas por uma dupla bem-sucedida em sua área de atuação e que descobriu como fazer a vida valer a pena.</p> <p>Divirta-se o leitor com a sabedoria de tantas inteligências citadas nas páginas escritas pelos inteligentes autores, que condensaram a inteligência bíblica e resumiram a inteligência das formigas. Seja inteligente, aprenda com quem aprendeu. Seja humilde, aprenda com as formigas.</p> <p>ED RENÉ KIVITZ<br>Escritor e pastor da Igreja Batista de Água Branca (São Paulo, SP)</p>",
+  "sinopse": "Este livro oferece lições práticas baseadas nas formigas, destacando sua sabedoria e organização. Os autores, William Douglas e Davi Lago, trazem insights valiosos sobre trabalho, eficiência e humildade, encorajando o leitor a aprender com essas pequenas criaturas que formam sociedades exemplares.",
+  "exemplar_id": 455,
+  "sku": "LI00C2",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/william-douglas--formigas--capa--20250227--111544.jpg",
+  "contracapa": "static/uploads/william-douglas--formigas--contracapa--20250227--111544.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:12:45",
+  "observacoes": null
+}

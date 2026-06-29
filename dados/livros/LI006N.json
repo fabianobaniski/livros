@@ -1,0 +1,68 @@
+{
+  "obra_id": 262,
+  "autor": "Luisa Soresini",
+  "titulo": "A filha do norte",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura fantástica. Mistério. Amizade.",
+  "palavras_chave": "soresini filha norte",
+  "edicao_id": 256,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 494,
+  "peso": 380,
+  "isbn": "9788542807639",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Tudo começa quando Michelle e Meredith saem para ver as flores. Uma tempestade faz com que Michelle se perca. Desnorteada, sai em busca de ajuda e avista uma mansão enorme e antiga. Pensando não haver ninguém na casa, a menina entra no local para se abrigar e é surpreendida ao ser recebida por uma governanta tão sinistra quanto a casa. Seu instinto lhe diz que há algo de errado, mas essa sensação passa quando ela se depara com um ambiente completamente diferente daquela fachada macabra que vira. O interior da mansão é maravilhoso, bonito e sofisticado, assim como os seus donos: os irmãos Vergamini.</p> <p>O que Michelle não imagina é que às vezes é necessário ouvir nossos instintos. Ela está em perigo e talvez nem suas amigas, Elza e Meredith, as bruxas do Leste e do Sul, consigam salvá-la.</p>",
+  "sinopse": "Michelle e Meredith saem para ver as flores, mas uma tempestade faz com que Michelle se perca. Na busca por abrigo, ela encontra uma mansão antiga e é recebida por uma governanta sinistra. No entanto, a beleza do interior da mansão e de seus proprietários contrasta com sua primeira impressão. À medida que os perigos se aproximam, Michelle deve confiar em seus instintos para tentar escapar de uma situação ameaçadora.",
+  "exemplar_id": 255,
+  "sku": "LI006N",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/luisa-soresini--a-filha-do-norte--capa--20250226--133812.jpg",
+  "contracapa": "static/uploads/luisa-soresini--a-filha-do-norte--contracapa--20250226--133812.jpg",
+  "fotos": [
+    "static/uploads/luisa-soresini--a-filha-do-norte--foto1--20250226--133812.jpg",
+    "static/uploads/luisa-soresini--a-filha-do-norte--foto2--20250226--133812.jpg",
+    "static/uploads/luisa-soresini--a-filha-do-norte--foto3--20250226--133812.jpg",
+    "static/uploads/luisa-soresini--a-filha-do-norte--foto4--20250226--133812.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:21:47",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2281,
+  "autor": "Mitsuru Higuchi Yanaze",
+  "titulo": "Gestão de marketing e comunicação",
+  "subtitulo": "Avanços e aplicações",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Marketing. Comunicação corporativa.",
+  "palavras_chave": "yanaze gestao marketing comunicacao",
+  "edicao_id": 2261,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 554,
+  "peso": 1300,
+  "isbn": "9788502061897",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nem conjunto de teorias, nem ferramenta para atender às demandas do mercado. A importância do marketing hoje está além do preconizado até hoje. Escrito pelo professor Mitsuru Higuchi Yanaze, da Universidade de São Paulo, <i>Gestão de Marketing e Comunicação: Avanços e Aplicações</i> traz aos leitores uma nova visão do marketing, colocando como um princípio de trabalho eficaz, que envolve não somente o mercado externo, mas todos os níveis hierárquicos de uma empresa.</p><p>O livro apresenta os principais conceitos e modelos de marketing e comunicação, orientando sua aplicação prática de uma forma dedicada à busca constante do conhecimento e do equilíbrio de dois potenciais: o potencial operacional e de oferta da empresa, e o potencial de demanda e de capacidade aquisitiva dos segmentos de mercado almejados. Por meio de atividades propostas, os leitores poderão simular a prática do marketing em situações reais e incorporar os paradigmas de marketing efetivamente. Professores e profissionais de comunicação também encontram no livro uma excelente fonte das principais teorias sobre o assunto.</p>",
+  "sinopse": "O livro apresenta uma nova visão de marketing, destacando a importância do tema nas empresas para além do mercado externo. Com base em conceitos e modelos de marketing e comunicação, a obra orienta aplicações práticas, buscando o equilíbrio entre o potencial operacional da empresa e o potencial de demanda do mercado. Inclui atividades que simulam situações reais para fixação do conhecimento. É uma valiosa fonte para professores e profissionais de comunicação interessados nas principais teorias do setor.",
+  "exemplar_id": 2260,
+  "sku": "LI01DE",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mitsuru-higuchi-yanaze--gest-o-de-marketing-e-comunica--o--capa--20250430--105108.jpg",
+  "contracapa": "static/uploads/mitsuru-higuchi-yanaze--gest-o-de-marketing-e-comunica--o--contracapa--20250430--105108.jpg",
+  "fotos": [
+    "static/uploads/mitsuru-higuchi-yanaze--gest-o-de-marketing-e-comunica--o--foto1--20250430--105108.jpg",
+    "static/uploads/mitsuru-higuchi-yanaze--gest-o-de-marketing-e-comunica--o--foto2--20250430--105108.jpg",
+    "static/uploads/mitsuru-higuchi-yanaze--gest-o-de-marketing-e-comunica--o--foto3--20250430--105109.jpg",
+    "static/uploads/mitsuru-higuchi-yanaze--gest-o-de-marketing-e-comunica--o--foto4--20250430--105109.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:37:13",
+  "observacoes": "procedencia_biblioteca"
+}

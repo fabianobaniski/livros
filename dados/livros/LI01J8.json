@@ -1,0 +1,63 @@
+{
+  "obra_id": 2492,
+  "autor": "Cecília Meireles",
+  "titulo": "Doze noturnos da Holanda e outros poemas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Poesia",
+  "temas": "",
+  "palavras_chave": "meireles doze noturnos holanda",
+  "edicao_id": 2472,
+  "encadernacao": null,
+  "quantidade_paginas": 232,
+  "peso": 277,
+  "isbn": "",
+  "editora": "Nova Fronteira",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2471,
+  "sku": "LI01J8",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/cecilia-meireles--doze-noturnos-da-holanda-e-outros-poemas--capa--20260316--192818.jpg",
+  "contracapa": "static/uploads/cecilia-meireles--doze-noturnos-da-holanda-e-outros-poemas--contracapa--20260316--192818.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, em boas condições de manuseio e leitura. Papel um pouco pigmentado pela ação do tempo, principalmente nas bordas. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:36:10",
+  "observacoes": null
+}

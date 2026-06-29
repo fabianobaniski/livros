@@ -1,0 +1,68 @@
+{
+  "obra_id": 3401,
+  "autor": "Kakifly",
+  "titulo": "K-On!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Cultura pop japonesa. Vida escolar. Amizade. Música.",
+  "palavras_chave": "kakifly kon",
+  "edicao_id": 3378,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788560647712",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>O clube de música do colégio está prestes a fechar as portas por falta de integrantes, e a única saída é completar a cota colocando Yui Hirasawa como guitarrista. O problema é que a garota nunca tocou numa guitarra... na vida. Junto com a baixista Mio Akiyama, a baterista Ritsu Tainaka e a tecladista Tsumugi Kotobuki, Yui vai aprender os desafios de ser uma grande estrela da música ao mesmo tempo que precisam estudar para as provas.</p>",
+  "sinopse": "O clube de música do colégio corre o risco de ser fechado por falta de integrantes. Para completar o grupo, recrutam Yui Hirasawa como guitarrista, mesmo ela nunca tendo tocado antes. Junto de Mio, Ritsu e Tsumugi, Yui enfrentará os desafios de se tornar uma estrela da música enquanto lida com as obrigações escolares.",
+  "exemplar_id": 3377,
+  "sku": "LI028C",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/k-on__kakifly__capa__2025-11-05_16-14-59-530411.jpg",
+  "contracapa": "static/uploads/k-on__kakifly__contracapa__2025-11-05_16-14-59-564764.jpg",
+  "fotos": [
+    "static/uploads/k-on__kakifly__foto-01__2025-11-05_16-14-59-598045.jpg",
+    "static/uploads/k-on__kakifly__foto-02__2025-11-05_16-14-59-619121.jpg",
+    "static/uploads/k-on__kakifly__foto-03__2025-11-05_16-14-59-636918.jpg",
+    "static/uploads/k-on__kakifly__foto-04__2025-11-05_16-14-59-654627.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:08:33",
+  "observacoes": null
+}

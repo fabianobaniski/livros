@@ -1,0 +1,68 @@
+{
+  "obra_id": 398,
+  "autor": "Jorge Amado",
+  "titulo": "Terras do sem fim",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura brasileira. Cultura. Sociedade.",
+  "palavras_chave": "amado terras fim",
+  "edicao_id": 386,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 304,
+  "peso": 350,
+  "isbn": "850105030X",
+  "editora": "Record",
+  "numero_edicao": 72,
+  "ano": 2002,
+  "serie": "Jorge Amado para jovens",
+  "volume": null,
+  "transcricao_contracapa": "<p>Sei, de um saber sem dúvidas, que de tudo quanto escrevi, milhares de páginas, só prevalecerá, só perdurará aquilo onde existir um sopro de vida viva, o hálito do povo da Bahia. Dele tirei os materiais de minha humanidade, para ele criei e construí.</p> <p>Jorge Amado</p> <p>Ilustração: Roger Mello</p> <p>Foto: Claus Meyer (Câmara Três)</p>",
+  "sinopse": "Sei, de um saber sem dúvidas, que de tudo quanto escrevi, milhares de páginas, só prevalecerá, só perdurará aquilo onde existir um sopro de vida viva, o hálito do povo da Bahia. Dele tirei os materiais de minha humanidade, para ele criei e construí. (Jorge Amado)",
+  "exemplar_id": 385,
+  "sku": "LI00A4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jorge-amado--terras-do-sem-fim--capa--20250226--133826.jpg",
+  "contracapa": "static/uploads/jorge-amado--terras-do-sem-fim--contracapa--20250226--133826.jpg",
+  "fotos": [
+    "static/uploads/jorge-amado--terras-do-sem-fim--foto1--20250226--133826.jpg",
+    "static/uploads/jorge-amado--terras-do-sem-fim--foto2--20250226--133826.jpg",
+    "static/uploads/jorge-amado--terras-do-sem-fim--foto3--20250226--133826.jpg",
+    "static/uploads/jorge-amado--terras-do-sem-fim--foto4--20250226--133826.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:05:47",
+  "observacoes": null
+}

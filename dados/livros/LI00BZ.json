@@ -1,0 +1,63 @@
+{
+  "obra_id": 468,
+  "autor": "Osho",
+  "titulo": "Amor, liberdade e solitude",
+  "subtitulo": "Uma nova visão sobre os relacionamentos",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Relacionamentos. Solitude. Amor.",
+  "palavras_chave": "osho amor liberdade solitude",
+  "edicao_id": 453,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 238,
+  "peso": 380,
+  "isbn": "9788531609138",
+  "editora": "Cultrix",
+  "numero_edicao": 2,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"É belo estar só e também é belo amar, estar com pessoas. E essas dimensões são complementares, e não contraditórias. Quando você estiver na companhia de outras pessoas, aproveite, e aproveite ao máximo; não há necessidade de se preocupar com a solitude. E, quando estiver saturado dos outros, mergulhe na solitude e aproveite-a ao máximo.\"</p>",
+  "sinopse": "Neste livro, Osho explora a beleza de estar só e a alegria de estar com outras pessoas, enfatizando que essas experiências são complementares. Ele encoraja os leitores a aproveitar a companhia dos outros ao máximo e, ao mesmo tempo, a valorizar a solitude quando necessário.",
+  "exemplar_id": 452,
+  "sku": "LI00BZ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/osho--amor--liberdade-e-solitude--capa--20250227--111544.jpg",
+  "contracapa": "static/uploads/osho--amor--liberdade-e-solitude--contracapa--20250227--111544.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 19:03:50",
+  "observacoes": null
+}

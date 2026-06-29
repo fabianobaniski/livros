@@ -1,0 +1,63 @@
+{
+  "obra_id": 2705,
+  "autor": "Elenice Machado de Almeida; Pedro Bandeira",
+  "titulo": "Minha primeira paixão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "almeida minha primeira paixao",
+  "edicao_id": 2685,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 81,
+  "peso": 200,
+  "isbn": "9788532239075",
+  "editora": "Ftd",
+  "numero_edicao": 18,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Frida, com seus cachinhos ruivos, e Pimpo, com seus óculos de aros pretos, vivem uma relação marcada por provocações na escola. Sentados um na frente do outro, começam a implicar-se ferozmente, chamando-se de Batata-frida e Cara-de-coruja. Porém, o que começa como uma guerra de palavras logo se transforma em sentimentos mais profundos, à medida que ambos percebem que a implicância é, na verdade, uma forma de demonstrar afeto. Iniciada por Elenice Machado de Almeida e concluída por Pedro Bandeira, esta história celebra o amor juvenil e suas descobertas.",
+  "exemplar_id": 2684,
+  "sku": "LI01P5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/minha-primeira-paixao-elenice-machado-de-almeida-capa_rev400.jpg",
+  "contracapa": "static/uploads/minha-primeira-paixao-elenice-machado-de-almeida-contracapa_rev628.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, apesar de um tanto amarelado e com leves sinais de uso. Contracapa riscada. Texto livre de sublinhados e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:00:36",
+  "observacoes": null
+}

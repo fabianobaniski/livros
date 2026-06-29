@@ -1,0 +1,68 @@
+{
+  "obra_id": 1782,
+  "autor": "João Mattar",
+  "titulo": "Filosofia e ética na administração",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Filosofia. Ética. Administração. Teoria do conhecimento. Lógica. Filosofia da linguagem. Sociedade da informação",
+  "palavras_chave": "mattar filosofia etica administracao",
+  "edicao_id": 1762,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 374,
+  "peso": 640,
+  "isbn": "9788502042926",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Explorando os pontos de comunicação entre os universos da filosofia, da ética e da administração, <i>Filosofia e Ética na Administração</i> é uma obra única no mercado brasileiro.</p><p>Um de seus grandes destaques é a aplicação da filosofia e da ética na vida das organizações de forma clara, didática e completa. O livro aprofunda-se de maneira agradável e acessível em algumas questões mais complexas, levando o leitor a refletir e a compreender melhor não só o mundo dos negócios, mas também a sociedade que o cerca e a si próprio.</p><p>Graças ao desenvolvimento de vários temas (história da filosofia, lógica, filosofia da linguagem, teoria do conhecimento, ética, política, filosofia do direito, sociedade da informação, teoria da administração, missão e visão das empresas, entre outros) e à riqueza com que foram explorados, esta obra consagrou-se como referência na área.</p><p><b>Aplicação:</b> Este livro pode ser utilizado nas seguintes disciplinas: Filosofia, Ética Geral, Ética nas Empresas, Ética Profissional.</p>",
+  "sinopse": "Explorando os pontos de comunicação entre filosofia, ética e administração, este livro destaca-se pela aplicação clara e didática desses conceitos na vida das organizações. Com abordagem acessível e aprofundamento em temas relevantes, incentiva o leitor a refletir sobre os negócios e a sociedade. Tornou-se referência ao tratar história da filosofia, ética, lógica, teoria do conhecimento, informação, missão e visão das empresas, entre outros tópicos, sendo indicado para disciplinas de Filosofia, Ética Geral e Ética Profissional.",
+  "exemplar_id": 1761,
+  "sku": "LI00ZL",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jo-o-mattar--filosofia-e--tica-na-administra--o--capa--20250430--102946.jpg",
+  "contracapa": "static/uploads/jo-o-mattar--filosofia-e--tica-na-administra--o--contracapa--20250430--102946.jpg",
+  "fotos": [
+    "static/uploads/jo-o-mattar--filosofia-e--tica-na-administra--o--foto1--20250430--102946.jpg",
+    "static/uploads/jo-o-mattar--filosofia-e--tica-na-administra--o--foto2--20250430--102946.jpg",
+    "static/uploads/jo-o-mattar--filosofia-e--tica-na-administra--o--foto3--20250430--102946.jpg",
+    "static/uploads/jo-o-mattar--filosofia-e--tica-na-administra--o--foto4--20250430--102946.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:03:13",
+  "observacoes": "procedencia_biblioteca"
+}

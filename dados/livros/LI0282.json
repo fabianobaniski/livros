@@ -1,0 +1,68 @@
+{
+  "obra_id": 3391,
+  "autor": "Keiko Suenobu",
+  "titulo": "Limit",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Sobrevivência. Drama psicológico. Adolescência. Amizade.",
+  "palavras_chave": "suenobu limit 6",
+  "edicao_id": 3368,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788545701125",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Hinata revela ser o responsável pela morte de Usui e tenta se matar, perturbado pelas mentiras que contou. Com Kamiya ferida, Hinata fora de si, e todas as tensões do grupo, como os sobreviventes conseguirão voltar para casa? Descubra o desfecho neste eletrizante último volume!</p>",
+  "sinopse": "Hinata finalmente admite ser o responsável pela morte de Usui e se vê tomado pelo desespero, chegando a tentar tirar a própria vida devido ao peso de suas mentiras. Enquanto Kamiya está ferida, Hinata perde o controle e o grupo está sob forte tensão. Agora, todos enfrentam o grande desafio: como os sobreviventes conseguirão retornar para casa em meio a tantos conflitos e traumas? Este volume revela o eletrizante desfecho da história.",
+  "exemplar_id": 3367,
+  "sku": "LI0282",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/limit__keiko-suenobu__capa__2025-11-05_16-14-50-858491.jpg",
+  "contracapa": "static/uploads/limit__keiko-suenobu__contracapa__2025-11-05_16-14-50-883575.jpg",
+  "fotos": [
+    "static/uploads/limit__keiko-suenobu__foto-01__2025-11-05_16-14-50-918201.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-02__2025-11-05_16-14-50-943957.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-03__2025-11-05_16-14-51-129552.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-04__2025-11-05_16-14-51-157853.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:34:11",
+  "observacoes": null
+}

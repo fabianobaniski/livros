@@ -1,0 +1,68 @@
+{
+  "obra_id": 356,
+  "autor": "Otto Maria Carpeaux",
+  "titulo": "O canto do violino e outros ensaios inéditos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Música. Literatura.",
+  "palavras_chave": "carpeaux canto violino ",
+  "edicao_id": 347,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 175,
+  "peso": 300,
+  "isbn": "9788567801070",
+  "editora": "Literária Danubio",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este volume é uma coletânea de 26 ensaios inéditos de Otto Maria Carpeaux, até então dispersos em jornais brasileiros, reunidos pela primeira vez. Os textos foram escritos entre 1945 e 1958, e publicados no Correio da Manhã, no Diário Carioca, no Diário do Paraná, no Diário de Pernambuco e no Jornal de Notícias.</p><p>Neste ensaios, Carpeaux trata de diversos aspectos da música erudita, além de desenvolver, de maneira brilhante, formas musicais para resolver questões literárias, e vice-versa.</p><p>\"O Canto do Violino\" é um livro para músicos, estudiosos e para o público interessado em geral.</p>",
+  "sinopse": "'O Canto do Violino' é uma coletânea de 26 ensaios inéditos que refletem sobre diversos aspectos da música erudita e sua relação com questões literárias. Escritos entre 1945 e 1958, os textos mostram a visão brilhante de Otto Maria Carpeaux, reunindo reflexões que dialogam com a arte musical. Esse livro é voltado tanto para músicos quanto para estudiosos e leitores interessados no tema.",
+  "exemplar_id": 346,
+  "sku": "LI0093",
+  "preco_estante_virtual": 33.0,
+  "preco_amazon": 33.0,
+  "capa": "static/uploads/otto-maria-carpeaux--o-canto-do-violino--capa--20250226--133822.jpg",
+  "contracapa": "static/uploads/otto-maria-carpeaux--o-canto-do-violino--contracapa--20250226--133822.jpg",
+  "fotos": [
+    "static/uploads/otto-maria-carpeaux--o-canto-do-violino--foto1--20250226--133822.jpg",
+    "static/uploads/otto-maria-carpeaux--o-canto-do-violino--foto2--20250226--133822.jpg",
+    "static/uploads/otto-maria-carpeaux--o-canto-do-violino--foto3--20250226--133822.jpg",
+    "static/uploads/otto-maria-carpeaux--o-canto-do-violino--foto4--20250226--133822.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:55:39",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2082,
+  "autor": "José Carlos Marion; Reinaldo Dias; Maria Cristina Traldi",
+  "titulo": "Monografia para os cursos de Administração, Contabilidade e Economia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Metodologia científica. Elaboração de monografias. Normas técnicas.",
+  "palavras_chave": "marion monografia para cursos administracao contabilidade economia",
+  "edicao_id": 2062,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 135,
+  "peso": 290,
+  "isbn": "9788522432660",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>MONOGRAFIA PARA OS CURSOS DE ADMINISTRAÇÃO, CONTABILIDADE E ECONOMIA</b><br><p>Este livro constitui-se num guia prático para a elaboração de monografias na área de negócios – administração, ciências contábeis e economia. Aborda as regras convencionadas pela comunidade científica internacional e normatizadas no Brasil pela Associação Brasileira de Normas Técnicas (ABNT) para apresentação de trabalhos monográficos.</p><p>Descreve, de acordo com o curso e o nível, as características de cada elaboração monográfica. Ao longo do texto, destaca-se a preocupação dos autores de informar ao leitor as características de cada nível – graduação, mestrado, doutorado e pós-doutorado –, indicando escolas, revistas científicas e sugestões de monografias que ajudarão o estudante a definir seu caminho.</p><p>Como livro de metodologia, inova no atendimento das necessidades do estudante da área de negócios, esclarecendo muitas situações que o afligem ao término de seu curso de graduação. Com base em documentação mais atualizada do MEC, responde a questões como: O que é MBA? Qual a característica do mestrado profissionalizante? Qual a diferença entre pós-graduação lato sensu e stricto sensu?</p><b>NOTA SOBRE OS AUTORES</b><br><p>JOSÉ CARLOS MARION é professor titular do Departamento de Contabilidade da FEA/USP, da Unip/Campinas e da PUC-SP. É autor dos livros <i>Contabilidade básica</i>, <i>Contabilidade empresarial</i>, <i>Contabilidade da pecuária</i>, <i>Contabilidade rural</i> e <i>O ensino da contabilidade</i>. Co-autor de <i>Análise de balanços (Exercícios)</i>, <i>Administração de custos na agropecuária</i>, <i>Contabilidade comercial</i>, <i>Contabilidade gerencial (Exercícios)</i>, <i>Curso de contabilidade para não contadores</i>, <i>Dicionário de termos de contabilidade</i>, <i>Introdução à teoria da contabilidade</i> e <i>Manual de contabilidade para não contadores</i>. Coordenador de Contabilidade e controladoria em agribusiness, todos publicados pela Atlas.</p><p>REINALDO DIAS é graduado em Sociologia, mestre em Ciência Política e doutor em Ciências Sociais pela Unicamp. Coordenador do curso de Comércio Exterior e professor titular de Sociologia da Universidade Paulista (Unip). É autor de vários livros nas áreas de metodologia científica e sociologia, entre os quais citam-se: <i>Sociologia e administração</i>, <i>Monografia passo a passo</i>, <i>Sociologia aplicada ao comércio exterior</i> e <i>Fundamentos de sociologia geral</i>.</p><p>MARIA CRISTINA TRALDI é graduada em Enfermagem pela PUC-Campinas e mestre e doutoranda em Educação pela Unicamp. Sanitarista, coordenadora do curso de graduação em Enfermagem na Universidade São Francisco (USF), <i>campus</i> de Bragança Paulista (SP), onde é professora e orientadora de TCC.</p><b>APLICAÇÃO</b><br><p>Manual de consulta para as disciplinas METODOLOGIA CIENTÍFICA, METODOLOGIA DE PESQUISA e TÉCNICAS DE PESQUISA EM ECONOMIA e MONOGRAFIA nos cursos de graduação (TCC) e de pós-graduação <i>lato sensu</i> e <i>stricto sensu</i>, incluindo MBAs, em Administração, Ciências Contábeis e Economia.</p>",
+  "sinopse": "Este livro é um guia prático para a elaboração de monografias em Administração, Contabilidade e Economia, abordando as normas da ABNT e as regras internacionais para apresentação de trabalhos. Apresenta características e recomendações para monografias em diferentes níveis, do TCC à pós-graduação, além de discutir questões de metodologia científica. Auxilia estudantes a compreender as diferenças entre MBA, mestrado profissional e tipos de pós-graduação, funcionando como manual para disciplinas de metodologia das áreas de negócios.",
+  "exemplar_id": 2061,
+  "sku": "LI017V",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--capa--20250430--104530.jpg",
+  "contracapa": "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--contracapa--20250430--104530.jpg",
+  "fotos": [
+    "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--foto1--20250430--104530.jpg",
+    "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--foto2--20250430--104530.jpg",
+    "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--foto3--20250430--104530.jpg",
+    "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--foto4--20250430--104530.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:05:40",
+  "observacoes": "procedencia_biblioteca"
+}

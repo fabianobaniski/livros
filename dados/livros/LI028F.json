@@ -1,0 +1,68 @@
+{
+  "obra_id": 3404,
+  "autor": "Naoshi Arakawa",
+  "titulo": "Your lie in April",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Música. Superação.",
+  "palavras_chave": "arakawa your lie april",
+  "edicao_id": 3381,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "9788542607666",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>O retorno de Kousei ao mundo dos concursos como acompanhante de Kaori foi um desastre: ele não conseguiu ouvir a música, se perdeu e eles precisaram parar e começar de novo. Porém, a apresentação o fez lembrar da sensação empolgante de tocar para o público. Kaori agora quer que ele entre em um concurso de piano, mas o garoto está com medo de ser paralisado pelas lembranças novamente...</p>",
+  "sinopse": "Kousei retorna ao mundo dos concursos como acompanhante de Kaori, mas enfrenta dificuldades ao não conseguir ouvir a música, precisando recomeçar a apresentação. Apesar do desastre, ele revive a emoção de tocar para o público. Kaori insiste para que Kousei participe de um concurso de piano, mas ele teme ser novamente paralisado pelas lembranças do passado.",
+  "exemplar_id": 3380,
+  "sku": "LI028F",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/your-lie-in-april__naoshi-arakawa__capa__2025-11-05_16-15-00-479300.jpg",
+  "contracapa": "static/uploads/your-lie-in-april__naoshi-arakawa__contracapa__2025-11-05_16-15-00-516852.jpg",
+  "fotos": [
+    "static/uploads/your-lie-in-april__naoshi-arakawa__foto-01__2025-11-05_16-15-00-549271.jpg",
+    "static/uploads/your-lie-in-april__naoshi-arakawa__foto-02__2025-11-05_16-15-00-571883.jpg",
+    "static/uploads/your-lie-in-april__naoshi-arakawa__foto-03__2025-11-05_16-15-00-657316.jpg",
+    "static/uploads/your-lie-in-april__naoshi-arakawa__foto-04__2025-11-05_16-15-00-689313.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:09:03",
+  "observacoes": null
+}

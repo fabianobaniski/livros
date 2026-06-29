@@ -1,0 +1,68 @@
+{
+  "obra_id": 40,
+  "autor": "Neil Gaiman",
+  "titulo": "Coisas frágeis",
+  "subtitulo": "Breves ficções e maravilhas",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura. Ficção. Fantasia",
+  "palavras_chave": "gaiman coisas fragiles ",
+  "edicao_id": 40,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 328,
+  "peso": 400,
+  "isbn": "9786555603958",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2023,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Um circo itinerante choca a plateia com uma apresentação incomum antes de desaparecer na noite, levando um dos espectadores. Em uma Inglaterra vitoriana peculiar, um inspetor precisa solucionar um misterioso assassinato na realeza. Adolescentes entram por acaso em uma festa e conhecem as garotas de seus sonhos – ou talvez saídas de seus piores pesadelos. Dos anos após os acontecimentos de <i>Deuses americanos</i>, Shadow se vê em um antigo casarão escocês, preso a um jogo de vida, morte e monstros.</p><p>Essas e outras histórias estão reunidas em <i>Coisas frágeis</i>, coletânea que traz trinta e uma preciosidades das literárias em prosa e verso, escrupulosamente polidas por Neil Gaiman. De forma magistral, as tramas transitam entre horror e humor sombrio, doçura e crueldade, visitando universos inesperados, como contos de fadas, <i>Matrix</i> e a Bíblia, além dos criados por Arthur Conan Doyle e H.P. Lovecraft. Ao desafiar os limites da imaginação, sondar as profundezas da experiência humana e revelar como, inexoravelmente, o ordinário e fantástico se entrelaçam, em <i>Coisas frágeis</i> Neil Gaiman se consolida como um dos escritores mais originais de seu tempo.</p><p><b>Pela primeira vez em volume único, a emblemática coletânea de Neil Gaiman, vencedor do Prêmio Locus.</b> A edição conta com introdução do autor e tradução inédita.</p>",
+  "sinopse": "Uma coletânea de contos que exploram universos fantásticos, mistérios e experiências humanas, misturando horror, humor e imaginação, com trinta e uma histórias de Neil Gaiman.",
+  "exemplar_id": 39,
+  "sku": "LI0010",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 33.0,
+  "capa": "static/uploads/neil-gaiman--coisas-fr-geis--capa--20250225--175530.jpg",
+  "contracapa": "static/uploads/neil-gaiman--coisas-fr-geis--contracapa--20250225--175530.jpg",
+  "fotos": [
+    "static/uploads/neil-gaiman--coisas-fr-geis--foto1--20250225--175530.jpg",
+    "static/uploads/neil-gaiman--coisas-fr-geis--foto2--20250225--175530.jpg",
+    "static/uploads/neil-gaiman--coisas-fr-geis--foto3--20250225--175530.jpg",
+    "static/uploads/neil-gaiman--coisas-fr-geis--foto4--20250225--175530.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:46:20",
+  "observacoes": null
+}

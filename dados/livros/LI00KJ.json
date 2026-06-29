@@ -1,0 +1,63 @@
+{
+  "obra_id": 776,
+  "autor": "Jean Carlos",
+  "titulo": "Aos Gálatas",
+  "subtitulo": "A grande diferença entre a lei e a graça",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Apóstolos.",
+  "palavras_chave": "carlos aos galatas lei graca",
+  "edicao_id": 761,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 171,
+  "peso": 280,
+  "isbn": "9788568485088",
+  "editora": "JCS Publicações",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O apóstolo Paulo nasceu mais ou menos na mesma época que Cristo. O Dr. F. F. Bruce, também usa a terminologia 'provavelmente' para a primeira década da era cristã. O erudito J. Becker, também coloca em dúvida a data do nascimento de Paulo, o apóstolo. O seu nome <b>שָׁאוּל</b> (Saulo), claro, é um nome hebraico e aparece pela primeira vez em Atos 7.58\" E, expulsando-o da cidade, o apedrejavam. E as testemunhas depuseram as suas vestes aos pés de um jovem chamado Saulo.</p><p>Durante a infância, provavelmente, foi-lhe também, ou quando nasceu, o nome de Paulo \"para que o usasse no mundo gentilico\", assim como \"Saulo\" seria o nome hebraico. O nome romano \"Paulo\", significa 'pequeno', dizem que o motivo a isso se deu por causa de sua estatura.</p>",
+  "sinopse": "A obra discute a vida do apóstolo Paulo, sua origem e os diferentes nomes que recebeu ao longo de sua trajetória. Desde o nome hebraico 'Shaúal' até o seu nome romano 'Paulo', o autor explora as razões que levaram a essa escolha, além de apresentar um panorama histórico sobre seu nascimento em relação à época de Cristo...",
+  "exemplar_id": 760,
+  "sku": "LI00KJ",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/jean-carlos--aos-g-latas--capa--20250227--152903.jpg",
+  "contracapa": "static/uploads/jean-carlos--aos-g-latas--contracapa--20250227--152903.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:26:07",
+  "observacoes": null
+}

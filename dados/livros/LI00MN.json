@@ -1,0 +1,63 @@
+{
+  "obra_id": 853,
+  "autor": "Jonathan Edwards",
+  "titulo": "Amigos ou inimigos de Deus?",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Reconciliação. Salvação.",
+  "palavras_chave": "edwards amigos inimigos deus",
+  "edicao_id": 838,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 96,
+  "peso": 150,
+  "isbn": "9788568026472",
+  "editora": "FES",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>ESTE LIVRO É UMA BREVE EXPOSIÇÃO DE ROMANOS 5.10.</p><p>PAULO ESCREVEU: \"PORQUE SE NÓS, QUANDO ÉRAMOS INIMIGOS, FOMOS RECONCILIADOS COM DEUS PELA MORTE DE SEU FILHO, MUITO MAIS, ESTANDO JÁ RECONCILIADOS, SEREMOS SALVOS PELA SUA VIDA\".</p>",
+  "sinopse": "Este livro oferece uma breve exposição de Romanos 5.10, abordando a temática da reconciliação entre Deus e a humanidade, enfatizando a importância da morte de Jesus para essa relação e a salvação que dela decorre.",
+  "exemplar_id": 837,
+  "sku": "LI00MN",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/jonathan-edwards--amigos-ou-inimigos-de-deus---capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/jonathan-edwards--amigos-ou-inimigos-de-deus---contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:12:59",
+  "observacoes": null
+}

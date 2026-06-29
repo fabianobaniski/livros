@@ -1,0 +1,68 @@
+{
+  "obra_id": 1585,
+  "autor": "Paulo Coelho",
+  "titulo": "Na margem do rio Piedra eu senti e chorei",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura contemporânea. Amor. Autodescoberta.",
+  "palavras_chave": "coelho margem rio pedra senti chorei",
+  "edicao_id": 1566,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 199,
+  "peso": 250,
+  "isbn": "9788575428016",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em toda história de amor sempre existe algo que nos aproxima da eternidade e da essência da vida, porque as histórias de amor encerram em si mesmas todos os segredos do mundo.</p><p>Pilar é uma jovem do interior da Espanha com muitos sonhos frustrados. Quando um amigo de infância volta a entrar em contato, ela se surpreende ao descobrir que seu primeiro amor se tornou um líder religioso e é reverenciado como milagreiro.</p><p>Ao se reencontrarem, porém, ambos são unidos por um único desejo: o de tornar seus sonhos realidade. Para isso, têm que vencer muitos obstáculos interiores, como o medo da entrega, a culpa e o preconceito.</p><p>Numa peregrinação espiritual através das montanhas dos Pireneus, os amantes trilham o árduo caminho do reencontro com as próprias verdades.</p><p>Neste livro Paulo Coelho nos oferece uma parábola sobre o amor que transcende todas as coisas. O romance é ao mesmo tempo uma lição de vida e um convite para seguirmos o verdadeiro caminho do coração e vencermos nossos medos.</p>",
+  "sinopse": "Pilar, uma jovem do interior da Espanha, reencontra um amigo de infância que se tornou um líder religioso. Juntos, enfrentam obstáculos internos enquanto buscam realizar seus sonhos e se reconectar. Através de uma peregrinação espiritual pelos Pireneus, eles aprendem sobre amor e verdade, com Paulo Coelho oferecendo uma reflexão profunda sobre a essência da vida e do amor.",
+  "exemplar_id": 1565,
+  "sku": "LI00X2",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/paulo-coelho--na-margem-do-rio-pedra-eu-senti-e-chorei--capa--20250401--115752.jpg",
+  "contracapa": "static/uploads/paulo-coelho--na-margem-do-rio-pedra-eu-senti-e-chorei--contracapa--20250401--115752.jpg",
+  "fotos": [
+    "static/uploads/paulo-coelho--na-margem-do-rio-pedra-eu-senti-e-chorei--foto1--20250401--115752.jpg",
+    "static/uploads/paulo-coelho--na-margem-do-rio-pedra-eu-senti-e-chorei--foto2--20250401--115752.jpg",
+    "static/uploads/paulo-coelho--na-margem-do-rio-pedra-eu-senti-e-chorei--foto3--20250401--115752.jpg",
+    "static/uploads/paulo-coelho--na-margem-do-rio-pedra-eu-senti-e-chorei--foto4--20250401--115752.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:13:27",
+  "observacoes": null
+}

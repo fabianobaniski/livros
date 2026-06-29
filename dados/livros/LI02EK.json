@@ -1,0 +1,68 @@
+{
+  "obra_id": 3625,
+  "autor": "Alexandre Dumas",
+  "titulo": "Os três mosqueteiros",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "dumas tres mosqueteiros",
+  "edicao_id": 3602,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 510,
+  "peso": 590,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O jovem d’Artagnan viaja a Paris para se tornar um mosqueteiro do rei e acaba unindo forças com os veteranos Athos, Porthos e Aramis para proteger a honra da rainha de intrigas políticas orquestradas pelo Cardeal de Richelieu e pela perigosa Milady de Winter, sob o lema \"um por todos e todos por um\".",
+  "exemplar_id": 3601,
+  "sku": "LI02EK",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/alexandre-dumas--os-tres-mosqueteiros--capa--20251114--181010.png",
+  "contracapa": "static/uploads/alexandre-dumas--os-tres-mosqueteiros--contracapa--20251114--181018.png",
+  "fotos": [
+    "static/uploads/alexandre-dumas--os-tres-mosqueteiros--foto1--20251113--194049.jpg",
+    "static/uploads/alexandre-dumas--os-tres-mosqueteiros--foto2--20251113--194049.jpg",
+    "static/uploads/alexandre-dumas--os-tres-mosqueteiros--foto3--20251113--194049.jpg",
+    "static/uploads/alexandre-dumas--os-tres-mosqueteiros--foto4--20251113--194049.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:26:54",
+  "observacoes": null
+}

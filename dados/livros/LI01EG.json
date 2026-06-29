@@ -1,0 +1,63 @@
+{
+  "obra_id": 2319,
+  "autor": "Cláudia Falluh; Balduino Ferreira",
+  "titulo": "A essência do cuidado",
+  "subtitulo": "Cuidando de enfermos de AVC",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "falluh essencia cuidado cuidando",
+  "edicao_id": 2299,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 200,
+  "isbn": "9788572009782",
+  "editora": "Santuário",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Cláudia Falluh Balduíno Ferreira combina técnica, ternura, vigor, paixão e dedicação para abordar a ressocialização de um paciente com acidente vascular cerebral isquêmico. A obra transcende técnicas médicas, enfatizando amor, disciplina, compaixão, método e paciência, compondo uma rotina de cuidado amoroso. É recomendada tanto para profissionais de saúde quanto para famílias lidando com casos crônicos de AVC, oferecendo um olhar íntimo e humano sobre o processo de recuperação e o impacto familiar, com relatos sinceros e detalhados.",
+  "exemplar_id": 2298,
+  "sku": "LI01EG",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/claudia-falluh--a-essencia-do-cuidado--capa--20260315--095136.jpg",
+  "contracapa": "static/uploads/claudia-falluh--a-essencia-do-cuidado--contracapa--20260315--095152.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:19:54",
+  "observacoes": null
+}

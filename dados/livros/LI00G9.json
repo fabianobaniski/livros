@@ -1,0 +1,63 @@
+{
+  "obra_id": 622,
+  "autor": "C. H. Spurgeon",
+  "titulo": "Sabedoria bíblica",
+  "subtitulo": "Conselhos simples para pessoas simples",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Sabedoria. Aconselhamento. Simplicidade.",
+  "palavras_chave": "spurgeon sabedoria biblica conselhos simples",
+  "edicao_id": 607,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 280,
+  "isbn": "8588315548",
+  "editora": "Shedd Publicações",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em Sabedoria bíblica: conselhos simples para pessoas simples, Spurgeon, o príncipe dos pregadores, de forma brilhante, aborda temas muito relevantes como preguiça, aparência do pregador, paciência, como usar o pensamento, imperfeições, dúvida, lar, adversidade, esperança, esposas, exagero, e outros mais.</p> <p>Ele se identifica no livro como João Lavrador. A razão, como ele mesmo justifica, foi porque escreveu \"para homens simples e pessoas comuns. Por isso, as palavras elegantes e sofisticadas foram substituídas por expressões e provérbios fortes e frases do dia a dia...</p><p>...Muitas das coisas que precisam ser ditas para as massas de trabalhadores não se adaptam ao púlpito e às pregações dos dias de descanso; porém estas poucas linhas podem ensinar todos os dias economia e diligência em casa e no trabalho; e se alguém aprender estas lições, eu não me arrependeria de ter usado um estilo tão simples...</p><p>...Lavrador é um nome que posso usar com legitimidade, pois todo pastor põe a mão no arado já que tem obrigação de rasgar o solo árido. O que escrevi com inspiração e certo humor não precisa de apologia, já que o som moral desse ensinamento chegou aos ouvidos de pelo menos 300.000 pessoas, portanto não há nenhuma virtude especial em escrever de modo sofisticado.</p> <p>Este livro é realmente simples, mas profundo e repleto de sabedoria para todas as áreas da vida. Boa leitura!</p> <p>Pastor Edmilson F. Bizerra</p>",
+  "sinopse": "Sabedoria Bíblica de Spurgeon traz conselhos práticos e acessíveis, abordando temas como preguiça, adversidade e esperança, voltados para homens e mulheres comuns. Spurgeon optava por um estilo simples, acreditando que isso favorecia a compreensão e a aplicação das lições cotidianas, tornando o texto valioso para todos.",
+  "exemplar_id": 606,
+  "sku": "LI00G9",
+  "preco_estante_virtual": 26.0,
+  "preco_amazon": 26.0,
+  "capa": "static/uploads/c-h--spurgeon--sabedoria-b-blica--capa--20250227--152853.jpg",
+  "contracapa": "static/uploads/c-h--spurgeon--sabedoria-b-blica--contracapa--20250227--152853.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:46:31",
+  "observacoes": null
+}

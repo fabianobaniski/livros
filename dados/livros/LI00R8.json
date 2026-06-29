@@ -1,0 +1,68 @@
+{
+  "obra_id": 1304,
+  "autor": "Evandro Ghedin; Maria Amélia Santoro Franco",
+  "titulo": "Questões de método na construção da pesquisa em educação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Pesquisa educacional. Teorias educacionais.",
+  "palavras_chave": "ghedin questoes metodo",
+  "edicao_id": 1288,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 261,
+  "peso": 350,
+  "isbn": "9788524913952",
+  "editora": "Cortez",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "Docência em Formação Saberes Pedagógicos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Neste livro de pesquisa e reflexão, as questões de método surgem como condição de retomada dos processos investigativos que tornam possíveis - e cientificamente válidos os conhecimentos produzidos na área educacional. Refletir sobre essas questões significa retomar o pensamento sobre o modo de operar do conhecimento.</p><p>É importante examiná-las à medida que o método constitui um pretexto para repensar as teorias educacionais que orientam o processo metodológico do conhecimento em educação.</p><ul><li>Educação Escolar: políticas, estrutura e organização</li><li>Estágio e Docência</li><li>Questões de método na construção da pesquisa em educação</li></ul>",
+  "sinopse": "O livro aborda questões de método na pesquisa educacional, refletindo sobre a importância dessas questões para a construção válida de conhecimentos na área educativa. Os autores discutem a relevância do método como um pretexto para repensar as teorias educacionais e o processo metodológico do conhecimento em educação.",
+  "exemplar_id": 1287,
+  "sku": "LI00R8",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/evandro-ghedin--quest-es-de-m-todo--capa--20250401--114908.png",
+  "contracapa": "static/uploads/evandro-ghedin--quest-es-de-m-todo--contracapa--20250401--114908.png",
+  "fotos": [
+    "static/uploads/evandro-ghedin--quest-es-de-m-todo--foto1--20250401--114908.jpg",
+    "static/uploads/evandro-ghedin--quest-es-de-m-todo--foto2--20250401--114908.jpg",
+    "static/uploads/evandro-ghedin--quest-es-de-m-todo--foto3--20250401--114908.jpg",
+    "static/uploads/evandro-ghedin--quest-es-de-m-todo--foto4--20250401--114908.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:25:47",
+  "observacoes": "procedencia_biblioteca"
+}

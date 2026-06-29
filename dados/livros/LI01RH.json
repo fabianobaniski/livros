@@ -1,0 +1,63 @@
+{
+  "obra_id": 2789,
+  "autor": "Alexandra Morais Pereira",
+  "titulo": "O nu e a publicidade audiovisual",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Comunicação",
+  "temas": "",
+  "palavras_chave": "pereira publicidade audiovisual",
+  "edicao_id": 2769,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 124,
+  "peso": 250,
+  "isbn": "9789727111251",
+  "editora": "Pergaminho",
+  "numero_edicao": 1,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A publicidade audiovisual utiliza o nu como uma poderosa ferramenta para atrair a atenção do público e criar um vínculo emocional com os produtos. A missão da publicidade é expor as qualidades dos itens ofertados, mas, em meio à abundância de opções, sua verdadeira função se torna a sugestão e a persuasão, guiando o consumo. Imagens projetadas prendem o olhar e transmitem mensagens subjacentes, associando o nu ao desejo e ao consumo. Assim, a publicidade moderna se posiciona como uma força influente na sociedade, moldando percepções e comportamentos.",
+  "exemplar_id": 2768,
+  "sku": "LI01RH",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-nu-e-a-publicidade-audiovisual-alexandra-morais-pereira-capa_rev120.jpg",
+  "contracapa": "static/uploads/o-nu-e-a-publicidade-audiovisual-alexandra-morais-pereira-contracapa_rev1223.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. As últimas folhas apresentam sinais de que foram umedecidas. Última folha colada à parte interna da contracapa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:31:25",
+  "observacoes": null
+}

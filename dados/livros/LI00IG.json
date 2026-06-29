@@ -1,0 +1,68 @@
+{
+  "obra_id": 701,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "2 Timóteo",
+  "subtitulo": "O testamento de Paulo à igreja",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia. Liderança.",
+  "palavras_chave": "lopes 2 timoteo testamento paulo",
+  "edicao_id": 686,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 143,
+  "peso": 250,
+  "isbn": "9788577421329",
+  "editora": "Hagnos",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Segunda Carta a Timóteo é a última epístola escrita pelo apóstolo Paulo. É o registro de sua última vontade, o seu testamento à igreja. Como as últimas palavras que alguém profere são, via de regra, as coisas mais urgentes e importantes que pronuncia, o conteúdo desta carta está regado de emoção e também vazado por um forte senso de urgência. É um apelo para Timóteo manter-se firme diante da perseguição, preservando intacto o evangelho à vista da ameaça dos falsos mestres e proclamando a salvação com prioridade absoluta, a despeito das nuvens escuras da perseguição. Essa mensagem precisa ser proclamada a tempo e fora de tempo. O evangelho precisa sair das quatro paredes. Cada crente deve ser um missionário.</p><p>Hernandes Dias Lopes é casado com Udemilta Pimentel Lopes e pai de Thiago e Mariana. É bacharel em Teologia pelo Seminário Presbiteriano do Sul, em Campinas, SP e doutor em Ministério pelo Reformed theological Seminary de Jackson, Mississippi, Estados Unidos. Ele é pastor da Primeira Igreja Presbiteriana de Vitória, Espírito Santo, desde 1985. É conferencista, escritor com mais de 100 títulos publicados e diretor executivo de Luz para o Caminho. É membro da Academia Evangélica de Letras do Brasil.</p>",
+  "sinopse": "A Segunda Carta a Timóteo traz as últimas palavras de Paulo, enfatizando a urgência de preservar o evangelho frente às perseguições e aos falsos mestres. É um apelo à fidelidade e ao compromisso missionário da igreja.",
+  "exemplar_id": 685,
+  "sku": "LI00IG",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/hernandes-dias-lopes--2tim-teo--capa--20250227--152859.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--2tim-teo--contracapa--20250227--152859.jpg",
+  "fotos": [
+    "static/uploads/hernandes-dias-lopes--2timoteo--foto1--20251021--104337.jpg",
+    "static/uploads/hernandes-dias-lopes--2timoteo--foto2--20251021--104337.jpg",
+    "static/uploads/hernandes-dias-lopes--2timoteo--foto3--20251021--104337.jpg",
+    "static/uploads/hernandes-dias-lopes--2timoteo--foto4--20251021--104337.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:02:23",
+  "observacoes": null
+}

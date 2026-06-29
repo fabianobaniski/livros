@@ -1,0 +1,63 @@
+{
+  "obra_id": 2676,
+  "autor": "Antônio Marmoro Caldeira Júnior; Outros",
+  "titulo": "Manual de biodiagnóstico",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Medicina",
+  "temas": "",
+  "palavras_chave": "junior manual biodiagnostico",
+  "edicao_id": 2656,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 289,
+  "peso": 300,
+  "isbn": "9788574981437",
+  "editora": "Ab",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este manual de biodiagnóstico foi elaborado para atender às demandas teóricas e práticas dos profissionais de análises clínicas, com foco em cursos técnicos e superiores. De forma simples e objetiva, o livro explica os principais exames laboratoriais, suas metodologias e as patologias relacionadas. Além de fornecer uma compreensão clara da importância das análises na investigação laboratorial, a obra ajuda o leitor a entender seu impacto na terapia dos pacientes. Com linguagem acessível, é um recurso essencial tanto para o mercado de trabalho quanto para instituições educacionais.",
+  "exemplar_id": 2655,
+  "sku": "LI01OC",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 37.0,
+  "capa": "static/uploads/manual-de-biodiagnostico-antonio-marmoro-caldeira-junior-capa_rev46.jpg",
+  "contracapa": "static/uploads/manual-de-biodiagnostico-antonio-marmoro-caldeira-junior-contracapa_rev1806.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:37:58",
+  "observacoes": null
+}

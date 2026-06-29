@@ -1,0 +1,63 @@
+{
+  "obra_id": 3216,
+  "autor": "Andrew Farago; Russi Taylor",
+  "titulo": "Totally Awesome",
+  "subtitulo": "the Greatest Cartoons of Eighties",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": null,
+  "palavras_chave": "farago totally awesome the",
+  "edicao_id": 3196,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 159,
+  "peso": 2200,
+  "isbn": "9781608877133",
+  "editora": "Insight Editions",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Com visuais vibrantes e histórias envolventes, os desenhos animados dos anos 1980 transformaram as manhãs de sábado em aventuras inesquecíveis e impulsionaram brinquedos e produtos que se tornaram febre. A obra explora os bastidores de sucessos como Teenage Mutant Ninja Turtles, Inspector Gadget e outros clássicos, celebrando a criatividade de seus criadores. É uma viagem nostálgica para fãs em busca de imaginação e aventuras incomparáveis.",
+  "exemplar_id": 3195,
+  "sku": "LI023C",
+  "preco_estante_virtual": 200.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro grande, em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso. Capa dura com sobrecapa,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 17:16:38",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

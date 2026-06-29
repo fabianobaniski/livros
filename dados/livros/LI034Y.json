@@ -1,0 +1,68 @@
+{
+  "obra_id": 5753,
+  "autor": "Vários autores",
+  "titulo": "Atlas da saúde natural",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "Saúde natural. Medicina alternativa. Suplementos. Fitoterapia. Doenças crônicas.",
+  "palavras_chave": "atlas saude natural curas reveladas",
+  "edicao_id": 5728,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 400,
+  "peso": 560,
+  "isbn": "9788545512691",
+  "editora": "Jolivi",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta obra é divida em 67 capítulos que apresentam as soluções efetivas, naturais e cientificamente comprovadas para as doenças que mais ameaçam o brasileiro. O livro reúne 6 grandes áreas do conhecimento de saúde: Coração, Alzheimer, Próstata, Câncer, Diabetes e Vitalidade. A proposta é oferecer ao leitor um Guia Prático e Definitivo para o uso seguro de Suplementos, Vitaminas, Fitoterápicos e Nutracêuticos, além de outras práticas que a Indústria do Adoecimento insiste em esconder de você. Voltado a todas as pessoas que - verdadeiramente - desejam prevenir, tratar e reverter os problemas crônicos apresentados como \"sem cura\".</p>",
+  "sinopse": "O livro apresenta 67 capítulos com soluções efetivas, naturais e cientificamente comprovadas para as doenças que mais ameaçam os brasileiros. Abrange seis áreas principais da saúde: coração, Alzheimer, próstata, câncer, diabetes e vitalidade. Oferece um guia prático para o uso seguro de suplementos, vitaminas, fitoterápicos e nutracêuticos, além de práticas pouco divulgadas pela indústria. Voltado a quem deseja prevenir, tratar e reverter problemas crônicos geralmente considerados sem cura.",
+  "exemplar_id": 5727,
+  "sku": "LI034Y",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/atlas-da-saude-natural__none__none__capa__2026-01-18_14-11-23-364529-000.png",
+  "contracapa": "static/uploads/atlas-da-saude-natural__none__none__contracapa__2026-01-18_14-11-23-452029-001.png",
+  "fotos": [
+    "static/uploads/atlas-da-saude-natural__none__none__foto-01__2026-01-18_14-11-23-534427-002.jpg",
+    "static/uploads/atlas-da-saude-natural__none__none__foto-02__2026-01-18_14-11-23-575443-003.jpg",
+    "static/uploads/atlas-da-saude-natural__none__none__foto-03__2026-01-18_14-11-23-611931-004.jpg",
+    "static/uploads/atlas-da-saude-natural__none__none__foto-04__2026-01-18_14-11-23-646674-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:52:17",
+  "observacoes": null
+}

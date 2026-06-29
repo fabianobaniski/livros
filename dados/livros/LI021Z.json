@@ -1,0 +1,63 @@
+{
+  "obra_id": 3167,
+  "autor": "Fernando A. Novais; Luiz Felipe de Alencastro",
+  "titulo": "História da Vida Privada no Brasil",
+  "subtitulo": "Império - A corte e a modernidade nacional ",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "novais historia vida privada",
+  "edicao_id": 3147,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 523,
+  "peso": 1000,
+  "isbn": "9788571646810",
+  "editora": "Companhia das Letras",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3146,
+  "sku": "LI021Z",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "História da Vida Privada no Brasil, Volume 2 / Edição clássica, em capa dura, papel especial, ricamente ilustrado! / Excelente conservação! Apenas oxidado na borda superior. Sem grifos e anotações.  / Uma análise abrangente do Império Brasileiro, abordando desde a vida privada até a ordem social. A introdução de Luiz Felipe de Alencastro define os modelos históricos e a historiografia imperial. Os capítulos exploram temas como a vida cotidiana e a morte no século XIX, a opulência na Bahia, e a autoimagem do Segundo Reinado. Outros tópicos incluem as relações de poder no Oeste paulista, migração, e a transição pós-escravidão. Evaldo Cabral de Mello discute o fim das casas-grandes. A obra é complementada por notas, apêndice, obras citadas, créditos das ilustrações..."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:29:11",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2257,
+  "autor": "Hugo de Brito Machado",
+  "titulo": "Curso de Direito Tributário",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Direito tributário. Sistema tributário nacional. Processos tributários.",
+  "palavras_chave": "machado curso direito tributario",
+  "edicao_id": 2237,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 560,
+  "peso": 560,
+  "isbn": "8539200805",
+  "editora": "Malheiros Editores",
+  "numero_edicao": 32,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Partindo de uma espécie de “Teoria Geral” do Direito Tributário – com seus <i>conceitos fundamentais</i> e sua <i>normas gerais</i> – o Autor examina os seus fundamentos, expostos com idéias muito precisas e objetivas, dando ao leitor uma sólida base para penetrar no campo prático dos tributos em espécie.</p><p>Em seguida, examina minuciosamente o <b>Sistema Tributário Nacional</b>, estudando sistematicamente seus institutos e regras gerais (a partir da Constituição e do CTN) para, a seguir, analisar cada figura impositiva sob os aspectos da competência, função, fato gerador, base de cálculo, lançamento, etc.</p><p>Finalmente, na 4ª parte reúne, sob o título de “Estudos Complementares”, três estudos importantíssimos sobre o processo administrativo tributário, sobre o processo judicial tributário e sobre o ilícito tributário, temas que estão a merecer aprofundamento dos especialistas – o que o Autor faz com magníficos resultados.</p>",
+  "sinopse": "O livro apresenta uma visão abrangente do Direito Tributário, começando por conceitos fundamentais e normas gerais, oferecendo ao leitor uma base sólida para o entendimento prático dos tributos. Em seguida, aprofunda-se no Sistema Tributário Nacional, abordando institutos e regras gerais, além de analisar detalhadamente os principais aspectos das imposições tributárias. Por fim, traz estudos complementares essenciais sobre processo administrativo e judicial tributário, bem como ilícitos tributários, proporcionando uma análise aprofundada desses temas.",
+  "exemplar_id": 2236,
+  "sku": "LI01CQ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/hugo-de-brito-machado--curso-de-direito-tribut-rio--capa--20250430--105105.jpg",
+  "contracapa": "static/uploads/hugo-de-brito-machado--curso-de-direito-tribut-rio--contracapa--20250430--105105.jpg",
+  "fotos": [
+    "static/uploads/hugo-de-brito-machado--curso-de-direito-tribut-rio--foto1--20250430--105105.jpg",
+    "static/uploads/hugo-de-brito-machado--curso-de-direito-tribut-rio--foto2--20250430--105105.jpg",
+    "static/uploads/hugo-de-brito-machado--curso-de-direito-tribut-rio--foto3--20250430--105105.jpg",
+    "static/uploads/hugo-de-brito-machado--curso-de-direito-tribut-rio--foto4--20250430--105105.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:23:02",
+  "observacoes": "procedencia_biblioteca"
+}

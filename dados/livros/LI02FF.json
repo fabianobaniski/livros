@@ -1,0 +1,68 @@
+{
+  "obra_id": 3656,
+  "autor": "Henry Graham Greene",
+  "titulo": "Nosso homem em Havana",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "greene nosso homem havana",
+  "edicao_id": 3633,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 283,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Um vendedor de aspiradores de pó britânico em Cuba aceita trabalhar para o serviço secreto para sustentar os luxos da filha e passa a inventar relatórios de espionagem absurdos, o que acaba gerando consequências reais e perigosas em meio às tensões da Guerra Fria.",
+  "exemplar_id": 3632,
+  "sku": "LI02FF",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/henry-graham-greene--nosso-homem-em-havana--capa--20251114--185401.png",
+  "contracapa": "static/uploads/henry-graham-greene--nosso-homem-em-havana--contracapa--20251114--185408.png",
+  "fotos": [
+    "static/uploads/henry-graham-greene--nosso-homem-em-havana--foto1--20251113--212243.jpg",
+    "static/uploads/henry-graham-greene--nosso-homem-em-havana--foto2--20251113--212243.jpg",
+    "static/uploads/henry-graham-greene--nosso-homem-em-havana--foto3--20251113--212243.jpg",
+    "static/uploads/henry-graham-greene--nosso-homem-em-havana--foto4--20251113--212243.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:22:24",
+  "observacoes": null
+}

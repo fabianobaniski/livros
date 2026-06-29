@@ -1,0 +1,68 @@
+{
+  "obra_id": 1526,
+  "autor": "Khaled Hosseini",
+  "titulo": "O caçador de pipas",
+  "subtitulo": "Romance",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura. Romance.",
+  "palavras_chave": "hosseini caçador pipas",
+  "edicao_id": 1507,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 365,
+  "peso": 350,
+  "isbn": "9788520917671",
+  "editora": "Nova Fronteira",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Eleito Melhor livro do ano, pelo <i>San Francisco Chronicle</i></p><p>Selecionado entre os Dez melhores do ano pela <i>Entertainment Weekly</i></p><p>Destacado como Livro notável, pela <i>American Library Association</i></p><p>\"Esta é uma daquelas histórias inesquecíveis, que permanecem na nossa memória por anos a fio. Todos os grandes temas da literatura e da vida são o material com que é tecido este romance extraordinário: amor, honra, culpa, medo, redenção.\"<br>Isabel Allende</p>",
+  "sinopse": "",
+  "exemplar_id": 1506,
+  "sku": "LI00WS",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/khaled-hosseini--o-ca-ador-de-pipas--capa--20250401--115744.jpg",
+  "contracapa": "static/uploads/khaled-hosseini--o-ca-ador-de-pipas--contracapa--20250401--115744.jpg",
+  "fotos": [
+    "static/uploads/khaled-hosseini--o-ca-ador-de-pipas--foto1--20250401--115744.jpg",
+    "static/uploads/khaled-hosseini--o-ca-ador-de-pipas--foto2--20250401--115744.jpg",
+    "static/uploads/khaled-hosseini--o-ca-ador-de-pipas--foto3--20250401--115744.jpg",
+    "static/uploads/khaled-hosseini--o-ca-ador-de-pipas--foto4--20250401--115744.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:55:06",
+  "observacoes": null
+}

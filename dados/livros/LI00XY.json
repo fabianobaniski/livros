@@ -1,0 +1,68 @@
+{
+  "obra_id": 1714,
+  "autor": "Cleberson Evangelista",
+  "titulo": "A luta contra o mal",
+  "subtitulo": "Relatos nunca revelados",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Demonologia. Exorcismo.",
+  "palavras_chave": "evangelista luta mal ",
+  "edicao_id": 1694,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 144,
+  "peso": 250,
+  "isbn": "9788566267044",
+  "editora": "Associação Evangelizar é Preciso",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nesta segunda obra literária, Padre Cleberson trata de um assunto um tanto quanto polêmico: o mal! Baseando-se em padres exorcistas de renome no mundo católico, bem como em parapsicólogos como Padre Quevedo, este livro tem como objetivo fazer-nos conhecer a origem do mal, em que talvez, estejamos inseridos.</p> <p>Aqui o padre traz testemunhos impressionantes da ação nefasta do Maligno e – conta, sobretudo, com a força – “mais que vencedora” – da graça de Cristo. (cf. Rm 8,37).</p> <p>Devemos evitar dois extremos: por um lado atribuindo todo mal à ação maligna, por outro, negando sua existência. O Diabo existe e nossa batalha é de ordem espiritual.</p>",
+  "sinopse": "Neste livro, Padre Cleberson compartilha reflexões sobre a natureza do mal, utilizando relatos de exorcistas e parapsicólogos para aprofundar o entendimento sobre a origem do mal e como enfrentá-lo. Ele enfatiza a presença real do Diabo e a importância da luta espiritual, evitando extremos na atribuição do mau e na negação de sua existência.",
+  "exemplar_id": 1693,
+  "sku": "LI00XY",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/pe--cleberson-evangelista--a-luta-contra-o-mal--capa--20250401--115809.jpg",
+  "contracapa": "static/uploads/pe--cleberson-evangelista--a-luta-contra-o-mal--contracapa--20250401--115809.jpg",
+  "fotos": [
+    "static/uploads/pe--cleberson-evangelista--a-luta-contra-o-mal--foto1--20250401--115809.jpg",
+    "static/uploads/pe--cleberson-evangelista--a-luta-contra-o-mal--foto2--20250401--115809.jpg",
+    "static/uploads/pe--cleberson-evangelista--a-luta-contra-o-mal--foto3--20250401--115809.jpg",
+    "static/uploads/pe--cleberson-evangelista--a-luta-contra-o-mal--foto4--20250401--115809.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:29:48",
+  "observacoes": null
+}

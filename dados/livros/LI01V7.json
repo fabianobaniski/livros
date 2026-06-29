@@ -1,0 +1,63 @@
+{
+  "obra_id": 2923,
+  "autor": "U. Kelle; M. Kovalzón",
+  "titulo": "Teoria e história",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "kelle teoria historia",
+  "edicao_id": 2903,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 350,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Editorial Progreso Moscu",
+  "numero_edicao": null,
+  "ano": 1985,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro aborda os fundamentos do materialismo histórico, explorando a metodologia do conhecimento social. Os autores focam em três aspectos centrais do estudo da história: como um processo natural, resultado da atividade humana e desenvolvimento da personalidade. A obra ressalta a necessidade de investigar a unidade e a multiplicidade do processo histórico, abordando questões atuais como a revolução científico-técnica, além de problemas ecológicos e demográficos, oferecendo uma análise profunda sobre a evolução da sociedade e da cultura.",
+  "exemplar_id": 2902,
+  "sku": "LI01V7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/teoria-e-historia-u-kelle-m-kovalzon-capa_rev1680.jpg",
+  "contracapa": "static/uploads/teoria-e-historia-u-kelle-m-kovalzon-contracapa_rev1389.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fortemente amarelado pela ação do tempo. Miolo em bom estado. Conteúdo sem grifos ou anotações. Capa dura, com sobrecapa. Possui"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:58:06",
+  "observacoes": null
+}

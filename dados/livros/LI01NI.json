@@ -1,0 +1,63 @@
+{
+  "obra_id": 2646,
+  "autor": "Andrew Morton",
+  "titulo": "Lady Di (1961-1997)",
+  "subtitulo": "A história real - em suas próprias palavra",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "morton lady 19611997 historia",
+  "edicao_id": 2626,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 295,
+  "peso": 550,
+  "isbn": "9788525806284",
+  "editora": "Bloch",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em 1992, uma revelação chocante abalou a carreira de Dennis, quando ele descobriu que sua autobiografia, aclamada pela crítica, era uma farsa. A verdadeira história de sua vida havia sido fabricada por outra pessoa, o que o levou a enfrentar as consequências dessa mentira. A obra narra os dilemas e angústias vividos por Dennis ao longo desse processo, expondo a complexidade das relações humanas e a luta pela identidade em meio a verdades distorcidas. Um relato profundo sobre autenticidade e reconstrução pessoal.",
+  "exemplar_id": 2625,
+  "sku": "LI01NI",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/andrew-morton--lady-di-1961-1997--capa--20260316--214327.jpg",
+  "contracapa": "static/uploads/andrew-morton--lady-di-1961-1997--contracapa--20260316--214327.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:13:19",
+  "observacoes": null
+}

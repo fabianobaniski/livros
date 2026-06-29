@@ -1,0 +1,63 @@
+{
+  "obra_id": 2535,
+  "autor": "Celso Athayde; MV Bill",
+  "titulo": "Falcão",
+  "subtitulo": "Mulheres e o tráfico",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "athayde falcao mulheres trafico",
+  "edicao_id": 2515,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 270,
+  "peso": 400,
+  "isbn": "9788573028577",
+  "editora": "Objetiva",
+  "numero_edicao": 0,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2514,
+  "sku": "LI01KF",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/celso-athayde--falcao--capa--20260316--201807.jpg",
+  "contracapa": "static/uploads/celso-athayde--falcao--contracapa--20260316--201807.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Não apresenta anotações nem sublinhados. Leves vestígios de uso e marcas da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:45:32",
+  "observacoes": null
+}

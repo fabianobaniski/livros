@@ -1,0 +1,63 @@
+{
+  "obra_id": 3092,
+  "autor": "José Martinho",
+  "titulo": "O Que é um Pai?",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": null,
+  "palavras_chave": "martinho que pai",
+  "edicao_id": 3072,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 106,
+  "peso": 200,
+  "isbn": "9789723702460",
+  "editora": "Assírio & Alvim",
+  "numero_edicao": null,
+  "ano": 1990,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "A figura do pai parece ocupar um lugar menos interessante, mais discreto e nem sempre simpático na cultura ocidental. Arredio, autoritário, obstrutor, guerreiro e pragmático, o pai escapa ao encanto da líquida memória em que se vai espraiando o afectivo regaço maternal. Não admira que também a psicanálise tenha privilegiado a mãe como figura tutelar e marcante do desenvolvimento infantil.",
+  "exemplar_id": 3071,
+  "sku": "LI01ZW",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Boa conservação geral, com leves desgastes decorrentes do uso e da passagem do tempo. Papel amarelado. Não apresenta anotações, sublinhados, rabiscos, rasgos, amassados, marca de umidade, mofo ou exposição excessiva ao sol. Miolo íntegro, sem folhas soltas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:41:06",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1367,
+  "autor": "Antoine de Saint-Exupéry",
+  "titulo": "O Pequeno Príncipe",
+  "subtitulo": "Com as aquarelas do autor",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Amizade. Filosofia. Aventura.",
+  "palavras_chave": "saint-exupery pequeno principe",
+  "edicao_id": 1350,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 91,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Escala",
+  "numero_edicao": 1,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1349,
+  "sku": "LI00ST",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/antoine-de-saint-exup-ry--o-pequeno-pr-ncipe--capa--20250401--114918.png",
+  "contracapa": "static/uploads/antoine-de-saint-exup-ry--o-pequeno-pr-ncipe--contracapa--20250401--114918.png",
+  "fotos": [
+    "static/uploads/antoine-de-saint-exup-ry--o-pequeno-pr-ncipe--foto1--20250401--114918.jpg",
+    "static/uploads/antoine-de-saint-exup-ry--o-pequeno-pr-ncipe--foto2--20250401--114918.jpg",
+    "static/uploads/antoine-de-saint-exup-ry--o-pequeno-pr-ncipe--foto3--20250401--114918.jpg",
+    "static/uploads/antoine-de-saint-exup-ry--o-pequeno-pr-ncipe--foto4--20250401--114919.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto com alguns sublinhados à caneta. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:33:48",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2374,
+  "autor": "Konrad Bartelski; Robin Neillands",
+  "titulo": "Aprender Esqui En un Fin de Semana",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "bartelski aprender esqui fin",
+  "edicao_id": 2354,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 95,
+  "peso": 400,
+  "isbn": "9788432048272",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este manual prático oferece um método visual estimulante e inovador para aprender esportes ou atividades em um final de semana. Através de técnicas básicas e conselhos precisos, ele orienta sobre como escolher e utilizar o equipamento adequado, além de apresentar sequências dinâmicas que analisam os movimentos corporais em diferentes ângulos, ajudando a melhorar a postura e o equilíbrio.",
+  "exemplar_id": 2353,
+  "sku": "LI01FZ",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/konrad-bartelski--aprender-esqui-en-un-fin-de-semana--capa--20260316--154550.jpg",
+  "contracapa": "static/uploads/konrad-bartelski--aprender-esqui-en-un-fin-de-semana--contracapa--20260316--154556.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Ricamente ilustrado, em cores. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:15:19",
+  "observacoes": null
+}

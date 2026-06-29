@@ -1,0 +1,68 @@
+{
+  "obra_id": 1904,
+  "autor": "Samuel Cogan",
+  "titulo": "Contabilidade gerencial",
+  "subtitulo": "Uma abordagem da teoria das restrições",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Administração. Contabilidade gerencial. Teoria das restrições. Gerenciamento de restrições.",
+  "palavras_chave": "cogan contabilidade gerencial ",
+  "edicao_id": 1884,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 294,
+  "peso": 495,
+  "isbn": "9788502061866",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>Contabilidade Gerencial - uma abordagem da teoria das restrições</i>, de Samuel Cogan, é mais uma contribuição do professor da Universidade Federal do Rio de Janeiro para seus alunos e profissionais da área de Administração e Ciências Contábeis, interessados em conhecer a Teoria das Restrições da Contabilidade Gerencial (<i>Theory of Constraints</i>, ou TOC). Essa teoria teve início na década de 1970 com o físico Eliyahu Goldratt, que se envolveu com os problemas da logística de produção e criou um método de administração totalmente novo, buscando identificar forças restritivas e forças propulsoras que permitissem às próprias empresas descobrir seus problemas.</p><p>Nesta obra, os leitores encontram os aspectos essenciais do gerenciamento das restrições, da contabilidade de ganhos e da integração da teoria das restrições com a Contabilidade Gerencial, uma verdadeira preparação para lidar com este raciocínio.</p><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço: <b>www.saraivauni.com.br</b></p>",
+  "sinopse": "Este livro apresenta uma introdução ampla à Teoria das Restrições aplicada à Contabilidade Gerencial, trazendo contribuições para estudantes e profissionais de Administração e Ciências Contábeis. Samuel Cogan aborda desde os conceitos essenciais do gerenciamento de restrições e contabilidade de ganhos até a integração desta teoria inovadora com práticas contábeis, facilitando a preparação para a aplicação do raciocínio TOC nas organizações.",
+  "exemplar_id": 1883,
+  "sku": "LI012Y",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/samuel-cogan--contabilidade-gerencial--capa--20250430--104258.jpg",
+  "contracapa": "static/uploads/samuel-cogan--contabilidade-gerencial--contracapa--20250430--104258.jpg",
+  "fotos": [
+    "static/uploads/samuel-cogan--contabilidade-gerencial--foto1--20250430--104258.jpg",
+    "static/uploads/samuel-cogan--contabilidade-gerencial--foto2--20250430--104258.jpg",
+    "static/uploads/samuel-cogan--contabilidade-gerencial--foto3--20250430--104258.jpg",
+    "static/uploads/samuel-cogan--contabilidade-gerencial--foto4--20250430--104258.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:10:46",
+  "observacoes": "procedencia_biblioteca"
+}

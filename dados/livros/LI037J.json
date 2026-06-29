@@ -1,0 +1,68 @@
+{
+  "obra_id": 5846,
+  "autor": "David Clinton; Christopher Negus",
+  "titulo": "Ubuntu Linux Bible",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Informática",
+  "temas": "Sistemas operacionais. Linux. Administração de sistemas. Informática.",
+  "palavras_chave": "clinton ubuntu linux bible",
+  "edicao_id": 5821,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 718,
+  "peso": 1400,
+  "isbn": "9781119722335",
+  "editora": "Wiley",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>The best reference for Ubuntu Linux</h1><p>Ubuntu Linux is a popular, powerful, and versatile operating system. Now you can get the most out of everything Ubuntu Linux has to offer with the <i>Ubuntu Linux Bible</i>. This complete and comprehensive guide introduces you to Ubuntu and shows you how to use it to its fullest, whether you're a typical desktop user or a system administrator. You'll learn to do everything from reading email to configuring wireless networks. You'll reap huge rewards from this book, regardless of how much prior experience you have with Ubuntu.</p><ul><li><b>Get started with Ubuntu Linux and see what's in the newest version (20.04)</b></li><li><b>Learn how to read emails, surf the web, and create and publish documents</b></li><li><b>Take on system administration tasks, like creating and managing users and adding new disks to the system</b></li><li><b>Discover how to use Ubuntu Linux in an enterprise or personal environment</b></li><li><b>Figure out how to set up Ubuntu Linux servers for the web, email, shared printing, and more</b></li><li><b>Find out why Ubuntu Linux is the most popular Linux operating system in the world</b></li></ul><p><b>David Clinton</b> is a Linux server administrator who has worked with IT infrastructure in academic and enterprise environments. He has taught video courses for Amazon Web Services, as well as other technologies. He is a co-author of <i>AWS Certified Solutions Architect Study Guide: Associate (SAA-C01) Exam</i> and <i>AWS Certified Cloud Practitioner Study Guide: Foundational (CLF-C01) Exam</i>.</p><p><b>Christopher Negus</b> is a senior open source technical writer at Amazon Web Services. He has written dozens of books on Linux, including <i>Red Hat Linux Bible</i>, <i>Linux Troubleshooting Bible</i> and <i>Linux Toys</i>.</p>",
+  "sinopse": "Ubuntu Linux Bible é um guia completo e abrangente que apresenta o Ubuntu Linux, explicando como utilizá-lo desde tarefas básicas, como leitura de e-mails e navegação na web, até a administração de sistemas e configuração de redes. Voltado tanto para usuários iniciantes quanto administradores, o livro cobre o que há de novo na versão 20.04, ensina como criar e publicar documentos, gerenciar usuários e discos, além de utilizar o Ubuntu em ambientes corporativos ou pessoais. Descubra também como configurar servidores e aplicações, entendendo porque o Ubuntu é o sistema Linux mais popular do mundo.",
+  "exemplar_id": 5820,
+  "sku": "LI037J",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": 150.0,
+  "capa": "static/uploads/ubuntu-linux-bible__none__david-clinton-christopher-negus__capa__2026-01-18_14-12-12-172075-000.png",
+  "contracapa": "static/uploads/ubuntu-linux-bible__none__david-clinton-christopher-negus__contracapa__2026-01-18_14-12-12-202603-001.png",
+  "fotos": [
+    "static/uploads/ubuntu-linux-bible__none__david-clinton-christopher-negus__foto-01__2026-01-18_14-12-12-229411-002.jpg",
+    "static/uploads/ubuntu-linux-bible__none__david-clinton-christopher-negus__foto-02__2026-01-18_14-12-12-259902-003.jpg",
+    "static/uploads/ubuntu-linux-bible__none__david-clinton-christopher-negus__foto-03__2026-01-18_14-12-12-284555-004.jpg",
+    "static/uploads/ubuntu-linux-bible__none__david-clinton-christopher-negus__foto-04__2026-01-18_14-12-12-314654-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Apresenta algumas marquinhas de dobra na ponta de uma parte das folhas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:34:51",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2494,
+  "autor": "Maria de Lourdes de Albuquerque Fávero",
+  "titulo": "Durmeval Trigueiro",
+  "subtitulo": "Coleção Educadores (mec)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "favero durmeval trigueiro colecao",
+  "edicao_id": 2474,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 298,
+  "isbn": "9788570195081",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2473,
+  "sku": "LI01JA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maria-de-lourdes-de-albuquerque-favero--durmeval-trigueiro--capa--20260316--192849.jpg",
+  "contracapa": "static/uploads/maria-de-lourdes-de-albuquerque-favero--durmeval-trigueiro--contracapa--20260316--192849.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:36:58",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2557,
+  "autor": "Sofia Lerche Vieira",
+  "titulo": "Frota Pessoa",
+  "subtitulo": "Coleção Educadores",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "vieira frota pessoa colecao",
+  "edicao_id": 2537,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 298,
+  "isbn": "9788570195227",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2536,
+  "sku": "LI01L1",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sofia-lerche-vieira--frota-pessoa--capa--20260316--202402.jpg",
+  "contracapa": "static/uploads/sofia-lerche-vieira--frota-pessoa--contracapa--20260316--202402.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:13:42",
+  "observacoes": null
+}

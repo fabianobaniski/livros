@@ -1,0 +1,63 @@
+{
+  "obra_id": 3140,
+  "autor": "Mark Glickman",
+  "titulo": "Stolen Words",
+  "subtitulo": "the Nazi Plunder of Jewish Books",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": null,
+  "palavras_chave": "glickman stolen words the",
+  "edicao_id": 3120,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 327,
+  "peso": 500,
+  "isbn": "9780827612082",
+  "editora": "University of Nebraska Press",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Stolen Words conta a história do maior roubo de livros da história, quando os nazistas saquearam milhões de volumes de judeus europeus durante a 2ª Guerra Mundial. Após a guerra, as forças aliadas criaram a Jewish Cultural Reconstruction, Inc. para restituir os livros e conectar os sobreviventes com seu passado, explorando as implicações morais e culturais desse episódio. Stolen Words é a história de como uma civilização livre decide o que fazer com os restos materiais de um mundo dilacerado...",
+  "exemplar_id": 3119,
+  "sku": "LI0218",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro capa dura, com sobrecapa, em ótimo estado de conservação, descontados discretos sinais de uso. Lombada alinhada; miolo firme, sem folhas soltas. Livre de grifos e anotações. Não possui marcas de umidade, mofo, traça ou exposição excessiva ao sol. Possui"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:47:19",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

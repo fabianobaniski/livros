@@ -1,0 +1,68 @@
+{
+  "obra_id": 1987,
+  "autor": "Flávio Ulhoa Coelho",
+  "titulo": "Curso básico de Cálculo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Matemática. Cálculo. Ensino superior.",
+  "palavras_chave": "coelho curso basico calculo",
+  "edicao_id": 1967,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 280,
+  "peso": 460,
+  "isbn": "9788502051201",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço: <b>www.saraivauni.com.br</b></p>",
+  "sinopse": "O livro 'Curso básico de cálculo' de Flávio Ulhoa Coelho é publicado pela Editora Saraiva. Voltado para o ensino de matemática e estatística, esta obra integra o catálogo da SaraivaUni, que reúne materiais de apoio acadêmico para alunos e professores. A publicação está alinhada com as necessidades de aprendizado de cálculo básico em cursos universitários.",
+  "exemplar_id": 1966,
+  "sku": "LI0158",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--capa--20250430--104313.jpg",
+  "contracapa": "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--contracapa--20250430--104313.jpg",
+  "fotos": [
+    "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--foto1--20250430--104313.jpg",
+    "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--foto2--20250430--104313.jpg",
+    "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--foto3--20250430--104313.jpg",
+    "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--foto4--20250430--104313.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:48:19",
+  "observacoes": "procedencia_biblioteca"
+}

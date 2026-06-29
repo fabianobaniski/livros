@@ -1,0 +1,63 @@
+{
+  "obra_id": 2944,
+  "autor": "Denise Breton; Christopher Largent",
+  "titulo": "The paradigm conspiracy",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "breton the paradigm conspiracy",
+  "edicao_id": 2924,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 387,
+  "peso": 700,
+  "isbn": "9781568382081",
+  "editora": "Hazelden",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "The Paradigm Conspiracy explora as raízes profundas das crises modernas, desde o nível pessoal até o internacional, argumentando que os paradigmas culturais viciantes impedem o crescimento individual e social. Os autores, Denise Breton e Christopher Largent, propõem que sistemas disfuncionais não podem gerar indivíduos saudáveis, e sugerem mudanças filosóficas essenciais para superar esses padrões. A obra oferece uma nova perspectiva sobre como enfrentar as crenças tóxicas da sociedade e adotar um pensamento mais livre...",
+  "exemplar_id": 2923,
+  "sku": "LI01VS",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/the-paradigm-conspiracy-denise-breton-capa_rev87.jpg",
+  "contracapa": "static/uploads/the-paradigm-conspiracy-denise-breton-contracapa_rev1592.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Subtítulo: Why our social systems violate human potential - and how we can change them. / Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel um pouco amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:40",
+  "observacoes": null
+}

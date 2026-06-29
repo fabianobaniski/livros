@@ -1,0 +1,68 @@
+{
+  "obra_id": 1938,
+  "autor": "Carlos Frederico de Andrade",
+  "titulo": "Marketing",
+  "subtitulo": "O que é? Quem faz? Quais as tendências?",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Marketing. Conceitos de marketing. Tendências de mercado. Estudos de caso.",
+  "palavras_chave": "andrade marketing que faz quais tendencias",
+  "edicao_id": 1918,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 212,
+  "peso": 365,
+  "isbn": "9788578385507",
+  "editora": "IBPEX",
+  "numero_edicao": 2,
+  "ano": 2010,
+  "serie": "Marketing Ponto a Ponto",
+  "volume": null,
+  "transcricao_contracapa": "<p>À medida que <b>os mercados se aproximam</b>, cada vez mais se fala em marketing. Contudo, você saberia definir o que de fato é marketing, suas ferramentas, possibilidades e finalidade? <b>Quais suas tendências?</b> <b>E, ainda, quem faz o marketing?</b></p><p>Neste livro, você tem um amplo panorama desta que é uma das áreas em maior expansão no mercado. Aqui, você encontra os principais conceitos de marketing – aplicados em situações reais. O conteúdo foi enriquecido com diversos exemplos e estudos de caso <b>nacionais e internacionais</b>.</p><p><b>Você encontrará nesta obra, além das teorias, contribuições importantes e originais</b> para um estudo aprimorado do marketing no Brasil.</p>",
+  "sinopse": "O livro apresenta um amplo panorama sobre marketing, abordando suas ferramentas, possibilidades, finalidades e tendências. Traz conceitos fundamentais, exemplos e estudos de caso nacionais e internacionais, destacando contribuições teóricas e originais voltadas para a realidade brasileira. Ideal para quem busca compreender o cenário atual e os profissionais do marketing.",
+  "exemplar_id": 1917,
+  "sku": "LI013W",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/carlos-frederico-de-andrade--marketing--capa--20250430--104304.jpg",
+  "contracapa": "static/uploads/carlos-frederico-de-andrade--marketing--contracapa--20250430--104304.jpg",
+  "fotos": [
+    "static/uploads/carlos-frederico-de-andrade--marketing--foto1--20250430--104304.jpg",
+    "static/uploads/carlos-frederico-de-andrade--marketing--foto2--20250430--104304.jpg",
+    "static/uploads/carlos-frederico-de-andrade--marketing--foto3--20250430--104304.jpg",
+    "static/uploads/carlos-frederico-de-andrade--marketing--foto4--20250430--104304.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:18:48",
+  "observacoes": "procedencia_biblioteca"
+}

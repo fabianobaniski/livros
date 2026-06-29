@@ -1,0 +1,63 @@
+{
+  "obra_id": 3062,
+  "autor": "Universidad de Salamanca",
+  "titulo": "Viaje Al Español",
+  "subtitulo": "Versión Internacional - Libros 1, 2 y 3",
+  "idioma": "Espanhol",
+  "categoria": "Ensino de Idiomas",
+  "temas": null,
+  "palavras_chave": "salamanca viaje espanol version",
+  "edicao_id": 3042,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 1200,
+  "isbn": "9788429436310",
+  "editora": "Santillana",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Viaje al Español é um curso produzido pela RTVE (Radiotelevisión Española) em colaboração com a Universidade de Salamanca, seguindo as recomendações do Conselho da Europa. Desenvolvido com o apoio dos Ministérios de Assuntos Exteriores e Cultura da Espanha, o curso tem como objetivo ensinar o espanhol de forma prática e abrangente, abrangendo níveis iniciais e avançados. Cada volume da série inclui materiais para professores e estudantes, além de atividades interativas, facilitando o aprendizado da língua e da cultura espanhola.",
+  "exemplar_id": 3041,
+  "sku": "LI01Z2",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livros em bom estado, embora um tanto amarelados pelo tempo. Possuem anotações à lápis. 3 volumes, brochuras. Inclui pequeno poster com imagens e vocabulário associado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:44:24",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

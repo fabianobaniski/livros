@@ -1,0 +1,63 @@
+{
+  "obra_id": 2652,
+  "autor": "João Eloir Carvalho",
+  "titulo": "Lazer no espaço urbano",
+  "subtitulo": "Transversalidade e novas tecnologias",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "carvalho lazer espaco urbano",
+  "edicao_id": 2632,
+  "encadernacao": null,
+  "quantidade_paginas": 372,
+  "peso": 300,
+  "isbn": "9788572921633",
+  "editora": "Champagnat",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O lazer desempenha um papel fundamental no desenvolvimento social e na melhoria da qualidade de vida. Presente em diversas áreas, como cultura, saúde, cidadania e educação, ele valoriza o lúdico, promovendo alegria e crescimento nas relações humanas. Este livro reúne textos que discutem as múltiplas interações do lazer com o espaço urbano e as novas tecnologias, além de apresentar estudos científicos. A obra visa enriquecer o debate entre profissionais da área, fomentando a democratização cultural e social do lazer na sociedade contemporânea.",
+  "exemplar_id": 2631,
+  "sku": "LI01NO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/joao-eloir-carvalho--lazer-no-espaco-urbano--capa--20260316--215431.jpg",
+  "contracapa": "static/uploads/joao-eloir-carvalho--lazer-no-espaco-urbano--contracapa--20260316--215431.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado. Sem anotações ou sublinhados. Levíssimos sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:17:02",
+  "observacoes": null
+}

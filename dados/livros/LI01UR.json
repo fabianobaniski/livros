@@ -1,0 +1,63 @@
+{
+  "obra_id": 2907,
+  "autor": "Mário Sério",
+  "titulo": "Sobre Brecht",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Teatro",
+  "temas": "",
+  "palavras_chave": "serio sobre brecht",
+  "edicao_id": 2887,
+  "encadernacao": null,
+  "quantidade_paginas": 136,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Ulmeiro",
+  "numero_edicao": null,
+  "ano": 1976,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro oferece uma análise profunda da obra de Bertolt Brecht e sua influência no teatro, tanto em contextos internacionais quanto em palcos portugueses. Através de entrevistas, crônicas e artigos, explora temas como a relevância do teatro universitário, o papel político do teatro, e homenagens à atriz Helen Weigel. Discute ainda adaptações brechtianas em Portugal e apresenta uma reflexão sobre as encenações de peças históricas, como Toller, além de destacar a importância de Brecht no cenário teatral e cultural contemporâneo.",
+  "exemplar_id": 2886,
+  "sku": "LI01UR",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/sobre-brecht-mario-serio-capa_rev1978.jpg",
+  "contracapa": "static/uploads/sobre-brecht-mario-serio-contracapa_rev1284.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Impresso em Lisboa. Livro antigo, com pequenos desgastes decorrentes do uso, mas em bom estado geral, embora amarelado pelo tempo. Sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:33:04",
+  "observacoes": null
+}

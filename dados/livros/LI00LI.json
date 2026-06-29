@@ -1,0 +1,63 @@
+{
+  "obra_id": 811,
+  "autor": "Giovanni Miegg",
+  "titulo": "A virgem Maria",
+  "subtitulo": "Uma análise da doutrina mariana do catolicismo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia.História.Cristologia.",
+  "palavras_chave": "miegg virgem maria",
+  "edicao_id": 796,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 300,
+  "isbn": "9788576220732",
+  "editora": "Cultura Cristã",
+  "numero_edicao": 2,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O livro do professor Miegg é um estudo sábio e perspicaz da questão mariana. Com boa perspectiva histórica e verdadeiro equilíbrio teológico, o autor relata o que aconteceu na Igreja Católica Romana a respeito do <i>status</i> e funções da Virgem Maria. Ele foca com grande perspectiva a relação deste desenvolvimento sobre o significado único e permanente de Jesus Cristo na fé que ele fundou e sobre a relevância de Cristo aos homens e a civilização no mundo da nossa época.</p><p>... a Virgem Maria se torna o cumprimento da Trindade, a encarnação de uma misericórdia que não é relacionada à justiça divina.</p><p>A Maria de hoje, Imaculada e Assunta, se tornou verdadeiramente a diretora executiva da Trindade, a última mediadora da graça de Deus aos homens. Ela não é apenas Rainha do Paraíso; é também Rainha do Universo, Rainha da Civilização.</p><p>O que está em jogo é isto. Pode a humanidade de Cristo ser tanto inspiração quanto padrão para um Humanismo Cristão vital? A resposta bíblica é: pode. Através do Espírito Santo, Jesus Cristo é uma presença contemporânea viva, carinhosa, forte e reta, Cabeça da igreja e Governante das nações.</p><p>O que fazer então da Virgem? Deixe Maria continuar a ser “bendita entre as mulheres”, a maior e mais honrada mulher que já viveu. Mas não vamos nos equivocar. Ser ela honrada por trazer ao mundo o Salvador não é base para acreditar que ela deva ser agora sua substituta. Hoje, infelizmente, está sendo dado à Maria, a quem os protestantes também amam devotadamente, um <i>status</i> religioso que não tem autoridade bíblica e um papel redentivo para o qual não há necessidade espiritual.</p>",
+  "sinopse": "O livro examina a função e relevância da Virgem Maria na Igreja Católica, destacando o desenvolvimento de sua doutrina ao longo do tempo e seu impacto na humanidade e na civilização. O autor faz uma análise crítica da concepção de Maria como mediadora e sua posição dentro da Trindade, ressaltando a importância de sua figura na fé cristã contemporânea.",
+  "exemplar_id": 795,
+  "sku": "LI00LI",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/giovanni-miegg--a-virgem-maria--capa--20250227--152906.jpg",
+  "contracapa": "static/uploads/giovanni-miegg--a-virgem-maria--contracapa--20250227--152906.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:45:03",
+  "observacoes": null
+}

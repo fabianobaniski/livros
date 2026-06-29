@@ -1,0 +1,68 @@
+{
+  "obra_id": 1844,
+  "autor": "Sonia Vieira",
+  "titulo": "Elementos de Estatística",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Estatística. Ensino superior. Ensino médio.",
+  "palavras_chave": "vieira elementos estatistica",
+  "edicao_id": 1824,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 162,
+  "peso": 370,
+  "isbn": "9788522436118",
+  "editora": "Atlas",
+  "numero_edicao": 4,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>ELEMENTOS DE ESTATÍSTICA</b><br><p><i>Elementos de estatística</i> não pressupõe conhecimentos anteriores do assunto, pois foi escrito para quem se inicia no aprendizado dessa matéria. Devido à linguagem simples e coloquial, o livro é extremamente didático. E chega mais completo à 4ª edição, pois passou por um processo pormenorizado de revisão e atualização.</p><p>É fácil de ler e explora o uso efetivo de técnicas estatísticas na solução de problemas, usando exemplos publicados. A obra reflete os muitos anos de ensino e assessoria da autora na área de Estatística. O texto é repleto de exemplos e exercícios, extraídos da vida real e da literatura.</p><p>Para facilitar a fixação de conceitos, logo após a explicação teórica é apresentado um exercício. No final de cada capítulo são propostos novos exercícios. Para a verificação da aprendizagem, as respostas são dadas no final do texto.</p><p>Partindo inicialmente da definição de Estatística, aborda dados estatísticos, população e amostra, técnicas de amostragem e tendenciosidade da amostra. Em seguida, trata da organização de dados em tabelas, da apresentação gráfica de dados, das tabelas de distribuição de frequências, das medidas de tendência central, das medidas de dispersão, da correlação e regressão linear simples. Finalmente aborda probabilidade e números-índices.</p><b>APLICAÇÃO</b><p>Texto básico para disciplinas introdutórias de Estatística, dos cursos de Administração, Educação, Psicologia, Biblioteconomia e Ciências Sociais. Livro-texto para a disciplina ESTATÍSTICA no ensino de 2º grau.</p>",
+  "sinopse": "Elementos de Estatística é um livro didático escrito para iniciantes, não exigindo conhecimentos prévios sobre o tema. Com linguagem simples e atualizada, explora de maneira efetiva técnicas estatísticas através de exemplos e exercícios retirados da vida real e literatura. A obra aborda desde a definição de Estatística até conceitos como dados estatísticos, amostras, gráficos, tabelas, medidas de tendência central e dispersão, correlação, regressão linear simples, probabilidade e números-índices. É recomendado como texto básico para cursos introdutórios de Estatística em Administração, Educação, Psicologia, Biblioteconomia e Ciências Sociais, além de servir ao ensino médio.",
+  "exemplar_id": 1823,
+  "sku": "LI011A",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/sonia-vieira--elementos-de-estat-stica--capa--20250430--102955.jpg",
+  "contracapa": "static/uploads/sonia-vieira--elementos-de-estat-stica--contracapa--20250430--102955.jpg",
+  "fotos": [
+    "static/uploads/sonia-vieira--elementos-de-estat-stica--foto1--20250430--102955.jpg",
+    "static/uploads/sonia-vieira--elementos-de-estat-stica--foto2--20250430--102955.jpg",
+    "static/uploads/sonia-vieira--elementos-de-estat-stica--foto3--20250430--102955.jpg",
+    "static/uploads/sonia-vieira--elementos-de-estat-stica--foto4--20250430--102955.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:07:39",
+  "observacoes": "procedencia_biblioteca"
+}

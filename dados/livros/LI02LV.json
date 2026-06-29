@@ -1,0 +1,63 @@
+{
+  "obra_id": 4833,
+  "autor": "Tatsuki Fujimoto",
+  "titulo": "Chainsaw man",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Ação.",
+  "palavras_chave": "fujimoto chainsaw man",
+  "edicao_id": 4808,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 220,
+  "isbn": "9786555127331",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "Chainsaw Man",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Denji é um jovem extremamente pobre que trabalha como caçador de demônios ao lado de Pochita, seu demônio de estimação, para pagar uma imensa dívida. Mas sua vida de miséria muda completamente devido a uma traição brutal! Aqui começa a história de um anti-herói que caça demônios com um demônio em seu corpo!!</p>",
+  "sinopse": "Denji, um jovem pobre, trabalha como caçador de demônios para pagar uma dívida, ao lado de seu demônio de estimação, Pochita. Após uma traição brutal, sua vida muda radicalmente, dando início à história de um anti-herói com poderes demoníacos.",
+  "exemplar_id": 4807,
+  "sku": "LI02LV",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/chainsaw-man__tatsuki-fujimoto__capa__2026-02-20_10-30-47-902694-000.png",
+  "contracapa": "static/uploads/chainsaw-man__tatsuki-fujimoto__contracapa__2026-02-20_10-30-47-958494-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

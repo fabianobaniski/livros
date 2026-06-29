@@ -1,0 +1,63 @@
+{
+  "obra_id": 5725,
+  "autor": "Kita",
+  "titulo": "1 litro de lágrimas",
+  "subtitulo": "Ichi Rittoru no Namida",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Doença. Superação. História real. Mangá.",
+  "palavras_chave": "kita litro lagrimas",
+  "edicao_id": 5700,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 220,
+  "isbn": "9788560647293",
+  "editora": "New Pop",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Por que essa doença me escolheu? Destino é algo que não se pode colocar em palavras.\" (Aya Kito)</p> <p>Aya é uma garota que acaba de entrar no Ensino Médio quando descobre que possui uma doença grave, conhecida como Degeneração Espinocerebelar. Com o tempo ela perderá o equilíbrio, a capacidade de andar, de mexer os braços e até de falar, mas manterá sua memória e mente intactas.</p> <p>\"O fato de eu estar viva é uma coisa tão encantadora e maravilhosa que me faz querer viver mais e mais.\" (Aya Kito)</p> <p>Baseado no diário publicado pela verdadeira Aya Kito, 1 Litro de Lágrimas é uma história emocionante cheia de superação e lição de vida para todos. Afinal, para contar algo triste com um sorriso no rosto, é preciso de, pelo menos, 1 litro de lágrimas derramadas antes.</p>",
+  "sinopse": "Aya descobre ter uma doença grave e progressiva, mas mantém sua memória e mente intactas. Baseado no diário de Aya Kito, este mangá emociona ao narrar uma história de superação e lição de vida, mostrando que, para sorrir, é preciso superar momentos difíceis.",
+  "exemplar_id": 5699,
+  "sku": "LI0346",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/1-litro-de-lagrimas__ichi-rittoru-no-namida__kita__capa__2026-02-28_10-59-58-858633-000.jpg",
+  "contracapa": "static/uploads/1-litro-de-lagrimas__ichi-rittoru-no-namida__kita__contracapa__2026-02-28_10-59-58-859917-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 11:09:15",
+  "observacoes": null
+}

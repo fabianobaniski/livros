@@ -1,0 +1,68 @@
+{
+  "obra_id": 2131,
+  "autor": "Rita de Cássia Menegaz Guarezi; Márcia Maria de Matos",
+  "titulo": "Educação a distância sem segredos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Ensino a distância. Formação de professores. Tecnologia educacional.",
+  "palavras_chave": "guarezi educacao distancia segredos",
+  "edicao_id": 2111,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 145,
+  "peso": 260,
+  "isbn": "9788582123218",
+  "editora": "Intersaberes",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Educação a Distância (EaD) vem ocupando um papel de destaque nos processos educacionais em todo o mundo, sobretudo como forma de atender à diversificada e crescente demanda por educação e formação continuada de professores e de muitas outras categorias profissionais.</p><p>No Brasil, as possibilidades de acesso ao conhecimento por meio desta modalidade já são referência, seja por meio dos cursos oferecidos por instituições credenciadas pelo Sistema de Ensino, seja pelos cursos mantidos por projetos regionais, nacionais ou pela Educação Corporativa nas grandes empresas.</p><p>Ao ler este livro, a sociedade como um todo poderá entender a eficácia deste novo modelo de ensino, que não rompe apenas com as práticas rotineiras e os limites físicos de uma sala de aula, mas qualifica o aluno para o mercado de trabalho e para a realidade tecnológica em que vivemos.</p>",
+  "sinopse": "O livro aborda o papel crescente da Educação a Distância (EaD) nos processos educacionais no Brasil e no mundo, destacando sua importância para a formação continuada de professores e outros profissionais. A obra explora as possibilidades de acesso ao conhecimento por meio da EaD, seja por cursos em instituições credenciadas, projetos regionais ou programas corporativos. Apresenta a EaD como um modelo que rompe com práticas tradicionais, preparando o aluno para o mercado de trabalho e para os desafios da tecnologia.",
+  "exemplar_id": 2110,
+  "sku": "LI0198",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/rita-de-c-ssia-menegaz-guarezi--educa--o-a-dist-ncia--capa--20250430--104545.jpg",
+  "contracapa": "static/uploads/rita-de-c-ssia-menegaz-guarezi--educa--o-a-dist-ncia--contracapa--20250430--104545.jpg",
+  "fotos": [
+    "static/uploads/rita-de-c-ssia-menegaz-guarezi--educa--o-a-dist-ncia--foto1--20250430--104545.jpg",
+    "static/uploads/rita-de-c-ssia-menegaz-guarezi--educa--o-a-dist-ncia--foto2--20250430--104545.jpg",
+    "static/uploads/rita-de-c-ssia-menegaz-guarezi--educa--o-a-dist-ncia--foto3--20250430--104545.jpg",
+    "static/uploads/rita-de-c-ssia-menegaz-guarezi--educa--o-a-dist-ncia--foto4--20250430--104545.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:52:39",
+  "observacoes": "procedencia_biblioteca"
+}

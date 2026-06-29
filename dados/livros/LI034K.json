@@ -1,0 +1,63 @@
+{
+  "obra_id": 5739,
+  "autor": "Tetsuya Tsutsui",
+  "titulo": "Prophecy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Crime.",
+  "palavras_chave": "tsutsui prophecy",
+  "edicao_id": 5714,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 197,
+  "peso": 210,
+  "isbn": "9788577878611",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Yokokuhan",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "Um momento de fraqueza por parte de Nobita faz com que a subdelegada Yoshino e seus comandados do Departamento Anticrimes Cibernéticos fiquem ainda mais perto de descobrir a identidade dos membros do grupo \"Jornal\". A ameaça contra a vida do deputado Shitaragi por parte do Homem-Jornal torna a perseguição de gato e rato ainda mais tensa e frenética. A polícia vai acabar com o grupo de ciberterroristas ou os amigos de Nelsin conseguirão dar cabo de seus planos a tempo? Descubra no último volume de Prophecy!",
+  "exemplar_id": 5713,
+  "sku": "LI034K",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/prophecy__tetsuya-tsutsui__capa__2026-02-28_13-14-11-151403-000.jpg",
+  "contracapa": "static/uploads/prophecy__tetsuya-tsutsui__contracapa__2026-02-28_13-14-11-152805-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 16:54:49",
+  "observacoes": null
+}

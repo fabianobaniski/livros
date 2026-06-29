@@ -1,0 +1,63 @@
+{
+  "obra_id": 3170,
+  "autor": "António Maria Martins Melo",
+  "titulo": "Teatro Jesuítico Em Portugal no Século XVI",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "melo teatro jesuitico portugal",
+  "edicao_id": 3150,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 561,
+  "peso": 1000,
+  "isbn": "9789723110517",
+  "editora": "Fund. Calouste Gulbekian",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A série bibliográfica Textos Universitários de Ciências Sociais e Humanas se dedica a publicar obras relevantes do conhecimento moderno, inspiradas por um novo Humanismo. A coleção inclui estudos valiosos de cultura e filosofia, apoiados pelo Instituto Nacional de Investigação Científica e pela Fundação para a Ciência e a Tecnologia, em parceria com a C. Gulbenkian. Essa iniciativa visa promover um entendimento mais profundo das humanidades, destacando obras que exploram as grandes questões filosóficas e culturais",
+  "exemplar_id": 3149,
+  "sku": "LI0222",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Miolo em ótimo estado. Capa com leves marcas de uso e contato com outras superfícies. Na parte interna da contracapa há restos de algo colado que foi retirado. Não possui anotações, sublinhados, marcas de umidade, mofo, traça ou sol excessivo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:53:28",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

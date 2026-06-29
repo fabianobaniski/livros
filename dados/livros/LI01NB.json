@@ -1,0 +1,63 @@
+{
+  "obra_id": 2639,
+  "autor": "José Luis Salas",
+  "titulo": "La evangelización franciscana de los guaraníes",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "salas evangelizacion franciscana los",
+  "edicao_id": 2619,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 314,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Asunción - Paraguay",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra aborda a trajetória de Fray Luis Bolaños, um missionário franciscano fundamental na evangelização dos guaranis e na criação das reduções no Paraguai. O livro explora desde sua formação religiosa e sua chegada às missões, até a consolidação do catecismo guarani e a expansão das reduções, sempre buscando integrar a cultura local com a doutrina cristã. A influência de Bolaños foi decisiva na preservação do idioma guarani e na organização social e religiosa das comunidades indígenas, moldando a religiosidade popular paraguaia.",
+  "exemplar_id": 2618,
+  "sku": "LI01NB",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/jose-luis-salas--la-evangelizacion-franciscana-de-los-guaranies--capa--20260316--214125.jpg",
+  "contracapa": "static/uploads/jose-luis-salas--la-evangelizacion-franciscana-de-los-guaranies--contracapa--20260316--214125.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel levemente amarelado pelo tempo.  Publicado em 2000."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:02:42",
+  "observacoes": null
+}

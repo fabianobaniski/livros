@@ -1,0 +1,63 @@
+{
+  "obra_id": 2890,
+  "autor": "Louis Raillon",
+  "titulo": "Roger Cousinet",
+  "subtitulo": "Coleção Educadores",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "raillon roger cousinet colecao",
+  "edicao_id": 2870,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 146,
+  "peso": 250,
+  "isbn": "9788570195609",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2869,
+  "sku": "LI01UA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/roger-cousinet-louis-raillon-capa_rev1606.jpg",
+  "contracapa": "static/uploads/roger-cousinet-louis-raillon-contracapa_rev168.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:45",
+  "observacoes": null
+}

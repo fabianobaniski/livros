@@ -1,0 +1,68 @@
+{
+  "obra_id": 198,
+  "autor": "Zibia Gasparetto",
+  "titulo": "Esmeralda",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura fantástica. Relações sociais. Amor.",
+  "palavras_chave": "gasparetto esmeralda",
+  "edicao_id": 192,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 340,
+  "peso": 380,
+  "isbn": "8585872047",
+  "editora": "Vida & Consciência",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esmeralda era orgulhosa, absoluta! Linda! O mistério maravilhoso de sua dança em meio ao povo arrancava olés e aplausos acalorados. Sempre desejada, despertava paixões, exacer­bava sentimentos, era amada.</p> <p>Porém não amava ninguém. Indiferente, pouco se importava com a dor dos seus apaixonados, exigindo tudo deles sem nada dar em troca.</p> <p>Foi em Valença, na primavera, que Esmeralda encontrou o amor. E esse amor arrastou consigo o destino.</p> <p>A vaidade tem um preço que o orgulho ciga­no sempre paga. Todas nós, mulheres, temos um pouco de Esmeralda.</p>",
+  "sinopse": "Esmeralda, uma mulher orgulhosa e linda, encanta a todos com sua dança, mas não sente amor por ninguém. Sua indiferença e exigências nos relacionamentos a isolam. Entretanto, em Valença, ela encontra um amor que muda seu destino, revelando os altos e baixos da vaidade e suas consequências.",
+  "exemplar_id": 191,
+  "sku": "LI004V",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/zibia-gasparetto--esmeralda--capa--20250226--133804.jpg",
+  "contracapa": "static/uploads/zibia-gasparetto--esmeralda--contracapa--20250226--133804.jpg",
+  "fotos": [
+    "static/uploads/zibia-gasparetto--esmeralda--foto1--20250226--133805.jpg",
+    "static/uploads/zibia-gasparetto--esmeralda--foto2--20250226--133805.jpg",
+    "static/uploads/zibia-gasparetto--esmeralda--foto3--20250226--133805.jpg",
+    "static/uploads/zibia-gasparetto--esmeralda--foto4--20250226--133805.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Lombada um pouco inclinada. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:27:58",
+  "observacoes": null
+}

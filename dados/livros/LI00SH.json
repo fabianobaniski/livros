@@ -1,0 +1,68 @@
+{
+  "obra_id": 1350,
+  "autor": "Ken Plummer",
+  "titulo": "Sociologia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Ciência social. Relações humanas. Sociologia.",
+  "palavras_chave": "plummer sociologia",
+  "edicao_id": 1333,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 218,
+  "peso": 350,
+  "isbn": "9788502629806",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Coleção Homem, Cultura e Sociedade",
+  "volume": null,
+  "transcricao_contracapa": "<p>O conhecimento sociológico emerge como uma necessidade social humana, em que o advento das ciências da natureza e das ciências exatas influencia o homem a buscar explicações com um caráter científico acerca daquilo que ocorre ao seu redor.</p><p>Os caminhos traçados pela obra Sociologia, de Ken Plummer, introduzem uma reflexão sobre a trajetória histórica da própria sociologia e como a partir do processo foram constituídas múltiplas maneiras de se entender o que é a vida em sociedade. O autor apresenta um grande engajamento frente às contradições e tensões da sociedade do século XXI, ressaltando, a partir de dados atuais, os diversos conflitos contemporâneos e a imensa desigualdade social, mostrando o quanto a sociologia e os sociólogos podem colaborar na busca pela resolução de tais questões.</p><p>A partir da leitura desta obra, é possível passar pela experiência da reflexão sociológica, já que o autor disponibiliza ferramentas e possíveis caminhos para problematizarmos aquilo que ocorre a nossa volta e em nosso dia a dia, possibilitando, a partir da prática sociológica, entender melhor o que é a sociologia.</p>",
+  "sinopse": "A obra 'Sociologia' de Ken Plummer fornece uma reflexão sobre a trajetória histórica da sociologia e suas múltiplas abordagens na compreensão da vida em sociedade. O autor se atenue às tensões e desigualdades da sociedade contemporânea, destacando a importância da sociologia para a resolução de conflitos sociais. A leitura promete enriquecer a experiência de reflexão sociológica e possibilitar uma melhor compreensão do que é a sociologia.",
+  "exemplar_id": 1332,
+  "sku": "LI00SH",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/ken-plummer--sociologia--capa--20250401--114916.png",
+  "contracapa": "static/uploads/ken-plummer--sociologia--contracapa--20250401--114916.png",
+  "fotos": [
+    "static/uploads/ken-plummer--sociologia--foto1--20250401--114916.jpg",
+    "static/uploads/ken-plummer--sociologia--foto2--20250401--114916.jpg",
+    "static/uploads/ken-plummer--sociologia--foto3--20250401--114916.jpg",
+    "static/uploads/ken-plummer--sociologia--foto4--20250401--114916.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:34:01",
+  "observacoes": null
+}

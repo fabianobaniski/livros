@@ -1,0 +1,63 @@
+{
+  "obra_id": 2751,
+  "autor": "Mario Puzo",
+  "titulo": "O chefão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "mario puzo o chefao",
+  "edicao_id": 2731,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 451,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A máfia começou como uma pequena irmandade secreta na Sicília em 1900, transformando-se em um império do crime nos Estados Unidos por volta de 1950. Organizada em famílias, a máfia deixou um longo rastro de sangue e violência. No centro desse império, um homem se destacou: Don Vito Corleone, o capo dei capi, conhecido como o poderoso Chefão. Ele comandou com mão de ferro o mundo do crime, ascendendo ao topo da hierarquia da máfia e tornando-se uma lenda no submundo.",
+  "exemplar_id": 2730,
+  "sku": "LI01QF",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-chefao-mario-puzo-capa_rev560.jpg",
+  "contracapa": "static/uploads/o-chefao-mario-puzo-contracapa_rev105.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa e contracapa. Lombada inclinada à direita. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:56:06",
+  "observacoes": null
+}

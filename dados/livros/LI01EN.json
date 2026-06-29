@@ -1,0 +1,63 @@
+{
+  "obra_id": 2326,
+  "autor": "Jean Paulus",
+  "titulo": "A função simbólica e a linguagem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Linguística",
+  "temas": "",
+  "palavras_chave": "paulus funcao simbolica linguagem",
+  "edicao_id": 2306,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 170,
+  "peso": 341,
+  "isbn": "",
+  "editora": "Edusp",
+  "numero_edicao": null,
+  "ano": 1975,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2305,
+  "sku": "LI01EN",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/jean-paulus--a-funcao-simbolica-e-a-linguagem--capa--20260316--095911.jpg",
+  "contracapa": "static/uploads/jean-paulus--a-funcao-simbolica-e-a-linguagem--contracapa--20260316--095918.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa marcadas pelo manuseio e contato com outras superfícies, porém sem amassados, rasgos ou perdas. Texto livre de anotações e sublinhados. Sem anotações. Há carimbo do antigo proprietário na primeira folha.  / Índice: I. A função simbólica; II. Visão geral da linguagem; III. A análise semiótica da língua; IV. Os fins do discurso; V. Atrasos e dissoluções da linguagem."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:21:57",
+  "observacoes": null
+}

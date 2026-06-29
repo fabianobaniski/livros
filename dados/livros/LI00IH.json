@@ -1,0 +1,63 @@
+{
+  "obra_id": 702,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Malaquias",
+  "subtitulo": "A Igreja no tribunal de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Liderança. Espiritualidade.",
+  "palavras_chave": "lopes malaquias igreja tribunal deus",
+  "edicao_id": 687,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 131,
+  "peso": 200,
+  "isbn": "8589320928",
+  "editora": "Hagnos",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os bons tempos havia ficado para trás...<br>O tempo dos milagres tinha passado com Elias e Eliseu. O cativeiro babilônico era apenas uma amarga lembrança dos antepassados. As reformas efetuadas por Neemias já estavam caindo no esquecimento. A rotina das cerimônias religiosas era mantida, mas sem entusiasmo. Era um tempo de apatia e sonolência espiritual. Na verdade, tanto a liderança como o povo estavam vivendo uma espécie de torpor espiritual.<br>Os tempos mudaram, mas o coração do homem não. Os problemas que a igreja contemporânea enfrenta são praticamente os mesmos. Daí, a mensagem de Malaquias ser atualíssima e oportuna para a igreja hoje.</p><p>Hernandes Dias Lopes, casado com Udemilta Pimentel Lopes, pai de Thiago e Mariana. Bacharel em Teologia pelo Seminário Presbiteriano do Sul, Campinas, São Paulo e Doutor em Ministério pelo Reformed Theological Seminary de Jackson, Mississippi, Estados Unidos. Pastor da Primeira Igreja Presbiteriana de Vitória, Espírito Santo, desde 1985. Conferencista e escritor, com mais de 100 livros publicados.</p>",
+  "sinopse": "Malaquias apresenta um profundo olhar sobre a apatia e a sonolência espiritual que tomaram conta da igreja após um período de milagres e reformas, refletindo sobre os desafios contemporâneos que a igreja enfrenta e a relevância da mensagem do livro para os dias atuais.",
+  "exemplar_id": 686,
+  "sku": "LI00IH",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/hernandes-dias-lopes--malaquias--capa--20250227--152859.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--malaquias--contracapa--20250227--152859.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:37:14",
+  "observacoes": null
+}

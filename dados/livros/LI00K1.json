@@ -1,0 +1,63 @@
+{
+  "obra_id": 758,
+  "autor": "Charles R. Swindoll",
+  "titulo": "Jó",
+  "subtitulo": "Um homem de tolerância heroica",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Fé. Perseverança.",
+  "palavras_chave": "swindoll jo homem tolerancia heroica",
+  "edicao_id": 743,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 430,
+  "peso": 400,
+  "isbn": "9788573253832",
+  "editora": "Mundo Cristão",
+  "numero_edicao": 2,
+  "ano": 2004,
+  "serie": "Heróis da Fé",
+  "volume": null,
+  "transcricao_contracapa": "<p>E Deus disse: \"Observaste o meu servo Jó?\"<br>Bastou esta palavra para que o diabo se sentisse novamente desafiado a se rebelar contra a soberania e o conhecimento de Deus. Ansioso por lutar mais um round de sua batalha inútil e vá, Satanás propôs ao Criador submeter a fidelidade de Jó à prova, tirando-lhe a família, os bens e até a saúde.</p><p>Foi assim que um homem de coração reto e justo viu-se diante da mais arrasadora experiência de perdas e danos registrada no Antigo Testamento. Não bastassem suas catástrofes pessoais, ainda se viu achado por aqueles que considerava seus amigos.</p><p>No entanto, dessas mesmas provações emergiu um novo Jó – uma pessoa renovada, levantada do pó com uma fé ainda mais vigorosa, e que a história tratou de tornar um exemplo para todas as gerações seguintes até o dia de hoje.</p><p>Jó – Um Homem de Tolerância Heroica é o novo título da série \"Heróis da fé\", na qual Chuck Swindoll dedica-se a traçar o perfil dos personagens bíblicos que se notabilizaram pela atitude de confiança irrestrita e incondicional em Deus, mesmo quando submetidos aos mais duros testes de fidelidade espiritual.</p>",
+  "sinopse": "Jó é um exemplo de fé e resistência diante de provações extremas, enfrentando perdas devastadoras com coragem e renovação. Esta obra traça seu perfil como um herói da fé, mostrando como ele se tornou um símbolo de fidelidade incondicional, mesmo em tempos de grande sofrimento.",
+  "exemplar_id": 742,
+  "sku": "LI00K1",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/charles-r--swindoll--j---capa--20250227--152902.jpg",
+  "contracapa": "static/uploads/charles-r--swindoll--j---contracapa--20250227--152902.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:50:40",
+  "observacoes": null
+}

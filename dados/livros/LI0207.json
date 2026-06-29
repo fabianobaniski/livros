@@ -1,0 +1,63 @@
+{
+  "obra_id": 3103,
+  "autor": "Carlos Gustavo Mansur (org.)",
+  "titulo": "Psiquiatria para o Médico Generalista",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": null,
+  "palavras_chave": "org psiquiatria para medico",
+  "edicao_id": 3083,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 344,
+  "peso": 600,
+  "isbn": "9788536327914",
+  "editora": "Artmed",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Esta obra tem por objetivo capacitar o médico generalista, sobretudo o que atua em assistência primária à saúde, a identificar, tratar e acompanhar pacientes psiquiátricos de maneira adequada, buscando integrar saúde física e mental. Com isso, o leitor desta obra pode melhor atender uma população que, muitas vezes, não dispõe de atendimento especializado ou, ainda que disponha, não procura por ele.",
+  "exemplar_id": 3082,
+  "sku": "LI0207",
+  "preco_estante_virtual": 130.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado, apenas com levíssimos sinais de uso. Não possui marcas de umidade, exposição ao sol, cheiro de mofo, furo de traça, nem anotações, sublinhados, rabiscos, rasgos ou amassados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:20:58",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

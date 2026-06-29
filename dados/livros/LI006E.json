@@ -1,0 +1,68 @@
+{
+  "obra_id": 253,
+  "autor": "D. D. Anginni",
+  "titulo": "Guerra dos selos",
+  "subtitulo": "Um novo aprendiz",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Aventura. Fantasia.",
+  "palavras_chave": "anginni guerra selos aprendiz",
+  "edicao_id": 247,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 350,
+  "peso": 400,
+  "isbn": "9788564855267",
+  "editora": "Livrus",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Eis em suas mãos um poderoso artefato capaz de transportá-lo a uma fantástica aventura com os mais antigos e poderosos seres que já habitaram a Terra: os Selos.</p> <p>Entre no Universo de Daniel Winkler, um jovem de apenas 15 anos que descobre a peça chave de uma guerra milenar.</p> <p>Guiado por seu mestre Jihlava e contando com a companhia de seus amigos, Daniel deverá dominar seus novos poderes, enfrentar sombrios inimigos e despertar os antigos e invencíveis Selos equilibrando as forças entre os Rebeldes e a Resistência. Somente assim, ele evitará que um novo Armagedon destrua a humanidade.</p> <p>O portal que você segura irá levá-lo a uma sucessão de batalhas, perseguições, misticismo, lendas, torneios, caças a tesouros e romances capazes de arrancar o fôlego de qualquer herói.</p> <p>Prepare-se para esta inesquecível viagem e abra o livro. Boa diversão!</p>",
+  "sinopse": "Em 'Guerra dos Selos', Daniel, um jovem de 15 anos, se vê em uma jornada épica ao descobrir um poderoso artefato que o transporta para um universo de batalhas e misticismo. Sob a orientação de seu mestre e com a ajuda de amigos, ele deve dominar novos poderes e enfrentar inimigos sombrios para evitar um desastre que pode levar à destruição da humanidade.",
+  "exemplar_id": 246,
+  "sku": "LI006E",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/d--d--anginni--guerra-dos-selos--capa--20250226--133811.jpg",
+  "contracapa": "static/uploads/d--d--anginni--guerra-dos-selos--contracapa--20250226--133811.jpg",
+  "fotos": [
+    "static/uploads/d--d--anginni--guerra-dos-selos--foto1--20250226--133811.jpg",
+    "static/uploads/d--d--anginni--guerra-dos-selos--foto2--20250226--133811.jpg",
+    "static/uploads/d--d--anginni--guerra-dos-selos--foto3--20250226--133811.jpg",
+    "static/uploads/d--d--anginni--guerra-dos-selos--foto4--20250226--133811.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:16:38",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 765,
+  "autor": "Roy B. Zuck",
+  "titulo": "Teologia do Antigo Testamento",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Teologia. Revelação. Antigo Testamento.",
+  "palavras_chave": "zuck teologia antigo testamento",
+  "edicao_id": 750,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 468,
+  "peso": 900,
+  "isbn": "9788526309548",
+  "editora": "CPAD",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Fornece uma compreensão mais clara da natureza íntima desta disciplina teológica. Os estudiosos do Seminário Teológico de Dallas se uniram para compor este importante livro editado por Roy B. Zuck. Cada um dos escritores analisa a revelação divina conforme ela aparece cronologicamente no cânon, fazendo com que o leitor constate a revelação da verdade de Deus pontualmente ao longo dos séculos.</p><p>Uma Teologia do Pentateuco</p><p>Uma Teologia de Josué, Juízes e Rute</p><p>Uma Teologia de Samuel e Reis</p><p>Uma Teologia de Crônicas</p><p>Uma Teologia de Esdras, Neemias e Ester</p><p>Uma Teologia dos Livros Sapienciais e Cantares de Salomão</p><p>Uma Teologia dos Salmos</p><p>Uma Teologia de Isaías</p><p>Uma Teologia de Jeremias e Lamentações de Jeremias</p><p>Uma Teologia de Ezequiel e Daniel</p><p>Uma Teologia dos Profetas Menores</p>",
+  "sinopse": "Este livro fornece uma compreensão clara da disciplina teológica do Antigo Testamento, abordando a revelação divina através dos séculos. Os autores exploram diferentes livros e temas, permitindo que o leitor aprecie a revelação de Deus na Bíblia.",
+  "exemplar_id": 749,
+  "sku": "LI00K8",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/roy-b--zuck--teologia-do-antigo-testamento--capa--20250227--152903.jpg",
+  "contracapa": "static/uploads/roy-b--zuck--teologia-do-antigo-testamento--contracapa--20250227--152903.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:56:44",
+  "observacoes": null
+}

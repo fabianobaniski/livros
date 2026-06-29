@@ -1,0 +1,63 @@
+{
+  "obra_id": 653,
+  "autor": "John Owen",
+  "titulo": "A glória de Cristo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Espiritualidade.",
+  "palavras_chave": "owen gloria cristo",
+  "edicao_id": 638,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 120,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Publicações Evangélicas Selecionadas",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>John Owen nasceu no ano de 1616 e cresceu numaquieta casa pastoral no condado de Oxford. Entrou na Universidade de Oxford com a idade de doze anos, recebeu o título de Bacharel em Artes em 1632 e o de Mestre em Artes em 1635. Owen foi um dos mais destacados teólogos que a Inglaterra já teve.</p> <p>Meditações sobre a Glória de Cristo foi o último de muitos livros que Owen escreveu. Ele faleceu quando o mesmo estava sendo impresso, em 1683. Foi escrito, ele nos diz, “para estimular a sua própria mente quando a fraqueza, o cansaço e a aproximação da morte” o estavam chamando a deixar este mundo.</p> <p>Como diz Owen: “Uma contínua visão da glória de Cristo terá o abençoado efeito de nos conformar, cada vez mais, à semelhança dEle. Talvez outras maneiras e formas tenham falhado em nos tornar semelhantes a Cristo. Vamos pôr esta maneira à prova”!</p>",
+  "sinopse": "A obra 'A Glória de Cristo' de John Owen explora a visão da glória de Cristo e seu impacto na conformidade dos indivíduos a essa imagem. Escrito em momentos de fraqueza e à beira da morte, Owen busca estimular a mente a refletir sobre a importância dessa glória na vida cristã.",
+  "exemplar_id": 637,
+  "sku": "LI00H4",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/john-owen--a-gl-ria-de-cristo--capa--20250227--152855.jpg",
+  "contracapa": "static/uploads/john-owen--a-gl-ria-de-cristo--contracapa--20250227--152855.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém com alguns grifos no texto e anotações nas primeiras e últimas folhas, incluindo a parte interna da contracapa. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:23:36",
+  "observacoes": null
+}

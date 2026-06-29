@@ -1,0 +1,63 @@
+{
+  "obra_id": 2678,
+  "autor": "Rüdiger Nehberg",
+  "titulo": "Manual del aventurero",
+  "subtitulo": "Técnicas de supervivencia",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "nehberg manual del aventurero",
+  "edicao_id": 2658,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 282,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Martínez Roca",
+  "numero_edicao": null,
+  "ano": 1984,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro segue a linha do Manual de Sobrevivência das Forças Armadas dos Estados Unidos, oferecendo técnicas e truques valiosos para sobreviver em situações extremas. Contudo, Manual del Aventurero vai além, apresentando as experiências reais de um aventureiro e mostrando como essas vivências podem ser aplicadas de maneira prática. Aborda também o fator humano, essencial para quem enfrenta desafios como revoluções, contrabando e torturas. Com base nas experiências do aventureiro Rüdiger Nehberg, o leitor obtém orientações cruciais para viagens perigosas e emocionantes.",
+  "exemplar_id": 2657,
+  "sku": "LI01OE",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/manual-del-aventurero-rudiger-nehberg-capa_rev95.jpg",
+  "contracapa": "static/uploads/manual-del-aventurero-rudiger-nehberg-contracapa_rev717.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Papel bastante amarelado pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:54:31",
+  "observacoes": null
+}

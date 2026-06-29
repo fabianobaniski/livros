@@ -1,0 +1,63 @@
+{
+  "obra_id": 2841,
+  "autor": "Fernando Pessoa",
+  "titulo": "Páginas sobre literatura e estética",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "",
+  "palavras_chave": "pessoa paginas sobre literatura",
+  "edicao_id": 2821,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Europa - América",
+  "numero_edicao": 0,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2820,
+  "sku": "LI01SX",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/paginas-sobre-literatura-e-estetica-fernando-pessoa-capa_rev1354.jpg",
+  "contracapa": "static/uploads/paginas-sobre-literatura-e-estetica-fernando-pessoa-contracapa_rev1595.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Coleção: Obras em Prosa de Fernando Pessoa // Páginas Sobre Literatura e Estética // Prefácio, Organização, Notas e Bibliografia Básica Atualizada de: António Quadros // Livro formato de bolso, muito bem conservado, constando apenas as bordas escurecidas em função do passar dos anos; conteúdo livre de quaisquer danos, anotações, etc; capas em perfeita conservação! // Índice: I Parte - Ideias Estéticas: Introdução à Estética; Sobre a Arte e o Artista. II Parte - Ideias Sobre Teoria Literária: Da Poesia e da Prosa; Dos Poetas; Dos Gêneros Literários. III Parte - Perspectivas da Literatura Européia: Da História da Literatura em Geral; Dos Grandes Ciclos da Literatura Européia; Alguns Escritores Europeus. IV Parte - Perspectivas da Literatura Portuguesa. Alguns Documentos Biográficos..."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:31:56",
+  "observacoes": null
+}

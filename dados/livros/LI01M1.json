@@ -1,0 +1,63 @@
+{
+  "obra_id": 2593,
+  "autor": "Anna Moll Kovalski; Adauto Kovalski da Silva",
+  "titulo": "Histórias da vovó",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "kovalski historias vovo",
+  "edicao_id": 2573,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 87,
+  "peso": 400,
+  "isbn": "9788590634034",
+  "editora": "Edição do autor",
+  "numero_edicao": 0,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2572,
+  "sku": "LI01M1",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/anna-moll-kovalski--historias-da-vovo--capa--20260316--212208.jpg",
+  "contracapa": "static/uploads/anna-moll-kovalski--historias-da-vovo--contracapa--20260316--212208.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:30:22",
+  "observacoes": null
+}

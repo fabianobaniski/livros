@@ -1,0 +1,63 @@
+{
+  "obra_id": 2327,
+  "autor": "Alessandra Helena Wiederkehr",
+  "titulo": "A Gênese da Escola Alemã no Sul do Brasil",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "wiederkehr genese escola alema",
+  "edicao_id": 2307,
+  "encadernacao": null,
+  "quantidade_paginas": 222,
+  "peso": 433,
+  "isbn": "9788574747330",
+  "editora": "Insular",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A análise de Alessandra Helena Wiederkehr foca no processo de escolarização nas escolas teuto-brasileiras da região de Blumenau. Explora como alunos aprendiam valores étnicos e culturais que formavam uma identidade ligada ao espírito germânico. Usando a teoria de Max Weber, o estudo discute como essas comunidades mantinham suas fronteiras culturais e linguísticas. Também aborda a criação da primeira escola alemã por Hermann Blumenau, a regulamentação da disciplina de religião e a multiplicação das escolas diante da insuficiência das instituições públicas.",
+  "exemplar_id": 2306,
+  "sku": "LI01EO",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/alessandra-helena-wiederkehr--a-genese-da-escola-alema-no-sul-do-brasil--capa--20260316--095950.jpg",
+  "contracapa": "static/uploads/alessandra-helena-wiederkehr--a-genese-da-escola-alema-no-sul-do-brasil--contracapa--20260316--095956.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Capa, contracapa e lombada bem preservados. Texto sem anotações nem grifos. Há, apenas, leves sinais de uso e um pequeno selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:23:56",
+  "observacoes": null
+}

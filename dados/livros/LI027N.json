@@ -1,0 +1,68 @@
+{
+  "obra_id": 3376,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance escolar. Mistério juvenil.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 3353,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788542608243",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Enquanto o “falso amor” entre Raku e Chitoge continua, o garoto segue com sua dúvida: quem era a garota da promessa de dez anos atrás? Após descobrir que tanto Chitoge quanto sua paixão Onodera possuem chaves que podem abrir seu cadeado, uma nova garota aparece e, junto com ela, uma terceira chave...</p>",
+  "sinopse": "O falso namoro entre Raku e Chitoge continua enquanto Raku busca descobrir quem é a garota da promessa feita dez anos atrás. Após encontrar duas possíveis donas das chaves para seu cadeado, Chitoge e Onodera, surge uma nova menina com uma terceira chave, aumentando ainda mais o mistério em torno do passado de Raku.",
+  "exemplar_id": 3352,
+  "sku": "LI027N",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2025-11-05_16-14-45-921539.jpg",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2025-11-05_16-14-45-959456.jpg",
+  "fotos": [
+    "static/uploads/nisekoi__naoshi-komi__foto-01__2025-11-05_16-14-45-994305.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-02__2025-11-05_16-14-46-027599.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-03__2025-11-05_16-14-46-052022.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-04__2025-11-05_16-14-46-087457.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:36:19",
+  "observacoes": null
+}

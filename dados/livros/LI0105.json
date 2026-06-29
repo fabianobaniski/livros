@@ -1,0 +1,68 @@
+{
+  "obra_id": 1802,
+  "autor": "Rodrigo Costa da Rocha Loures; Marcos Mueller Schlemm",
+  "titulo": "Inovação em ambientes organizacionais",
+  "subtitulo": "Teorias, reflexões e práticas",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Inovação organizacional. Treinamento e desenvolvimento. Gestão do conhecimento.",
+  "palavras_chave": "loures inovacao ambientes organizacionais",
+  "edicao_id": 1782,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 199,
+  "peso": 340,
+  "isbn": "9788587053268",
+  "editora": "IBPEX",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As empresas, independentemente do seu porte, têm assumido o investimento na educação dos seus colaboradores como um valor que agrega inúmeros benefícios, tanto aos indivíduos quanto à própria corporação. É essa a questão discutida nesta obra, ao longo de todos os artigos que a compõem, oferecendo ao leitor um importante panorama a respeito das mais atuais ações organizacionais voltadas ao aperfeiçoamento do desempenho individual e coletivo.</p> <p>Como suporte para o direcionamento das decisões empresariais, são enfocados aspectos teóricos vinculados à apropriação e à disseminação do conhecimento no interior das organizações, merecendo especial destaque os processos de treinamento e desenvolvimento (T&D), os quais devem associar-se à concepção de empresa como um espaço capaz de estimular a criatividade e a inovação. Em contrapartida, é reservada uma seção à descrição de modelos e atividades desenvolvidos pelo SESI/SENAI e pelo Sistema FIEP que, uma vez colocados em prática, representam experiências a serem seguidas no intuito de possibilitar a atualização dos funcionários e a consequente otimização do processo produtivo.</p> <p>Trata-se de uma obra inédita no mercado editorial brasileiro, elaborada por profissionais com reconhecida atuação na área, a fim de acirrar as discussões acerca de inovação, tecnologia e desenvolvimento de pessoas no interior das organizações.</p>",
+  "sinopse": "Este livro discute o papel do investimento em educação dos colaboradores nas empresas, destacando os principais panoramas das ações organizacionais mais atuais voltadas ao aperfeiçoamento do desempenho individual e coletivo. Traz abordagens teóricas sobre apropriação e disseminação do conhecimento dentro das organizações, com enfoque em processos de treinamento e desenvolvimento que estimulam criatividade e inovação. Traz ainda modelos e experiências do SESI/SENAI e Sistema FIEP, focados na atualização e otimização do processo produtivo. Obra inédita, visa fomentar o debate sobre inovação, tecnologia e desenvolvimento de pessoas nas organizações.",
+  "exemplar_id": 1781,
+  "sku": "LI0105",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/rodrigo-costa-da-rocha-loures--inova--o-em-ambientes-organizacionais--capa--20250430--102949.jpg",
+  "contracapa": "static/uploads/rodrigo-costa-da-rocha-loures--inova--o-em-ambientes-organizacionais--contracapa--20250430--102949.jpg",
+  "fotos": [
+    "static/uploads/rodrigo-costa-da-rocha-loures--inova--o-em-ambientes-organizacionais--foto1--20250430--102949.jpg",
+    "static/uploads/rodrigo-costa-da-rocha-loures--inova--o-em-ambientes-organizacionais--foto2--20250430--102949.jpg",
+    "static/uploads/rodrigo-costa-da-rocha-loures--inova--o-em-ambientes-organizacionais--foto3--20250430--102949.jpg",
+    "static/uploads/rodrigo-costa-da-rocha-loures--inova--o-em-ambientes-organizacionais--foto4--20250430--102949.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:19:26",
+  "observacoes": "procedencia_biblioteca"
+}

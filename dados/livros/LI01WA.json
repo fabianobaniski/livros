@@ -1,0 +1,63 @@
+{
+  "obra_id": 2962,
+  "autor": "Ward de Souza Gusmão",
+  "titulo": "Um raio de luz",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "gusmao raio luz",
+  "edicao_id": 2942,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 101,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Do Autor",
+  "numero_edicao": 1,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2941,
+  "sku": "LI01WA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/um-raio-de-luz-ward-de-souza-gusmao-capa_rev1930.jpg",
+  "contracapa": "static/uploads/um-raio-de-luz-ward-de-souza-gusmao-contracapa_rev240.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:36:32",
+  "observacoes": null
+}

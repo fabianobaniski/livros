@@ -1,0 +1,68 @@
+{
+  "obra_id": 252,
+  "autor": "Manoel Batista",
+  "titulo": "Nildrien",
+  "subtitulo": "O pergaminho",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Ficção fantástica. Aventura. Magia.",
+  "palavras_chave": "batista nildrien pergaminho",
+  "edicao_id": 246,
+  "encadernacao": null,
+  "quantidade_paginas": 586,
+  "peso": 700,
+  "isbn": "9788542806434",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em um mundo de fantasia medieval, o despertar de uma poderosa energia em uma caverna milenar e remota faz com que os mais poderosos reinos de Nildrien se mobilizem para conseguir o artefato portador do poder: um antigo pergaminho criado pelo maior de todos os magos, contendo feitiços capazes de afetar o equilíbrio mundial.</p> <p>Sem poder enviar seus mais experientes e poderosos membros, resta às forças de reinos aliados formarem um grupo de jovens aventureiros para enviá-los ao maior desafio de suas vidas: uma aventura entre guerreiros, magos e monstros que dividem um cenário onde o fantástico e a magia se mostram mais presentes do que nunca. Uma jornada que mudará para sempre a vida desses jovens, repleta de drama, ação e humor.</p>",
+  "sinopse": "Em Nildrien, uma poderosa energia desperta em uma caverna e faz com que reinos se mobilizem para obter um antigo pergaminho, fonte de grande poder. Sem poder enviar seus melhores membros, os reinos convocam um grupo de jovens aventureiros para a maior aventura de suas vidas, enfrentando magos e monstros em um cenário mágico repleto de drama e ação.",
+  "exemplar_id": 245,
+  "sku": "LI006D",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/manoel-batista--nildrien--capa--20250226--133811.jpg",
+  "contracapa": "static/uploads/manoel-batista--nildrien--contracapa--20250226--133811.jpg",
+  "fotos": [
+    "static/uploads/manoel-batista--nildrien--foto1--20250226--133811.jpg",
+    "static/uploads/manoel-batista--nildrien--foto2--20250226--133811.jpg",
+    "static/uploads/manoel-batista--nildrien--foto3--20250226--133811.jpg",
+    "static/uploads/manoel-batista--nildrien--foto4--20250226--133811.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:17:05",
+  "observacoes": null
+}

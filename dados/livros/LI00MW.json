@@ -1,0 +1,63 @@
+{
+  "obra_id": 862,
+  "autor": "Marco Feliciano",
+  "titulo": "E depois do arrebatamento?",
+  "subtitulo": "Escatologia ao alcance de todos",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Escatologia. Cristianismo.",
+  "palavras_chave": "feliciano arrebatamento escatologia",
+  "edicao_id": 847,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 70,
+  "peso": 100,
+  "isbn": "8598832065",
+  "editora": "Missão e Vida",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O que acontecerá aos salvos e ao mundo depois que Jesus voltar para buscar a Sua Igreja? Este é um estudo acessível a qualquer pessoa que se disponha a entender o que estamos vivendo e como será o fim do mundo. Ninguém pode duvidar, à luz da Bíblia, que estes são os últimos dias, pois os sinais são evidentes: catástrofes, convulsões sociais, medos, rumores de guerra. O pastor Marco Feliciano dedica o livro \"E Depois do Arrebatamento?\" para aqueles que estão sedentos da Palavra de Deus e que vivem atormentados pelas mazelas da Terra.</p>",
+  "sinopse": "Neste livro, Marco Feliciano explora o que acontecerá aos salvos e ao mundo após a volta de Jesus. Através de uma análise acessível, ele discute os sinais dos últimos dias e os fenômenos que indicam a proximidade do fim do mundo, guiando os leitores através das Escrituras para entender as implicações escatológicas da atualidade.",
+  "exemplar_id": 846,
+  "sku": "LI00MW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marco-feliciano--e-depois-do-arrebatamento---capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/marco-feliciano--e-depois-do-arrebatamento---contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livreto em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:37:33",
+  "observacoes": null
+}

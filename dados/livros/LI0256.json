@@ -1,0 +1,68 @@
+{
+  "obra_id": 3284,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Platinum end",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Sobrenatural. Competição divina. Romance.",
+  "palavras_chave": "ohba platinum end",
+  "edicao_id": 3264,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788545707271",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<h1>Eu serei suas asas, Saki.</h1><p>Mirai foi atingido nas costas por uma flecha vermelha quando estava indo para a cerimônia de abertura do colégio onde estuda. E o atirador era Saki Hanakago, a pessoa por quem o garoto sempre foi apaixonado!!</p><p>Ao mesmo tempo, Metropoliman, continua atrás dos candidatos a Deus e propõe um diálogo com os outros onze escolhidos. O que acontece lá é...?!</p>",
+  "sinopse": "Mirai é ferido por uma flecha vermelha quando se dirigia para a cerimônia de abertura do colégio, e descobre que quem atirou foi Saki Hanakago, sua paixão. Enquanto isso, Metropoliman segue perseguindo os candidatos a Deus e propõe um diálogo entre os escolhidos. Novos desafios surgem nesta etapa da seleção divina.",
+  "exemplar_id": 3263,
+  "sku": "LI0256",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__capa__2025-11-05_16-24-50-037639.jpg",
+  "contracapa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__contracapa__2025-11-05_16-24-50-063301.jpg",
+  "fotos": [
+    "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__foto-01__2025-11-05_16-24-50-151530.jpg",
+    "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__foto-02__2025-11-05_16-24-50-194545.jpg",
+    "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__foto-03__2025-11-05_16-24-50-274998.jpg",
+    "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__foto-04__2025-11-05_16-24-50-298807.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:19:26",
+  "observacoes": null
+}

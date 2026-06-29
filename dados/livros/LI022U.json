@@ -1,0 +1,63 @@
+{
+  "obra_id": 3198,
+  "autor": "Helena Leomir de Souza Bartnik",
+  "titulo": "Gestão Educacional",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "bartnik gestao educacional",
+  "edicao_id": 3178,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 202,
+  "peso": 150,
+  "isbn": "9788565704779",
+  "editora": "Intersaberes",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro aborda a gestão escolar como um espaço de reflexão e transformação, analisando sua relação com as mudanças sociais, políticas e econômicas. Explora teorias da administração escolar no Brasil, a interação entre administração empresarial e educacional, e os princípios da gestão da qualidade total. Também discute modelos de gestão compartilhada e democrática, além de utopias, desafios e limites da prática educativa. Uma leitura essencial para educadores comprometidos com a construção de uma escola inclusiva  e cooperativa...",
+  "exemplar_id": 3177,
+  "sku": "LI022U",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:12:21",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

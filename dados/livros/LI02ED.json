@@ -1,0 +1,68 @@
+{
+  "obra_id": 3618,
+  "autor": "Victor Civita",
+  "titulo": "Os imortais da literatura universal",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "",
+  "palavras_chave": "civita imortais literatura universal",
+  "edicao_id": 3595,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 283,
+  "peso": 650,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3594,
+  "sku": "LI02ED",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/victor-civita--os-imortais-da-literatura-universal--capa--20251114--175849.png",
+  "contracapa": "static/uploads/victor-civita--os-imortais-da-literatura-universal--contracapa--20251114--175856.png",
+  "fotos": [
+    "static/uploads/victor-civita--os-imortais-da-literatura-universal--foto1--20251113--190725.jpg",
+    "static/uploads/victor-civita--os-imortais-da-literatura-universal--foto2--20251113--190725.jpg",
+    "static/uploads/victor-civita--os-imortais-da-literatura-universal--foto3--20251113--190725.jpg",
+    "static/uploads/victor-civita--os-imortais-da-literatura-universal--foto4--20251113--190725.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:12:05",
+  "observacoes": null
+}

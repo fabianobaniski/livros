@@ -1,0 +1,68 @@
+{
+  "obra_id": 3642,
+  "autor": "Eça de Queirós",
+  "titulo": "O primo Basílio",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "queiros primo basilio",
+  "edicao_id": 3619,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 321,
+  "peso": 410,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Retrato ácido da pequena burguesia lisboeta, a trama foca no adultério de Luísa com seu primo Basílio durante a ausência do marido, explorando a decadência moral, o tédio doméstico e a chantagem cruel exercida pela empregada Juliana em um ambiente de falsas aparências.",
+  "exemplar_id": 3618,
+  "sku": "LI02F1",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/eca-de-queiros--o-primo-basilio--capa--20251114--184433.png",
+  "contracapa": "static/uploads/eca-de-queiros--o-primo-basilio--contracapa--20251114--184443.png",
+  "fotos": [
+    "static/uploads/eca-de-queiros--o-primo-basilio--foto1--20251113--203642.jpg",
+    "static/uploads/eca-de-queiros--o-primo-basilio--foto2--20251113--203642.jpg",
+    "static/uploads/eca-de-queiros--o-primo-basilio--foto3--20251113--203642.jpg",
+    "static/uploads/eca-de-queiros--o-primo-basilio--foto4--20251113--203642.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:37:59",
+  "observacoes": null
+}

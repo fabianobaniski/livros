@@ -1,0 +1,68 @@
+{
+  "obra_id": 1627,
+  "autor": "Gerson Costa",
+  "titulo": "Tratado de instrumentação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Música",
+  "temas": "",
+  "palavras_chave": "costa tratado instrumentacao",
+  "edicao_id": 1608,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 224,
+  "peso": 280,
+  "isbn": "",
+  "editora": "EVSA",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1607,
+  "sku": "LI00XC",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/gerson-costa--tratado-de-instrumenta--o--capa--20250401--115758.jpg",
+  "contracapa": "static/uploads/gerson-costa--tratado-de-instrumenta--o--contracapa--20250401--115758.jpg",
+  "fotos": [
+    "static/uploads/gerson-costa--tratado-de-instrumenta--o--foto1--20250401--115758.jpg",
+    "static/uploads/gerson-costa--tratado-de-instrumenta--o--foto2--20250401--115758.jpg",
+    "static/uploads/gerson-costa--tratado-de-instrumenta--o--foto3--20250401--115758.jpg",
+    "static/uploads/gerson-costa--tratado-de-instrumenta--o--foto4--20250401--115758.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:30:23",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5649,
+  "autor": "Kaito",
+  "titulo": "Ao no Flag",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura contemporânea. Relações pessoais. Amizade.",
+  "palavras_chave": "kaito ao flag",
+  "edicao_id": 5624,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 203,
+  "peso": 240,
+  "isbn": "9786559608218",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Seiya, irmão mais velho de Touma, pede a Taichi que pergunte ao amigo o que ele realmente está pensando sobre o futuro. Mas antes que Taichi tenha a chance de tocar no assunto, Touma recebe alta do hospital... Enquanto isso, Futaba fica sabendo que o aniversário de Taichi está próximo e propõe que os quatro vão juntos assistir ao Festival de Fogos para comemorarem a data?!</p>",
+  "sinopse": "Seiya pede a Taichi que descubra o que Touma realmente pensa sobre o futuro. Antes que isso aconteça, Touma tem alta do hospital. Futaba descobre que Taichi está prestes a fazer aniversário e sugere que todos assistam juntos ao Festival de Fogos para comemorar.",
+  "exemplar_id": 5623,
+  "sku": "LI0322",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/ao-no-flag__kaito__capa__2026-02-24_13-36-45-191643-000.jpg",
+  "contracapa": "static/uploads/ao-no-flag__kaito__contracapa__2026-02-24_13-36-45-223984-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

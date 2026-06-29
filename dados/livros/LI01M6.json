@@ -1,0 +1,63 @@
+{
+  "obra_id": 2598,
+  "autor": "Hubert Fichte",
+  "titulo": "Hotel Garni",
+  "subtitulo": "A história da sensibilidade",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "fichte hotel garni historia",
+  "edicao_id": 2578,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 179,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Brasiliense",
+  "numero_edicao": 0,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2577,
+  "sku": "LI01M6",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/hubert-fichte--hotel-garni--capa--20260316--212524.jpg",
+  "contracapa": "static/uploads/hubert-fichte--hotel-garni--contracapa--20260316--212524.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados.  Um homossexual meio-judeu nascido na Alemanha nazista relata a uma mulher cenas de sua vida como trabalhador rural, pastor de ovelhas, estudante de agronomia, diretor de um abrigo para desvalidos, funcionário em um instituto para retardados. Com honestidade quase perversa descreve também seu relacionamento com rapazes, sempre assumido e aberto, e suas constantes viagens por toda a Europa pós-guerra. Um romance marcadamente auto-biográfico, sintético e irônico, do mesmo autor de Ensaios sobre a puberdade e Etnopoesia, considerado um dos mais originais escritores alemães contempoâneos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:33:39",
+  "observacoes": null
+}

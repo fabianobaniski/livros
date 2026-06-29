@@ -1,0 +1,63 @@
+{
+  "obra_id": 540,
+  "autor": "Brennan Manning",
+  "titulo": "O obstinado amor de Deus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Fé. Amor. Cristianismo.",
+  "palavras_chave": "manning obstinado amor deus",
+  "edicao_id": 525,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 124,
+  "peso": 280,
+  "isbn": "9788573254990",
+  "editora": "Mundo Cristão",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Tão grande... e tão acessível.</p><p>Dois milênios de cristianismo proporcionaram tempo mais que suficiente para que inúmeros pensadores tentassem descrever, qualificar ou quantificar o amor divino das mais diversas maneiras. O esforço de minerar algum termo ou cunhar uma expressão grandiosa para articular esse conceito indizível — afinal, Deus é o próprio amor que dele emana — levou Lutero a se referir a ele como \"fogo ardente\". Para Tereza de Ávila, era a \"suprema perfeição\". Francisco de Assis o considerava \"gale de livres\", alusão (em contraponto) aos antigos navios impulsionados pelo trabalho escravo dos remadores.</p><p>Talvez compreendendo a insuficiência dos adjetivos, Agostinho preferiu valer-se de uma constatação: \"Deus ama tanto a cada um como se não exisitisse ninguém mais a quem pudesse dedicar seu amor\". Essa inspiração agostiniana perpassa o texto de <i>O obstinado amor de Deus</i>. Neste livro, Brennan Manning desfia as fibras desse relacionamento tão inusitado para revelar, no cerne, uma realidade poderosa e comovente: desde a plenitude de sua grandeza, o Autor da vida nos ama de modo tão intenso e inflexível que jamais alguém foi capaz de conceber, e convida: \"Venha e participe da alegria do seu senhor!\" (Mt 25:23, NVI).</p><p>Nenhum pensamento o pode conter; nenhum vocábulo o pode exprimir. Ele está além de tudo o que possamos racionalizar ou imaginar.</p>",
+  "sinopse": "Neste livro, Brennan Manning revela o amor intenso e incondicional de Deus, explorando a profundidade desse relacionamento tão inusitado. Através de reflexões de pensadores cristãos ao longo dos séculos, ele ilustra como Deus ama cada um de nós de maneira singular e poderosa.",
+  "exemplar_id": 524,
+  "sku": "LI00DZ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/brennan-manning--o-obstinado-amor-de-deus--capa--20250227--152848.jpg",
+  "contracapa": "static/uploads/brennan-manning--o-obstinado-amor-de-deus--contracapa--20250227--152848.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:32:53",
+  "observacoes": null
+}

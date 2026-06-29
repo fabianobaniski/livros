@@ -1,0 +1,68 @@
+{
+  "obra_id": 1707,
+  "autor": "Martín Gelabert Ballester",
+  "titulo": "A nossa ressurreição",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia. Esperança.",
+  "palavras_chave": "gelabert nossa resurreicao",
+  "edicao_id": 1687,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 76,
+  "peso": 150,
+  "isbn": "9788535618020",
+  "editora": "Paulinas",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "Adultos em Cristo",
+  "volume": null,
+  "transcricao_contracapa": "<p>Há três perguntas fundamentais e inevitáveis às quais todo ser humano deve responder para saber quem é: O que posso conhecer? O que devo fazer? O que me é permitido esperar? Este livro quer ajudar a responder à terceira pergunta. Perguntar o que podemos esperar equivale a questionar sobre o sentido da vida, sobre aquilo que nos faz viver, nos emociona e nos dá coragem.</p> <p>Em seu nível mais radical, a pergunta encontra-se necessariamente com a morte. É aqui que a resposta cristã mostra toda a sua originalidade. Talvez em outras questões possa haver coincidência entre cristãos e não-cristãos. Mas, quando se trata de enfrentar a morte, os caminhos divergem e é preciso escolher, porque aqui somos remetidos àquilo que é próprio e original do cristianismo: a ressurreição de Jesus, o primeiro de uma longa lista de irmãos (cf. 1Cor 15,23; Cl 1,18).</p> <p>Falar da ressurreição de Jesus significa falar da nossa ressurreição, do nosso futuro, da nossa destinação final, da vida eterna que nos espera.</p>",
+  "sinopse": "Este livro aborda questões fundamentais sobre a vida e a morte, propondo uma reflexão profunda sobre o que podemos esperar do futuro e como a ressurreição de Jesus se relaciona com nossa própria esperança de vida eterna. O autor destaca a originalidade da resposta cristã à morte, apontando a ressurreição como um aspecto central da fé cristã.",
+  "exemplar_id": 1686,
+  "sku": "LI00XV",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/mart-n-gelabert-ballester--a-nossa-ressurrei--o--capa--20250401--115808.jpg",
+  "contracapa": "static/uploads/mart-n-gelabert-ballester--a-nossa-ressurrei--o--contracapa--20250401--115808.jpg",
+  "fotos": [
+    "static/uploads/mart-n-gelabert-ballester--a-nossa-ressurrei--o--foto1--20250401--115808.jpg",
+    "static/uploads/mart-n-gelabert-ballester--a-nossa-ressurrei--o--foto2--20250401--115808.jpg",
+    "static/uploads/mart-n-gelabert-ballester--a-nossa-ressurrei--o--foto3--20250401--115808.jpg",
+    "static/uploads/mart-n-gelabert-ballester--a-nossa-ressurrei--o--foto4--20250401--115808.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:35:25",
+  "observacoes": null
+}

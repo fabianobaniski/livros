@@ -1,0 +1,63 @@
+{
+  "obra_id": 2372,
+  "autor": "Luís Cláudio Figueiredo",
+  "titulo": "Antonio Gomes Penna",
+  "subtitulo": "Pioneiros da Psicologia Brasileira - Volume 9",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "figueiredo antonio gomes penna",
+  "edicao_id": 2352,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 99,
+  "peso": 450,
+  "isbn": "9788531208102",
+  "editora": "Imago",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra de Penna é caracterizada pela interseção entre Psicologia, Filosofia, Epistemologia e Ciências Naturais e Sociais, sempre com uma abordagem aberta e complexa. Ele propunha uma visão da Psicologia que vai além de uma prática técnica, enfatizando a necessidade de reflexão teórica e questionamento contínuo. Antonio Gomes Penna deixou um legado notável, tanto pela profundidade quanto pela extensão de sua produção bibliográfica no campo da Psicologia.",
+  "exemplar_id": 2351,
+  "sku": "LI01FX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/luis-claudio-figueiredo--antonio-gomes-penna--capa--20260316--154356.jpg",
+  "contracapa": "static/uploads/luis-claudio-figueiredo--antonio-gomes-penna--contracapa--20260316--154403.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:16:05",
+  "observacoes": null
+}

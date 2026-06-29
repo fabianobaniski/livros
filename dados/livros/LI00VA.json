@@ -1,0 +1,68 @@
+{
+  "obra_id": 1460,
+  "autor": "Regina Drummond",
+  "titulo": "Marcelo descobre a Alemanha",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Literatura infanto-juvenil. Intercâmbio cultural.",
+  "palavras_chave": "drummond marcelo alemanha",
+  "edicao_id": 1441,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 223,
+  "peso": 350,
+  "isbn": "9788532275585",
+  "editora": "FTD",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "Coleção Intercâmbio",
+  "volume": null,
+  "transcricao_contracapa": "<p>A família brasileira Coronha Vasconcelos vai viver em Leipzig, na Alemanha, com data marcada para retornar. No ano em que a família mora nesse país, seus membros vivem com encantamento e dificuldades as diferenças culturais.</p> <p>O Muro de Berlim, a Segunda Guerra Mundial, a Baviera, a cidade de Leipzig, a vida e a obra de Goethe formam cenários panorâmicos da intensa história da Alemanha, descoberta pelo jovem brasileiro Marcelo.</p>",
+  "sinopse": "A história gira em torno da família brasileira Coronha Vasconcelos, que se muda para Leipzig, na Alemanha, e enfrenta desafios culturais enquanto descobre a rica história do país. O cenário inclui momentos marcantes como o Muro de Berlim e a obra de Goethe, explorados através da perspectiva do jovem Marcelo.",
+  "exemplar_id": 1440,
+  "sku": "LI00VA",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/regina-drummond--marcelo-descobre-a-alemanha--capa--20250401--115735.jpg",
+  "contracapa": "static/uploads/regina-drummond--marcelo-descobre-a-alemanha--contracapa--20250401--115735.jpg",
+  "fotos": [
+    "static/uploads/regina-drummond--marcelo-descobre-a-alemanha--foto1--20250401--115735.jpg",
+    "static/uploads/regina-drummond--marcelo-descobre-a-alemanha--foto2--20250401--115735.jpg",
+    "static/uploads/regina-drummond--marcelo-descobre-a-alemanha--foto3--20250401--115735.jpg",
+    "static/uploads/regina-drummond--marcelo-descobre-a-alemanha--foto4--20250401--115735.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 18:00:33",
+  "observacoes": null
+}

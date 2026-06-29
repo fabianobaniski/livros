@@ -1,0 +1,63 @@
+{
+  "obra_id": 2805,
+  "autor": "Laís Carr Ribeiro",
+  "titulo": "O sétimo suspeito",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "ribeiro setimo suspeito",
+  "edicao_id": 2785,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 86,
+  "peso": 150,
+  "isbn": "9788516004521",
+  "editora": "Veredas",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Misteriosos assassinatos em um laboratório químico coincidem com o surgimento de estranhas mutações em pessoas. Um detetive é chamado para resolver o caso, mas um grupo de jovens decide investigar por conta própria. Envolvidos em uma trama de espionagem industrial, eles se deparam com hambúrgueres envenenados e mutações bizarras, como espinhos nascendo nas mãos. Em meio a perigos crescentes, esses jovens descobrem que a invenção revolucionária do laboratório está em risco, e precisam agir rapidamente.",
+  "exemplar_id": 2784,
+  "sku": "LI01RX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-setimo-suspeito-lais-carr-ribeiro-capa_rev662.jpg",
+  "contracapa": "static/uploads/o-setimo-suspeito-lais-carr-ribeiro-contracapa_rev439.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro com alguns sinais de uso, mas em bom estado. Sem grifos ou anotações. Um tanto amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:44:14",
+  "observacoes": null
+}

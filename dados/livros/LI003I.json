@@ -1,0 +1,68 @@
+{
+  "obra_id": 144,
+  "autor": "John Green",
+  "titulo": "Quem é você, Alasca?",
+  "subtitulo": "O primeiro amigo, a primeira garota, as últimas palavras",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura contemporânea. Adolescência. Relacionamentos.",
+  "palavras_chave": "green quem alasca",
+  "edicao_id": 140,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 229,
+  "peso": 2010,
+  "isbn": "9788578273422",
+  "editora": "Martins Fontes",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"... se as pessoas fossem chuva, eu seria garoa e ela, um furacão.\"</p><p>Miles Halter é um adolescente fissurado por célebres últimas palavras — e está cansado de sua vidinha segura e sem graça em casa. Vai para uma nova escola à procura daquilo que o poeta François Rabelais, quando estava à beira da morte, chamou de o \"Grande Talvez\". Muita coisa o aguarda em Culver Creek, inclusive Alaska Young. Inteligente, espirituosa, problemática e extremamente sensual, Alaska levará Miles para o seu labirinto e o catapultará em direção ao \"Grande Talvez\".</p><p>Quem é você, alasca? narra de forma brilhante o impacto indelével que uma vida pode ter sobre outra. Um livro incrível que marca a chegada de John Green como uma voz importante na ficção contemporânea.</p>",
+  "sinopse": "Quem é você, Alasca? conta a história de Miles Halter, um adolescente que procura um novo começo em uma escola diferente, onde o encontra Alaska Young, uma garota enigmática que transforma sua vida de maneira drástica. A narrativa explora temas de amizade, amor e o impacto das últimas palavras, refletindo sobre as transformações que relacionamentos intensos podem trazer.",
+  "exemplar_id": 139,
+  "sku": "LI003I",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/john-green--quem---voc---alasca---capa--20250226--133757.jpg",
+  "contracapa": "static/uploads/john-green--quem---voc---alasca---contracapa--20250226--133757.jpg",
+  "fotos": [
+    "static/uploads/john-green--quem---voc---alasca---foto1--20250226--133757.jpg",
+    "static/uploads/john-green--quem---voc---alasca---foto2--20250226--133757.jpg",
+    "static/uploads/john-green--quem---voc---alasca---foto3--20250226--133757.jpg",
+    "static/uploads/john-green--quem---voc---alasca---foto4--20250226--133757.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém bastante amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:24:30",
+  "observacoes": null
+}

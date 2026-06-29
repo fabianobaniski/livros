@@ -1,0 +1,68 @@
+{
+  "obra_id": 3497,
+  "autor": "Akihito Tsukushi",
+  "titulo": "Made in Abyss",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Fantasia. Exploração. Superação de desafios.",
+  "palavras_chave": "tsukushi made abyss",
+  "edicao_id": 3474,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 270,
+  "isbn": "9788583622253",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>ESTE É O SEGUNDO VOLUME DA GRANDE AVENTURA QUE MISTURA ESPERANÇA E DESESPERO!!</p><p>\"Abismo\", o grande buraco repleto de maldições que impedem a subida das pessoas que descem por ele. Para se encontrar com sua mãe Lyza, uma grande exploradora de cavernas, a jovem Riko tenta desafiar esse enorme buraco desconhecido e inexplorado...</p><p>Chegar ao \"fundo do abismo\", algo que talvez nem seja possível... Esse é um desafio imprudente, mas Riko tinha uma única esperança de conseguir isso. Seu nome é Reg, um robô com amnésia que ela conheceu dentro do \"Abismo\". Sua aparência é de um pequeno garoto, mas possui um poder assustador oculto em seu corpo. Ela acreditava que conseguiria encontrar um jeito de alcançar seu objetivo com a ajuda dele... Reg também resolve acompanhá-la nessa aventura para protegê-la e para descobrir quem ou o que ele é.</p><p>Riko e Reg conseguem chegar à primeira camada de profundidade com a ajuda de seus amigos. Eles seguem rapidamente em direção às profundezas, sentindo a presença de pessoas que os perseguiam. Eles estavam cheios de esperança para verem logo as profundezas que ainda não conheciam. Mas \"Abismo\" leva os dois cada vez mais para o fundo, sem misericórdia...</p>",
+  "sinopse": "Riko, uma jovem exploradora de cavernas, e Reg, um misterioso robô com aparência de garoto, embarcam em uma perigosa jornada pelas profundezas do Abismo para encontrar a mãe de Riko. Juntos, enfrentam maldições e desafios desconhecidos enquanto tentam desvendar segredos ocultos em busca de esperança e respostas sobre o passado de Reg. À medida que descem, o Abismo se revela cada vez mais implacável.",
+  "exemplar_id": 3473,
+  "sku": "LI02B0",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/made-in-abyss__akihito-tsukushi__capa__2025-11-05_16-15-58-163726.jpg",
+  "contracapa": "static/uploads/made-in-abyss__akihito-tsukushi__contracapa__2025-11-05_16-15-58-602453.jpg",
+  "fotos": [
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-01__2025-11-05_16-15-58-991537.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-02__2025-11-05_16-15-59-087228.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-03__2025-11-05_16-15-59-104387.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-04__2025-11-05_16-15-59-125099.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:53:22",
+  "observacoes": null
+}

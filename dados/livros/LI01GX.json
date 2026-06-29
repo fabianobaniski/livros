@@ -1,0 +1,63 @@
+{
+  "obra_id": 2408,
+  "autor": "Adolfo Caminha",
+  "titulo": "Bom-crioulo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "adolfo caminha bomcrioulo",
+  "edicao_id": 2388,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 80,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2387,
+  "sku": "LI01GX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/adolfo-caminha--bom-crioulo--capa--20260316--175626.jpg",
+  "contracapa": "static/uploads/adolfo-caminha--bom-crioulo--contracapa--20260316--175626.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, apesar de um tanto amarelado e com leves sinais de uso. Texto livre de sublinhados e anotações.  Capa brochura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:55:16",
+  "observacoes": null
+}

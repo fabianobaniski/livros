@@ -1,0 +1,68 @@
+{
+  "obra_id": 1772,
+  "autor": "Maria Thereza Bond; Marlene de Oliveira",
+  "titulo": "Manual do profissional de secretariado",
+  "subtitulo": "Conhecendo a profissão",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Profissão de secretariado. Mercado de trabalho. Desenvolvimento profissional.",
+  "palavras_chave": "bond manual profissional secretariado conhecendo profissao",
+  "edicao_id": 1752,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 130,
+  "peso": 240,
+  "isbn": "9788578380878",
+  "editora": "IBPEX",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este primeiro volume do <i>Manual do Profissional de Secretariado</i> faz uma abordagem introdutória e bastante interessante sobre a importância da profissão de secretariado executivo e de sua evolução no mercado global.</p><p>Ideal para quem se interessa em seguir carreira na área ou deseja conhecer suas principais características, abrangência e histórico, este livro se destaca por sua clareza, aplicabilidade e riqueza de detalhes.</p><p>Ao longo destas páginas, o leitor terá uma noção completa sobre o dia a dia de um secretário em uma organização, além de aprender os principais conceitos e posturas que podem não apenas facilitar, mas também qualificar seu trabalho e ajudá-lo a obter reconhecimento e sucesso no mundo corporativo.</p>",
+  "sinopse": "Este primeiro volume do Manual do Profissional de Secretariado apresenta uma introdução à importância e evolução da profissão de secretariado executivo no mercado global. O livro, indicado para quem deseja ingressar na área ou conhecer suas principais características e histórico, destaca-se pela clareza e riqueza de detalhes. Ao longo das páginas, o leitor aprende sobre o cotidiano do secretário em organizações e adquire conceitos e posturas fundamentais para qualificar seu trabalho e alcançar reconhecimento no mundo corporativo.",
+  "exemplar_id": 1751,
+  "sku": "LI00ZB",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maria-thereza-bond--manual-do-profissional-de-secretariado--capa--20250430--102944.jpg",
+  "contracapa": "static/uploads/maria-thereza-bond--manual-do-profissional-de-secretariado--contracapa--20250430--102944.jpg",
+  "fotos": [
+    "static/uploads/maria-thereza-bond--manual-do-profissional-de-secretariado--foto1--20250430--102944.jpg",
+    "static/uploads/maria-thereza-bond--manual-do-profissional-de-secretariado--foto2--20250430--102944.jpg",
+    "static/uploads/maria-thereza-bond--manual-do-profissional-de-secretariado--foto3--20250430--102944.jpg",
+    "static/uploads/maria-thereza-bond--manual-do-profissional-de-secretariado--foto4--20250430--102944.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:21:31",
+  "observacoes": "procedencia_biblioteca"
+}

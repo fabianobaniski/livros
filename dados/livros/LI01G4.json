@@ -1,0 +1,63 @@
+{
+  "obra_id": 2379,
+  "autor": "Fernando Santoro",
+  "titulo": "Arqueologia dos prazeres",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "santoro arqueologia dos prazeres",
+  "edicao_id": 2359,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 266,
+  "peso": 367,
+  "isbn": "9788573028522",
+  "editora": "Objetiva",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro explora a questão do prazer a partir da perspectiva dos filósofos gregos, investigando se o prazer deve ser perseguido, evitado ou controlado, e sua relação com a felicidade. Fernando Santoro apresenta uma análise acessível sobre as diversas teses ontológicas do prazer, conectando-o ao repouso, ao movimento, ao corpo e ao intelecto. As visões de diferentes escolas filosóficas, como os hedonistas, cínicos, estoicos e materialistas, são examinadas, assim como a maneira pela qual filósofos como Aristóteles, Platão, Epicuro e outros associavam o prazer à beleza e ao desejo.",
+  "exemplar_id": 2358,
+  "sku": "LI01G4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/fernando-santoro--arqueologia-dos-prazeres--capa--20260316--154759.jpg",
+  "contracapa": "static/uploads/fernando-santoro--arqueologia-dos-prazeres--contracapa--20260316--154805.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato pequeno, em ótimas condições. Papel sem manhas. Lombada alinhada. Capa e contracapa sem danos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:16:13",
+  "observacoes": null
+}

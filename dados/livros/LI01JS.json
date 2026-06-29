@@ -1,0 +1,63 @@
+{
+  "obra_id": 2512,
+  "autor": "David Pearson",
+  "titulo": "El libro de la casa natural",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Arquitetura",
+  "temas": "",
+  "palavras_chave": "pearson libro casa natural",
+  "edicao_id": 2492,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 286,
+  "peso": 1200,
+  "isbn": "9788479010232",
+  "editora": "Integral",
+  "numero_edicao": 3,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Um guia completo sobre como construir e organizar espaços saudáveis e sustentáveis, baseando-se em princípios ecológicos e de respeito ao meio ambiente. Reúne ideias práticas e inovadoras para criar casas que harmonizam conforto, beleza e responsabilidade ambiental, utilizando materiais naturais e técnicas tradicionais de várias culturas. Com contribuições de especialistas em arquitetura e ecologia, é uma referência essencial para quem busca construir ou reformar com consciência ambiental.",
+  "exemplar_id": 2491,
+  "sku": "LI01JS",
+  "preco_estante_virtual": 90.0,
+  "preco_amazon": 100.0,
+  "capa": "static/uploads/david-pearson--el-libro-de-la-casa-natural--capa--20260316--193547.jpg",
+  "contracapa": "static/uploads/david-pearson--el-libro-de-la-casa-natural--contracapa--20260316--193547.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Como crear un hogar sano, armónico y ecológico. / Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel com leve mancha de umidade na parte inferior, sem comprometer a leitura e o manuseio do livro. Capa dura com sobrecapa,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:01:30",
+  "observacoes": null
+}

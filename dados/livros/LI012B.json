@@ -1,0 +1,68 @@
+{
+  "obra_id": 1881,
+  "autor": "Amir Mattar Valente; Antonio Galvão Novaes; Eunice Passaglia; Heitor Vieira",
+  "titulo": "Gerenciamento de transporte e frotas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Logística. Transportes. Gestão de frotas. Inovação tecnológica.",
+  "palavras_chave": "valente gerenciamento transporte frotas",
+  "edicao_id": 1861,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 340,
+  "peso": 490,
+  "isbn": "9788522106134",
+  "editora": "Cengage Learning",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O setor de transportes está envolvido em um mercado francamente concorrencial e que, além disso, vem sofrendo profundas alterações oriundas do desenvolvimento tecnológico e da globalização da economia.</p> <p>Na busca por instrumentos que possam contribuir para a melhoria na gestão das frotas e para a modernização dos recursos disponíveis, e dada a constatação do êxito da primeira edição nos meios empresarial e acadêmico, lança-se agora uma edição totalmente revisada, com destaque para os capítulos 9 e 10, os quais receberam diversas atualizações notadamente no que se refere a aspectos de legislação e novas tecnologias.</p> <p>Questões relacionadas a dimensionamento, operação e renovação de frotas, especificação de veículos, custos, planejamento da manutenção, acomodação de cargas e passageiros, além da aplicação de inovações tecnológicas no setor, foram pesquisadas a partir da bibliografia existente e apresentadas pelos autores com base em suas experiências e na prática observada nas empresas.</p> <p><i>Gerenciamento de Transporte e Frotas</i> vem ao encontro das atuais necessidades do mercado de transportes, que exigem não só a otimização das operações, mas também a constante atualização dos métodos e equipamentos de trabalho.</p> <h2>Aplicações</h2> <p>Livro-texto para os cursos da área de Logística e Transportes, tanto na graduação como na pós-graduação. Além do mercado universitário, este livro pode atender empresas, órgãos de transportes e transportadoras, grandes indústrias e embarcadores.</p>",
+  "sinopse": "O livro aborda os desafios e inovações no setor de transportes frente a um mercado competitivo e à globalização, destacando ferramentas para aprimorar a gestão e modernização de frotas. Esta edição revisada traz atualizações importantes em legislação e novas tecnologias, com enfoque em temas como dimensionamento, renovação e operação de frotas, custos, manutenção, acomodação de cargas e passageiros, e inovações tecnológicas. Indicado tanto para acadêmicos quanto profissionais do setor, atende às demandas por otimização e atualização constante nos métodos e equipamentos de trabalho.",
+  "exemplar_id": 1860,
+  "sku": "LI012B",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/amir-mattar-valente--gerenciamento-de-transporte-e-frotas--capa--20250430--104254.jpg",
+  "contracapa": "static/uploads/amir-mattar-valente--gerenciamento-de-transporte-e-frotas--contracapa--20250430--104254.jpg",
+  "fotos": [
+    "static/uploads/amir-mattar-valente--gerenciamento-de-transporte-e-frotas--foto1--20250430--104254.jpg",
+    "static/uploads/amir-mattar-valente--gerenciamento-de-transporte-e-frotas--foto2--20250430--104254.jpg",
+    "static/uploads/amir-mattar-valente--gerenciamento-de-transporte-e-frotas--foto3--20250430--104254.jpg",
+    "static/uploads/amir-mattar-valente--gerenciamento-de-transporte-e-frotas--foto4--20250430--104254.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:28:14",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2505,
+  "autor": "Margaret Bakos",
+  "titulo": "Egiptomania",
+  "subtitulo": "O Egito no Brasil",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "bakos egiptomania egito brasil",
+  "edicao_id": 2485,
+  "encadernacao": null,
+  "quantidade_paginas": 190,
+  "peso": 300,
+  "isbn": "9788572442619",
+  "editora": "Paris Editorial",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Egiptomania explora o fascínio duradouro da civilização egípcia, que, mais de seis mil anos depois, ainda desperta curiosidade e admiração. Com suas pirâmides, obeliscos e múmias, o Egito antigo permanece presente em nossas cidades, ruas e até em nossas casas, através de símbolos e referências que atravessam o tempo. O livro nos convida a redescobrir o Egito e sua influência ao longo da história, revelando como a cultura egípcia continua a cativar o mundo moderno com seu mistério e beleza incomparáveis.",
+  "exemplar_id": 2484,
+  "sku": "LI01JL",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/margaret-bakos--egiptomania--capa--20260316--193343.jpg",
+  "contracapa": "static/uploads/margaret-bakos--egiptomania--contracapa--20260316--193343.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Há, contudo, grifos feito com caneta-destaque em algumas poucas folhas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:58:23",
+  "observacoes": null
+}

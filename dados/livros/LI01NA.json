@@ -1,0 +1,63 @@
+{
+  "obra_id": 2638,
+  "autor": "Roger Alier",
+  "titulo": "La discoteca ideal de intérpretes",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Música",
+  "temas": "",
+  "palavras_chave": "alier discoteca ideal interpretes",
+  "edicao_id": 2618,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 576,
+  "peso": 600,
+  "isbn": "9788408021605",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Houve um tempo em que os intérpretes de música tinham uma fama passageira, e apenas a lembrança legendária permanecia. O surgimento do disco de gramofone no final do século XIX mudou essa realidade, permitindo que suas interpretações fossem preservadas para as gerações futuras. Com a chegada do disco microsulco de longa duração e, posteriormente, do disco compacto em 1984, houve um salto na fidelidade sonora e na conservação do patrimônio musical. Hoje, qualquer pessoa pode reviver as grandes performances do passado, trazendo eternidade às obras dos maiores artistas.",
+  "exemplar_id": 2617,
+  "sku": "LI01NA",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/roger-alier--la-discoteca-ideal-de-interpretes--capa--20260316--214108.jpg",
+  "contracapa": "static/uploads/roger-alier--la-discoteca-ideal-de-interpretes--contracapa--20260316--214108.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:02:39",
+  "observacoes": null
+}

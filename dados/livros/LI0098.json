@@ -1,0 +1,68 @@
+{
+  "obra_id": 361,
+  "autor": "Gabriel Liiceanu",
+  "titulo": "Da mentira",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Linguagem. Ética.",
+  "palavras_chave": "liiceanu da mentira ",
+  "edicao_id": 352,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 91,
+  "peso": 150,
+  "isbn": "9788567394350",
+  "editora": "Vide Editorial",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "Pensadores contemporâneos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Propos a mim mesmo falar da mentira, o que significa, de algo puramente humano: apenas o homem pode mentir, porque apenas o homem tem parte num “algo” que pode exprimir e que, exprimindo, pode mover-se em duas direções totalmente opostas: a verdade e o falso intencional. Este “algo” é a língua.</p><p>O fato de a língua, empregada do utilizador humano, poder dizer não apenas o que é, mas o que não é – ou seja, o fato de que uma palavra pode dizer não apenas a verdade, mas também mentir – explica por que a história do homem é, em sua essência, uma corrente de desastres. “O povo romeno [diz Cioran numa carta a seu irmão] não está no nível da língua que fala”. Mas o próprio homem como espécie não está no nível da língua que emprega. Toda a história desta espécie é uma expressão de uma fraude linguística.</p>",
+  "sinopse": "O livro explora a natureza da mentira e sua relação intrínseca com a linguagem, argumentando que a capacidade do homem de mentir é uma manifestação de sua condição linguística. A análise filosófica se aprofunda na dualidade da verdade e da falsidade, questionando a essência do ser humano e sua histórica de desastres resultantes dessa capacidade linguística.",
+  "exemplar_id": 351,
+  "sku": "LI0098",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/gabriel-liiceanu--da-mentira--capa--20250226--133823.jpg",
+  "contracapa": "static/uploads/gabriel-liiceanu--da-mentira--contracapa--20250226--133823.jpg",
+  "fotos": [
+    "static/uploads/gabriel-liiceanu--da-mentira--foto1--20250226--133823.jpg",
+    "static/uploads/gabriel-liiceanu--da-mentira--foto2--20250226--133823.jpg",
+    "static/uploads/gabriel-liiceanu--da-mentira--foto3--20250226--133823.jpg",
+    "static/uploads/gabriel-liiceanu--da-mentira--foto4--20250226--133823.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:33:50",
+  "observacoes": null
+}

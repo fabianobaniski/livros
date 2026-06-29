@@ -1,0 +1,68 @@
+{
+  "obra_id": 1437,
+  "autor": "Octávio Tarquínio de Sousa",
+  "titulo": "A vida de D. Pedro I",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "octavio sousa vida pedro",
+  "edicao_id": 1418,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 327,
+  "peso": 800,
+  "isbn": "",
+  "editora": "Livraria José Olympio",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "História dos Fundadores do Império do Brasil",
+  "volume": 3,
+  "transcricao_contracapa": "<h1>Museu de Arte Didacta</h1> <p>Reproduções fiéis e autenticadas de 70 telas e esculturas inteligentemente selecionadas traçam a história básica de cinco milênios de belas artes, desde os caracteres cuneiformes de há 3.000 anos A.C. até o retrato de Marilyn Monroe, de Warhol, dos nossos dias.</p> <p>Para conhecer tais obras-primas, seria necessário visitar quase uma centena de museus e coleções particulares, em mais de vinte cidades distribuídas por três continentes.</p> <p>O Museu de Arte Didacta reúne tais mostras dos anseios estéticos, místicos e sociais dos maiores artistas de todos os tempos. E qualquer município, biblioteca, escola, clube ou fábrica pode colocá-lo ao alcance dos seus alunos. Fonte permanente de cultura e prazer, o Museu de Arte Didacta é ainda um dos mais eloquentes instrumentos da moderna pedagogia pela imagem.</p> <p>Seleção, roteiro artístico e histórico da Prof.ª Vera Pacheco Jordão. Uma iniciativa da</p> <p>DIDACTA-SISTEMAS EDUCACIONAIS S.A. subsidiária da LIVRARIA JOSÉ OLYMPO EDITORA.</p>",
+  "sinopse": "",
+  "exemplar_id": 1417,
+  "sku": "LI00UN",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--capa--20250401--115347.png",
+  "contracapa": "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--contracapa--20250401--115347.png",
+  "fotos": [
+    "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--foto1--20250401--115347.jpg",
+    "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--foto2--20250401--115347.jpg",
+    "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--foto3--20250401--115347.jpg",
+    "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--foto4--20250401--115347.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, sem danos na capa, lombada e contracapa, porém fortemente amarelado pelo tempo, sobretudo nas bordas. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:46:19",
+  "observacoes": null
+}

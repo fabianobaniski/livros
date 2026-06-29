@@ -1,0 +1,68 @@
+{
+  "obra_id": 227,
+  "autor": "Simon Winchester",
+  "titulo": "A crack in America and the edge of the world",
+  "subtitulo": "Earthquake of 1906",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "História. Desastres naturais. Cultura.",
+  "palavras_chave": "winchester crack america edge",
+  "edicao_id": 221,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 462,
+  "peso": 200,
+  "isbn": "9780061143151",
+  "editora": "HarperCollins",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"An absorbing narrative of the San Francisco earthquake of 1906 . . . a timely study of America's risky taste for civic culture on the edge of the abyss.\" The Independent.</p> <p>In the early morning hours of April 18, 1906, an earthquake registering 8.25 on the Richter scale struck San Francisco and a string of towns to its north-northwest and south-southeast. The quake, lasting little more than a minute, toppled 25,000 buildings, broke open gas mains, and cut off electric power lines throughout the Bay area. Then came the fires that raged for three days, cutting a deadly 200-mile-long swath across coastal California, leaving chaos and horror in its wake while effectively destroying the gold rush capital that had stood for a half century. It was perhaps the worst natural disaster in the history of the United States.</p> <p>Internationally bestselling author Simon Winchester vividly brings the cataclysm to life—offering a fascinating, in-depth exploration of a legendary event that changed the way we look at the planet on which we live.</p>",
+  "sinopse": "No dia 18 de abril de 1906, um terremoto de magnitude 8.25 atingiu San Francisco, causando a destruição de 25.000 edifícios e desativando o fornecimento de eletricidade. As chamas que se seguiram devastaram a Califórnia, resultando na pior catástrofe natural da história dos Estados Unidos. O autor Simon Winchester oferece uma análise profunda deste evento que transformou a cidade e alterou a percepção de como vemos nosso planeta.",
+  "exemplar_id": 220,
+  "sku": "LI005O",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/simon-winchester--a-crack-in-america-and-the-edge-of-the-world--capa--20250226--133808.jpg",
+  "contracapa": "static/uploads/simon-winchester--a-crack-in-america-and-the-edge-of-the-world--contracapa--20250226--133808.jpg",
+  "fotos": [
+    "static/uploads/simon-winchester--a-crack-in-america-and-the-edge-of-the-world--foto1--20250226--133808.jpg",
+    "static/uploads/simon-winchester--a-crack-in-america-and-the-edge-of-the-world--foto2--20250226--133808.jpg",
+    "static/uploads/simon-winchester--a-crack-in-america-and-the-edge-of-the-world--foto3--20250226--133808.jpg",
+    "static/uploads/simon-winchester--a-crack-in-america-and-the-edge-of-the-world--foto4--20250226--133808.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:15:35",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3287,
+  "autor": "Tadahiro Miura",
+  "titulo": "Yuuna e a pensão assombrada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos. Mangá. Fantasmas. Sobrenatural. Vida escolar.",
+  "palavras_chave": "miura yuuna pensao assombrada",
+  "edicao_id": 3267,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 220,
+  "isbn": "9788542618358",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Meu nome é Yuuna Yunohana e eu sou a fantasma da Pensão Yuragi!</p><p>Kogarashi Fuyuzora é um “Médium da Pancadaria” afundado em dívidas após ter sido possuído por um espírito maligno que o fez perder tudo! Ao buscar um lugar para morar cujo aluguel fosse barato, ele acabou encontrando a Pensão Yuragi, uma hospedaria antiga e bem suspeita! Ele só não contava que o local fosse assombrado pelo espírito de uma garota que não consegue fazer a passagem para o além!</p>",
+  "sinopse": "Kogarashi Fuyuzora é um médium com problemas financeiros que acaba encontrando a antiga e suspeita Pensão Yuragi para morar. Contudo, o local é assombrado pelo espírito de Yuuna Yunohana, uma garota fantasma incapaz de seguir para o além. A convivência com a fantasma na pensão promete situações inusitadas e sobrenaturais.",
+  "exemplar_id": 3266,
+  "sku": "LI0259",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__capa__2025-11-05_16-24-51-717028.jpg",
+  "contracapa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__contracapa__2025-11-05_16-24-51-854159.jpg",
+  "fotos": [
+    "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__foto-01__2025-11-05_16-24-51-882265.jpg",
+    "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__foto-02__2025-11-05_16-24-51-919813.jpg",
+    "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__foto-03__2025-11-05_16-24-51-981668.jpg",
+    "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__foto-04__2025-11-05_16-24-52-050289.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:19:34",
+  "observacoes": null
+}

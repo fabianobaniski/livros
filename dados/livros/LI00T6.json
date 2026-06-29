@@ -1,0 +1,68 @@
+{
+  "obra_id": 1381,
+  "autor": "Karin Slaughter",
+  "titulo": "Flores partidas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Mistério. Relacionamentos familiares. Superação.",
+  "palavras_chave": "slaughter flores",
+  "edicao_id": 1363,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 398,
+  "peso": 400,
+  "isbn": "9788595081628",
+  "editora": "Harper Collins",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Karin Slaughter tem uma capacidade inigualável de detalhamento e realismo. Não perco nada dela.</p> <p><b>Gillian Flynn, autora de Garota exemplar</b></p> <p>Os enredos complexos, que já são marca registrada de Karin Slaughter, juntamente com estudos de caráter dos personagens, fazem com que Flores partidas seja mais um grande sucesso da autora.</p> <p><b>Associated Press</b></p> <h1>IRMÃS. ESTRANHAS. SOBREVIVENTES.</h1> <p>Quando Lydia contou para a irmã que o cunhado havia tentado estuprá-la, Claire não acreditou. Dezoito anos depois, porém, tudo o que Claire achava saber sobre o marido se prova uma mentira. Quando vídeos escondidos no computador de Paul mostram uma face terrível do homem que ela julgava conhecer, Claire percebe que o drama de sua família tem muitas camadas, que precisarão ser descobertas antes que a assustadora verdade venha à tona.</p>",
+  "sinopse": "Quando Lydia revela um terrível segredo sobre seu cunhado, Claire não acredita. Dezoito anos depois, ao descobrir vídeos perturbadores no computador de Paul, Claire percebe que sua vida está repleta de mentiras e que a verdade precisa ser desvendada antes que tudo se desmorone.",
+  "exemplar_id": 1362,
+  "sku": "LI00T6",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/karin-slaughter--flores-partidas--capa--20250401--115337.jpg",
+  "contracapa": "static/uploads/karin-slaughter--flores-partidas--contracapa--20250401--115337.jpg",
+  "fotos": [
+    "static/uploads/karin-slaughter--flores-partidas--foto1--20250401--115337.jpg",
+    "static/uploads/karin-slaughter--flores-partidas--foto2--20250401--115337.jpg",
+    "static/uploads/karin-slaughter--flores-partidas--foto3--20250401--115337.jpg",
+    "static/uploads/karin-slaughter--flores-partidas--foto4--20250401--115338.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:04:16",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2885,
+  "autor": "Izabella Moreira de Lucena",
+  "titulo": "Resiliência, judaísmo e cultura organizacional",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "",
+  "palavras_chave": "lucena resiliencia judaismo cultura",
+  "edicao_id": 2865,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 272,
+  "peso": 300,
+  "isbn": "9788537307953",
+  "editora": "Literato",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro oferece uma análise aprofundada sobre a resiliência aplicada às organizações, unindo conceitos da psicologia, sociologia e administração. Ele explora como a capacidade de adaptação e superação de adversidades pode ser um diferencial competitivo, essencial para a sobrevivência e sucesso das empresas em ambientes de incerteza. A obra destaca a importância de uma cultura organizacional sólida e flexível, capaz de enfrentar crises e mudanças de forma eficiente, promovendo inovação e sustentabilidade no longo prazo.",
+  "exemplar_id": 2864,
+  "sku": "LI01U5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/izabella-moreira-de-lucena--resiliencia-judaismo-e-cultura-organizacional--capa--20260315--094927.jpg",
+  "contracapa": "static/uploads/izabella-moreira-de-lucena--resiliencia-judaismo-e-cultura-organizacional--contracapa--20260315--094938.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pela passagem do tempo. Capas, lombada e miolo bem cuidados. Texto livre de grifos e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:44:40",
+  "observacoes": null
+}

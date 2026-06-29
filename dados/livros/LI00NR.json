@@ -1,0 +1,63 @@
+{
+  "obra_id": 897,
+  "autor": "Augustus Nicodemus Lopes",
+  "titulo": "II e III João e Judas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Novo Testamento. Ensinos apostólicos.",
+  "palavras_chave": "lopes ii iii joao judas",
+  "edicao_id": 882,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 155,
+  "peso": 200,
+  "isbn": "9788576222378",
+  "editora": "Cultura Cristã",
+  "numero_edicao": 1,
+  "ano": 2008,
+  "serie": "Interpretando o Novo Testamento",
+  "volume": null,
+  "transcricao_contracapa": "<p>É com muita alegria que ofereço ao público evangélico o terceiro volume da série Interpretando o Novo Testamento. Espero sinceramente que os comentários a respeito de 2-3 João e Judas sejam úteis para a compreensão dessas três pequenas cartas do Novo Testamento, que, apesar do tamanho e de serem pouco lidas, são riquíssimas em ensinamentos doutrinários e práticos para a Igreja de Cristo em todas as épocas.</p><p>A leitura e o estudo aprofundado de 2-3 João e Judas recompensarão grandemente o leitor com uma visão de primeira mão do ambiente e dos problemas internos das igrejas apostólicas, à medida que lutavam para preservar a “fé que uma vez por todas foi entregue aos santos” (Jd 3).</p>",
+  "sinopse": "Este terceiro volume da série 'Interpretando o Novo Testamento' oferece uma análise detalhada das cartas de II e III João e Judas, proporcionando uma compreensão rica e atual dos ensinos e problemas enfrentados pelas igrejas apostólicas. Destaca a importância dessas cartas, que, apesar de seu tamanho pequeno, contêm lições valiosas para todas as épocas da Igreja.",
+  "exemplar_id": 881,
+  "sku": "LI00NR",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/augustus-nicodemus-lopes--ii-e-iii-jo-o-judas--capa--20250227--152911.jpg",
+  "contracapa": "static/uploads/augustus-nicodemus-lopes--ii-e-iii-jo-o-judas--contracapa--20250227--152911.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:41:05",
+  "observacoes": null
+}

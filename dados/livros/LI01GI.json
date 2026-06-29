@@ -1,0 +1,63 @@
+{
+  "obra_id": 2393,
+  "autor": "Laurence Rees",
+  "titulo": "Auschwitz",
+  "subtitulo": "a New History",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "rees auschwitz new history",
+  "edicao_id": 2373,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 327,
+  "peso": 432,
+  "isbn": "9781586483579",
+  "editora": "Publicaffairs",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Laurence Rees apresenta uma visão chocante do campo de extermínio de Auschwitz, com base em mais de 100 entrevistas inéditas com sobreviventes e perpetradores nazistas. O livro revela as dinâmicas internas do campo, abordando desde as técnicas de assassinato em massa até as relações borradas entre guardas e prisioneiros. É uma contribuição essencial para a compreensão da Segunda Guerra Mundial, do Holocausto e da capacidade humana para o mal extremo.",
+  "exemplar_id": 2372,
+  "sku": "LI01GI",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/laurence-rees--auschwitz--capa--20260316--155424.jpg",
+  "contracapa": "static/uploads/laurence-rees--auschwitz--contracapa--20260316--155434.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Papel naturalmente amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:32:31",
+  "observacoes": null
+}

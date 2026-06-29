@@ -1,0 +1,63 @@
+{
+  "obra_id": 2887,
+  "autor": "Arthur C. Clarke; Mike Mcquay",
+  "titulo": "Richter 10",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "",
+  "palavras_chave": "arthur clarke richter 10",
+  "edicao_id": 2867,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 381,
+  "peso": 300,
+  "isbn": "9788535400526",
+  "editora": "Mandarim",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Lewis Crane sobreviveu ao terremoto de Los Angeles em 1994, mas perdeu sua família, o que abalou sua vida para sempre. Agora, aos 37 anos, como sismólogo, desenvolveu uma teoria para prever terremotos, mas enfrenta o ceticismo de uma América dividida por conflitos e corporações poderosas. Para provar suas ideias, ele precisa prever um terremoto imprevisível. Diante da iminência de um evento catastrófico, Crane luta contra o tempo, arriscando sua reputação e tudo o que ama, enquanto tenta alertar o mundo sobre um desastre sem precedentes.",
+  "exemplar_id": 2866,
+  "sku": "LI01U7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/richter-10-arthur-c-clarke-e-mike-mcquay-capa_rev1255.jpg",
+  "contracapa": "static/uploads/richter-10-arthur-c-clarke-e-mike-mcquay-contracapa_rev1265.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pela passagem dos anos. Lombada alinhada. Capas em bom estado. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:33",
+  "observacoes": null
+}

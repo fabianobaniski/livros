@@ -1,0 +1,68 @@
+{
+  "obra_id": 2039,
+  "autor": "João Baptista de Mello e Souza Neto",
+  "titulo": "Mediação em juízo",
+  "subtitulo": "Abordagem prática para obtenção de um acordo justo",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Processo civil. Mediação judicial. Resolução de conflitos.",
+  "palavras_chave": "souza mediacao juizo",
+  "edicao_id": 2019,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 101,
+  "peso": 250,
+  "isbn": "9788522424351",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>MEDIAÇÃO EM JUÍZO<br>Abordagem Prática para Obtenção de Um Acordo Justo</b></p><p>É comum o impasse nas negociações visando à obtenção de acordos para extinguir processos judiciais. O autor propõe, com o presente trabalho, a adoção de estratégias facilitadoras para o alcance de tais objetivos. A partir da identificação do perfil do litigante e do tipo de problema encontrado surgem alternativas que, quebrando a abordagem padrão, aproximam as partes e revelam um caminho de interesse comum a ambos os litigantes.</p><p><b>APLICAÇÃO</b></p><p>Manual de consulta para advogados e juízes que lidam com processos na área cível. Leitura complementar para a disciplina DIREITO PROCESSUAL CIVIL.</p>",
+  "sinopse": "O livro apresenta estratégias práticas para facilitar acordos judiciais na área cível, visando a extinção de processos através da mediação. Com foco na identificação do perfil dos litigantes e dos problemas enfrentados, a obra propõe alternativas que rompem padrões tradicionais e aproximam as partes, oferecendo um caminho comum de solução. Destina-se especialmente a advogados e juízes, sendo também leitura complementar para a disciplina de Direito Processual Civil.",
+  "exemplar_id": 2018,
+  "sku": "LI016O",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/jo-o-baptista-de-mello-e-souza-neto--media--o-em-ju-zo--capa--20250430--104524.jpg",
+  "contracapa": "static/uploads/jo-o-baptista-de-mello-e-souza-neto--media--o-em-ju-zo--contracapa--20250430--104524.jpg",
+  "fotos": [
+    "static/uploads/jo-o-baptista-de-mello-e-souza-neto--media--o-em-ju-zo--foto1--20250430--104524.jpg",
+    "static/uploads/jo-o-baptista-de-mello-e-souza-neto--media--o-em-ju-zo--foto2--20250430--104524.jpg",
+    "static/uploads/jo-o-baptista-de-mello-e-souza-neto--media--o-em-ju-zo--foto3--20250430--104524.jpg",
+    "static/uploads/jo-o-baptista-de-mello-e-souza-neto--media--o-em-ju-zo--foto4--20250430--104524.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 18:40:57",
+  "observacoes": "procedencia_biblioteca"
+}

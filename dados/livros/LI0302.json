@@ -1,0 +1,63 @@
+{
+  "obra_id": 5577,
+  "autor": "Masakazu Katsura",
+  "titulo": "Zetman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura oriental. Mangá.",
+  "palavras_chave": "katsura zetman",
+  "edicao_id": 5552,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 209,
+  "peso": 170,
+  "isbn": "9788545701101",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p>Jin entra em combate com um grupo desgarrado de players. Após ativar parcialmente seu poder para enfrentá-los, o jovem fica completamente esgotado. Que mudanças ocorreram em seu corpo?! Será o momento do derradeiro despertar do ZET?!</p>",
+  "sinopse": "Jin enfrenta um grupo de players, ativando parcialmente seu poder. Ao ficar esgotado, mudanças ocorrem em seu corpo. É a hora do despertar do ZET!",
+  "exemplar_id": 5551,
+  "sku": "LI0302",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/zetman__masakazu-katsura__capa__2026-02-24_13-36-32-948556-000.jpg",
+  "contracapa": "static/uploads/zetman__masakazu-katsura__contracapa__2026-02-24_13-36-32-979884-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

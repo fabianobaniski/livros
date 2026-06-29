@@ -1,0 +1,68 @@
+{
+  "obra_id": 1454,
+  "autor": "Renato Cardoso; Cristiane Cardoso",
+  "titulo": "120 minutos para blindar seu casamento",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Auto-Ajuda. Relacionamento. Casamento.",
+  "palavras_chave": "cardoso blindar casamento",
+  "edicao_id": 1435,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 253,
+  "peso": 300,
+  "isbn": "9788578605575",
+  "editora": "Thomas Nelson Brasil",
+  "numero_edicao": 1,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Seu casamento protegido, um minuto de cada vez.</p><p>Pode parecer exagero, mas em um minuto (sim, apenas um minuto) somos capazes de atitudes com potencial para modificar a vida para sempre. E, quando se trata de casamento, uma palavra dita na hora certa, uma pequena mudança de comportamento ou mesmo a leitura da página de um livro podem fazer toda a diferença.</p><p>Renato e Cristiane Cardoso, autores do best-seller <b>Casamento Blindado</b>, oferecem 120 orientações úteis e práticas sobre diversos temas para que você e seu cônjuge protejam aquilo que possuem de mais precioso - a sua relação conjugal. As lições do programa <b>Minuto do Casamento</b>, sucesso da Rede Record de Televisão, servirão de base para esta obra, um livro para ser lido a dois e mantido ao alcance das mãos sempre que necessário.</p>",
+  "sinopse": "Este livro oferece 120 orientações práticas para casais, destacando a importância de pequenos gestos diários na proteção do casamento. Essencial para aqueles que desejam fortalecer sua relação e preservar o que têm de mais precioso.",
+  "exemplar_id": 1434,
+  "sku": "LI00V4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/renato-cardoso--120-minutos-para-blindar-seu-casamento--capa--20250401--115734.jpg",
+  "contracapa": "static/uploads/renato-cardoso--120-minutos-para-blindar-seu-casamento--contracapa--20250401--115734.jpg",
+  "fotos": [
+    "static/uploads/renato-cardoso--120-minutos-para-blindar-seu-casamento--foto1--20250401--115734.jpg",
+    "static/uploads/renato-cardoso--120-minutos-para-blindar-seu-casamento--foto2--20250401--115735.jpg",
+    "static/uploads/renato-cardoso--120-minutos-para-blindar-seu-casamento--foto3--20250401--115735.jpg",
+    "static/uploads/renato-cardoso--120-minutos-para-blindar-seu-casamento--foto4--20250401--115735.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:03:18",
+  "observacoes": null
+}

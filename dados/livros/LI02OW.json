@@ -1,0 +1,63 @@
+{
+  "obra_id": 4942,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Platinum End",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Superação pessoal.",
+  "palavras_chave": "ohba platinum end",
+  "edicao_id": 4917,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 174,
+  "peso": 180,
+  "isbn": "9788545706922",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<h1>Platinum End</h1><p>Dos mesmos autores de Death Note<br>roteiro Tsugumi Ohba<br>arte Takeshi Obata</p><p><b>Vou lhe dar a esperança para viver.</b></p><p>Mirai Kakehashi é um jovem que não tem mais vontade de viver. Além de perder a família em um terrível acidente, é maltratado todos os dias pela sua família adotiva. Cansado dessa vida infeliz, o jovem se joga de um prédio no dia de sua formatura no Ensino Fundamental. Porém, neste exato momento, Mirai se encontra com um anjo que poderá mudar totalmente a sua vida!</p>",
+  "sinopse": "Mirai Kakehashi, cansado de uma vida infeliz após perder a família e ser maltratado, tenta acabar com sua vida no dia de sua formatura. Entretanto, ele encontra um anjo que promete mudar seu destino, oferecendo-lhe esperança para viver.",
+  "exemplar_id": 4916,
+  "sku": "LI02OW",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__capa__2026-02-20_10-31-17-084717-000.png",
+  "contracapa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__contracapa__2026-02-20_10-31-17-125916-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

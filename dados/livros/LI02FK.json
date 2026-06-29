@@ -1,0 +1,68 @@
+{
+  "obra_id": 3661,
+  "autor": "Curzio Malaparte",
+  "titulo": "A pele",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "curzio malaparte a pele",
+  "edicao_id": 3638,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 369,
+  "peso": 470,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Situado em Nápoles durante a libertação pelos Aliados na Segunda Guerra Mundial, o livro apresenta um relato cru e surrealista da degradação moral e física da população italiana, onde a luta pela sobrevivência transforma a dignidade humana em mercadoria diante do horror da guerra.",
+  "exemplar_id": 3637,
+  "sku": "LI02FK",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/curzio-malaparte--a-pele--capa--20251114--185823.png",
+  "contracapa": "static/uploads/curzio-malaparte--a-pele--contracapa--20251114--185831.png",
+  "fotos": [
+    "static/uploads/curzio-malaparte--a-pele--foto1--20251113--213530.jpg",
+    "static/uploads/curzio-malaparte--a-pele--foto2--20251113--213530.jpg",
+    "static/uploads/curzio-malaparte--a-pele--foto3--20251113--213530.jpg",
+    "static/uploads/curzio-malaparte--a-pele--foto4--20251113--213530.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:20:48",
+  "observacoes": null
+}

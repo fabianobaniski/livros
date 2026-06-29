@@ -1,0 +1,68 @@
+{
+  "obra_id": 1996,
+  "autor": "José de Albuquerque Rocha",
+  "titulo": "Lei de arbitragem",
+  "subtitulo": "Uma avaliação crítica",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Arbitragem. Resolução extrajudicial de conflitos. Constitucionalidade.",
+  "palavras_chave": "rocha lei arbitragem avaliacao critica",
+  "edicao_id": 1976,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 134,
+  "peso": 240,
+  "isbn": "9788522449903",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro é o resultado de uma pesquisa realizada na Universidade de Londres, no período de julho de 1996 a fevereiro de 1997, sob o patrocínio financeiro (bolsa de estudo) do Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq). O autor começa examinando com acuidade os dois pressupostos básicos da Lei de Arbitragem (Lei nº 9.307, de 23.9.1996), dos quais depende a correta compreensão de sentido da nova orientação dada à instituição arbitral. O primeiro são suas premissas político-ideológicas que vão explicar a razão da escolha da arbitragem e não de outro meio de solução de litígios. Trata-se de capítulo inédito na literatura brasileira. O segundo cuida das relações da lei com a Constituição, assunto decisivo para determinar sua constitucionalidade tanto formal como material.</p><p>A partir desses elementos, o autor formula a interpretação das disposições da lei, debatendo minuciosamente uma enorme quantidade de questões que possam surgir de sua aplicação, especialmente as relacionadas às interações entre árbitro e juiz estatal, sobre as quais elaborou uma classificação funcional, isto é, que leva em conta as funções que exercem no processo arbitral.</p><p><b>APLICAÇÃO</b></p><p>O livro está escrito em linguagem muito acessível. Por isso, serve, seja para texto de estudo nos cursos de Direito, Administração e Economia, seja para os profissionais da área jurídica, árbitros e membros das instituições arbitrais; seja, finalmente, para o público interessado em conhecer esse novo modo de fazer justiça.</p>",
+  "sinopse": "O livro traz uma análise crítica da Lei de Arbitragem (Lei nº 9.307/1996), baseada em pesquisa realizada na Universidade de Londres com apoio do CNPq. O autor examina os pressupostos políticos e ideológicos que fundamentam a arbitragem como alternativa à justiça estatal, dedicando capítulo inédito à análise dessas bases. Também discute a constitucionalidade formal e material da lei, bem como questões práticas de sua aplicação, especialmente as funções desempenhadas por árbitros e juízes estatais. Escrito em linguagem acessível, é indicado para estudantes e profissionais da área jurídica, além do público em geral interessado na nova forma de fazer justiça.",
+  "exemplar_id": 1975,
+  "sku": "LI015H",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--de-albuquerque-rocha--lei-de-arbitragem--capa--20250430--104315.jpg",
+  "contracapa": "static/uploads/jos--de-albuquerque-rocha--lei-de-arbitragem--contracapa--20250430--104315.jpg",
+  "fotos": [
+    "static/uploads/jos--de-albuquerque-rocha--lei-de-arbitragem--foto1--20250430--104315.jpg",
+    "static/uploads/jos--de-albuquerque-rocha--lei-de-arbitragem--foto2--20250430--104315.jpg",
+    "static/uploads/jos--de-albuquerque-rocha--lei-de-arbitragem--foto3--20250430--104315.jpg",
+    "static/uploads/jos--de-albuquerque-rocha--lei-de-arbitragem--foto4--20250430--104315.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:30:12",
+  "observacoes": "procedencia_biblioteca"
+}

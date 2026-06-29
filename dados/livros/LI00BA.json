@@ -1,0 +1,68 @@
+{
+  "obra_id": 443,
+  "autor": "William P. Young",
+  "titulo": "A cabana",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Ficção. Questões de fé. Sofrimento.",
+  "palavras_chave": "young cabana",
+  "edicao_id": 428,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 236,
+  "peso": 300,
+  "isbn": "9788599296363",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Publicado nos Estados Unidos por uma editora pequena, A cabana se re-veu um desses livros raros que, a partir do entusiasmo e da indicação dos leitores, se torna um fenômeno de público - quase dois milhões de exemplares vendidos - e de imprensa.</p> <p>Durante uma viagem de fim de semana, a filha mais nova de Mack Allen Phillips é raptada e evidências de que ela foi brutalmente assassinada são encontradas numa velha cabana.</p> <p>Após quatro anos vivendo numa tristeza profunda causada pela culpa e pela saudade da menina, Mack recebe um estranho bilhete, aparentemente escrito por Deus, convidando-o a voltar ao cenário de sua tragédia.</p> <p>Apesar de desconfiado, ele vai ao local numa tarde de inverno e adentra passo a passo o cenário de seu mais terrível pesadelo. Mas o que ele encontra lá muda o seu destino para sempre.</p> <p>Em um mundo cruel e injusto, A cabana levanta um questionamento atemporal: se Deus é tão poderoso, por que não faz nada para amenizar o nosso sofrimento?</p> <p>As respostas que Mack encontra vão surpreender você e podem transformar sua vida de maneira tão profunda como aconteceu com ele. Você vai querer partilhar este livro com todas as pessoas que ama.</p>",
+  "sinopse": "A cabana narra a história de Mack, que após a trágica perda de sua filha mais nova, se depara com um convite inesperado para retornar ao local da tragédia. Em sua jornada, ele enfrenta questões profundas sobre dor, fé e o silêncio de Deus diante do sofrimento humano, encontrando respostas que poderão transformar sua vida para sempre.",
+  "exemplar_id": 427,
+  "sku": "LI00BA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/william-p--young--a-cabana--capa--20250226--133829.jpg",
+  "contracapa": "static/uploads/william-p--young--a-cabana--contracapa--20250226--133829.jpg",
+  "fotos": [
+    "static/uploads/william-p--young--a-cabana--foto1--20250226--133829.jpg",
+    "static/uploads/william-p--young--a-cabana--foto2--20250226--133829.jpg",
+    "static/uploads/william-p--young--a-cabana--foto3--20250226--133829.jpg",
+    "static/uploads/william-p--young--a-cabana--foto4--20250226--133829.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Página 29 possui rasgo, mas sem perda de material. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:16:10",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2831,
+  "autor": "Galileu Galilei; Isaac Newton",
+  "titulo": "Os Pensadores",
+  "subtitulo": "Galileu / Newton",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "galilei pensadores galileu newton",
+  "edicao_id": 2811,
+  "encadernacao": null,
+  "quantidade_paginas": 238,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Nova Cultural",
+  "numero_edicao": null,
+  "ano": 1987,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este volume reúne importantes obras de Galileu Galilei e Isaac Newton. O Ensaiador de Galileu revela descobertas revolucionárias sobre os fenômenos físicos e astronômicos, desvendando novos aspectos do universo. Em Princípios Matemáticos, Newton estabelece as bases da física moderna, com destaque para as leis do movimento e a noção de espaço absoluto. Óptica explora a natureza da luz e suas implicações filosóficas. Já O Peso e o Equilíbrio dos Fluidos aborda conceitos fundamentais da mecânica, como inércia, gravidade e movimento.",
+  "exemplar_id": 2810,
+  "sku": "LI01SN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/os-pensadores-galileu-newton-capa_rev211.jpg",
+  "contracapa": "static/uploads/os-pensadores-galileu-newton-contracapa_rev941.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Conservação regular. Papel fortemente amarelado. Contracapa com pequeno sinal de raspagem. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:22:03",
+  "observacoes": null
+}

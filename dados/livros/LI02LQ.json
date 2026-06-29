@@ -1,0 +1,63 @@
+{
+  "obra_id": 4828,
+  "autor": "Cygames; cocho; Makoto Fugetsu",
+  "titulo": "Granblue fantasy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Amizade. Viagem.",
+  "palavras_chave": "cygames granblue fantasy",
+  "edicao_id": 4803,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 170,
+  "peso": 180,
+  "isbn": "9788542624076",
+  "editora": "Planeta Manga",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Gran e seu grupo fazem um pouso de emergência no Arquipélago Porto Brisa. Para seguir viagem, eles necessitam de uma nave e de um piloto, mas não têm a quem recorrer. Então, eles conhecem a comerciante Sierokarte, que fala a respeito de um talentoso piloto chamado Rackam...</p>",
+  "sinopse": "Gran e seu grupo pousam no Arquipélago Porto Brisa e precisam de ajuda para continuar a viagem. Eles encontram a comerciante Sierokarte, que menciona um piloto talentoso, Rackam.",
+  "exemplar_id": 4802,
+  "sku": "LI02LQ",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/granblue-fantasy__cygames-cocho-makoto-fugetsu__capa__2026-02-20_10-30-47-362600-000.png",
+  "contracapa": "static/uploads/granblue-fantasy__cygames-cocho-makoto-fugetsu__contracapa__2026-02-20_10-30-47-411921-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, fisicamente bem preservado. Contudo apresenta a lombada rígida, dificultando um pouco o folhear. Livre de marcações, assinaturas ou carimbos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

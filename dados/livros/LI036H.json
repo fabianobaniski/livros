@@ -1,0 +1,68 @@
+{
+  "obra_id": 5808,
+  "autor": "Nathieli Keila Takemori Silva; Sandro Menezes Silva",
+  "titulo": "Educação ambiental e cidadania",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação ambiental. Cidadania. Ecologia.",
+  "palavras_chave": "silva educacao ambiental cidadania",
+  "edicao_id": 5783,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 218,
+  "peso": 280,
+  "isbn": "9788538764168",
+  "editora": "IESDE Brasil",
+  "numero_edicao": 4,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5782,
+  "sku": "LI036H",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/educacao-ambiental-e-cidadania__none__nathieli-keila-takemori-silva-sandro-menezes-silva__capa__2026-01-18_14-11-55-996985-000.png",
+  "contracapa": "static/uploads/educacao-ambiental-e-cidadania__none__nathieli-keila-takemori-silva-sandro-menezes-silva__contracapa__2026-01-18_14-11-56-025590-001.png",
+  "fotos": [
+    "static/uploads/educacao-ambiental-e-cidadania__none__nathieli-keila-takemori-silva-sandro-menezes-silva__foto-01__2026-01-18_14-11-56-042576-002.jpg",
+    "static/uploads/educacao-ambiental-e-cidadania__none__nathieli-keila-takemori-silva-sandro-menezes-silva__foto-02__2026-01-18_14-11-56-076564-003.jpg",
+    "static/uploads/educacao-ambiental-e-cidadania__none__nathieli-keila-takemori-silva-sandro-menezes-silva__foto-03__2026-01-18_14-11-56-109703-004.jpg",
+    "static/uploads/educacao-ambiental-e-cidadania__none__nathieli-keila-takemori-silva-sandro-menezes-silva__foto-04__2026-01-18_14-11-56-140357-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:53:34",
+  "observacoes": null
+}

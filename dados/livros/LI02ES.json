@@ -1,0 +1,68 @@
+{
+  "obra_id": 3633,
+  "autor": "Ivan Turguéniev",
+  "titulo": "Pais e filhos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "turgueniev pais filhos",
+  "edicao_id": 3610,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 242,
+  "peso": 330,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra retrata o conflito ideológico entre a velha aristocracia russa e a juventude radical do século XIX, representada pelo niilista Bazarov, explorando o choque entre o tradicionalismo romântico dos pais e o materialismo científico e contestador dos filhos.",
+  "exemplar_id": 3609,
+  "sku": "LI02ES",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/ivan-turgueniev--pais-e-filhos--capa--20251114--181456.png",
+  "contracapa": "static/uploads/ivan-turgueniev--pais-e-filhos--contracapa--20251114--181502.png",
+  "fotos": [
+    "static/uploads/ivan-turgueniev--pais-e-filhos--foto1--20251113--201303.jpg",
+    "static/uploads/ivan-turgueniev--pais-e-filhos--foto2--20251113--201303.jpg",
+    "static/uploads/ivan-turgueniev--pais-e-filhos--foto3--20251113--201303.jpg",
+    "static/uploads/ivan-turgueniev--pais-e-filhos--foto4--20251113--201303.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:34:30",
+  "observacoes": null
+}

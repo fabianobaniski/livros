@@ -1,0 +1,68 @@
+{
+  "obra_id": 2158,
+  "autor": "Francisco Carlos Trindade Leite; Nádia Bigarella; Regina Sueiro de Figueiredo",
+  "titulo": "Gestão de organizações e sistemas educacionais",
+  "subtitulo": "Descentralização, qualidade e políticas públicas",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Administração escolar. Políticas públicas.",
+  "palavras_chave": "trindade gestao organizacoes sistemas",
+  "edicao_id": 2138,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 163,
+  "peso": 245,
+  "isbn": "9788587392688",
+  "editora": "UNIDERP",
+  "numero_edicao": 1,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2137,
+  "sku": "LI019Z",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/francisco-carlos-trindade-leite--gest-o-de-organiza--es-e-sistemas-educacionais--capa--20250430--104704.jpg",
+  "contracapa": "static/uploads/francisco-carlos-trindade-leite--gest-o-de-organiza--es-e-sistemas-educacionais--contracapa--20250430--104706.jpg",
+  "fotos": [
+    "static/uploads/francisco-carlos-trindade-leite--gest-o-de-organiza--es-e-sistemas-educacionais--foto1--20250430--104706.jpg",
+    "static/uploads/francisco-carlos-trindade-leite--gest-o-de-organiza--es-e-sistemas-educacionais--foto2--20250430--104706.jpg",
+    "static/uploads/francisco-carlos-trindade-leite--gest-o-de-organiza--es-e-sistemas-educacionais--foto3--20250430--104706.jpg",
+    "static/uploads/francisco-carlos-trindade-leite--gest-o-de-organiza--es-e-sistemas-educacionais--foto4--20250430--104706.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:11:53",
+  "observacoes": "procedencia_biblioteca"
+}

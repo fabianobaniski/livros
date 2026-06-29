@@ -1,0 +1,68 @@
+{
+  "obra_id": 5877,
+  "autor": "Jody Revenson",
+  "titulo": "O livro das criaturas de Harry Potter",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Literatura fantástica. Cinema. Bastidores de filmes.",
+  "palavras_chave": "livro das criaturas harry potter",
+  "edicao_id": 5852,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 2014,
+  "peso": 1340,
+  "isbn": "9788501052735",
+  "editora": "Galera Record",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Dementadores e elfos domésticos, sereianos e dragões Meteoro-Chinês... Essas são apenas algumas das criaturas mágicas e monstros assustadores que habitam o mundo mágico de J.K. Rowling. <b>O livro das criaturas de Harry Potter</b> oferece um olhar fascinante sobre como esses seres ganharam vida para a bem-sucedida série de filmes <b>Harry Potter</b>. Perfis detalhados de cada criatura incluem ilustrações conceituais raras, fotografias dos bastidores e segredos cinematográficos dos arquivos da Warner Bros. Um pôster removível retratando todas as criaturas e um catálogo interativo do Empório das Corujas completam esta coleção indispensável.</p>",
+  "sinopse": "O livro explora as criaturas mágicas e monstros assustadores do universo de Harry Potter, detalhando como ganharam vida nos filmes. Traz perfis de cada criatura, ilustrações conceituais raras, fotos dos bastidores e segredos da produção. Inclui ainda um pôster removível com todas as criaturas e um catálogo interativo do Empório das Corujas, tornando-se indispensável para os fãs da série.",
+  "exemplar_id": 5851,
+  "sku": "LI038D",
+  "preco_estante_virtual": 87.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/o-livro-das-criaturas-de-harry-potter__none__none__capa__2026-01-18_14-12-52-476389-000.png",
+  "contracapa": "static/uploads/o-livro-das-criaturas-de-harry-potter__none__none__contracapa__2026-01-18_14-12-52-535531-001.png",
+  "fotos": [
+    "static/uploads/o-livro-das-criaturas-de-harry-potter__none__none__foto-01__2026-01-18_14-12-52-708650-002.jpg",
+    "static/uploads/o-livro-das-criaturas-de-harry-potter__none__none__foto-02__2026-01-18_14-12-52-748184-003.jpg",
+    "static/uploads/o-livro-das-criaturas-de-harry-potter__none__none__foto-03__2026-01-18_14-12-52-814451-004.jpg",
+    "static/uploads/o-livro-das-criaturas-de-harry-potter__none__none__foto-04__2026-01-18_14-12-52-937412-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:24:51",
+  "observacoes": null
+}

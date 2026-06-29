@@ -1,0 +1,68 @@
+{
+  "obra_id": 1744,
+  "autor": "Stela C. B. Piconz (Coord.)",
+  "titulo": "A prática de ensino",
+  "subtitulo": "E o estágio supervisionado",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Formação de professores. Estágio supervisionado. Prática pedagógica. Teoria e prática no ensino.",
+  "palavras_chave": "piconz pratica ensino estagio supervisionado",
+  "edicao_id": 1724,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 128,
+  "peso": 180,
+  "isbn": "9788530801595",
+  "editora": "Papirus",
+  "numero_edicao": 24,
+  "ano": 2012,
+  "serie": "Magistério Formação e Trabalho Pedagógico",
+  "volume": null,
+  "transcricao_contracapa": "<h1>A prática de ensino<br>e o estágio supervisionado</h1><p>Estaria o estágio hoje cumprindo sua função primordial na formação do professor?</p><p>Com vistas à transformação do quadro desanimador que se exibe atualmente na relação entre teoria e prática, os autores desta coletânea apresentam uma reavaliação crítica da verdadeira função do estágio no ensino e da prática pedagógica que vem se realizando, com frequência, distante da realidade à qual deveria estar vinculada.</p><p>Com base em depoimentos dos alunos, comentários dos professores e avaliações dos docentes de Didática e de Prática de Ensino, somos levados a refletir e questionar sobre a reformulação do estágio e sobre o que esse meio de contato com a prática pode proporcionar àqueles que se dedicam à carreira do magistério.</p>",
+  "sinopse": "Esta coletânea questiona se o estágio cumpre seu papel fundamental na formação do professor. Com uma análise crítica da relação entre teoria e prática, os autores destacam como o estágio e a prática pedagógica frequentemente se distanciam da realidade da profissão docente. Utilizando depoimentos de alunos, comentários de professores e avaliações de docentes de Didática e Prática de Ensino, o livro convida à reflexão sobre a necessidade de reformular o estágio e sobre o valor do contato direto com a prática para quem deseja seguir a carreira do magistério.",
+  "exemplar_id": 1723,
+  "sku": "LI00YK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/stela-c--b--piconz--coord----a-pr-tica-de-ensino--capa--20250430--102940.jpg",
+  "contracapa": "static/uploads/stela-c--b--piconz--coord----a-pr-tica-de-ensino--contracapa--20250430--102940.jpg",
+  "fotos": [
+    "static/uploads/stela-c--b--piconz--coord----a-pr-tica-de-ensino--foto1--20250430--102940.jpg",
+    "static/uploads/stela-c--b--piconz--coord----a-pr-tica-de-ensino--foto2--20250430--102940.jpg",
+    "static/uploads/stela-c--b--piconz--coord----a-pr-tica-de-ensino--foto3--20250430--102940.jpg",
+    "static/uploads/stela-c--b--piconz--coord----a-pr-tica-de-ensino--foto4--20250430--102940.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, apresenta leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:40:02",
+  "observacoes": "procedencia_biblioteca"
+}

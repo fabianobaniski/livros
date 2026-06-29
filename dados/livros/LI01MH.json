@@ -1,0 +1,63 @@
+{
+  "obra_id": 2609,
+  "autor": "Steven Roger Fischer",
+  "titulo": "Ilhas",
+  "subtitulo": "De Atlântida a Zanzibar",
+  "idioma": "Português",
+  "categoria": "Geografia",
+  "temas": "",
+  "palavras_chave": "fischer ilhas atlantida zanzibar",
+  "edicao_id": 2589,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 432,
+  "peso": 500,
+  "isbn": "9788539305506",
+  "editora": "Unesp",
+  "numero_edicao": 0,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Sempre levando em conta a sinergia entre os três vértices, o autor volta-se principalmente à cultura, tentando aquilatar o significado das ilhas para os seres humanos, cujo desenvolvimento entrelaça-se desde os primórdios a essas formações. O autor demonstra que, corresponsáveis pela própria existência da Terra, as ilhas figuram entre os principais lugares de origem de plantas, animais e hominídeos do planeta. Verdadeiros laboratórios biológicos e culturais, contribuíram para a evolução da espécie humana, capacitando-a à adaptação vitoriosa e à sua expansão global.",
+  "exemplar_id": 2588,
+  "sku": "LI01MH",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/steven-roger-fischer--ilhas--capa--20260316--213130.jpg",
+  "contracapa": "static/uploads/steven-roger-fischer--ilhas--contracapa--20260316--213130.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições! Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:14:12",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2049,
+  "autor": "Bruno Paoleschi",
+  "titulo": "Logística Industrial Integrada",
+  "subtitulo": "Do planejamento, produção, custo e qualidade à satisfação do cliente",
+  "idioma": "Português",
+  "categoria": "Engenharia",
+  "temas": "Engenharia. Logística industrial. Gestão de produção. Suprimentos. Controle de qualidade. Planejamento industrial.",
+  "palavras_chave": "paoleschi logistica industrial integrada",
+  "edicao_id": 2029,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 262,
+  "peso": 470,
+  "isbn": "9788536501970",
+  "editora": "Érica",
+  "numero_edicao": 2,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A logística industrial integrada influencia todas as áreas da empresa que fornecem suporte à produção, agrega valor de forma direta ou indireta aos produtos finais e assim atende satisfatoriamente ao cliente.</p><p>O autor Bruno Paoleschi, que atua há mais de 45 anos nas áreas de logística, reuniu nesta obra um conteúdo prático, bem estruturado que abrange todas as áreas da logística. É um roteiro indispensável a estudantes, profissionais da área e empresários em geral.</p><p>A simplicidade das planilhas apresentadas, elaboradas de forma didática, os exercícios e os conceitos fundamentais permitem fácil compreensão e tornam o aprendizado uma tarefa agradável.</p><p>Traz um histórico do assunto, logística integrada ao marketing, ensina como iniciar um planejamento industrial e suas bases, a função da engenharia nesse processo, planejamento, programação da produção e controle de manufatura como uma atividade integrada às demais tarefas administrativas. Mostra como planejar a manutenção industrial e sua importância, responsabilidades e tipos de manutenção.</p><p>Destaca a função e a estrutura dos departamentos de suprimentos e insumos, a engenharia do produto e de processos, curva ABC, identificação de materiais existentes na fábrica e estocados, inventários, gráfico de Gantt e reserva operacional.</p><p>Planejamento da produção, atribuições do almoxarifado, tipos de embalagem e métodos de unitização (palete, linga, contêiner) são temas importantes e tratados com objetividade.</p><p>Apresenta a filosofia Just in Time, os sistemas Kanban, Kaizen, Poka Yoke, Andon e Gemba, além do controle da produção, planejamento e giro de estoque, sistema de roteirização, identificação e movimentação de materiais, logística reversa, transporte logístico, modalidades e tipos de carga. Descreve os equipamentos de movimentação de materiais, estruturas de armazenagem, princípios do arranjo físico (layout), qualidade total (TQC, Deming, ISO 14000, CCQ), integração interdepartamental, cálculos de custo do produto e o custo industrial.</p>",
+  "sinopse": "Este livro apresenta um conteúdo prático e abrangente sobre logística industrial integrada, mostrando como todas as áreas da empresa podem influenciar a produção e agregar valor aos produtos finais para melhor atender o cliente. Escrito por Bruno Paoleschi, com mais de 45 anos de experiência, a obra aborda temas como planejamento industrial, controle de produção, suprimentos, manutenção, engenharia, métodos de unitização, Just in Time, Kanban, Kaizen, layout, qualidade e custos industriais, tornando-se indispensável para estudantes, profissionais e empresários do setor.",
+  "exemplar_id": 2028,
+  "sku": "LI016Y",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/bruno-paoleschi--log-stica-industrial-integrada--capa--20250430--104525.jpg",
+  "contracapa": "static/uploads/bruno-paoleschi--log-stica-industrial-integrada--contracapa--20250430--104525.jpg",
+  "fotos": [
+    "static/uploads/bruno-paoleschi--log-stica-industrial-integrada--foto1--20250430--104525.jpg",
+    "static/uploads/bruno-paoleschi--log-stica-industrial-integrada--foto2--20250430--104525.jpg",
+    "static/uploads/bruno-paoleschi--log-stica-industrial-integrada--foto3--20250430--104525.jpg",
+    "static/uploads/bruno-paoleschi--log-stica-industrial-integrada--foto4--20250430--104525.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:33:32",
+  "observacoes": "procedencia_biblioteca"
+}

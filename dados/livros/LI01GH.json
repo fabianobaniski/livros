@@ -1,0 +1,63 @@
+{
+  "obra_id": 2392,
+  "autor": "Colin Mcevedy",
+  "titulo": "Atlas da História Moderna",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "mcevedy atlas historia moderna",
+  "edicao_id": 2372,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 94,
+  "peso": 383,
+  "isbn": "",
+  "editora": "Verbo Edusp",
+  "numero_edicao": null,
+  "ano": 1979,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este atlas organizado por Colin McEvedy cobre os principais eventos da história moderna entre 1483 e 1815. Com aproximadamente 40 mapas detalhados e comentados, a obra explora as viagens de Colombo, Fernão de Magalhães e Cook, além da transição do poder do Mediterrâneo para o Atlântico e o esforço europeu para controlar a nova economia monetária. Parte de uma trilogia que inclui também os atlas da história antiga e medieval, o volume oferece uma ferramenta de consulta valiosa sobre este período crucial da história.",
+  "exemplar_id": 2371,
+  "sku": "LI01GH",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/colin-mcevedy--atlas-da-historia-moderna--capa--20260316--155355.jpg",
+  "contracapa": "static/uploads/colin-mcevedy--atlas-da-historia-moderna--contracapa--20260316--155401.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livre bastante amarelado pela passagem dos anos, mas, no geral, bem conservado. Não possui nem anotações nem sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:29:01",
+  "observacoes": null
+}

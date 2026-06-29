@@ -1,0 +1,63 @@
+{
+  "obra_id": 2916,
+  "autor": "Anonimo",
+  "titulo": "Sufismo En Occidente",
+  "subtitulo": "Preparación del buscador",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "anonimo sufismo occidente preparacion",
+  "edicao_id": 2896,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Soc. Desarrollo del Hombre",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta obra reúne ensinamentos sufis transmitidos ao longo de 4.000 anos, adaptados especificamente para o buscador ocidental contemporâneo. Com capítulos que mesclam histórias, parábolas e reflexões, o livro busca preparar o leitor para a jornada espiritual, abordando temas como generosidade, transformação pessoal e os níveis de entendimento em contos e ensinamentos. Através de lições acessíveis e exercícios práticos, a obra convida o aspirante a mergulhar em um caminho de autoconhecimento e sabedoria, respeitando o tempo e as necessidades de cada um.",
+  "exemplar_id": 2895,
+  "sku": "LI01V0",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/sufismo-en-occidente-anonimo-capa_rev1726.jpg",
+  "contracapa": "static/uploads/sufismo-en-occidente-anonimo-contracapa_rev802.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fortemente marcado pela passagem do tempo e com desgastes exteriores. Miolo em bom estado, sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:36:29",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2700,
+  "autor": "John Reed",
+  "titulo": "México rebelde",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "reed mexico rebelde",
+  "edicao_id": 2680,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 142,
+  "peso": 380,
+  "isbn": "",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": 1984,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2679,
+  "sku": "LI01P0",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/mexico-rebelde-john-reed-capa_rev2130.jpg",
+  "contracapa": "static/uploads/mexico-rebelde-john-reed-contracapa_rev2052.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato pocket, em boas condições. Papel amarelado pela ação do tempo. Lombada alinhada.  Texto livre de anotações e sublinhados.  / O autor: John Reed, jornalista e revolucionário americano, viveu intensamente seus 33 anos, deixando um legado de valor histórico e literário. Formado em Harvard, Reed se destacou por suas reportagens sobre eventos cruciais entre 1910 e 1920, incluindo a Revolução Mexicana e a Revolução Russa de 1917. Seu livro mais famoso, Os Dez Dias que Abalaram o Mundo, foi aclamado por Lênin como um relato fiel dos acontecimentos de outubro. Reed esteve sempre ao lado dos oprimidos, participando ativamente da política e sendo um dos fundadores do Partido Comunista dos EUA. Morreu em 1920 e está enterrado na Praça Vermelha, em Moscou."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:55:13",
+  "observacoes": null
+}

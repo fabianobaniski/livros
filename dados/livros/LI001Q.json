@@ -1,0 +1,68 @@
+{
+  "obra_id": 66,
+  "autor": "Trixie Mattel; Katya Zamolodchikova",
+  "titulo": "Trixie and Katya's guide to modern womanhood",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Sexualidade",
+  "temas": "Drag. Feminilidade. Comédia. Cultura pop.",
+  "palavras_chave": "trixie katya",
+  "edicao_id": 66,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 194,
+  "peso": 450,
+  "isbn": "9780593086704",
+  "editora": "Penguin Random House",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>THE RUPAUL'S DRAG RACE LEGENDS, STARS OF UHHHHH, AND EXPERT BIOLOGICAL WOMEN SHARE THE SECRETS OF THEIR FEMININE MYSTIQUE IN THIS SATIRICAL GUIDE TO BEAUTY AND HOMEMAKING.</b></p><p>Drag superstars Trixie Mattel and Katya have long captivated fans with their stunning looks, on-screen chemistry, and signature wit. In <i>Trixie and Katya’s Guide to Modern Womanhood</i>, the pair channel that energy into an old-school etiquette guide for ladies.</p><p>In essays, conversations, and how-to sections peppered with hilarious, gorgeous photos, Trixie and Katya advise readers on beauty and fashion and tackle other vital components of a happy home, such as money, self-love, and friendship—sharing advice and personal stories in high-concept fashion.</p><p>Informative, humorous, and heartwarming, <i>Trixie and Katya’s Guide to Modern Womanhood</i> is the book that their fans have been waiting for.</p><p><b>TRIXIE MATTEL</b> is a drag performer, singer-songwriter, and comedian. She is thinner and richer than Katya.</p><p><b>KATYA ZAMOLODCHIKOVA</b> is a drag performer, actor, and comedian. She currently lives in Los Angeles with her wonderful husband, Gerald, and their four beautiful daughters, Linda, Terry, Leslie, and Gwen.</p>",
+  "sinopse": "Trixie Mattel e Katya Zamolodchikova, estrelas de RuPaul's Drag Race, compartilham suas visões hilárias e satíricas sobre feminilidade, beleza, moda e etiqueta moderna. Em uma mistura de ensaios, conversas e guias práticos, este livro oferece conselhos cômicos sobre autoimagem, dinheiro e amizade, tudo ilustrado com fotos de alto conceito.",
+  "exemplar_id": 65,
+  "sku": "LI001Q",
+  "preco_estante_virtual": 73.0,
+  "preco_amazon": 95.0,
+  "capa": "static/uploads/trixie-mattel--trixie-and-katya-s-guide-to-modern-womanhood--capa--20250225--232253.jpg",
+  "contracapa": "static/uploads/trixie-mattel--trixie-and-katya-s-guide-to-modern-womanhood--contracapa--20250225--232253.jpg",
+  "fotos": [
+    "static/uploads/trixie-mattel--trixie-and-katya-s-guide-to-modern-womanhood--foto1--20250225--232253.jpg",
+    "static/uploads/trixie-mattel--trixie-and-katya-s-guide-to-modern-womanhood--foto2--20250225--232253.jpg",
+    "static/uploads/trixie-mattel--trixie-and-katya-s-guide-to-modern-womanhood--foto3--20250225--232253.jpg",
+    "static/uploads/trixie-mattel--trixie-and-katya-s-guide-to-modern-womanhood--foto4--20250225--232253.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:30:39",
+  "observacoes": null
+}

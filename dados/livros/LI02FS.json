@@ -1,0 +1,68 @@
+{
+  "obra_id": 3669,
+  "autor": "V. V. Smyslov",
+  "titulo": "Xeque-Mate: O raciocínio em xeque",
+  "subtitulo": "Partidas selecionadas de xadrez",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "Smyslov xeque mate",
+  "edicao_id": 3646,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 221,
+  "peso": 450,
+  "isbn": "",
+  "editora": "Theor S/A",
+  "numero_edicao": null,
+  "ano": 1973,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3645,
+  "sku": "LI02FS",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/v-v-smyslov--xeque-mate-o-raciocinio-em-xeque--capa--20251113--233443.png",
+  "contracapa": "static/uploads/v-v-smyslov--xeque-mate-o-raciocinio-em-xeque--contracapa--20251113--233452.png",
+  "fotos": [
+    "static/uploads/v-v-smyslov--xeque-mate-o-raciocinio-em-xeque--foto1--20251121--190828.jpg",
+    "static/uploads/v-v-smyslov--xeque-mate-o-raciocinio-em-xeque--foto2--20251121--190828.jpg",
+    "static/uploads/v-v-smyslov--xeque-mate-o-raciocinio-em-xeque--foto3--20251121--190828.jpg",
+    "static/uploads/v-v-smyslov--xeque-mate-o-raciocinio-em-xeque--foto4--20251121--190828.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:04:40",
+  "observacoes": null
+}

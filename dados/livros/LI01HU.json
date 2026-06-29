@@ -1,0 +1,63 @@
+{
+  "obra_id": 2442,
+  "autor": "Carolina Lisboa; Marianne Montenegro Stolzmann",
+  "titulo": "Conceitos, teorias e discussões atuais em psicologia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "lisboa conceitos teorias discussoes",
+  "edicao_id": 2422,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 300,
+  "isbn": "9788586661488",
+  "editora": "Feevale",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro oferece uma ampla visão sobre os principais conceitos da psicologia, desde seu desenvolvimento histórico até suas correntes teóricas. A obra explora a psicanálise, comportamentalismo, cognitivismo, humanismo e gestalt, além de abordar a aprendizagem e as dificuldades relacionadas. Também discute o desenvolvimento humano ao longo da vida, questões de normalidade e patologia, e a sexualidade humana. Por fim, examina a psicologia aplicada em grupos, instituições e no ambiente de trabalho, proporcionando uma compreensão abrangente do comportamento humano e suas interações.",
+  "exemplar_id": 2421,
+  "sku": "LI01HU",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/carolina-lisboa--conceitos-teorias-e-discussoes-atuais-em-psicologia--capa--20260316--185314.jpg",
+  "contracapa": "static/uploads/carolina-lisboa--conceitos-teorias-e-discussoes-atuais-em-psicologia--contracapa--20260316--185314.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, apenas com leves sinais de manuseio. Texto sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:55:14",
+  "observacoes": null
+}

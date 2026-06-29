@@ -1,0 +1,63 @@
+{
+  "obra_id": 5574,
+  "autor": "Masakazu Katsura",
+  "titulo": "Zetman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Super-heróis. Transmutação.",
+  "palavras_chave": "katsura zetman",
+  "edicao_id": 5549,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 241,
+  "peso": 170,
+  "isbn": "9788545700548",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Jin começa a despertar como ZET, porém seu corpo sofre uma transmutação inesperada! Enquanto isso, um homem misterioso aparece diante de Kouga, que estava perdido entre o seu sonho de querer ser um super-herói e a realidade onde isso não é possível.</p>",
+  "sinopse": "Jin desperta como ZET, mas lida com uma transmutação inesperada, enquanto um homem misterioso aparece para Kouga, que enfrenta conflitos entre ser um super-herói e a realidade.",
+  "exemplar_id": 5548,
+  "sku": "LI02ZZ",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/zetman__masakazu-katsura__capa__2026-02-24_13-36-32-691678-000.jpg",
+  "contracapa": "static/uploads/zetman__masakazu-katsura__contracapa__2026-02-24_13-36-32-720770-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

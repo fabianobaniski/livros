@@ -1,0 +1,63 @@
+{
+  "obra_id": 2899,
+  "autor": "Jussara de Paula Xavier Bonin",
+  "titulo": "Serviço social sob a perspectiva da complexidade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "bonin servico social sob",
+  "edicao_id": 2879,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 138,
+  "peso": 250,
+  "isbn": "9788586267598",
+  "editora": "J. M. Livraria Jurídica",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta obra oferece uma nova abordagem para profissionais do Serviço Social e áreas correlatas, explorando a perspectiva da Complexidade como ferramenta para enfrentar os desafios contemporâneos. Ao destacar a importância da transdisciplinaridade, o livro propõe que a reflexão e o conhecimento permitem uma compreensão mais profunda do ser humano e das dinâmicas sociais. Com foco nos sistemas complexos, a autora sugere que a constante retroalimentação entre saber e prática é essencial para o aprimoramento e evolução dos profissionais em diversos âmbitos sociais.",
+  "exemplar_id": 2878,
+  "sku": "LI01UJ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/servico-social-sob-a-perspectiva-da-complexidade-jussara-de-paula-xavier-bonin-capa_rev590.jpg",
+  "contracapa": "static/uploads/servico-social-sob-a-perspectiva-da-complexidade-jussara-de-paula-xavier-bonin-contracapa_rev851.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:59:16",
+  "observacoes": null
+}

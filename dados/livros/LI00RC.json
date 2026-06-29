@@ -1,0 +1,68 @@
+{
+  "obra_id": 1308,
+  "autor": "Osmar Fávero",
+  "titulo": "Uma pedagogia da participação popular",
+  "subtitulo": "Análise da prática educativa do MEB – Movimento de Educação de Base (1961/1966)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Participação popular.",
+  "palavras_chave": "favera pedagogia participacao popular",
+  "edicao_id": 1292,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 302,
+  "peso": 350,
+  "isbn": "9788574961835",
+  "editora": "Autores Associados",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os movimentos de cultura e educação popular nascidos no início dos anos de 1960 operam um salto qualitativo em relação às campanhas e mobilizações governamentais contra o analfabetismo de jovens e adultos ou à educação rural dos anos de 1940 e 1950. São propostas qualitativamente diferentes das ações anteriores. E o que as faz radicalmente diferentes é o compromisso explicitamente assumido em favor das classes populares, urbanas e rurais, assim como o fato de orientarem sua ação educativa para uma ação política. Uma geração de jovens vindos da Ação Católica, principalmente de seus ramos estudantil e universitário, colabora na criação e lidera vários desses movimentos, em alguns casos lado a lado com os marxistas.</p> <p>Em particular, a criação do MEB (Movimento de Educação de Base) expressa o deslocamento da Igreja católica institucional em direção às classes populares. No entanto, a proposta e as práticas iniciais do MEB, originadas de experiências anteriores realizadas em estreita colaboração com o Estado, são bastante tradicionais. Mas, após dois anos de experiência, por exigência da própria prática e por influência daquela geração, redefiniu seus objetivos e reviu sua metodologia, em função de uma nova opção ideológica, sintetizada na conscientização. Em decorrência, deu nova dimensão à educação de base, nucleou o trabalho com as escolas radiofônicas e, apesar da crise provocada pelo golpe militar de 1964, ampliou o contato direto com as bases, na perspectiva de uma verdadeira pedagogia da participação popular.</p>",
+  "sinopse": "O livro aborda os movimentos de cultura e educação popular que surgiram nos anos 1960, destacando o papel do Movimento de Educação de Base (MEB). A obra destaca como esses movimentos se comprometeram com a educação das classes populares e sua orientação política. Também discute a colaboração de jovens da Ação Católica e a transformação metodológica que ocorreu no MEB ao longo dos anos, refletindo sobre a conscientização e a pedagogia da participação popular.",
+  "exemplar_id": 1291,
+  "sku": "LI00RC",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/osmar-f-vero--uma-pedagogia-da-participa--o-popular--capa--20250401--114909.png",
+  "contracapa": "static/uploads/osmar-f-vero--uma-pedagogia-da-participa--o-popular--contracapa--20250401--114909.png",
+  "fotos": [
+    "static/uploads/osmar-f-vero--uma-pedagogia-da-participa--o-popular--foto1--20250401--114909.jpg",
+    "static/uploads/osmar-f-vero--uma-pedagogia-da-participa--o-popular--foto2--20250401--114909.jpg",
+    "static/uploads/osmar-f-vero--uma-pedagogia-da-participa--o-popular--foto3--20250401--114909.jpg",
+    "static/uploads/osmar-f-vero--uma-pedagogia-da-participa--o-popular--foto4--20250401--114909.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:39:57",
+  "observacoes": "procedencia_biblioteca"
+}

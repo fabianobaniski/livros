@@ -1,0 +1,63 @@
+{
+  "obra_id": 2387,
+  "autor": "Pascal Picq",
+  "titulo": "As Origens do Homem Explicadas para as Crianças",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Antropologia",
+  "temas": "",
+  "palavras_chave": "picq origens homem explicadas",
+  "edicao_id": 2367,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 162,
+  "peso": 250,
+  "isbn": "9788539302673",
+  "editora": "Unesp",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Pascal Picq explora a evolução da linhagem humana em diálogo com as teorias de Darwin. O autor estabelece a conexão entre o comportamento dos grandes símios e as pesquisas sobre o surgimento da humanidade, apresentando uma narrativa envolvente sobre o conhecimento científico. A obra reflete sobre o papel da espécie Homo sapiens na história da vida, destacando a responsabilidade em preservar a natureza e proteger os semelhantes. Picq, paleoantropólogo, investiga as origens da evolução humana e dos grandes macacos, ampliando o entendimento sobre nossa ancestralidade.",
+  "exemplar_id": 2366,
+  "sku": "LI01GC",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/pascal-picq--as-origens-do-homem-explicadas-para-as-criancas--capa--20260316--155142.jpg",
+  "contracapa": "static/uploads/pascal-picq--as-origens-do-homem-explicadas-para-as-criancas--contracapa--20260316--155151.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado, sem qualquer dano na capa, lombada ou contracapa. Miolo impecável. Texto livre de anotações e sublinhados. Também não constam carimbo, selo e assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:17:33",
+  "observacoes": null
+}

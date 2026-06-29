@@ -1,0 +1,63 @@
+{
+  "obra_id": 2514,
+  "autor": "Luis Tomás Melgar",
+  "titulo": "El libro de los muertos",
+  "subtitulo": "La verdad oculta del antiguo Egipto",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "melgar libro los muertos",
+  "edicao_id": 2494,
+  "encadernacao": null,
+  "quantidade_paginas": 319,
+  "peso": 550,
+  "isbn": "9788466209670",
+  "editora": "Libsa",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "El libro de los muertos é um guia essencial para compreender as crenças e práticas funerárias do Antigo Egito. A obra explora detalhadamente os rituais, mitologias e textos sagrados que orientavam os egípcios em sua jornada para o pós-vida. Com uma análise rica das inscrições encontradas nas tumbas e pirâmides, o livro desvenda os segredos da mumificação, dos deuses e das crenças sobre a vida após a morte, oferecendo uma visão fascinante sobre uma das civilizações mais enigmáticas da história.",
+  "exemplar_id": 2493,
+  "sku": "LI01JU",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/luis-tomas-melgar--el-libro-de-los-muertos--capa--20260316--193630.jpg",
+  "contracapa": "static/uploads/luis-tomas-melgar--el-libro-de-los-muertos--contracapa--20260316--193630.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, tendo, apenas, leves sinais de uso. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:03:18",
+  "observacoes": null
+}

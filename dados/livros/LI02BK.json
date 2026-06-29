@@ -1,0 +1,68 @@
+{
+  "obra_id": 3517,
+  "autor": "Masashi Kishimoto",
+  "titulo": "Naruto",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos japoneses. Artes marciais. Torneios.",
+  "palavras_chave": "kishimoto naruto gold",
+  "edicao_id": 3494,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "9788542603538",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "Gold",
+  "volume": 9,
+  "transcricao_contracapa": "<p>O torneio preliminar entre vinte habilidosos participantes começou com tudo!! Sasuke, Shino e Kankurou já garantiram suas vagas, e a batalha entre Ino e Sakura chega ao clímax. Quando será a vez de Naruto?! Um trágico duelo está para acontecer...!!</p>",
+  "sinopse": "O torneio preliminar entre vinte habilidosos participantes está em andamento. Sasuke, Shino e Kankurou já avançaram, enquanto a intensa batalha entre Ino e Sakura atinge seu ápice. A expectativa cresce para o momento em que Naruto entrará em ação, enquanto um duelo trágico se aproxima.",
+  "exemplar_id": 3493,
+  "sku": "LI02BK",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/naruto__masashi-kishimoto__capa__2025-11-05_16-16-11-378313.jpg",
+  "contracapa": "static/uploads/naruto__masashi-kishimoto__contracapa__2025-11-05_16-16-11-417868.jpg",
+  "fotos": [
+    "static/uploads/naruto__masashi-kishimoto__foto-01__2025-11-05_16-16-11-456625.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-02__2025-11-05_16-16-11-484197.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-03__2025-11-05_16-16-11-500489.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-04__2025-11-05_16-16-11-518689.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:58:39",
+  "observacoes": null
+}

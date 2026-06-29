@@ -1,0 +1,63 @@
+{
+  "obra_id": 2466,
+  "autor": "Amparo Moreno; Florencia Rovetto; Alfonso Buitrago",
+  "titulo": "De quién hablan las noticias?",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Comunicação",
+  "temas": "",
+  "palavras_chave": "moreno quien hablan las",
+  "edicao_id": 2446,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 482,
+  "isbn": "9788474269550",
+  "editora": "Icaria",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro oferece uma ferramenta prática para avaliar a amplitude, diversidade e sensibilidade humana da cobertura informativa, realizando uma autocrítica dos hábitos de pensamento adquiridos no aprendizado e na prática jornalística. Foca-se nas pessoas, destacando mulheres e homens como protagonistas das notícias. Explora novas formas de produção de informação, questionando o que se considera notícia e experimentando as tecnologias atuais para criar um conhecimento plural e interativo.",
+  "exemplar_id": 2445,
+  "sku": "LI01II",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/amparo-moreno--de-quien-hablan-las-noticias--capa--20260316--191806.jpg",
+  "contracapa": "static/uploads/amparo-moreno--de-quien-hablan-las-noticias--contracapa--20260316--191807.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Possui dedicatória do autor. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Há dedicatória e assinatura"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:35:33",
+  "observacoes": null
+}

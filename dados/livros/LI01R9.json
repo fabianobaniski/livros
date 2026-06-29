@@ -1,0 +1,63 @@
+{
+  "obra_id": 2781,
+  "autor": "Monteiro Lobato",
+  "titulo": "O macaco que se fez homem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "lobato macaco que fez",
+  "edicao_id": 2761,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 130,
+  "peso": 250,
+  "isbn": "9788525046536",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em O macaco que se fez homem, Monteiro Lobato apresenta dez contos que exploram, com sagacidade e humor, os costumes e defeitos da sociedade brasileira. Com uma linguagem leve e envolvente, o autor utiliza a sátira e a caricatura para criticar a natureza humana e a vida cotidiana, revelando personagens trágicos e cômicos. Através de uma parábola inspirada nas teorias de Darwin, Lobato constrói uma narrativa original e marcante, capturando um momento da história do Brasil com profundidade e ironia, consolidando sua posição na literatura brasileira.",
+  "exemplar_id": 2760,
+  "sku": "LI01R9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-macaco-que-se-fez-homem-monteiro-lobato-capa_rev309.jpg",
+  "contracapa": "static/uploads/o-macaco-que-se-fez-homem-monteiro-lobato-contracapa_rev1093.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado. Sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:30:02",
+  "observacoes": null
+}

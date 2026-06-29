@@ -1,0 +1,63 @@
+{
+  "obra_id": 2499,
+  "autor": "François Jean; Jean-christophe Rufin",
+  "titulo": "Économie des Guerres Civiles",
+  "subtitulo": "",
+  "idioma": "Francês",
+  "categoria": "Economia",
+  "temas": "",
+  "palavras_chave": "jean economie des guerres",
+  "edicao_id": 2479,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 593,
+  "peso": 350,
+  "isbn": "9782012787889",
+  "editora": "Hachette",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro analisa o impacto da Segunda Guerra Mundial no cenário econômico, político e social global, com foco nas transformações estruturais que ocorreram na Europa e no mundo. A obra explora a recuperação econômica no pós-guerra, o surgimento de novas alianças e as tensões da Guerra Fria, oferecendo uma visão detalhada sobre os desafios enfrentados por diferentes países na reconstrução de suas economias e sociedades. Com ênfase na importância das mudanças políticas e no papel do Estado na reorganização social...",
+  "exemplar_id": 2478,
+  "sku": "LI01JF",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/francois-jean--economie-des-guerres-civiles--capa--20260316--193045.jpg",
+  "contracapa": "static/uploads/francois-jean--economie-des-guerres-civiles--contracapa--20260316--193045.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:50:58",
+  "observacoes": null
+}

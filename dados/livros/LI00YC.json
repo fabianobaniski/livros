@@ -1,0 +1,68 @@
+{
+  "obra_id": 1736,
+  "autor": "Orlando Galvão; Mário James Cassiano",
+  "titulo": "Nas ondas do rádio",
+  "subtitulo": "Nascimento e evolução da radiofonia em Telêmaco Borba",
+  "idioma": "Português",
+  "categoria": "Comunicação",
+  "temas": "Comunicação. História do rádio. Desenvolvimento regional.",
+  "palavras_chave": "galvao nas ondas radio",
+  "edicao_id": 1716,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 142,
+  "peso": 270,
+  "isbn": "",
+  "editora": "Não identificada",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Apoio:</p><p>Sicoob<br>Associado a você.<br>Sistema de Cooperativas de Crédito do Brasil</p><p>Acitel<br>Associação Comercial e Empresarial de Telêmaco Borba</p>",
+  "sinopse": "O livro aborda o nascimento e a evolução da radiofonia em Telêmaco Borba, apresentando os marcos históricos e o impacto do rádio na sociedade local. Com foco no desenvolvimento regional, a obra destaca como o rádio transformou a comunicação e integrou a comunidade.",
+  "exemplar_id": 1715,
+  "sku": "LI00YC",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/orlando-galv-o--nas-ondas-do-r-dio--capa--20250430--102939.jpg",
+  "contracapa": "static/uploads/orlando-galv-o--nas-ondas-do-r-dio--contracapa--20250430--102939.jpg",
+  "fotos": [
+    "static/uploads/orlando-galv-o--nas-ondas-do-r-dio--foto1--20250430--102939.jpg",
+    "static/uploads/orlando-galv-o--nas-ondas-do-r-dio--foto2--20250430--102939.jpg",
+    "static/uploads/orlando-galv-o--nas-ondas-do-r-dio--foto3--20250430--102939.jpg",
+    "static/uploads/orlando-galv-o--nas-ondas-do-r-dio--foto4--20250430--102939.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro um pouco prejudicado por contato com umidade. Sem grifos ou anotações. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:16:05",
+  "observacoes": "procedencia_biblioteca"
+}

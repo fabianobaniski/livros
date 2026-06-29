@@ -1,0 +1,63 @@
+{
+  "obra_id": 2753,
+  "autor": "Vinícius de Moraes",
+  "titulo": "O cinema de meus olhos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Cinema",
+  "temas": "",
+  "palavras_chave": "moraes cinema meus olhos",
+  "edicao_id": 2733,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 310,
+  "peso": 300,
+  "isbn": "9788571642119",
+  "editora": "Companhia das Letras",
+  "numero_edicao": null,
+  "ano": 1991,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O cinema é descrito como uma forma poderosa de evasão, onde a escuridão cria um ambiente propício para a imaginação florescer. Mesmo os filmes mais simples despertam fascínio ao transformar saudades e lembranças em imagens vivas na tela. A escuridão, comparada a um estado sedativo, ganha vida com o brilho da luz, como um foguinho que atrai o olhar. Para o autor, o cinema é uma experiência profundamente subjetiva, capaz de transformar memórias em arte visual, remetendo à fascinação primitiva pelo fogo na escuridão.",
+  "exemplar_id": 2732,
+  "sku": "LI01QH",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/o-cinema-de-meus-olhos-vinicius-de-moraes-capa_rev1038.jpg",
+  "contracapa": "static/uploads/o-cinema-de-meus-olhos-vinicius-de-moraes-contracapa_rev1705.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:56:19",
+  "observacoes": null
+}

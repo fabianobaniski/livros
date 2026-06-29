@@ -1,0 +1,63 @@
+{
+  "obra_id": 2538,
+  "autor": "Peter Michel",
+  "titulo": "Fé e dogma",
+  "subtitulo": "O que o Papa não disse",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "michel dogma que papa",
+  "edicao_id": 2518,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 122,
+  "peso": 262,
+  "isbn": "9788573743159",
+  "editora": "Madras",
+  "numero_edicao": 0,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2517,
+  "sku": "LI01KI",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/peter-michel--fe-e-dogma--capa--20260316--201906.jpg",
+  "contracapa": "static/uploads/peter-michel--fe-e-dogma--contracapa--20260316--201906.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:00:12",
+  "observacoes": null
+}

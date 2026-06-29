@@ -1,0 +1,63 @@
+{
+  "obra_id": 5193,
+  "autor": "Kagyu Kumo",
+  "titulo": "Goblin Slayer!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Aventura. Fantasia.",
+  "palavras_chave": "kagyu goblin slayer",
+  "edicao_id": 5168,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 154,
+  "peso": 210,
+  "isbn": "9786559607082",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "Goblin Slayer!",
+  "volume": 7,
+  "transcricao_contracapa": "<p>O festival da colheita de outono. O Goblin Slayer combina de passar a manhã com a criadora de gado e a tarde com a recepcionista. A cidade parecia pacífica, sem nenhum pedido de extermínio de goblins, mas o Goblin Slayer sente uma presença sinistra... Estamos chegando ao clímax do arco do festival da colheita, que mostra o 'dia de folga' do Goblin Slayer!</p> <p>Também inclui uma história-curta escrita pelo autor original, Kagyu Kumo!!</p>",
+  "sinopse": "Durante o festival da colheita de outono, Goblin Slayer planeja passar um dia tranquilo, mas sente uma presença sinistra na cidade. O clímax do arco do festival revela o 'dia de folga' do Goblin Slayer, incluindo uma história curta do autor Kagyu Kumo.",
+  "exemplar_id": 5167,
+  "sku": "LI02VL",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/goblin-slayer__kagyu-kumo__capa__2026-02-20_10-32-33-722392-000.png",
+  "contracapa": "static/uploads/goblin-slayer__kagyu-kumo__contracapa__2026-02-20_10-32-33-842331-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

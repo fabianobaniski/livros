@@ -1,0 +1,63 @@
+{
+  "obra_id": 974,
+  "autor": "Andrew Murray",
+  "titulo": "O espírito de Cristo",
+  "subtitulo": "Um indispensável clássico cristão sobre espiritualidade",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Espiritualidade. Cristianismo.",
+  "palavras_chave": "murray espirito cristao",
+  "edicao_id": 959,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 293,
+  "peso": 400,
+  "isbn": "9788587832566",
+  "editora": "dos Clássicos",
+  "numero_edicao": 1,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O Espírito de Cristo, universalmente reconhecido como um clássico da literatura cristã e, provavelmente, a obra-prima de Andrew Murray, responde a essa pergunta. Sua grande contribuição é ter alcançado, de maneira prática e acessível ao mais simples leitor, um equilíbrio perfeito entre os fundamentos centrais da teologia bíblica – especialmente sobre a Trindade e a Cristologia – e a experiência cristã em relação à Pessoa e à obra do Espírito Santo, como o Espírito que habita e opera no homem. Devemos reconhecer que o Espírito Santo não é plenamente percebido na Igreja – o Corpo de Cristo – como Ele deveria ser. Em nossa pregação e em nossa prática. Ele não ocupa a posição de preeminência que tem no plano de Deus.",
+  "exemplar_id": 958,
+  "sku": "LI00PW",
+  "preco_estante_virtual": 34.0,
+  "preco_amazon": 32.0,
+  "capa": "static/uploads/andrew-murray--esp-rito-de-cristo--capa--20250228--145222.jpg",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:06:19",
+  "observacoes": null
+}

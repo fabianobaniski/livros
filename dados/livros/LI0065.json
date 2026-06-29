@@ -1,0 +1,68 @@
+{
+  "obra_id": 244,
+  "autor": "Jonathan Maberry",
+  "titulo": "Advogado do diabo",
+  "subtitulo": "The X Files: origens",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Ficção científica. Mistério. Suspense.",
+  "palavras_chave": "maberry x arquivos advogado",
+  "edicao_id": 238,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 316,
+  "peso": 380,
+  "isbn": "9788595080416",
+  "editora": "HarperCollins Brasil",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Como Dana Scully se tornou cética?</h1> <p>Antes de entrar para o Arquivo X, antes de ser uma agente do FBI, antes de estudar medicina, Dana Scully era uma nerd excluída no novo colégio. Mas quando seus colegas começaram a falecer em circunstâncias suspeitas, ela talvez fosse a única capaz de impedir novas mortes.</p> <p>“Um thriller impossível de largar, que vai agradar tanto os fãs mais fervorosos de Arquivo X quanto quem nunca ouviu falar da agente Scully.”</p> <p>Melissa de la Cruz, autora best-seller do New York Times</p> <p>Não perca a história de Fox Mulder em Agente do Caos da autora best-seller do New York Times Kami Garcia.</p>",
+  "sinopse": "Antes de se tornar a agente cética do Arquivo X, Dana Scully era uma nerd excluída em seu colégio. Após uma série de mortes suspeitas entre seus colegas, Scully se vê diante de um mistério que pode colocá-la em perigo e se torna a única capaz de deter novas tragédias. Um thriller que promete prender tanto fãs de longa data quanto novos leitores.",
+  "exemplar_id": 237,
+  "sku": "LI0065",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/jonathan-maberry--the-x-files--capa--20250226--133810.jpg",
+  "contracapa": "static/uploads/jonathan-maberry--the-x-files--contracapa--20250226--133810.jpg",
+  "fotos": [
+    "static/uploads/jonathan-maberry--the-x-files--foto1--20250226--133810.jpg",
+    "static/uploads/jonathan-maberry--the-x-files--foto2--20250226--133810.jpg",
+    "static/uploads/jonathan-maberry--the-x-files--foto3--20250226--133810.jpg",
+    "static/uploads/jonathan-maberry--the-x-files--foto4--20250226--133810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:24:50",
+  "observacoes": null
+}

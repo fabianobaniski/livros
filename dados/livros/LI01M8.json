@@ -1,0 +1,63 @@
+{
+  "obra_id": 2600,
+  "autor": "Tony Thomas",
+  "titulo": "Howard Hughes em Hollywood",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "thomas howard hughes hollywood",
+  "edicao_id": 2580,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 199,
+  "peso": 350,
+  "isbn": "9788586166433",
+  "editora": "Frente",
+  "numero_edicao": 0,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Howard Hughes em Hollywood narra a tumultuada e fascinante trajetória do excêntrico bilionário durante a era de ouro do cinema americano. O livro detalha sua audaciosa transição de herdeiro da aviação para um dos produtores e diretores mais ousados da indústria cinematográfica, destacando os bastidores de superproduções como Anjos do Inferno, seus romances tórridos com as maiores estrelas da época e a genialidade obsessiva que, ao mesmo tempo em que revolucionou Hollywood, alimentou o início de seu trágico isolamento e declínio mental.",
+  "exemplar_id": 2579,
+  "sku": "LI01M8",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/tony-thomas--howard-hughes-em-hollywood--capa--20260316--212712.jpg",
+  "contracapa": "static/uploads/tony-thomas--howard-hughes-em-hollywood--contracapa--20260316--212712.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:34:10",
+  "observacoes": null
+}

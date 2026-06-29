@@ -1,0 +1,68 @@
+{
+  "obra_id": 2074,
+  "autor": "Rubens Requião",
+  "titulo": "Curso de Direito Comercial",
+  "subtitulo": "De acordo com a Lei n. 11.101, de 9-2-2005 (nova Lei de Falências)",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Direito comercial. Lei de Falências.",
+  "palavras_chave": "requiao curso direito comercial",
+  "edicao_id": 2054,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 749,
+  "peso": 1075,
+  "isbn": "9788502059979",
+  "editora": "Saraiva",
+  "numero_edicao": 25,
+  "ano": 2008,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>saraivajur.com.br<br>Visite nosso portal</p>",
+  "sinopse": "Curso abrangente de direito comercial elaborado por Rubens Requião, apresentando seu conteúdo de acordo com a Lei n. 11.101, de 9-2-2005, conhecida como a nova Lei de Falências. A edição corresponde ao segundo volume da obra, publicada pela Editora Saraiva.",
+  "exemplar_id": 2053,
+  "sku": "LI017N",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/rubens-requi-o--curso-de-direito-comercial--capa--20250430--104529.jpg",
+  "contracapa": "static/uploads/rubens-requi-o--curso-de-direito-comercial--contracapa--20250430--104529.jpg",
+  "fotos": [
+    "static/uploads/rubens-requi-o--curso-de-direito-comercial--foto1--20250430--104529.jpg",
+    "static/uploads/rubens-requi-o--curso-de-direito-comercial--foto2--20250430--104529.jpg",
+    "static/uploads/rubens-requi-o--curso-de-direito-comercial--foto3--20250430--104529.jpg",
+    "static/uploads/rubens-requi-o--curso-de-direito-comercial--foto4--20250430--104529.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:20:05",
+  "observacoes": "procedencia_biblioteca"
+}

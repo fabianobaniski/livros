@@ -1,0 +1,63 @@
+{
+  "obra_id": 3192,
+  "autor": "Ellen G. White",
+  "titulo": "Evangelismo",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "ellen white evangelismo",
+  "edicao_id": 3172,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 754,
+  "peso": 800,
+  "isbn": "9788534502726",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 3,
+  "ano": 2007,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "O evangelismo, como essência do cristianismo, é explorado neste volume que reúne orientações práticas sobre métodos de pregação, estratégias de alcance e formação espiritual para disseminar a mensagem de salvação. Com base em escritos de Ellen G. White, o livro aborda o preparo de missionários, a importância do testemunho pessoal e as melhores abordagens para ganhar almas. As instruções visam capacitar cristãos a compartilhar a fé de maneira eficaz, promovendo a transformação espiritual e o fortalecimento da obra de Deus.",
+  "exemplar_id": 3171,
+  "sku": "LI022O",
+  "preco_estante_virtual": 140.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, com discretos sinais de uso! Possui , todas livres de anotações e sublinhados. Capa dura com o nome da autora e o título em letras douradas, com leves desgastes. Papel um pouco amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:41:58",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

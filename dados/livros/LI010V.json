@@ -1,0 +1,68 @@
+{
+  "obra_id": 1829,
+  "autor": "Roberto DaMatta",
+  "titulo": "Relativizando",
+  "subtitulo": "Uma introdução à Antropologia Social",
+  "idioma": "Português",
+  "categoria": "Antropologia",
+  "temas": "Antropologia. Antropologia social. Conceitos sociais.",
+  "palavras_chave": "damatta relativizando introducao antropologia social",
+  "edicao_id": 1809,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 285,
+  "peso": 360,
+  "isbn": "9788532501547",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este é um antimanual por excelência, uma maneira original de pensar e debater a antropologia proposta por um dos intelectuais mais importantes do país. Em <i>Relativizando</i>, Roberto DaMatta passa a limpo os principais conceitos e defende a importância de não cristalizá-los, oferecendo uma preciosa introdução à antropologia social.</p>",
+  "sinopse": "Relativizando é um antimanual que propõe uma forma original de pensar e debater a antropologia, destacando a importância de não cristalizar conceitos. Roberto DaMatta revisita as principais ideias da área e apresenta uma valiosa introdução à antropologia social para iniciantes e interessados.",
+  "exemplar_id": 1808,
+  "sku": "LI010V",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/roberto-damatta--relativizando--capa--20250430--102953.jpg",
+  "contracapa": "static/uploads/roberto-damatta--relativizando--contracapa--20250430--102953.jpg",
+  "fotos": [
+    "static/uploads/roberto-damatta--relativizando--foto1--20250430--102953.jpg",
+    "static/uploads/roberto-damatta--relativizando--foto2--20250430--102953.jpg",
+    "static/uploads/roberto-damatta--relativizando--foto3--20250430--102953.jpg",
+    "static/uploads/roberto-damatta--relativizando--foto4--20250430--102953.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Conservação prejudicada porque o livro sofreu contato com umidade, tendo ficado com as folhas um tanto enrugadas. Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:42:40",
+  "observacoes": "procedencia_biblioteca"
+}

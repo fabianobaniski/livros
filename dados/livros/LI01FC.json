@@ -1,0 +1,63 @@
+{
+  "obra_id": 2351,
+  "autor": "Manuel José Marques da Silva",
+  "titulo": "A última História de Goa",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "silva ultima historia goa",
+  "edicao_id": 2331,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 219,
+  "peso": 616,
+  "isbn": "9789896894580",
+  "editora": "Colibri",
+  "numero_edicao": 2,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2330,
+  "sku": "LI01FC",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/manuel-jose-marques-da-silva--a-ultima-historia-de-goa--capa--20260316--153203.jpg",
+  "contracapa": "static/uploads/manuel-jose-marques-da-silva--a-ultima-historia-de-goa--contracapa--20260316--153210.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos.  / O relato apresenta a jornada de Manuel Marques da Silva, marcada por coincidências e acontecimentos que remontam ao 18 de dezembro, data da invasão de Goa. A narrativa inclui sua missão de afundar uma lancha proscrita e os eventos que o levaram a se envolver com um cargueiro grego, cuja tripulação o salvou. As memórias de sua passagem por Goa se entrelaçam com as histórias do pai da autora, Victor Marques Pedroso, que também esteve em Goa e Ponda, no campo de prisioneiros..."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:43:28",
+  "observacoes": null
+}

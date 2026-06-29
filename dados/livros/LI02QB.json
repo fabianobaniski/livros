@@ -1,0 +1,63 @@
+{
+  "obra_id": 4993,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Mangá japonês. Viagens no tempo.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4968,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9788545707820",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "UQ Holder!",
+  "volume": 13,
+  "transcricao_contracapa": "<p>Touta mergulha no abismo do mundo de Negima!</p> <p>Negi Springfield e os membros de Negima! surgem diante de Touta! Em meio a esse caos, para que o garoto possa tomar uma decisão, o mago Curnell enviou-o para o Colégio Mahora na época em que seu avô lecionava e Touta presencia a história de amor de Yukihime... Os dois se encontram em meio a sorrisos, porém, quem aparece diante deles é...!</p>",
+  "sinopse": "Em um mundo onde Touta é confrontado por Negi Springfield e os membros de Negima!, ele é enviado ao passado para testemunhar a história de amor de Yukihime. Enquanto tenta entender seu papel nesse caos, figuras inesperadas surgem, trazendo desafios e descobertas impactantes.",
+  "exemplar_id": 4967,
+  "sku": "LI02QB",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-34-149522-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-34-208466-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

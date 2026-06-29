@@ -1,0 +1,63 @@
+{
+  "obra_id": 2658,
+  "autor": "David Malouf",
+  "titulo": "Lembrando Babilônia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "malouf lembrando babilonia",
+  "edicao_id": 2638,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 253,
+  "peso": 350,
+  "isbn": "9788535900231",
+  "editora": "Companhia das Letras",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Babilônia, símbolo de ruína e exílio, serve como metáfora para os colonos escoceses isolados na Austrália do século XIX, protagonistas deste romance. Longe de suas raízes e enfrentando a vastidão desconhecida, eles reagem com medo e hostilidade ao novo ambiente e seus habitantes nativos, passando de oprimidos a opressores. Com uma linguagem poética e precisa, David Malouf constrói uma narrativa sobre a fragilidade humana diante da natureza, transformando o caos interior em uma reflexão literária profunda.",
+  "exemplar_id": 2637,
+  "sku": "LI01NU",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/lembrando-babilonia-david-malouf-capa_rev1261.jpg",
+  "contracapa": "static/uploads/lembrando-babilonia-david-malouf-contracapa_rev2042.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:29:59",
+  "observacoes": null
+}

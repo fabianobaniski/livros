@@ -1,0 +1,68 @@
+{
+  "obra_id": 3316,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá. Relacionamentos adolescentes. Romance escolar.",
+  "palavras_chave": "saburouta citrus",
+  "edicao_id": 3296,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788583622437",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Desde a noite de Natal, <b>Yuzu</b> e <b>Mei</b> passam dias de desencontros. <b>Yuzu</b> tenta melhorar a relação entre as duas durante a excursão escolar, mas se atrasa muito logo no primeiro dia e não consegue pegar o trem-bala com a turma.<br> Ela ganhou coragem de uma bela garota chamada <b>Sara</b>, que conheceu por coincidência, e tenta dizer à <b>Mei</b> o que sente por ela, mas então surge <b>Nina</b> que diz ser irmã de <b>Sara</b>...</p>",
+  "sinopse": "Após a noite de Natal, Yuzu e Mei passam por dias de desencontros. Durante uma excursão escolar, Yuzu tenta se aproximar de Mei, mas acaba se atrasando e perdendo o trem-bala com a turma. Nesse período, Yuzu conhece Sara, uma garota que lhe dá coragem para expressar seus sentimentos. No entanto, a situação se complica com o surgimento de Nina, que se apresenta como irmã de Sara.",
+  "exemplar_id": 3295,
+  "sku": "LI0262",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2025-11-05_16-25-12-364201.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2025-11-05_16-25-12-393316.jpg",
+  "fotos": [
+    "static/uploads/citrus__saburouta__foto-01__2025-11-05_16-25-12-415222.jpg",
+    "static/uploads/citrus__saburouta__foto-02__2025-11-05_16-25-12-464835.jpg",
+    "static/uploads/citrus__saburouta__foto-03__2025-11-05_16-25-12-486691.jpg",
+    "static/uploads/citrus__saburouta__foto-04__2025-11-05_16-25-12-649890.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:10:59",
+  "observacoes": null
+}

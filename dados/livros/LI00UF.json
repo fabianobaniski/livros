@@ -1,0 +1,68 @@
+{
+  "obra_id": 1427,
+  "autor": "Ritchie",
+  "titulo": "Comentário Ritchie do Velho Testamento",
+  "subtitulo": "Provérbios",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia. Velho Testamento.",
+  "palavras_chave": "ritchie comentario proverbios velho testamento",
+  "edicao_id": 1409,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 337,
+  "peso": 600,
+  "isbn": "9788598156767",
+  "editora": "Esd",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Uma série de Comentários que abrange todos os livros do Velho Testamento. Os escritores desta série são irmãos que se reúnem com outros cristãos simplesmente como cristãos, rejeitando qualquer vínculo denominacional, atraídos unicamente ao nome precioso do Senhor Jesus Cristo.</p><p>Nesta época tão conturbada e confusa em que vivemos, quando parece que a Vinda do Senhor não pode tardar, nossa oração é que a mensagem do Velho Testamento, tão antiga porém tão atual, possa ressoar novamente em nossos corações e consciências. Que possamos ter o entendimento aberto para compreender tudo que os profetas, de Moisés a Malaquias, nos revelaram acerca do nosso amado Salvador (Lc 24:27, 44-45).</p>",
+  "sinopse": "Este comentário sobre Provérbios oferece uma visão abrangente dos ensinamentos contidos no Velho Testamento, convidando o leitor a compreender as mensagens e lições que ressoam através dos tempos na busca por entendimento espiritual.",
+  "exemplar_id": 1408,
+  "sku": "LI00UF",
+  "preco_estante_virtual": 85.0,
+  "preco_amazon": 85.0,
+  "capa": "static/uploads/ritchie--coment-rio-ritchie-do-velho-testamento--capa--20250401--115345.png",
+  "contracapa": "static/uploads/ritchie--coment-rio-ritchie-do-velho-testamento--contracapa--20250401--115345.png",
+  "fotos": [
+    "static/uploads/ritchie--coment-rio-ritchie-do-velho-testamento--foto1--20250401--115345.jpg",
+    "static/uploads/ritchie--coment-rio-ritchie-do-velho-testamento--foto2--20250401--115345.jpg",
+    "static/uploads/ritchie--coment-rio-ritchie-do-velho-testamento--foto3--20250401--115345.jpg",
+    "static/uploads/ritchie--coment-rio-ritchie-do-velho-testamento--foto4--20250401--115345.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:46:47",
+  "observacoes": null
+}

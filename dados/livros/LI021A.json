@@ -1,0 +1,63 @@
+{
+  "obra_id": 3142,
+  "autor": "Stuart Hall",
+  "titulo": "Identidades Culturais na Pós-modernidade",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": null,
+  "palavras_chave": "hall identidades culturais posmodernidade",
+  "edicao_id": 3122,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 111,
+  "peso": 350,
+  "isbn": "9788586584039",
+  "editora": "Dp&a",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "A obra discute como a identidade cultural do homem moderno está sendo fragmentada e deslocada, levando a uma crise de identidade devido à perda de fronteiras claras em relação à classe, sexualidade, etnia, raça e nacionalidade. Busca explorar essa questão e avaliar se essa crise existe, o que ela implica e para onde está indo, considerando as complexidades e contradições da descentração do sujeito.",
+  "exemplar_id": 3121,
+  "sku": "LI021A",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, capa brochura, com  Boa conservação geral. Texto sem anotações e sublinhados. Não possui marcas de umidade, mofo, traça, nem rasgos ou amassados. Papel levemente amarelado. Discretas marcas de uso. Dimensões: 11 x 17 cm."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:04:23",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

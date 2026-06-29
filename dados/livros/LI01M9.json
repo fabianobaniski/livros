@@ -1,0 +1,63 @@
+{
+  "obra_id": 2601,
+  "autor": "Amaru (Gustavo J. Cornejo Cornejo)",
+  "titulo": "Huaynaputina",
+  "subtitulo": "Reencuentro con el rey del Universo en los Andes",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "cornejo huaynaputina reencuentro",
+  "edicao_id": 2581,
+  "encadernacao": null,
+  "quantidade_paginas": 343,
+  "peso": 350,
+  "isbn": "",
+  "editora": "Universidad Nac. San Agustin",
+  "numero_edicao": 0,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2580,
+  "sku": "LI01M9",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/amaru-gustavo-j-cornejo-cornejo--huaynaputina--capa--20260316--212727.jpg",
+  "contracapa": "static/uploads/amaru-gustavo-j-cornejo-cornejo--huaynaputina--contracapa--20260316--212728.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Tomo I. Ótima conservação. Capas e lombada sem perdas; lombada reta; miolo firme e sem folhas soltas; texto livre de anotações e sublinhados. Consta, apenas, pequeno carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:34:13",
+  "observacoes": null
+}

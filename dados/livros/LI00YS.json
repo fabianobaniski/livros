@@ -1,0 +1,68 @@
+{
+  "obra_id": 1753,
+  "autor": "Moacir Gadotti",
+  "titulo": "Pensamento pedagógico brasileiro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Pensamento pedagógico brasileiro. Democratização do ensino.",
+  "palavras_chave": "gadotti pensamento pedagogico brasileiro",
+  "edicao_id": 1733,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 167,
+  "peso": 220,
+  "isbn": "9788508091041",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "Fundamentos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro é um roteiro básico sobre as várias sistematizações teóricas existentes que tecem o pensamento pedagógico brasileiro. Ao tentar a síntese, o Autor enfoca o papel do educador, da escola, da formação e do saber, hoje, em nossa realidade.</p><p>Quais os valores, objetivos e ideologias que permeiam o ato de educar? O que se entende por <b>democratização</b> da educação?</p><p>Essas questões estão intimamente relacionadas a temas como “a educação como ato político”; a educação da classe, a educação popular e a educação do sistema; o prazer e o desprazer de ensinar; a paixão de conhecer o mundo; a educação e o poder; e outros, que o Autor desenvolve, evidenciando-os objetivamente, no contexto educacional brasileiro.</p><p>Moacir Gadotti é professor da Pontifícia Universidade Católica — em São Paulo e em Campinas — e da Universidade Estadual de Campinas. Publicou, entre outros títulos, <b>Educação e poder: introdução à pedagogia do conflito</b>, <b>A educação contra a educação</b> e <b>Comunicação docente</b>.</p><p><i>Áreas de interesse do volume</i><br>- Educação<br>- Política<br>- Psicologia</p><p><i>Outras áreas da série</i><br>- Administração<br>- Antropologia<br>- Artes<br>- Ciências<br>- Civilização<br>- Comunicação<br>- Comunicações<br>- Direito<br>- Economia<br>- Estética<br>- Filosofia<br>- Geografia<br>- História<br>- Linguística<br>- Literatura<br>- Sociologia</p>",
+  "sinopse": "Este livro apresenta um roteiro básico das principais sistematizações teóricas que constituem o pensamento pedagógico brasileiro. Moacir Gadotti aborda o papel do educador, da escola, da formação e do saber na realidade atual, discutindo valores, objetivos e ideologias que cercam o ato de educar e a democratização da educação. Explora temas como educação como ato político, educação popular e de classe, sistemas de ensino, o prazer de ensinar, o poder e o conhecimento, situando essas questões no contexto educacional brasileiro.",
+  "exemplar_id": 1732,
+  "sku": "LI00YS",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/moacir-gadotti--pensamento-pedag-gico-brasileiro--capa--20250430--102941.jpg",
+  "contracapa": "static/uploads/moacir-gadotti--pensamento-pedag-gico-brasileiro--contracapa--20250430--102941.jpg",
+  "fotos": [
+    "static/uploads/moacir-gadotti--pensamento-pedag-gico-brasileiro--foto1--20250430--102941.jpg",
+    "static/uploads/moacir-gadotti--pensamento-pedag-gico-brasileiro--foto2--20250430--102941.jpg",
+    "static/uploads/moacir-gadotti--pensamento-pedag-gico-brasileiro--foto3--20250430--102941.jpg",
+    "static/uploads/moacir-gadotti--pensamento-pedag-gico-brasileiro--foto4--20250430--102941.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, apresenta leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Contracapa com marca de dobra. Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:55:09",
+  "observacoes": "procedencia_biblioteca"
+}

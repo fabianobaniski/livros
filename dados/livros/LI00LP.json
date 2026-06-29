@@ -1,0 +1,63 @@
+{
+  "obra_id": 818,
+  "autor": "Dennis Ngien",
+  "titulo": "Lutero como conselheiro espiritual",
+  "subtitulo": "A interface entre a teologia e a piedade nos escritos devocionais de Lutero",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Pastoral. Espiritualidade.",
+  "palavras_chave": "ngien lutero conselheiro espiritual",
+  "edicao_id": 803,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 251,
+  "peso": 380,
+  "isbn": "9788527506908",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Lutero era um verdadeiro teólogo, um teólogo da cruz atuante no contexto pastoral.</p> <p>Como conselheiro espiritual, Lutero ensinou, por meio de seus escritos, a meditar corretamente sobre a Paixão de Cristo, a preparar-se para enfrentar o horror da morte, a aconselhar os enfermos, a tratar corretamente do sacramento do altar, a orar da forma correta, a extrair benefícios da Oração do Senhor e a viver uma vida de discipulado sob a cruz.</p> <p>Seus escritos têm formato e propósito devocional e catequético, mas estão repletos de substância teológica, fruto de rigorosas reflexões. Refletem a vocação fundamental de Lutero como pastor-teólogo e são exemplos concretos da interface entre teologia e piedade, sendo aquela o pressuposto fundamental desta. Por meio desses escritos, o leitor não só entra em contato com a teologia da justificação como formulada na Reforma, mas também descobre uma expressão distinta da fé cristã em que Cristo e sua cruz ocupam o palco central. Digno de nota é o tema que perpassa todos esses escritos — o modo de Deus lidar com seu povo —, o qual o reformador, sendo ele um conselheiro espiritual, buscava relacionar aos acontecimentos de seu tempo.</p> <p>A maioria dos estudiosos de Lutero se concentra muito no lado polêmico do reformador, apenas com alusões esporádicas a seus escritos devocionais. O objetivo de Lutero como conselheiro espiritual é revelar o lado pastoral do reformador, não o polêmico, com base na orientação espiritual fornecida em seus escritos a pessoas de todas as classes sociais.</p>",
+  "sinopse": "Lutero, como conselheiro espiritual, utilizou seus escritos para ensinar a meditar sobre a Paixão de Cristo e a encarar a morte, além de abordar temas como o sacramento do altar e a oração. Seu trabalho reflete uma profunda substância teológica e a vocação de pastor-teólogo, conectando a teologia e a piedade. O livro busca destacar o lado pastoral de Lutero, explorando a maneira como ele lidava com seu povo em meio aos desafios de seu tempo.",
+  "exemplar_id": 802,
+  "sku": "LI00LP",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/dennis-ngien--lutero-como-conselheiro-espiritual--capa--20250227--152906.jpg",
+  "contracapa": "static/uploads/dennis-ngien--lutero-como-conselheiro-espiritual--contracapa--20250227--152906.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:36:59",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2522,
+  "autor": "Tania Zagury",
+  "titulo": "Encurtando a adolescência",
+  "subtitulo": "Orientação para pais e educadores",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "zagury encurtando adolescencia orientacao",
+  "edicao_id": 2502,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 306,
+  "peso": 400,
+  "isbn": "9788501055149",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A adolescência, considerada uma fase cada vez mais longa, traz novos desafios tanto para os jovens quanto para os pais. Hoje, os adolescentes enfrentam pressões como o consumo, a violência e a busca por identidade em uma sociedade de valores instáveis. Tania Zagury, renomada educadora, explora nesse livro os aspectos psicológicos e sociais que dificultam a transição saudável para a vida adulta, oferecendo orientações sobre como os pais podem ajudar seus filhos a superarem esses desafios e construírem uma autoimagem positiva e madura.",
+  "exemplar_id": 2501,
+  "sku": "LI01K2",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/tania-zagury--encurtando-a-adolescencia--capa--20260316--193902.jpg",
+  "contracapa": "static/uploads/tania-zagury--encurtando-a-adolescencia--contracapa--20260316--193902.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:18:45",
+  "observacoes": null
+}

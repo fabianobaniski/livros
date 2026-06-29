@@ -1,0 +1,63 @@
+{
+  "obra_id": 633,
+  "autor": "Franklin Ferreira",
+  "titulo": "Avivamento para a igreja",
+  "subtitulo": "O papel do Espírito Santo e da oração na renovação da igreja",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Avivamento. Renovação.",
+  "palavras_chave": "ferreira avivamento igreja",
+  "edicao_id": 618,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 300,
+  "isbn": "9788527506274",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O verdadeiro avivamento bíblico começa na sua igreja local quando ela está adornada pelas marcas da verdadeira igreja. Essas marcas nada mais são que a obra santificadora do Espírito Santo, que ele realiza por meio da prática fiel dos meios da graça: a pregação da Palavra e a ministração do batismo e da ceia do Senhor.</p> <p>Franklin Ferreira nos redireciona para uma definição bíblica de avivamento, em harmonia com a tradição protestante e evangélica. Nesta obra, que vem não apenas corrigir rumos, mas nos inspirar a busca do avivamento, você verá como o verdadeiro avivamento bíblico não se expressa pela grandiloquência enganosa dos grandes números, projetos ou mesmo sensações. Antes, o avivamento, conforme definido pelas Escrituras e pela tradição evangélica ao longo dos séculos, é um fenômeno de profundidade e de mudança de vida, uma mudança que impacta no crente individualmente, sua comunidade local de fé e sua denominação, bem como a igreja país afora, alcançando toda a cultura ao redor.</p> <p>Avivamento para a igreja explora:</p> <ul><li>o avivamento na história da redenção conforme apresentado no Antigo e no Novo Testamento;</li><li>o avivamento conforme abordado pela tradição protestante e suas confissões e catecismos;</li><li>a Pessoa e a obra do Espírito Santo e seu papel indispensável na produção de qualquer avivamento;</li><li>a oração e os meios da graça como catalizadores do avivamento.</li></ul>",
+  "sinopse": "O verdadeiro avivamento bíblico se inicia na igreja local quando marcada pelas marcas da verdadeira igreja, através da obra do Espírito Santo. Franklin Ferreira explora como o avivamento se desvia de números grandiosos e se fundamenta na transformação e na renovação da vida da comunidade de fé, abordando a história da redenção e o papel essencial da oração e do Espírito Santo.",
+  "exemplar_id": 617,
+  "sku": "LI00GK",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/franklin-ferreira--avivamento-para-a-igreja--capa--20250227--152854.jpg",
+  "contracapa": "static/uploads/franklin-ferreira--avivamento-para-a-igreja--contracapa--20250227--152854.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:31:11",
+  "observacoes": null
+}

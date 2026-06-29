@@ -1,0 +1,63 @@
+{
+  "obra_id": 2697,
+  "autor": "Alfredo Boente; Gláucia Braga",
+  "titulo": "Metodologia científica contemporânea",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "boente metodologia cientifica contemporanea",
+  "edicao_id": 2677,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 175,
+  "peso": 300,
+  "isbn": "9788574521572",
+  "editora": "Brasport",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Com uma abordagem prática, apresenta exemplos de anteprojetos e projetos, seguindo o padrão metodológico da ABNT. A obra oferece técnicas e dicas para a redação científica, incluindo o uso de computadores e da internet como ferramentas de trabalho. Além disso, ensina como veicular textos científicos online. Recomendada para alunos e professores, a obra é um guia essencial para quem busca aprofundar-se na produção acadêmica e científica.",
+  "exemplar_id": 2676,
+  "sku": "LI01OX",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/metodologia-cientifica-contemporanea-para-universitarios-e-pesquisadores-alfredo-boente-capa_rev1634.jpg",
+  "contracapa": "static/uploads/metodologia-cientifica-contemporanea-para-universitarios-e-pesquisadores-alfredo-boente-contracapa_rev26.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:51:31",
+  "observacoes": null
+}

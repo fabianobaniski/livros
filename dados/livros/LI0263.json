@@ -1,0 +1,68 @@
+{
+  "obra_id": 3317,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance. Vida escolar.",
+  "palavras_chave": "saburouta citrus",
+  "edicao_id": 3297,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788583622444",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p><b>Yuzu</b> e <b>Mei</b>, finalmente, começam a namorar.<br>Enquanto isso, <b>Nene</b>, uma fã de <b>Yuzu</b>, causa tumulto ao tingir o cabelo de castanho como sua ídola.<br><b>Yuzu</b> a defende e <b>Mitsuko</b>, a ex-presidente do Conselho Estudantil e irmã mais velha de <b>Harumi</b>, faz uma proposta para resolver a situação...</p>",
+  "sinopse": "Yuzu e Mei finalmente iniciam um namoro, mas novos desafios surgem quando Nene, uma fã de Yuzu, começa a causar confusão ao adotar o visual de sua ídola. Em meio à agitação, Mitsuko, ex-presidente do Conselho Estudantil e irmã mais velha de Harumi, oferece uma solução para o conflito. O romance é posto à prova enquanto a dinâmica entre as personagens se intensifica.",
+  "exemplar_id": 3296,
+  "sku": "LI0263",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2025-11-05_16-25-12-910730.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2025-11-05_16-25-12-949693.jpg",
+  "fotos": [
+    "static/uploads/citrus__saburouta__foto-01__2025-11-05_16-25-12-963288.jpg",
+    "static/uploads/citrus__saburouta__foto-02__2025-11-05_16-25-12-994297.jpg",
+    "static/uploads/citrus__saburouta__foto-03__2025-11-05_16-25-13-021139.jpg",
+    "static/uploads/citrus__saburouta__foto-04__2025-11-05_16-25-13-046425.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:11:07",
+  "observacoes": null
+}

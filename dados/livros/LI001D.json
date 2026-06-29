@@ -1,0 +1,68 @@
+{
+  "obra_id": 53,
+  "autor": "Vários autores",
+  "titulo": "O livro da ciência",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Ciência. História da ciência. Descobertas científicas. Pensadores.",
+  "palavras_chave": "livro ciencia grandes ideias",
+  "edicao_id": 53,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 352,
+  "peso": 1200,
+  "isbn": "9788525057921",
+  "editora": "Globo Livros",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O universo começou com o Big Bang? A luz é uma onda, uma partícula – ou os dois? Nós somos a causa do aquecimento global? Existem outros universos?</p> <p>A ciência tornou possível compreender o mundo em que vivemos, proporcionou avanços tecnológicos e ampliou as fronteiras do conhecimento.</p> <p>Escrito por professores e estudiosos de maneira simples e acessível, este é o mais completo e atualizado livro sobre ciência. Traz biografias e citações de grandes pensadores, linhas do tempo com os principais acontecimentos de cada período, diagramas que simplificam teorias complexas e ilustrações divertidas que desafiam nosso entendimento sobre o tema.</p> <p>Seja você um leitor curioso, um estudante aplicado ou até mesmo um especialista no assunto, <i>O livro da ciência</i> vai saciar sua sede de conhecimento.</p>",
+  "sinopse": "Uma introdução acessível e ilustrada às grandes ideias da ciência, cobrindo desde o Big Bang até a seleção natural, com biografias de cientistas e explicações simplificadas sobre conceitos complexos.",
+  "exemplar_id": 52,
+  "sku": "LI001D",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 34.0,
+  "capa": "static/uploads/v-rios-autores--o-livro-da-ci-ncia--capa--20250225--225728.jpg",
+  "contracapa": "static/uploads/v-rios-autores--o-livro-da-ci-ncia--contracapa--20250225--225728.jpg",
+  "fotos": [
+    "static/uploads/v-rios-autores--o-livro-da-ci-ncia--foto1--20250225--225728.jpg",
+    "static/uploads/v-rios-autores--o-livro-da-ci-ncia--foto2--20250225--225728.jpg",
+    "static/uploads/v-rios-autores--o-livro-da-ci-ncia--foto3--20250225--225728.jpg",
+    "static/uploads/v-rios-autores--o-livro-da-ci-ncia--foto4--20250225--225728.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Ricamente ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:24:28",
+  "observacoes": null
+}

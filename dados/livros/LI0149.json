@@ -1,0 +1,68 @@
+{
+  "obra_id": 1951,
+  "autor": "Antonio Cesar Amaru Maximiano",
+  "titulo": "Empreendedorismo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Empreendedorismo. Finanças. Plano de negócios.",
+  "palavras_chave": "maximiano empreendedorismo",
+  "edicao_id": 1931,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 170,
+  "peso": 270,
+  "isbn": "9788564574342",
+  "editora": "Pearson",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "Bibliografia Universitária Pearson",
+  "volume": null,
+  "transcricao_contracapa": "<b>Empreendedorismo</b><br><b>Antonio Cesar Amaru Maximiano</b><p>Baseados na premissa de que o ensino atual exige um processo flexível de construção do saber, os livros que compõem a Bibliografia Universitária Pearson são concisos sem serem rasos e simples sem serem simplistas. Para tanto, eles apresentam os principais conceitos dos temas propostos em uma estrutura didática única, com linguagem dialógica, diagramação diferenciada e hipertextos, entre outros elementos.</p><p>Em <b>Empreendedorismo</b>, isso não é diferente. Nele, tópicos como contabilidade e finanças, planejamento e estrutura, plano de negócios e atividades de alta alavancagem – que, dependendo da abordagem, podem parecer complicados – são apresentados de um ponto de vista inusitado que, ao mostrar como as coisas funcionam na prática, possibilita ao leitor um processo intensivo (e real) de aprendizagem.</p>",
+  "sinopse": "O livro apresenta os principais conceitos sobre empreendedorismo em uma estrutura didática única e linguagem acessível. Tópicos como contabilidade, finanças, planejamento, plano de negócios e atividades de alta alavancagem são explicados de forma prática, facilitando o processo de aprendizagem intensivo e real para o leitor.",
+  "exemplar_id": 1930,
+  "sku": "LI0149",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/antonio-cesar-amaru-maximiano--empreendedorismo--capa--20250430--104306.jpg",
+  "contracapa": "static/uploads/antonio-cesar-amaru-maximiano--empreendedorismo--contracapa--20250430--104306.jpg",
+  "fotos": [
+    "static/uploads/antonio-cesar-amaru-maximiano--empreendedorismo--foto1--20250430--104306.jpg",
+    "static/uploads/antonio-cesar-amaru-maximiano--empreendedorismo--foto2--20250430--104306.jpg",
+    "static/uploads/antonio-cesar-amaru-maximiano--empreendedorismo--foto3--20250430--104306.jpg",
+    "static/uploads/antonio-cesar-amaru-maximiano--empreendedorismo--foto4--20250430--104306.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:17:58",
+  "observacoes": "procedencia_biblioteca"
+}

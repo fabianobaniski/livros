@@ -1,0 +1,68 @@
+{
+  "obra_id": 1774,
+  "autor": "Anna Cecilia de Moraes Bianchi; Marina Alvarenga; Roberto Bianchi",
+  "titulo": "Estágio Supervisionado",
+  "subtitulo": "Manual de orientação",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Ensino superior. Estágio supervisionado. Metodologia científica.",
+  "palavras_chave": "bianchi estagio supervisionado manual orientacao",
+  "edicao_id": 1754,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 98,
+  "peso": 180,
+  "isbn": "9788522107209",
+  "editora": "Cengage Learning",
+  "numero_edicao": 4,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Manual de Orientação • Estágio Supervisionado</b><br>4ª EDIÇÃO REVISTA</p><p>O conhecimento, antes privilégio de uma minoria, encontra-se hoje disseminado para os vários segmentos da sociedade. No entanto, quanto maior a facilidade de acesso a ele, maior grau de exigência e, consequentemente, mais acirrada é a concorrência. É preciso estar bem preparado.</p><p>Nesse contexto, os trabalhos acadêmicos, incluindo o estágio supervisionado, adquirem fundamental importância porque possibilitam ao aluno pesquisar, vivenciar práticas referentes à sua área de futura atuação e expressar suas ideias de maneira clara e organizada, diminuindo sua ansiedade ao enfrentar o mercado de trabalho.</p><p><b>Aplicações</b><br>Destina-se a alunos e professores orientadores de cursos profissionalizantes, na disciplina estágio supervisionado. Ferramenta indispensável para a realização de trabalhos científicos e de conclusão de cursos, projetos, monografias, entre outros.</p>",
+  "sinopse": "O 'Manual de Orientação: Estágio Supervisionado' destaca a importância dos trabalhos acadêmicos e do estágio supervisionado para a formação dos estudantes, ao proporcionar experiências práticas em sua área de atuação e ao desenvolver habilidades essenciais para o mercado de trabalho. O livro é destinado a alunos e professores orientadores de cursos profissionalizantes, oferecendo ferramentas indispensáveis para a elaboração de trabalhos científicos, projetos e monografias.",
+  "exemplar_id": 1753,
+  "sku": "LI00ZD",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/anna-cecilia-de-moraes-bianchi--est-gio-supervisionado--capa--20250430--102945.jpg",
+  "contracapa": "static/uploads/anna-cecilia-de-moraes-bianchi--est-gio-supervisionado--contracapa--20250430--102945.jpg",
+  "fotos": [
+    "static/uploads/anna-cecilia-de-moraes-bianchi--est-gio-supervisionado--foto1--20250430--102945.jpg",
+    "static/uploads/anna-cecilia-de-moraes-bianchi--est-gio-supervisionado--foto2--20250430--102945.jpg",
+    "static/uploads/anna-cecilia-de-moraes-bianchi--est-gio-supervisionado--foto3--20250430--102945.jpg",
+    "static/uploads/anna-cecilia-de-moraes-bianchi--est-gio-supervisionado--foto4--20250430--102945.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:40:59",
+  "observacoes": "procedencia_biblioteca"
+}

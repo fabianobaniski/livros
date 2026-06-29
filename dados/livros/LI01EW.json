@@ -1,0 +1,63 @@
+{
+  "obra_id": 2335,
+  "autor": "Cecilia Helena de Salles Oliveira",
+  "titulo": "A Independência e a construção do Império",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "oliveira independencia construcao imperio",
+  "edicao_id": 2315,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 121,
+  "peso": 234,
+  "isbn": "9788570567642",
+  "editora": "Atual",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Discutindo a História do Brasil é uma coleção que visa proporcionar ao leitor uma visão ampla e crítica do passado brasileiro. Com temas variados e desenvolvidos por diferentes autores, a coleção oferece abordagens distintas que permitem a estudantes e professores refletirem sobre o processo histórico e suas interpretações. Os volumes publicados incluem discussões sobre a cidade e a cultura urbana na Primeira República, a conquista portuguesa e seus impactos nos indígenas, o escravismo no Brasil e as fronteiras e guerras no Prata.",
+  "exemplar_id": 2314,
+  "sku": "LI01EW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/cecilia-helena-de-salles-oliveira--a-independencia-e-a-construcao-do-imperio--capa--20260316--100323.jpg",
+  "contracapa": "static/uploads/cecilia-helena-de-salles-oliveira--a-independencia-e-a-construcao-do-imperio--contracapa--20260316--100329.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:27:13",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2703,
+  "autor": "Godfrey H. Jansen",
+  "titulo": "Militant Islam",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "jansen militant islam",
+  "edicao_id": 2683,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 224,
+  "peso": 300,
+  "isbn": "9780060122027",
+  "editora": "Harper & Row",
+  "numero_edicao": null,
+  "ano": 1979,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O islamismo militante tem moldado o cenário global, especialmente no Oriente Médio, onde sua influência é mais visível. Contudo, dentro desse movimento há tensões e contradições, fruto de sociedades transformadas pela riqueza repentina do petróleo e pela luta por adaptação à ordem mundial moderna. G.H. Jansen examina a militância islâmica de 1800 até o presente, destacando a ascensão de líderes como o aiatolá Khomeini e o general Zia do Paquistão, que buscam um retorno estrito aos preceitos do Corão.",
+  "exemplar_id": 2682,
+  "sku": "LI01P3",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/militant-islam-godfrey-h-jansen-capa_rev111.jpg",
+  "contracapa": "static/uploads/militant-islam-godfrey-h-jansen-contracapa_rev1398.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:00:21",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1920,
+  "autor": "Silvio Aparecido Crepaldi",
+  "titulo": "Contabilidade gerencial",
+  "subtitulo": "Teoria e prática",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade gerencial. Controle interno. Custeio. Redução de custos. Indicadores de desempenho empresarial.",
+  "palavras_chave": "crepaldi contabilidade gerencial teoria pratica",
+  "edicao_id": 1900,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 398,
+  "peso": 700,
+  "isbn": "9788522451661",
+  "editora": "Atlas",
+  "numero_edicao": 4,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>CONTABILIDADE GERENCIAL<br>Teoria e Prática</b><p>Esta obra apresenta os fundamentos teóricos e as bases operacionais da Contabilidade Gerencial, tanto para o ensino como para a prática empresarial. Para melhor compreensão dos textos, alguns tópicos foram ilustrados com ferramentas ao final dos capítulos, como <i>questões objetivas, exercícios de fixação, gabarito e caso prático</i>.</p><p>Mostra que as empresas estão em constantes mudanças, e cada vez mais necessitam de controles precisos e de informações oportunas sobre seu negócio para adequar as suas operações às novas situações.</p><p>O texto evidencia que a importância do Controle Interno está relacionada com a necessidade de normatização de controles que possam garantir o fluxo das operações e informações.</p><p>Demostra também que o Sistema de Custeio Baseado em Atividades surge para reduzir as distorções causadas pela arbitrariedade do rateio dos custos indiretos de fabricação.</p><p>Entre outros conceitos, o livro analisa e justifica que:</p><ul><li>Custeio RKW é a junção de todos os tipos de custos, despesas aos produtos a serem vendidos pela empresa, onde se define um número agregado médio para as unidades, minimizando os gastos totais da empresa, auxiliando a gerenciar os números.</li><li>Custo Padrão, empresarialmente falando, fornece melhores gráficos/apresentações na avaliação da produção e estoque, muito utilizados para estabelecer a meta para produção de seus produtos, tanto como padrão, corrente e estimado para determinado projeto.</li><li><i>Target costing</i> – custo alvo ou custo meta ou custo a se atingir – é muito usado para metas de crescimento de mercado, pois se estuda todo o ciclo para se atingir um preço chegando ao cliente, tudo através das especificações.</li><li><i>Kaizen</i> é o conjunto mais comum e usado pelas empresas, pois foca a busca da melhoria contínua aliada à redução dos custos em todo o processo de fabricação do produto, buscando menor distância entre custos, lucros desejados, lucros estimados.</li></ul><p>Justifica uma ferramenta que promete avaliar a relação de causa e efeito entre os indicadores quantitativos e qualitativos, dividindo-os em quatro perspectivas básicas: financeira, do cliente, de processos, e de aprendizado e crescimento. Esta ferramenta é o <i>Balanced Scorecard</i>, hoje conhecido simplesmente como BSC.</p><b>Aplicação</b><p>Livro-texto para a disciplina <i>Contabilidade Gerencial</i> dos cursos de Ciências Contábeis, Administração de Empresas, Economia, Análise de Sistemas de Informação, Ciência da Computação e Administração de Produção. Livro de consulta para contadores, administradores, economistas, analistas de sistemas e engenheiros de produção, bem como para empresários e, principalmente, para os executivos, gerentes e empreendedores envolvidos no processo de decisão empresarial que exige otimização de custos de produção.</p>",
+  "sinopse": "Esta obra apresenta os fundamentos teóricos e operacionais da Contabilidade Gerencial, sendo indicada para ensino e prática empresarial. Aborda temas como controle interno, custeio baseado em atividades, custeio RKW, custo padrão, target costing e kaizen, além de utilizar o Balanced Scorecard para análise de indicadores. Indicada como livro-texto para cursos e consulta para profissionais e gestores que atuam na otimização de custos e tomada de decisões empresariais.",
+  "exemplar_id": 1899,
+  "sku": "LI013E",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/silvio-aparecido-crepaldi--contabilidade-gerencial--capa--20250430--104301.jpg",
+  "contracapa": "static/uploads/silvio-aparecido-crepaldi--contabilidade-gerencial--contracapa--20250430--104301.jpg",
+  "fotos": [
+    "static/uploads/silvio-aparecido-crepaldi--contabilidade-gerencial--foto1--20250430--104301.jpg",
+    "static/uploads/silvio-aparecido-crepaldi--contabilidade-gerencial--foto2--20250430--104301.jpg",
+    "static/uploads/silvio-aparecido-crepaldi--contabilidade-gerencial--foto3--20250430--104301.jpg",
+    "static/uploads/silvio-aparecido-crepaldi--contabilidade-gerencial--foto4--20250430--104301.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:10:36",
+  "observacoes": "procedencia_biblioteca"
+}

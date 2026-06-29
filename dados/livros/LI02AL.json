@@ -1,0 +1,68 @@
+{
+  "obra_id": 3482,
+  "autor": "Nakaba Suzuki",
+  "titulo": "The Seven Deadly Sins",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Aventura.",
+  "palavras_chave": "suzuki seven deadly sins",
+  "edicao_id": 3459,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 170,
+  "isbn": "9788545701422",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "Nanatsu no Taizai",
+  "volume": 12,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3458,
+  "sku": "LI02AL",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 52.0,
+  "capa": "static/uploads/the-seven-deadly-sins__nakaba-suzuki__capa__2025-11-05_16-15-49-681587.jpg",
+  "contracapa": "static/uploads/the-seven-deadly-sins__nakaba-suzuki__contracapa__2025-11-05_16-15-49-719076.jpg",
+  "fotos": [
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-01__2025-11-05_16-15-49-751474.jpg",
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-02__2025-11-05_16-15-49-784504.jpg",
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-03__2025-11-05_16-15-49-806000.jpg",
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-04__2025-11-05_16-15-49-905461.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:05:22",
+  "observacoes": null
+}

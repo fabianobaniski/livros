@@ -1,0 +1,68 @@
+{
+  "obra_id": 5836,
+  "autor": "Harlan Coben",
+  "titulo": "Seis anos depois",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Suspense. Mistério. Amor perdido. Segredos.",
+  "palavras_chave": "coben seis anos depois",
+  "edicao_id": 5811,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 267,
+  "peso": 430,
+  "isbn": "9786555650310",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>\"Harlan Coben é um dos maiores autores de suspense da atualidade. Não espere seis anos para ler um dos melhores livros dele.\"</b><br><i>Library Journal</i></p><p>Jake Fisher e Natalie Avery se conheceram e se apaixonaram durante um verão. Juntos, viveram os melhores meses de suas vidas.</p><p>Por isso, Jake não entendeu quando Natalie decidiu terminar com ele e se casar com Todd, um ex-namorado. No dia do casamento, ela pediu a Jake que nunca mais voltasse a procurá-la.</p><p>Seis anos depois, ao ver o obituário de Todd no jornal, Jake não resiste e resolve se reaproximar de Natalie. Mas, no enterro, ao procurar a viúva, ele encontra uma pessoa completamente diferente. Logo fica claro que o casamento não passou de uma farsa, e tudo o que ele achava que sabia sobre Natalie começa a desmoronar.</p><p>Agora Jake está decidido a ir atrás dela e passar a história deles a limpo, mas não imagina os perigos que envolvem procurar uma pessoa que não quer ser encontrada.</p><p>Em <i>Seis anos depois</i>, Harlan Coben usa todo o seu talento para criar uma trama sensacional sobre um amor perdido e os segredos que ele esconde.</p>",
+  "sinopse": "Jake Fisher viveu um grande amor com Natalie Avery, mas foi surpreendido quando ela terminou o relacionamento para se casar com outro homem. Seis anos depois, ao ver o obituário do marido de Natalie, Jake decide procurá-la, mas, no enterro, descobre que a viúva é uma mulher diferente. Ao perceber que tudo o que sabia sobre Natalie era uma mentira, Jake se lança numa busca perigosa, enfrentando inúmeros riscos para encontrar a mulher que não quer ser encontrada. 'Seis anos depois' é uma trama envolvente sobre amor perdido e segredos ocultos.",
+  "exemplar_id": 5810,
+  "sku": "LI0379",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/seis-anos-depois__none__harlan-coben__capa__2026-01-18_14-12-07-857580-000.png",
+  "contracapa": "static/uploads/seis-anos-depois__none__harlan-coben__contracapa__2026-01-18_14-12-07-924051-001.png",
+  "fotos": [
+    "static/uploads/seis-anos-depois__none__harlan-coben__foto-01__2026-01-18_14-12-07-952422-002.jpg",
+    "static/uploads/seis-anos-depois__none__harlan-coben__foto-02__2026-01-18_14-12-07-992101-003.jpg",
+    "static/uploads/seis-anos-depois__none__harlan-coben__foto-03__2026-01-18_14-12-08-024636-004.jpg",
+    "static/uploads/seis-anos-depois__none__harlan-coben__foto-04__2026-01-18_14-12-08-051816-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:54:37",
+  "observacoes": null
+}

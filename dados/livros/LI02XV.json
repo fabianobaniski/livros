@@ -1,0 +1,63 @@
+{
+  "obra_id": 5275,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Transformação. Superação de bullying. Amizade.",
+  "palavras_chave": "oshimi happiness",
+  "edicao_id": 5250,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 210,
+  "isbn": "9788583621973",
+  "editora": "NewPop",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Eu não sou assim.</p> <p>Após ser <b>atacado</b> por uma <u>garota misteriosa</u>, Makoto sofre uma <b>transformação</b>.</p> <p>Ele adquire <b>habilidades físicas incríveis</b> e passa a sentir uma sede incessante só de ver “<u>sangue</u>”.</p> <p>Mas graças a esse incidente, ele faz amizade com Yukiko, com Yuuki, de quem sofria bullying e com Nao, a namorada do bully.</p> <p>Eles se <b>divertem</b> juntos, mas essa felicidade <b>não dura muito tempo</b>.</p> <p>O “<b>despertar</b>” de Makoto provoca uma <b>mudança drástica</b> na vida deles!!</p>",
+  "sinopse": "Makoto, após ser atacado por uma garota misteriosa, sofre uma transformação que lhe dá habilidades físicas incríveis e uma sede incessante por sangue. Apesar das mudanças, ele faz amizade com Yukiko, Yuuki e Nao. No entanto, a felicidade do grupo não dura muito tempo, pois o despertar de Makoto traz uma mudança drástica em suas vidas.",
+  "exemplar_id": 5249,
+  "sku": "LI02XV",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2026-02-20_10-33-05-025678-000.png",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2026-02-20_10-33-05-058874-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Apresenta apenas mínimos vestígios de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

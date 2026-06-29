@@ -1,0 +1,68 @@
+{
+  "obra_id": 442,
+  "autor": "Holly Black; Ally Carter; Matt de la Peña; Gayle Forman; Jenny Han; David Levithan; Kelly Link; Myra McEntire; Stephanie Perkins; Rainbow Rowell; Laini Taylor; Kiersten White",
+  "titulo": "O presente do meu grande amor",
+  "subtitulo": "Doze histórias de Natal",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção Juvenil. Natal. Romance.",
+  "palavras_chave": "black presente grande amor",
+  "edicao_id": 427,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 350,
+  "peso": 380,
+  "isbn": "9788580576252",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Doze histórias emocionantes para a melhor época do ano</h1> <p>Se você gosta do clima de fim de ano e tudo o que ele envolve — presentes, árvores enfeitadas, luzes pisca-pisca, beijo à meia-noite —, vai se apaixonar por <b>O presente do meu grande amor</b>.</p> <p>Nestas doze histórias escritas por alguns dos mais populares autores da atualidade, há um pouco de tudo, não importa se você comemora o Natal, o ano-novo, o Chanucá ou o solstício de inverno.</p> <p>Casais se formam, famílias se reencontram, seres mágicos surgem e desejos impossíveis se realizam. O pessimismo não tem lugar neste livro — afinal, o Natal é época de esperança.</p> <blockquote>“Com um texto rico e cuidadoso, cada conto surpreende pelo frescor e pela sofisticação. Não há nada fora do lugar.” <br> <i>Kirkus Reviews</i></blockquote>",
+  "sinopse": "O presente do meu grande amor reúne doze histórias que capturam a essência do Natal e das festividades de fim de ano. Os contos oferecem uma mistura de amor, esperança e magia, apresentando casais que se formam, reencontros familiares e desejos impossíveis que se tornam realidade. Um livro que celebra a alegria e a magia desta época do ano.",
+  "exemplar_id": 426,
+  "sku": "LI00B9",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/holly-black--o-presente-do-meu-grande-amor--capa--20250226--133829.jpg",
+  "contracapa": "static/uploads/holly-black--o-presente-do-meu-grande-amor--contracapa--20250226--133829.jpg",
+  "fotos": [
+    "static/uploads/holly-black--o-presente-do-meu-grande-amor--foto1--20250226--133829.jpg",
+    "static/uploads/holly-black--o-presente-do-meu-grande-amor--foto2--20250226--133829.jpg",
+    "static/uploads/holly-black--o-presente-do-meu-grande-amor--foto3--20250226--133829.jpg",
+    "static/uploads/holly-black--o-presente-do-meu-grande-amor--foto4--20250226--133829.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:37:51",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 943,
+  "autor": "Sarah Jio",
+  "titulo": "O bangalô",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura romântica. Segunda Guerra Mundial. Mistério.",
+  "palavras_chave": "jio bangalo",
+  "edicao_id": 928,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 320,
+  "peso": 400,
+  "isbn": "9788581638034",
+  "editora": "Novo Conceito",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Estive sonhando com praias de areias brancas e palmeiras - o lugar que minha mente inconsciente sempre tenta visitar mas, desta vez, tive a sorte de conseguir encontrá-lo nos arquivos de minhas lembranças.</p> <p>Anne vive com as recordações de seu passado, que fora repleto de amor, mistério e tristeza. O cenário desses acontecimentos: a Segunda Guerra Mundial.</p> <p>Quando Jennifer, neta de Anne, entrega-lhe uma carta vinda de um remetente desconhecido - fazendo perguntas sobre um assassinato em 1943 -, Anne não tem outra escolha a não ser contar sua história.</p> <p>Um amor verdadeiro e profundo, amizades fortes com base na cumplicidade, uma morte misteriosa e as atrocidades da guerra embalaram a vida de Anne.</p> <p>Entretanto, alguns porquês de sua história ainda não foram respondidos. Será que ela descobrirá toda a verdade para enfim ser completamente feliz?</p> <p>Leia também:</p>",
+  "sinopse": "Anne, presa às recordações de um passado repleto de amor e tristeza em meio à Segunda Guerra Mundial, é confrontada por sua neta Jennifer, que a leva a recontar sua história após receber uma carta de um remetente desconhecido. Segredos profundos e uma busca por verdades não respondidas estão no cerne dessa narrativa que explora a complexidade das emoções humanas e as cicatrizes da guerra.",
+  "exemplar_id": 927,
+  "sku": "LI00P1",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/sarah-jio--o-bangal---capa--20250227--152915.jpg",
+  "contracapa": "static/uploads/sarah-jio--o-bangal---contracapa--20250227--152915.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, ainda parcialmente lacrado no plástico!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:55:00",
+  "observacoes": null
+}

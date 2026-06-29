@@ -1,0 +1,63 @@
+{
+  "obra_id": 3169,
+  "autor": "Carlos Ramalhete",
+  "titulo": "Ratio Divina",
+  "subtitulo": "a Ordem de Todas as Coisas - Volume 1",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "ramalhete ratio divina ordem",
+  "edicao_id": 3149,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 242,
+  "peso": 350,
+  "isbn": "9786580338016",
+  "editora": "Viv",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Reflexão sobre a eternidade através da escrita de Carlos Ramalhete, que compara a condição humana à eternidade, desafiando-nos a confrontar o infinito. O autor nos lembra de nossa humanidade ao abordar temas como política, religião, internet, cultura e moralidade, fornecendo uma análise que ressoa com as verdades essenciais e perenes. Ramalhete verbaliza nossas impressões, revelando o óbvio que a modernidade obscurece, instigando-nos a apreciar o profundo, o oculto e o latente. Sua obra é descrita como um farol de sabedoria, clareza e verdade...",
+  "exemplar_id": 3148,
+  "sku": "LI0221",
+  "preco_estante_virtual": 110.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação geral, possuindo apenas leves sinais deixados pelo uso e pela passagem dos anos. Não possui anotações, sublinhados, marcas de umidade, mofo, traça ou sol excessivo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:26:42",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 984,
+  "autor": "Almir dos Santos Gonçalves Júnior",
+  "titulo": "Histórias que a Bíblia não contou",
+  "subtitulo": "Encontros com Jesus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia.",
+  "palavras_chave": "goncalves historias biblia encontros",
+  "edicao_id": 969,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 311,
+  "peso": 300,
+  "isbn": "9788580640687",
+  "editora": "Geográfica",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Uma visão sobre o antes e o depois dos diálogos maiores e menores dos encontros de Jesus com aqueles que o seguiram:</h1><ul><li>João, o Batista</li><li>Nicodemos, o fariseu discípulo</li><li>Tomé, o discípulo que duvidou</li><li>Zila, a mulher enferma</li><li>Ana, a mulher pecadora</li><li>Jairo, o príncipe da Sinagoga</li><li>Léia, a mulher de Sicar</li><li>Mizael, o paralítico de Cafarnaum</li><li>e outros 34 personagens bíblicos que tiveram a alegria de um encontro com Jesus.</li></ul><p>Podemos imaginar muitas coisas que teriam ocorrido em determinadas situações narradas na Bíblia, sem que, com isso, estejamos ferindo sua autenticidade - basta que a imagem montada não contrarie, no conteúdo e na forma, o fato explicitamente registrado na Palavra de Deus.</p><p>É exatamente isso que este livro pretende proporcionar ao leitor: uma visão daquilo que pode ter acontecido antes e depois de determinados fatos registrados nas Sagradas Escrituras. Neste volume, 42 desses encontros com Jesus, que não estão narrados no Novo Testamento, são reproduzidos.</p>",
+  "sinopse": "O livro apresenta uma análise dos diálogos e encontros que Jesus teve com diversas figuras bíblicas. Aborda os eventos antes e depois dessas interações e traz a vida de personagens como João, o Batista e Nicodemos, fornecendo um novo olhar sobre as narrativas conhecidas e aquelas não mencionadas nas Escrituras.",
+  "exemplar_id": 968,
+  "sku": "LI00Q6",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/almir-dos-santos-gon-alves-j-nior--hist-rias-que-a-b-blia-n-o-contou--capa--20250305--154113.jpg",
+  "contracapa": "static/uploads/almir-dos-santos-gon-alves-j-nior--hist-rias-que-a-b-blia-n-o-contou--contracapa--20250305--154113.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:53:18",
+  "observacoes": null
+}

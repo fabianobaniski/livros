@@ -1,0 +1,63 @@
+{
+  "obra_id": 2659,
+  "autor": "Joerg Rieger",
+  "titulo": "Lembrar-se dos pobres",
+  "subtitulo": "O desafio da teologia no século XX",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "rieger lembrarse dos pobres",
+  "edicao_id": 2639,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 358,
+  "peso": 300,
+  "isbn": "9788515014798",
+  "editora": "Loyola",
+  "numero_edicao": 1,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro examina a teologia à luz das realidades da pobreza, sofrimento e exclusão no mundo moderno. Ao questionar o papel da teologia tradicional e a forma como ela muitas vezes marginaliza os mais vulneráveis, a obra propõe uma nova perspectiva que dá voz àqueles que têm sido silenciados. Com uma abordagem crítica e inclusiva, busca repensar o conceito de justiça, convidando o leitor a uma reflexão profunda sobre o compromisso ético e a solidariedade global, em um mundo marcado pela desigualdade.",
+  "exemplar_id": 2638,
+  "sku": "LI01NV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/lembrarse-dos-pobres-joerg-rieger-capa_rev1951.jpg",
+  "contracapa": "static/uploads/lembrarse-dos-pobres-joerg-rieger-contracapa_rev2135.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Nenhum carimbo, selo ou assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:30:05",
+  "observacoes": null
+}

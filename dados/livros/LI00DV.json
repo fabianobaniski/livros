@@ -1,0 +1,63 @@
+{
+  "obra_id": 536,
+  "autor": "Ruth A. Tucker",
+  "titulo": "A primeira-dama da Reforma",
+  "subtitulo": "A extraordinária vida de Catarina von Bora",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura biográfica. Questões de gênero. Reforma Protestante.",
+  "palavras_chave": "tucker primeira dama reforma",
+  "edicao_id": 521,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 221,
+  "peso": 350,
+  "isbn": "9788578603700",
+  "editora": "Thomas Nelson Brasil",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Fazendeira, administradora marcante, mulher nada convencional para sua época. Apesar de ser conhecida por causa de seu ilustre marido, Martinho Lutero, Catarina von Bora não foi uma esposa aceitável para o século xvi – e também não seria hoje. Ainda assim, foi ela a responsável por trazer estabilidade à vida de Lutero e possibilitar que ele se transformasse na figura que foi. Catarina foi a personagem mais indispensável da Reforma além depois do próprio marido.</p> <p>É a história dessa mulher forte e ousada que Ruth Tucker retrata em A primeira-dama da Reforma. Da rotina no convento à fuga e aos vinte anos de matrimônio com Lutero, Tucker narra a vida dessa extraordinária camponesa do século xvi e mostra que, passados 500 anos, Catarina ainda é surpreendente e relevante – e sua personalidade única permanece moderna mesmo nos dias de hoje.</p>",
+  "sinopse": "Este livro apresenta a trajetória extraordinária de Catarina von Bora, uma mulher que desafiou as normas do século xvi e que foi essencial para a vida do reformador Martinho Lutero. Ruth A. Tucker narra a vida de Catarina, desde sua fuga de um convento até os desafios enfrentados em mais de vinte anos de casamento, mostrando como sua força e personalidade ainda ressoam nos dias atuais.",
+  "exemplar_id": 520,
+  "sku": "LI00DV",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/ruth-a--tucker--a-primeira-dama-da-reforma--capa--20250227--152848.jpg",
+  "contracapa": "static/uploads/ruth-a--tucker--a-primeira-dama-da-reforma--contracapa--20250227--152848.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:39:48",
+  "observacoes": null
+}

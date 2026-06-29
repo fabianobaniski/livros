@@ -1,0 +1,68 @@
+{
+  "obra_id": 3293,
+  "autor": "Mitsuru Hattori",
+  "titulo": "Sankarea",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá.",
+  "palavras_chave": "hattori sankarea",
+  "edicao_id": 3273,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 140,
+  "isbn": "7897653521500",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3272,
+  "sku": "LI025F",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/sankarea__mitsuru-hattori__capa__2025-11-05_16-24-57-968794.jpg",
+  "contracapa": "static/uploads/sankarea__mitsuru-hattori__contracapa__2025-11-05_16-24-58-001691.jpg",
+  "fotos": [
+    "static/uploads/sankarea__mitsuru-hattori__foto-01__2025-11-05_16-24-58-537836.jpg",
+    "static/uploads/sankarea__mitsuru-hattori__foto-02__2025-11-05_16-24-59-096138.jpg",
+    "static/uploads/sankarea__mitsuru-hattori__foto-03__2025-11-05_16-24-59-140019.jpg",
+    "static/uploads/sankarea__mitsuru-hattori__foto-04__2025-11-05_16-24-59-320285.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:17:07",
+  "observacoes": null
+}

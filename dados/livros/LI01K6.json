@@ -1,0 +1,63 @@
+{
+  "obra_id": 2526,
+  "autor": "Anamaria de Moraes; Bianka C. Frisoni",
+  "titulo": "Ergodesign",
+  "subtitulo": "Produtos e processos",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "moraes ergodesign produtos processos",
+  "edicao_id": 2506,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 350,
+  "isbn": "9788586695230",
+  "editora": "2ab",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra traz exemplos práticos que demonstram a importância da ergonomia na criação de objetos funcionais e confortáveis, enfatizando a integração do ser humano com o ambiente físico. Com textos claros e objetivos, o livro é uma referência para profissionais e estudantes interessados no aperfeiçoamento de produtos ergonômicos e na otimização de processos de design.",
+  "exemplar_id": 2505,
+  "sku": "LI01K6",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/anamaria-de-moraes--ergodesign--capa--20260316--194034.jpg",
+  "contracapa": "static/uploads/anamaria-de-moraes--ergodesign--contracapa--20260316--194034.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel discretamente amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados. Há selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:22:12",
+  "observacoes": null
+}

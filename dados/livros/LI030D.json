@@ -1,0 +1,63 @@
+{
+  "obra_id": 5588,
+  "autor": "Masakazu Katsura",
+  "titulo": "Zetman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Super-heróis.",
+  "palavras_chave": "katsura zetman",
+  "edicao_id": 5563,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 170,
+  "isbn": "9788545703143",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 19,
+  "transcricao_contracapa": "<p>Haitani não vai deixar Jin em paz tão facilmente. O despertar do Zet faz Hanako virar do avesso...! Kouga está cego por sua fervorosa obsessão por justiça e pode se tornar um inimigo perigoso. Como Jin conciliará tantos conflitos de uma só vez!</p>",
+  "sinopse": "Haitani está decidido a não dar sossego a Jin. O despertar do Zet coloca Hanako em uma situação caótica, enquanto Kouga, obcecado por justiça, pode se tornar uma ameaça. Jin precisa lidar com inúmeros conflitos simultaneamente.",
+  "exemplar_id": 5562,
+  "sku": "LI030D",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/zetman__masakazu-katsura__capa__2026-02-24_13-36-34-416687-000.jpg",
+  "contracapa": "static/uploads/zetman__masakazu-katsura__contracapa__2026-02-24_13-36-34-501018-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

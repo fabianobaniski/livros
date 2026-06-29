@@ -1,0 +1,68 @@
+{
+  "obra_id": 2298,
+  "autor": "James A. O'Brien",
+  "titulo": "Sistemas de informação e as decisões gerenciais na era da internet",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Informática. Tecnologia da informação. Decisão gerencial. E-business. E-commerce.",
+  "palavras_chave": "obrien sistemas informacao",
+  "edicao_id": 2278,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 429,
+  "peso": 1120,
+  "isbn": "9788502044074",
+  "editora": "Saraiva",
+  "numero_edicao": 2,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Sistemas de Informação e as Decisões Gerenciais na Era da Internet</h1><p>De forma didática, este livro mostra como utilizar e gerenciar a tecnologia da informação para revitalizar os processos empresariais, melhorar a tomada de decisão gerencial e conquistar vantagem competitiva. Apresenta conceitos fundamentais, tecnologias da informação, aplicações empresariais, processos de desenvolvimento e desafios do gerenciamento.</p><p>Nesta segunda edição, traz novos capítulos e casos reais ilustrativos de <i>e-business</i> e <i>e-commerce</i>, mostrando como a Internet e as tecnologias da Web podem proporcionar infra-estrutura tecnológica e ferramentas empresariais e possibilitar o desenvolvimento do comércio e de negócios eletrônicos.</p><p>A obra inclui, ainda, exercícios de aplicação contendo planilhas, tarefas de bancos de dados e de Internet.</p><p><b>Aplicação:</b> Este livro pode ser utilizado nas seguintes disciplinas: Administração de Sistemas de Informação, Tecnologia da Informação, Organizações do Conhecimento, Sistemas de Informação Gerencial.</p>",
+  "sinopse": "Este livro didático ensina como utilizar e gerenciar a tecnologia da informação para melhorar processos empresariais e a tomada de decisões, conquistando vantagem competitiva. Apresenta conceitos essenciais, tecnologias, aplicações e desafios da área, além de abordar e-business e e-commerce e demonstrar a aplicação das tecnologias web nos negócios. Inclui exercícios práticos, planilhas e tarefas ligadas a bancos de dados e Internet, sendo indicado para disciplinas de administração e tecnologia da informação.",
+  "exemplar_id": 2277,
+  "sku": "LI01DV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/james-a--o-brien--sistemas-de-informa--o--capa--20250430--105111.jpg",
+  "contracapa": "static/uploads/james-a--o-brien--sistemas-de-informa--o--contracapa--20250430--105111.jpg",
+  "fotos": [
+    "static/uploads/james-a--o-brien--sistemas-de-informa--o--foto1--20250430--105111.jpg",
+    "static/uploads/james-a--o-brien--sistemas-de-informa--o--foto2--20250430--105111.jpg",
+    "static/uploads/james-a--o-brien--sistemas-de-informa--o--foto3--20250430--105111.jpg",
+    "static/uploads/james-a--o-brien--sistemas-de-informa--o--foto4--20250430--105111.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:20:09",
+  "observacoes": "procedencia_biblioteca"
+}

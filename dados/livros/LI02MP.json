@@ -1,0 +1,63 @@
+{
+  "obra_id": 4863,
+  "autor": "Hiromu Arakawa",
+  "titulo": "Fullmetal alchemist",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Alquimia. Aventura.",
+  "palavras_chave": "arakawa fullmetal alchemist",
+  "edicao_id": 4838,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 240,
+  "isbn": "9788545703839",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 18,
+  "transcricao_contracapa": "<p>Fullmetal Alchemist, obra máxima de Hiromu Arakawa, está de volta em uma Edição Especial de Colecionador! Edward e Alphonse Elric são jovens alquimistas que estão em busca da lendária Pedra Filosofal para recuperarem os seus corpos.</p> <p>Em meio ao rigoroso clima da Cordilheira de Briggs, o Alquimista de Aço é obrigado a agir sob o comando de Kimbley. Para garantir a obediência de Ed, o Alquimista Rubro leva Winry consigo como refém. Ao mesmo tempo que um novo inimigo surge nas sombras, os irmãos Elric são obrigados a fazer novas e inesperadas alianças para salvar sua amiga de infância e deter o verdadeiro plano do Exército, que pouco a pouco começa a ser evidenciado.</p>",
+  "sinopse": "Em 'Fullmetal Alchemist', Edward e Alphonse Elric buscam a Pedra Filosofal para recuperar seus corpos. Na Cordilheira de Briggs, Edward deve seguir as ordens de Kimbley enquanto seu irmão enfrenta novos desafios. Com Winry como refém e novos inimigos à espreita, eles formam alianças inesperadas para salvar sua amiga de infância e desmascarar os planos do Exército.",
+  "exemplar_id": 4837,
+  "sku": "LI02MP",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/fullmetal-alchemist__hiromu-arakawa__capa__2026-02-20_10-30-55-460896-000.png",
+  "contracapa": "static/uploads/fullmetal-alchemist__hiromu-arakawa__contracapa__2026-02-20_10-30-55-511895-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

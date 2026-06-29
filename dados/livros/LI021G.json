@@ -1,0 +1,63 @@
+{
+  "obra_id": 3148,
+  "autor": "Eric Kurlander",
+  "titulo": "Hitlers  Monsters",
+  "subtitulo": "a Supernatural History of the Third Reich",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": null,
+  "palavras_chave": "kurlander hitlers monsters supernatural",
+  "edicao_id": 3128,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 422,
+  "peso": 900,
+  "isbn": "9780300189452",
+  "editora": "Yale University Press",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Eric Kurlander examina como o Terceiro Reich foi monstruoso de maneiras não convencionais, explorando a ligação entre o nazismo e o ocultismo. Ele revela como demônios, vampiros, bruxas e lobisomens foram incorporados na ideologia nazista, facilitando a construção do regime de Hitler. Com uma narrativa bem documentada e convincente, o autor desafia a compreensão popular da história nazista, mostrando que esses elementos fantásticos foram parte integrante do nazismo.",
+  "exemplar_id": 3127,
+  "sku": "LI021G",
+  "preco_estante_virtual": 250.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Belo livro em capa dura, com sobrecapa, em ótimo estado de conservação. Publicado sob a chancela da Yale University. Texto sem anotações ou sublinhados. Sem vestígios de umidade, sol excessivo, mofo ou traça. Há, apenas, levíssimos sinais de manuseio. Possui"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:53:25",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

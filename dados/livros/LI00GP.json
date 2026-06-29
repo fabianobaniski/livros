@@ -1,0 +1,63 @@
+{
+  "obra_id": 638,
+  "autor": "J.I. Packer",
+  "titulo": "O antigo evangelho",
+  "subtitulo": "Um desafio para redescobrir o evangelho bíblico",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Calvinismo. Arminianismo.",
+  "palavras_chave": "packer antigo evangelho desafio",
+  "edicao_id": 623,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 69,
+  "peso": 150,
+  "isbn": "9788581321561",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>J. I. Packer apresenta neste ensaio teológico uma rica e proveitosa introdução à obra clássica de John Owen \"A Morte da Morte na Morte de Cristo\". Ele o faz, oferecendo ao leitor uma visão sublime do \"Antigo Evangelho\" e o identifica com o calvinismo em contraste com o arminianismo, demonstrando como a robusta obra de Owen ecoa o ensino bíblico acerca da soberania de Deus na salvação do pecador.</p><p>James Innell Packer (1926) é um ministro e teólogo anglicano britânico. É reputado como um dos teólogos mais importantes dos séculos XX e XXI. Obteve seu Ph.D pela Universidade de Oxford (1954) e tem ministrado como professor e palestrante até os dias de hoje. É vinculado ao Regente College em Vancouver, Canada e é autor de dezenas de livros e ensaios teológicos.</p>",
+  "sinopse": "Neste ensaio, J.I. Packer oferece uma introdução à obra de John Owen, apresentando uma visão profunda do Antigo Evangelho, conectando-se com o calvinismo e explorando a soberania de Deus na salvação do pecador.",
+  "exemplar_id": 622,
+  "sku": "LI00GP",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/j-i--packer--o-antigo-evangelho--capa--20250227--152854.jpg",
+  "contracapa": "static/uploads/j-i--packer--o-antigo-evangelho--contracapa--20250227--152854.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:53:14",
+  "observacoes": null
+}

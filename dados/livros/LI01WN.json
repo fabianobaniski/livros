@@ -1,0 +1,63 @@
+{
+  "obra_id": 2975,
+  "autor": "Glen Jeansonne; David Luhrssen",
+  "titulo": "War on the silver screen",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "jeansonne war the silver",
+  "edicao_id": 2955,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 185,
+  "peso": 350,
+  "isbn": "9781612346410",
+  "editora": "Potomac Books",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Explora como os filmes sobre guerras americanas moldaram a percepção pública sobre os conflitos, muitas vezes substituindo a realidade pelos retratos cinematográficos. Os autores analisam como produções icônicas como Apocalypse Now e The Hurt Locker influenciaram a visão coletiva sobre a guerra. Ao longo de mais de um século de cinema, os autores discutem o impacto emocional que filmes e atores têm sobre a memória histórica, criando uma compreensão muitas vezes mais duradoura do que a própria experiência real dos conflitos.",
+  "exemplar_id": 2954,
+  "sku": "LI01WN",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/war-on-the-silver-screen-glen-jeansonne-capa_rev221.jpg",
+  "contracapa": "static/uploads/war-on-the-silver-screen-glen-jeansonne-contracapa_rev1859.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Subítulo: Shaping americas perception of history. / Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:59:26",
+  "observacoes": null
+}

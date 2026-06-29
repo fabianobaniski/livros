@@ -1,0 +1,63 @@
+{
+  "obra_id": 2754,
+  "autor": "Érika Piedade da Silva Santos",
+  "titulo": "O corpo que fala por mim",
+  "subtitulo": "Quando o corpo passou a representar o eu",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "santos corpo que fala",
+  "edicao_id": 2734,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 151,
+  "peso": 300,
+  "isbn": "9788536251073",
+  "editora": "Juruá",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra aborda as transformações nas subjetividades contemporâneas, destacando o deslocamento da primazia do sujeito interior para o corpo como referência central. Desde a Renascença, o sujeito era vinculado à interioridade, mas hoje observamos discursos que enfatizam o corpo. A análise propõe duas hipóteses: o corpo-imagem, moldado pelas demandas da sociedade do espetáculo, e o corpo-informação, que carrega dados genéticos e bioquímicos. A obra reflete sobre como esses conceitos redefinem o entendimento do sujeito na atualidade.",
+  "exemplar_id": 2733,
+  "sku": "LI01QI",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/o-corpo-que-fala-por-mim-erika-piedade-da-silva-santos-capa_rev801.jpg",
+  "contracapa": "static/uploads/o-corpo-que-fala-por-mim-erika-piedade-da-silva-santos-contracapa_rev274.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora levemente marcado pelo uso. Texto sem anotações ou sublinhados. Lombada um pouco inclinada à esquerda."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:57:57",
+  "observacoes": null
+}

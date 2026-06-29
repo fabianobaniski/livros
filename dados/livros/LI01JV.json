@@ -1,0 +1,63 @@
+{
+  "obra_id": 2515,
+  "autor": "Iona Purtí",
+  "titulo": "El libro del yogur",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "purti libro del yogur",
+  "edicao_id": 2495,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 95,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Lactia",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora os benefícios do iogurte, destacando suas propriedades nutricionais e os diversos modos de prepará-lo em casa. Com uma abordagem prática, ele ensina o processo de fabricação de iogurte caseiro e suas variações, além de oferecer receitas que incorporam o iogurte em uma alimentação saudável. A obra também aborda a história do iogurte e sua importância em diferentes culturas, ressaltando sua versatilidade como alimento funcional, ideal para melhorar a digestão e a saúde em geral.",
+  "exemplar_id": 2494,
+  "sku": "LI01JV",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/iona-purti--el-libro-del-yogur--capa--20260316--193648.jpg",
+  "contracapa": "static/uploads/iona-purti--el-libro-del-yogur--contracapa--20260316--193648.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Ilustrações em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:03:17",
+  "observacoes": null
+}

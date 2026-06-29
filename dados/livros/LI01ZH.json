@@ -1,0 +1,63 @@
+{
+  "obra_id": 3077,
+  "autor": "David Sibbet",
+  "titulo": "Reuniões Visuais",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": null,
+  "palavras_chave": "sibbet reunioes visuais",
+  "edicao_id": 3057,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 265,
+  "peso": 700,
+  "isbn": "9788576086338",
+  "editora": "Alta Books",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Quando as pessoas trabalham visualmente elas têm ideias melhores, tomam decisões melhores e ficam mais comprometidas com os resultados. Um guia atualizado para o século XXI sobre como se usar as mais recentes técnicas de pensamento visual com seus grupos e equipes, Reuniões Visuais traz diversas ferramentas e dicas para destravar a criatividade, a colaboração e o pensamento inovador.",
+  "exemplar_id": 3056,
+  "sku": "LI01ZH",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Como gráficos, lembretes autoadesivos e mapeamento de ideias podem transformar a produtividade de um grupo. / Livro em ótimo estado, com pouquíssimas marcas deixadas pelo uso. Texto livre de realces e anotações. Não possui furos, rasgos, amassados, marcas de umidade ou exposição ao sol nem cheiro de mofo. , ricamente ilustrado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 17:15:44",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

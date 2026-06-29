@@ -1,0 +1,63 @@
+{
+  "obra_id": 2883,
+  "autor": "Joseph Head; S. L. Cranston",
+  "titulo": "Reincarnation",
+  "subtitulo": "The Phoenix fire mystery",
+  "idioma": "Inglês",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "head reincarnation the phoenix",
+  "edicao_id": 2863,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 620,
+  "peso": 500,
+  "isbn": "9780517561010",
+  "editora": "Julian Press",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A crença na reencarnação tem fascinado a humanidade desde os tempos antigos, sendo vista como um caminho para o aperfeiçoamento espiritual. Este livro explora como grandes pensadores, como Platão, Gandhi e Jung, abordaram o tema, revelando sua presença tanto em tradições ocidentais quanto orientais. Com relatos de casos e estudos científicos, a obra investiga experiências de quase-morte e a busca contínua pela compreensão da vida após a morte. Reincarnation: The Phoenix Fire Mystery é uma fonte abrangente de conhecimento sobre este intrigante assunto espiritual.",
+  "exemplar_id": 2862,
+  "sku": "LI01U3",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/reincarnation-joseph-head-capa_rev1718.jpg",
+  "contracapa": "static/uploads/reincarnation-joseph-head-contracapa_rev777.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Há poucos grifos com caneta vermelha. Para mais informações sobre o conteúdo, solicite fotos do índice."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:41:27",
+  "observacoes": null
+}

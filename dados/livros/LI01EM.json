@@ -1,0 +1,63 @@
+{
+  "obra_id": 2325,
+  "autor": "Dulce Chaves Pandolfi; Mário Grynszpan",
+  "titulo": "A favela fala",
+  "subtitulo": "Depoimentos ao CPDOC",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "pandolfi favela fala depoimentos",
+  "edicao_id": 2305,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 360,
+  "peso": 575,
+  "isbn": "9788522504305",
+  "editora": "Fgv",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Reunindo depoimentos de 12 líderes comunitários de favelas do Rio de Janeiro, este livro oferece um documento raro que expõe a realidade das comunidades faveladas, pouco conhecida fora delas. Com um valor pedagógico notável, os relatos aproximam universos separados pelo preconceito, promovendo o diálogo entre diferentes partes do Brasil e contribuindo para a construção de uma nação menos fragmentada.",
+  "exemplar_id": 2304,
+  "sku": "LI01EM",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/dulce-chaves-pandolfi--a-favela-fala--capa--20260316--095841.jpg",
+  "contracapa": "static/uploads/dulce-chaves-pandolfi--a-favela-fala--contracapa--20260316--095848.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:21:40",
+  "observacoes": null
+}

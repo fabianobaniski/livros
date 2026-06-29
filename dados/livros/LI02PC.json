@@ -1,0 +1,63 @@
+{
+  "obra_id": 4958,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Infanto-Juvenis. Romance. Comédia.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 4933,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 170,
+  "isbn": "9788542607932",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Raku continua tentando encontrar uma maneira de dizer a Onodera que gosta dela. Enquanto isso, Claude envia Tsugumi para vigiar o relacionamento de Chitoge, disposto a livrar sua protegida de todas as más intenções de seu 'namorado'. Quais serão as chances de Raku escapar da mira de alguém que foi treinado como assassino?</p>",
+  "sinopse": "Raku está determinado a confessar seus sentimentos a Onodera, mas enfrenta obstáculos enquanto Claude manda Tsugumi para supervisionar a relação de Chitoge, desconfiando das intenções de Raku. Situações complicadas surgem quando um assassino treinado entra na história.",
+  "exemplar_id": 4932,
+  "sku": "LI02PC",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2026-02-20_10-31-23-402799-000.png",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2026-02-20_10-31-23-459623-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

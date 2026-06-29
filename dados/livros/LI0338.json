@@ -1,0 +1,63 @@
+{
+  "obra_id": 5691,
+  "autor": "Hikaru Nakamura",
+  "titulo": "Arakawa under the bridge",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Mangá.",
+  "palavras_chave": "nakamura arakawa under the bridge",
+  "edicao_id": 5666,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 210,
+  "isbn": "9788542608601",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>E chegou o momento...! É iniciada a contagem regressiva para o lançamento do foguete rumo a Vênus, terra natal (?) de Nino, que carregará os pensamentos dela, do Ric e de todos os moradores das margens do Arakawa. Será que esse foguete realmente conseguirá levantar voo...?</p>",
+  "sinopse": "A contagem regressiva começa para o lançamento de um foguete rumo a Vênus, a terra natal de Nino. O foguete carrega não só os pensamentos dela, mas também de Ric e dos moradores das margens do Arakawa. Será que conseguirá levantar voo?",
+  "exemplar_id": 5665,
+  "sku": "LI0338",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/arakawa-under-the-bridge__hikaru-nakamura__capa__2026-02-24_13-36-57-270659-000.jpg",
+  "contracapa": "static/uploads/arakawa-under-the-bridge__hikaru-nakamura__contracapa__2026-02-24_13-36-57-303847-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

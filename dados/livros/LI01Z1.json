@@ -1,0 +1,63 @@
+{
+  "obra_id": 3061,
+  "autor": "Rosemary Sansone; Dee Reid; Barry Rowe",
+  "titulo": "The Oxford Illustrated Junior Dictionary",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "Dicionários",
+  "temas": null,
+  "palavras_chave": "sansone the oxford illustrated",
+  "edicao_id": 3041,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 1500,
+  "isbn": "9780199102440",
+  "editora": "Oxford University Press",
+  "numero_edicao": null,
+  "ano": 1989,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3040,
+  "sku": "LI01Z1",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:36",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

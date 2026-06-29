@@ -1,0 +1,68 @@
+{
+  "obra_id": 3444,
+  "autor": "Magica Quartet; Hanokage",
+  "titulo": "Puella Magi Madoka Magica",
+  "subtitulo": "The different story",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Amizade. Conflitos pessoais.",
+  "palavras_chave": "magica puella magi madoka magica different story",
+  "edicao_id": 3421,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788583620518",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Kyoko fez dupla com Mami para caçarem bruxas, mas o preço pelo pedido fez seu coração se distanciar de sua parceira.</p><p>Depois disso, Mami une-se à novata Sayaka Miki e sua amiga Madoka Kaname. Porém, o reencontro com o passado poderá levar as duas colegas a se enfrentarem?</p>",
+  "sinopse": "Kyoko fez dupla com Mami para caçar bruxas, mas o preço de seu desejo trouxe afastamento entre as parceiras. Mais tarde, Mami se junta à novata Sayaka Miki e à amiga Madoka Kaname. No entanto, o reencontro com o passado pode colocar antigas colegas uma contra a outra.",
+  "exemplar_id": 3420,
+  "sku": "LI029J",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/puella-magi-madoka-magica__the-different-story__magica-quartet-hanokage__capa__2025-11-05_16-15-26-477269.jpg",
+  "contracapa": "static/uploads/puella-magi-madoka-magica__the-different-story__magica-quartet-hanokage__contracapa__2025-11-05_16-15-26-515076.jpg",
+  "fotos": [
+    "static/uploads/puella-magi-madoka-magica__the-different-story__magica-quartet-hanokage__foto-01__2025-11-05_16-15-26-540105.jpg",
+    "static/uploads/puella-magi-madoka-magica__the-different-story__magica-quartet-hanokage__foto-02__2025-11-05_16-15-26-571245.jpg",
+    "static/uploads/puella-magi-madoka-magica__the-different-story__magica-quartet-hanokage__foto-03__2025-11-05_16-15-26-590849.jpg",
+    "static/uploads/puella-magi-madoka-magica__the-different-story__magica-quartet-hanokage__foto-04__2025-11-05_16-15-26-610351.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:53:54",
+  "observacoes": null
+}

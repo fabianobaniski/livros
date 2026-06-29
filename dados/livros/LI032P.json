@@ -1,0 +1,63 @@
+{
+  "obra_id": 5672,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance.",
+  "palavras_chave": "saburouta citrus",
+  "edicao_id": 5647,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 148,
+  "peso": 220,
+  "isbn": "9788583622833",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 9,
+  "transcricao_contracapa": "<p>Enquanto aproveitam a viagem durante as férias, Yuzu e Mei não deixaram de aprofundar os laços do amor.</p> <p>No entanto, em contraste à Yuzu que parecia transbordar felicidade, Mei revelava expressões de tristeza de tempos e tempos. E então, Matsuri acaba ouvindo uma \"certa conversa\" entre Himeko e Suzuran, o que a deixou completamente surpresa...!</p>",
+  "sinopse": "Durante uma viagem de férias, Yuzu e Mei aprofundam seus laços amorosos, mas Mei demonstra tristeza em certos momentos. Matsuri ouve uma conversa entre Himeko e Suzuran, o que a surpreende completamente.",
+  "exemplar_id": 5646,
+  "sku": "LI032P",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2026-02-24_13-36-51-065706-000.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2026-02-24_13-36-51-486239-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 0,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 14:50:27",
+  "observacoes": null
+}

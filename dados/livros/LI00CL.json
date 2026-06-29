@@ -1,0 +1,63 @@
+{
+  "obra_id": 490,
+  "autor": "Augustus Nicodemus",
+  "titulo": "O culto segundo Deus",
+  "subtitulo": "A mensagem de Malaquias para a igreja de hoje",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia. Culto.",
+  "palavras_chave": "nicodemus culto segundo deus",
+  "edicao_id": 475,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 300,
+  "isbn": "9788527505031",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em nossos dias, assim como na época de Malaquias, o culto a Deus tem sido desvirtuado das mais diversas maneiras. Embora muitos pensem que nada temos a aprender com o Antigo Testamento em matéria de culto, estão enganados. Ao levantarem sua voz contra o povo de Deus de sua época, por haver desvirtuado o culto ao Senhor, os profetas usaram como argumentos princípios relativos à adoração a Deus que certamente se aplicam ao povo de Deus de todas as épocas.</p><p>Esta obra tratará desses princípios apresentados por Malaquias a um povo que havia perdido a visão do culto verdadeiro. Entre eles estão:</p><ul><li>A centralidade de Deus no culto;</li><li>As razões corretas para cultuá-lo;</li><li>A relação entre o culto e a nossa vida diária;</li><li>A necessidade de adorarmos a Deus de acordo com o que ele nos revelou e não de acordo com nossa criatividade.</li></ul><p>É por essa razão que Malaquias é bastante atual e relevante. E por isso, um livro que estude sua mensagem é igualmente atual e relevante para a igreja de hoje.</p>",
+  "sinopse": "A obra discute a relevância do culto a Deus em nossos dias, comparando-o à época de Malaquias. Com a centralidade de Deus, as razões corretas para adorá-lo, e a relação do culto com a vida cotidiana, o autor busca restaurar a verdadeira visão do culto que foi perdida, ressaltando a necessidade de seguir a vontade de Deus em vez da criatividade humana.",
+  "exemplar_id": 474,
+  "sku": "LI00CL",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/augustus-nicodemus--o-culto-segundo-deus--capa--20250227--111546.jpg",
+  "contracapa": "static/uploads/augustus-nicodemus--o-culto-segundo-deus--contracapa--20250227--111546.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:58:41",
+  "observacoes": null
+}

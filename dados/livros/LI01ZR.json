@@ -1,0 +1,63 @@
+{
+  "obra_id": 3087,
+  "autor": "David Sibbet",
+  "titulo": "Líderes Visuais",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": null,
+  "palavras_chave": "sibbet lideres visuais",
+  "edicao_id": 3067,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 229,
+  "peso": 600,
+  "isbn": "9788576088349",
+  "editora": "Alta Book",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Líderes eficazes reconhecem o poder da comunicação visual para impulsionar suas equipes e obter resultados tangíveis. Com base em métodos inovadores, este livro mostra como os líderes podem utilizar ferramentas visuais para melhorar o desempenho organizacional e promover maior engajamento. Ao abordar o pensamento visual, o autor apresenta modelos práticos e comprovados para transformar ideias complexas em ações claras e estratégicas, ajudando a criar uma cultura colaborativa e orientada para o sucesso em qualquer empresa.",
+  "exemplar_id": 3066,
+  "sku": "LI01ZR",
+  "preco_estante_virtual": 78.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Excelente conservação. Não apresenta anotações, sublinhados, rabiscos, rasgos, amassados, marca de umidade, mofo ou exposição excessiva ao sol. Há apenas leves manchas laterais."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:38:03",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

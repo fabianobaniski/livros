@@ -1,0 +1,63 @@
+{
+  "obra_id": 3076,
+  "autor": "Afrânio Coutinho",
+  "titulo": "Conceito de Literatura Brasileira",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": null,
+  "palavras_chave": "coutinho conceito literatura brasileira",
+  "edicao_id": 3056,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 112,
+  "peso": 300,
+  "isbn": "9788532636522",
+  "editora": "Vozes",
+  "numero_edicao": 4,
+  "ano": 2014,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Desde 1960 a primeira edição de Conceito de literatura brasileira se esgotara. Texto clássico da formação crítica nesta disciplina, só conheceu nova edição em 1976 esgotada em um ano pela Pallas Editora. O conjunto de oito ensaios aqui novamente apresentados ao público brasileiro de estudantes da Literatura brasileira é da maior importância para a fixação do espaço e da brasilidade em nossa literatura. A preocupação comum desses escritos é o nacionalismo literário brasileiro, e do caráter nacional. Os ensaios foram conservados na feição original, feitos apenas retoques de estilo ou correções tipográficas.",
+  "exemplar_id": 3055,
+  "sku": "LI01ZG",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Excelente conservação. Livro seminovo, sem defeitos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:55:08",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

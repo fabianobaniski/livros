@@ -1,0 +1,63 @@
+{
+  "obra_id": 2527,
+  "autor": "Tania Zagury",
+  "titulo": "Escola sem conflito",
+  "subtitulo": "Parceria com os pais",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "zagury escola sem conflito",
+  "edicao_id": 2507,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 237,
+  "peso": 300,
+  "isbn": "9788501065476",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em 1991, Tania Zagury publicou Sem Padecer no Paraíso, oferecendo um retrato dos desafios enfrentados por pais e educadores ao lidar com a criação de adolescentes no Brasil. A obra se tornou um sucesso, sendo referência na área. Em 1997, lançou Encurtando a Adolescência, abordando dúvidas frequentes sobre essa fase da vida. Já em 2000, com Limites sem Trauma, consolidou-se como best-seller, orientando pais sobre a difícil tarefa de impor limites aos filhos de forma equilibrada, sem traumas.",
+  "exemplar_id": 2506,
+  "sku": "LI01K7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/tania-zagury--escola-sem-conflito--capa--20260316--194051.jpg",
+  "contracapa": "static/uploads/tania-zagury--escola-sem-conflito--contracapa--20260316--194051.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Como acompanhar, escolher e avaliar a escola de seu filho. Como fazer de seu filho um bom estudante. Ótima conservação, apesar do livro estar um pouco amarelado pela passagem dos anos. Texto à salvo de anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:23:07",
+  "observacoes": null
+}

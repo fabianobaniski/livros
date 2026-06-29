@@ -1,0 +1,63 @@
+{
+  "obra_id": 3134,
+  "autor": "John Briggs; F. David Peat",
+  "titulo": "A Sabedoria do Caos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "briggs sabedoria caos",
+  "edicao_id": 3114,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 179,
+  "peso": 350,
+  "isbn": "9788535205558",
+  "editora": "Campus",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A sina que todos têm de enfrentar na vida é a incerteza. Embora os seres humanos, já desde remotas eras tenham tido de lidar com o caos, só em data recente a ciência passou a ver no caos uma das forças centrais do universo. Neste livro, Briggs e Peat fornecem lições para lidar com o caos no cotidiano.",
+  "exemplar_id": 3113,
+  "sku": "LI0212",
+  "preco_estante_virtual": 39.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Subtítulo: Sete lições que vão mudar sua vida. / Livro bem preservado, embora as laterais tenham oxidado durante passagem dos anos. Lombada reta, miolo firme, sem folhas soltas. Não possui anotações, sublinhados, rasgos, amassados nem marcas de umidade, sol excessivo, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:41:55",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

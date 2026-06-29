@@ -1,0 +1,68 @@
+{
+  "obra_id": 1406,
+  "autor": "Cassiodoro",
+  "titulo": "Institutiones",
+  "subtitulo": "Introdução às letras divinas e seculares",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura. Educação. História.",
+  "palavras_chave": "cassiodoro institutiones ",
+  "edicao_id": 1388,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 237,
+  "peso": 350,
+  "isbn": "9788594090096",
+  "editora": "Kirion",
+  "numero_edicao": 1,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Com a queda do Império Romano, a transmissão de todo o saber antigo à Idade Média teve de ser operada por meio da laboriosa cópia dos manuscritos, conservados nos mosteiros e nas igrejas, e da elaboração de manuais e coletâneas. Ao lado de Marciano Capela, Boécio e Isidoro de Sevilha, Cassiodoro foi um dos próceres da cultura cristã. Conselheiro dos reis ostrogodos, fundou em 555 o mosteiro do Vivarium, embrião dos centros culturais medievais. Ali desenvolveu métodos e estabeleceu preceitos para a produção de códices fidedignos, agrupando em sua biblioteca tudo o que pôde colher do tesouro literário greco-romano. Foi Cassiodoro quem imprimiu à vida monástica do Ocidente o culto apaixonado dos livros.</p><p>Suas Institutiones, uma introdução ao estudo das letras, possuíam o objetivo primeiro de instruir os monges do Vivarium, mas acabaram como uma das obras mais influentes e difundidas na Idade Média. No primeiro livro, a Introdução às letras divinas, o pedagogo dissertou sobre os textos da Sagrada Escritura, sobre seu estudo e seus comentadores; no segundo, Introdução às letras seculares, trata das sete artes liberais, fixadas mais tarde como o trivium e o quadrivium, a base mesma da educação oferecida nas escolas monásticas e catedrais e, posteriormente, em todas as universidades medievais.</p>",
+  "sinopse": "As Institutiones de Cassiodoro introduzem as letras divinas e seculares, servindo como um enfoque fundamental para a educação na Idade Média. A obra oferece insights sobre a transmissão do conhecimento antigo e a estrutura dos estudos, destacando a importância de instituições monásticas na preservação da literatura greco-romana.",
+  "exemplar_id": 1387,
+  "sku": "LI00TU",
+  "preco_estante_virtual": 38.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/cassiodoro--institutiones--capa--20250401--115341.jpg",
+  "contracapa": "static/uploads/cassiodoro--institutiones--contracapa--20250401--115341.jpg",
+  "fotos": [
+    "static/uploads/cassiodoro--institutiones--foto1--20250401--115341.jpg",
+    "static/uploads/cassiodoro--institutiones--foto2--20250401--115341.jpg",
+    "static/uploads/cassiodoro--institutiones--foto3--20250401--115341.jpg",
+    "static/uploads/cassiodoro--institutiones--foto4--20250401--115341.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:43:57",
+  "observacoes": null
+}

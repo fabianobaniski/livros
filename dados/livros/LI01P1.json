@@ -1,0 +1,63 @@
+{
+  "obra_id": 2701,
+  "autor": "Miguel Higuera C.",
+  "titulo": "Mi hijo no habla",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "c hijo habla",
+  "edicao_id": 2681,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 250,
+  "peso": 400,
+  "isbn": "9789562398428",
+  "editora": "Aguilar Fontanar",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Viver com uma criança que não fala, segundo o autor, implica uma mudança profunda e permanente no estilo de vida. É necessário ajustar a maneira de ver o mundo, de criar e, principalmente, aprender a celebrar os pequenos progressos diários. Este livro aborda, a partir da perspectiva de um pai e fonoaudiólogo, os desafios e sacrifícios que a situação exige, oferecendo um relato pessoal sobre como aceitar as demandas e empatia necessárias ao cuidar de uma criança autista. É uma reflexão sobre o impacto diário de lidar com o silêncio, onde o profissionalismo se alia à experiência pessoal.",
+  "exemplar_id": 2680,
+  "sku": "LI01P1",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/mi-hijo-no-habla-miguel-higuera-c-capa_rev1272.jpg",
+  "contracapa": "static/uploads/mi-hijo-no-habla-miguel-higuera-c-contracapa_rev402.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Texto livre de anotações e sublinhados. Há selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:59:35",
+  "observacoes": null
+}

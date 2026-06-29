@@ -1,0 +1,68 @@
+{
+  "obra_id": 5798,
+  "autor": "samuel sérgio salinas",
+  "titulo": "Do feudalismo ao capitalismo",
+  "subtitulo": "Transições",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "História geral. Desenvolvimento social. Transição feudalismo-capitalismo. Mercantilismo.",
+  "palavras_chave": "salinas feudalismo capitalismo transicoes",
+  "edicao_id": 5773,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 64,
+  "peso": 80,
+  "isbn": "",
+  "editora": "Ática",
+  "numero_edicao": 2,
+  "ano": 1988,
+  "serie": "discutindo a história",
+  "volume": null,
+  "transcricao_contracapa": "<p>Coleção discutindo a história</p><p>Discutindo a História propõe-se como material de conhecimento e discussão do processo histórico. Incluindo autores com sólida formação e experiência docente, os volumes desta coleção oferecem textos claros e estimulantes, ricos em informações e apoiados em propostas teóricas consistentes. A variedade de temas — desenvolvidos por diferentes autores e nem sempre com os mesmos enfoques — possibilita ao leitor uma reflexão crítica e abrangente do processo histórico e de suas abordagens. Resulta daí um material de extrema utilidade a estudantes e professores e a todos os que se interessam pelos processos de formação e desenvolvimento das sociedades humanas.</p>",
+  "sinopse": "A coleção 'Discutindo a História' apresenta obras com textos claros e ricos em informações, escritos por autores experientes, proporcionando uma abordagem teórica consistente sobre processos históricos. Este volume aborda as transições do feudalismo ao capitalismo, explorando temas como a relação entre as cidades e o campo, o mercantilismo e as principais teorias da transição, sendo um material útil para estudantes, professores e interessados no desenvolvimento das sociedades humanas.",
+  "exemplar_id": 5772,
+  "sku": "LI0367",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/do-feudalismo-ao-capitalismo__transicoes__samuel-sergio-salinas__capa__2026-01-18_14-11-50-076236-000.png",
+  "contracapa": "static/uploads/do-feudalismo-ao-capitalismo__transicoes__samuel-sergio-salinas__contracapa__2026-01-18_14-11-50-117660-001.png",
+  "fotos": [
+    "static/uploads/do-feudalismo-ao-capitalismo__transicoes__samuel-sergio-salinas__foto-01__2026-01-18_14-11-50-260496-002.jpg",
+    "static/uploads/do-feudalismo-ao-capitalismo__transicoes__samuel-sergio-salinas__foto-02__2026-01-18_14-11-50-338010-003.jpg",
+    "static/uploads/do-feudalismo-ao-capitalismo__transicoes__samuel-sergio-salinas__foto-03__2026-01-18_14-11-50-366225-004.jpg",
+    "static/uploads/do-feudalismo-ao-capitalismo__transicoes__samuel-sergio-salinas__foto-04__2026-01-18_14-11-50-515748-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:07:39",
+  "observacoes": null
+}

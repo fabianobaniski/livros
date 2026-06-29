@@ -1,0 +1,68 @@
+{
+  "obra_id": 2169,
+  "autor": "Christopher Lovelock; Lauren Wright",
+  "titulo": "Serviços",
+  "subtitulo": "Marketing e gestão",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Marketing de serviços. Gestão empresarial.",
+  "palavras_chave": "lovelock servicos marketing gestao",
+  "edicao_id": 2149,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 416,
+  "peso": 995,
+  "isbn": "9788502032781",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Serviços<br>Marketing e Gestão</b></p><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço:<br><a href=\"http://www.saraivauni.com.br\">www.saraivauni.com.br</a></p><img src='contracapa_site.png' alt='Print de tela do site SaraivaUni'><p>ISBN 978-85-02-03278-1<br>85-02-03278-X</p>",
+  "sinopse": "O livro 'Serviços: Marketing e gestão' de Christopher Lovelock e Lauren Wright discute estratégias e práticas contemporâneas para o gerenciamento e promoção de serviços, apresentando conceitos fundamentais e estudos de caso disponíveis na internet. É um material de apoio voltado tanto para estudantes quanto para profissionais interessados em marketing e gestão de serviços.",
+  "exemplar_id": 2148,
+  "sku": "LI01AA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/christopher-lovelock--servi-os--capa--20250430--104912.jpg",
+  "contracapa": "static/uploads/christopher-lovelock--servi-os--contracapa--20250430--104912.jpg",
+  "fotos": [
+    "static/uploads/christopher-lovelock--servi-os--foto1--20250430--104912.jpg",
+    "static/uploads/christopher-lovelock--servi-os--foto2--20250430--104912.jpg",
+    "static/uploads/christopher-lovelock--servi-os--foto3--20250430--104912.jpg",
+    "static/uploads/christopher-lovelock--servi-os--foto4--20250430--104912.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:59:20",
+  "observacoes": "procedencia_biblioteca"
+}

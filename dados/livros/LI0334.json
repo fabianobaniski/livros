@@ -1,0 +1,63 @@
+{
+  "obra_id": 5687,
+  "autor": "Hikaru Nakamura",
+  "titulo": "Arakawa under the bridge",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Quadrinhos.",
+  "palavras_chave": "nakamura arakawa under the bridge",
+  "edicao_id": 5662,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 210,
+  "isbn": "9788542606133",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Qual a distância que um sentimento alcança? A comunicação entre dois seres inapto tende a ser engraçada e, às vezes, triste... Será que o sentimento que Nino esconde em seu peito, enfim, alcançará Ric...?!! Confiram mais um volume desta comédia um tanto amarga, mas de aquecer o coração.</p>",
+  "sinopse": "Uma comédia sobre a comunicação entre seres desajeitados, onde Nino esconde sentimentos em seu peito que podem finalmente alcançar Ric. Este volume promete divertir e ao mesmo tempo aquecer o coração.",
+  "exemplar_id": 5661,
+  "sku": "LI0334",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/arakawa-under-the-bridge__hikaru-nakamura__capa__2026-02-24_13-36-56-946571-000.jpg",
+  "contracapa": "static/uploads/arakawa-under-the-bridge__hikaru-nakamura__contracapa__2026-02-24_13-36-56-971958-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

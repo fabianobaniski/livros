@@ -1,0 +1,68 @@
+{
+  "obra_id": 113,
+  "autor": "Jack London",
+  "titulo": "O apelo da selva",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura clássica. Aventura. Sobrevivência.",
+  "palavras_chave": "london apelo selva",
+  "edicao_id": 111,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 171,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Emocionante história de um cão que retorna à vida selvagem. Obrigado pelas circunstâncias a voltar ao seio da floresta, passa a viver entre lobos. Seu ladrido familiar e doméstico acaba por se transformar num \"grito inarticulado da luta pela vida\". Com esse insólito personagem, Jack London desvendeu aos mecanizados americanos do começo do século o acre e áspero odor do instinto e da vida em plena natureza.</p>",
+  "sinopse": "Um cão é forçado a retornar à vida selvagem, vivendo entre lobos e redescobrindo seu instinto primal. A história explora temas de adaptação e luta pela sobrevivência na natureza.",
+  "exemplar_id": 110,
+  "sku": "LI002P",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jack-london--o-apelo-da-selva--capa--20250226--114602.jpg",
+  "contracapa": "static/uploads/jack-london--o-apelo-da-selva--contracapa--20250226--114602.jpg",
+  "fotos": [
+    "static/uploads/jack-london--o-apelo-da-selva--foto1--20250226--114602.jpg",
+    "static/uploads/jack-london--o-apelo-da-selva--foto2--20250226--114602.jpg",
+    "static/uploads/jack-london--o-apelo-da-selva--foto3--20250226--114602.jpg",
+    "static/uploads/jack-london--o-apelo-da-selva--foto4--20250226--114602.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:53:16",
+  "observacoes": null
+}

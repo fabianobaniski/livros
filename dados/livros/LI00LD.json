@@ -1,0 +1,63 @@
+{
+  "obra_id": 806,
+  "autor": "Dr. Richard Booker",
+  "titulo": "O milagre do fio escarlate",
+  "subtitulo": "Revelando o poder do sangue de jesus de gênesis a apocalipse",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Sacrifício. Bíblia.",
+  "palavras_chave": "booker milagre fio escarlate",
+  "edicao_id": 791,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 219,
+  "peso": 300,
+  "isbn": "9788581580548",
+  "editora": "bvbooks",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro traz à tona verdades da Bíblia com clara reflexão tanto para os cristãos recentes quanto para os amadurecidos na fé.</p><p>A aliança de sangue é o \"fio escarlate\" que entrelaça a Bíblia.</p><p>Esta é a história do sangue de Jesus evidenciada por toda a Bíblia. Você entenderá por que Jesus precisou ser crucificado e derramar Seu sangue, pois ressurgiu dos mortos – e o que tudo isso significa para você.</p><p>O Milagre do Fio Escarlate explica, em uma linguagem clara, a história central da Bíblia. O livro explica de forma simples as complexidades da Palavra de Deus, relaciona as histórias da Palavra de Deus e mostra como o Antigo Testamento e o Novo Testamento estão interligados, relatando a história completa da maravilhosa promessa que Deus fez à humanidade.</p><p>Dr. Richard Booker dedicou anos de estudo e experiência para escrever este livro. Milhares de pessoas terão um maior esclarecimento de Deus e da Bíblia ao ler \"O Milagre do Fio Escarlate\".</p><p>Se você deseja entender a Bíblia, não pode deixar de ler este livro antes.</p>",
+  "sinopse": "O Milagre do Fio Escarlate revela a história do sacrifício de Jesus, mostrando como o sangue de Jesus é evidenciado em toda a Bíblia. O autor explica, de maneira clara, as interligacões entre o Antigo e o Novo Testamento, oferecendo um entendimento profundo sobre a aliança de sangue que une as Escrituras e a importância desse sacrifício para a humanidade.",
+  "exemplar_id": 790,
+  "sku": "LI00LD",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/dr--richard-booker--o-milagre-do-fio-escarlate--capa--20250227--152905.jpg",
+  "contracapa": "static/uploads/dr--richard-booker--o-milagre-do-fio-escarlate--contracapa--20250227--152906.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:30:46",
+  "observacoes": null
+}

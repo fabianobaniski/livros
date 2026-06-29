@@ -1,0 +1,68 @@
+{
+  "obra_id": 3621,
+  "autor": "Miguel de Cervantes Saavedra",
+  "titulo": "Novelas exemplares",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "CEREVANTES novelas exemplares",
+  "edicao_id": 3598,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 255,
+  "peso": 360,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta coleção de doze narrativas curtas apresenta um vasto painel da sociedade espanhola do Século de Ouro, mesclando elementos realistas e idealistas para explorar temas como honra, amor, justiça e as astúcias humanas, servindo tanto como entretenimento quanto como modelos morais para a época.",
+  "exemplar_id": 3597,
+  "sku": "LI02EG",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/miguel-de-cervantes-saavedra--novelas-exemplares--capa--20251114--180759.png",
+  "contracapa": "static/uploads/miguel-de-cervantes-saavedra--novelas-exemplares--contracapa--20251114--180807.png",
+  "fotos": [
+    "static/uploads/miguel-de-cervantes-saavedra--novelas-exemplares--foto1--20251113--192636.jpg",
+    "static/uploads/miguel-de-cervantes-saavedra--novelas-exemplares--foto2--20251113--192636.jpg",
+    "static/uploads/miguel-de-cervantes-saavedra--novelas-exemplares--foto3--20251113--192636.jpg",
+    "static/uploads/miguel-de-cervantes-saavedra--novelas-exemplares--foto4--20251113--192636.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada (que, neste exemplar, estão levemente desbotados). Conservação geral muito boa (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:23:53",
+  "observacoes": null
+}

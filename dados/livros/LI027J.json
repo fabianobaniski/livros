@@ -1,0 +1,68 @@
+{
+  "obra_id": 3372,
+  "autor": "Sanami Matoh",
+  "titulo": "Full Moon",
+  "subtitulo": "Sussurros sob a Lua Cheia",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Mistério.",
+  "palavras_chave": "matoh full moon sussurros lua cheia",
+  "edicao_id": 3349,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 170,
+  "isbn": "",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3348,
+  "sku": "LI027J",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/full-moon__sussurros-sob-a-lua-cheia__sanami-matoh__capa__2025-11-05_16-14-44-804750.jpg",
+  "contracapa": "static/uploads/full-moon__sussurros-sob-a-lua-cheia__sanami-matoh__contracapa__2025-11-05_16-14-44-838977.jpg",
+  "fotos": [
+    "static/uploads/full-moon__sussurros-sob-a-lua-cheia__sanami-matoh__foto-01__2025-11-05_16-14-44-880824.jpg",
+    "static/uploads/full-moon__sussurros-sob-a-lua-cheia__sanami-matoh__foto-02__2025-11-05_16-14-44-913688.jpg",
+    "static/uploads/full-moon__sussurros-sob-a-lua-cheia__sanami-matoh__foto-03__2025-11-05_16-14-44-936670.jpg",
+    "static/uploads/full-moon__sussurros-sob-a-lua-cheia__sanami-matoh__foto-04__2025-11-05_16-14-44-962931.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 15:35:58",
+  "observacoes": null
+}

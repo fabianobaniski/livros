@@ -1,0 +1,68 @@
+{
+  "obra_id": 1776,
+  "autor": "Argemiro J. Brum",
+  "titulo": "O desenvolvimento econômico brasileiro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Economia",
+  "temas": "Economia brasileira. Desenvolvimento econômico. História econômica do Brasil.",
+  "palavras_chave": "brum desenvolvimento economico brasileiro",
+  "edicao_id": 1756,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 628,
+  "peso": 870,
+  "isbn": "9788532642578",
+  "editora": "Vozes",
+  "numero_edicao": 28,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro apresenta um panorama da evolução econômica do Brasil e sua interação com os aspectos sociais e políticos. Trata-se de uma abordagem introdutória destinada especialmente a estudantes e pessoas interessadas em ter uma visão global resumida do processo brasileiro, inserido no contexto mundial, e escrita em linguagem acessível.</p><p>Dentro do enfoque adotado, é possível identificar três fases mais ou menos distintas no processo econômico brasileiro e uma quarta fase ainda em estágio inicial de definição/construção: a) a fase primário-exportadora (1500-1930); b) a fase de tentativa de construção de um desenvolvimento nacional e autônomo na industrialização via substituição de importações, sob a liderança e proteção do Estado (1930-1964); c) a fase de desenvolvimento associado e dependente, aprofundada a partir de 1964, embora seu início tenha ocorrido marcadamente na segunda metade da década de 1950; e d) a fase de inserção (subordinada ou interdependente e soberana?) mais profunda na economia global, em processo mais nítido de definição e construção a partir do início da década de 1990.</p><p>A transição de uma fase para a seguinte é assinalada por crise profunda, em que se revela o esgotamento do projeto anterior e se gestam e articulam as ideias e as forças para impulsionar as mudanças. Como pano de fundo e referencial básico traça-se, no primeiro capítulo, um breve panorama da gênese e evolução do liberalismo/capitalismo (e dos sistemas alternativos), em cujo contexto o Brasil se insere. O passado mais remoto é tratado de forma sucinta. Em relação ao período mais recente faz-se uma abordagem mais detalhada, em razão do interesse em compreender melhor a realidade presente que nos atinge mais diretamente e influencia a vida de todos os brasileiros.</p>",
+  "sinopse": "O livro oferece um panorama da evolução econômica do Brasil, relacionando-a com aspectos sociais e políticos. Voltado para estudantes e interessados em uma visão global do processo econômico brasileiro, identifica quatro fases históricas principais: primário-exportadora, industrialização sob o Estado, desenvolvimento associado e dependente, e inserção na economia global. Destaca a transição entre essas fases, contextualizando o Brasil no liberalismo/capitalismo global, com análise mais detalhada do período recente e seus impactos na sociedade brasileira.",
+  "exemplar_id": 1755,
+  "sku": "LI00ZF",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/argemiro-j--brum--o-desenvolvimento-econ-mico-brasileiro--capa--20250430--102945.jpg",
+  "contracapa": "static/uploads/argemiro-j--brum--o-desenvolvimento-econ-mico-brasileiro--contracapa--20250430--102945.jpg",
+  "fotos": [
+    "static/uploads/argemiro-j--brum--o-desenvolvimento-econ-mico-brasileiro--foto1--20250430--102945.jpg",
+    "static/uploads/argemiro-j--brum--o-desenvolvimento-econ-mico-brasileiro--foto2--20250430--102945.jpg",
+    "static/uploads/argemiro-j--brum--o-desenvolvimento-econ-mico-brasileiro--foto3--20250430--102945.jpg",
+    "static/uploads/argemiro-j--brum--o-desenvolvimento-econ-mico-brasileiro--foto4--20250430--102945.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:02:27",
+  "observacoes": "procedencia_biblioteca"
+}

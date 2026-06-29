@@ -1,0 +1,68 @@
+{
+  "obra_id": 1814,
+  "autor": "Reinaldo A. Moura",
+  "titulo": "Armazenagem",
+  "subtitulo": "Do recebimento à expedição",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Logística. Armazenagem. Movimentação de materiais.",
+  "palavras_chave": "moura armazenagem recebimento expedicao",
+  "edicao_id": 1794,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 373,
+  "peso": 630,
+  "isbn": "9788589824125",
+  "editora": "IMAM",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "Manual de Intralogística",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Outros livros desta série</h1><p><b>Sistemas e Técnicas de Movimentação e Armazenagem de Materiais</b></p><p><b>Embalagem, Unitização & Contenerização</b></p><p><b>Equipamentos de Movimentação e Armazenagem</b></p><p><b>Aplicações Práticas de Equipamentos de Movimentação e Armazenagem de Materiais</b></p><p><b>IMAM</b><br>Rua Loefgreen, 1400 Vila Mariana<br>CEP 04040-902 São Paulo SP<br>Tel.: +(11) 5575.1400<br>www.imam.com.br imam@imam.com.br</p>",
+  "sinopse": "O livro faz parte da série 'Manual de Intralogística' e aborda o processo de armazenagem, desde o recebimento até a expedição. É voltado para profissionais de logística que buscam aprofundar seus conhecimentos sobre movimentação e armazenagem de materiais, apresentando conceitos, técnicas e aplicações práticas.",
+  "exemplar_id": 1793,
+  "sku": "LI010H",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/reinaldo-a--moura--armazenagem--capa--20250430--102951.jpg",
+  "contracapa": "static/uploads/reinaldo-a--moura--armazenagem--contracapa--20250430--102951.jpg",
+  "fotos": [
+    "static/uploads/reinaldo-a--moura--armazenagem--foto1--20250430--102951.jpg",
+    "static/uploads/reinaldo-a--moura--armazenagem--foto2--20250430--102951.jpg",
+    "static/uploads/reinaldo-a--moura--armazenagem--foto3--20250430--102951.jpg",
+    "static/uploads/reinaldo-a--moura--armazenagem--foto4--20250430--102951.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:16:28",
+  "observacoes": "procedencia_biblioteca"
+}

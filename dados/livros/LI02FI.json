@@ -1,0 +1,68 @@
+{
+  "obra_id": 3659,
+  "autor": "Sinclair Lewis",
+  "titulo": "Babbitt",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "sinclair lewis babbitt",
+  "edicao_id": 3636,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 441,
+  "peso": 540,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Sátira mordaz da classe média americana, a obra acompanha George F. Babbitt, um corretor de imóveis que, apesar de sua vida materialmente estável e conformista, sente um vazio existencial que o leva a uma breve e frustrada tentativa de rebelião contra as convenções sociais de sua cidade.",
+  "exemplar_id": 3635,
+  "sku": "LI02FI",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/sinclair-lewis--babbitt--capa--20251114--185720.png",
+  "contracapa": "static/uploads/sinclair-lewis--babbitt--contracapa--20251114--185728.png",
+  "fotos": [
+    "static/uploads/sinclair-lewis--babbitt--foto1--20251113--213138.jpg",
+    "static/uploads/sinclair-lewis--babbitt--foto2--20251113--213138.jpg",
+    "static/uploads/sinclair-lewis--babbitt--foto3--20251113--213138.jpg",
+    "static/uploads/sinclair-lewis--babbitt--foto4--20251113--213138.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:50:41",
+  "observacoes": null
+}

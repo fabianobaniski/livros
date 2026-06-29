@@ -1,0 +1,63 @@
+{
+  "obra_id": 2620,
+  "autor": "Dave Robinson; Chris Garratt",
+  "titulo": "Introducing Descartes",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "robinson introducing descartes",
+  "edicao_id": 2600,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 171,
+  "peso": 720,
+  "isbn": "9781840460636",
+  "editora": "Totem Books",
+  "numero_edicao": 0,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2599,
+  "sku": "LI01MS",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/dave-robinson--introducing-descartes--capa--20260316--213513.jpg",
+  "contracapa": "static/uploads/dave-robinson--introducing-descartes--contracapa--20260316--213513.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados.  Explains what Descartes doubted, and why he is usually called the father of modern philosophy."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:29:56",
+  "observacoes": null
+}

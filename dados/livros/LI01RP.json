@@ -1,0 +1,63 @@
+{
+  "obra_id": 2797,
+  "autor": "Monteiro Lobato",
+  "titulo": "O presidente negro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "lobato presidente negro",
+  "edicao_id": 2777,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 202,
+  "peso": 300,
+  "isbn": "9788525044686",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O presidente negro, único romance para adultos de Monteiro Lobato, aborda temas polêmicos como a segregação racial entre brancos e negros, a guerra dos sexos e a hegemonia asiática, antecipando questões que ressoam até hoje. Ambientado nos Estados Unidos, o livro surpreende pela visão futurista e polêmica, prevendo um cenário em que um candidato negro vence as eleições americanas, causando grande impacto social. A trama envolve avanços tecnológicos, como o porviroscópio e experimentos científicos, desenhando um futuro distópico e repleto de inovações, que dialogam com questões atuais.",
+  "exemplar_id": 2776,
+  "sku": "LI01RP",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/o-presidente-negro-monteiro-lobato-capa_rev1215.jpg",
+  "contracapa": "static/uploads/o-presidente-negro-monteiro-lobato-contracapa_rev351.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação, apesar do livro estar um pouco amarelado pela passagem dos anos. Texto à salvo de anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:37:53",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2144,
+  "autor": "Luís Martins de Oliveira; José Hernandez Perez Jr.; Carlos Alberto dos Santos Silva",
+  "titulo": "Controladoria estratégica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Controladoria. Planejamento estratégico. Gestão estratégica. Contabilidade gerencial.",
+  "palavras_chave": "oliveira controladoria estrategica",
+  "edicao_id": 2124,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 245,
+  "peso": 515,
+  "isbn": "9788522445677",
+  "editora": "Atlas",
+  "numero_edicao": 4,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>CONTROLADORIA ESTRATÉGICA</b><br/><p>Este livro apresenta os temas mais atuais da Controladoria Estratégica e das funções do <i>controller</i> no moderno ambiente corporativo das empresas de classe mundial. A preocupação básica dos autores é transmitir uma nova visão do papel dos contadores e destacar as oportunidades de contribuir para a gestão das empresas na obtenção de êxito nas metas estratégicas.</p><p>Abarange temas como: conceitos e funções da controladoria e do <i>controller</i>; planejamento estratégico, gestão estratégica da logística e da cadeia de valores, controles internos, orçamentos, gestão estratégica das informações, planejamento tributário, <i>Balanced Scorecard</i>, medidas de desempenho não financeiras, EVA e MVA.</p><b>APLICAÇÃO</b><br/><p>Livro-texto para as disciplinas CONTROLADORIA e CONTABILIDADE GERENCIAL e leitura complementar para as disciplinas SISTEMAS DE GESTÃO ESTRATÉGICA DE CUSTOS, PLANEJAMENTO e CONTROLE ORÇAMENTÁRIO, dos cursos de graduação e pós-graduação em Administração de Empresas, Contabilidade e Controladoria. Recomendado também como fonte de atualização profissional nas áreas de Administração, Planejamento, Controle Orçamentário, Controladoria das Empresas e Gestão Estratégica de Custos Ambientais.</p>",
+  "sinopse": "Este livro aborda os temas mais atuais da Controladoria Estratégica e das funções do controller no ambiente corporativo moderno. Os autores buscam oferecer uma nova visão sobre o papel dos contadores, destacando como podem contribuir para a conquista das metas estratégicas das empresas. Entre os tópicos tratados estão funções da controladoria, gestão estratégica, controles internos, orçamentos, planejamento tributário, Balanced Scorecard, desempenho financeiro e indicadores como EVA e MVA. A obra é indicada tanto para disciplinas acadêmicas quanto para atualização profissional em Administração, Planejamento e Controladoria.",
+  "exemplar_id": 2123,
+  "sku": "LI019L",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/lu-s-martins-de-oliveira--controladoria-estrat-gica--capa--20250430--104619.jpg",
+  "contracapa": "static/uploads/lu-s-martins-de-oliveira--controladoria-estrat-gica--contracapa--20250430--104619.jpg",
+  "fotos": [
+    "static/uploads/lu-s-martins-de-oliveira--controladoria-estrat-gica--foto1--20250430--104619.jpg",
+    "static/uploads/lu-s-martins-de-oliveira--controladoria-estrat-gica--foto2--20250430--104619.jpg",
+    "static/uploads/lu-s-martins-de-oliveira--controladoria-estrat-gica--foto3--20250430--104619.jpg",
+    "static/uploads/lu-s-martins-de-oliveira--controladoria-estrat-gica--foto4--20250430--104619.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:13:48",
+  "observacoes": "procedencia_biblioteca"
+}

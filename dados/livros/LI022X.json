@@ -1,0 +1,63 @@
+{
+  "obra_id": 3201,
+  "autor": "Howard Gardner; Jie Qi Chen; Seana Moran",
+  "titulo": "Inteligências Múltiplas ao Redor do Mundo",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "gardner inteligencias multiplas redor",
+  "edicao_id": 3181,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 432,
+  "peso": 550,
+  "isbn": "9788536322513",
+  "editora": "Artmed",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro explora como as culturas e contextos educacionais ao redor do mundo moldam a aplicação da teoria das inteligências múltiplas (IM). Gardner e colaboradores analisam esse fenômeno transcultural e educacional, investigando formas práticas e contextualizadas de integrar as IM em ambientes diversos. Com reflexões que ampliam a compreensão da teoria, a obra oferece uma perspectiva rica para educadores e pesquisadores interessados em transformar práticas pedagógicas através de uma visão inovadora e inclusiva da inteligência...",
+  "exemplar_id": 3180,
+  "sku": "LI022X",
+  "preco_estante_virtual": 90.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:25:54",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

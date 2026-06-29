@@ -1,0 +1,68 @@
+{
+  "obra_id": 1422,
+  "autor": "Patrícia Delahaie",
+  "titulo": "Amores que nos fazem mal",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Relacionamentos. Amor. Saúde emocional.",
+  "palavras_chave": "delahaie amores fazem mal",
+  "edicao_id": 1404,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 250,
+  "isbn": "8576350920",
+  "editora": "Larousse",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Como o amor, que buscamos a vida inteira, pode nos fazer mal? Como uma pessoa pode agir sobre nós como uma droga, que nos alivia e destrói? Algumas pessoas parecem se entregar ao amor de corpo e alma, só percebendo mais tarde que entraram em uma relação desigual. Nesse momento, é necessário repensar o amor ou, então, reaprender a amar.</p><p>O grande objetivo deste livro, indispensável para muitos de nós, é mostrar o princípio de precaução, pois até mesmo o mais nobre dos sentimentos precisa ser dosado. A autora aborda vários casos em que o amor é \"doente\", sempre com uma linguagem clara e instigante, recheada de exemplos verdadeiros. Os inúmeros testemunhos que ilustram a obra ajudam a conduzir a um relacionamento melhor, mais equilibrado e feliz.</p>",
+  "sinopse": "O livro explora como o amor pode ser prejudicial, comparando-o a uma droga que traz alívio e destruição. Através de exemplos e casos reais, a autora discute a importância de repensar as relações e apresentar a necessidade de precaução nos sentimentos, para alcançar um amor mais equilibrado e saudável.",
+  "exemplar_id": 1403,
+  "sku": "LI00UA",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/patr-cia-delahaie--amores-que-nos-fazem-mal--capa--20250401--115344.png",
+  "contracapa": "static/uploads/patr-cia-delahaie--amores-que-nos-fazem-mal--contracapa--20250401--115344.png",
+  "fotos": [
+    "static/uploads/patr-cia-delahaie--amores-que-nos-fazem-mal--foto1--20250401--115344.jpg",
+    "static/uploads/patr-cia-delahaie--amores-que-nos-fazem-mal--foto2--20250401--115344.jpg",
+    "static/uploads/patr-cia-delahaie--amores-que-nos-fazem-mal--foto3--20250401--115344.jpg",
+    "static/uploads/patr-cia-delahaie--amores-que-nos-fazem-mal--foto4--20250401--115344.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:19:51",
+  "observacoes": null
+}

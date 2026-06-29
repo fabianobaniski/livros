@@ -1,0 +1,68 @@
+{
+  "obra_id": 742,
+  "autor": "Leonardo Honda",
+  "titulo": "A doutrina da eleição na Bíblia e na história",
+  "subtitulo": "Uma abordagem histórico-exegética à luz de 2 Timóteo 1.9",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Predestinação. Livre arbítrio.",
+  "palavras_chave": "honda doutrina eleicao biblia historia",
+  "edicao_id": 727,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 135,
+  "peso": 190,
+  "isbn": "9788569080169",
+  "editora": "Cruz",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A leitura bíblica atenciosa em comum acordo com sua compreensão teológica, merece nossa atenção cada vez mais, principalmente quando a tendência é fugir do texto e de sua verdade divina, verdade única que vem de Deus, o autor do texto bíblico. Temos em mãos uma obra que nos conduz à compreensão do tema da \"eleição\", que não deve ser ignorada por aqueles que desejam caminhar na verdadeira vereda da Teologia. Uma obra de conteúdo teológico, histórico, e bíblico textual em sua especificidade.</p> <p>Prof. Joerley Cruz</p> <p>Um dos temas mais debatidos nos corredores dos seminários teológicos ao longo da história do Cristianismo foi a Salvação em relação à Predestinação ou o Livre Arbítrio. Neste livro, Leonardo Honda Bastos mostra que este debate não pode ser sujeito apenas aos guetos teológicos, mas que também é possível tratar sobre este assunto nos lugares mais comuns e de forma mais inusitada do que os debates em nível acadêmico. O texto de Leonardo nos conduz de uma forma diferente dos debates comuns sobre a Predestinação e Livre Arbítrio. O texto se isenta de nos aproximar tanto do Calvinismo quanto do Arminianismo, conduzindo-nos à Bíblia como palavra última sobre a matéria. É, portanto, um texto que todo seminarista e pastor deveria ter em sua estante, sempre apto a nos apresentar uma nova abordagem sobre este assunto que tanto tem nos maravilhado.</p> <p>Prof. Celso Eronides Fernandes</p>",
+  "sinopse": "Este livro apresenta uma análise da doutrina da eleição na Bíblia, discutindo suas implicações teológicas em relação à predestinação e ao livre arbítrio. Com uma abordagem histórico-exegética, a obra busca iluminar os debates teológicos comuns, oferecendo uma nova perspectiva a seminaristas e pastores sobre a Salvação e a eleição à luz das Escrituras.",
+  "exemplar_id": 726,
+  "sku": "LI00JL",
+  "preco_estante_virtual": 38.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/leonardo-honda--a-doutrina-da-eleicao-na-biblia-e-na-historia--capa--20251020--173201.png",
+  "contracapa": "static/uploads/leonardo-honda--a-doutrina-da-eleicao-na-biblia-e-na-historia--contracapa--20251020--173215.png",
+  "fotos": [
+    "static/uploads/leonardo-honda--a-doutrina-da-eleicao-na-biblia-e-na-historia--foto1--20251020--165755.jpg",
+    "static/uploads/leonardo-honda--a-doutrina-da-eleicao-na-biblia-e-na-historia--foto2--20251020--165755.jpg",
+    "static/uploads/leonardo-honda--a-doutrina-da-eleicao-na-biblia-e-na-historia--foto3--20251020--165755.jpg",
+    "static/uploads/leonardo-honda--a-doutrina-da-eleicao-na-biblia-e-na-historia--foto4--20251020--165755.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta dedicatória na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:17:00",
+  "observacoes": null
+}

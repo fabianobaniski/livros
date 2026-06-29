@@ -1,0 +1,63 @@
+{
+  "obra_id": 749,
+  "autor": "Franklin Ferreira",
+  "titulo": "Servos de Deus",
+  "subtitulo": "Espiritualidade e teologia na história da igreja",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Teologia. História da Igreja.",
+  "palavras_chave": "ferreira servos deus",
+  "edicao_id": 734,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 474,
+  "peso": 450,
+  "isbn": "9788581321677",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>\"Vivendo Como Servos de Deus\"</h1> <p>1Pedro 2.16</p> <p>Franklin Ferreira oferece ao leitor um rico estudo da espiritualidade cristã, sob prismas devotionais e pastorais. Trabalhando a partir da vida de trinta e dois importantes personagens da história da igreja, este livro considera a vida de alguns dos principais pensadores cristãos como o terreno onde a devoção e a espiritualidade cristã foram formadas, mostrando a ligação entre devoção disciplinada, erudição, produção teológica e renovação eclesial e social.</p> <p>Em ordem cronológica, são eles: Policarpo de Esmirna, Irineu de Lião, Atanásio de Alexandria, Basílio de Cesaréia, Agostinho de Hipona, Leão Magno, Bento de Núrsia, Anselmo de Cantuária, João Wycliffe, João Huss, Tomás de Kempis, Martinho Lutero, Filipe Melanchthon, Ulrico Zwinglio, João Calvino, William Tyndale, Richard Baxter, John Bunyan, Blaise Pascal, Johann Sebastian Bach, Jonathan Edwards, John Wesley, William Carey, William Wilberforce, José Manoel da Conceição, Charles Spurgeon, Abraham Kuyper, Karl Barth, Dietrich Bonhoeffer, C. S. Lewis, Francis Schaeffer e D. M. Lloyd-Jones.</p> <p>Ao final de cada capítulo, o leitor poderá encontrar sugestões de leituras para aprofundamento e a recomendação dos livros escritos por esses homens, que, em nome de Cristo, fizeram a história da igreja e servem de edificação, desafio, correção, conforto e estímulo em nossa peregrinação.</p>",
+  "sinopse": "Neste livro, Franklin Ferreira explora a espiritualidade cristã por meio da análise da vida de trinta e dois personagens marcantes da história da igreja. Ele destaca a interligação entre devoção e erudição, mostrando como essas figuras moldaram a espiritualidade cristã ao longo dos séculos. O texto serve tanto para edificação pessoal quanto para um estudo mais profundo das tradições cristãs importantes.",
+  "exemplar_id": 733,
+  "sku": "LI00JS",
+  "preco_estante_virtual": 43.0,
+  "preco_amazon": 43.0,
+  "capa": "static/uploads/franklin-ferreira--servos-de-deus--capa--20250227--152902.jpg",
+  "contracapa": "static/uploads/franklin-ferreira--servos-de-deus--contracapa--20250227--152902.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:18:16",
+  "observacoes": null
+}

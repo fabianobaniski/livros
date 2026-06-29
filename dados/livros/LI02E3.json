@@ -1,0 +1,68 @@
+{
+  "obra_id": 3608,
+  "autor": "T. Bentley; A. McShane",
+  "titulo": "Conheça a sua Bíblia Versículo por Versículo",
+  "subtitulo": "Comentário Ritchie do Novo Testamento",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "bentley conheca sua biblia",
+  "edicao_id": 3585,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 223,
+  "peso": 360,
+  "isbn": "",
+  "editora": "Edições Cristãs; Shalom Publicações",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3584,
+  "sku": "LI02E3",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/t-bentley--conheca-a-sua-biblia-versiculo-por-versiculo--capa--20251114--175335.png",
+  "contracapa": "static/uploads/t-bentley--conheca-a-sua-biblia-versiculo-por-versiculo--contracapa--20251114--175341.png",
+  "fotos": [
+    "static/uploads/t-bentley--conheca-a-sua-biblia-versiculo-por-versiculo--foto1--20251121--185122.jpg",
+    "static/uploads/t-bentley--conheca-a-sua-biblia-versiculo-por-versiculo--foto2--20251121--185122.jpg",
+    "static/uploads/t-bentley--conheca-a-sua-biblia-versiculo-por-versiculo--foto3--20251121--185122.jpg",
+    "static/uploads/t-bentley--conheca-a-sua-biblia-versiculo-por-versiculo--foto4--20251121--185122.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro usado, em boas condições, livre de grifos ou anotações, embora um tanto amarelado pelo tempo. Sobrecapa com leves desgastes nas laterais."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:43:22",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2502,
+  "autor": "Daniel Hameline",
+  "titulo": "Édouard Claparede",
+  "subtitulo": "Coleção Educadores (mec)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "hameline edouard claparede colecao",
+  "edicao_id": 2482,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 146,
+  "peso": 300,
+  "isbn": "9788570195616",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2481,
+  "sku": "LI01JI",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/daniel-hameline--edouard-claparede--capa--20260316--193227.jpg",
+  "contracapa": "static/uploads/daniel-hameline--edouard-claparede--contracapa--20260316--193227.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:51:55",
+  "observacoes": null
+}

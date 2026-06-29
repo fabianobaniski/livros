@@ -1,0 +1,63 @@
+{
+  "obra_id": 2656,
+  "autor": "J. Michael Omalley; Anna Uhl Chamot",
+  "titulo": "Learning strategies in second language acquisition",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Ensino de Idiomas",
+  "temas": "",
+  "palavras_chave": "omalley learning strategies second",
+  "edicao_id": 2636,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 260,
+  "peso": 350,
+  "isbn": "9780521358378",
+  "editora": "Cambridge University Press",
+  "numero_edicao": null,
+  "ano": 1990,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "OMalley e Chamot analisam as principais estratégias de aprendizagem de línguas, classificando-as e explicando como podem impactar positivamente o processo de aquisição de uma segunda língua. A obra apresenta modelos instrucionais para o ensino dessas estratégias, que podem ser aplicados em sala de aula para tornar os alunos mais autônomos e eficazes. Baseada em pesquisas atuais sobre aquisição de segunda língua e teoria cognitiva, é uma referência valiosa para linguistas, educadores e professores que buscam aprimorar seus métodos de ensino.",
+  "exemplar_id": 2635,
+  "sku": "LI01NS",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/learning-strategies-in-second-language-acquisition-j-michael-omalley-capa_rev1373.jpg",
+  "contracapa": "static/uploads/learning-strategies-in-second-language-acquisition-j-michael-omalley-contracapa_rev1624.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro que, embora bem conservado, entrou em contato com umidade e ficou com a aparência prejudicada. Leitura e manuseio não foram prejudicados. Texto sem grifos e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:18:29",
+  "observacoes": null
+}

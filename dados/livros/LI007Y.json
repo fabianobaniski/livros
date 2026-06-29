@@ -1,0 +1,68 @@
+{
+  "obra_id": 311,
+  "autor": "J. L. Lopes; André L. S. Oliveira",
+  "titulo": "Os guardiões da humanidade",
+  "subtitulo": "O legado do falcão",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Ficção científica. Aventura. Tecnologia.",
+  "palavras_chave": "lopes guardioes humanidade ",
+  "edicao_id": 303,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 502,
+  "peso": 350,
+  "isbn": "9788542801187",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Século XXII.</p><p>Peter Hawkson é um garoto órfão e sem muitos amigos, que se amarra em skypnismo e futebol mecatrônico, apesar de sua clara inaptidão para estas práticas. Mora num dos prédios abandonados da Baixa-Manaus, de onde viaja todo dia até a grande cúpula na alta-cidade, para estudar, esperando se tornar futuramente, pelo menos, um operador mecatrônico de construção, já que as oportunidades desta nova Ordem Mundial são ínfimas.</p><p>Porém, um encontro inesperado o leva a um trágico acidente, despertando nele habilidades ímpares que lançarão numa disputa entre uma poderosa corporação de avançados recursos tecnológicos e uma trina aliança de monstros, humanos e alienígenas.</p><p>Descendente de um dos antigos e mais poderosos Guardiões da Humanidade, dependerá agora dele a manutenção da paz entre dois mundos, a do superfície e o de Lemúria, sem imaginar que um mal, há muito esquecido, também está prestes a se revelar.</p>",
+  "sinopse": "No século XXII, Peter Hawkson, um órfão sem muitos amigos, se empenha no skypnismo e futebol mecatrônico, apesar de suas dificuldades. Ele vive em uma área abandonada de Baixa-Manaus, sonhando em se tornar um operador mecatrônico. Um encontro inesperado desencadeia habilidades que o envolvem em uma disputa entre uma corporação avançada e uma aliança de monstros. Sendo descendente de um poderoso Guardião da Humanidade, ele deve lutar pela paz entre dois mundos, enquanto um mal esquecido emerge.",
+  "exemplar_id": 302,
+  "sku": "LI007Y",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/j--l--lopes--os-guardi-es-da-humanidade--capa--20250226--133818.jpg",
+  "contracapa": "static/uploads/j--l--lopes--os-guardi-es-da-humanidade--contracapa--20250226--133818.jpg",
+  "fotos": [
+    "static/uploads/j--l--lopes--os-guardi-es-da-humanidade--foto1--20250226--133818.jpg",
+    "static/uploads/j--l--lopes--os-guardi-es-da-humanidade--foto2--20250226--133818.jpg",
+    "static/uploads/j--l--lopes--os-guardi-es-da-humanidade--foto3--20250226--133818.jpg",
+    "static/uploads/j--l--lopes--os-guardi-es-da-humanidade--foto4--20250226--133818.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:11:45",
+  "observacoes": null
+}

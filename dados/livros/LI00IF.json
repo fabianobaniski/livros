@@ -1,0 +1,68 @@
+{
+  "obra_id": 700,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "1 Timóteo",
+  "subtitulo": "O pastor, sua vida e sua obra",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Liderança. Prática Pastoral.",
+  "palavras_chave": "lopes 1 timoteo pastor",
+  "edicao_id": 685,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 190,
+  "isbn": "9788577421299",
+  "editora": "Hagnos",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>A primeira carta de Paulo a Timóteo é um manual divino que orienta a prática pastoral diante dos grandes embates da vida e das tensões da lida ministerial. Como um pastor deve portar-se na igreja de Deus? Como lidar com a sedução das falsas doutrinas? Como instruir o povo acerca do relacionamento com as autoridades? Como enfrentar os falsos mestres que apostatam da fé? Qual é o lugar da oração na vida da igreja e como escolher seus líderes? Quais critérios devem ser observados? Esses e outros temas são levantados pelo apóstolo Paulo e abordados de forma normativa. Esta carta, tem uma mensagem urgente. Se os pastores a observarem os problemas que atacam a igreja hoje serão enfrentados com a sabedoria de Deus. Então, teremos igrejas saudáveis, fortes e multiplicadoras.</p><p>Hernandes Dias Lopes é casado com Udemilta Pimentel Lopes e pai de Thiago e Mariana. É bacharel em Teologia pelo Seminário Presbiteriano do Sul, em Campinas, SP e doutor em Ministério pelo Reformed theological Seminary de Jackson, Mississippi, Estados Unidos: Ele é pastor da Primeira Igreja Presbiteriana de Vitória, Espírito Santo, desde 1985. É conferencista, escritor com mais de 100 títulos publicados e diretor executivo de Luz para o Caminho. É membro da Academia Evangélica de Letras do Brasil. Contato: www.hernandesdiaslopes.com.br</p>",
+  "sinopse": "A primeira carta de Paulo a Timóteo serve como um manual para pastores, orientando sobre a prática pastoral em face dos desafios ministeriais e das falsas doutrinas. O autor discute como um pastor deve agir, a importância do relacionamento com autoridades e como escolher líderes. A urgência da mensagem clama por uma igreja sábia e saudável, que enfrente os problemas contemporâneos com a sabedoria de Deus.",
+  "exemplar_id": 684,
+  "sku": "LI00IF",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/hernandes-dias-lopes--1-tim-teo--capa--20250227--152858.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--1-tim-teo--contracapa--20250227--152858.jpg",
+  "fotos": [
+    "static/uploads/hernandes-dias-lopes--1timoteo--foto1--20251020--203848.jpg",
+    "static/uploads/hernandes-dias-lopes--1timoteo--foto2--20251020--203848.jpg",
+    "static/uploads/hernandes-dias-lopes--1timoteo--foto3--20251020--203848.jpg",
+    "static/uploads/hernandes-dias-lopes--1timoteo--foto4--20251020--203848.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:04:29",
+  "observacoes": null
+}

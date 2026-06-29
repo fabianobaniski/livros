@@ -1,0 +1,68 @@
+{
+  "obra_id": 1869,
+  "autor": "Carlos Montaño",
+  "titulo": "Terceiro setor e questão social",
+  "subtitulo": "Crítica ao padrão emergente de intervenção social",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Sociologia. Terceiro setor. Sociedade civil. Intervenção social. Neoliberalismo. Política.",
+  "palavras_chave": "montano terceiro setor questao social",
+  "edicao_id": 1849,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 288,
+  "peso": 440,
+  "isbn": "9788524908200",
+  "editora": "Cortez",
+  "numero_edicao": 6,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em seu novo livro, Carlos Montaño enfrenta teoricamente uma das principais artimanhas ideológicas do pensamento neoliberal: a tentativa de substituir o conceito gramsciano de “sociedade civil”, enquanto arena privilegiada da luta de classes e momento constitutivo do Estado ampliado, pela vaga noção de “terceiro setor”, concebido como algo pretensamente situado para além do Estado e do mercado. Ele não se limita a mostrar o equívoco teórico deste ambíguo conceito de “terceiro setor”, mas aponta também para as suas perigosas implicações políticas. Para Carlos Montaño, como para seu mestre Marx, não se trata apenas de interpretar o mundo: é preciso transformá-lo.</p><p><b>Carlos Nelson Coutinho</b></p>",
+  "sinopse": "Neste livro, Carlos Montaño analisa criticamente a tentativa neoliberal de substituir o conceito gramsciano de 'sociedade civil' pela noção vaga de 'terceiro setor', concebido como algo situado além do Estado e do mercado. O autor expõe os equívocos teóricos deste conceito e alerta para suas perigosas implicações políticas, defendendo a necessidade de transformar a realidade social, e não apenas interpretá-la.",
+  "exemplar_id": 1848,
+  "sku": "LI011Z",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/carlos-monta-o--terceiro-setor-e-quest-o-social--capa--20250430--104252.jpg",
+  "contracapa": "static/uploads/carlos-monta-o--terceiro-setor-e-quest-o-social--contracapa--20250430--104252.jpg",
+  "fotos": [
+    "static/uploads/carlos-monta-o--terceiro-setor-e-quest-o-social--foto1--20250430--104252.jpg",
+    "static/uploads/carlos-monta-o--terceiro-setor-e-quest-o-social--foto2--20250430--104252.jpg",
+    "static/uploads/carlos-monta-o--terceiro-setor-e-quest-o-social--foto3--20250430--104252.jpg",
+    "static/uploads/carlos-monta-o--terceiro-setor-e-quest-o-social--foto4--20250430--104252.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:05:39",
+  "observacoes": "procedencia_biblioteca"
+}

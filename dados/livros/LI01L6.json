@@ -1,0 +1,63 @@
+{
+  "obra_id": 2562,
+  "autor": "Hermann Röhrs",
+  "titulo": "Georg Kerschensteiner",
+  "subtitulo": "Coleção Educadores (MEC)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "rohrs georg kerschensteiner colecao",
+  "edicao_id": 2542,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 276,
+  "isbn": "9788570195500",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2541,
+  "sku": "LI01L6",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/hermann-rohrs--georg-kerschensteiner--capa--20260316--202635.jpg",
+  "contracapa": "static/uploads/hermann-rohrs--georg-kerschensteiner--contracapa--20260316--202635.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:27:42",
+  "observacoes": null
+}

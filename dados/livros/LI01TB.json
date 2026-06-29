@@ -1,0 +1,63 @@
+{
+  "obra_id": 2855,
+  "autor": "Mione Apolinário Sales",
+  "titulo": "Política social, família e juventude",
+  "subtitulo": "Uma questão de direitos",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "sales politica social familia",
+  "edicao_id": 2835,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 317,
+  "peso": 300,
+  "isbn": "9788524910296",
+  "editora": "Cortez / Uerj",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A infância e a adolescência são fases essenciais para o futuro da sociedade, marcadas por sofrimentos, esperanças e carências. Diante de uma realidade social desigual, este livro destaca a importância de ouvir e incluir essas vozes na formulação de políticas públicas. Defende que sem o envolvimento das instituições sociais, como o Estado e a família, é impossível promover justiça social e garantir direitos básicos de cidadania. A obra propõe que a atenção à infância e adolescência seja central nas ações do Estado, visando uma sociedade mais justa e inclusiva.",
+  "exemplar_id": 2834,
+  "sku": "LI01TB",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/politica-social-familia-e-juventude-mione-apolinario-sales-capa_rev288.jpg",
+  "contracapa": "static/uploads/politica-social-familia-e-juventude-mione-apolinario-sales-contracapa_rev997.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:07:33",
+  "observacoes": null
+}

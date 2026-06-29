@@ -1,0 +1,68 @@
+{
+  "obra_id": 1425,
+  "autor": "Paulo Campo Grande",
+  "titulo": "O homem que dirigiu tudo",
+  "subtitulo": "Os carros que marcaram a carreira de um dos mais experientes jornalistas automotivos do Brasil",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Automóveis. Jornalismo. Histórias.",
+  "palavras_chave": "campo grande homem dirigiu",
+  "edicao_id": 1407,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 249,
+  "peso": 350,
+  "isbn": "9788587711113",
+  "editora": "Abril",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Neste livro, reuni algumas das histórias mais interessantes que coletei em cerca de 20 anos de atividade. Não foi fácil eleger as melhores. Como critério, priorizei os carros que me deram maior prazer ao dirigir e ao escrever sobre eles. São modelos que me marcaram em razão do desempenho, do design, da tecnologia embarcada, do carisma das marcas e das condições em que foram testados. Além de nomes lendários como Ferrari, Mercedes-Benz, Maserati, Aston Martin e Pagani Zonda, há curiosidades como o triciclo holandês Carver One e o blindado Guarani, o único projeto brasileiro desta turma.</p><p>Também estão aqui carros que eu nunca havia testado, mas que achava obrigatório que entrassem no livro. Assim, coloquei nas mãos e avaliei ícones como o Rolls-Royce Ghost, o Bugatti Veyron e o Fórmula 1 Lotus-Renault.</p><p>Nos 32 capítulos da obra, menciono 102 modelos que dirigi, contando não só os que são os destaques mas também os que são apenas citados. Se você, como eu, gosta de carros, tenho certeza de que vai gostar deste livro.</p>",
+  "sinopse": "O livro reúne histórias marcantes de um jornalista automotivo ao longo de 20 anos, com foco em carros que proporcionaram prazer de dirigir e relatar. Entre eles, estão nomes lendários e curiosidades sobre modelos icônicos, assim como impressões sobre veículos que convém serem destacados, garantindo uma leitura cativante para amantes de automóveis.",
+  "exemplar_id": 1406,
+  "sku": "LI00UD",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/paulo-campo-grande--o-homem-que-dirigiu-tudo--capa--20250401--115344.png",
+  "contracapa": "static/uploads/paulo-campo-grande--o-homem-que-dirigiu-tudo--contracapa--20250401--115344.png",
+  "fotos": [
+    "static/uploads/paulo-campo-grande--o-homem-que-dirigiu-tudo--foto1--20250401--115344.jpg",
+    "static/uploads/paulo-campo-grande--o-homem-que-dirigiu-tudo--foto2--20250401--115344.jpg",
+    "static/uploads/paulo-campo-grande--o-homem-que-dirigiu-tudo--foto3--20250401--115344.jpg",
+    "static/uploads/paulo-campo-grande--o-homem-que-dirigiu-tudo--foto4--20250401--115344.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:22:02",
+  "observacoes": null
+}

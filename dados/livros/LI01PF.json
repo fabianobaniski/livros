@@ -1,0 +1,63 @@
+{
+  "obra_id": 2715,
+  "autor": "Finn Ostrup",
+  "titulo": "Money and the natural rate of unemployment",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Economia",
+  "temas": "",
+  "palavras_chave": "ostrup money and the",
+  "edicao_id": 2695,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 308,
+  "peso": 350,
+  "isbn": "9780521661393",
+  "editora": "Cambridge University Press",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro apresenta uma visão revisionista sobre política monetária e regimes financeiros, desafiando a ideia predominante de que o dinheiro não impacta a produção a longo prazo. A obra introduz novos mecanismos que mostram como o dinheiro afeta a produção e discute as implicações políticas dessa influência, abordando o uso da política monetária, o papel dos bancos centrais independentes e a transição de câmbios flutuantes para fixos em uniões monetárias. É uma referência tanto para estudioso, formuladores de políticas e estudantes avançados de macroeconomia e finanças.",
+  "exemplar_id": 2694,
+  "sku": "LI01PF",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/money-and-the-natural-rate-of-unemployment-finn-ostrup-capa_rev214.jpg",
+  "contracapa": "static/uploads/money-and-the-natural-rate-of-unemployment-finn-ostrup-contracapa_rev157.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:56",
+  "observacoes": null
+}

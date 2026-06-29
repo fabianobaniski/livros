@@ -1,0 +1,63 @@
+{
+  "obra_id": 2817,
+  "autor": "Raquel Kritsch; Leonel I. A. Mello; Claudio Vouga",
+  "titulo": "Oliveiros S. Ferreira",
+  "subtitulo": "Um pensador da política",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "kritsch oliveiros ferreira pensador",
+  "edicao_id": 2797,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 252,
+  "peso": 300,
+  "isbn": "9788586087677",
+  "editora": "Fapesp",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Oliveiros Ferreira, com uma trajetória marcada pela rejeição a dogmas e ortodoxias, desenvolveu uma reflexão crítica sobre o poder político no Brasil, especialmente no que diz respeito às elites e ao papel dos militares. Abandonando a militância partidária, seu trabalho na academia e no jornalismo nunca se afastou da ação e dos grandes impasses da sociedade brasileira. Sua análise vai além dos meios materiais do poder, focando na sociologia política como chave para entender a política e os desafios de uma revolução nunca concretizada no país.",
+  "exemplar_id": 2796,
+  "sku": "LI01S9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/oliveiros-s-ferreira-raquel-kritsch-capa_rev820.jpg",
+  "contracapa": "static/uploads/oliveiros-s-ferreira-raquel-kritsch-contracapa_rev1306.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:14",
+  "observacoes": null
+}

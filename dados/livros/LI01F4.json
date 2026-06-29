@@ -1,0 +1,63 @@
+{
+  "obra_id": 2343,
+  "autor": "Diaryatou Bah",
+  "titulo": "A minha infância roubada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "bah minha infancia roubada",
+  "edicao_id": 2323,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 242,
+  "peso": 520,
+  "isbn": "9782222224075",
+  "editora": "Dom Quixote",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A Minha Infância Roubada é o testemunho de Diaryatou, uma guineense que enfrentou uma vida de adversidades. Aos dois anos, foi deixada pelo pai com a avó numa aldeia sem infraestruturas básicas. Submetida à mutilação genital aos oito anos, foi casada aos catorze com um homem muito mais velho que a levou para a Holanda. Lá, viveu como clandestina, sofrendo abusos e engravidando duas vezes, abortando ambas por falta de assistência médica. Aos dezoito, fugiu após um terceiro parto de um bebé nado-morto. Atualmente, vive na França, onde continua seus estudos, na esperança de um dia ser legalizada.",
+  "exemplar_id": 2322,
+  "sku": "LI01F4",
+  "preco_estante_virtual": 38.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/diaryatou-bah--a-minha-infancia-roubada--capa--20260316--151806.jpg",
+  "contracapa": "static/uploads/diaryatou-bah--a-minha-infancia-roubada--contracapa--20260316--151813.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:32:38",
+  "observacoes": null
+}

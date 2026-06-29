@@ -1,0 +1,63 @@
+{
+  "obra_id": 4992,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Aventura. Sobrenatural.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4967,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9788545706878",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 12,
+  "transcricao_contracapa": "<h1>A batalha derradeira está para começar...!</h1> <p>Matar Negie salvar o mundo? Ou salvar Negi e também o mundo? A chave para o sucesso é o poder de Kīrie de parar o tempo que só é ativado quando ela beija Touta. E para aprimorar e explorar essa característica, cogitou-se que Touta namorasse a garota, mas o resultado disso é uma luta entre Mizore, Shinobu e a própria Kīrie!</p>",
+  "sinopse": "A batalha final está prestes a começar, enquanto Touta enfrenta o dilema de salvar Negi e o mundo. O poder de Kīrie de parar o tempo só se ativa com um beijo, levando a um embate entre diversas forças para dominar essa habilidade decisiva.",
+  "exemplar_id": 4966,
+  "sku": "LI02QA",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-34-036114-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-34-088920-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

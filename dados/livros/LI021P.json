@@ -1,0 +1,63 @@
+{
+  "obra_id": 3157,
+  "autor": "Sheila Cavalcante Caetano",
+  "titulo": "Autismo, linguagem e cognição",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "caetano autismo linguagem cognicao",
+  "edicao_id": 3137,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 122,
+  "peso": 300,
+  "isbn": "9788546200283",
+  "editora": "Paco Editorial",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3136,
+  "sku": "LI021P",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/sheila-cavalcante-caetano--autismo-linguagem-e-cognicao--capa--20260316--155512.jpg",
+  "contracapa": "static/uploads/sheila-cavalcante-caetano--autismo-linguagem-e-cognicao--contracapa--20260316--155519.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: O livro explora o transtorno do espectro autista (TEA) com clareza e objetividade, reunindo contribuições de especialistas em linguística, psicologia, fonoaudiologia e psiquiatria. A obra destaca as interações entre cognição, linguagem e comunicação, oferecendo uma visão multidisciplinar sobre etiologia, diagnóstico, tratamento e suporte familiar e escolar. É um recurso valioso para estudantes, pesquisadores e profissionais de saúde e educação, apresentando as pesquisas e intervenções mais recentes no campo do TEA. / Livro seminovo, com pouquíssimos sinais de uso. Não possui anotações, sublinhados, marcas de umidade, mofo, traça ou sol excessivo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:32:08",
+  "observacoes": null
+}

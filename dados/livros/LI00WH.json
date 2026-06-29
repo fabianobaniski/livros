@@ -1,0 +1,68 @@
+{
+  "obra_id": 1506,
+  "autor": "José Maria Rodriguez Ramos",
+  "titulo": "Conhece-te a ti mesmo",
+  "subtitulo": "Excelência humana e ética",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Ética. Autoconhecimento. Integridade.",
+  "palavras_chave": "rodriguez conhece-te ti mesmo excelencia",
+  "edicao_id": 1487,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 250,
+  "isbn": "9788574652481",
+  "editora": "Quadrante",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Sophie Scholl e seus amigos da resistência clandestina ao nazismo; o doutor Stockmann e a cegueira dos seus concidadãos; Ben-Hur e seu desejo de vingança; Adolf Eichmann e sua obsessão com o dever: o que esses e outros personagens, reais e fictícios, têm em comum? Todos, em maior ou menor grau, viram-se diante de verdadeiras provas de fogo éticas. E agiram de acordo com o que tinham dentro de si. Alguns deles nos legaram preciosos exemplos de integridade, ao passo que as ações de outros tiveram consequências catastróficas.</p><p>É difícil agir eticamente sem autoconhecimento. Quem não sabe quem é, não saberá o que é bom nem para si nem para os outros. O hábito da reflexão nos leva a enxergar as próprias inclinações, a cultivar as virtudes e, principalmente, a formar a própria consciência, a fim de que a nossa vida se guie pelo que é certo, custe o que custar.</p><p>\"Conhece-te a ti mesmo\": a máxima gravada no Templo de Apolo em Delfos lembrava aos peregrinos de toda a Grécia que aquele que busca respostas para o seu destino deve começar a procurá-las dentro de si.</p>",
+  "sinopse": "O livro explora a importância do autoconhecimento para agir eticamente em situações desafiadoras. Através de exemplos inspiradores e reflexões sobre personagens históricos e fictícios, destaca como a integridade e a consciência influenciam as ações humanas. A máxima 'Conhece-te a ti mesmo' é central para a busca por respostas sobre o próprio destino.",
+  "exemplar_id": 1486,
+  "sku": "LI00WH",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 32.0,
+  "capa": "static/uploads/jos--maria-rodriguez-ramos--conhece-te-a-ti-mesmo--capa--20250401--115742.jpg",
+  "contracapa": "static/uploads/jos--maria-rodriguez-ramos--conhece-te-a-ti-mesmo--contracapa--20250401--115742.jpg",
+  "fotos": [
+    "static/uploads/jos--maria-rodriguez-ramos--conhece-te-a-ti-mesmo--foto1--20250401--115742.jpg",
+    "static/uploads/jos--maria-rodriguez-ramos--conhece-te-a-ti-mesmo--foto2--20250401--115742.jpg",
+    "static/uploads/jos--maria-rodriguez-ramos--conhece-te-a-ti-mesmo--foto3--20250401--115742.jpg",
+    "static/uploads/jos--maria-rodriguez-ramos--conhece-te-a-ti-mesmo--foto4--20250401--115742.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:57:00",
+  "observacoes": null
+}

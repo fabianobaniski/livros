@@ -1,0 +1,63 @@
+{
+  "obra_id": 600,
+  "autor": "Charles Swindoll",
+  "titulo": "A igreja desviada",
+  "subtitulo": "Um chamado urgente para uma Nova Reforma",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Igreja. Reforma.",
+  "palavras_chave": "swindoll igreja desviada",
+  "edicao_id": 585,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 303,
+  "peso": 350,
+  "isbn": "9788573257106",
+  "editora": "Mundo Cristão",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "Heróis da Fé",
+  "volume": null,
+  "transcricao_contracapa": "<p>Considerando as leis da física e os sentidos humanos, quanto mais longe estamos de um objeto, mais dificuldades temos para enxergá-lo com nitidez e clareza de detalhes. Quanto mais distantes ficamos de um rádio ligado, mais dificuldades temos para ouvir e compreender o som que sai de seus alto-falantes. A mesma lógica é válida para o nosso relacionamento com Deus.</p> <p>Se estamos longe dele, não oramos, não lemos a Bíblia, não frequentamos uma igreja, não temos comunhão com outros cristãos, e é mais difícil obter respostas para nossas inquietudes e orientação para as decisões que devemos tomar. Mais míopes e surdos somos para compreender seu plano, sua vontade para nós.</p> <p>Charles Swindoll, consagrado autor da série Heróis da Fé, apresenta para o debate os desafios que a igreja cristã enfrenta nos dias atuais, ameaçada que está pelo seculiarismo e humanismo desregrados, que afastam da verdade pura e simples do evangelho de Cristo.</p> <p>A Igreja Desviada é um alerta contundente e definitivo para todo aquele que ama o Senhor e reconhece a igreja de Cristo como sinal visível do Reino de Deus.</p>",
+  "sinopse": "A Igreja Desviada aborda os desafios que a igreja cristã enfrenta na atualidade, abordando os riscos do seculiarismo e do humanismo e a importância de um retorno à verdade do evangelho. O livro serve como um chamado urgente para uma nova reforma, enfatizando a necessidade de conexão espiritual e comunhão entre os cristãos.",
+  "exemplar_id": 584,
+  "sku": "LI00FN",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/charles-swindoll--a-igreja-desviada--capa--20250227--152852.jpg",
+  "contracapa": "static/uploads/charles-swindoll--a-igreja-desviada--contracapa--20250227--152852.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:27:40",
+  "observacoes": null
+}

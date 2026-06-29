@@ -1,0 +1,68 @@
+{
+  "obra_id": 342,
+  "autor": "Alphonse Gratry",
+  "titulo": "Conselhos para a direção do espírito",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Educação. Autodescoberta.",
+  "palavras_chave": "gratry conselhos direcao",
+  "edicao_id": 333,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 103,
+  "peso": 200,
+  "isbn": "9788594090270",
+  "editora": "Kiron",
+  "numero_edicao": 1,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Estes conselhos não se dirigem a todo mundo: um número muito pequeno de espíritos, no atual estado do mundo, são ou desejam ser capazes de segui-los. Dirigem-se àquele homem de vinte anos, espírito raro e privilegiado, coração ainda mais privilegiado, que, no momento em que seus colegas de estudo chegaram ao final de sua trajetória, compreende que sua educação está apenas começando; que, na idade em que o amor pelo prazer e pela liberdade, pelo mundo, por suas honras e riquezas arrasta e precipita a multidão, detém-se, ergue os olhos e busca, no imenso horizonte da vida, no céu e na terra, o objeto de um outro amor.</p>",
+  "sinopse": "Este livro é destinado a um grupo seleto de espíritos, abordando reflexões para o homem jovem, que busca compreensão no início de sua trajetória e se afasta das superficialidades do mundo para buscar um amor mais profundo.",
+  "exemplar_id": 332,
+  "sku": "LI008R",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/alphonse-gratry--conselhos-para-a-dire--o-do-esp-rito--capa--20250226--133821.jpg",
+  "contracapa": "static/uploads/alphonse-gratry--conselhos-para-a-dire--o-do-esp-rito--contracapa--20250226--133821.jpg",
+  "fotos": [
+    "static/uploads/alphonse-gratry--conselhos-para-a-dire--o-do-esp-rito--foto1--20250226--133821.jpg",
+    "static/uploads/alphonse-gratry--conselhos-para-a-dire--o-do-esp-rito--foto2--20250226--133821.jpg",
+    "static/uploads/alphonse-gratry--conselhos-para-a-dire--o-do-esp-rito--foto3--20250226--133821.jpg",
+    "static/uploads/alphonse-gratry--conselhos-para-a-dire--o-do-esp-rito--foto4--20250226--133821.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto possui sublinhados e (interessantes) anotações à lápis. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:57:32",
+  "observacoes": null
+}

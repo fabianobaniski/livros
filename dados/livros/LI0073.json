@@ -1,0 +1,68 @@
+{
+  "obra_id": 278,
+  "autor": "Michael Cunningham",
+  "titulo": "Um cisne selvagem e outras histórias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura fantástica. Contos. Fadas.",
+  "palavras_chave": "cunningham cisne selvagem",
+  "edicao_id": 272,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 118,
+  "peso": 150,
+  "isbn": "9786558381150",
+  "editora": "Bertrand Brasil",
+  "numero_edicao": 1,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Cunningham conta de modo elegante ou ousado dez contos de fadas clássicos, intensificando o mistério inquietante das versões originais. As notáveis ilustrações em preto e branco de Yuko Shimizu constituem um contraponto visual adequado a esta coletânea simultaneamente sombria e maravilhosa.</p><p>— Publishers Weekly</p>",
+  "sinopse": "Michael Cunningham apresenta uma nova leitura de dez contos clássicos de fadas, revelando o lado sombrio e misterioso que permeia as versões originais. Com ilustrações marcantes de Yuko Shimizu, a obra é um convite a reimaginar histórias conhecidas sob uma nova luz.",
+  "exemplar_id": 271,
+  "sku": "LI0073",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/michael-cunningham--um-cisne-selvagem--capa--20250226--133815.jpg",
+  "contracapa": "static/uploads/michael-cunningham--um-cisne-selvagem--contracapa--20250226--133815.jpg",
+  "fotos": [
+    "static/uploads/michael-cunningham--um-cisne-selvagem--foto1--20250226--133815.jpg",
+    "static/uploads/michael-cunningham--um-cisne-selvagem--foto2--20250226--133815.jpg",
+    "static/uploads/michael-cunningham--um-cisne-selvagem--foto3--20250226--133815.jpg",
+    "static/uploads/michael-cunningham--um-cisne-selvagem--foto4--20250226--133815.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:35:37",
+  "observacoes": null
+}

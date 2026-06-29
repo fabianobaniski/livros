@@ -1,0 +1,63 @@
+{
+  "obra_id": 2766,
+  "autor": "Cezar Alexandre Carneiro",
+  "titulo": "O eu ignorante",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "cezar carneiro o eu ignorante",
+  "edicao_id": 2746,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 126,
+  "peso": 300,
+  "isbn": "9788576851653",
+  "editora": "Odorizzi",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A vida moderna parece ter perdido o sentido de valores, substituindo a busca pela verdadeira felicidade pelo prazer imediato. Em um mundo onde tudo é urgente, as pessoas se deixam levar por vícios, luxúria e poder, esquecendo-se da qualidade de vida e do que realmente importa. A criança interior em cada um clama por atenção, por um pouco de amor e sinceridade, mas seguimos cegos, indiferentes ao que está errado. Só quando cada indivíduo decidir agir é que as verdadeiras mudanças poderão acontecer.",
+  "exemplar_id": 2745,
+  "sku": "LI01QU",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-eu-ignorante-cezar-alexandre-carneiro-capa_rev750.jpg",
+  "contracapa": "static/uploads/o-eu-ignorante-cezar-alexandre-carneiro-contracapa_rev690.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:06:40",
+  "observacoes": null
+}

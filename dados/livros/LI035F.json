@@ -1,0 +1,68 @@
+{
+  "obra_id": 5770,
+  "autor": "Robson Pinheiro; Ângelo Inácio",
+  "titulo": "Os Nephilins",
+  "subtitulo": "A origem",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Espiritismo. Mitologia bíblica. Evolução humana. Astronautas do passado.",
+  "palavras_chave": "pinheiro nephilins origem",
+  "edicao_id": 5745,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 477,
+  "peso": 630,
+  "isbn": "9788599818343",
+  "editora": "Casa dos Espíritos",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "Crônicas da Terra",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Conta a Bíblia que os filhos das estrelas possuíram as filhas dos homens, e o fruto da sua união – os <i>nephilins</i> – é capaz de explicar saltos evolutivos na origem da espécie humana. Ou seja, em nossa juventude planetária, recebemos a contribuição de astronautas exilados. Mas como imaginar essa miscigenação cósmica?</p><p>A queda de braço entre as sombras e as forças da justiça talvez sintetize nossa própria história. Afinal, como já disse um sábio, Deus é aquele que, das trevas, tira a luz.</p><p><b>Série Crônicas da Terra, vol. 2</b></p>",
+  "sinopse": "A Bíblia narra que os filhos das estrelas se uniram às filhas dos homens, originando os nephilins, cuja existência pode explicar saltos evolutivos da espécie humana. Assim, na juventude da Terra, astronautas exilados teriam influenciado nossa origem. O livro propõe uma reflexão sobre a miscigenação cósmica e a eterna disputa entre sombras e justiça, sintetizando nossa história sob a luz da sabedoria espiritual.",
+  "exemplar_id": 5744,
+  "sku": "LI035F",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/os-nephilins__a-origem__robson-pinheiro-angelo-inacio__capa__2026-01-18_14-11-34-805187-000.png",
+  "contracapa": "static/uploads/os-nephilins__a-origem__robson-pinheiro-angelo-inacio__contracapa__2026-01-18_14-11-34-826227-001.png",
+  "fotos": [
+    "static/uploads/os-nephilins__a-origem__robson-pinheiro-angelo-inacio__foto-01__2026-01-18_14-11-34-843316-002.jpg",
+    "static/uploads/os-nephilins__a-origem__robson-pinheiro-angelo-inacio__foto-02__2026-01-18_14-11-34-891876-003.jpg",
+    "static/uploads/os-nephilins__a-origem__robson-pinheiro-angelo-inacio__foto-03__2026-01-18_14-11-34-932252-004.jpg",
+    "static/uploads/os-nephilins__a-origem__robson-pinheiro-angelo-inacio__foto-04__2026-01-18_14-11-34-964294-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém um pouco amarelado. (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:21:46",
+  "observacoes": null
+}

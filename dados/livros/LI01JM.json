@@ -1,0 +1,63 @@
+{
+  "obra_id": 2506,
+  "autor": "Roberto Bicelli",
+  "titulo": "Ego trip",
+  "subtitulo": "Viajo e celebro a mim mesmo",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "bicelli ego trip viajo",
+  "edicao_id": 2486,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 245,
+  "peso": 300,
+  "isbn": "9788564683037",
+  "editora": "Virgiliae",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro é um diário antropológico de Roberto Bicelli, que combina humor e reflexão para explorar a vida cotidiana de maneira engenhosa e sensível. Ao longo da obra, o autor revela suas observações e experiências pessoais, abordando desde sinais de fumaça até telegramas e anotações íntimas. Com um estilo leve e dinâmico, o texto constrói uma narrativa rica, ao mesmo tempo em que expõe de forma honesta suas emoções e reflexões sobre os acontecimentos à sua volta.",
+  "exemplar_id": 2485,
+  "sku": "LI01JM",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/roberto-bicelli--ego-trip--capa--20260316--193400.jpg",
+  "contracapa": "static/uploads/roberto-bicelli--ego-trip--contracapa--20260316--193400.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Histórias, encontros e desencontros de um poeta beat rumo ao norte. / Ótima conservação. Nada de grifos ou anotações. Capa, lombada e contracapa sem danos. Discretos sinais de manuseio e/ou da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:58:30",
+  "observacoes": null
+}

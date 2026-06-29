@@ -1,0 +1,63 @@
+{
+  "obra_id": 3164,
+  "autor": "Alexis de Tocqueville",
+  "titulo": "A Emancipação dos Escravos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "tocqueville emancipacao dos escravos",
+  "edicao_id": 3144,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 139,
+  "peso": 300,
+  "isbn": "9788530803025",
+  "editora": "Papirus",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Alexis de Tocqueville aborda a escravidão como uma instituição milenar que raramente é questionada, mas que se torna insustentável após ser desafiada. Com clareza e erudição, ele debate não apenas a conveniência da abolição, mas sua oportunidade histórica e social. Analisa quando e como a abolição deve ocorrer, destacando a importância do contexto histórico. Tocqueville enfatiza que a transformação social necessária deve ocorrer não por ser melhor, mas porque o momento histórico exige. O ensaio é fundamental para entender a complexidade desse período crucial.",
+  "exemplar_id": 3143,
+  "sku": "LI021W",
+  "preco_estante_virtual": 115.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora apresente leves marcas de uso e da passagem dos anos, estando um pouco amarelado. Não possui anotações, sublinhados, marcas de umidade, mofo, traça ou sol excessivo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:20:19",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

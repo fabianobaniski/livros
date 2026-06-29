@@ -1,0 +1,68 @@
+{
+  "obra_id": 174,
+  "autor": "Hajo Düchting",
+  "titulo": "Edvard Munch",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Artes",
+  "temas": "Arte. Expressionismo.",
+  "palavras_chave": "munch edvard Hajo",
+  "edicao_id": 170,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 288,
+  "peso": 700,
+  "isbn": "9783955886219",
+  "editora": "Könemann",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 169,
+  "sku": "LI004B",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/edvard-munch--edvard-munch--capa--20250226--133801.jpg",
+  "contracapa": "static/uploads/edvard-munch--edvard-munch--contracapa--20250226--133801.jpg",
+  "fotos": [
+    "static/uploads/edvard-munch--edvard-munch--foto1--20250226--133801.jpg",
+    "static/uploads/edvard-munch--edvard-munch--foto2--20250226--133801.jpg",
+    "static/uploads/edvard-munch--edvard-munch--foto3--20250226--133801.jpg",
+    "static/uploads/edvard-munch--edvard-munch--foto4--20250226--133801.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:58:18",
+  "observacoes": null
+}

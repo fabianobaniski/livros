@@ -1,0 +1,63 @@
+{
+  "obra_id": 2533,
+  "autor": "Sandra Rodrigues de Brito",
+  "titulo": "Evolução da Umbanda sob o tríplice aspecto",
+  "subtitulo": "Científico, filosófico e religioso",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "brito evolucao umbanda sob",
+  "edicao_id": 2513,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 99,
+  "peso": 402,
+  "isbn": "9788569772019",
+  "editora": "Livro Lindo",
+  "numero_edicao": 0,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2512,
+  "sku": "LI01KD",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/sandra-rodrigues-de-brito--evolucao-da-umbanda-sob-o-triplice-aspecto--capa--20260316--201719.jpg",
+  "contracapa": "static/uploads/sandra-rodrigues-de-brito--evolucao-da-umbanda-sob-o-triplice-aspecto--contracapa--20260316--201719.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Pequenas manchas no papel."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:44:38",
+  "observacoes": null
+}

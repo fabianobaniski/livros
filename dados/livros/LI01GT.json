@@ -1,0 +1,63 @@
+{
+  "obra_id": 2404,
+  "autor": "Malcolm Brown; Judith Samuel",
+  "titulo": "Bath history",
+  "subtitulo": "Volume 1",
+  "idioma": "Inglês",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "brown bath history volume",
+  "edicao_id": 2384,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 204,
+  "peso": 443,
+  "isbn": "9780862992941",
+  "editora": "Alan Sutton",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2383,
+  "sku": "LI01GT",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/malcolm-brown--bath-history--capa--20260316--175419.jpg",
+  "contracapa": "static/uploads/malcolm-brown--bath-history--contracapa--20260316--175419.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados. Contém ilustrações em preto e branco.  / O Volume I de Bath History é o primeiro de uma série de publicações anuais sob este título, apresentando artigos sobre aspectos da história de Bath e da área circundante. Este periódico novo e muito aguardado apresenta pesquisas atuais sobre o passado da cidade, bem como artigos de interesse histórico mais amplo relacionados a Bath. Bath History é produzido em conjunto pela Bath Archaeological Trust, Bath Preservation Trust e pela Bath Society, em colaboração com a Alan Sutton Publishing Limited."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:53:51",
+  "observacoes": null
+}

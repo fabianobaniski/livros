@@ -1,0 +1,63 @@
+{
+  "obra_id": 5730,
+  "autor": "Satoru Noda",
+  "titulo": "Golden Kamuy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Aventura. Mistério.",
+  "palavras_chave": "noda golden kamuy",
+  "edicao_id": 5705,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 230,
+  "isbn": "9786525902203",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 28,
+  "transcricao_contracapa": "<p>Algo que traria uma morte cruel para todos que o tocarem! 'Um kamuy mais repulsivo e violento do que qualquer outro. Tão belo a ponto de reluzir. Um kamuy que brilha como ouro. Em outras palavras...' O interrogatório e as ameaças do primeiro-tenente Tsurumi fazem com que Ashirpa revele a ele a chave para solucionar o código. A corrida agora é para ver quem vai decifrá-lo primeiro! No volume 28, finalmente o ouro do Golden Kamuy adormecido será revelado!!!!!</p>",
+  "sinopse": "No volume 28, a busca pelo ouro do Golden Kamuy se intensifica. As ameaças de Tsurumi e a pressão sobre Ashirpa estão no auge, enquanto um segredo mortal e brilhante promete mudar o rumo da história. Quem desvendará o código primeiro?",
+  "exemplar_id": 5704,
+  "sku": "LI034B",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/golden-kamuy__satoru-noda__capa__2026-02-28_13-14-11-104648-000.jpg",
+  "contracapa": "static/uploads/golden-kamuy__satoru-noda__contracapa__2026-02-28_13-14-11-106460-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

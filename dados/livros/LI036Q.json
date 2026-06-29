@@ -1,0 +1,68 @@
+{
+  "obra_id": 5817,
+  "autor": "Eunice de Morais; Marcos B. Carreira",
+  "titulo": "Linguagens em movimento",
+  "subtitulo": "Culturas, identidades e subjetividades",
+  "idioma": "Português",
+  "categoria": "Linguística",
+  "temas": "Linguística. Cultura. Identidade. Subjetividade.",
+  "palavras_chave": "morais linguagens movimento",
+  "edicao_id": 5792,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 350,
+  "isbn": "9788594441003",
+  "editora": "UEPG",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Organizar o I Congresso Internacional de Estudos em Linguagem foi um grande desafio para todos nós do Departamento de Estudos da Linguagem, da UEPG, e é por isso que ele nos enche de orgulho. Quanto maior a dificuldade do caminho, mais aprendemos com ele e nos preparamos melhor para as realizações que virão.\"</p><p>(Eunice de Morais - extraído do Prefácio)</p>",
+  "sinopse": "A obra reúne reflexões e discussões do I Congresso Internacional de Estudos em Linguagem, organizado pelo Departamento de Estudos da Linguagem da UEPG. O livro destaca os desafios enfrentados durante a realização do evento e enfatiza como essas experiências contribuíram para o aprendizado e o aprimoramento do grupo, preparando-os para conquistas futuras.",
+  "exemplar_id": 5791,
+  "sku": "LI036Q",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/linguagens-em-movimento__culturas-identidades-e-subjetividades__eunice-de-morais-marcos-b-carreira__capa__2026-01-18_14-11-58-996036-000.png",
+  "contracapa": "static/uploads/linguagens-em-movimento__culturas-identidades-e-subjetividades__eunice-de-morais-marcos-b-carreira__contracapa__2026-01-18_14-11-59-021682-001.png",
+  "fotos": [
+    "static/uploads/linguagens-em-movimento__culturas-identidades-e-subjetividades__eunice-de-morais-marcos-b-carreira__foto-01__2026-01-18_14-11-59-034624-002.jpg",
+    "static/uploads/linguagens-em-movimento__culturas-identidades-e-subjetividades__eunice-de-morais-marcos-b-carreira__foto-02__2026-01-18_14-11-59-067887-003.jpg",
+    "static/uploads/linguagens-em-movimento__culturas-identidades-e-subjetividades__eunice-de-morais-marcos-b-carreira__foto-03__2026-01-18_14-11-59-103808-004.jpg",
+    "static/uploads/linguagens-em-movimento__culturas-identidades-e-subjetividades__eunice-de-morais-marcos-b-carreira__foto-04__2026-01-18_14-11-59-135365-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:23:49",
+  "observacoes": null
+}

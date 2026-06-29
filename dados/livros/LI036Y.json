@@ -1,0 +1,68 @@
+{
+  "obra_id": 5825,
+  "autor": "G.P. Taylor",
+  "titulo": "Mariah Mundi",
+  "subtitulo": "A nau dos insensatos",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura estrangeira. Aventura. Mistério. Viagem marítima. Protagonismo juvenil.",
+  "palavras_chave": "taylor mariah mundi nau dos insensatos",
+  "edicao_id": 5800,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 303,
+  "peso": 430,
+  "isbn": "9788576658726",
+  "editora": "Planeta Jovem",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>\"Eles não encontraram a bomba e o navio vai explodir dentro de vinte horas.\"</i></p><p>Mariah Mundi e Capitão Jack Charity estão navegando para a América a bordo do maior e mais magnífico navio do mundo: o <i>Triton</i>. Os dois foram enviados para proteger uma carga muito preciosa. Mas quem protegerá Mariah do assassino que o persegue? Quem está por trás do plano de explodir o navio? Poderá Mariah confiar em Beatriz DeFeaux, a estranha filha do dono do <i>Triton</i>? Encurralados em meio ao oceano, com uma bomba tiquetaqueando em algum lugar do navio, seria esta a última aventura de Mariah?</p>",
+  "sinopse": "Mariah Mundi e Capitão Jack Charity embarcam rumo à América no majestoso navio Triton, em uma missão para proteger uma carga preciosa. No entanto, Mariah se vê perseguido por um assassino e envolto em uma conspiração que pretende explodir o navio. Com uma bomba escondida a bordo e a presença misteriosa de Beatriz DeFeaux, filha do dono do Triton, Mariah enfrenta perigos no oceano enquanto tenta desvendar quem está por trás do plano mortal.",
+  "exemplar_id": 5799,
+  "sku": "LI036Y",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/mariah-mundi__a-nau-dos-insensatos__gp-taylor__capa__2026-01-18_14-12-01-710198-000.png",
+  "contracapa": "static/uploads/mariah-mundi__a-nau-dos-insensatos__gp-taylor__contracapa__2026-01-18_14-12-01-724823-001.png",
+  "fotos": [
+    "static/uploads/mariah-mundi__a-nau-dos-insensatos__gp-taylor__foto-01__2026-01-18_14-12-01-741157-002.jpg",
+    "static/uploads/mariah-mundi__a-nau-dos-insensatos__gp-taylor__foto-02__2026-01-18_14-12-01-778099-003.jpg",
+    "static/uploads/mariah-mundi__a-nau-dos-insensatos__gp-taylor__foto-03__2026-01-18_14-12-01-811038-004.jpg",
+    "static/uploads/mariah-mundi__a-nau-dos-insensatos__gp-taylor__foto-04__2026-01-18_14-12-01-853307-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Há um desenho na primeira e na última página, à caneta."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:44:00",
+  "observacoes": null
+}

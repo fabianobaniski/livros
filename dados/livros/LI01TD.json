@@ -1,0 +1,63 @@
+{
+  "obra_id": 2857,
+  "autor": "Richard Vernon",
+  "titulo": "Political morality",
+  "subtitulo": "A theory of liberal democracy",
+  "idioma": "Inglês",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "vernon political morality theory",
+  "edicao_id": 2837,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 202,
+  "peso": 300,
+  "isbn": "9780826450661",
+  "editora": "Continuum",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "As democracias liberais ocupam um papel central na política contemporânea, mas sua justificativa é frequentemente questionada. Em Political Morality, Richard Vernon explora como o liberalismo e a democracia, muitas vezes vistos como opostos, podem ser reconciliados em uma concepção política única baseada na persuasão. Ele propõe que, ao focar na defesa dos direitos liberais, é possível superar críticas ao liberalismo e justificar a democracia, resolvendo problemas como a prioridade entre procedimento e substância. A obra também analisa como sistemas políticos atuais falham em atingir esses valores.",
+  "exemplar_id": 2836,
+  "sku": "LI01TD",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/political-morality-richard-vernon-capa_rev74.jpg",
+  "contracapa": "static/uploads/political-morality-richard-vernon-contracapa_rev875.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:07:39",
+  "observacoes": null
+}

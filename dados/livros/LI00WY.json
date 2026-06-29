@@ -1,0 +1,68 @@
+{
+  "obra_id": 1577,
+  "autor": "Paula Perim",
+  "titulo": "101 idéias para curtir com seu filho",
+  "subtitulo": "Antes de ele completar 10 anos",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Educação. Divertimento. Atividades infantis.",
+  "palavras_chave": "perim 101 ideias curtir filho",
+  "edicao_id": 1558,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 95,
+  "peso": 150,
+  "isbn": "9788525043924",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "Crescer",
+  "volume": null,
+  "transcricao_contracapa": "<p>Uma mistura de almanaque e guia de ideias, este livro traz uma lista de atividades para os pais fazerem com seus filhos desde pequenos. Usando sua experiência de mãe e de jornalista especializada no universo infantil, a autora resgata brincadeiras antigas e sugere novas, adaptadas aos espaços menores e ao pouco tempo livre dos adultos. Como criança aprende tudo brincando, <b>101 Idéias</b> vai funcionar como um manual para os pais preocupados em curtir e educar seus filhos.</p>",
+  "sinopse": "Este livro apresenta uma lista de atividades práticas e criativas para pais se divertirem com seus filhos antes dos 10 anos. A autora, com sua experiência no universo infantil, sugere brincadeiras adaptadas ao dia a dia dos adultos e crianças, transformando momentos simples em oportunidades de aprendizado e diversão.",
+  "exemplar_id": 1557,
+  "sku": "LI00WY",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/paula-perim--101-id-ias-para-curtir-com-seu-filho--capa--20250401--115751.jpg",
+  "contracapa": "static/uploads/paula-perim--101-id-ias-para-curtir-com-seu-filho--contracapa--20250401--115751.jpg",
+  "fotos": [
+    "static/uploads/paula-perim--101-id-ias-para-curtir-com-seu-filho--foto1--20250401--115751.jpg",
+    "static/uploads/paula-perim--101-id-ias-para-curtir-com-seu-filho--foto2--20250401--115751.jpg",
+    "static/uploads/paula-perim--101-id-ias-para-curtir-com-seu-filho--foto3--20250401--115751.jpg",
+    "static/uploads/paula-perim--101-id-ias-para-curtir-com-seu-filho--foto4--20250401--115751.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:03:53",
+  "observacoes": null
+}

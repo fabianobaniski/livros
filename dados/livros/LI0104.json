@@ -1,0 +1,68 @@
+{
+  "obra_id": 1801,
+  "autor": "Adelar Hengemühle",
+  "titulo": "Gestão de ensino e práticas pedagógicas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Pedagogia. Gestão escolar. Práticas pedagógicas. Formação do professor. Cenários educacionais.",
+  "palavras_chave": "hengemuhle gestao ensino praticas pedagogicas",
+  "edicao_id": 1781,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 245,
+  "peso": 310,
+  "isbn": "9788532629968",
+  "editora": "Vozes",
+  "numero_edicao": 3,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>QUE</b> educação precisamos diante dos cenários atuais, que seja eficaz sem afastar-se do universo dos alunos? Essa preocupação histórica dos educadores é abordada com seriedade e competência na presente obra. Muito mais do que limitar-se ao <b>QUE</b>, esta obra oferece referenciais teóricos para fundamentar e orientar o <b>COMO</b> a educação pode ser concretizada. Vários fatores são focados nesse projeto que orienta o que fazer da escola: os <b>CENÁRIOS</b> em que vivemos; as concepções de <b>SER HUMANO</b> que temos; o perfil de <b>ALUNO</b> que queremos; os <b>FUNDAMENTOS EDUCACIONAIS</b> que possam dar vida aos conteúdos, à metodologia e à avaliação; o perfil de <b>PROFESSOR</b> capaz de desenvolver as práticas pedagógicas e a <b>GESTÃO ESCOLAR</b> que possibilite a concretização do planejado.</p>",
+  "sinopse": "Esta obra aborda a preocupação histórica dos educadores em oferecer uma educação eficaz e próxima dos alunos frente aos cenários atuais. O livro oferece referenciais teóricos sobre como concretizar a educação, focando em fatores como cenários educacionais, concepções de ser humano, perfil de aluno, fundamentos educacionais, metodologia, avaliação, perfil do professor e gestão escolar, para possibilitar a realização do planejamento pedagógico.",
+  "exemplar_id": 1780,
+  "sku": "LI0104",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/adelar-hengem-hle--gest-o-de-ensino-e-pr-ticas-pedag-gicas--capa--20250430--102949.jpg",
+  "contracapa": "static/uploads/adelar-hengem-hle--gest-o-de-ensino-e-pr-ticas-pedag-gicas--contracapa--20250430--102949.jpg",
+  "fotos": [
+    "static/uploads/adelar-hengem-hle--gest-o-de-ensino-e-pr-ticas-pedag-gicas--foto1--20250430--102949.jpg",
+    "static/uploads/adelar-hengem-hle--gest-o-de-ensino-e-pr-ticas-pedag-gicas--foto2--20250430--102949.jpg",
+    "static/uploads/adelar-hengem-hle--gest-o-de-ensino-e-pr-ticas-pedag-gicas--foto3--20250430--102949.jpg",
+    "static/uploads/adelar-hengem-hle--gest-o-de-ensino-e-pr-ticas-pedag-gicas--foto4--20250430--102949.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:33:35",
+  "observacoes": "procedencia_biblioteca"
+}

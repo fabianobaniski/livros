@@ -1,0 +1,68 @@
+{
+  "obra_id": 360,
+  "autor": "Inger Enkvist",
+  "titulo": "O complexo ofício do professor",
+  "subtitulo": "Conselhos para uma educação de qualidade",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Ensino.",
+  "palavras_chave": "enkvist complexo oficio professor",
+  "edicao_id": 351,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 142,
+  "peso": 280,
+  "isbn": "9786587404172",
+  "editora": "Kirion",
+  "numero_edicao": 1,
+  "ano": 2021,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 350,
+  "sku": "LI0097",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/inger-enkvist--o-complexo-of-cio-do-professor--capa--20250226--133822.jpg",
+  "contracapa": "static/uploads/inger-enkvist--o-complexo-of-cio-do-professor--contracapa--20250226--133822.jpg",
+  "fotos": [
+    "static/uploads/inger-enkvist--o-complexo-of-cio-do-professor--foto1--20250226--133822.jpg",
+    "static/uploads/inger-enkvist--o-complexo-of-cio-do-professor--foto2--20250226--133823.jpg",
+    "static/uploads/inger-enkvist--o-complexo-of-cio-do-professor--foto3--20250226--133823.jpg",
+    "static/uploads/inger-enkvist--o-complexo-of-cio-do-professor--foto4--20250226--133823.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:57:47",
+  "observacoes": null
+}

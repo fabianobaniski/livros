@@ -1,0 +1,68 @@
+{
+  "obra_id": 1448,
+  "autor": "Luiz Américo Camargo",
+  "titulo": "Direto ao pão",
+  "subtitulo": "Receitas caseiras para todas as horas",
+  "idioma": "Português",
+  "categoria": "Culinária",
+  "temas": "Culinária. Panificação. Receitas.",
+  "palavras_chave": "camargo direto pão receitas",
+  "edicao_id": 1429,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 216,
+  "peso": 1400,
+  "isbn": "9788539627776",
+  "editora": "Senac",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "Panelinha",
+  "volume": null,
+  "transcricao_contracapa": "<p>Que pão você quer para o seu café da manhã? Pão francês? Baguete? Um pão rústico, bem casquinho, ou um pãozinho de leite ultramacio? Todas essas receitas estão aqui. E ainda tem broa portuguesa, pão sírio, pão de hambúrguer e de cachorro-quente, focaccia, ciabatta, chocotone... São cerca de 30 tipos diferentes de pão (quase todos com fermento biológico), além de sugestões de recheios, acompanhamentos e reaproveitamentos, num total de 40 receitas.</p> <p>Direto ao Pão é um guia completo para quem quer se iniciar na panificação caseira. Dá escolha dos ingredientes ao resfriamento pós-forno, você vai aprender em detalhes todas as etapas para assar o filão perfeito. Luiz Américo Camargo, autor de sucesso com pão nosso (também publicado pela parceria Panelinha-Senac), ensina estratégias para controlar o tempo e não ficar preso na hora do preparo. Com planejamento, você dribla a correria e encaixa o pão – e aquele perfume que sai do forno! – na sua rotina. E para você ler entre uma sova e outra, o livro ainda traz as crônicas do padeiro, numa prosa deliciosa como as fornas.</p>",
+  "sinopse": "Direto ao Pão é um guia abrangente para iniciantes na panificação caseira, cobrindo desde a escolha dos ingredientes até o resfriamento após o forno. Luiz Américo Camargo fornece estratégias para tornar o processo de preparo acessível e prazeroso, com um total de 40 receitas que incluem diversos tipos de pães e sugestões de recheios, além de reflexões sobre a arte de fazer pão.",
+  "exemplar_id": 1428,
+  "sku": "LI00UY",
+  "preco_estante_virtual": 90.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/luiz-am-rico-camargo--direto-ao-p-o--capa--20250401--115349.png",
+  "contracapa": "static/uploads/luiz-am-rico-camargo--direto-ao-p-o--contracapa--20250401--115349.png",
+  "fotos": [
+    "static/uploads/luiz-am-rico-camargo--direto-ao-p-o--foto1--20250401--115349.jpg",
+    "static/uploads/luiz-am-rico-camargo--direto-ao-p-o--foto2--20250401--115349.jpg",
+    "static/uploads/luiz-am-rico-camargo--direto-ao-p-o--foto3--20250401--115349.jpg",
+    "static/uploads/luiz-am-rico-camargo--direto-ao-p-o--foto4--20250401--115349.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:29:14",
+  "observacoes": null
+}

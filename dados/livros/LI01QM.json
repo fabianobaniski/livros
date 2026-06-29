@@ -1,0 +1,63 @@
+{
+  "obra_id": 2758,
+  "autor": "Thomas Cahill",
+  "titulo": "O desejo das colinas eternas",
+  "subtitulo": "O mundo antes e depois de Jesus",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "cahill desejo das colinas",
+  "edicao_id": 2738,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 409,
+  "peso": 450,
+  "isbn": "9788573023114",
+  "editora": "Objetiva",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O terceiro volume da série A História Não-contada oferece uma visão única de Jesus em seu contexto histórico, propondo uma reconciliação entre o Judaísmo e o Cristianismo. Com a mesma narrativa envolvente de suas obras anteriores, Thomas Cahill leva o leitor em uma jornada pela Antiguidade, explorando as experiências de figuras influentes. Ele analisa os Evangelhos e as epístolas do Novo Testamento, revelando como cada autor moldou a imagem de Jesus.",
+  "exemplar_id": 2737,
+  "sku": "LI01QM",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/o-desejo-das-colinas-eternas-thomas-cahill-capa_rev2094.jpg",
+  "contracapa": "static/uploads/o-desejo-das-colinas-eternas-thomas-cahill-contracapa_rev310.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um tanto marcado pela passagem dos anos e pelo manuseio ao longo do tempo. Papel pigmentado nas bordas. Lombada um pouco inclinada. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:02:17",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3083,
+  "autor": "James Knowles",
+  "titulo": "As Lendas do Rei Arthur e Seus Cavaleiros",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "knowles lendas rei arthur",
+  "edicao_id": 3063,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 304,
+  "peso": 450,
+  "isbn": "9786558886112",
+  "editora": "Pé da Letra",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Você conhece a história fascinante do Rei Arthur? Encontre nesse livro aventuras, mistérios e romances, do Rei Arthur e as façanhas de seus cavaleiros da Távola Redonda. O autor Sir James Knowles relata a descoberta do misterioso Merlin e suas profecias em torno do nascimento de Arthur. Durante o seu reinado e contos de batalhas, conheça a poderosa espada Excalibur, a bela rainha Guinevere e as aventuras de corajosos cavaleiros como Sir Gawain, Sir Tristram e Sir Lancelot. Além disso você vai se surpreender com o resgate de donzelas em perigo e a busca incansavél pelo Santo Graal. Qual será o destino dessas histórias? Encontre aqui nesse título incrível.",
+  "exemplar_id": 3062,
+  "sku": "LI01ZN",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro praticamente novo, sem danos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:18:50",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

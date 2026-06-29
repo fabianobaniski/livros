@@ -1,0 +1,63 @@
+{
+  "obra_id": 2329,
+  "autor": "Georgette Heyer",
+  "titulo": "A grande Sofia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "heyer grande sofia",
+  "edicao_id": 2309,
+  "encadernacao": null,
+  "quantidade_paginas": 30,
+  "peso": 376,
+  "isbn": "",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A chegada de Sofia Stanton-Lacy, após longas viagens pela Europa Continental, surpreende a família Ombersley. Lady Ombersley se encanta rapidamente, enquanto Lord Ombersley cede aos encantos de Sofia. Charles Rivenhall, o filho mais velho e herdeiro, sente-se perturbado pela presença dela, que altera sua rotina. O confronto entre Sofia, com sua beleza e impetuosidade, e Charles, que precisa superar seus preconceitos e desejos, gera um grande desafio. Georgette Heyer, autora renomada, cria uma narrativa ágil e cativante, reconhecida por milhões de leitores.",
+  "exemplar_id": 2308,
+  "sku": "LI01EQ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/georgette-heyer--a-grande-sofia--capa--20260316--100016.jpg",
+  "contracapa": "static/uploads/georgette-heyer--a-grande-sofia--contracapa--20260316--100026.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ruim",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Conservação ruim. Fortemente amarelado. As últimas  estão começando a soltar da lombada, necessitam reparo adequado.  OK para leitura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:23:01",
+  "observacoes": null
+}

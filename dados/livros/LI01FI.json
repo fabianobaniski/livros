@@ -1,0 +1,63 @@
+{
+  "obra_id": 2357,
+  "autor": "Piero Eyben",
+  "titulo": "Abismo por Paixão (ensaios)",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "eyben abismo por paixao",
+  "edicao_id": 2337,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 244,
+  "peso": 410,
+  "isbn": "9788572441025",
+  "editora": "Horizonte",
+  "numero_edicao": 27,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Os ensaios de Abismo por paixão exploram, de forma teórica e crítica, a linguagem e seus desdobramentos, dialogando com autores como Derrida, Bataille, Pamuk, Joyce, Freud, Tarkovski, entre outros. A obra reflete sobre os rastros da escrita, a leitura e a autoria, abordando essas questões centrais através de uma análise que busca entender a profundidade da experiência literária e filosófica.",
+  "exemplar_id": 2336,
+  "sku": "LI01FI",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/piero-eyben--abismo-por-paixao-ensaios--capa--20260316--153408.jpg",
+  "contracapa": "static/uploads/piero-eyben--abismo-por-paixao-ensaios--contracapa--20260316--153416.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado, sem qualquer dano na capa, lombada ou contracapa. Miolo impecável. Texto livre de anotações e sublinhados. Também não constam carimbo, selo e assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 18:54:34",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3205,
+  "autor": "Marta Morais da Costa",
+  "titulo": "Metodologia do Ensino da Literatura Infantil",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "costa metodologia ensino literatura",
+  "edicao_id": 3185,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 167,
+  "peso": 200,
+  "isbn": "9788582127919",
+  "editora": "Intersaberes",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "A formação de leitores competentes é um desafio que exige da escola e dos professores uma abordagem que valorize a literatura como arte e pensamento. Esta obra oferece reflexões teóricas e práticas criativas para o trabalho com a literatura infantil, destacando sua capacidade de transformar a percepção de realidade e despertar o fascínio pela linguagem.",
+  "exemplar_id": 3184,
+  "sku": "LI0231",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:52:35",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

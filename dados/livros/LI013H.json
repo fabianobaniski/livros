@@ -1,0 +1,68 @@
+{
+  "obra_id": 1923,
+  "autor": "Masakazu Hoji",
+  "titulo": "Administração financeira e orçamentária",
+  "subtitulo": "Matemática financeira aplicada. Estratégias financeiras. Orçamento empresarial",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Finanças empresariais. Orçamento empresarial. Educação financeira.",
+  "palavras_chave": "hoji administracao financeira orcamentaria",
+  "edicao_id": 1903,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 565,
+  "peso": 825,
+  "isbn": "9788522452026",
+  "editora": "Atlas",
+  "numero_edicao": 7,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A gestão financeira emprega os conhecimentos acumulados em disciplinas tão diversas, como administração, contabilidade, economia, relações internacionais, matemática, política, planejamento estratégico, marketing e tantas outras, que os gestores financeiros competentes são fundamentais para a sobrevivência e o crescimento de qualquer organização.</p> <p>O ensino e o aprendizado de Finanças são aparentemente difíceis, mas integrando a teoria com a prática, com ênfase em análise dos mecanismos das operações financeiras em nível operacional e gerencial, a tarefa de ensinar é facilitada e o aprendizado torna-se prazeroso.</p> <p>Este livro utiliza uma linguagem que aproxima o professor do aluno, retratando os casos empíricos extraídos do cotidiano das empresas brasileiras, com aplicabilidade imediata em atividades empresariais e muitos desses casos foram vivenciados pelo próprio autor. As atividades executadas por profissionais de Finanças são tratadas como fatores que agregam valores e contribuem para o sucesso do negócio.</p> <p><b>O Livro de Exercícios</b> complementa o ensino e o aprendizado de fundamentos e técnicas de gestão financeira, apresentando outras formas de análise dos mecanismos das operações financeiras.</p> <p><b>APLICAÇÃO</b></p> <p>Livro-texto para as disciplinas ADMINISTRAÇÃO FINANCEIRA e ORÇAMENTO EMPRESARIAL dos cursos de graduação em Administração de Empresas, Ciências Contábeis, Economia e Engenharia de Produção. Indicado também para cursos de pós-graduação. Leitura complementar para as disciplinas MATEMÁTICA FINANCEIRA, ANÁLISE DE BALANÇOS, CONTABILIDADE GERENCIAL, CONTROLADORIA e MARKETING. Obra de referência para profissionais de Tesouraria, Controladoria e Administração.</p>",
+  "sinopse": "O livro aborda a gestão financeira de forma integrada, reunindo teoria e prática aplicada ao contexto das empresas brasileiras. Com ênfase em mecanismos das operações financeiras e exemplos vivenciados pelo autor, aproxima professor e aluno em disciplinas como Administração Financeira, Orçamento Empresarial e Matemática Financeira. Serve como referência tanto para estudantes de graduação e pós-graduação quanto para profissionais de áreas como tesouraria, controladoria e administração.",
+  "exemplar_id": 1902,
+  "sku": "LI013H",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/masakazu-hoji--administra--o-financeira-e-or-ament-ria--capa--20250430--104301.jpg",
+  "contracapa": "static/uploads/masakazu-hoji--administra--o-financeira-e-or-ament-ria--contracapa--20250430--104301.jpg",
+  "fotos": [
+    "static/uploads/masakazu-hoji--administra--o-financeira-e-or-ament-ria--foto1--20250430--104301.jpg",
+    "static/uploads/masakazu-hoji--administra--o-financeira-e-or-ament-ria--foto2--20250430--104301.jpg",
+    "static/uploads/masakazu-hoji--administra--o-financeira-e-or-ament-ria--foto3--20250430--104301.jpg",
+    "static/uploads/masakazu-hoji--administra--o-financeira-e-or-ament-ria--foto4--20250430--104301.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:03:08",
+  "observacoes": "procedencia_biblioteca"
+}

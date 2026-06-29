@@ -1,0 +1,68 @@
+{
+  "obra_id": 45,
+  "autor": "Charles Graeber",
+  "titulo": "O enfermeiro da noite",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Crimes reais. Serial killers. Medicina. Investigação criminal.",
+  "palavras_chave": "graeber enfermeiro noite",
+  "edicao_id": 45,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 415,
+  "peso": 450,
+  "isbn": "9786555603613",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Imagine um paciente vulnerável lutando pela vida em um leito de hospital.</p><p>À noite, com a troca de turno, ele fica sob os cuidados de outro enfermeiro.</p><p>O paciente não sabe, mas vai passar a madrugada inteira com Charlie Cullen, <b>o maior serial killer da história dos Estados Unidos</b>.</p><p><i>\"Um livro impressionante que deve (e vai) lembrar <b>A sangue frio</b>. O ímpeto com que os administradores dos hospitais acobertam os crimes de Cullen é revelador. E a investigação policial que o derrubou é um <b>thriller</b> em todos os sentidos da palavra.\"</i></p><p><b>The New York Times</b></p>",
+  "sinopse": "A história real de Charlie Cullen, um enfermeiro aparentemente dedicado, mas que escondia um lado sombrio: ele foi um dos maiores serial killers dos Estados Unidos. Investigando seu passado e os crimes que cometeu dentro de hospitais, o livro expõe o impacto de suas ações e a omissão do sistema de saúde.",
+  "exemplar_id": 44,
+  "sku": "LI0015",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/charles-graeber--o-enfermeiro-da-noite--capa--20250225--225214.jpg",
+  "contracapa": "static/uploads/charles-graeber--o-enfermeiro-da-noite--contracapa--20250225--225214.jpg",
+  "fotos": [
+    "static/uploads/charles-graeber--o-enfermeiro-da-noite--foto1--20250225--225214.jpg",
+    "static/uploads/charles-graeber--o-enfermeiro-da-noite--foto2--20250225--225214.jpg",
+    "static/uploads/charles-graeber--o-enfermeiro-da-noite--foto3--20250225--225214.jpg",
+    "static/uploads/charles-graeber--o-enfermeiro-da-noite--foto4--20250225--225214.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:05:30",
+  "observacoes": null
+}

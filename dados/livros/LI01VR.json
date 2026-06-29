@@ -1,0 +1,63 @@
+{
+  "obra_id": 2943,
+  "autor": "Joe Garden; Janet Ginsburg; Chris Pauls",
+  "titulo": "The new vampires handbook",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Outros Assuntos",
+  "temas": "",
+  "palavras_chave": "garden the new vampires",
+  "edicao_id": 2923,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 216,
+  "peso": 300,
+  "isbn": "9780345508560",
+  "editora": "Villard Trade Paperbacks",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em um mundo saturado por cultura pop sobre vampiros, esta obra oferece um guia definitivo para aqueles que acabaram de se transformar. O livro aborda desde a anatomia vampírica e o controle de novos poderes até dicas práticas sobre como se infiltrar na sociedade humana, manter suas presas afiadas e lidar com inimigos mortais. Além disso, ensina a atrair presas, adaptar-se às mudanças de eras e sobreviver financeiramente por séculos.",
+  "exemplar_id": 2922,
+  "sku": "LI01VR",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/the-new-vampires-handbook-joe-garden-capa_rev1059.jpg",
+  "contracapa": "static/uploads/the-new-vampires-handbook-joe-garden-contracapa_rev1732.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "A guide for the recently turned creature of the night / Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:32",
+  "observacoes": null
+}

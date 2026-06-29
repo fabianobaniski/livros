@@ -1,0 +1,63 @@
+{
+  "obra_id": 5558,
+  "autor": "Yoshihiro Togashi",
+  "titulo": "Yu Yu Hakusho",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Aventura.",
+  "palavras_chave": "togashi yu yu hakusho",
+  "edicao_id": 5533,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 201,
+  "peso": 250,
+  "isbn": "9788577879748",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "",
+  "sinopse": "A série acompanha Yusuke Urameshi, um delinquente juvenil que morre subitamente ao salvar uma criança e ganha uma segunda chance como Detetive Espiritual. Sob o comando do Mundo Espiritual, ele deve investigar casos sobrenaturais, enfrentando demônios e participando de torneios mortais ao lado de aliados improváveis para proteger o equilíbrio entre os mundos.",
+  "exemplar_id": 5532,
+  "sku": "LI02ZJ",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/yu-yu-hakusho__yoshihiro-togashi__capa__2026-02-24_13-36-29-390948-000.jpg",
+  "contracapa": "static/uploads/yu-yu-hakusho__yoshihiro-togashi__contracapa__2026-02-24_13-36-29-441285-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5584,
+  "autor": "Masakazu Katsura",
+  "titulo": "Zetman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Guerra. Revelações.",
+  "palavras_chave": "katsura zetman",
+  "edicao_id": 5559,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 201,
+  "peso": 170,
+  "isbn": "9788545701972",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 14,
+  "transcricao_contracapa": "<p>Sob o comando de Haitani, a Evol finalmente se revela ao mundo e faz uma declaração de guerra aos humanos! Ao mesmo tempo em que buscam esclarecimentos, Jin e Kouga, cada um em seu caminho, descobrem duras revelações...</p>",
+  "sinopse": "Sob a liderança de Haitani, a Evol emerge e declara guerra aos humanos. Enquanto isso, Jin e Kouga, em suas jornadas individuais, enfrentam revelações impactantes.",
+  "exemplar_id": 5558,
+  "sku": "LI0309",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/zetman__masakazu-katsura__capa__2026-02-24_13-36-33-773721-000.jpg",
+  "contracapa": "static/uploads/zetman__masakazu-katsura__contracapa__2026-02-24_13-36-33-801431-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

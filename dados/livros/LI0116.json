@@ -1,0 +1,68 @@
+{
+  "obra_id": 1840,
+  "autor": "Carlos Alberto Gonçalves; Anthero de Moraes Meirelles",
+  "titulo": "Projetos e relatórios de pesquisa em administração",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Pesquisa científica. Metodologia científica. Relatórios científicos. Administração.",
+  "palavras_chave": "goncalves projetos relatorios pesquisa administracao",
+  "edicao_id": 1820,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 199,
+  "peso": 430,
+  "isbn": "8522438463",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>PROJETOS E RELATÓRIOS DE PESQUISA EM ADMINISTRAÇÃO</b><br><p>Este livro aborda questões teóricas e operacionais da pesquisa científica e discute vários métodos e suas combinações, proporcionando ao leitor o acesso tanto a descrições práticas quanto a aspectos conceituais de projetos e relatórios de pesquisa. Apresenta uma articulação estrutural e funcional dos procedimentos empíricos com seus pressupostos científicos.</p><p>A linha de raciocínio aqui adotada pelos autores para condução dos trabalhos de pesquisa é, basicamente, a funcionalista, em que se propõem modelos \"lineares\" de desenvolvimento dos trabalhos científicos, com o pressuposto de que existe um problema identificável e um método economicamente viável e, temporalmente, aceitável para sua adoção na solução do problema.</p><p>Foram tratados simultaneamente os vários tipos de trabalho científico para escolha do pesquisador, observando sua natureza diferenciada por níveis de aplicação, de foco e de complexidade: monografia, projeto de pesquisa empresarial aplicado, dissertação de mestrado, tese de doutorado, plano de negócios (em anexo).</p><br><b>APLICAÇÃO</b><br><p>Livro-texto para as disciplinas METODOLOGIA DA PESQUISA, METODOLOGIA CIENTÍFICA e PROJETOS DE PESQUISA EM ADMINISTRAÇÃO dos cursos de graduação em Ciências Sociais, Administração, Comunicação, Direito, Economia, Contabilidade, Arquitetura.</p>",
+  "sinopse": "O livro discute questões teóricas e práticas sobre pesquisa científica em Administração, abordando métodos, estruturação e elaboração de projetos e relatórios de pesquisa. Adota uma perspectiva funcionalista para o desenvolvimento de trabalhos científicos, apresentando desde monografias até planos de negócios. Sua aplicação é voltada para disciplinas de metodologia nos cursos de graduação em Ciências Sociais, Administração, Comunicação, Direito, Economia, Contabilidade e Arquitetura.",
+  "exemplar_id": 1819,
+  "sku": "LI0116",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/carlos-alberto-gon-alves--projetos-e-relat-rios-de-pesquisa-em-administra--o--capa--20250430--102955.jpg",
+  "contracapa": "static/uploads/carlos-alberto-gon-alves--projetos-e-relat-rios-de-pesquisa-em-administra--o--contracapa--20250430--102955.jpg",
+  "fotos": [
+    "static/uploads/carlos-alberto-gon-alves--projetos-e-relat-rios-de-pesquisa-em-administra--o--foto1--20250430--102955.jpg",
+    "static/uploads/carlos-alberto-gon-alves--projetos-e-relat-rios-de-pesquisa-em-administra--o--foto2--20250430--102955.jpg",
+    "static/uploads/carlos-alberto-gon-alves--projetos-e-relat-rios-de-pesquisa-em-administra--o--foto3--20250430--102955.jpg",
+    "static/uploads/carlos-alberto-gon-alves--projetos-e-relat-rios-de-pesquisa-em-administra--o--foto4--20250430--102955.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:17:50",
+  "observacoes": "procedencia_biblioteca"
+}

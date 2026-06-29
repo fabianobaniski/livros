@@ -1,0 +1,68 @@
+{
+  "obra_id": 1816,
+  "autor": "Marcela Demitto Furtado; Raquel Gusmão Oliveira",
+  "titulo": "Saúde coletiva",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "Saúde. Saúde coletiva. Educação a distância.",
+  "palavras_chave": "furtado saude coletiva",
+  "edicao_id": 1796,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 310,
+  "isbn": "251057520182",
+  "editora": "Unicesumar",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Educar é projetar um futuro em que os sonhos despertem uma realidade muito melhor. A Unicesumar acredita nas conquistas e nas possibilidades infinitas para quem faz parte deste Universo do Conhecimento\". (Wilson de Matos Silva)</p><p>unicesumar.edu.br | 0800 600 6360</p><p>Acesse e saiba porque a Unicesumar é o melhor ensino a distância do Brasil!</p>",
+  "sinopse": "A obra apresenta conceitos fundamentais sobre saúde coletiva, com uma abordagem voltada à formação acadêmica e à prática profissional. Destaca a missão da Unicesumar em promover a educação e o conhecimento como caminho para conquistas e possibilidades infinitas, incentivando leitores a fazerem parte desse universo do saber.",
+  "exemplar_id": 1795,
+  "sku": "LI010J",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marcela-demitto-furtado--sa-de-coletiva--capa--20250430--102951.jpg",
+  "contracapa": "static/uploads/marcela-demitto-furtado--sa-de-coletiva--contracapa--20250430--102951.jpg",
+  "fotos": [
+    "static/uploads/marcela-demitto-furtado--sa-de-coletiva--foto1--20250430--102951.jpg",
+    "static/uploads/marcela-demitto-furtado--sa-de-coletiva--foto2--20250430--102951.jpg",
+    "static/uploads/marcela-demitto-furtado--sa-de-coletiva--foto3--20250430--102951.jpg",
+    "static/uploads/marcela-demitto-furtado--sa-de-coletiva--foto4--20250430--102951.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:53:52",
+  "observacoes": "procedencia_biblioteca"
+}

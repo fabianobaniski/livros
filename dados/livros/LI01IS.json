@@ -1,0 +1,63 @@
+{
+  "obra_id": 2476,
+  "autor": "Federico Moccia",
+  "titulo": "Desculpa, quero me casar contigo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "moccia desculpa quero casar",
+  "edicao_id": 2456,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 413,
+  "peso": 600,
+  "isbn": "9788576655619",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Na sequência de Desculpa se te chamo de amor, Alex e Niki continuam perdidamente apaixonados após um ano juntos. Após uma viagem à Ilha Blu, onde viveram momentos intensos, eles retornam à realidade e começam a enfrentar inseguranças e novos desafios. Alex pensa em pedir Niki em casamento, mas não sabe como fazê-lo. Enquanto isso, ambos precisam lidar com a grande questão: será que o amor pode realmente durar para sempre? Entre paixão e dúvidas, eles precisam descobrir se o sentimento é forte o suficiente para vencer as adversidades.",
+  "exemplar_id": 2455,
+  "sku": "LI01IS",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/federico-moccia--desculpa-quero-me-casar-contigo--capa--20260316--192325.jpg",
+  "contracapa": "static/uploads/federico-moccia--desculpa-quero-me-casar-contigo--contracapa--20260316--192325.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:40:45",
+  "observacoes": null
+}

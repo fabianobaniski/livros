@@ -1,0 +1,63 @@
+{
+  "obra_id": 2763,
+  "autor": "Luiz Galdino",
+  "titulo": "O enigma das Amazonas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "galdino enigma das amazonas",
+  "edicao_id": 2743,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 111,
+  "peso": 200,
+  "isbn": "9788537702789",
+  "editora": "Escala Educacional",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O que parecia ser apenas um curso de sobrevivência na Floresta Amazônica se transforma em um enigma cheio de mistérios para os amigos Daniel, Analu e Lucília. Em meio à selva, eles descobrem segredos antigos que conectam passado e presente, desafiando suas habilidades e a relação com a natureza. Com aventuras repletas de suspense e surpresas, *O Enigma das Amazonas* leva os jovens a enfrentarem desafios inesperados enquanto desvendam um mistério fascinante, em uma história envolvente de ação e descoberta.",
+  "exemplar_id": 2742,
+  "sku": "LI01QR",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-enigma-das-amazonas-luiz-galdino-capa_rev1000.jpg",
+  "contracapa": "static/uploads/o-enigma-das-amazonas-luiz-galdino-contracapa_rev150.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, apesar de um tanto amarelado e com leves sinais de uso. Texto livre de sublinhados e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:05:35",
+  "observacoes": null
+}

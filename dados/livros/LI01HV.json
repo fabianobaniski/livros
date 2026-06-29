@@ -1,0 +1,63 @@
+{
+  "obra_id": 2443,
+  "autor": "Sri Swami Sivananda",
+  "titulo": "Concentración y meditación",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "sivananda concentracion meditacion",
+  "edicao_id": 2423,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 343,
+  "peso": 408,
+  "isbn": "9788485269006",
+  "editora": "Editorial Eyras",
+  "numero_edicao": null,
+  "ano": 1977,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra ferece a oportunidade de alcançar os mais altos objetivos do yoga, guiados pelo renomado mestre Swami Sivananda. Com suas técnicas, é possível dominar o corpo, aliviar tensões nervosas e libertar-se de preocupações e ansiedades. Combinando métodos milenares da Índia, o livro demonstra que a paz mental e a felicidade são alcançáveis. Swami Sivananda nos conduz, passo a passo, ao ápice da espiritualidade, ajudando a superar os obstáculos no caminho da autorrealização.",
+  "exemplar_id": 2422,
+  "sku": "LI01HV",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/sri-swami-sivananda--concentracion-y-meditacion--capa--20260316--185340.jpg",
+  "contracapa": "static/uploads/sri-swami-sivananda--concentracion-y-meditacion--contracapa--20260316--185340.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sobre la energía interna del hombre y su aplicación en la vida diaria / Livro em bom estado, embora um pouco marcado pelo uso. Papel amarelado pelo tempo. Texto com algumas pequenas marcações feitas com caneta vermelha em cerca de 20 a 30 por cento das folhas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:55:27",
+  "observacoes": null
+}

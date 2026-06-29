@@ -1,0 +1,68 @@
+{
+  "obra_id": 1405,
+  "autor": "Andrew Klavan",
+  "titulo": "À caça de Amanda",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção. Thriller. Mistério.",
+  "palavras_chave": "klavan caça amanda",
+  "edicao_id": 1387,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 511,
+  "peso": 450,
+  "isbn": "9788525033857",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>NumA tArde de verão típica, Hunnicut, uma pacata cidadezinha de Massachusetts, é sacudida pelos destroços de uma violenta explosão aérea.</p><p>Quatro meses depois, numa madrugada deserta em Manhattan, uma mulher desesperada pede abrigo, por uma única noite, a um talentoso mas desiludido músico de jazz.</p><p>Assim tem início a impressionante trama de À caça de Amanda, o mais recente thriller de Andrew Klavan — autor do best-seller True Crime (Crime verdadeiro), que foi levado às telas por Clint Eastwood. Com incrível domínio narrativo, Klavan construiu um quebra-cabeça fascinante, repleto de reviravoltas, que mantém o leitor preso da primeira à última página.</p>",
+  "sinopse": "No verão, a cidade de Hunnicut vive um momento de terror com uma explosão. Meses depois, em Manhattan, uma mulher desesperada encontra abrigo em um músico de jazz, dando início a uma trama intrigante que manterá os leitores atentos.",
+  "exemplar_id": 1386,
+  "sku": "LI00TT",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/andrew-klavan----ca-a-de-amanda--capa--20250401--115341.jpg",
+  "contracapa": "static/uploads/andrew-klavan----ca-a-de-amanda--contracapa--20250401--115341.jpg",
+  "fotos": [
+    "static/uploads/andrew-klavan----ca-a-de-amanda--foto1--20250401--115341.jpg",
+    "static/uploads/andrew-klavan----ca-a-de-amanda--foto2--20250401--115341.jpg",
+    "static/uploads/andrew-klavan----ca-a-de-amanda--foto3--20250401--115341.jpg",
+    "static/uploads/andrew-klavan----ca-a-de-amanda--foto4--20250401--115341.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:12:47",
+  "observacoes": null
+}

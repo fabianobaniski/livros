@@ -1,0 +1,63 @@
+{
+  "obra_id": 2331,
+  "autor": "Michel Serres",
+  "titulo": "A guerra mundial",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "serres guerra mundial",
+  "edicao_id": 2311,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 317,
+  "isbn": "9788528615036",
+  "editora": "Bertrand Brasil",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Michel Serres apresenta um relato poético e profundo sobre a guerra e suas consequências na alma humana. Ele descreve como a guerra esculpe carne e coração, alimentando a besta interior com memórias e emoções dolorosas. O choro contínuo, as lágrimas incessantes e as súplicas refletem a dor persistente. Ao mesmo tempo, Serres celebra a paz, a alegria e a luz que permeiam a alma, apesar do sofrimento. A obra é uma entrega das lágrimas e da alma do autor, uma reflexão intensa sobre a condição humana diante da guerra e da paz.",
+  "exemplar_id": 2310,
+  "sku": "LI01ES",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/michel-serres--a-guerra-mundial--capa--20260316--100120.jpg",
+  "contracapa": "static/uploads/michel-serres--a-guerra-mundial--contracapa--20260316--100127.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, ótima conservação. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:22:51",
+  "observacoes": null
+}

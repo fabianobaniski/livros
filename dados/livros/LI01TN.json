@@ -1,0 +1,63 @@
+{
+  "obra_id": 2867,
+  "autor": "Antonio Pedro Barbosa",
+  "titulo": "Princípios básicos da logística de materiais na cadeia de suprimentos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "",
+  "palavras_chave": "barbosa principios basicos logistica",
+  "edicao_id": 2847,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 350,
+  "isbn": "9788541401180",
+  "editora": "Qualitymark",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A logística de materiais e a cadeia de suprimentos são essenciais para a eficiência de uma organização. Este livro aborda, de forma didática e expositiva, os principais conceitos relacionados ao planejamento, aquisição, controle e movimentação de recursos, demonstrando como a boa gestão logística pode ser altamente rentável. Dividido em partes complementares, o texto percorre desde o desenvolvimento econômico global até questões práticas, como codificação de produtos, armazenamento, embalagens e seguros, sempre com exemplos e análises que facilitam a compreensão do leitor.",
+  "exemplar_id": 2846,
+  "sku": "LI01TN",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/principios-basicos-da-logistica-de-materiais-na-cadeia-de-suprimentos-antonio-pedro-barbosa-capa_rev427.jpg",
+  "contracapa": "static/uploads/principios-basicos-da-logistica-de-materiais-na-cadeia-de-suprimentos-antonio-pedro-barbosa-contracapa_rev1733.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Nada de grifos ou anotações. Capa, lombada e contracapa sem danos. Discretos sinais de manuseio e/ou da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:13:50",
+  "observacoes": null
+}

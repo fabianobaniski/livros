@@ -1,0 +1,67 @@
+{
+  "obra_id": 5900,
+  "autor": "Ellen G. White",
+  "titulo": "Conselhos sobre mordomia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white conselhos sobre mordomia",
+  "edicao_id": 5875,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 367,
+  "peso": 435,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5874,
+  "sku": "LI0390",
+  "preco_estante_virtual": 95.0,
+  "preco_amazon": 95.0,
+  "capa": "static/uploads/ellen-g-white--conselhos-sobre-mordomia--capa--20260306--094931.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--conselhos-sobre-mordomia--foto1--20260306--094944.jpg",
+    "static/uploads/ellen-g-white--conselhos-sobre-mordomia--foto2--20260306--094944.jpg",
+    "static/uploads/ellen-g-white--conselhos-sobre-mordomia--foto3--20260306--094944.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Texto livre de anotações, sublinhados, carimbos, etc. Sem marcas de umidade, mofo, traça. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:01:42",
+  "observacoes": null
+}

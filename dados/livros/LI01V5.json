@@ -1,0 +1,63 @@
+{
+  "obra_id": 2921,
+  "autor": "Nick Gordon",
+  "titulo": "Tarantulas, marmosets and other stories",
+  "subtitulo": "An Amazon diary",
+  "idioma": "Inglês",
+  "categoria": "Biologia",
+  "temas": "",
+  "palavras_chave": "gordon tarantulas marmosets and",
+  "edicao_id": 2901,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 238,
+  "peso": 500,
+  "isbn": "9781900512152",
+  "editora": "Metrobooks",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Narra as aventuras do fotógrafo Nick Gordon durante quase uma década na Amazônia, documentando espécies raras como tarântulas gigantes e jaguares. Combinando fotografia de vida selvagem com relatos de momentos extremos, Nick compartilha desde fugas de tribos hostis até nados com lontras e encontros com anacondas. Além de retratar rituais indígenas, o livro destaca os desafios de captar a natureza em seu estado mais puro e selvagem. Fascinante e, às vezes, sombrio, esta obra revela a Amazônia em toda sua vibrante complexidade.",
+  "exemplar_id": 2900,
+  "sku": "LI01V5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/tarantulas-marmosets-and-other-stories-nick-gordon-capa_rev597.jpg",
+  "contracapa": "static/uploads/tarantulas-marmosets-and-other-stories-nick-gordon-contracapa_rev1106.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Razoável. Em bom estado para leitura, mas bastante amarelado e parece ter sido exposto a umidade. Capa dura, com sobrecapa. Sem grifos ou anotações. Possui"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:51:53",
+  "observacoes": null
+}

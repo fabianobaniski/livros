@@ -1,0 +1,63 @@
+{
+  "obra_id": 2699,
+  "autor": "Robert Schachter; Carole Mccauley",
+  "titulo": "Meu filho tem medo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "schachter meu filho tem",
+  "edicao_id": 2679,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 286,
+  "peso": 350,
+  "isbn": "8502007262",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "As crianças têm medo, e isso faz parte do processo natural de aprendizado e amadurecimento. No entanto, superar esses medos é essencial para que possam se relacionar com o mundo ao seu redor. *Meu filho tem medo* é um guia indispensável para os pais, oferecendo uma visão detalhada sobre os tipos de medo, desde o recém-nascido até o adolescente. O livro apresenta definições, causas e sintomas, além de sugestões práticas para lidar com fobias, incluindo quando é necessário o acompanhamento de um terapeuta infantil. Se seu filho tem medo, você pode ajudá-lo!",
+  "exemplar_id": 2678,
+  "sku": "LI01OZ",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/meu-filho-tem-medo-robert-schachter-capa_rev492.jpg",
+  "contracapa": "static/uploads/meu-filho-tem-medo-robert-schachter-contracapa_rev773.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bastante envelhecido, fortemente amarelado pelo tempo. Capa, lombada e contracapa apresentam desgastes."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:55:13",
+  "observacoes": null
+}

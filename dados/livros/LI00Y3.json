@@ -1,0 +1,68 @@
+{
+  "obra_id": 1724,
+  "autor": "Cleberson Evangelista",
+  "titulo": "Deus tem saudade de você",
+  "subtitulo": "Um livro de direção espiritual",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Relações pessoais. Autoajuda.",
+  "palavras_chave": "evangelista deus saudade voce",
+  "edicao_id": 1704,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 128,
+  "peso": 250,
+  "isbn": "9788566267068",
+  "editora": "Evangelizar",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro lhe fará olhar para aspectos de sua própria vida dos quais talvez você não tenha motivos de se orgulhar. Como estava sua relação com Deus nos momentos em que Ele parecia estar ausente? Para o Padre Cleberson, melhorarmos nosso relacionamento com o Senhor é a chave para a verdadeira felicidade!</p> <p>Através de testemunhos e ensinamentos ele quer lhe mostrar esse Deus que tem saudade de você! Um Deus amoroso que nunca deixou de lhe amar.</p>",
+  "sinopse": "Este livro convida o leitor a refletir sobre sua vida e o relacionamento com Deus, especialmente em momentos de ausência. Através de ensinamentos e testemunhos, o autor enfatiza a importância desse vínculo para alcançar a verdadeira felicidade e apresenta um Deus amoroso que nunca deixou de amar.",
+  "exemplar_id": 1703,
+  "sku": "LI00Y3",
+  "preco_estante_virtual": 11.0,
+  "preco_amazon": 11.0,
+  "capa": "static/uploads/pe--cleberson-evangelista--deus-tem-saudade-de-voc---capa--20250401--115810.jpg",
+  "contracapa": "static/uploads/pe--cleberson-evangelista--deus-tem-saudade-de-voc---contracapa--20250401--115810.jpg",
+  "fotos": [
+    "static/uploads/pe--cleberson-evangelista--deus-tem-saudade-de-voc---foto1--20250401--115810.jpg",
+    "static/uploads/pe--cleberson-evangelista--deus-tem-saudade-de-voc---foto2--20250401--115810.jpg",
+    "static/uploads/pe--cleberson-evangelista--deus-tem-saudade-de-voc---foto3--20250401--115810.jpg",
+    "static/uploads/pe--cleberson-evangelista--deus-tem-saudade-de-voc---foto4--20250401--115810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:44:31",
+  "observacoes": null
+}

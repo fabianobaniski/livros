@@ -1,0 +1,63 @@
+{
+  "obra_id": 2917,
+  "autor": "Sam Lee",
+  "titulo": "Tae kwon do",
+  "subtitulo": "Libro de oro - Artes marciales",
+  "idioma": "Espanhol",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "lee tae kwon libro",
+  "edicao_id": 2897,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 300,
+  "isbn": "9788484033295",
+  "editora": "Edimat Libros",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O Tae-Kwon-Do é uma arte marcial focada no uso de técnicas de pernas, sendo uma das modalidades de luta que mais cresceu em popularidade. Ao contrário de outras formas de combate, como o boxe e a luta livre, o Tae-Kwon-Do capturou o interesse do público por suas patadas altas e acrobáticas. Com a chegada dos filmes de ação, especialmente os estrelados por Bruce Lee, e a competição esportiva, diversas técnicas de chutes foram popularizadas, expandindo as possibilidades e tornando os golpes mais complexos e espetaculares.",
+  "exemplar_id": 2896,
+  "sku": "LI01V1",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora bastante amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados. Ilustrações em preto & branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:24:06",
+  "observacoes": null
+}

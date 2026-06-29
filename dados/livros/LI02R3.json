@@ -1,0 +1,63 @@
+{
+  "obra_id": 5031,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Bakuman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá.",
+  "palavras_chave": "ohba bakuman",
+  "edicao_id": 5006,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 190,
+  "isbn": "9788577874385",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "Bakuman é um mangá shonen de drama e slice-of-life que acompanha Moritaka Mashiro, um talentoso artista, e Akito Takagi, um inteligente aspirante a escritor. Ambos, ainda no ensino fundamental, decidem se unir para se tornarem mangakás profissionais e alcançar o topo da Weekly Shonen Jump. Motivados pela paixão pela criação de mangá, pela rivalidade com outros autores e por um pacto romântico com Miho Azuki (crush de Mashiro, aspirante a seiyuu), eles enfrentam o rigoroso processo de submissão, serialização, editores e a pressão da indústria, explorando temas de perseverança, criatividade, amizade e o custo pessoal do sonho de sucesso no mundo dos mangás.",
+  "exemplar_id": 5005,
+  "sku": "LI02R3",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/bakuman__tsugumi-ohba-takeshi-obata__capa__2026-02-20_10-31-46-207449-000.png",
+  "contracapa": "static/uploads/bakuman__tsugumi-ohba-takeshi-obata__contracapa__2026-02-20_10-31-46-263448-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pelos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

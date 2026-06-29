@@ -1,0 +1,68 @@
+{
+  "obra_id": 219,
+  "autor": "H.P. Lovecraft",
+  "titulo": "Medo clássico volume I",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Horror. Ficção. Clássicos.",
+  "palavras_chave": "lovecraft medo classico",
+  "edicao_id": 213,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": null,
+  "peso": 800,
+  "isbn": "9788594540799",
+  "editora": "Darkside",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "Medo clássico",
+  "volume": null,
+  "transcricao_contracapa": "<p>O chamado de Cthulhu, Dagon, nas montanhas da loucura, a história do Necronomicon, Herbert West: Reanimator, a cidade sem nome, o cão de caça, o depoimento de Randolph Carter, a sombra vinda do tempo.</p>",
+  "sinopse": "Este volume reúne algumas das obras mais emblemáticas de H.P. Lovecraft, incluindo 'O chamado de Cthulhu' e 'A sombra vinda do tempo', que mergulham os leitores em um universo de horror e mistério. Cada narrativa oferece uma experiência única e aterradora, refletindo a genialidade do autor em criar atmosferas de suspense e desespero.",
+  "exemplar_id": 212,
+  "sku": "LI005G",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/h-p--lovecraft--medo-cl-ssico-volume-i--capa--20250226--133807.jpg",
+  "contracapa": "static/uploads/h-p--lovecraft--medo-cl-ssico-volume-i--contracapa--20250226--133807.jpg",
+  "fotos": [
+    "static/uploads/h-p--lovecraft--medo-cl-ssico-volume-i--foto1--20250226--133807.jpg",
+    "static/uploads/h-p--lovecraft--medo-cl-ssico-volume-i--foto2--20250226--133807.jpg",
+    "static/uploads/h-p--lovecraft--medo-cl-ssico-volume-i--foto3--20250226--133807.jpg",
+    "static/uploads/h-p--lovecraft--medo-cl-ssico-volume-i--foto4--20250226--133807.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, sem danos, ainda lacrado!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:43:48",
+  "observacoes": null
+}

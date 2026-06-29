@@ -1,0 +1,68 @@
+{
+  "obra_id": 309,
+  "autor": "Bianca Landim",
+  "titulo": "Rebirth",
+  "subtitulo": "Os novos titãs",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura fantástica. Aventuras. Mitologia.",
+  "palavras_chave": "landim rebirth titas",
+  "edicao_id": 301,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 366,
+  "peso": 350,
+  "isbn": "9788542806106",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quatro crianças foram postas nos caminhos imortais dos deuses do Olimpo e, delas, uma nova geração de titãs surgiu, mostrando-se incrivelmente mais poderosa que os primeiros titãs - derrotados por Zeus e seus irmãos - , e até mesmo que os próprios deuses!</p> <p>Missões lhes foram atribuídas e mundos imortais foram conhecidos, dando-lhes sabedoria, poderes e novos aliados. Acima de tudo isso, o amor único foi alcançado e suas origens, desvendadas, fazendo dos titãs uma nova ordem no Olimpo, com Zeus e os outros deuses, conhecidos como os Doze Olympianos.</p>",
+  "sinopse": "Quatro crianças são escolhidas para seguir os caminhos dos deuses do Olimpo, revelando uma nova geração de titãs mais poderosa que os anteriores. Elas recebem missões e descobrem mundos imortais, ganhando aliados e poderes. No entanto, um amor único permeia sua jornada, enquanto se tornaram uma nova ordem no Olimpo, ao lado de Zeus e os outros deuses.",
+  "exemplar_id": 300,
+  "sku": "LI007W",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/bianca-landim--rebirth--capa--20250226--133818.jpg",
+  "contracapa": "static/uploads/bianca-landim--rebirth--contracapa--20250226--133818.jpg",
+  "fotos": [
+    "static/uploads/bianca-landim--rebirth--foto1--20250226--133818.jpg",
+    "static/uploads/bianca-landim--rebirth--foto2--20250226--133818.jpg",
+    "static/uploads/bianca-landim--rebirth--foto3--20250226--133818.jpg",
+    "static/uploads/bianca-landim--rebirth--foto4--20250226--133818.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:39:31",
+  "observacoes": null
+}

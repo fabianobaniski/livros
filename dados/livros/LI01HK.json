@@ -1,0 +1,63 @@
+{
+  "obra_id": 2431,
+  "autor": "Millard J. Erickson",
+  "titulo": "Christian Theology",
+  "subtitulo": "Second Edition",
+  "idioma": "Inglês",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "erickson christian theology",
+  "edicao_id": 2411,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 1312,
+  "peso": 2050,
+  "isbn": "9780801021824",
+  "editora": "Baker Academic",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra de Millard Erickson se consolidou como uma das principais referências contemporâneas na teologia protestante moderna. Conservadora em essência e de orientação levemente calvinista, explora uma variedade de opções teológicas de forma equilibrada, sendo especialmente útil tanto para pastores quanto para líderes leigos. Oferece uma análise profunda da doutrina cristã, mantendo diálogo com a tradição da igreja e as contribuições filosóficas e teológicas modernas...",
+  "exemplar_id": 2410,
+  "sku": "LI01HK",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/millard-j-erickson--christian-theology--capa--20260316--184723.jpg",
+  "contracapa": "static/uploads/millard-j-erickson--christian-theology--contracapa--20260316--184724.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro volumoso, com , em capa dura, formato padrão, em ótimas condições. Papel discretamente amarelado pela ação do tempo. Lombada reta. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:10:18",
+  "observacoes": null
+}

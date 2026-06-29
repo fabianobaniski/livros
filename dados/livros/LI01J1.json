@@ -1,0 +1,63 @@
+{
+  "obra_id": 2485,
+  "autor": "Paulo Roney Ávila Fagúndez",
+  "titulo": "Direito e taoísmo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "fagundez direito taoismo",
+  "edicao_id": 2465,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 487,
+  "peso": 500,
+  "isbn": "9788536106113",
+  "editora": "Ltr",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Direito e Taoismo: Elementos para Compreensão do Sistema Jurídico à Luz do Princípio Único Universal faz uma severa crítica ao modelo dogmático-positivista, que se apresenta inadequado para a solução dos conflitos humanos. O Direito que se tem está preocupado em aprofundar a desigualdade social e manter os privilégios dos detentores do poder político e econômico...",
+  "exemplar_id": 2464,
+  "sku": "LI01J1",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/paulo-roney-avila-fagundez--direito-e-taoismo--capa--20260316--192631.jpg",
+  "contracapa": "static/uploads/paulo-roney-avila-fagundez--direito-e-taoismo--contracapa--20260316--192631.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Elementos para Compreensão do Sistema Jurídico à Luz do Princípio único Universal. / Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:47:56",
+  "observacoes": null
+}

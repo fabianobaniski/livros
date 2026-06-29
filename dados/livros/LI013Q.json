@@ -1,0 +1,68 @@
+{
+  "obra_id": 1932,
+  "autor": "Nereide Saviani",
+  "titulo": "Saber escolar, currículo e didática",
+  "subtitulo": "Problemas da unidade conteúdo/método no processo pedagógico",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Currículo. Didática. Formação de professores. Sociologia da educação.",
+  "palavras_chave": "saviani saber escolar curriculo didatica",
+  "edicao_id": 1912,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 290,
+  "isbn": "9788585701048",
+  "editora": "Autores Associados",
+  "numero_edicao": 5,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este trabalho trata, basicamente, de questões relativas à conversão do conhecimento em saber escolar e sua manifestação na elaboração de currículos e na constituição das disciplinas escolares e respectivos programas, em relação com aspectos do desenvolvimento do processo pedagógico. Compreende abordagens ligadas a: sociologia e ideologia do currículo; história do currículo e das disciplinas escolares; análises de aspectos sociológicos, lógicos, psicológicos e pedagógicos envolvidos na elaboração de propostas curriculares.</p><p>Constituindo-se num “mapeamento” de diversos enfoques frequentes nos debates sobre currículo e didática das últimas décadas, seu conteúdo certamente interessará a professores e estudantes de graduação e pós-graduação que pesquisam e atuam em formação docente nos diversos níveis, bem como a professores do ensino básico em exercício.</p>",
+  "sinopse": "O livro aborda questões relacionadas à transformação do conhecimento em saber escolar e sua manifestação na elaboração de currículos e constituição das disciplinas escolares. Compreende diversas abordagens, como sociologia e ideologia do currículo, história curricular, além de análises sociológicas, lógicas, psicológicas e pedagógicas na elaboração de propostas curriculares. A obra oferece um mapeamento dos principais enfoques sobre currículo e didática, sendo de interesse para professores e estudantes da área de educação e formação docente.",
+  "exemplar_id": 1911,
+  "sku": "LI013Q",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/nereide-saviani--saber-escolar--curr-culo-e-did-tica--capa--20250430--104303.jpg",
+  "contracapa": "static/uploads/nereide-saviani--saber-escolar--curr-culo-e-did-tica--contracapa--20250430--104303.jpg",
+  "fotos": [
+    "static/uploads/nereide-saviani--saber-escolar--curr-culo-e-did-tica--foto1--20250430--104303.jpg",
+    "static/uploads/nereide-saviani--saber-escolar--curr-culo-e-did-tica--foto2--20250430--104303.jpg",
+    "static/uploads/nereide-saviani--saber-escolar--curr-culo-e-did-tica--foto3--20250430--104303.jpg",
+    "static/uploads/nereide-saviani--saber-escolar--curr-culo-e-did-tica--foto4--20250430--104303.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:50:29",
+  "observacoes": "procedencia_biblioteca"
+}

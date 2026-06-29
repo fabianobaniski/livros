@@ -1,0 +1,63 @@
+{
+  "obra_id": 2622,
+  "autor": "Saeed Alizadeh",
+  "titulo": "Iran",
+  "subtitulo": "A chronological history",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "alizadeh iran chronological history",
+  "edicao_id": 2602,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 269,
+  "peso": 250,
+  "isbn": "9789640614136",
+  "editora": "Alhoda UK",
+  "numero_edicao": 0,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2601,
+  "sku": "LI01MU",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/saeed-alizadeh--iran--capa--20260316--213548.jpg",
+  "contracapa": "static/uploads/saeed-alizadeh--iran--contracapa--20260316--213548.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel levemente amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:48:50",
+  "observacoes": null
+}

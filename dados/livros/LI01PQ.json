@@ -1,0 +1,63 @@
+{
+  "obra_id": 2726,
+  "autor": "Moyra Caldecott",
+  "titulo": "Mythical journeys",
+  "subtitulo": "Legendary quests",
+  "idioma": "Inglês",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "caldecott mythical journeys",
+  "edicao_id": 2706,
+  "encadernacao": null,
+  "quantidade_paginas": 176,
+  "peso": 300,
+  "isbn": "9780713727074",
+  "editora": "Blandford",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Os mitos e lendas atravessam gerações, transcendendo culturas e fornecendo respostas para questões profundas sobre a existência humana. Com seus simbolismos e metáforas, eles não apenas explicam o mundo ao nosso redor, mas também oferecem um vislumbre de nosso passado, abordando a jornada da vida e o mistério da morte. Histórias como as de A Divina Comédia, de Dante, e O Peregrino, de Bunyan, são exemplos dessa busca por compreensão. Neste livro, são exploradas narrativas clássicas que inspiram reflexões sobre renovação e exploração pessoal.",
+  "exemplar_id": 2705,
+  "sku": "LI01PQ",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/mythical-journeys-moyra-caldecott-capa_rev1176.jpg",
+  "contracapa": "static/uploads/mythical-journeys-moyra-caldecott-contracapa_rev1842.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem preservado. Miolo firme, lombada reta, texto livre de sublinhados e anotações. Há, apenas, levíssimos sinais deixados pelo uso e um carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:11:00",
+  "observacoes": null
+}

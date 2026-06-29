@@ -1,0 +1,63 @@
+{
+  "obra_id": 2478,
+  "autor": "Ernildo Stein; Luís Alberto de Boni",
+  "titulo": "Dialética e liberdade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "stein dialetica liberdade",
+  "edicao_id": 2458,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 636,
+  "peso": 500,
+  "isbn": "9788532609243",
+  "editora": "Vozes",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Dialética e Liberdade explora a dualidade da razão na modernidade europeia, abordando como ela pode ser uma ferramenta tanto de conhecimento e dominação, quanto de emancipação. A obra reflete sobre a prática de sujeição da natureza pela razão dominante e contrapõe essa visão com a razão que busca liberdade subjetiva e solidariedade. Através dessa análise, o autor questiona como a razão pode tornar-se prática e libertadora, propondo um caminho para a liberdade que se autossustenta.",
+  "exemplar_id": 2457,
+  "sku": "LI01IU",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/ernildo-stein--dialetica-e-liberdade--capa--20260316--192421.jpg",
+  "contracapa": "static/uploads/ernildo-stein--dialetica-e-liberdade--contracapa--20260316--192421.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Festschrift em homenagem a Carlos Roberto Cirne Lima / Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo, sobretudo nas bordas. Há selo de livraria. Capa dura com sobrecapa.,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:45:33",
+  "observacoes": null
+}

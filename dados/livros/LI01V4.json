@@ -1,0 +1,63 @@
+{
+  "obra_id": 2920,
+  "autor": "Katya Walter",
+  "titulo": "Tao of chaos",
+  "subtitulo": "Dna & the I Ching - Unlocking the code of universe",
+  "idioma": "Inglês",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "walter tao chaos dna",
+  "edicao_id": 2900,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 288,
+  "peso": 300,
+  "isbn": "9781852308063",
+  "editora": "Element",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em Tao of Chaos, Katya Walter explora as intrigantes semelhanças entre o I Ching e o código genético, sugerindo que o I Ching antecede o código binário de Leibniz em mais de 3.000 anos. Walter revela como as estruturas presentes no DNA também podem ser encontradas na teia de aranhas, girassóis e padrões antigos, conectando a sabedoria ancestral à ciência moderna. Usando a Teoria do Caos, ela propõe uma visão revolucionária de como criamos ordem no universo. A obra combina ciência e espiritualidade, oferecendo novas perspectivas sobre a natureza fundamental do cosmos.",
+  "exemplar_id": 2899,
+  "sku": "LI01V4",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/tao-of-chaos-katya-walter-capa_rev1151.jpg",
+  "contracapa": "static/uploads/tao-of-chaos-katya-walter-contracapa_rev1926.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:51:49",
+  "observacoes": null
+}

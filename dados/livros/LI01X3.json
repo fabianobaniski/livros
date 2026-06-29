@@ -1,0 +1,63 @@
+{
+  "obra_id": 2991,
+  "autor": "Arnaud Spire; Edgar Morin (entrevistador)",
+  "titulo": "O Pensamento Prigogine",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": null,
+  "palavras_chave": "spire pensamento prigogine",
+  "edicao_id": 2971,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 350,
+  "isbn": "9727713467",
+  "editora": "Instituto Piaget",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "O livro pretende dar a conhecer ao grande público o essencial dos trabalhos de Ilya Prigogine, físico-químico e filósofo, Prêmio Nobel em 1977. Algumas questões sucitadas: É o tempo reversível? A natureza tem uma história? O que é que existe de constante no Universo? Em que é que a Relatividade Geral de Einstein é apenas uma etapa? Pode o caos estar na origem da ordem? Vivemos em uma sociedade em que o aleatóreo toma o passo das certezas? Será o futuro previsível?",
+  "exemplar_id": 2970,
+  "sku": "LI01X3",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Conteúdo intacto, sem sublinhados ou anotações. Capa, lombada e contracapa sem danos. Sem furos, carimbos, assinaturas, mofo, marcas de umidade. Um tanto amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:33:38",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

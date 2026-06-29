@@ -1,0 +1,63 @@
+{
+  "obra_id": 2730,
+  "autor": "Jussara Bittencourt de Sá",
+  "titulo": "Nação em cena",
+  "subtitulo": "Brasil, teatro, século XIX",
+  "idioma": "Português",
+  "categoria": "Teatro",
+  "temas": "",
+  "palavras_chave": "sa nacao cena brasil",
+  "edicao_id": 2710,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 227,
+  "peso": 350,
+  "isbn": "9788532804785",
+  "editora": "Ufsc",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra analisa as concepções de nação e nacionalidade no teatro brasileiro da segunda metade do século XIX. Em confronto com a figura do estrangeiro, observa-se como sua representação reflete a percepção da própria nação. O imigrante, seja comerciante ou trabalhador, simboliza a alteridade que, nas peças da época, era essencial para o debate sobre identidade nacional. A presença do outro no palco revela conflitos e negociações que moldaram o imaginário social, fazendo das peças teatrais um espaço de reflexão sobre a formação da identidade brasileira.",
+  "exemplar_id": 2709,
+  "sku": "LI01PU",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/nacao-em-cena-jussara-bittencourt-de-sa-capa_rev2137.jpg",
+  "contracapa": "static/uploads/nacao-em-cena-jussara-bittencourt-de-sa-contracapa_rev1353.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Texto livre de anotações e sublinhados. Ilustrado em preto e branco. Há carimbo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:13:36",
+  "observacoes": null
+}

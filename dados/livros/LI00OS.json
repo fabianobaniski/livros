@@ -1,0 +1,63 @@
+{
+  "obra_id": 934,
+  "autor": "John MacArthur, Jr.",
+  "titulo": "A Morte de Jesus",
+  "subtitulo": "prisão, julgamento e crucificação de Cristo - e o seu significado redentor",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Sacrifício. Justiça.",
+  "palavras_chave": "macarthur morte jesus",
+  "edicao_id": 919,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 239,
+  "peso": 380,
+  "isbn": "9788586886966",
+  "editora": "Cultura Cristã",
+  "numero_edicao": 1,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Não pode haver escândalo maior do que o assassinato premeditado de uma inocente vida humana. Mas o caso de Jesus de Nazaré foi bem mais do que um escândalo. Uma conspiração sem precedentes de injustiça, crueldade e interesse político e religioso condenou um homem inocente ao método de execução mais bárbaro já inventado. Pior ainda, a vítima não era simplesmente um homem. Jesus era Deus em carne. O criador da vida morreu. O próprio pensamento é quase inconcebível. Contudo, misteriosamente, da fonte desse fato histórico repugnante fluem rios incessantes de misericórdia. Aqui se encontraram a graça e a verdade de Deus; a justiça e a paz se beijaram (SI 85.10).</p> <p>John MacArthur, Jr. é pastor-mestre na Grace Community Church, em Sun Valley, Califórnia. É autor de inúmeros livros, como Abaixo a Ansiedade, Como Educar os seus Filhos segundo a Bíblia, Como Obter o Máximo da Palavra de Deus, Criação ou Evolução, O Caminho da Felicidade, O Poder da Integridade, Sociedade sem Pecado (desta Editora).</p>",
+  "sinopse": "A Morte de Jesus explora o escândalo do assassinato de um homem inocente e as implicações profundas da sua prisão, julgamento e crucificação. Através de uma análise histórica e teológica, o autor destaca a injustiça que cercou o caso de Jesus e a misericórdia que flui desse evento, revelando verdades sobre Deus e a redentora natureza do sacrifício de Cristo.",
+  "exemplar_id": 918,
+  "sku": "LI00OS",
+  "preco_estante_virtual": 73.0,
+  "preco_amazon": 73.0,
+  "capa": "static/uploads/john-macarthur--jr---a-morte-de-jesus--capa--20250227--152914.jpg",
+  "contracapa": "static/uploads/john-macarthur--jr---a-morte-de-jesus--contracapa--20250227--152914.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:32:02",
+  "observacoes": null
+}

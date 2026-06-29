@@ -1,0 +1,68 @@
+{
+  "obra_id": 1281,
+  "autor": "Isabel Maria Sabino de Farias",
+  "titulo": "Inovação, mudança e cultura docente",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Inovação. Cultura docente.",
+  "palavras_chave": "farias inovacao mudanca cultura",
+  "edicao_id": 1265,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 215,
+  "peso": 250,
+  "isbn": "9788598843254",
+  "editora": "Liber Livro",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Qual o significado da mudança educativa na contemporaneidade?</p><p>Introduzir inovações na escola garante melhorias na prática de ensino?</p><p>Inovação, mudança e reforma educativa: o que tudo isso tem a ver com o professor?</p><p>Tomando estas questões como mote de sua reflexão, a autora procede a um exame conceitual cuidadoso dos temas da inovação, mudança e cultura docente para, a partir daí, mergulhar na vida dos professores na escola. O estudo mostra que a introdução de inovações na escola imprime um movimento às formas de vida presentes neste contexto podendo, em certas circunstâncias, modificá-las. Esta é uma possibilidade, não uma garantia. A cultura docente é fator determinante desse processo. Este é um texto recomendado aos interessados em compreender as formas de interação, o pensamento e a prática docente, ou seja, sua cultura profissional. Vale conferir!</p>",
+  "sinopse": "O livro aborda questões cruciais sobre a mudança educativa contemporânea e a introdução de inovações nas escolas, discutindo seu impacto na prática docente e a cultura dos professores. A autora examina como as inovações podem modificar as formas de vida escolar e a importância da cultura docente nesse processo.",
+  "exemplar_id": 1264,
+  "sku": "LI00QL",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/isabel-maria-sabino-de-farias--inova--o--mudan-a-e-cultura-docente--capa--20250401--114904.png",
+  "contracapa": "static/uploads/isabel-maria-sabino-de-farias--inova--o--mudan-a-e-cultura-docente--contracapa--20250401--114904.png",
+  "fotos": [
+    "static/uploads/isabel-maria-sabino-de-farias--inova--o--mudan-a-e-cultura-docente--foto1--20250401--114905.jpg",
+    "static/uploads/isabel-maria-sabino-de-farias--inova--o--mudan-a-e-cultura-docente--foto2--20250401--114905.jpg",
+    "static/uploads/isabel-maria-sabino-de-farias--inova--o--mudan-a-e-cultura-docente--foto3--20250401--114905.jpg",
+    "static/uploads/isabel-maria-sabino-de-farias--inova--o--mudan-a-e-cultura-docente--foto4--20250401--114905.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Conservação regular. Parece que o livro teve leve contato com umidade. Leitura e manuseio sem prejuízos. Sem grifos ou anotações. / Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:19:00",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2688,
+  "autor": "Maria de Jesus Torres Pacheco",
+  "titulo": "Maternidade na adolescência",
+  "subtitulo": "Vivências, sentimentos e decisões",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "pacheco maternidade adolescencia ",
+  "edicao_id": 2668,
+  "encadernacao": null,
+  "quantidade_paginas": 155,
+  "peso": 300,
+  "isbn": "9788585048464",
+  "editora": "Fundação Josué Montello",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A experiência da maternidade é discutida a partir das vivências de adolescentes da Cidade Operária, em São Luís. A autora analisa as interações que surgem com a gravidez, envolvendo o parceiro, a família e o ambiente escolar e de trabalho, além das percepções sobre o corpo e a aceitação da maternidade. Questões como evasão escolar e afastamento profissional também são investigadas, buscando entender os impactos do nascimento do filho. A obra apresenta reflexões que estimulam debates, sendo indicada para alunos e profissionais de diversas áreas.",
+  "exemplar_id": 2667,
+  "sku": "LI01OO",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/maternidade-na-adolescencia-maria-de-jesus-torres-pacheco-capa_rev745.jpg",
+  "contracapa": "static/uploads/maternidade-na-adolescencia-maria-de-jesus-torres-pacheco-contracapa_rev45.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, sem anotações ou sublinhados, contudo com a lombada bastante inclinada à esquerda. Leitura e manuseio sem prejuízos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:56:45",
+  "observacoes": null
+}

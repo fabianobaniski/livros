@@ -1,0 +1,63 @@
+{
+  "obra_id": 5170,
+  "autor": "Hiroaki Samura",
+  "titulo": "Blade",
+  "subtitulo": "A lâmina do imortal",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Imortalidade.",
+  "palavras_chave": "samura blade lamina imortal",
+  "edicao_id": 5145,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 434,
+  "peso": 500,
+  "isbn": "9788545703761",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 13,
+  "transcricao_contracapa": "<p>Shira ressurge diante de Rin e Manji, mas agora o vilão também está com o corpo imortal! Como nossos heróis vão derrotá-lo dessa vez?!<br> Completo em 15 volumes, Blade – A Lâmina do Imortal retorna em uma coleção especial com o dobro do tamanho da japonesa, em um novo projeto exclusivo da Editora JBC.</p>",
+  "sinopse": "Shira retorna para enfrentar Rin e Manji, agora também com o corpo imortal. O desafio de derrotá-lo desta vez ganha um novo fôlego, com Blade – A Lâmina do Imortal voltando em uma coleção especial ampliada pela Editora JBC.",
+  "exemplar_id": 5144,
+  "sku": "LI02UY",
+  "preco_estante_virtual": 80.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/blade__a-lamina-do-imortal__hiroaki-samura__capa__2026-02-20_10-32-27-356835-000.png",
+  "contracapa": "static/uploads/blade__a-lamina-do-imortal__hiroaki-samura__contracapa__2026-02-20_10-32-27-401773-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

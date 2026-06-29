@@ -1,0 +1,68 @@
+{
+  "obra_id": 1379,
+  "autor": "Tommy Tenney",
+  "titulo": "Os caçadores de Deus",
+  "subtitulo": "Em busca do amado da sua alma",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Espiritualidade. Busca.",
+  "palavras_chave": "tenney os caçadores deus ",
+  "edicao_id": 1362,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 250,
+  "isbn": "9788583210054",
+  "editora": "Bello Publicações",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Seu coração anseia por um relacionamento íntimo com o seu Senhor? Talvez você deseje se aproximar do seu Pai celestial, mas não sabe como ou não sabe por onde começar. Saiba que o livro Os Caçadores de Deus o ajudará a iniciar a jornada que transformará sua vida.</p> <p>Um Caçador de Deus é alguém cuja paixão pela presença de Deus o impulsiona a viver em uma busca ininterrupta pelo Pai. Um filho corre atrás de seu pai amado até que, de repente, seus braços fortes envolvem aquele que o busca. O perseguido passa a ser o prisioneiro, e o perseguido se torna o caçador.</p> <p>Esta nova tradução do best-seller original Os Caçadores de Deus, o ajudará a iniciar uma busca apaixonada por Deus livre de qualquer impedimento imposto pelas expectativas das normas religiosas e sociais. À medida que você prosseguir em sua busca, espere ser capturado pelos braços amorosos do Pai!</p>",
+  "sinopse": "O livro 'Os Caçadores de Deus' convida os leitores a embarcarem em uma jornada de busca pela presença divina, enfatizando o desejo do coração de se aproximar do Pai celestial. Com um enfoque na relação íntima e a transformação pessoal, o autor incentiva a libertação de barreiras religiosas que possam impedir essa conexão profunda.",
+  "exemplar_id": 1361,
+  "sku": "LI00T5",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/tommy-tenney--os-ca-adores-de-deus--capa--20250401--115337.jpg",
+  "contracapa": "static/uploads/tommy-tenney--os-ca-adores-de-deus--contracapa--20250401--115337.jpg",
+  "fotos": [
+    "static/uploads/tommy-tenney--os-ca-adores-de-deus--foto1--20250401--115337.jpg",
+    "static/uploads/tommy-tenney--os-ca-adores-de-deus--foto2--20250401--115337.jpg",
+    "static/uploads/tommy-tenney--os-ca-adores-de-deus--foto3--20250401--115337.jpg",
+    "static/uploads/tommy-tenney--os-ca-adores-de-deus--foto4--20250401--115337.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Há, contudo, sublinhados à lápis em várias páginas e pelo menos uma delas contém grifo feito com caneta destaca-texto. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:09:07",
+  "observacoes": null
+}

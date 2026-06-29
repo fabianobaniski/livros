@@ -1,0 +1,63 @@
+{
+  "obra_id": 2544,
+  "autor": "Claudino Piletti; Nelson Piletti",
+  "titulo": "Filosofia e história da educação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "piletti filosofia historia educacao",
+  "edicao_id": 2524,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 264,
+  "peso": 414,
+  "isbn": "9788508023882",
+  "editora": "Ática",
+  "numero_edicao": 0,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2523,
+  "sku": "LI01KO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/claudino-piletti--filosofia-e-historia-da-educacao--capa--20260316--202102.jpg",
+  "contracapa": "static/uploads/claudino-piletti--filosofia-e-historia-da-educacao--contracapa--20260316--202102.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:02:31",
+  "observacoes": null
+}

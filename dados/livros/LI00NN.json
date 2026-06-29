@@ -1,0 +1,63 @@
+{
+  "obra_id": 893,
+  "autor": "Gordon H. Clark",
+  "titulo": "Três tipos de filosofia religiosa",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Religião.",
+  "palavras_chave": "clark tres tipos filosofia",
+  "edicao_id": 878,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 182,
+  "peso": 300,
+  "isbn": "9788562478741",
+  "editora": "Monergismo",
+  "numero_edicao": 1,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Neste livro, Gordon H. Clark demonstra que o empirismo, bem como o racionalismo, embora quase ninguém seja discípulo de Anselmo nestes dias, é um tecido de falácias lógicas. O resultado é um impressionante e revigorante desafio para a sabedoria deste mundo.</p> <p>O resultado é uma introdução clássica para a filosofia da religião que evita os erros do empirismo e do racionalismo, e apresenta a perspectiva bíblica, que por Clark é chamada de dogmática. Deve-se acreditar na Bíblia simplesmente porque ela é a Palavra de Deus; não há uma autoridade maior. O empirismo, a crença na autoridade dos sentidos, é uma forma de filosofia “conforme os rudimentos do mundo”. Tentar provar a Bíblia por relíquias e pela ciência é mais absurdo do que tentar encontrar o sol com uma lanterna. Aqueles que fazem isso não seexpõem meramente à refutação, mas ao ridículo também.</p> <p>Os que se acham sábios, bem como humildes leigos, fariam bem em ler este livro, pois, até que os cristãos, especialmente professores de universidade, endireitem suas filosofias, as superstições do século XX continuarão a crescer e nós continuaremos a recuar rapidamente para a Idade das Trevas.</p>",
+  "sinopse": "Neste livro, Gordon H. Clark aborda as falácias do empirismo e racionalismo, apresentando uma visão dogmática da religião. Ele defende a Bíblia como autoridade máxima, argumentando que a tentativa de validá-la por meio da ciência é absurda. Clark desafia os leitores a reconsiderarem suas compreensões filosóficas, especialmente em um mundo que se afunda em superstições.",
+  "exemplar_id": 877,
+  "sku": "LI00NN",
+  "preco_estante_virtual": 34.0,
+  "preco_amazon": 33.0,
+  "capa": "static/uploads/gordon-h--clark--tr-s-tipos-de-filosofia-religiosa--capa--20250227--152911.jpg",
+  "contracapa": "static/uploads/gordon-h--clark--tr-s-tipos-de-filosofia-religiosa--contracapa--20250227--152911.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:30:35",
+  "observacoes": null
+}

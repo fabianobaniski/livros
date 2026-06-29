@@ -1,0 +1,63 @@
+{
+  "obra_id": 2530,
+  "autor": "Mirta Yáñez; Marilyn Bobes",
+  "titulo": "Estatuas de sal",
+  "subtitulo": "Cuentistas cubanas contemporáneas",
+  "idioma": "Espanhol",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "yanez estatuas sal cuentistas",
+  "edicao_id": 2510,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 381,
+  "peso": 300,
+  "isbn": "9789592098961",
+  "editora": "Ediciones Union",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Mirta Yáñez, nascida em Havana em 1947, é uma renomada narradora, poeta e ensaísta cubana. Doutora em Ciências Filológicas, recebeu diversos prêmios literários ao longo de sua carreira, incluindo o prestigiado Prêmio Casa de las Américas. Entre suas obras mais notáveis estão La Habana es una ciudad bien grande e Fiebre de invierno. Seus escritos exploram a complexidade da vida cubana, com um enfoque profundo na realidade social e política do país. Yáñez é considerada uma das vozes mais importantes da literatura cubana contemporânea.",
+  "exemplar_id": 2509,
+  "sku": "LI01KA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mirta-yanez--estatuas-de-sal--capa--20260316--194155.jpg",
+  "contracapa": "static/uploads/mirta-yanez--estatuas-de-sal--contracapa--20260316--194155.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:34:25",
+  "observacoes": null
+}

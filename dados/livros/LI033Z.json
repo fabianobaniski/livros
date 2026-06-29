@@ -1,0 +1,63 @@
+{
+  "obra_id": 5718,
+  "autor": "Inio Asano",
+  "titulo": "Solanin",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Quadrinhos. Mangá.",
+  "palavras_chave": "asano solanin",
+  "edicao_id": 5693,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 216,
+  "peso": 180,
+  "isbn": "9788525424662",
+  "editora": "L&PM",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "L&PM Pocket Mangá",
+  "volume": 1,
+  "transcricao_contracapa": "<p>man•gá ou 漫画, em japonês (man, involuntário + gá, imagem), é um gênero de história em quadrinhos herdeiro das gravuras japonesas clássicas e das HQs ocidentais.</p><p>A série L&PM POCKET MANGÁ traz ao leitor brasileiro as melhores histórias e autores de quadrinhos do Oriente, com opções para todas as idades. Em Solanin 1, do premiado quadrinista japonês Inio Asano (1980-), o jovem casal de namorados Meiko e Taneda decide dar uma virada em suas vidas e ir atrás de seus sonhos de música e liberdade.</p>",
+  "sinopse": "A série L&PM Pocket Mangá traz ao leitor brasileiro uma seleção especial de mangás de autores renomados do Oriente. Em 'Solanin 1', Inio Asano narra a história do jovem casal Meiko e Taneda, que busca uma transformação em suas vidas ao perseguirem seus sonhos de música e liberdade.",
+  "exemplar_id": 5692,
+  "sku": "LI033Z",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/solanin__inio-asano__capa__2026-02-28_10-59-58-824342-000.jpg",
+  "contracapa": "static/uploads/solanin__inio-asano__contracapa__2026-02-28_10-59-58-827617-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

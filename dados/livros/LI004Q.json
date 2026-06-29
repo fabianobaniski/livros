@@ -1,0 +1,68 @@
+{
+  "obra_id": 192,
+  "autor": "Kathryn Harvey",
+  "titulo": "Butterfly",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura erótica. Questões de identidade. Poder feminino.",
+  "palavras_chave": "harvey butterfly",
+  "edicao_id": 187,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 518,
+  "peso": 800,
+  "isbn": "9788579303494",
+  "editora": "Universo dos Livros",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>No andar de cima de uma loja exclusivamente masculina na Rodeo Drive, existe um clube particular chamado Butterfly, um espaço em que as mulheres são livres para expressar suas fantasias eróticas mais secretas.</p> <p>Somente as mulheres mais belas e mais poderosas de Beverly Hills são convidadas a entrar: Jessica, uma advogada que suspira pela época em que os homens eram machos e as mulheres satisfaziam seus prazeres; Trudie, uma construtora que quer alguém que a desafie, em todos os sentidos e sem tabus; e Linda, uma cirurgiã que usa máscaras para desmascarar os desejos que esconde até de si mesma.</p> <p>Contudo, a mais misteriosa de todas as mulheres é a que criou o Butterfly. Ela mudou o nome, o sotaque e até mesmo o rosto para esconder sua verdadeira identidade. E agora está prestes a revelar seu passado para concretizar a obsessão secreta que a levará além do êxtase...</p>",
+  "sinopse": "Na exclusividade de um clube em Beverly Hills, mulheres poderosas e atraentes se reúnem para libertar suas fantasias secretas, mas a criadora do clube ainda guarda mistérios desafiadores que revelam uma identidade oculta e um passado obscuro que promete levar suas fixações a um outro nível.",
+  "exemplar_id": 186,
+  "sku": "LI004Q",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/kathryn-harvey--butterfly--capa--20250226--133804.jpg",
+  "contracapa": "static/uploads/kathryn-harvey--butterfly--contracapa--20250226--133804.jpg",
+  "fotos": [
+    "static/uploads/kathryn-harvey--butterfly--foto1--20250226--133804.jpg",
+    "static/uploads/kathryn-harvey--butterfly--foto2--20250226--133804.jpg",
+    "static/uploads/kathryn-harvey--butterfly--foto3--20250226--133804.jpg",
+    "static/uploads/kathryn-harvey--butterfly--foto4--20250226--133804.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:56:07",
+  "observacoes": null
+}

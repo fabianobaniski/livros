@@ -1,0 +1,68 @@
+{
+  "obra_id": 5849,
+  "autor": "Eduardo de Proença",
+  "titulo": "Apócrifos da Bíblia e pseudo-epígrafos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Cristianismo. Apócrifos e pseudo-epígrafos. História da Igreja.",
+  "palavras_chave": "apocrifos biblia pseudo epigrafos",
+  "edicao_id": 5824,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 881,
+  "peso": 1100,
+  "isbn": "9788586671357",
+  "editora": "Fonte Editorial",
+  "numero_edicao": 17,
+  "ano": 2020,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Resultado da tradição oral dos primeiros crentes da era cristã, os apócrifos tornaram-se importantes documentos reveladores do modo como vivia e pensava uma grande parcela da cristandade, cuja voz ficou abafada pela Igreja Oficial. Produzidos para satisfazer as curiosidades populares a respeito da infância de Jesus e de seus pais, bem como estabelecer as raízes da nova religião, tais escritos revelam, por um lado, as idiossincrasias do pensamento e das práticas judaicas que marcaram a origem do cristianismo, e por outro, refletem a efervescente e plural cultura gentílica com a qual o Cristianismo passou a lidar cotidianamente em seu processo de expansão.</p><p>Muitos séculos depois, a despeito de não terem sido incluídos no cânone das Escrituras cristãs, tais textos continuam despertando a curiosidade do crescente número de interessados nas coisas da Religião. Todavia, o desconhecimento generalizado do conteúdo dos apócrifos tem gerado especulações que somente o exame acurado de seu real teor pode dirimir. Ao editar estes livros, pela primeira vez reunidos em volume único, longe de apresentar uma nova Bíblia aos cristãos, o nosso objetivo é disponibilizar as fontes primárias de um compêndio de riqueza informativa incomensurável para a plena compreensão do Cristianismo e estreitar o contato com a herança literária legada pelos movimentos populares que se mantiveram marginais no curso da História da Igreja.</p><p>A publicação dos proscritos da Bíblia converte-se em uma nova contribuição para os interessados em aprofundar os estudos das Sagradas Escrituras, através de seu cotejo com a produção literária apartada do cânon tradicional. Destarte, o entendimento dos motivadores ideológicos que serviram à produção de ambos, bem como as razões que levaram a Igreja a adotar alguns textos como inspirados e reprovar outros como de origem espúria ou apócrifa, motivar-nos-á reafirmar o amor pela Palavra de Deus.</p>",
+  "sinopse": "Resultado da tradição oral dos primeiros cristãos, os apócrifos da Bíblia são documentos valiosos que revelam aspectos do pensamento e práticas das primeiras comunidades cristãs, com textos sobre a infância de Jesus, suas raízes e o desenvolvimento do Cristianismo. Mesmo não incluídos no cânone oficial, esses escritos continuam despertando interesse e especulações sobre sua autenticidade. Esta obra reúne, pela primeira vez em volume único, fontes primárias essenciais para o entendimento do Cristianismo primitivo, oferecendo uma contribuição relevante ao estudo das Escrituras e à compreensão da influência dos textos apócrifos e pseudo-epígrafos na história religiosa.",
+  "exemplar_id": 5823,
+  "sku": "LI037M",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/apocrifos-da-biblia__e-pseudo-epigrafos__none__capa__2026-01-18_14-12-14-045474-000.png",
+  "contracapa": "static/uploads/apocrifos-da-biblia__e-pseudo-epigrafos__none__contracapa__2026-01-18_14-12-14-092735-001.png",
+  "fotos": [
+    "static/uploads/apocrifos-da-biblia__e-pseudo-epigrafos__none__foto-01__2026-01-18_14-12-14-123064-002.jpg",
+    "static/uploads/apocrifos-da-biblia__e-pseudo-epigrafos__none__foto-02__2026-01-18_14-12-14-163223-003.jpg",
+    "static/uploads/apocrifos-da-biblia__e-pseudo-epigrafos__none__foto-03__2026-01-18_14-12-14-190035-004.jpg",
+    "static/uploads/apocrifos-da-biblia__e-pseudo-epigrafos__none__foto-04__2026-01-18_14-12-14-235723-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:51:38",
+  "observacoes": null
+}

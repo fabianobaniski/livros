@@ -1,0 +1,63 @@
+{
+  "obra_id": 2523,
+  "autor": "Maria de Fátima Mota Zampieri",
+  "titulo": "Enfermagem na atenção primária à saúde da mulher",
+  "subtitulo": "Volume 2",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "orgs enfermagem atencao primaria",
+  "edicao_id": 2503,
+  "encadernacao": null,
+  "quantidade_paginas": 514,
+  "peso": 2000,
+  "isbn": "9786558662846",
+  "editora": "Ccs / Ufsc",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro busca qualificar o ensino e a aprendizagem na área da saúde, conectando teoria e prática com a realidade social. Focado na formação de profissionais capacitados para atender às demandas da população, a obra se destaca como uma referência importante para estudantes e profissionais de enfermagem. Baseado em pesquisa acadêmica e voltado para a prática, é parte da Coleção Enfermagem da Atenção Primária de Saúde e reforça o papel essencial da humanização no cuidado à saúde.",
+  "exemplar_id": 2502,
+  "sku": "LI01K3",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/maria-de-fatima-mota-zampieri-e-outras-orgs--enfermagem-na-atencao-primaria-a-saude-da-mulher--capa--20260316--193922.jpg",
+  "contracapa": "static/uploads/maria-de-fatima-mota-zampieri-e-outras-orgs--enfermagem-na-atencao-primaria-a-saude-da-mulher--contracapa--20260316--193922.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Apresenta apenas leves sinais deixados pelo uso. Texto sem anotações ou sublinhados. Há pequeno selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:20:37",
+  "observacoes": null
+}

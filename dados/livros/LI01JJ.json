@@ -1,0 +1,63 @@
+{
+  "obra_id": 2503,
+  "autor": "Samael Aun Weor",
+  "titulo": "Educação fundamental",
+  "subtitulo": "O despertar da consciência",
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "weor educacao fundamental despertar",
+  "edicao_id": 2483,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Divina Mãe",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora a importância da educação sexual como fundamento essencial para o desenvolvimento humano, tanto individual quanto coletivo. A obra argumenta que o entendimento profundo do sentido da vida e da sexualidade é crucial para o bem-estar emocional e social. O texto discute a necessidade de quebrar tabus, oferecendo uma perspectiva que valoriza o autoconhecimento e a compreensão dos impulsos sexuais como parte integral da vida.",
+  "exemplar_id": 2482,
+  "sku": "LI01JJ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/samael-aun-weor--educacao-fundamental--capa--20260316--193300.jpg",
+  "contracapa": "static/uploads/samael-aun-weor--educacao-fundamental--contracapa--20260316--193301.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Educação Fundamental - O Despertar da Consciência desde os Bancos da Escola / Livro em ótimo estado de conservação! Semi-novo! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Há uma etiqueta colada na parte interna da capa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:56:08",
+  "observacoes": null
+}

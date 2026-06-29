@@ -1,0 +1,68 @@
+{
+  "obra_id": 1986,
+  "autor": "Reinaldo A. Moura; José Maurício Banzato",
+  "titulo": "Embalagem, unitização & conteinerização",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Logística. Embalagem. Unitização. Conteinerização.",
+  "palavras_chave": "moura embalagem unitizacao conteinerizacao",
+  "edicao_id": 1966,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 354,
+  "peso": 610,
+  "isbn": "9788589824118",
+  "editora": "IMAM",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "Manual de logística",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Série: Manual de Logística</b></p><p><b>volume 1</b> Sistemas e Técnicas de Movimentação e Armazenagem de Materiais</p><p><b>volume 2</b> Armazenagem e Distribuição Física</p><p><b>volume 3</b> Embalagem, Unitização & Conteinerização</p><p><b>volume 4</b> Equipamentos de Movimentação e Armazenagem</p><p><b>volume 5</b> Aplicações Práticas de Equipamentos de Movimentação e Armazenagem de Materiais</p><p>IMAM<br>Rua Loefgren, 1400 Vila Mariana<br>CEP 04040-902 São Paulo SP<br>Tel.: + (11) 575.1400 Fax: + (11) 575.3444<br>www.imam.com.br imam@imam.com.br</p>",
+  "sinopse": "Este livro é o terceiro volume da Série Manual de Logística e aborda os conceitos, técnicas e práticas relacionados à embalagem, unitização e conteinerização de materiais. Faz parte de uma coleção que cobre diferentes tópicos de logística e armazenagem, fornecendo conteúdos detalhados para profissionais e estudantes da área.",
+  "exemplar_id": 1965,
+  "sku": "LI0157",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/reinaldo-a--moura--embalagem--unitiza--o---conteineriza--o--capa--20250430--104313.jpg",
+  "contracapa": "static/uploads/reinaldo-a--moura--embalagem--unitiza--o---conteineriza--o--contracapa--20250430--104313.jpg",
+  "fotos": [
+    "static/uploads/reinaldo-a--moura--embalagem--unitiza--o---conteineriza--o--foto1--20250430--104313.jpg",
+    "static/uploads/reinaldo-a--moura--embalagem--unitiza--o---conteineriza--o--foto2--20250430--104313.jpg",
+    "static/uploads/reinaldo-a--moura--embalagem--unitiza--o---conteineriza--o--foto3--20250430--104313.jpg",
+    "static/uploads/reinaldo-a--moura--embalagem--unitiza--o---conteineriza--o--foto4--20250430--104313.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:21:37",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1989,
+  "autor": "Flávio Ulhoa Coelho",
+  "titulo": "Curso básico de Cálculo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Matemática. Cálculo. Ensino superior.",
+  "palavras_chave": "coelho curso basico calculo",
+  "edicao_id": 1969,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 280,
+  "peso": 460,
+  "isbn": "9788502051201",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço: <b>www.saraivauni.com.br</b></p><div><b>SaraivaUni</b><br>Material de apoio | NOVIDADES<br>Matemática / Estatística<br>Manual do Professor - Transparências<br>Douglas Downing<br>Estatística Aplicada, série Essencial<br>Matemática / Estatística<br>Projetos de Curso<br>Estatística Básica<br>Pedro A. Morettin<br>Catálogo | LANÇAMENTOS<br>Matemática / Estatística<br>Matemática Financeira objetiva e aplicada<br>J. L. de Lima Picanço<br>Cálculo<br>Material de Apoio<br>Matemática / Estatística<br>Cálculo, função de uma e várias variáveis<br>Pedro A. Morettin<br>Material de Apoio<br>RECOMENDAMOS<br>Matemática / Estatística<br>Estatística e introdução à Econometria<br>Matemática / Estatística<br>Matemática Financeira<br></div><p>SAC Uni<br>(11) 3613-3075<br><a href=\"http://www.saraivauni.com.br\">www.saraivauni.com.br</a></p>",
+  "sinopse": "Este livro apresenta um curso básico de cálculo preparado por Flávio Ulhoa Coelho, publicado pela Editora Saraiva. Destina-se a estudantes e professores que buscam uma introdução sólida aos conceitos fundamentais do cálculo, abrangendo teoria e aplicações práticas. O material é apoiado pelo site da editora, oferecendo recursos adicionais e novidades para estudantes da área de Matemática e Estatística.",
+  "exemplar_id": 1968,
+  "sku": "LI015A",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--capa--20250430--104314.jpg",
+  "contracapa": "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--contracapa--20250430--104314.jpg",
+  "fotos": [
+    "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--foto1--20250430--104314.jpg",
+    "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--foto2--20250430--104314.jpg",
+    "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--foto3--20250430--104314.jpg",
+    "static/uploads/fl-vio-ulhoa-coelho--curso-b-sico-de-c-lculo--foto4--20250430--104314.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:48:21",
+  "observacoes": "procedencia_biblioteca"
+}

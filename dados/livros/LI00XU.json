@@ -1,0 +1,68 @@
+{
+  "obra_id": 1706,
+  "autor": "Marcelo Rossi",
+  "titulo": "Philia",
+  "subtitulo": "Derrote a depressão, o medo e outros problemas aplicando o Philia no seu dia a dia",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Auto-Ajuda. Relacionamentos. Espiritualidade.",
+  "palavras_chave": "marcelo rossi philia ",
+  "edicao_id": 1686,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 135,
+  "peso": 200,
+  "isbn": "9788525060044",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Philia.<br> Era com essa bela palavra que os antigos gregos definiam o amor dos pais por seus filhos, o amor de um irmão por outro irmão, o amor de um amigo por outro amigo, o amor entre os cidadãos.<br> Philia, o amor fraternal.\"</p>",
+  "sinopse": "Neste livro, Padre Marcelo Rossi oferece uma reflexão sobre o amor fraternal e como aplicá-lo na vida cotidiana para vencer desafios como a depressão e o medo. Usando o conceito de 'Philia', ele busca inspirar os leitores a cultivarem relacionamentos mais saudáveis e amorosos. ",
+  "exemplar_id": 1685,
+  "sku": "LI00XU",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/padre-marcelo-rossi--philia--capa--20250401--115808.jpg",
+  "contracapa": "static/uploads/padre-marcelo-rossi--philia--contracapa--20250401--115808.jpg",
+  "fotos": [
+    "static/uploads/padre-marcelo-rossi--philia--foto1--20250401--115808.jpg",
+    "static/uploads/padre-marcelo-rossi--philia--foto2--20250401--115808.jpg",
+    "static/uploads/padre-marcelo-rossi--philia--foto3--20250401--115808.jpg",
+    "static/uploads/padre-marcelo-rossi--philia--foto4--20250401--115808.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:04:03",
+  "observacoes": null
+}

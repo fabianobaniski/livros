@@ -1,0 +1,68 @@
+{
+  "obra_id": 418,
+  "autor": "Roberto de Souza Neves",
+  "titulo": "Dicionário de expressões latinas usuais",
+  "subtitulo": "(15.000 adágios, provérbios, máximas etc)",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Linguística. Direito. Expressões diplomáticas.",
+  "palavras_chave": "neves dicionario expressoes latinas",
+  "edicao_id": 406,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 611,
+  "peso": 900,
+  "isbn": "8520003958",
+  "editora": "Civilização Brasileira",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Animus confitendi<br>Intenção de confessar fato, crime (confiteor).</p><p>Bonorum distractio<br>Venda de bens do devedor insolvente, sob a inspeção do bonorum curator.</p><p>Cognitor in rem suam<br>Autor em causa própria (cognitor, representante legal).</p><p>Dicant meliora doctores<br>Digam melhor os doutores.</p><p>Facta justitia ut mores<br>Feita a justiça de costume.</p><p>Generalía specialibus non derogant<br>O geral não derroga o especial (a lei).</p><p>Habemus confitenteum reum<br>Temos um réu confesso.</p><p>Id quod debetur<br>Aquilo que se deve. O conteúdo da obrigação.</p><p>Judex esto<br>O juiz seja. Expressão inicial da ação.</p><p>Narra mihi factum dabo tibi jus<br>Dá-me o fato, dar-te-ei o direito (o juiz).</p><p>Pacta personalia non transeunt ad haeredes<br>Os pactos pessoais não passam aos herdeiros.</p><p>Quae contrahuntur litteris<br>O que se contrai por escrito.</p><p>Rara viget probitus ubi regnat grandis egestas<br>Raramente existe probabilidade onde há grande necessidade.</p><p>Sub leges libertas<br>Liberdade à sombra da lei.</p>",
+  "sinopse": "Este dicionário apresenta uma coletânea de expressões latinas usadas no contexto jurídico e cotidiano, oferecendo explicações e contextos que ajudam na compreensão de cada termo. É uma obra essencial para aqueles que desejam aprofundar-se na utilização do latim em situações diversas.",
+  "exemplar_id": 405,
+  "sku": "LI00AO",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/roberto-de-souza-neves--dicion-rio-de-express-es-latinas-usuais--capa--20250226--133827.jpg",
+  "contracapa": "static/uploads/roberto-de-souza-neves--dicion-rio-de-express-es-latinas-usuais--contracapa--20250226--133827.jpg",
+  "fotos": [
+    "static/uploads/roberto-de-souza-neves--dicion-rio-de-express-es-latinas-usuais--foto1--20250226--133827.jpg",
+    "static/uploads/roberto-de-souza-neves--dicion-rio-de-express-es-latinas-usuais--foto2--20250226--133827.jpg",
+    "static/uploads/roberto-de-souza-neves--dicion-rio-de-express-es-latinas-usuais--foto3--20250226--133827.jpg",
+    "static/uploads/roberto-de-souza-neves--dicion-rio-de-express-es-latinas-usuais--foto4--20250226--133827.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:45:56",
+  "observacoes": null
+}

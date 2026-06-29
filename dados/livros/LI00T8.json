@@ -1,0 +1,68 @@
+{
+  "obra_id": 1383,
+  "autor": "Eva Schloss",
+  "titulo": "Depois de Auschwitz",
+  "subtitulo": "O emocionante relato da irmã de Anne Frank que sobreviveu ao Holocausto",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Holocausto. Memórias. Reflexões sobre a natureza humana.",
+  "palavras_chave": "schloss depois auschwitz",
+  "edicao_id": 1365,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 302,
+  "peso": 450,
+  "isbn": "9788579305399",
+  "editora": "Universo dos Livros",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Anne Frank escreveu no final de seu diário, pouco antes de ser capturada, que ainda acreditava que as pessoas tinham bons corações, mas eu me pergunto o que ela pensaria se tivesse sobrevivido aos campos de concentração de Auschwitz e Bergen-Belsen. Minhas experiências revelaram que as pessoas têm uma capacidade única para crueldade, brutalidade e completa indiferença aos sentimentos humanos. É fácil afirmar que o bem e o mal existem dentro de cada um de nós, mas eu vi a realidade de perto, e isso me levou a uma vida de questionamentos sobre a alma humana.\"</p>",
+  "sinopse": "Neste relato profundamente emotivo, Eva Schloss compartilha suas experiências e reflexões após sobreviver aos horrores dos campos de concentração, revelando a dualidade do bem e do mal presentes na natureza humana. Por meio de memórias que ecoam as palavras de sua irmã Anne Frank, ela nos leva a uma reflexão sobre a capacidade humana para a crueldade e a empatia.",
+  "exemplar_id": 1364,
+  "sku": "LI00T8",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/eva-schloss--depois-de-auschwitz--capa--20250401--115338.jpg",
+  "contracapa": "static/uploads/eva-schloss--depois-de-auschwitz--contracapa--20250401--115338.jpg",
+  "fotos": [
+    "static/uploads/eva-schloss--depois-de-auschwitz--foto1--20250401--115338.jpg",
+    "static/uploads/eva-schloss--depois-de-auschwitz--foto2--20250401--115338.jpg",
+    "static/uploads/eva-schloss--depois-de-auschwitz--foto3--20250401--115338.jpg",
+    "static/uploads/eva-schloss--depois-de-auschwitz--foto4--20250401--115338.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:07:19",
+  "observacoes": null
+}

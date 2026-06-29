@@ -1,0 +1,63 @@
+{
+  "obra_id": 849,
+  "autor": "Valter Alexandre Pinheiro de Oliveira",
+  "titulo": "Comentário textual bíblico",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Exegese. Conhecimento.",
+  "palavras_chave": "oliveira comentario textual biblico",
+  "edicao_id": 834,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 85,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Autor da Vida",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A igreja contemporânea tem cometido equívocos com respeito ao entendimento dos textos bíblicos. Muitas dessas interpretações são tão divergentes que conduzem algumas pessoas para uma doutrina local e meramente humana. O conhecimento da verdade leva o homem a um caminho que liberta, e, por falta de entendimento, o povo se corrompe, esperando em um Pacto materialista e terreno. Esse livro foi escrito para dar um primeiro passo na Exegese dos textos bíblicos, Originais em Hebraico, para uma prática complexa no futuro. Alguns textos polêmicos são inclusos com a finalidade de debates doutrinários, abandonados a algum tempo. A fé vem pelo ouvir e ouvir da palavra de Deus. Um povo só é consumido por falta de conhecimento. Examinando os textos conforme eles foram escritos leva o estudante a uma <b>revelação</b> dos <b>mistérios</b> imbutidos neles.</p><p>O Autor</p>",
+  "sinopse": "O livro discute os equívocos na interpretação dos textos bíblicos pela igreja contemporânea, destacando a importância do conhecimento verdadeiro. Aborda também a necessidade de uma abordagem mais profunda na exegese e os desafios de debates doutrinários, ressaltando a fé e a revelação dos mistérios contidos nas escrituras.",
+  "exemplar_id": 833,
+  "sku": "LI00MJ",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/valter-alexandre-pinheiro-de-oliveira--coment-rio-textual--capa--20250227--152908.jpg",
+  "contracapa": "static/uploads/valter-alexandre-pinheiro-de-oliveira--coment-rio-textual--contracapa--20250227--152908.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:46:59",
+  "observacoes": null
+}

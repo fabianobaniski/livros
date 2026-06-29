@@ -1,0 +1,68 @@
+{
+  "obra_id": 1480,
+  "autor": "Michael W. Apple",
+  "titulo": "Educação e poder",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Educação. Teoria crítica. Política educacional.",
+  "palavras_chave": "apple educacao poder",
+  "edicao_id": 1461,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 201,
+  "peso": 350,
+  "isbn": "9788536300696",
+  "editora": "Artmed",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "Educação, Teoria e Crítica",
+  "volume": null,
+  "transcricao_contracapa": "<p>Michael W. Apple, professor da Universidade de Wisconsin, é conhecido por ter sido um dos primeiros a introduzir preocupações políticas na análise do currículo. Seu livro anterior, <i>Ideologia e currículo</i>, é uma série crítica tanto às teorias existentes sobre o currículo quanto às práticas curriculares adotadas nas escolas.</p><p>Em <b>Educação e poder</b>, Apple retoma essa crítica. Partindo de uma reflexão sobre seu próprio trabalho anterior e sobre as influentes teorias da reprodução cultural e social, ele refina e aprofunda sua análise para introduzir elementos de con-tradição, resistência e oposição num quadro em que havia antes apenas reprodução, imposição e passividade. Além disso, chama a atenção para o importante papel que as escolas têm na produção do conhecimento, não apenas na sua distribuição. Apple vai também até o \"outro lado do currículo oculto\", o do trabalho, para ver como funciona aquele local para o qual as escolas supostamente se preparam e quais são as reais conexões entre os dois. Uma outra importante contribuição de Apple neste livro é sua ênfase nos aspectos reprodutivos embutidos na forma assumida pelo conhecimento escolar, em contraste com a ênfase habitualmente dada às mensagens ideológicas explícitas do conteúdo.</p>",
+  "sinopse": "Michael W. Apple analisa como o currículo escolar é influenciado por ideologias e questiona as práticas educacionais. A obra discute o papel das escolas na produção do conhecimento e critica a visão tradicional que só considera a reprodução e a imposição nas práticas educacionais, trazendo à luz a resistência e a oposição dentro desse contexto.",
+  "exemplar_id": 1460,
+  "sku": "LI00VU",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/michael-w--apple--educa--o-e-poder--capa--20250401--115738.jpg",
+  "contracapa": "static/uploads/michael-w--apple--educa--o-e-poder--contracapa--20250401--115738.jpg",
+  "fotos": [
+    "static/uploads/michael-w--apple--educa--o-e-poder--foto1--20250401--115738.jpg",
+    "static/uploads/michael-w--apple--educa--o-e-poder--foto2--20250401--115738.jpg",
+    "static/uploads/michael-w--apple--educa--o-e-poder--foto3--20250401--115738.jpg",
+    "static/uploads/michael-w--apple--educa--o-e-poder--foto4--20250401--115738.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:53:43",
+  "observacoes": null
+}

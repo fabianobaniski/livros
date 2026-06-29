@@ -1,0 +1,68 @@
+{
+  "obra_id": 199,
+  "autor": "Samir Bazzi",
+  "titulo": "Contabilidade em ação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Ciências Exatas. Contabilidade. Gestão Financeira.",
+  "palavras_chave": "bazzi contabilidade",
+  "edicao_id": 193,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 251,
+  "peso": 300,
+  "isbn": "9788544301326",
+  "editora": "Intersaberes",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Gestão Financeira",
+  "volume": null,
+  "transcricao_contracapa": "<p>Com o passar do tempo, a contabilidade – que, na antiguidade, era realizada de forma empírica – passou a ser primordial no dia a dia. Hoje, ela é considerada ciência, tendo aplicações diretas e comprovadas.</p><p>Com o objetivo de explicar as bases da Ciência Contábil, esta obra apresenta seus principais conceitos e aplicações na vida diária das empresas. Por possuir uma linguagem acessível, este livro será compreendido até mesmo por aqueles que não estão familiarizados com os conceitos contábeis.</p>",
+  "sinopse": "A contabilidade, que começou de maneira empírica na antiguidade, hoje é essencial e considerada uma ciência com aplicações diretas. Este livro visa explicar suas bases e conceitos, facilitando a compreensão até mesmo para quem não tem familiaridade com a área.",
+  "exemplar_id": 192,
+  "sku": "LI004W",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/samir-bazzi--contabilidade-em-a--o--capa--20250226--133805.jpg",
+  "contracapa": "static/uploads/samir-bazzi--contabilidade-em-a--o--contracapa--20250226--133805.jpg",
+  "fotos": [
+    "static/uploads/samir-bazzi--contabilidade-em-a--o--foto1--20250226--133805.jpg",
+    "static/uploads/samir-bazzi--contabilidade-em-a--o--foto2--20250226--133805.jpg",
+    "static/uploads/samir-bazzi--contabilidade-em-a--o--foto3--20250226--133805.jpg",
+    "static/uploads/samir-bazzi--contabilidade-em-a--o--foto4--20250226--133805.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:04:11",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 350,
+  "autor": "Gregory Wolfe",
+  "titulo": "A beleza salvará o mundo",
+  "subtitulo": "Recuperando o humano em uma era ideológica",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Arte. Política.",
+  "palavras_chave": "wolfe beleza salvar mundo",
+  "edicao_id": 341,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 395,
+  "peso": 400,
+  "isbn": "9788567394312",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Pensadores Contemporâneos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Vivemos numa época extremamente politizada. Guerras culturais e conflitos cada vez mais partidários têm reduzido a discussão pública a meras gritaria em disputas ideológicas.</p> <p>Mas ao invés de apenas lamentarmos a vulgaridade das palavras de ordem de nossa época, devemos, segundo Gregory Wolfe, enriquecer a linguagem e elevar os debates através de um retorno às raízes mais profundas da nossa cultura, dialogando com grandes artistas e pensadores de outras épocas, mas sem perder a sensibilidade e as características do nosso tempo.</p> <p>Como insiste o próprio Wolfe, \"se a arte não pode salvar nossas almas, pode ao menos fazer muito para remir a época, dando uma verdadeira imagem de nós mesmos, tanto no horror e tédio a que estamos sujeitos, quanto na glória em que, por raros momentos, podemos ter o privilégio de vislumbrar\".</p>",
+  "sinopse": "O livro de Gregory Wolfe reflete sobre a intensidade da polarização política contemporânea e a necessidade de resgatar a beleza e a arte como ferramentas de reflexão e discussão. Wolfe sugere um diálogo entre passado e presente, defendendo que a arte pode oferecer uma imagem mais verdadeira de nós mesmos, mostrando tanto os horrores quanto os momentos de glória que vivenciamos.",
+  "exemplar_id": 340,
+  "sku": "LI008X",
+  "preco_estante_virtual": 37.0,
+  "preco_amazon": 37.0,
+  "capa": "static/uploads/gregory-wolfe--a-beleza-salvar--o-mundo--capa--20250226--133821.jpg",
+  "contracapa": "static/uploads/gregory-wolfe--a-beleza-salvar--o-mundo--contracapa--20250226--133821.jpg",
+  "fotos": [
+    "static/uploads/gregory-wolfe--a-beleza-salvar--o-mundo--foto1--20250226--133821.jpg",
+    "static/uploads/gregory-wolfe--a-beleza-salvar--o-mundo--foto2--20250226--133821.jpg",
+    "static/uploads/gregory-wolfe--a-beleza-salvar--o-mundo--foto3--20250226--133821.jpg",
+    "static/uploads/gregory-wolfe--a-beleza-salvar--o-mundo--foto4--20250226--133821.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:08:50",
+  "observacoes": null
+}

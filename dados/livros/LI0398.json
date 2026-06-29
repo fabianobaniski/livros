@@ -1,0 +1,67 @@
+{
+  "obra_id": 5908,
+  "autor": "Ellen G. White",
+  "titulo": "Vida e ensinos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white vida ensinos",
+  "edicao_id": 5883,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 2004,
+  "peso": 340,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 10,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5882,
+  "sku": "LI0398",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/ellen-g-white--vida-e-ensinos--capa--20260306--095505.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--vida-e-ensinos--foto1--20260306--095513.jpg",
+    "static/uploads/ellen-g-white--vida-e-ensinos--foto3--20260306--095513.jpg",
+    "static/uploads/ellen-g-white--vida-e-ensinos--foto3--20260306--095536.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Texto livre de anotações, sublinhados, carimbos, etc. Sem marcas de umidade, mofo, traça. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:44:49",
+  "observacoes": null
+}

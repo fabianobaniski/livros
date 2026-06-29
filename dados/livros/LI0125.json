@@ -1,0 +1,68 @@
+{
+  "obra_id": 1875,
+  "autor": "Hamilton Pozo",
+  "titulo": "Administração de recursos materiais e patrimoniais",
+  "subtitulo": "Uma abordagem logística",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Logística. Recursos materiais. Gestão patrimonial.",
+  "palavras_chave": "pozo administracao recursos materiais patrimoniais",
+  "edicao_id": 1855,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 210,
+  "peso": 460,
+  "isbn": "9788522459018",
+  "editora": "Atlas",
+  "numero_edicao": 6,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro oferece uma sequência lógica do desdobramento da matéria no dia a dia das empresas, fundamentada em novo paradigma de mercado globalizado relacionado com a nova dinâmica da cadeia de suprimentos.</p> <p>Em razão de sua praticidade e de sua estrutura, permite ao leitor assimilar com facilidade todo o processo que envolve a aquisição de materiais, como também o sistema de armazenagem e controle, o planejamento da produção, o controle de pedidos e sua distribuição para o pleno atendimento do cliente, como otimizar os recursos disponíveis mediante conotação atual e estruturada na visão de logística empresarial.</p> <p>Além de apresentar os conceitos e práticas utilizadas pelas empresas líderes no mercado global, há uma preocupação intrínseca de tratar com os problemas brasileiros. Os elementos importantes da moderna administração logística, como <i>Just in time</i>, MRP, distribuição e transporte, são abordados de forma clara e simples para a excelência do aprendizado. No final de cada capítulo há resumo, estudos de casos e exercícios propostos para maior aprofundamento do assunto e facilidade de entendimento da matéria.</p> <b>NOTA SOBRE O AUTOR</b> <p>Hamilton Pozo é engenheiro mecânico, pós-doutor em Administração pela FEA/USP, Ph.D. em Administração pela California C. University (USA), MBA pelo Alexander Hamilton Institute (USA), MBA em Planejamento Empresarial pela Universidade São Judas Tadeu e em Planejamento Estratégico pela FEM/UNICAMP, Pós-graduado em Administração pelo IMT. Tem larga experiência profissional e acadêmica, tanto no Brasil como no exterior, ocupando cargos de Direção (Operações, Planejamento Estratégico e RH), Gerência, Coordenação e técnica em empresas transnacionais, multinacionais e nacionais. Trabalhou nos Estados Unidos, Canadá, Austrália, Espanha e Alemanha. É consultor empresarial, professor universitário e pesquisador. Autor também do livro <i>Gestão de materiais e logística em turismo: enfoque voltado para as micro, pequenas e médias empresas</i>, publicado pela Atlas.</p> <b>APLICAÇÃO</b> <p>Livro-texto para a disciplina <i>Administração de Recursos Materiais e Patrimoniais</i> dos cursos de Administração de Empresas, Ciências Contábeis e Engenharia. Leitura complementar para as disciplinas <i>Administração da Produção e Logística</i>.</p>",
+  "sinopse": "Este livro apresenta uma abordagem lógica e estruturada da administração de recursos materiais e patrimoniais no contexto do mercado globalizado, destacando processos como aquisição de materiais, armazenamento, controle, planejamento da produção e distribuição. Com foco prático, oferece ferramentas e conceitos fundamentais para logística empresarial, abordando métodos como Just in time, MRP, e distribuição, além de exemplos e exercícios para o aprofundamento do aprendizado. Destina-se a estudantes de Administração, Contabilidade e Engenharia, servindo também como leitura complementar em disciplinas de produção e logística.",
+  "exemplar_id": 1854,
+  "sku": "LI0125",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/hamilton-pozo--administra--o-de-recursos-materiais-e-patrimoniais--capa--20250430--104253.jpg",
+  "contracapa": "static/uploads/hamilton-pozo--administra--o-de-recursos-materiais-e-patrimoniais--contracapa--20250430--104253.jpg",
+  "fotos": [
+    "static/uploads/hamilton-pozo--administra--o-de-recursos-materiais-e-patrimoniais--foto1--20250430--104253.jpg",
+    "static/uploads/hamilton-pozo--administra--o-de-recursos-materiais-e-patrimoniais--foto2--20250430--104253.jpg",
+    "static/uploads/hamilton-pozo--administra--o-de-recursos-materiais-e-patrimoniais--foto3--20250430--104253.jpg",
+    "static/uploads/hamilton-pozo--administra--o-de-recursos-materiais-e-patrimoniais--foto4--20250430--104253.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:01:24",
+  "observacoes": "procedencia_biblioteca"
+}

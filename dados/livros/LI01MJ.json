@@ -1,0 +1,63 @@
+{
+  "obra_id": 2611,
+  "autor": "Cláudio Tadeu Daniel-Ribeiro; Yuri Chaves Martins",
+  "titulo": "Imagens, micróbios e espelhos",
+  "subtitulo": "Os sistemas imune e nervoso e nossa relação com o ambiente",
+  "idioma": "Português",
+  "categoria": "Medicina",
+  "temas": "",
+  "palavras_chave": "danielribeiro imagens microbios espelhos",
+  "edicao_id": 2591,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 336,
+  "peso": 800,
+  "isbn": "9788575415047",
+  "editora": "Fiocruz",
+  "numero_edicao": 0,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2590,
+  "sku": "LI01MJ",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/claudio-tadeu-daniel-ribeiro--imagens-microbios-e-espelhos--capa--20260316--213201.jpg",
+  "contracapa": "static/uploads/claudio-tadeu-daniel-ribeiro--imagens-microbios-e-espelhos--contracapa--20260316--213202.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso. Há dedicatória à caneta na primeira folha.  O presente livro trata de paradigmas, protoideias e também de estilos de pensamento, pensamentos coletivos e revoluções científicas. Nele dissertamos sobre assuntos que vão desde as origens do homem e a imprevisibilidade da evolução do conhecimento e da ciência até os conceitos e mecanismos de formação de imagens internas (como em um espelho) para o reconhecimento (da imagem) de objetos do mundo real (incluindo os micróbios). Os textos permeiam tanto narrativas históricas - como a da imunologia cognitiva - quanto a descrição do funcionamento do sistema nervoso. Os tópicos expostos em cada capítulo são explicados ao leitor com a ajuda de conceitos de diferentes disciplinas, muitas vezes estranhas ao pensamento coletivo de cientistas de nossas áreas. Assim, algumas ideias, inicialmente protoideias, demandaram amadurecimento através da interação com especialistas nas diversas disciplinas abordadas. Ao fim de cada capítulo, comentários desses peritos analisam as perspectivas e consequências dos temas tratados, muitas vezes proporcionando um olhar diferente ao oferecido por nós. [...] Esperamos, com esta abordagem interdisciplinar, promover o debate sobre diversos temas tratados entre especialistas de diferentes campos do conhecimento e, quem sabe (quem dera também...), instigar o surgimento de novas revoluções científicas. Seja bem-vindo ao mundo dos micróbios, imagens e espelhos!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:14:25",
+  "observacoes": null
+}

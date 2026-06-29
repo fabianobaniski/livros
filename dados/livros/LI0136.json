@@ -1,0 +1,68 @@
+{
+  "obra_id": 1912,
+  "autor": "Equipe de Professores da FEA/USP",
+  "titulo": "Contabilidade introdutória",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Ensino universitário. Exercícios práticos.",
+  "palavras_chave": "equipe contabilidade introdutoria",
+  "edicao_id": 1892,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 303,
+  "peso": 535,
+  "isbn": "9788522442621",
+  "editora": "Atlas",
+  "numero_edicao": 10,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>CONTABILIDADE INTRODUTÓRIA</b><p>Os livros que integram o conjunto <b>CONTABILIDADE INTRODUTÓRIA</b> (Livro-texto, Livro de Exercícios e Manual do Professor) inovam o ensino da Contabilidade no Brasil. Permanentemente revistos e atualizados, tendo em vista não só sua adaptação aos modernos padrões de ensino da Contabilidade, como ainda as frequentes modificações introduzidas na legislação fiscal e societária do País. O conjunto originou-se de cursos desenvolvidos no Departamento de Contabilidade da FEA-USP, sob a preocupação básica de clareza e de didática na exposição da matéria. Quanto ao conteúdo e ao enfoque operacional, a diretriz central tem sido a de apresentar a Contabilidade como poderoso instrumento de administração.</p><p>O <b>Livro-texto</b> parte de uma visão de conjunto dos relatórios emanados pela Contabilidade, descendo então a nível de detalhes sobre os lançamentos originários. Expõe os significados da função controladora da Contabilidade e das peças contábeis. Traz em apêndices explicações sobre a correção monetária do Balanço e análise de demonstrações contábeis.</p><p>O <b>Livro de Exercícios</b> traz uma condensação dos melhores exercícios, testados durante anos em salas de aula na FEA-USP. Alguns são propostos e outros resolvidos. Está rigorosamente ajustado ao livro-texto, no sentido de que a solução dos exercícios propostos poder ser desenvolvida via consultas ao texto básico.</p><b>OS AUTORES</b><p>A equipe que elaborou o conjunto <i>Contabilidade introdutória</i> é constituída por professores ou ex-professores do Departamento de Contabilidade da Faculdade de Economia e Administração da USP: <b>SÉRGIO DE IUDÍCIBUS, STEPHEN C. KANITZ</b> e <b>ELISEU MARTINS</b>, professores titulares; <b>ALKÍNDAR DE TOLEDO RAMOS</b>, professor doutor; <b>EDISON CASTILHO</b> e <b>LUIZ BENATTI</b>, professores assistentes (mestres); <b>EDUARDO WEBER FILHO</b> e <b>RAMON DOMINGUES JR.</b>, auxiliares de ensino.</p><b>APLICAÇÃO</b><p>O conjunto é destinado ao ensino das disciplinas CONTABILIDADE GERAL, CONTABILIDADE INTRODUTÓRIA e INTRODUÇÃO À CONTABILIDADE dos cursos de Administração, Ciências Contábeis e Economia. Material básico para preparação de candidatos a concursos públicos. Livro de referência para programas de treinamento profissional.</p>",
+  "sinopse": "O livro 'Contabilidade introdutória' reúne materiais didáticos inovadores para o ensino da Contabilidade no Brasil, sendo resultado de cursos do Departamento de Contabilidade da FEA-USP. Com ênfase na clareza e didática, aborda desde visões de conjunto até detalhes dos lançamentos contábeis e análises de demonstrações. Inclui um livro de exercícios ajustado ao texto básico, focando a aplicação prática. É referência para disciplinas de Contabilidade Geral e introdutória, útil em cursos de Administração, Contábeis e Economia, concursos e treinamentos profissionais.",
+  "exemplar_id": 1891,
+  "sku": "LI0136",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/equipe-de-professores-da-fea-usp--contabilidade-introdut-ria--capa--20250430--104259.jpg",
+  "contracapa": "static/uploads/equipe-de-professores-da-fea-usp--contabilidade-introdut-ria--contracapa--20250430--104259.jpg",
+  "fotos": [
+    "static/uploads/equipe-de-professores-da-fea-usp--contabilidade-introdut-ria--foto1--20250430--104259.jpg",
+    "static/uploads/equipe-de-professores-da-fea-usp--contabilidade-introdut-ria--foto2--20250430--104259.jpg",
+    "static/uploads/equipe-de-professores-da-fea-usp--contabilidade-introdut-ria--foto3--20250430--104259.jpg",
+    "static/uploads/equipe-de-professores-da-fea-usp--contabilidade-introdut-ria--foto4--20250430--104259.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:47:41",
+  "observacoes": "procedencia_biblioteca"
+}

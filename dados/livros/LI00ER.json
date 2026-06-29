@@ -1,0 +1,63 @@
+{
+  "obra_id": 568,
+  "autor": "James Buchanan",
+  "titulo": "Declarado inocente",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "buchanan declarado inocente",
+  "edicao_id": 553,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 96,
+  "peso": 150,
+  "isbn": "",
+  "editora": "PES",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>James Buchanan nasceu na Escócia em 1804 e foi ordenado ao ministério na Igreja Presbiteriana da Escócia em 1827.</p> <p>Em 1828, começou um ministério frutífero em North Leith, onde alcançou uma grande reputação como pregador sincero, eloquente e evangélico.</p> <p>Em 1845, foi designado à cadeira de apologética no Seminário New College, Edimburgo, em 1847 sucedeu o Dr. Chalmers como professor de teologia Sistemática. Aposentou-se em 1868 e faleceu dois anos mais tarde.</p> <p>Ele foi um escritor prolífico e popular. Seu primeiro livro, Comfort in Affliction (1837) - (Consolo na Aflitção), vendeu quase 30.000 exemplares. Suas duas obras mais valiosas foram: The Office and Work of the Holy Spirit (1842) - (Ofício e Obra do Espírito Santo), uma exposição que ainda merece um estudo, e The Doctrine of Justification (A Doutrina da Justificação), parte das Preleções de Cunningham, em 1866, das quais oferecemos a substância neste livro.</p>",
+  "sinopse": "",
+  "exemplar_id": 552,
+  "sku": "LI00ER",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/james-buchanan--declarado-inocente--capa--20250227--152850.jpg",
+  "contracapa": "static/uploads/james-buchanan--declarado-inocente--contracapa--20250227--152850.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:36:28",
+  "observacoes": null
+}

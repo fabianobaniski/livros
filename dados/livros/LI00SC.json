@@ -1,0 +1,68 @@
+{
+  "obra_id": 1345,
+  "autor": "June H. Larrabee",
+  "titulo": "Prática baseada em evidências em enfermagem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "Enfermagem. Prática baseada em evidências.",
+  "palavras_chave": "larrabee pratica evidencias enfermagem",
+  "edicao_id": 1328,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 250,
+  "peso": 350,
+  "isbn": "9788563308917",
+  "editora": "McGraw Hill",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "Nurse to Nurse",
+  "volume": null,
+  "transcricao_contracapa": "<p>Autora pioneira no uso da prática baseada em evidências mostra como implantá-la no dia a dia da enfermagem.</p><p>Escrito por June Larrabee, uma das criadoras do Modelo para Mudança da Prática Baseada em Evidências, este livro conciso traz as informações necessárias sobre como integrar a prática baseada em evidências às rotinas de cuidado aos pacientes.</p><p>Conheça os seis passos para a prática baseada em evidências:</p><ul><li>Avaliar a necessidade de mudança da prática</li><li>Localizar as melhores evidências</li><li>Fazer uma análise crítica das evidências</li><li>Projetar a mudança da prática</li><li>Implementar e avaliar a mudança da prática</li><li>Integrar e manter a mudança da prática</li></ul>",
+  "sinopse": "Este livro apresenta um guia prático sobre como implementar a prática baseada em evidências na enfermagem. A autora, June Larrabee, oferece um modelo que detalha a integração da evidência nas rotinas de cuidado, além de descrever seis passos fundamentais para a mudança de prática, desde a avaliação da necessidade até a manutenção das transformações implementadas.",
+  "exemplar_id": 1327,
+  "sku": "LI00SC",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/june-h--larrabee--pr-tica-baseada-em-evid-ncias--capa--20250401--114915.png",
+  "contracapa": "static/uploads/june-h--larrabee--pr-tica-baseada-em-evid-ncias--contracapa--20250401--114915.png",
+  "fotos": [
+    "static/uploads/june-h--larrabee--pr-tica-baseada-em-evid-ncias--foto1--20250401--114915.jpg",
+    "static/uploads/june-h--larrabee--pr-tica-baseada-em-evid-ncias--foto2--20250401--114915.jpg",
+    "static/uploads/june-h--larrabee--pr-tica-baseada-em-evid-ncias--foto3--20250401--114915.jpg",
+    "static/uploads/june-h--larrabee--pr-tica-baseada-em-evid-ncias--foto4--20250401--114915.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:08:55",
+  "observacoes": "procedencia_biblioteca"
+}

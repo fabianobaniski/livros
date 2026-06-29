@@ -1,0 +1,68 @@
+{
+  "obra_id": 1498,
+  "autor": "Francesca Marciano",
+  "titulo": "Casa Rossa",
+  "subtitulo": "Romance",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura contemporânea. Conflitos familiares. História.",
+  "palavras_chave": "marciano casa rossa ",
+  "edicao_id": 1479,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 363,
+  "peso": 600,
+  "isbn": "9788501066787",
+  "editora": "Record",
+  "numero_edicao": 2,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Esta não é uma história sobre o que sabemos, nem sobre o que temos. Esta história é sobre o que se perde no caminho.\"</p><p>Casa Rossa é uma magnífica construção no sul da Itália, lar da família Strada, cuja história começa a ser desfiada quando a propriedade está prestes a ser vendida. E cabe a Alina Strada empacotar os pertences de três gerações, enquanto relembra um passado cheio de penumbras, que teve início antes da Segunda Guerra Mundial e se estendeu até os anos 80. Uma história intrigante sobre o que acontece quando os segredos de uma família entram em choque com fatos históricos. Do fascismo dos anos 30 ao terror imposto pela Brigada Vermelha na década de 70, Casa Rossa é um livro repleto de paixão e conflitos que conduz o leitor por um turbilhão de emoções. Da dolce vita ao terrorismo, do amor ao ódio, da vida à morte, Francesca Marciano tece uma narrativa com personagens e cenários fascinantes.</p>",
+  "sinopse": "Casa Rossa é uma história envolvente localizada no sul da Itália. Através da família Strada, acompanhamos a luta de Alina Strada ao lidar com a venda da propriedade e os segredos que emergem das gerações passadas. O romance entrelaça eventos históricos significativos, revelando como os traumas do passado podem impactar o presente e levantando questões sobre amor, ódio e identidade familiar.",
+  "exemplar_id": 1478,
+  "sku": "LI00WB",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/francesca-marciano--casa-rossa--capa--20250401--115740.jpg",
+  "contracapa": "static/uploads/francesca-marciano--casa-rossa--contracapa--20250401--115740.jpg",
+  "fotos": [
+    "static/uploads/francesca-marciano--casa-rossa--foto1--20250401--115740.jpg",
+    "static/uploads/francesca-marciano--casa-rossa--foto2--20250401--115741.jpg",
+    "static/uploads/francesca-marciano--casa-rossa--foto3--20250401--115741.jpg",
+    "static/uploads/francesca-marciano--casa-rossa--foto4--20250401--115741.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:02:40",
+  "observacoes": null
+}

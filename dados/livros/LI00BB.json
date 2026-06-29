@@ -1,0 +1,68 @@
+{
+  "obra_id": 444,
+  "autor": "Stephenie Meyer",
+  "titulo": "Lua nova",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção fantástica. Amor. Conflito.",
+  "palavras_chave": "meyer lua nova",
+  "edicao_id": 429,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 401,
+  "peso": 450,
+  "isbn": "9788598078359",
+  "editora": "Intrínseca",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Eu sabia que nós dois corríamos um risco mortal.</p> <p>Ainda assim, naquele instante, eu me senti <b>bem</b>. Inteira. Pude sentir meu coração batendo no peito, o sangue pulsando quente e rápido por minhas veias de novo. Meus pulmões encheram-se do doce aroma que vinha da pele dele. Era como se nunca tivesse havido um buraco em meu peito. Eu estava perfeita — não curada, mas como se nunca tivesse havido ferida.\"</p> <p>O segundo livro da série que vendeu mais de 77 milhões de exemplares em todo o mundo.</p> <p>Primeiro lugar na lista dos mais vendidos do The New York Times.</p> <p>★ \"Stephenie Meyer é a nova rainha da fantasia.\" <i>Time</i></p> <p>★ \"Amor e morte estão ainda mais entrelaçados em outro envolvente romance de Edward e Bella.\" <i>The New York Times Book Review</i></p> <p>★ \"Com os vampiros de <i>Crepúsculo</i>, Stephenie Meyer se torna a mais badalada autora de fantasia do mundo.\" <i>O Globo</i></p>",
+  "sinopse": "Em um momento de grande intensidade, a protagonista reflete sobre o risco mortal que ela e seu amor enfrentam. A narrativa descreve como, mesmo em meio à incerteza, ela se sente inteiramente viva, sentindo o batimento de seu coração e o doce aroma que o envolve. Este é o segundo livro de uma série de sucesso, que captura o conflito profundo entre amor e perigo.",
+  "exemplar_id": 428,
+  "sku": "LI00BB",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/stephenie-meyer--lua-nova--capa--20250226--133829.jpg",
+  "contracapa": "static/uploads/stephenie-meyer--lua-nova--contracapa--20250226--133829.jpg",
+  "fotos": [
+    "static/uploads/stephenie-meyer--lua-nova--foto1--20250226--133829.jpg",
+    "static/uploads/stephenie-meyer--lua-nova--foto2--20250226--133829.jpg",
+    "static/uploads/stephenie-meyer--lua-nova--foto3--20250226--133829.jpg",
+    "static/uploads/stephenie-meyer--lua-nova--foto4--20250226--133829.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:36:31",
+  "observacoes": null
+}

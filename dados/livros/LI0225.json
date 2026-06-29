@@ -1,0 +1,68 @@
+{
+  "obra_id": 3173,
+  "autor": "James Putnam",
+  "titulo": "A antiguidade egípcia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "putnam antiguidade egipcia",
+  "edicao_id": 3153,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 112,
+  "peso": 300,
+  "isbn": "9789723315806",
+  "editora": "Editorial Estampa",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta obra é uma introdução ao mundo do Antigo Egito, abordando temas como as pirâmides, os faraós, os deuses e as múmias. Também explora o estilo de vida, a importância do rio Nilo, os hieróglifos e o legado deixado por essa civilização. Com uma linguagem acessível e ilustrações de artefatos históricos, o livro oferece uma visão envolvente e educativa sobre uma das culturas mais fascinantes da história.",
+  "exemplar_id": 3152,
+  "sku": "LI0225",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/james-putnam--a-antiguidade-egipcia--capa--20251021--103803.png",
+  "contracapa": "static/uploads/james-putnam--a-antiguidade-egipcia--contracapa--20251021--103811.png",
+  "fotos": [
+    "static/uploads/james-putnam--a-antiguidade-egipcia--foto1--20251021--103821.jpg",
+    "static/uploads/james-putnam--a-antiguidade-egipcia--foto2--20251021--103821.jpg",
+    "static/uploads/james-putnam--a-antiguidade-egipcia--foto3--20251021--103821.jpg",
+    "static/uploads/james-putnam--a-antiguidade-egipcia--foto4--20251021--103821.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "O livro tem alguns problemas: duas marcas de rasgo na capa (vide foto); cheiro de mofo, infelizmente (não muito forte, mas perceptível). Sem grifos ou anotações. Capa dura, tamanho grande, ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:34:38",
+  "observacoes": null
+}

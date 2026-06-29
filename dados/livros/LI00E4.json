@@ -1,0 +1,63 @@
+{
+  "obra_id": 545,
+  "autor": "Elben M. Lenz César",
+  "titulo": "Por que (sempre) faço o que não quero?",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Psicologia.",
+  "palavras_chave": "lenz por que faço que não quero",
+  "edicao_id": 530,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 134,
+  "peso": 250,
+  "isbn": "9788577790470",
+  "editora": "Ultimato",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A pergunta \"por que faço o que não quero?\" é quase uma confissão. Incomoda e acusa. No entanto, não é coisa de religiosos ou conversa de confessionário. Está na boca dos intelectuais, dos psicopatas, no meio do povo e também nas igrejas.</p> <p>Por Que (Sempre) Faço o Que Não Quero? não faz especulações. Para o autor, a Bíblia responde e aponta caminhos para essa evidente contradição que enfrentamos todos os dias. Afinal, quem poderia imaginar, como afirma o psiquiatra Viktor Frankl, que o ser humano seria capaz tanto de inventar as câmaras de gás de Auschwitz como de entrar nelas de cabeça erguida, tendo nos lábios a oração do Pai-Nosso?</p>",
+  "sinopse": "Em 'Por Que (Sempre) Faço o Que Não Quero?', Elben M. Lenz César explora a complexa jornada da autocompreensão e da luta interna que todos enfrentamos. O autor utiliza a Bíblia como um guia, sugerindo que as respostas para nossas comportamentos contraditórios estão ao nosso alcance, o que nos leva a refletir sobre a dualidade da natureza humana e os desafios que enfrentamos diariamente.",
+  "exemplar_id": 529,
+  "sku": "LI00E4",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/elben-m--lenz-c-sar--por-que--sempre--fa-o-o-que-n-o-quero---capa--20250227--152849.jpg",
+  "contracapa": "static/uploads/elben-m--lenz-c-sar--por-que--sempre--fa-o-o-que-n-o-quero---contracapa--20250227--152849.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém grifado com caneta destaca-texto em várias páginas. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:08:04",
+  "observacoes": null
+}

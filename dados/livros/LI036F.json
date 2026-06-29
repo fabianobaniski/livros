@@ -1,0 +1,68 @@
+{
+  "obra_id": 5806,
+  "autor": "Pedro Demo",
+  "titulo": "A educação do futuro e o futuro da educação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Autonomia. Democracia. Aprendizagem crítica. Formação cidadã.",
+  "palavras_chave": "demo educacao futuro",
+  "edicao_id": 5781,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 260,
+  "isbn": "9788574961378",
+  "editora": "Autores Associados",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Educação tem relação forte com a construção da autonomia das pessoas e sociedades. Por meio de processos educacionais bem formulados e praticados, é possível contribuir para que a população se qualifique cada vez mais para a democracia, especialmente à medida que souber pensar em sentido crítico e propositivo. Em vista disso, é fundamental superar o reprodutivismo reinante na escola, particularmente a didática da mera aula, porque as teorias e práticas da aprendizagem não a abonam.</p><p>Para aprender bem é mister pesquisar e elaborar, ler criticamente, construir textos próprios, saber argumentar e fundamentar, com o objetivo maior de forjar cidadãos capazes de alternativas históricas. É possível desenhar futuros mais bem orientados para o bem comum, se formos capazes de sustentar sociedades que sabem pensar e intervir de modo criativo e ético.</p>",
+  "sinopse": "O livro discute a importância da educação na construção da autonomia de indivíduos e sociedades, destacando o papel dos processos educacionais bem formulados no fortalecimento da democracia. Defende a superação do ensino meramente reprodutivo e propõe uma aprendizagem baseada na pesquisa, argumentação e elaboração própria para formar cidadãos críticos, criativos e éticos, capazes de forjar futuros orientados para o bem comum.",
+  "exemplar_id": 5780,
+  "sku": "LI036F",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/a-educacao-do-futuro-e-o-futuro-da-educacao__none__pedro-demo__capa__2026-01-18_14-11-55-459556-000.png",
+  "contracapa": "static/uploads/a-educacao-do-futuro-e-o-futuro-da-educacao__none__pedro-demo__contracapa__2026-01-18_14-11-55-477189-001.png",
+  "fotos": [
+    "static/uploads/a-educacao-do-futuro-e-o-futuro-da-educacao__none__pedro-demo__foto-01__2026-01-18_14-11-55-498049-002.jpg",
+    "static/uploads/a-educacao-do-futuro-e-o-futuro-da-educacao__none__pedro-demo__foto-02__2026-01-18_14-11-55-530931-003.jpg",
+    "static/uploads/a-educacao-do-futuro-e-o-futuro-da-educacao__none__pedro-demo__foto-03__2026-01-18_14-11-55-565836-004.jpg",
+    "static/uploads/a-educacao-do-futuro-e-o-futuro-da-educacao__none__pedro-demo__foto-04__2026-01-18_14-11-55-600704-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:18:35",
+  "observacoes": "procedencia_biblioteca"
+}

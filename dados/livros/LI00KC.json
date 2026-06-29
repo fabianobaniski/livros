@@ -1,0 +1,63 @@
+{
+  "obra_id": 769,
+  "autor": "Gottfried Brakemeier",
+  "titulo": "As parábolas de Jesus",
+  "subtitulo": "Imagens do Reino de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Parábolas. Educação Cristã.",
+  "palavras_chave": "brakemeier parábolas jesus",
+  "edicao_id": 754,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 120,
+  "peso": 250,
+  "isbn": "9788581940786",
+  "editora": "Sinodal",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A leitura da Bíblia oferece muitas janelas para vislumbrar a Boa-Nova que Jesus trouxe para orientar a vida de pessoas e comunidades. Uma dessas janelas são as muitas parábolas que estão registradas nos evangelhos de Mateus, Marcos e Lucas. Elas revelam aspectos e conteúdos do reino de Deus. Para o autor deste livro, Gottfried Brakemeier, as \"parábolas de Jesus pertencem ao patrimônio cultural da humanidade\". E por isso elas não perdem a atualidade com o passar dos anos e das gerações de pessoas e comunidades cristãs.</p> <p>As parábolas de Jesus trazem em seu interior uma ou mais novidades que nos ajudam a compreender os ensinamentos acerca do significado do reino de Deus e de nossa relação e atitude com essa grandeza da fé. Além disso, testemunhamos que integra a tradição cristã e são passados de geração em geração nos mais diversos espaços e âmbitos nos quais a educação cristã assume papel relevante na transmissão da fé cristã. São tesouros que podem passar despercebidos numa leitura superficial da Bíblia. Mas quando nos detemos nas parábolas, como é a proposta deste livro, vamos abrindo janelas para compreender melhor os ensinamentos do Mestre.</p> <p>As parábolas, \"por si só\", provocam associações de ideias e perspectivas. Embora não possamos entrar em detalhes, algumas pistas poderão ser úteis. Textos bíblicos querem ser ouvidos tanto em seu sentido histórico quanto em seu desafio atual\", convida o autor.</p> <p>As parábolas de Jesus: imagens do reino de Deus foi redigido em estilo simples, para que seja acessível também a pessoas não especialistas em teologia.</p>",
+  "sinopse": "As parábolas de Jesus trazem ensinamentos profundos sobre o reino de Deus, revelando aspectos que orientam a vida de pessoas e comunidades. O autor, Gottfried Brakemeier, destaca a importância e atualidade dessas parábolas no patrimônio cultural da humanidade, proporcionando uma compreensão mais rica e acessível dos ensinamentos de Jesus.",
+  "exemplar_id": 753,
+  "sku": "LI00KC",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/gottfried-brakemeier--as-par-bolas-de-jesus--capa--20250227--152903.jpg",
+  "contracapa": "static/uploads/gottfried-brakemeier--as-par-bolas-de-jesus--contracapa--20250227--152903.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:27:10",
+  "observacoes": null
+}

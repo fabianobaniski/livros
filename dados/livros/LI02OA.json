@@ -1,0 +1,63 @@
+{
+  "obra_id": 4920,
+  "autor": "Yu Sasuga; Ken-Ichi Tachibana",
+  "titulo": "Terra Formars",
+  "subtitulo": "16ª missão: a história natural do mal",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Exploração espacial. Survival horror. Política interplanetária.",
+  "palavras_chave": "sasuga terra formars",
+  "edicao_id": 4895,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 250,
+  "isbn": "9788545702610",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 16,
+  "transcricao_contracapa": "<p>Um velho conhecido de Akari surge para ajudar os tripulantes presos em Marte, trazendo com ele respostas e mais perguntas sobre a situação política na Terra. A nave de resgate está pronta para partir, mas um inimigo inesperado surge bem próximo... Quem conseguirá se salvar?!</p>",
+  "sinopse": "Um antigo conhecido de Akari aparece para ajudar os tripulantes em Marte, trazendo respostas e novas perguntas sobre a situação política na Terra. Com a nave de resgate pronta, um inimigo inesperado surge. Quem se salvará?",
+  "exemplar_id": 4894,
+  "sku": "LI02OA",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/terra-formars__16a-missao-a-historia-natural-do-mal__yu-sasuga-ken-ichi-tachibana__capa__2026-02-20_10-31-11-653084-000.png",
+  "contracapa": "static/uploads/terra-formars__16a-missao-a-historia-natural-do-mal__yu-sasuga-ken-ichi-tachibana__contracapa__2026-02-20_10-31-11-693539-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

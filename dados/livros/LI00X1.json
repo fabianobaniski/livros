@@ -1,0 +1,68 @@
+{
+  "obra_id": 1584,
+  "autor": "Paulo Coelho",
+  "titulo": "Veronika decide morrer",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "coelho veronika decide morrer",
+  "edicao_id": 1565,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 199,
+  "peso": 250,
+  "isbn": "9788575427958",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quando conseguiu quase tudo o que desejava na vida, chegou à conclusão de que a sua existência não tinha sentido, porque todos os dias eram iguais. E decidira morrer.</p><p>Aos 24 anos, a eslovena Veronika parece ter tudo: juventude e beleza, pretendentes, uma família amorosa e um emprego gratificante. Mas num dia frio de novembro, ela toma um punhado de remédios para dormir com a intenção de nunca mais acordar.</p><p>Só que ela acorda – e no Sanatório de Villete, o lugar de onde ninguém jamais havia fugido. Logo fica sabendo que só teria alguns dias de vida, e isso lhe desperta emoções até então desconhecidas.</p><p>Inspirado em experiências próprias, Paulo Coelho escreveu <i>Veronika Decide Morrer</i> para questionar o significado da loucura e celebrar os indivíduos que não se encaixam nos padrões do que a sociedade considera “normal”.</p><p>Ousado e esclarecedor, este romance de redenção faz um retrato tocante daqueles que estão na fronteira entre vida e morte, sanidade e loucura, felicidade e desespero, transmitindo a mensagem poética de que cada dia é um verdadeiro milagre.</p>",
+  "sinopse": "Veronika, uma jovem eslovena que aparentemente tem tudo, decide acabar com a própria vida, mas acorda em um sanatório onde descobre que sua existência pode ter um significado maior. Este romance explora temas de loucura e sanidade, desafiando os padrões da sociedade e ressaltando a beleza da vida.",
+  "exemplar_id": 1564,
+  "sku": "LI00X1",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/paulo-coelho--veronika-decide-morrer--capa--20250401--115752.jpg",
+  "contracapa": "static/uploads/paulo-coelho--veronika-decide-morrer--contracapa--20250401--115752.jpg",
+  "fotos": [
+    "static/uploads/paulo-coelho--veronika-decide-morrer--foto1--20250401--115752.jpg",
+    "static/uploads/paulo-coelho--veronika-decide-morrer--foto2--20250401--115752.jpg",
+    "static/uploads/paulo-coelho--veronika-decide-morrer--foto3--20250401--115752.jpg",
+    "static/uploads/paulo-coelho--veronika-decide-morrer--foto4--20250401--115752.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém bastante amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:52",
+  "observacoes": null
+}

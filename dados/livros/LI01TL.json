@@ -1,0 +1,63 @@
+{
+  "obra_id": 2865,
+  "autor": "Ernesto Che Guevara",
+  "titulo": "Primeiras viagens",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "guevara primeiras viagens",
+  "edicao_id": 2845,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 200,
+  "isbn": "9788585328719",
+  "editora": "Scritta",
+  "numero_edicao": 1,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Che Guevara narra sua jornada pela América do Sul, desde a Argentina até a Venezuela, ao lado de seu amigo Alberto Granado, viajando em uma motocicleta chamada A Poderosa. Este diário juvenil de Che é um relato detalhado de milhares de quilômetros percorridos, revelando suas impressões sobre as paisagens, culturas e desigualdades sociais encontradas pelo caminho. A viagem transforma profundamente o jovem Che, moldando sua visão de mundo e plantando as sementes do revolucionário que viria a ser.",
+  "exemplar_id": 2844,
+  "sku": "LI01TL",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/primeiras-viagens-ernesto-che-guevara-capa_rev894.jpg",
+  "contracapa": "static/uploads/primeiras-viagens-ernesto-che-guevara-contracapa_rev412.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:13:28",
+  "observacoes": null
+}

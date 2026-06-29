@@ -1,0 +1,68 @@
+{
+  "obra_id": 2292,
+  "autor": "Osni Moura Ribeiro",
+  "titulo": "Contabilidade básica fácil",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Ensino de contabilidade. Iniciação teórica. Práticas contábeis.",
+  "palavras_chave": "ribeiro contabilidade basica facil",
+  "edicao_id": 2272,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 400,
+  "peso": 700,
+  "isbn": "9788502077959",
+  "editora": "Saraiva",
+  "numero_edicao": 26,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Escrito em linguagem didática e acessível, o livro <i>Contabilidade básica fácil</i> é voltado para todos aqueles que estão iniciando seus estudos de Contabilidade. Ao mesmo tempo em que traz sólida iniciação teórica do assunto, apresenta diversas atividades práticas que levarão a uma maior compreensão do conteúdo.</p><p>A maior dificuldade encontrada por parte dos alunos é a falta de sequência no ensino da Contabilidade. Nesta obra, a distribuição dos assuntos e o encadeamento dos diversos capítulos atendem a um enfoque teórico que possibilita captar com facilidade as várias etapas da contabilização, o que torna mais fácil a assimilação da matéria.</p><p>Escrita com um mínimo de termos técnicos — apenas os essenciais — a obra possui linguagem simples, porém correta, além de já estar atualizada de acordo com a Lei nº 11.638, de dezembro de 2007, e Medida Provisória nº 449, de dezembro de 2008, o que a torna instrumento de consulta e de orientação para todos os profissionais, tanto os da área de Contabilidade quanto os de outras áreas, inclusive para os que pretendem se preparar para concursos públicos.</p><b>Aplicação</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Contabilidade básica, Contabilidade introdutória e Contabilidade geral.",
+  "sinopse": "Voltado para iniciantes nos estudos de Contabilidade, este livro apresenta linguagem didática e acessível, unindo teoria sólida com diversas atividades práticas para facilitar a compreensão. A obra traz uma sequência lógica de capítulos e aborda os principais conceitos da área com uso reduzido de termos técnicos, sempre de forma simples e correta. Atualizada conforme a Lei nº 11.638/2007 e a Medida Provisória nº 449/2008, pode ser utilizada por profissionais de Contabilidade, de outras áreas e por quem deseja prestar concursos públicos.",
+  "exemplar_id": 2271,
+  "sku": "LI01DP",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/osni-moura-ribeiro--contabilidade-b-sica--capa--20250430--105110.jpg",
+  "contracapa": "static/uploads/osni-moura-ribeiro--contabilidade-b-sica--contracapa--20250430--105110.jpg",
+  "fotos": [
+    "static/uploads/osni-moura-ribeiro--contabilidade-b-sica--foto1--20250430--105110.jpg",
+    "static/uploads/osni-moura-ribeiro--contabilidade-b-sica--foto2--20250430--105110.jpg",
+    "static/uploads/osni-moura-ribeiro--contabilidade-b-sica--foto3--20250430--105110.jpg",
+    "static/uploads/osni-moura-ribeiro--contabilidade-b-sica--foto4--20250430--105110.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:59:26",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 246,
+  "autor": "E. L. James",
+  "titulo": "Cinquenta tons mais escuros",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Relações interpessoais. Superação.",
+  "palavras_chave": "james cinquenta tons escuros",
+  "edicao_id": 240,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 512,
+  "peso": 500,
+  "isbn": "9788580572100",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Assustada com o lado obscuro do belo e atormentado Christian Grey, Anastasia Steele põe um ponto final em seu relacionamento com o jovem empresário e decide se concentrar em sua carreira: ela acaba de conseguir um emprego em uma editora de livros de Seattle.</p> <p>Mas o desejo que sente por Christian ainda domina seus pensamentos e, quando ele propõe reatarem o namoro, ela não consegue resistir. Por amor à Ana, Christian está disposto a enfrentar seus demônios interiores. Em pouco tempo, porém, ela descobre segredos do passado de seu amargurado e dominador parceiro que jamais imaginou serem possíveis, e se vê obrigada a tomar uma importante decisão.</p>",
+  "sinopse": "Anastasia Steele decide focar em sua carreira e deixa Christian Grey, mas o desejo por ele a atrai de volta ao seu mundo obscuro. Christian, por sua vez, também se mostra disposto a enfrentar seus traumas por amor a Ana, que descobre segredos de seu passado complicados, levando-a a tomar decisões cruciais.",
+  "exemplar_id": 239,
+  "sku": "LI0067",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/e-l-james--cinquenta-tons-mais-escuros--capa--20250226--133810.jpg",
+  "contracapa": "static/uploads/e-l-james--cinquenta-tons-mais-escuros--contracapa--20250226--133810.jpg",
+  "fotos": [
+    "static/uploads/e-l-james--cinquenta-tons-mais-escuros--foto1--20250226--133810.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-mais-escuros--foto2--20250226--133810.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-mais-escuros--foto3--20250226--133810.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-mais-escuros--foto4--20250226--133810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:37:22",
+  "observacoes": null
+}

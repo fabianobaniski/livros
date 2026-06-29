@@ -1,0 +1,68 @@
+{
+  "obra_id": 170,
+  "autor": "J.R.R. Tolkien; Christopher Tolkien",
+  "titulo": "O Silmarillion",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "tolkien silmarillion",
+  "edicao_id": 166,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 494,
+  "peso": 800,
+  "isbn": "9788595084377",
+  "editora": "HarperCollins Brasil",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 165,
+  "sku": "LI0047",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/j-r-r--tolkien--o-silmarillion--capa--20250226--133801.jpg",
+  "contracapa": "static/uploads/j-r-r--tolkien--o-silmarillion--contracapa--20250226--133801.jpg",
+  "fotos": [
+    "static/uploads/j-r-r--tolkien--o-silmarillion--foto1--20250226--133801.jpg",
+    "static/uploads/j-r-r--tolkien--o-silmarillion--foto2--20250226--133801.jpg",
+    "static/uploads/j-r-r--tolkien--o-silmarillion--foto3--20250226--133801.jpg",
+    "static/uploads/j-r-r--tolkien--o-silmarillion--foto4--20250226--133801.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:44:25",
+  "observacoes": null
+}

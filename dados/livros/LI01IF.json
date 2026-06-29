@@ -1,0 +1,63 @@
+{
+  "obra_id": 2463,
+  "autor": "Joanne Harris",
+  "titulo": "Danças & contradanças",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contos",
+  "temas": "",
+  "palavras_chave": "harris dancas contradancas",
+  "edicao_id": 2443,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 239,
+  "peso": 280,
+  "isbn": "9789896600273",
+  "editora": "Leya / Biis",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "As histórias sarcásticas de Danças & Contradanças são descritas como maliciosas e malevolentes, seguindo o estilo característico de Joanne Harris. A autora combina situações e personagens comuns com o extraordinário e o inesperado, criando uma narrativa envolvente. Sua imaginação fértil nos apresenta uma caixa de Pandora literária, repleta de extravagâncias, estranhezas e mistérios. Harris mistura o bizarro com o cotidiano, oferecendo uma leitura intrigante, perversa e cheia de surpresas.",
+  "exemplar_id": 2442,
+  "sku": "LI01IF",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/joanne-harris--dancas-contradancas--capa--20260316--191243.jpg",
+  "contracapa": "static/uploads/joanne-harris--dancas-contradancas--contracapa--20260316--191243.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:34:05",
+  "observacoes": null
+}

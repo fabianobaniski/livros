@@ -1,0 +1,63 @@
+{
+  "obra_id": 2462,
+  "autor": "Eduardo Subirats",
+  "titulo": "Da vanguarda ao pós-moderno",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "subirats vanguarda posmoderno",
+  "edicao_id": 2442,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 110,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Nobel",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Subirats questiona a perda de valores formais e éticos na arte e cultura modernas, criticando o vazio presente no pensamento estético contemporâneo e a incapacidade de gerar uma crítica consciente e visionária do futuro.",
+  "exemplar_id": 2441,
+  "sku": "LI01IE",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/eduardo-subirats--da-vanguarda-ao-pos-moderno--capa--20260316--190327.jpg",
+  "contracapa": "static/uploads/eduardo-subirats--da-vanguarda-ao-pos-moderno--contracapa--20260316--190327.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa um pouco marcadas pelo manuseio e contato com outras superfícies, porém sem amassados, rasgos ou perdas. Texto livre de anotações e sublinhados. Ilustrado em preto e branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:34:03",
+  "observacoes": null
+}

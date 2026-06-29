@@ -1,0 +1,68 @@
+{
+  "obra_id": 130,
+  "autor": "Zibia Gasparetto",
+  "titulo": "Só o amor consegue",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura fantástica. Relações humanas. Superação.",
+  "palavras_chave": "gasparetto amor consegue",
+  "edicao_id": 128,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 410,
+  "peso": 400,
+  "isbn": "9788577222421",
+  "editora": "Vida e Consciência",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O amor incondicional é a maior força do universo. Por mais difícil que seja uma situação, o amor sempre resolve. Essa é a maior conquista do espírito, um aliado fundamental para o progresso em todas as áreas da vida. Uns mais, outros menos, todos nós estamos desenvolvendo nossa forma de amar.</p> <p>Margarida com suas marcas da orfandade; a esposa ciumenta sob a influência de um espírito do passado; a mulher traída que não soube perdoar; o marido arrependido tentando reconquistar a dignidade... Todos queriam curar suas dores e seguir adiante.</p> <p>Só quando o amor brotou em suas almas, rompeu as barreiras do convencional e assumiu sua força, foi que tudo começou a mudar e, por fim, cada um encontrou o próprio caminho. Essa vitória, <i>Só o amor consegue</i>.</p>",
+  "sinopse": "A obra aborda a força do amor incondicional como a maior conquista do espírito, sendo fundamental para o progresso em todas as áreas da vida. Através das experiências de personagens com dores emocionais, como uma esposa ciumenta e uma mulher traída, o livro revela como o amor pode curar e transformar vidas, rompendo barreiras e guiando cada um em seu próprio caminho.",
+  "exemplar_id": 127,
+  "sku": "LI0036",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/zibia-gasparetto--s--o-amor-consegue--capa--20250226--133756.jpg",
+  "contracapa": "static/uploads/zibia-gasparetto--s--o-amor-consegue--contracapa--20250226--133756.jpg",
+  "fotos": [
+    "static/uploads/zibia-gasparetto--s--o-amor-consegue--foto1--20250226--133756.jpg",
+    "static/uploads/zibia-gasparetto--s--o-amor-consegue--foto2--20250226--133756.jpg",
+    "static/uploads/zibia-gasparetto--s--o-amor-consegue--foto3--20250226--133756.jpg",
+    "static/uploads/zibia-gasparetto--s--o-amor-consegue--foto4--20250226--133756.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Consta dedicatória na primeira folha. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:31:23",
+  "observacoes": null
+}

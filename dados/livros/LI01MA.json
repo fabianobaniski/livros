@@ -1,0 +1,63 @@
+{
+  "obra_id": 2602,
+  "autor": "Jorge Antonio Rangel",
+  "titulo": "Humberto Mauro",
+  "subtitulo": "Coleção Educadores (MEC)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "rangel humberto mauro colecao",
+  "edicao_id": 2582,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 273,
+  "isbn": "9788570195197",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2581,
+  "sku": "LI01MA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jorge-antonio-rangel--humberto-mauro--capa--20260316--212758.jpg",
+  "contracapa": "static/uploads/jorge-antonio-rangel--humberto-mauro--contracapa--20260316--212759.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:34:24",
+  "observacoes": null
+}

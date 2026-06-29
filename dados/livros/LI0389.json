@@ -1,0 +1,68 @@
+{
+  "obra_id": 5873,
+  "autor": "Niltonci Batista Chaves; Katia Brembatti",
+  "titulo": "Desenvolvimento & sociedade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Brasil",
+  "temas": "História do Brasil. Economia local. Sociedade paranaense.",
+  "palavras_chave": "chaves desenvolvimento sociedade",
+  "edicao_id": 5848,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 135,
+  "peso": 740,
+  "isbn": "9788577980208",
+  "editora": "UEPG",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Fundada em 1922, com o nome de Centro Commercio e Industria, a Associação Comercial Industrial e Empresarial de Ponta Grossa – ACIPG se constitui numa das mais antigas e representativas do gênero em todo sul do Brasil.</p> <p>Inicialmente criada para atender aos anseios e representar as classes produtivas locais, a ACIPG, ao longo dos seus 85 anos de existência tornou-se uma das entidades mais atuantes na vida social, econômica, cultural e política de Ponta Grossa.</p>",
+  "sinopse": "Fundada em 1922, a Associação Comercial Industrial e Empresarial de Ponta Grossa (ACIPG) tornou-se uma das mais antigas e representativas do sul do Brasil. Inicialmente criada para atender aos anseios das classes produtivas locais, a ACIPG expandiu sua atuação, tornando-se relevante nas esferas social, econômica, cultural e política de Ponta Grossa ao longo de seus 85 anos de existência.",
+  "exemplar_id": 5847,
+  "sku": "LI0389",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/desenvolvimento-sociedade__none__niltonci-batista-chaves-katia-brembatti__capa__2026-01-18_14-12-50-502632-000.png",
+  "contracapa": "static/uploads/desenvolvimento-sociedade__none__niltonci-batista-chaves-katia-brembatti__contracapa__2026-01-18_14-12-50-562406-001.png",
+  "fotos": [
+    "static/uploads/desenvolvimento-sociedade__none__niltonci-batista-chaves-katia-brembatti__foto-01__2026-01-18_14-12-50-614702-002.jpg",
+    "static/uploads/desenvolvimento-sociedade__none__niltonci-batista-chaves-katia-brembatti__foto-02__2026-01-18_14-12-50-649552-003.jpg",
+    "static/uploads/desenvolvimento-sociedade__none__niltonci-batista-chaves-katia-brembatti__foto-03__2026-01-18_14-12-50-675529-004.jpg",
+    "static/uploads/desenvolvimento-sociedade__none__niltonci-batista-chaves-katia-brembatti__foto-04__2026-01-18_14-12-50-700895-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:25:46",
+  "observacoes": null
+}

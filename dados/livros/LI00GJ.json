@@ -1,0 +1,68 @@
+{
+  "obra_id": 632,
+  "autor": "Stephen Charnock",
+  "titulo": "A bondade de Deus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Bondade. Atributos de Deus.",
+  "palavras_chave": "charnock bondade deus",
+  "edicao_id": 617,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 286,
+  "peso": 400,
+  "isbn": "9788568026045",
+  "editora": "PES",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Stephen Charnock nasceu em 1628. Após os estudos pré-paratórios, ele ingressou no Emmanuel College, Cambridge, em 1642. Enquanto ali, ele experimentou o novo nascimento em Cristo e foi imbuído do desejo de espalhar o evangelho para todas as pessoas. Ele obteve o grau de Bacharel em Artes em 1646. Charnock mudou-se para Oxford para tornar-se membro do corpo docente do New College (1650), onde recebeu o grau de Mestre em Artes em 1652 e foi designado procurador em 1654.</p><p>Em 1655, ele acompanhou Henry Cromwell à Irlanda como capelão, onde, escreveu Calamy, ele tinha \"gente da classe alta e pessoas de qualidade da cidade como seus ouvintes\". Charnock voltou para a Inglaterra em 1660. Em 1666, ele perdeu toda a sua biblioteca no grande incêndio de Londres. Em 1675, Charnock tornou-se co-pastor com Thomas Watson de uma congregação não conformista de Crosby Hall, Bishopgate Street, Londres. Permaneceu ali até sua morte, em 1680.</p><p>Na presente edição, limitamo-nos a publicar o capítulo 12 do seu livro mais famoso Os discursos sobre a existência e os atributos de Deus, por considerar a qualidade sublime desta obra e a urgência da ênfase a esse admirável atributo de Deus, do qual tanto carece a pobre criatura humana, mesmo quando favorecida pelos efeitos redentores da maravilhosa graça de Deus.</p>",
+  "sinopse": "Esta obra investiga a bondade de Deus, explorando os atributos divinos e a relação das pessoas com o criador. Através dos escritos de Stephen Charnock, o leitor é guiado por reflexões profundas sobre a natureza de Deus e a importância de seus efeitos redentores na vida humana.",
+  "exemplar_id": 616,
+  "sku": "LI00GJ",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/stephen-charnock--a-bondade-de-deus--capa--20250227--152854.jpg",
+  "contracapa": "static/uploads/stephen-charnock--a-bondade-de-deus--contracapa--20250227--152854.jpg",
+  "fotos": [
+    "static/uploads/stephen-charnock--a-bondade-de-deus--foto1--20251021--103129.jpg",
+    "static/uploads/stephen-charnock--a-bondade-de-deus--foto2--20251021--103129.jpg",
+    "static/uploads/stephen-charnock--a-bondade-de-deus--foto3--20251021--103129.jpg",
+    "static/uploads/stephen-charnock--a-bondade-de-deus--foto4--20251021--103129.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Há, porém, grifos com caneta destaca-texto até a página 41. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:09:04",
+  "observacoes": null
+}

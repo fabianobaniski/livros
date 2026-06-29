@@ -1,0 +1,63 @@
+{
+  "obra_id": 2483,
+  "autor": "Robert M Goldenson; Kenneth Anderson",
+  "titulo": "Dicionário de sexo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Dicionários",
+  "temas": "",
+  "palavras_chave": "goldenson dicionario sexo",
+  "edicao_id": 2463,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 284,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": 1989,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este dicionário aborda os principais aspectos da sexualidade, reunindo cerca de 15.000 verbetes em uma linguagem clara e acessível. Os temas incluem anatomia, fisiologia, distúrbios sexuais, AIDS, gravidez, parto, métodos contraceptivos e práticas sexuais ao longo da história. A edição foi adaptada ao contexto brasileiro, com inclusão de termos específicos da cultura local...",
+  "exemplar_id": 2462,
+  "sku": "LI01IZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/robert-m-goldenson--dicionario-de-sexo--capa--20260316--192534.jpg",
+  "contracapa": "static/uploads/robert-m-goldenson--dicionario-de-sexo--contracapa--20260316--192534.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições de manuseio e leitura, mas esteticamente em situação regular em razão do envelhecimento do exemplar. Papel amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa marcadas pelo manuseio e contato com outras superfícies, porém sem amassados, rasgos ou perdas. Texto livre de anotações e sublinhados. Sem anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:47:10",
+  "observacoes": null
+}

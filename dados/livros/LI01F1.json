@@ -1,0 +1,63 @@
+{
+  "obra_id": 2340,
+  "autor": "Gabriel García Márquez; Carme Solé Vendrell",
+  "titulo": "A luz é como a água",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "marquez luz como agua",
+  "edicao_id": 2320,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 30,
+  "peso": 371,
+  "isbn": "9788501059604",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Entrar em contato com García Márquez é mais que acessar um mundo fantástico; é uma oportunidade de reflexão sobre poder, amor, amizade, política e história. Utilizando mitologia e cotidiano da América Latina, suas histórias com fenômenos insólitos nos divertem e impressionam. Em A Luz é como a água, ele narra de forma lúdica como dois irmãos navegam pelo jorro de luz de uma lâmpada quebrada.",
+  "exemplar_id": 2319,
+  "sku": "LI01F1",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/gabriel-garcia-marquez--a-luz-e-como-a-agua--capa--20260316--100706.jpg",
+  "contracapa": "static/uploads/gabriel-garcia-marquez--a-luz-e-como-a-agua--contracapa--20260316--100712.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Nada de grifos ou anotações. Capa, lombada e contracapa sem danos. Discretos sinais de manuseio e/ou da passagem do tempo.  Tamanho grande. Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:29:35",
+  "observacoes": null
+}

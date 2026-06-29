@@ -1,0 +1,68 @@
+{
+  "obra_id": 1369,
+  "autor": "Irving Wallace",
+  "titulo": "A ilha das três sereias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "wallace ilha sereias",
+  "edicao_id": 1352,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 514,
+  "peso": 640,
+  "isbn": "",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1351,
+  "sku": "LI00SV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/irving-wallace--a-ilha-das-tr-s-sereias--capa--20250401--115336.jpg",
+  "contracapa": "static/uploads/irving-wallace--a-ilha-das-tr-s-sereias--contracapa--20250401--115336.jpg",
+  "fotos": [
+    "static/uploads/irving-wallace--a-ilha-das-tr-s-sereias--foto1--20250401--115336.jpg",
+    "static/uploads/irving-wallace--a-ilha-das-tr-s-sereias--foto2--20250401--115336.jpg",
+    "static/uploads/irving-wallace--a-ilha-das-tr-s-sereias--foto3--20250401--115336.jpg",
+    "static/uploads/irving-wallace--a-ilha-das-tr-s-sereias--foto4--20250401--115336.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Possui sobrecapa, que apresenta  rasgos nas extremidades (vide fotos neste anúncio)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:25:47",
+  "observacoes": null
+}

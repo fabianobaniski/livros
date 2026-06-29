@@ -1,0 +1,63 @@
+{
+  "obra_id": 2415,
+  "autor": "Lino de Albergaria",
+  "titulo": "Caderno de Segredos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "albergaria caderno segredos",
+  "edicao_id": 2395,
+  "encadernacao": null,
+  "quantidade_paginas": 71,
+  "peso": 198,
+  "isbn": "9788502018297",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2394,
+  "sku": "LI01H4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/lino-de-albergaria--caderno-de-segredos--capa--20260316--175844.jpg",
+  "contracapa": "static/uploads/lino-de-albergaria--caderno-de-segredos--contracapa--20260316--175844.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado. Sem anotações ou sublinhados. Um pouco amarelado e com leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:10:07",
+  "observacoes": null
+}

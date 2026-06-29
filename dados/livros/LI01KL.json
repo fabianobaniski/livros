@@ -1,0 +1,63 @@
+{
+  "obra_id": 2541,
+  "autor": "Richard Bach",
+  "titulo": "Fernão Capelo Gaivota",
+  "subtitulo": "Acompanha DVD do filme",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "bach fernao capelo gaivota",
+  "edicao_id": 2521,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 0,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Record",
+  "numero_edicao": 0,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2520,
+  "sku": "LI01KL",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/richard-bach--fernao-capelo-gaivota--capa--20260316--202004.jpg",
+  "contracapa": "static/uploads/richard-bach--fernao-capelo-gaivota--contracapa--20260316--202004.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Acompanha DVD do filme. Brochura, 0 páginas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:01:39",
+  "observacoes": null
+}

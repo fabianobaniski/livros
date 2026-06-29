@@ -1,0 +1,63 @@
+{
+  "obra_id": 2324,
+  "autor": "Semy Glanz",
+  "titulo": "A família mutante",
+  "subtitulo": "Sociologia e direito comparado",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "glanz familia mutante sociologia",
+  "edicao_id": 2304,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 716,
+  "peso": 443,
+  "isbn": "9788571474796",
+  "editora": "Renovar",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Semy Glanz apresenta um estudo abrangente sobre a evolução da família, explorando teorias sociológicas e jurídicas em um contexto global. Analisando temas como poligamia, familismo, e a transformação das estruturas familiares, o livro oferece um panorama que abrange desde famílias unipessoais e do mesmo sexo até questões de direito dos filhos e poder-dever parental. Ao comparar diferentes culturas e sistemas legais, especialmente após as mudanças no Código Civil brasileiro de 2004, a obra busca entender a dinâmica da família contemporânea e seu futuro.",
+  "exemplar_id": 2303,
+  "sku": "LI01EL",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/semy-glanz--a-familia-mutante--capa--20260316--095806.jpg",
+  "contracapa": "static/uploads/semy-glanz--a-familia-mutante--contracapa--20260316--095815.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Não há carimbo, selo ou assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:21:25",
+  "observacoes": null
+}

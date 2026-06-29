@@ -1,0 +1,68 @@
+{
+  "obra_id": 2313,
+  "autor": "Fernando Sabino",
+  "titulo": "A Companheira de Viagem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "sabino companheira viagem",
+  "edicao_id": 2293,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 171,
+  "peso": 324,
+  "isbn": "9788501911001",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O autor busca captar o conteúdo humano disperso nas situações cotidianas, refletindo a convivência e a dignidade da vida. Através da observação de momentos triviais, como um flagrante de esquina ou as palavras de uma criança, Fernando Sabino se torna um espectador atento dos pequenos acontecimentos que merecem ser registrados em crônicas. A obra é um convite a olhar para fora de si mesmo e valorizar os eventos do dia a dia.",
+  "exemplar_id": 2292,
+  "sku": "LI01EA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/fernando-sabino--a-companheira-de-viagem--capa--20251021--102559.png",
+  "contracapa": "static/uploads/fernando-sabino--a-companheira-de-viagem--contracapa--20251021--102608.png",
+  "fotos": [
+    "static/uploads/fernando-sabino--a-companheira-de-viagem--foto1--20251021--102626.jpg",
+    "static/uploads/fernando-sabino--a-companheira-de-viagem--foto2--20251021--102626.jpg",
+    "static/uploads/fernando-sabino--a-companheira-de-viagem--foto3--20251021--102626.jpg",
+    "static/uploads/fernando-sabino--a-companheira-de-viagem--foto4--20251021--102626.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Da primeira valsa à última crônica, pura como aquele sorriso / Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:13:38",
+  "observacoes": null
+}

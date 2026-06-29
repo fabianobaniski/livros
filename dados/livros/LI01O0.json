@@ -1,0 +1,63 @@
+{
+  "obra_id": 2664,
+  "autor": "Georg Feuerstein",
+  "titulo": "Libro de texto de Yoga",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "feuerstein libro texto yoga",
+  "edicao_id": 2644,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Editorial Kier",
+  "numero_edicao": null,
+  "ano": 1975,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Compreender o verdadeiro significado do yoga pode parecer uma tarefa complexa, especialmente diante de textos acadêmicos e extensos. No entanto, esta obra oferece uma abordagem clara e profunda sobre essa antiga disciplina, explicando sua origem, filosofia e conceitos essenciais de forma acessível. A exposição de Georg Feuerstein simplifica a vastidão do tema, permitindo ao leitor assimilar as lições com facilidade e aprofundar seus conhecimentos. É também um recurso valioso para praticantes experientes que buscam consultas rápidas e precisas.",
+  "exemplar_id": 2643,
+  "sku": "LI01O0",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/libro-de-texto-de-yoga-georg-feuerstein-capa_rev553.jpg",
+  "contracapa": "static/uploads/libro-de-texto-de-yoga-georg-feuerstein-contracapa_rev846.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:31:11",
+  "observacoes": null
+}

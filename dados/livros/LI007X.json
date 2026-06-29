@@ -1,0 +1,68 @@
+{
+  "obra_id": 310,
+  "autor": "P. B. Kerr",
+  "titulo": "Gêmeos da lâmpada",
+  "subtitulo": "O talismã de Katmandu",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção fantástica. Aventura.",
+  "palavras_chave": "kerr gemeos lampada talisma",
+  "edicao_id": 302,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 317,
+  "peso": 300,
+  "isbn": "9788561396244",
+  "editora": "Pavio",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Uma nova ameaça desliza pelas sombras do mundo djinn.</p>",
+  "sinopse": "Uma nova ameaça emerge nas sombras, desafiando a tranquilidade do mundo djinn e trazendo mistérios que precisam ser desvendados.",
+  "exemplar_id": 301,
+  "sku": "LI007X",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/p--b--kerr--g-meos-da-l-mpada--capa--20250226--133818.jpg",
+  "contracapa": "static/uploads/p--b--kerr--g-meos-da-l-mpada--contracapa--20250226--133818.jpg",
+  "fotos": [
+    "static/uploads/p--b--kerr--g-meos-da-l-mpada--foto1--20250226--133818.jpg",
+    "static/uploads/p--b--kerr--g-meos-da-l-mpada--foto2--20250226--133818.jpg",
+    "static/uploads/p--b--kerr--g-meos-da-l-mpada--foto3--20250226--133818.jpg",
+    "static/uploads/p--b--kerr--g-meos-da-l-mpada--foto4--20250226--133818.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:26:45",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1524,
+  "autor": "João Paulo II",
+  "titulo": "Encíclicas do Papa João Paulo II - O profeta do ano 2000",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Encíclicas.",
+  "palavras_chave": "paulo enciclicas",
+  "edicao_id": 1505,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 752,
+  "peso": 400,
+  "isbn": "9788573225785",
+  "editora": "LTR",
+  "numero_edicao": 2,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"E o Papa disse em tom paternal: Filho, saiba que eu rezo pelo Brasil todos os dias\".</p><p>Encíclicas do Papa João Paulo II neste volume</p><ul><li>Redemptor Hominis 1979</li><li>Dives in Misericordia 1980</li><li>Laborem Exercens 1981</li><li>Slavorum Apostoli 1985</li><li>Dominium Vivificantem 1986</li><li>Redemptoris Mater 1987</li><li>Solicitudo Rei Socialis 1987</li><li>Redemptoris Missio 1990</li><li>Centesimus Annus 1991</li><li>Veritatis Splendor 1993</li><li>Evangelium Vitae 1995</li><li>Ut Unum Sint 1995</li><li>Fides et Ratio 1998</li></ul>",
+  "sinopse": "",
+  "exemplar_id": 1504,
+  "sku": "LI00WQ",
+  "preco_estante_virtual": 26.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/jo-o-paulo-ii--enc-clicas--capa--20250401--115744.jpg",
+  "contracapa": "static/uploads/jo-o-paulo-ii--enc-clicas--contracapa--20250401--115744.jpg",
+  "fotos": [
+    "static/uploads/jo-o-paulo-ii--enc-clicas--foto1--20250401--115744.jpg",
+    "static/uploads/jo-o-paulo-ii--enc-clicas--foto2--20250401--115744.jpg",
+    "static/uploads/jo-o-paulo-ii--enc-clicas--foto3--20250401--115744.jpg",
+    "static/uploads/jo-o-paulo-ii--enc-clicas--foto4--20250401--115744.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém levemente amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:10:40",
+  "observacoes": null
+}

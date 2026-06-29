@@ -1,0 +1,63 @@
+{
+  "obra_id": 5182,
+  "autor": "Kenji Sakaki",
+  "titulo": "Enigma",
+  "subtitulo": "E-test",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Poderes sobrenaturais.",
+  "palavras_chave": "sakaki enigma e-test",
+  "edicao_id": 5157,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 194,
+  "peso": 190,
+  "isbn": "9788545700029",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Sumio Haiba é um colegial comum... Isso, se ignorarmos que ele guarda um grande segredo: ele possui o \"Diário dos Sonhos\", uma habilidade capaz de prever o futuro!! Certo dia, uma existência misteriosa que se autointitula \"Enigma\" reuniu à força sete pessoas com talentos únicos como o Sumio! E agora começa a grande fuga deles enfrentando o próprio destino...!</p>",
+  "sinopse": "Sumio Haiba, um estudante colegial com o poder do \"Diário dos Sonhos\" que prevê o futuro, é forçado a unir-se com outras sete pessoas por uma entidade misteriosa chamada \"Enigma\". Agora, eles devem enfrentar o desafio de escapar de seu destino.",
+  "exemplar_id": 5156,
+  "sku": "LI02VA",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/enigma__e-test__kenji-sakaki__capa__2026-02-20_10-32-30-012819-000.png",
+  "contracapa": "static/uploads/enigma__e-test__kenji-sakaki__contracapa__2026-02-20_10-32-30-059858-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

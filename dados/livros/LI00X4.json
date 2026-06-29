@@ -1,0 +1,68 @@
+{
+  "obra_id": 1587,
+  "autor": "Sri Prem Baba",
+  "titulo": "Propósito",
+  "subtitulo": "A coragem de ser quem somos",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Autoconhecimento. Espiritualidade. Amor.",
+  "palavras_chave": "baba proposito coragem",
+  "edicao_id": 1568,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 110,
+  "peso": 250,
+  "isbn": "9788543105154",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Por que existimos?</h1> <h1>Qual é a nossa missão durante esta vida?</h1> <p>Neste livro, Sri Prem Baba expande o diálogo amoroso a que sempre se propôs, abordando temas que têm a ver com os anseios mais íntimos do ser humano.</p> <p>Aqui o leitor vai vislumbrar o horizonte de um trajeto precioso que o levará ao interior de si mesmo. Quando chegar ao seu destino, encontrará o Propósito de sua existência. Essa viagem será vigorosa, transformadora e única, mas poderá ser realizada com serenidade.</p> <p>Sri Prem Baba é um mestre em ensinar o caminho do amor que renova os fundamentos da existência e pode alterar os rumos da vida pessoal e coletiva. O líder humanitário afirma que “não somos uma gota d’água no oceano”, pois “o amor nos faz ser o próprio oceano”. Também explica que a paisagem interna deverá ser esquadrinhada para que possamos discernir amorosamente ‘qual é o nosso papel no mundo.</p> <p>O livro está dividido em sete partes. Ao longo das seis primeiras, que tratam do nascimento à transcendência, o leitor encontrará as coordenadas para fazer a própria viagem interior. Na sétima, aprenderá as chaves práticas que vão guiar suas descobertas rumo ao despertar do amor.</p>",
+  "sinopse": "Neste livro, Sri Prem Baba expande o diálogo sobre o significado da vida e a missão de cada um. Ele propõe um trajeto interior que leva o leitor a descobrir o Propósito de sua existência, abordando temas transformadores que renovam a percepção da vida e do amor. Com uma abordagem dividida em sete partes, o autor oferece ferramentas práticas para guiar a jornada pessoal de autodescoberta e despertar do amor.",
+  "exemplar_id": 1567,
+  "sku": "LI00X4",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/sri-prem-baba--prop-sito--capa--20250401--115752.jpg",
+  "contracapa": "static/uploads/sri-prem-baba--prop-sito--contracapa--20250401--115752.jpg",
+  "fotos": [
+    "static/uploads/sri-prem-baba--prop-sito--foto1--20250401--115752.jpg",
+    "static/uploads/sri-prem-baba--prop-sito--foto2--20250401--115752.jpg",
+    "static/uploads/sri-prem-baba--prop-sito--foto3--20250401--115752.jpg",
+    "static/uploads/sri-prem-baba--prop-sito--foto4--20250401--115752.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:18:01",
+  "observacoes": null
+}

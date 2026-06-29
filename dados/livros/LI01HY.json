@@ -1,0 +1,63 @@
+{
+  "obra_id": 2446,
+  "autor": "Esther Pillar Grossi; Jussara Bordin",
+  "titulo": "Construtivismo pós-piagetiano",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "grossi construtivismo pospiagetiano",
+  "edicao_id": 2426,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 224,
+  "peso": 280,
+  "isbn": "9788532609335",
+  "editora": "Vozes",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O construtivismo pós-piagetiano surge como um paradigma inovador na educação, ampliando a visão sobre aprendizagem ao integrar sujeito, realidade, grupo e o social. Essa abordagem enriquece os estudos de Piaget com contribuições de teóricos como Wallon, Vygotski e Paulo Freire, além de incorporar ideias de Marx, Freud e da sociologia. Focado na construção coletiva do conhecimento, esse modelo propõe uma nova perspectiva democrática e inclusiva para a educação...",
+  "exemplar_id": 2425,
+  "sku": "LI01HY",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/esther-pillar-grossi--construtivismo-pos-piagetiano--capa--20260316--185453.jpg",
+  "contracapa": "static/uploads/esther-pillar-grossi--construtivismo-pos-piagetiano--contracapa--20260316--185453.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa um pouco marcadas pelo manuseio e contato com outras superfícies, porém sem amassados, rasgos ou perdas. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:57:58",
+  "observacoes": null
+}

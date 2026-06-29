@@ -1,0 +1,68 @@
+{
+  "obra_id": 1747,
+  "autor": "Izabel Galvão",
+  "titulo": "Cenas do cotidiano escolar",
+  "subtitulo": "Conflito sim, violência não",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Conflitos escolares. Violência escolar.",
+  "palavras_chave": "galvao cenas cotidiano escolar conflito violencia",
+  "edicao_id": 1727,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 230,
+  "peso": 320,
+  "isbn": "9788532629401",
+  "editora": "Vozes",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Embora com fronteiras tênues e incertas, conflito não é sinônimo de violência.<br>A incursão da pesquisadora no cotidiano de uma pré-escola e de uma creche traz o leitor para a especificidade de práticas concretas. Ao se identificar positiva ou negativamente com as situações descritas e analisadas, o professor, independente do grau em que atua ou para o qual se forma, poderá estabelecer relações com suas próprias ações e concepções, analisando-as de modo mais distanciado. Ao pesquisador em educação esta incursão permite que acompanhe um processo de pesquisa em suas várias etapas, além de sugerir um amplo campo de questões ainda a serem investigadas.</p>",
+  "sinopse": "Este livro apresenta uma análise das práticas cotidianas de uma pré-escola e de uma creche, ressaltando que conflito não significa violência. A autora propõe uma reflexão baseada em situações reais vividas em ambiente escolar, permitindo tanto ao professor quanto ao pesquisador em educação uma visão distanciada de suas próprias ações e concepções e estimulando o acompanhamento do processo de pesquisa e a investigação de questões ainda abertas.",
+  "exemplar_id": 1726,
+  "sku": "LI00YN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/izabel-galv-o--cenas-do-cotidiano-escolar--capa--20250430--102940.jpg",
+  "contracapa": "static/uploads/izabel-galv-o--cenas-do-cotidiano-escolar--contracapa--20250430--102940.jpg",
+  "fotos": [
+    "static/uploads/izabel-galv-o--cenas-do-cotidiano-escolar--foto1--20250430--102940.jpg",
+    "static/uploads/izabel-galv-o--cenas-do-cotidiano-escolar--foto2--20250430--102940.jpg",
+    "static/uploads/izabel-galv-o--cenas-do-cotidiano-escolar--foto3--20250430--102940.jpg",
+    "static/uploads/izabel-galv-o--cenas-do-cotidiano-escolar--foto4--20250430--102940.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, apresenta leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:39:40",
+  "observacoes": "procedencia_biblioteca"
+}

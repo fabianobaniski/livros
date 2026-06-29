@@ -1,0 +1,63 @@
+{
+  "obra_id": 684,
+  "autor": "James Houston",
+  "titulo": "O desejo",
+  "subtitulo": "Satisfazendo a fome da alma",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Desejos humanos. Intimidade com Deus.",
+  "palavras_chave": "houston desejo",
+  "edicao_id": 669,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 313,
+  "peso": 400,
+  "isbn": "9788560387502",
+  "editora": "Palavra",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Dr. James Houston atentamente examina o que está no âmago de toda alma humana: Um anseio por intimidade com Deus.</p><p>Valendo-se de textos dos heróis da fé, bem como das Escrituras, o Dr. Houston mostra que, ao você aceitar o fato de que Deus o criou para buscá-lo – que seus verdadeiros desejos são por coisas eternas – então é possível encontrar o caminho para a verdadeira satisfação. Portanto, redescobrir o seu coração expõe falsos desejos que na realidade são vícios e ídolos, revelando como efetuar a correção. Assim, você poderá esperar um modo de viver diferente, uma alternativa às realidades que o sufocam. Desta forma, você poderá desfrutar uma vida espiritual mais substancial e satisfatória.</p><p>O desejo é o incessante pulsar da vida humana. O que ansiamos determina o escopo de nossas experiências, a profundidade de nossas percepções, os padrões com os quais julgamos e a responsabilidade com que escolhemos nossos valores. Por isso, é de crucial importância ansarmos por coisas que ultrapassem o material, que sejam transcendentais.</p><p>James M. Houston</p>",
+  "sinopse": "O livro de James Houston explora o profundo anseio humano por intimidade com Deus, mostrando como redescobrir desejos verdadeiros e corrigir falsos anseios. Focaliza a importância de buscar os desejos eternos para uma vida espiritual gratificante.",
+  "exemplar_id": 668,
+  "sku": "LI00HZ",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/james-houston--o-desejo--capa--20250227--152857.jpg",
+  "contracapa": "static/uploads/james-houston--o-desejo--contracapa--20250227--152857.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:02:13",
+  "observacoes": null
+}

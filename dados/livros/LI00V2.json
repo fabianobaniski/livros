@@ -1,0 +1,68 @@
+{
+  "obra_id": 1452,
+  "autor": "Íçami Tiba",
+  "titulo": "Quem ama, educa!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Educação. Psicologia. Responsabilidade social.",
+  "palavras_chave": "tiba quem ama educa",
+  "edicao_id": 1433,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 302,
+  "peso": 350,
+  "isbn": "8573123826",
+  "editora": "Gente",
+  "numero_edicao": 17,
+  "ano": 2002,
+  "serie": "Coleção Integração Relacional",
+  "volume": null,
+  "transcricao_contracapa": "<p>Mãe & pai, o berço da felicidade!</p> <p>Por que será que cada vez mais mãe e pai têm dificuldades de educar os filhos? Cada vez mais os consultores de terapeutas são procurados por eles, bem intencionados mas desconhecendo o que fazem de errado na educação de seus filhos. Esses mesmos consultores também se enchem de filhos para resolver seus problemas de inadequação à sociedade. E tantos outros pais que se sentem impotentes perante filhos que quebraram seus sonhos...</p> <p>Essas são algumas das consequências de uma constatação a ser feita também pelos pais: somente cuidar dos filhos não é mais suficiente para garantir-lhes um bom futuro. Educar é muito diferente de criar. Vários adolescentes estão muito bem criados: simpáticos, fortes, saudáveis e bonitos, mas não educados. Mãe e pai querem que seu filho seja feliz. São, porém, poucas as crianças que se sentem plenamente felizes. Porque ninguém pode dar felicidade a outras pessoas, nem os pais aos próprios filhos. O que os pais conseguem é dar alegria, prazer, sociedade, condições básicas de saúde, educação, ajudar na construção da auto-estima... Mas são os filhos que devem aprender a ser felizes.</p> <p>Este livro é sobre como educar os filhos ao criá-los. Sobre como possibilitar, desde o nascimento, que eles sejam pessoas responsáveis por sua felicidade e conscientes de sua responsabilidade social. Sobre como dar-lhes autonomia de modo que tenham condições mínimas de viver sozinhos, sem se desmanchar cada vez que precisam sair do mundo criado pelos pais. É um livro para pais que acreditam na possibilidade de sempre melhorar o que foi feito, corrigir os erros passados e transformar sonhos em projetos com estratégias educativas. É um livro que dá luz também para casais que pretendem ter filhos e educá-los bem. Um manual para pais iniciantes e para os que já estão na caminhada, não importa há quanto tempo.</p>",
+  "sinopse": "O livro aborda a importância da educação na formação dos filhos, destacando a diferença entre criar e educar. O autor discute como os pais podem se preparar para educar seus filhos de forma a garantir não apenas o cuidado básico, mas também a construção de sua autonomia e felicidade, propiciando condições que os façam se tornarem cidadãos conscientes e responsáveis.",
+  "exemplar_id": 1432,
+  "sku": "LI00V2",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/--ami-tiba--quem-ama--educa---capa--20250401--115734.jpg",
+  "contracapa": "static/uploads/--ami-tiba--quem-ama--educa---contracapa--20250401--115734.jpg",
+  "fotos": [
+    "static/uploads/--ami-tiba--quem-ama--educa---foto1--20250401--115734.jpg",
+    "static/uploads/--ami-tiba--quem-ama--educa---foto2--20250401--115734.jpg",
+    "static/uploads/--ami-tiba--quem-ama--educa---foto3--20250401--115734.jpg",
+    "static/uploads/--ami-tiba--quem-ama--educa---foto4--20250401--115734.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:24:21",
+  "observacoes": null
+}

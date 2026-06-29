@@ -1,0 +1,63 @@
+{
+  "obra_id": 3210,
+  "autor": "Tanya Menon; Leigh Thompson",
+  "titulo": "Pare de Gastar, Começar a Gerenciar",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": null,
+  "palavras_chave": "menon pare gastar comecar",
+  "edicao_id": 3190,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 207,
+  "peso": 300,
+  "isbn": "9788576803140",
+  "editora": "M. Books",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Combinando lógica e pesquisas, este livro oferece estratégias práticas para transformar comportamentos improdutivos em ações que geram valor nas organizações. Explorando as armadilhas comportamentais comuns, os autores apresentam soluções para evitar desperdícios, melhorar a dinâmica de equipes e maximizar o desempenho individual e coletivo. Ideal para líderes que buscam gerenciar de forma mais inteligente e produtiva, a obra propõe mudanças simples, mas eficazes, para criar organizações mais eficientes e focadas no crescimento...",
+  "exemplar_id": 3189,
+  "sku": "LI0236",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:35:42",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2987,
+  "autor": "Ulisses F. Araújo; Outros",
+  "titulo": "Projetos de Vida",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "araujo projetos vida",
+  "edicao_id": 2967,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 119,
+  "peso": 280,
+  "isbn": "9786555490015",
+  "editora": "Summus Editorial",
+  "numero_edicao": 1,
+  "ano": 2020,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "A Base Nacional Comum Curricular (BNCC) define as aprendizagens essenciais para os alunos brasileiros, destacando o incentivo à construção dos projetos de vida dos jovens. Esses projetos visam transformar a sociedade de forma ética e justa, além de promover o desenvolvimento profissional. Professores e pesquisadores da Universidade de São Paulo exploram as origens psicopedagógicas dessa proposta, oferecendo exemplos práticos e metodologias para aplicação em sala de aula. Obra essencial para educadores comprometidos com uma educação transformadora e de qualidade.",
+  "exemplar_id": 2966,
+  "sku": "LI01WZ",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Subtítulo: Fundamentos Psicológicos, éticos e Práticas Educacionais. / Livro seminovo. Sem qualquer anotação, sublinhados, assinatura, carimbos, etc."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:17:47",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

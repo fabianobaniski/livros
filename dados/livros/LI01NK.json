@@ -1,0 +1,63 @@
+{
+  "obra_id": 2648,
+  "autor": "José Ortega y Gasset",
+  "titulo": "Las Atlántidas",
+  "subtitulo": "Con unas figuras del Sudán y de la China",
+  "idioma": "Espanhol",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "gasset las atlantidas",
+  "edicao_id": 2628,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": null,
+  "peso": 380,
+  "isbn": "",
+  "editora": "Sudamericana",
+  "numero_edicao": null,
+  "ano": 1943,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro do renomado pensador espanhol apresenta uma série de ensaios que abordam temas instigantes, como La moda subterránea, La cultura tartesia e El sentido histórico. A obra é enriquecida por 24 fotografias que retratam esculturas descobertas em terras africanas e chinesas, representando figuras religiosas e culturais. O autor reflete sobre essas criações, destacando sua profundidade simbólica e estética. Seu objetivo é que essas imagens, com sua força intuitiva, guiem o leitor em uma jornada de contemplação.",
+  "exemplar_id": 2627,
+  "sku": "LI01NK",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/jose-ortega-y-gasset--las-atlantidas--capa--20260316--214345.jpg",
+  "contracapa": "static/uploads/jose-ortega-y-gasset--las-atlantidas--contracapa--20260316--214345.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro capa dura, bastante envelhecido, mas, no geral, em boas condições. Papel amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa em estado regular. Texto com marcações em cerca de 20 por cento das folhas. Ilustrado em preto e branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:16:27",
+  "observacoes": null
+}

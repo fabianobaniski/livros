@@ -1,0 +1,63 @@
+{
+  "obra_id": 809,
+  "autor": "Willem Johannes Ouweneel",
+  "titulo": "Coração e alma",
+  "subtitulo": "Uma perspectiva cristã da psicologia",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Psicologia. Teologia. Comportamento humano.",
+  "palavras_chave": "ouweeneel coracao alma psicologia",
+  "edicao_id": 794,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 144,
+  "peso": 280,
+  "isbn": "9788576225164",
+  "editora": "Cultura Cristã",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A relação da Psicologia com a Teologia é apenas indireta, mas tem profunda relação com a Bíblia. Se não formos capazes de entender esse ponto vamos cair de novo em um erro comum: o de supor que existe, por um lado, uma psicologia “neutra e objetiva”, que estuda o comportamento humano, e, por outro, uma teologia preocupada com a “vida espiritual” do homem.</p> <p>A psicologia atual precisa ser convertida (ou seja, virada) de maneira radical. Seu edifício deve ser desmontado, tijolo por tijolo, e, em seguida, cada tijolo deve ser analisado individualmente para ver se é útil ou não. Alguns tijolos terão de ser jogados fora, enquanto outros serão reaproveitados, depois voltarem para o forno. E será de suma importância constatar que todo o edifício a que chamamos psicologia terá de ser erguido sobre novos alicerces.</p>",
+  "sinopse": "O livro explora a intersecção entre psicologia e teologia, destacando a importância de uma abordagem que não apenas estude o comportamento humano, mas que também considere as dimensões espirituais do ser humano. A proposta é uma conversão radical da psicologia, analisando suas bases e reconstruindo-a sob novos fundamentos que integrem a vida espiritual e os conceitos psicológicos.",
+  "exemplar_id": 793,
+  "sku": "LI00LG",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/willem-johannes-ouweneel--cora--o-e-alma--capa--20250227--152906.jpg",
+  "contracapa": "static/uploads/willem-johannes-ouweneel--cora--o-e-alma--contracapa--20250227--152906.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:15:04",
+  "observacoes": null
+}

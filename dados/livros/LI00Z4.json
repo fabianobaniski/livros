@@ -1,0 +1,68 @@
+{
+  "obra_id": 1765,
+  "autor": "João Mattar",
+  "titulo": "Metodologia científica na era da informática",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Metodologia científica. Ensino superior. Informática. Produção acadêmica.",
+  "palavras_chave": "mattar metodologia cientifica era informatica",
+  "edicao_id": 1745,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 308,
+  "peso": 570,
+  "isbn": "9788502064478",
+  "editora": "Saraiva",
+  "numero_edicao": 3,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>METODOLOGIA CIENTÍFICA<br>NA ERA DA INFORMÁTICA</b><p>A primeira edição deste livro trouxe à tona a pergunta \"mais um livro para cursos de Introdução à Metodologia Científica?\". Ainda que a produção acadêmica nacional seja digna de orgulho, um país como o Brasil carecia de informação em um aspecto em seus livros sobre metodologia científica ou acadêmica. A maioria das obras encontradas no mercado até então não levava em consideração os avanços tecnológicos.<br>As novidades na informática eram simplesmente ignoradas, não se levando em conta sua importância nas atividades de pesquisa e ensino de nível superior. Os dois temas viviam em mundos paralelos: de um lado, livros de metodologia científica ensinando-nos a lidar com fichários de papel; de outro, livros de informática ensinando-nos a lidar com poderosos bancos de dados digitais.<br>Atento a essa questão e preocupado em simplificar a produção acadêmica, João Mattar, pesquisador e autor de diversos livros, uniu os dois temas em uma só obra. Indicado a alunos de graduação e pós-graduação de todas as áreas do ensino superior brasileiro, <i>Metodologia Científica na Era da Informática</i> não falha em sua premissa e entra na terceira edição totalmente revisado e atualizado.</p><b>Aplicabilidade</b><p>Este livro pode ser utilizado nas disciplinas de Metodologia Científica e Técnicas de Pesquisa.</p>",
+  "sinopse": "Este livro aborda a importância de conciliar os avanços tecnológicos da informática com o ensino de metodologia científica, preenchendo uma lacuna nas obras acadêmicas brasileiras. João Mattar reúne em uma só obra instruções tanto para o uso de fichários em papel quanto para lidar com bancos de dados digitais, tornando o conteúdo aplicável para alunos de graduação e pós-graduação em todas as áreas do ensino superior. Esta terceira edição foi totalmente revisada e atualizada, sendo indicada para disciplinas de Metodologia Científica e Técnicas de Pesquisa.",
+  "exemplar_id": 1744,
+  "sku": "LI00Z4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jo-o-mattar--metodologia-cient-fica--capa--20250430--102943.jpg",
+  "contracapa": "static/uploads/jo-o-mattar--metodologia-cient-fica--contracapa--20250430--102943.jpg",
+  "fotos": [
+    "static/uploads/jo-o-mattar--metodologia-cient-fica--foto1--20250430--102943.jpg",
+    "static/uploads/jo-o-mattar--metodologia-cient-fica--foto2--20250430--102943.jpg",
+    "static/uploads/jo-o-mattar--metodologia-cient-fica--foto3--20250430--102943.jpg",
+    "static/uploads/jo-o-mattar--metodologia-cient-fica--foto4--20250430--102943.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:50:58",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1799,
+  "autor": "Marcos Maia Porto",
+  "titulo": "Portos e o desenvolvimento",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Economia",
+  "temas": "Economia. Geografia. Sociologia. Transportes. Meio ambiente. Desenvolvimento de portos.",
+  "palavras_chave": "porto portos desenvolvimento",
+  "edicao_id": 1779,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 208,
+  "peso": 290,
+  "isbn": "9788587364586",
+  "editora": "Aduaneiras",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O objetivo deste trabalho é alcançar o público que se interessa pela função do porto como promotor do desenvolvimento, seja ele social, tecnológico ou ambiental, para citar alguns.</p><p>É um trabalho importante para a área acadêmica, pelo seu conteúdo na área de geografia, sociologia e economia dos transportes e meio ambiente. Há neste livro um fator de oportunidade, uma vez que são muito poucos os trabalhos desenvolvidos com esse tema, em especial que abordem com clareza um assunto que envolve tantos e diversificados agentes do desenvolvimento, no tempo e no espaço.</p><p>Tratar desses fatores de desenvolvimento, correlacionando suas causas e efeitos, requer um certo cuidado para que elementos importantes não sejam omitidos e nem colocados em excesso.</p><p>Trata-se, portanto, de uma leitura esclarecedora, a qual proporciona um conhecimento sobre portos, sua função de desenvolvimento, que será útil para uso pessoal ou profissional.</p>",
+  "sinopse": "Este livro aborda a função dos portos como promotores do desenvolvimento social, tecnológico e ambiental. Voltado ao público acadêmico e profissionais das áreas de geografia, sociologia, economia dos transportes e meio ambiente, a obra explora a multiplicidade de agentes envolvidos e correlaciona causas e efeitos do desenvolvimento. Oferece uma leitura esclarecedora e útil, proporcionando conhecimento específico sobre o papel dos portos no desenvolvimento, sendo relevante tanto para uso pessoal quanto profissional.",
+  "exemplar_id": 1778,
+  "sku": "LI0102",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marcos-maia-porto--portos-e-o-desenvolvimento--capa--20250430--102949.jpg",
+  "contracapa": "static/uploads/marcos-maia-porto--portos-e-o-desenvolvimento--contracapa--20250430--102949.jpg",
+  "fotos": [
+    "static/uploads/marcos-maia-porto--portos-e-o-desenvolvimento--foto1--20250430--102949.jpg",
+    "static/uploads/marcos-maia-porto--portos-e-o-desenvolvimento--foto2--20250430--102949.jpg",
+    "static/uploads/marcos-maia-porto--portos-e-o-desenvolvimento--foto3--20250430--102949.jpg",
+    "static/uploads/marcos-maia-porto--portos-e-o-desenvolvimento--foto4--20250430--102949.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:08:47",
+  "observacoes": "procedencia_biblioteca"
+}

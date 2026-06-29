@@ -1,0 +1,63 @@
+{
+  "obra_id": 2447,
+  "autor": "Adaptação: Paulo Mendes Campos",
+  "titulo": "Contos de Shakespeare",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "campos contos shakespeare",
+  "edicao_id": 2427,
+  "encadernacao": null,
+  "quantidade_paginas": 72,
+  "peso": 206,
+  "isbn": "",
+  "editora": "Ediouro",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Contos de Shakespeare reúne algumas das mais famosas peças de William Shakespeare, considerado o maior dramaturgo de todos os tempos. Nesta edição, clássicos como Romeu e Julieta, Hamlet, Otelo, Macbeth e Sonho de uma noite de verão são recontados em prosa por Paulo Mendes Campos, tornando-os acessíveis aos jovens leitores. As histórias abordam temas universais como amor, poder e tragédia, e continuam a inspirar gerações, consolidando seu lugar entre as maiores obras da literatura mundial.",
+  "exemplar_id": 2426,
+  "sku": "LI01HZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/adaptacao-paulo-mendes-campos--contos-de-shakespeare--capa--20260316--185550.jpg",
+  "contracapa": "static/uploads/adaptacao-paulo-mendes-campos--contos-de-shakespeare--contracapa--20260316--185550.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, apesar de um tanto amarelado e com leves sinais de uso. Texto livre de sublinhados e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-16 18:55:37",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2985,
+  "autor": "Josep Maria Puig",
+  "titulo": "Ética e valores",
+  "subtitulo": "Métodos para um ensino transversal",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "puig etica valores metodos",
+  "edicao_id": 2965,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 226,
+  "peso": 400,
+  "isbn": "9788573960136",
+  "editora": "Casa do Psicólogo",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "No momento em que a sociedade brasileira parece acordar para a necessidade de implementação nas escolas de uma educação para a cidadania, os conceitos e metodologia presentes neste livro serão de grande valia para todos os profissionais de educação que buscam uma formação integrada de seus alunos, na qual os valores vinculados à construção da democracia, da cidadania e de relações interpessoais mais justas coexistam de maneira articulada com as disciplinas curriculares tradicionais.",
+  "exemplar_id": 2964,
+  "sku": "LI01WX",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 35.0,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, embora um tanto amarelado pelo tempo. Foi identificada apenas uma página grifada com caneta-destaque."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:40:35",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

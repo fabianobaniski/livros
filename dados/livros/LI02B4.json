@@ -1,0 +1,68 @@
+{
+  "obra_id": 3501,
+  "autor": "Akihito Tsukushi",
+  "titulo": "Made in Abyss",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Aventura. Fantasia.",
+  "palavras_chave": "tsukushi made abyss",
+  "edicao_id": 3478,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 270,
+  "isbn": "9788583622291",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<h1>EIS O SEXTO VOLUME DA GRANDE AVENTURA DRAMÁTICA QUE MISTURA RAZÃO E INSTINTO!!</h1><p>Depois da feroz batalha contra Bondrewd e árdua vitória, Riko, Reg e Nanachi continuam sua exploração para chegarem ao ponto mais profundo do \"Abismo\"...</p><p>Então, os três chegam ao \"Altar da Fronteira Absoluta\" com a Prushka em mãos na forma de um apito branco, onde eles darão o último passo para iniciarem a chamada \"Última Jornada\", da qual diz-se que não é possível retornar.</p><p>Contudo, quando eles chegaram à sexta camada de profundidade, foram recepcionados por uma sinistra cidade onde vivem \"sequelas\", os quais falam em \"valores\" peculiares...</p>",
+  "sinopse": "Após derrotar Bondrewd em uma batalha intensa, Riko, Reg e Nanachi continuam sua exploração em direção ao ponto mais profundo do Abismo. Com Prushka transformada em apito branco, eles alcançam o 'Altar da Fronteira Absoluta' para iniciar a 'Última Jornada', de onde não se pode retornar. Chegando à sexta camada, encontram uma estranha cidade habitada pelas chamadas 'sequelas', seres que vivem segundo valores peculiares.",
+  "exemplar_id": 3477,
+  "sku": "LI02B4",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/made-in-abyss__akihito-tsukushi__capa__2025-11-05_16-16-01-040152.jpg",
+  "contracapa": "static/uploads/made-in-abyss__akihito-tsukushi__contracapa__2025-11-05_16-16-01-083741.jpg",
+  "fotos": [
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-01__2025-11-05_16-16-01-121221.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-02__2025-11-05_16-16-01-150846.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-03__2025-11-05_16-16-01-173816.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-04__2025-11-05_16-16-01-194938.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:53:37",
+  "observacoes": null
+}

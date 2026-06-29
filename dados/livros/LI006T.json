@@ -1,0 +1,68 @@
+{
+  "obra_id": 268,
+  "autor": "Margaret Atwood",
+  "titulo": "Colchão de pedra",
+  "subtitulo": "Nove contos perversos",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura contemporânea. Vingança. Relações humanas.",
+  "palavras_chave": "atwood colchao pedra nove contos",
+  "edicao_id": 262,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 301,
+  "peso": 350,
+  "isbn": "9786555322620",
+  "editora": "Rocco",
+  "numero_edicao": 1,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Aposentada sexagenária, Verna resolve embarcar em um cruzeiro luxuoso pelo Ártico depois da morte nada acidental do seu quarto marido, aproveitando sozinha todo o dinheiro que recebeu dos falecidos companheiros. O inesperado acontece quando ela reconhece entre os passageiros o homem que, na adolescência, a prejudicou e humilhou de forma cruel. Discreta, astuta e estratégica, ela planeja cautelosamente uma vingança nas camadas rochosas conhecidas como colchões de pedra.</p>",
+  "sinopse": "Verna, uma aposentada, embarca em um cruzeiro luxuoso após a morte acidental do marido. Sozinha com o dinheiro que herdou, ela se depara com um antigo conhecido que a prejudicou na juventude. Preparando uma vingança discreta e astuta, Verna planeja sua ação em meio a um cenário de luxo e reconciliação.",
+  "exemplar_id": 261,
+  "sku": "LI006T",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 33.0,
+  "capa": "static/uploads/margaret-atwood--colch-o-de-pedra--capa--20250226--133813.jpg",
+  "contracapa": "static/uploads/margaret-atwood--colch-o-de-pedra--contracapa--20250226--133813.jpg",
+  "fotos": [
+    "static/uploads/margaret-atwood--colch-o-de-pedra--foto1--20250226--133813.jpg",
+    "static/uploads/margaret-atwood--colch-o-de-pedra--foto2--20250226--133813.jpg",
+    "static/uploads/margaret-atwood--colch-o-de-pedra--foto3--20250226--133813.jpg",
+    "static/uploads/margaret-atwood--colch-o-de-pedra--foto4--20250226--133813.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta carimbo de cortesia da editora na borda inferior."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:46:27",
+  "observacoes": null
+}

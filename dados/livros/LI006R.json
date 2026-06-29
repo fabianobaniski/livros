@@ -1,0 +1,68 @@
+{
+  "obra_id": 266,
+  "autor": "Jon Turk",
+  "titulo": "A dádiva do corvo",
+  "subtitulo": "Um cientista, uma xamã e sua viagem singular através do deserto siberiano",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Aventura. Sabedoria ancestral. Natureza.",
+  "palavras_chave": "turk dádiva corvo",
+  "edicao_id": 260,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 425,
+  "peso": 640,
+  "isbn": "9788528615524",
+  "editora": "Bertrand Brasil",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em A Dádiva do Corvo, Jon Turk transmite, ao mesmo tempo, o sentimento bruto do movimento, uma incrível sensação de aventura, a árdua tarefa de atravessar a Sibéria e a história do povo de Vyvenka. Ele nos faz lembrar que, numa jornada, nossos objetivos iniciais sempre se transformam em algo inesperado e maravilhoso.</p> <p>Grant Shilling, Vancouver Sun</p> <p>A tensão entre a lógica de fundo científico e a sabedoria xamânica nos faz querer saber tudo sobre a história do povo koryak e a transformação de Jon.</p> <p>Henry Pollack, Prêmio Nobel da Paz de 2007</p> <p>Turk escreve com vigor, proeza e precisão. Ele atesta os poderes do corpo, da mente e da alma, que são despertados quando mergulhamos na Natureza Selvagem.</p> <p>Donna Seaman</p> <p>Jon Turk é um verdadeiro explorador, um viajante curioso e um escritor talentoso que compartilha suas viagens notáveis com introspecção, sabedoria e compaixão.</p> <p>Maria Coffey</p>",
+  "sinopse": "A Dádiva do Corvo narra a jornada de um cientista e uma xamã através da Sibéria, refletindo sobre a aventura e a transformação que ela traz. A obra explora a intersecção entre ciência e sabedoria ancestral, discutindo os desafios enfrentados e as lições aprendidas durante essa experiência única.",
+  "exemplar_id": 259,
+  "sku": "LI006R",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/jon-turk--a-d-diva-do-corvo--capa--20250226--133813.jpg",
+  "contracapa": "static/uploads/jon-turk--a-d-diva-do-corvo--contracapa--20250226--133813.jpg",
+  "fotos": [
+    "static/uploads/jon-turk--a-d-diva-do-corvo--foto1--20250226--133813.jpg",
+    "static/uploads/jon-turk--a-d-diva-do-corvo--foto2--20250226--133813.jpg",
+    "static/uploads/jon-turk--a-d-diva-do-corvo--foto3--20250226--133813.jpg",
+    "static/uploads/jon-turk--a-d-diva-do-corvo--foto4--20250226--133813.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:17:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3123,
+  "autor": "Claude Dufresne",
+  "titulo": "Maria Antonieta",
+  "subtitulo": "o Escândalo do Prazer",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": null,
+  "palavras_chave": "dufresne maria antonieta escandalo",
+  "edicao_id": 3103,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 243,
+  "peso": 380,
+  "isbn": "9789724413488",
+  "editora": "Edicoes 70",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Esta biografia íntima desvenda a vida de Maria Antonieta, a controversa rainha francesa, através de um olhar compassivo sobre seus anseios mais profundos. Impulsionada pelo desejo de amar e ser amada, a monarca deixou-se guiar pelo coração, percorrendo caminhos perigosos em busca da realização amorosa. Claude Dufresne mergulha nas complexidades da alma de Maria Antonieta, descrevendo com riqueza de detalhes as paixões que a moveram, como o arrebatador caso com Axel de Fersen...",
+  "exemplar_id": 3102,
+  "sku": "LI020R",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em excelente estado de conservação apresentando, apenas, levíssimos sinais de manuseio e da passagem do tempo. Lombada reta, miolo firme sem folhas soltas. Texto livre de sublinhados e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:59:54",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

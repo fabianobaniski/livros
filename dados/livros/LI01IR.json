@@ -1,0 +1,63 @@
+{
+  "obra_id": 2475,
+  "autor": "Chesneaux; Claudín; Terray",
+  "titulo": "Descolonização",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "chesneaux chesneaux descolonizacao",
+  "edicao_id": 2455,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 197,
+  "peso": 400,
+  "isbn": "",
+  "editora": "F. Alves",
+  "numero_edicao": null,
+  "ano": 1977,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O processo de descolonização, impulsionado por movimentos nacionalistas na África e na Ásia, levou à independência de várias nações após a Primeira Guerra Mundial. Contudo, mesmo com o fim da dominação colonial formal, novas formas de colonialismo emergiram, como a discriminação racial e social que afeta minorias em diferentes países. Essas lutas anticoloniais continuam, enfrentando desafios internos e externos em busca de direitos e sobrevivência, refletindo uma persistente desigualdade gerada pelo colonialismo e suas consequências.",
+  "exemplar_id": 2454,
+  "sku": "LI01IR",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/chesneaux--descolonizacao--capa--20260316--192309.jpg",
+  "contracapa": "static/uploads/chesneaux--descolonizacao--contracapa--20260316--192309.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa em bom estado, apesar da capa ter descolado na parte inferior."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:40:40",
+  "observacoes": null
+}

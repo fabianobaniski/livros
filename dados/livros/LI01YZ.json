@@ -1,0 +1,63 @@
+{
+  "obra_id": 3059,
+  "autor": "H. Rider Haggard",
+  "titulo": "She",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": null,
+  "palavras_chave": "h haggard she",
+  "edicao_id": 3039,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 240,
+  "peso": 350,
+  "isbn": "9781853262340",
+  "editora": "Wordsworth Classics",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "She é uma envolvente aventura que mistura mitologia e mistério. A história acompanha Ludwig Horace Holly e seu companheiro em uma perigosa jornada pela África mais sombria, onde encontram a enigmática e poderosa rainha Ayesha, conhecida como Aquela-Que-Deve-Ser-Obedecida. Dotada de beleza e poder aterradores, Ayesha governa o misterioso domínio subterrâneo de Kôr. Escrito logo após o sucesso de As Minas do Rei Salomão, este romance de H. Rider Haggard se tornou um dos seus mais amados clássicos.",
+  "exemplar_id": 3038,
+  "sku": "LI01YZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fortemente amarelado, mas em boas condições de leitura e manuseio. Texto sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:25:09",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

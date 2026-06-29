@@ -1,0 +1,68 @@
+{
+  "obra_id": 125,
+  "autor": "Vanessa Diffenbaugh",
+  "titulo": "A linguagem das flores",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura contemporânea. Relações familiares. Autoconhecimento.",
+  "palavras_chave": "diffenbaugh linguagem flores",
+  "edicao_id": 123,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 295,
+  "peso": 380,
+  "isbn": "9788580410174",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Victoria Jones sempre foi uma menina arreda, temperamental e carrancuda. Por causa de sua personalidade difícil, passou a vida sendo jogada de um abrigo para outro, de uma família para outra, até ser considerada inaptapara adoção.</p> <p>Ainda criança, se apaixonou pelas flores e por suas mensagens secretas. Quem lhe ensinou tudo sobre o assunto foi Elizabeth, uma de suas mães adotivas, a única que a menina amou e com quem quis ficar...até pôr tudo a perder.</p> <p>Agora, aos 18 anos e emancipada, ela não tem para onde ir nem com quem contar. Sozinha, passa as noites numa praça pública, onde cultiva um pequeno jardim particular.</p> <p>Quando uma florista local lhe dá um emprego e descobre seu talento, a vida de Victoria parece prestes a entrar nos eixos. Mas então ela conhece um misterioso vendedor do mercado de flores e esse encontro a obriga a enfrentar os fantasmas que a assombram.</p> <p>Em seu livro de estreia, Vanessa Diffenbaugh cria uma heroína intensa e inesquecível. Misturando passado e presente num intricado quebra-cabeça, A linguagem das flores é essencialmente uma história de amor – entre mãe e filha, entre homem e mulher e, sobretudo, de amor-próprio.</p>",
+  "sinopse": "Victoria Jones, uma jovem com um passado conturbado e uma paixão pelas flores, vive em constante busca por pertencimento. Após ser emancipada, ela descobre seu talento quando uma florista local a contrata, mas seus fantasmas do passado a forçam a confrontar questões profundas sobre amor e identidade. A história se desenrola em meio a um jardim particular que simboliza suas esperanças e relações.",
+  "exemplar_id": 122,
+  "sku": "LI0031",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/vanessa-diffenbaugh--a-linguagem-das-flores--capa--20250226--133755.jpg",
+  "contracapa": "static/uploads/vanessa-diffenbaugh--a-linguagem-das-flores--contracapa--20250226--133755.jpg",
+  "fotos": [
+    "static/uploads/vanessa-diffenbaugh--a-linguagem-das-flores--foto1--20250226--133755.jpg",
+    "static/uploads/vanessa-diffenbaugh--a-linguagem-das-flores--foto2--20250226--133755.jpg",
+    "static/uploads/vanessa-diffenbaugh--a-linguagem-das-flores--foto3--20250226--133755.jpg",
+    "static/uploads/vanessa-diffenbaugh--a-linguagem-das-flores--foto4--20250226--133755.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:30:30",
+  "observacoes": null
+}

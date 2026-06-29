@@ -1,0 +1,68 @@
+{
+  "obra_id": 3414,
+  "autor": "Hiroya Oku",
+  "titulo": "Inuyashiki",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Juventude. Violência. Super-poderes. Conflito moral.",
+  "palavras_chave": "oku inuyashiki",
+  "edicao_id": 3391,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "9788542606928",
+  "editora": "Planet Manga",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>A revelação de <b>Hiro Shishigami</b> para seu melhor amigo, Ando, deixou claro que <b>Inuyashiki</b> não era a única pessoa no parque naquela noite fatídica. Embora pareça que suas habilidades facilitarão a sua vida, elas também o empurrarão em uma direção sombria através de um hobby estranho e mortal. Será que Inuyashiki terá o que é preciso para evitar que Shishigami continue sua juventude cruel e violenta?</p>",
+  "sinopse": "Após a revelação de Hiro Shishigami para seu melhor amigo Ando, fica claro que Inuyashiki não era o único presente no parque na noite fatídica. As novas habilidades adquiridas parecem facilitar sua vida, mas também o conduzem para um caminho sombrio e perigoso. Agora, Inuyashiki precisa enfrentar desafios não apenas para si, mas para impedir Shishigami de continuar seus atos cruéis e violentos.",
+  "exemplar_id": 3390,
+  "sku": "LI028P",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/inuyashiki__hiroya-oku__capa__2025-11-05_16-15-05-736859.jpg",
+  "contracapa": "static/uploads/inuyashiki__hiroya-oku__contracapa__2025-11-05_16-15-05-777229.jpg",
+  "fotos": [
+    "static/uploads/inuyashiki__hiroya-oku__foto-01__2025-11-05_16-15-05-803580.jpg",
+    "static/uploads/inuyashiki__hiroya-oku__foto-02__2025-11-05_16-15-05-823960.jpg",
+    "static/uploads/inuyashiki__hiroya-oku__foto-03__2025-11-05_16-15-05-848733.jpg",
+    "static/uploads/inuyashiki__hiroya-oku__foto-04__2025-11-05_16-15-05-864999.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:09:36",
+  "observacoes": null
+}

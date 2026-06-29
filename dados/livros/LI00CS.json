@@ -1,0 +1,63 @@
+{
+  "obra_id": 497,
+  "autor": "Wadislau Martins Gomes",
+  "titulo": "Todo mundo pensa, você também",
+  "subtitulo": "Aprendendo a pensar biblicamente",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura religiosa. Educação. Reflexão.",
+  "palavras_chave": "gomes todo mundo pensa voce",
+  "edicao_id": 482,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 271,
+  "peso": 380,
+  "isbn": "9788562478703",
+  "editora": "Monergismo",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Serei grato ao leitor, coautor na leitura, pela condescendência que tiver enquanto trocamos pensamentos, levando em conta que minhas simplificações visam somente abrir o apetite para um posterior jantar. Rogo a Deus que nossos pensamentos não sejam vãos, mas que encontrem significado na instrução, convicção, correção e prática da Palavra, tal como disse o apóstolo Paulo.</p><p>Tu porém, permanece naquilo que aprendeste e de que foste inteirado, sabendo de quem o aprendeste e que, desde a infância, sabes as sagradas letras, que podem tornar-te sábio para a salvação pela fé em Cristo Jesus. Toda a Escritura é inspirada por Deus e útil para o ensino, para a repreensão, para a correção, para a educação na justiça, a fim de que o homem de Deus seja perfeito e perfeitamente habilitado para todo boa obra. ~ 2 Timóteo 3.14-17.</p>",
+  "sinopse": "Neste livro, o autor convida o leitor a refletir sobre os pensamentos e a importância da educação bíblica. Através de um tom acessível, ele busca abrir um apetite por um conhecimento mais profundo da Palavra, incentivando a prática e o aprendizado ao longo da vida cristã.",
+  "exemplar_id": 481,
+  "sku": "LI00CS",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/wadislau-martins-gomes--todo-mundo-pensa--voc--tamb-m--capa--20250227--111546.jpg",
+  "contracapa": "static/uploads/wadislau-martins-gomes--todo-mundo-pensa--voc--tamb-m--contracapa--20250227--111546.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:26:33",
+  "observacoes": null
+}

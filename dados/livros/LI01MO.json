@@ -1,0 +1,63 @@
+{
+  "obra_id": 2616,
+  "autor": "Amós Coelho da Silva e outros",
+  "titulo": "Inscrições da tradição clássica e oriental na contemporaneidade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Linguística",
+  "temas": "",
+  "palavras_chave": "outros inscricoes tradicao classica",
+  "edicao_id": 2596,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 342,
+  "peso": 300,
+  "isbn": "9788557003521",
+  "editora": "UERJ / Letras e Versos",
+  "numero_edicao": 0,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2595,
+  "sku": "LI01MO",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/amos-coelho-da-silva-e-outros--inscricoes-da-tradicao-classica-e-oriental-na-contemporaneidade--capa--20260316--213300.jpg",
+  "contracapa": "static/uploads/amos-coelho-da-silva-e-outros--inscricoes-da-tradicao-classica-e-oriental-na-contemporaneidade--contracapa--20260316--213300.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:24:44",
+  "observacoes": null
+}

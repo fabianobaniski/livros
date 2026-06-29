@@ -1,0 +1,68 @@
+{
+  "obra_id": 1432,
+  "autor": "Wanessa Carla Gazzoni; Vanessa Davanço Pereira de Lima; Juliana Miyoshi; Renata Cristina Sosae; José Márcio de Lima Oliveira",
+  "titulo": "Matemática",
+  "subtitulo": "Pré-requisitos para o Cálculo Diferencial e Integral",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Matemática.",
+  "palavras_chave": "gazzoni matematica pre requisitos calculo",
+  "edicao_id": 1414,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 186,
+  "peso": 300,
+  "isbn": "9788576702481",
+  "editora": "Átomo",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1413,
+  "sku": "LI00UJ",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/wanessa-carla-gazzoni--matem-tica--capa--20250401--115346.png",
+  "contracapa": "static/uploads/wanessa-carla-gazzoni--matem-tica--contracapa--20250401--115346.png",
+  "fotos": [
+    "static/uploads/wanessa-carla-gazzoni--matem-tica--foto1--20250401--115346.jpg",
+    "static/uploads/wanessa-carla-gazzoni--matem-tica--foto2--20250401--115346.jpg",
+    "static/uploads/wanessa-carla-gazzoni--matem-tica--foto3--20250401--115346.jpg",
+    "static/uploads/wanessa-carla-gazzoni--matem-tica--foto4--20250401--115346.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Contracapa com marca de dobra. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:57:55",
+  "observacoes": null
+}

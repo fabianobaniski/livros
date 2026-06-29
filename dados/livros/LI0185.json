@@ -1,0 +1,68 @@
+{
+  "obra_id": 2092,
+  "autor": "José Carlos P. de Almeida Filho",
+  "titulo": "Dimensões comunicativas no ensino de línguas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ensino de Idiomas",
+  "temas": "Ensino de línguas. Comunicação. Metodologias de ensino.",
+  "palavras_chave": "almeida dimensoes comunicativas ensino linguas",
+  "edicao_id": 2072,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 75,
+  "peso": 115,
+  "isbn": "9788571130852",
+  "editora": "Pontes",
+  "numero_edicao": 4,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro toma uma perspectiva crítica produtiva de ensino comunicativo como seu elemento catalizador para caracterizar as múltiplas variantes de ensino contemporâneo de línguas no Brasil e exterior e avança, ao longo dos capítulos, na sua caracterização, manifestações, esteio teórico e potencial de ensino e pesquisa para a nossa época. Para sinalizar como se difratou o movimento comunicativo (revelando índices da sua evolução) escolhi o título “Dimensões Comunicativas no Ensino de Línguas”.</p>",
+  "sinopse": "O livro propõe uma análise crítica e produtiva do ensino comunicativo de línguas, abordando suas múltiplas variantes no Brasil e no exterior. Discute, ao longo dos capítulos, as características, manifestações, fundamentos teóricos e o potencial do ensino e pesquisa para os dias atuais. O autor destaca a evolução do movimento comunicativo no ensino de línguas, justificando o título da obra.",
+  "exemplar_id": 2071,
+  "sku": "LI0185",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--carlos-p--de-almeida-filho--dimens-es-comunicativas-no-ensino-de-l-nguas--capa--20250430--104531.jpg",
+  "contracapa": "static/uploads/jos--carlos-p--de-almeida-filho--dimens-es-comunicativas-no-ensino-de-l-nguas--contracapa--20250430--104532.jpg",
+  "fotos": [
+    "static/uploads/jos--carlos-p--de-almeida-filho--dimens-es-comunicativas-no-ensino-de-l-nguas--foto1--20250430--104532.jpg",
+    "static/uploads/jos--carlos-p--de-almeida-filho--dimens-es-comunicativas-no-ensino-de-l-nguas--foto2--20250430--104532.jpg",
+    "static/uploads/jos--carlos-p--de-almeida-filho--dimens-es-comunicativas-no-ensino-de-l-nguas--foto3--20250430--104532.jpg",
+    "static/uploads/jos--carlos-p--de-almeida-filho--dimens-es-comunicativas-no-ensino-de-l-nguas--foto4--20250430--104532.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:47:47",
+  "observacoes": "procedencia_biblioteca"
+}

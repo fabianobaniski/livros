@@ -1,0 +1,68 @@
+{
+  "obra_id": 2254,
+  "autor": "Idalberto Chiavenato",
+  "titulo": "Administração para administradores e não-administradores",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Gestão de negócios. Empreendedorismo.",
+  "palavras_chave": "chiavenato administracao para administradores nao-administradores",
+  "edicao_id": 2234,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 272,
+  "peso": 480,
+  "isbn": "9788502067820",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Administrar uma empresa envolve mais do que conceitos abstratos, mais do que boa vontade ou esforço pessoal. Diz respeito ao concreto, isto é, à produção de resultados. Advogados, engenheiros, artistas, professores e médicos – todos precisam conhecer as bases para administrar seus negócios.</p><p><i>Administração para administradores e não-administradores</i>, como sugere o próprio título, foi escrito para ajudar pequenos e grandes empresários no direcionamento de seus empreendimentos. Ao trazer uma visão sistêmica, o livro desmistifica o significado da administração de uma maneira didática e de fácil entendimento.</p><ul><li>Responde a perguntas como “o que é administrar”, “por que administrar” e “como administrar”, ajudando o leitor a entender o seu negócio e a lidar com tudo que envolve a gestão de uma empresa – desde questões financeiras a seleção e liderança de funcionários. Indicado para aqueles que querem ou já se aventuraram em ter sua própria empresa, seja ela qual for, e que desejam prosperar.</li></ul><p><b>Este livro é indicado para as seguintes disciplinas:</b> Introdução à Administração, Fundamentos da Administração e Empreendedorismo.</p>",
+  "sinopse": "Este livro traz uma abordagem didática e acessível sobre administração, voltado tanto para administradores quanto para não-administradores. Idalberto Chiavenato responde de forma clara a perguntas como o que é administrar, por que administrar e como administrar, auxiliando o leitor no entendimento e gestão de empresas de todos os portes. A obra é ideal para quem já empreende ou deseja prosperar em seu negócio, desmistificando conceitos e facilitando a compreensão dos principais temas da área.",
+  "exemplar_id": 2233,
+  "sku": "LI01CN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/idalberto-chiavenato--administra--o-para-administradores-e-n-o-administradores--capa--20250430--105104.jpg",
+  "contracapa": "static/uploads/idalberto-chiavenato--administra--o-para-administradores-e-n-o-administradores--contracapa--20250430--105104.jpg",
+  "fotos": [
+    "static/uploads/idalberto-chiavenato--administra--o-para-administradores-e-n-o-administradores--foto1--20250430--105104.jpg",
+    "static/uploads/idalberto-chiavenato--administra--o-para-administradores-e-n-o-administradores--foto2--20250430--105104.jpg",
+    "static/uploads/idalberto-chiavenato--administra--o-para-administradores-e-n-o-administradores--foto3--20250430--105104.jpg",
+    "static/uploads/idalberto-chiavenato--administra--o-para-administradores-e-n-o-administradores--foto4--20250430--105104.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:09:14",
+  "observacoes": "procedencia_biblioteca"
+}

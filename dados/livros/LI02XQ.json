@@ -1,0 +1,63 @@
+{
+  "obra_id": 5270,
+  "autor": "Eiichi Shimizu; Tomohiro Shimoguchi",
+  "titulo": "Ultraman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ação. Ciência ficção. Super-heróis.",
+  "palavras_chave": "eiichi shimizu tomohiro shimoguchi ultraman",
+  "edicao_id": 5245,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 170,
+  "isbn": "9786555941128",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 13,
+  "transcricao_contracapa": "<p>Shinjiro defende suas crenças com uma nova armadura. Moroboshi cruza o campo de batalha com um novo poder: Windom. Encontramos os irmãos Leo em Hong Kong, um microcosmo da luta entre Patrulha Científica contra o Conselho Estelar! As chances de vitória oscilam entre duas forças de níveis semelhantes. Mas, então, o Conselho Estelar toma uma decisão...!!</p>",
+  "sinopse": "Shinjiro, com sua nova armadura, enfrenta conflitos em Hong Kong ao lado dos irmãos Leo, enquanto a luta entre a Patrulha Científica e o Conselho Estelar esquenta. Moroboshi traz o poder de Windom para o campo de batalha e, em meio a forças equilibradas, o Conselho Estelar precisa tomar uma decisão crucial.",
+  "exemplar_id": 5244,
+  "sku": "LI02XQ",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/ultraman__eiichi-shimizu-tomohiro-shimoguchi__capa__2026-02-20_10-33-04-358204-000.png",
+  "contracapa": "static/uploads/ultraman__eiichi-shimizu-tomohiro-shimoguchi__contracapa__2026-02-20_10-33-04-399883-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

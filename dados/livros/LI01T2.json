@@ -1,0 +1,63 @@
+{
+  "obra_id": 2846,
+  "autor": "Celso de Rui Beisiegel",
+  "titulo": "Paulo Freire",
+  "subtitulo": "Coleção Educadores",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "beisiegel paulo freire colecao",
+  "edicao_id": 2826,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 126,
+  "peso": 200,
+  "isbn": "9788570195111",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2825,
+  "sku": "LI01T2",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/paulo-freire-celso-de-rui-beisiegel-capa_rev487.jpg",
+  "contracapa": "static/uploads/paulo-freire-celso-de-rui-beisiegel-contracapa_rev1466.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:54:36",
+  "observacoes": null
+}

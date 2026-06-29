@@ -1,0 +1,63 @@
+{
+  "obra_id": 2649,
+  "autor": "José Pascual Buxó",
+  "titulo": "Las figuraciones del sentido",
+  "subtitulo": "Ensayos de poética semiológica",
+  "idioma": "Espanhol",
+  "categoria": "Linguística",
+  "temas": "",
+  "palavras_chave": "buxo las figuraciones del",
+  "edicao_id": 2629,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 270,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Fondo de Cultura Económica",
+  "numero_edicao": null,
+  "ano": 1984,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Las figuraciones del sentido explora a influência da linguística estrutural e da semiótica nos estudos literários contemporâneos. José Pascual Buxó analisa como essas correntes resolveram a antinomia que antes limitava a análise literária, oscilando entre o rigor técnico e a aridez exegética. O autor busca entender como o homem usa os signos para nomear o inominável e transcender o caos de sua existência. A obra é uma reflexão profunda sobre o papel da linguagem na construção do sentido e sua relação com a vida e a literatura.",
+  "exemplar_id": 2628,
+  "sku": "LI01NL",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/jose-pascual-buxo--las-figuraciones-del-sentido--capa--20260316--215351.jpg",
+  "contracapa": "static/uploads/jose-pascual-buxo--las-figuraciones-del-sentido--contracapa--20260316--215351.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora bastante amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:16:36",
+  "observacoes": null
+}

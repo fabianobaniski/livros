@@ -1,0 +1,63 @@
+{
+  "obra_id": 2496,
+  "autor": "Sylvio Lago",
+  "titulo": "Eça de Queirós",
+  "subtitulo": "Ensaios e Estudos - Volume II",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "",
+  "palavras_chave": "lago eca queiros ensaios",
+  "edicao_id": 2476,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Biblioteca 24x7",
+  "numero_edicao": 1,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Ensaios e Estudos - Volume II é uma coletânea que aprofunda a análise da obra de Eça de Queirós, um dos maiores escritores da literatura portuguesa. Organizado por Sylvio Lago, o livro aborda temas como os personagens de Eça, suas alusões gastronômicas, e a relação entre a música e a pintura em seus escritos. Também explora aspectos da obra A Universalidade de Acácio, além de discutir a presença de figuras como Eduardo Prado e Ramalho Ortigão no contexto brasileiro. A coletânea é essencial para quem deseja compreender a riqueza temática e estilística de Eça de Queirós.",
+  "exemplar_id": 2475,
+  "sku": "LI01JC",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/sylvio-lago--eca-de-queiros--capa--20260316--192943.jpg",
+  "contracapa": "static/uploads/sylvio-lago--eca-de-queiros--contracapa--20260316--192943.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:46:28",
+  "observacoes": null
+}

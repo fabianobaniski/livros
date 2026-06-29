@@ -1,0 +1,63 @@
+{
+  "obra_id": 5644,
+  "autor": "Makoto Raiku",
+  "titulo": "Gash Bell!!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Combate. Parceria.",
+  "palavras_chave": "raiku gash bell",
+  "edicao_id": 5619,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 388,
+  "peso": 530,
+  "isbn": "9786598287603",
+  "editora": "MPEG",
+  "numero_edicao": null,
+  "ano": 2024,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>O verdadeiro poder de Gash e Kiyomaro será testado contra um inimigo formidável como eles nunca enfrentaram antes: o aguardado combate entre Gash e Apollo! Além disso, chegou a hora de Danny, Wong Lei e Zeon darem as caras, além da primeira luta em que Gash e Tio precisarão unir suas forças!</p> <p>OS NÍVEIS DE COMBATE SE ELEVAM A CADA NOVO ENCONTRO!</p>",
+  "sinopse": "Gash e Kiyomaro enfrentam um inimigo formidável nunca antes visto, marcando um combate aguardado com Apollo. Novos desafios surgem com Danny, Wong Lei e Zeon, e Gash se une a Tio pela primeira vez para enfrentar esses perigos. Os níveis de combate aumentam a cada novo encontro!",
+  "exemplar_id": 5618,
+  "sku": "LI031X",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/gash-bell__makoto-raiku__capa__2026-02-24_13-36-44-771577-000.jpg",
+  "contracapa": "static/uploads/gash-bell__makoto-raiku__contracapa__2026-02-24_13-36-44-802243-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

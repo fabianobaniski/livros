@@ -1,0 +1,63 @@
+{
+  "obra_id": 2729,
+  "autor": "Silvana Paternostro",
+  "titulo": "Na terra de Deus e do homem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Antropologia",
+  "temas": "",
+  "palavras_chave": "paternostro terra deus homem",
+  "edicao_id": 2709,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 485,
+  "peso": 600,
+  "isbn": "9788573022445",
+  "editora": "Objetiva",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Estudos recentes mostram o crescimento alarmante de mulheres casadas, monogâmicas, vítimas da AIDS, revelando a hipocrisia e a falsa moral que envolvem questões sexuais, especialmente na América Latina. A jornalista Silvana Paternostro, em um relato corajoso, denuncia o papel subordinado que ainda é imposto às mulheres e faz um convite apaixonado para recontar essa longa história de submissão. A obra expõe a necessidade de romper o silêncio sobre a sexualidade feminina e desafia as normas sociais estabelecidas.",
+  "exemplar_id": 2708,
+  "sku": "LI01PT",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/na-terra-de-deus-e-do-homem-silvana-paternostro-capa_rev1174.jpg",
+  "contracapa": "static/uploads/na-terra-de-deus-e-do-homem-silvana-paternostro-contracapa_rev1676.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, embora com leves desgastes decorrentes do passar dos anos. Texto livre de anotações e sublinhados. Papel pigmentado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:13:37",
+  "observacoes": null
+}

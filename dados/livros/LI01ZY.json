@@ -1,0 +1,63 @@
+{
+  "obra_id": 3094,
+  "autor": "Ilya Prigogine",
+  "titulo": "Tan Solo una Ilusion? una Exploracion del Caos Al Orden",
+  "subtitulo": null,
+  "idioma": "Espanhol",
+  "categoria": "Ciências Exatas",
+  "temas": null,
+  "palavras_chave": "prigogine tan solo una",
+  "edicao_id": 3074,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 300,
+  "isbn": null,
+  "editora": "Tusquets",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Prigogine, Nobel de Química, explora como a ciência moderna se afasta da visão determinista da física clássica, abraçando um universo de estruturas dinâmicas e imprevisíveis. Em temas como entropia, tempo e a ordem emergente, ele desafia conceitos tradicionais, propondo um novo diálogo entre a ciência e a humanidade. A obra oferece uma reflexão profunda sobre o papel da incerteza e da criatividade no entendimento das leis naturais.",
+  "exemplar_id": 3073,
+  "sku": "LI01ZY",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso. Bastante amarelado pelo tempo. Grifado à lápis até a página 189 (o total é 332). Lombada reforçada com fita adesiva transparente. Em bom estado para a leitura e o estudo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:51:40",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

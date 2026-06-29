@@ -1,0 +1,68 @@
+{
+  "obra_id": 1757,
+  "autor": "Wesley Duewel",
+  "titulo": "O poder de Deus é para você",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião cristã. Espiritualidade. Vida prática cristã.",
+  "palavras_chave": "duewel poder deus para voce",
+  "edicao_id": 1737,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 221,
+  "peso": 280,
+  "isbn": "9788573520729",
+  "editora": "Candeia",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Milhares oram para que o poder de Deus desça sobre eles. O plano de Deus é que o poder habite em você.\"</p> <p>— Wesley Duewel</p><p><b>O Poder de Deus é para Você</b> nos chama para a consagração, a oração e o frescor perene que extraem sua força interior do Cristo. Estas inspiradoras meditações de Wesley Duewel nos fazem refletir e apontam para uma vida em comunhão com o Mestre. Elas reavivam nossa visão para o propósito de Deus em nossa vida e nos encorajam a cumpri-la mediante o poder do Espírito Santo. Este livro piedoso e profundamente reflexivo nos exorta a uma deslumbrante aplicação de seus ensinos à vida. Em meditações tais como...</p><ul><li>A Vida é Curta Demais para Ser Desperdiçada</li><li>Você Pode Abençoar o Mundo</li><li>As Primeiras Coisas em Primeiro Lugar</li><li>A Vida Vitoriosa</li><li>Grande e Incomparável Poder</li><li>Deus Trabalha pelos que Esperam</li></ul><p>...Duewel ilumina verdades espirituais e nos chama para torná-las realidades práticas em nossa vida. Para todos os que desejam mais do que o presença de Deus, aqui está um alimento forte, recém-saído do forno do Rei.</p><div style='background-color:#ffd700; padding:4px;'><b>WESLEY DUEWEL</b> é ex-missionário e coordenador ministerial, autor do best-seller <i>Toque o Mundo através da Oração</i> e de outros livros, inclusive <i>Oração Poderosa que Prevalece</i>, <i>Deixe Deus Guiá-lo Diariamente</i>, <i>Em Chamas para Deus</i> e <i>O Fogo do Reavivamento</i>. É um orador popular nos contextos missionários em todo o mundo. Reside em Greenwood, Indiana.</div>",
+  "sinopse": "O livro 'O poder de Deus é para você' de Wesley Duewel inspira o leitor a buscar uma vida de consagração, oração e comunhão verdadeira com Deus, tornando reais os propósitos divinos em sua vida. Por meio de reflexões e meditações práticas, o autor encoraja o uso do poder do Espírito Santo para vivenciar um compromisso renovado com Cristo em aspectos importantes como abençoar o mundo, viver de forma vitoriosa e confiar no agir de Deus. Uma obra para quem deseja fortalecer sua fé e aplicar os ensinamentos espirituais no cotidiano.",
+  "exemplar_id": 1736,
+  "sku": "LI00YW",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/wesley-duewel--o-poder-de-deus---para-voc---capa--20250430--102941.jpg",
+  "contracapa": "static/uploads/wesley-duewel--o-poder-de-deus---para-voc---contracapa--20250430--102942.jpg",
+  "fotos": [
+    "static/uploads/wesley-duewel--o-poder-de-deus---para-voc---foto1--20250430--102942.jpg",
+    "static/uploads/wesley-duewel--o-poder-de-deus---para-voc---foto2--20250430--102942.jpg",
+    "static/uploads/wesley-duewel--o-poder-de-deus---para-voc---foto3--20250430--102942.jpg",
+    "static/uploads/wesley-duewel--o-poder-de-deus---para-voc---foto4--20250430--102942.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:37:23",
+  "observacoes": "procedencia_biblioteca"
+}

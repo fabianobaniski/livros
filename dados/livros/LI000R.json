@@ -1,0 +1,68 @@
+{
+  "obra_id": 30,
+  "autor": "Sarah Jio",
+  "titulo": "As violetas de março",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Mistério. Superação. Destino",
+  "palavras_chave": "jio violetas marco",
+  "edicao_id": 30,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 400,
+  "isbn": "9788581632223",
+  "editora": "Novo Conceito",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Emily Wilson tinha tudo para ser um exemplo de mulher bem-sucedida. Escritora consagrada e com um casamento estável, sua vida parecia imune aos problemas que afetam todo mundo. Até que seu marido, Joel, escolhe outra mulher com quem dividir a vida.</p><p>Apesar do coração partido — e de se sentir rejeitada e abandonada —, Emily não se deixa abater completamente: arruma as malas e parte em direção a uma nova história que o destino vai se encarregar de finalizar.</p><p><b>As Violetas de Março</b> é uma história sobre o amor e a falta dele. É sobre almas gêmeas e sobre a força do destino. É um romance capaz de nos fazer desabrochar para a esperança, ainda que isso pareça impossível. Assim como as violetas em março.</p><p>\"<b>As Violetas de Março</b> é como uma flor que desabrocha entre raízes retorcidas; ou como aqueles relacionamentos cheios de reviravoltas. Sarah Jio é uma escritora muito talentosa!\"</p><p><b>Claire Cook</b>, autora best-seller de <i>Procura-se um amor que goste de cachorros</i></p><p>\"Uma encantadora história de amor, traição e estranhas relações entre passado e presente.\"</p><p><b>Beth Hoffman</b>, autora do romance <i>Saving CeeCee Honeycut</i></p>",
+  "sinopse": "Emily Wilson, uma escritora com a vida aparentemente perfeita, vê seu casamento desmoronar. Para se recuperar, ela viaja e acaba descobrindo um antigo diário que a leva a um mistério envolvendo amor e destino.",
+  "exemplar_id": 29,
+  "sku": "LI000R",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/sarah-jio--as-violetas-de-mar-o--capa--20250225--164451.jpg",
+  "contracapa": "static/uploads/sarah-jio--as-violetas-de-mar-o--contracapa--20250225--164451.jpg",
+  "fotos": [
+    "static/uploads/sarah-jio--as-violetas-de-mar-o--foto1--20250225--164451.jpg",
+    "static/uploads/sarah-jio--as-violetas-de-mar-o--foto2--20250225--164451.jpg",
+    "static/uploads/sarah-jio--as-violetas-de-mar-o--foto3--20250225--164451.jpg",
+    "static/uploads/sarah-jio--as-violetas-de-mar-o--foto4--20250225--164451.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro sem uso, ainda lacrado. Bordas amarelaram um pouco. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:51:17",
+  "observacoes": null
+}

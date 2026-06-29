@@ -1,0 +1,68 @@
+{
+  "obra_id": 263,
+  "autor": "Marie Kondo",
+  "titulo": "A mágica da arrumação",
+  "subtitulo": "A arte japonesa de colocar ordem na sua casa e na sua vida",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Organização. Desenvolvimento Pessoal.",
+  "palavras_chave": "kondo magica arrumacao",
+  "edicao_id": 257,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 158,
+  "peso": 280,
+  "isbn": "9788543102092",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>A mágica da arrumação</h1> <p>se tornou um fenômeno mundial por apresentar uma abordagem inovadora para acabar de vez com a bagunça. Aos 30 anos, a japonesa Marie Kondo virou celebridade internacional, uma espécie de guru quando o assunto é organização.</p> <p>Seu método é simples, porém transformador. Em vez de basear-se em critérios vagos, como \"jogue fora tudo o que você não usa há um ano\", ele é fundamentado no sentimento da pessoa por cada objeto que possui.</p> <p>O ponto principal da técnica é o descarte. Para decidir o que manter e o que jogar fora, você deve segurar os itens um a um e perguntar a si mesmo: \"Isso me traz alegria?\" Você só deve continuar com algo se a resposta for \"sim\".</p> <p>Pode soar estranho no começo, mas, acredite, é libertador. Você vai descobrir que grande parte da bagunça em sua casa é composta por coisas dispensáveis.</p> <p>Prático e eficiente, este método não vai transformar apenas sua casa - ele vai mudar você. Rodeado apenas do que ama, você se tornará mais feliz e motivado a criar o estilo de vida com que sempre sonhou.</p>",
+  "sinopse": "A mágica da arrumação é um guia que apresenta uma abordagem inovadora para acabar com a bagunça. O método de Marie Kondo se baseia em sentimentos e na alegria que os objetos trazem, levando a um processo transformador que não só organiza a casa, mas muda a vida pessoal do indivíduo.",
+  "exemplar_id": 256,
+  "sku": "LI006O",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/marie-kondo--a-m-gica-da-arruma--o--capa--20250226--133812.jpg",
+  "contracapa": "static/uploads/marie-kondo--a-m-gica-da-arruma--o--contracapa--20250226--133813.jpg",
+  "fotos": [
+    "static/uploads/marie-kondo--a-m-gica-da-arruma--o--foto1--20250226--133813.jpg",
+    "static/uploads/marie-kondo--a-m-gica-da-arruma--o--foto2--20250226--133813.jpg",
+    "static/uploads/marie-kondo--a-m-gica-da-arruma--o--foto3--20250226--133813.jpg",
+    "static/uploads/marie-kondo--a-m-gica-da-arruma--o--foto4--20250226--133813.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:34:27",
+  "observacoes": null
+}

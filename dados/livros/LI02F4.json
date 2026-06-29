@@ -1,0 +1,68 @@
+{
+  "obra_id": 3645,
+  "autor": "Thomas Hardy",
+  "titulo": "Judas, o obscuro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "hardy judas obscuro",
+  "edicao_id": 3622,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 461,
+  "peso": 560,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A história acompanha Jude Fawley, um trabalhador que sonha com uma educação universitária, mas é impedido por barreiras de classe e convenções sociais, culminando em uma trajetória trágica de isolamento e desespero ao desafiar as instituições do casamento e da religião ao lado de sua prima Sue Bridehead.",
+  "exemplar_id": 3621,
+  "sku": "LI02F4",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/thomas-hardy--judas-o-obscuro--capa--20251114--184617.png",
+  "contracapa": "static/uploads/thomas-hardy--judas-o-obscuro--contracapa--20251114--184623.png",
+  "fotos": [
+    "static/uploads/thomas-hardy--judas-o-obscuro--foto1--20251113--204525.jpg",
+    "static/uploads/thomas-hardy--judas-o-obscuro--foto2--20251113--204525.jpg",
+    "static/uploads/thomas-hardy--judas-o-obscuro--foto3--20251113--204525.jpg",
+    "static/uploads/thomas-hardy--judas-o-obscuro--foto4--20251113--204525.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:56:45",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1761,
+  "autor": "Heilio Kohama",
+  "titulo": "Contabilidade pública",
+  "subtitulo": "Teoria e prática",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Contabilidade pública. Administração pública. Orçamento público.",
+  "palavras_chave": "kohama contabilidade publica teoria pratica",
+  "edicao_id": 1741,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 352,
+  "peso": 650,
+  "isbn": "9788522443024",
+  "editora": "Atlas",
+  "numero_edicao": 10,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>CONTABILIDADE PÚBLICA<br>Teoria e Prática</b><p>Diferentemente dos livros que tratam desta matéria e cuja preocupação principal concentra-se em apresentar sistemas de escrituração orçamentário, financeiro, patrimonial e de compensação, individualizadamente, este livro utiliza metodologia diversa, apresentando o assunto de forma abrangente e proporcionando visão global de todas as implicações desses atos ou fatos ocorridos em todos os sistemas. Nos textos convencionais, os atos e fatos são escriturados por meio de lançamentos, em cada sistema, isoladamente. Neste texto, a metodologia empregada permite a compreensão panorâmica: depois de cada ato ou fato contábil, há a indicação dos sistemas que estão envolvidos com os respectivos lançamentos.</p><p>Foram objeto de estudo deste livro o serviço público, a administração pública, a contabilidade pública, o orçamento público, a dívida pública e o patrimônio público.</p><p>Ao final do texto, o autor expõe um plano de contas que engloba os sistemas financeiro, patrimonial, de compensação e orçamentário. E, para confirmar seu caráter prático e objetivo, traz ainda índice por assunto dos lançamentos e exaustivo índice remissivo para facilitar o acesso à matéria de maior interesse.</p><b>NOTA SOBRE O AUTOR</b><p>HEILIO KOHAMA é graduado em Ciências Contábeis e Atuariais pela Faculdade de Ciências Econômicas, Contábeis e Atuariais Coração de Jesus pela PUC, incluindo curso intensivo de Programação Orçamentária e de extensão universitária em Administração Pública pela FGV (SP). É consultor, atuando em projetos técnicos de instituição, estruturação e reestruturação organizacional de entidades públicas e paraestatais. Exerceu atividades profissionais em órgãos da administração pública, tendo sido Diretor de Administração e Finanças do Departamento de Edifícios e Obras Públicas da Secretaria de Obras e do Meio Ambiente (SP) e técnico da Fundação do Desenvolvimento Administrativo (Fundap-SP). Foi professor titular da Universidade São Judas Tadeu e da Faculdade de Ciências Econômicas São Paulo da Fundação Álvares Penteado (SP) e atualmente leciona em cursos de formação, capacitação e treinamento de forma presencial e também utilizando o método de educação a distância (EAD) via Internet. É autor do livro Balanços públicos: teoria e prática, publicado pela Editora Atlas.</p><b>APLICAÇÃO</b><p>Livro-texto para a disciplina CONTABILIDADE PÚBLICA dos cursos de Ciências Contábeis e Administração Pública. Obra de referência e consulta profissional para militantes nas administrações federal, estaduais, municipais e autárquicas.</p>",
+  "sinopse": "Diferente de outras obras do gênero, este livro apresenta a contabilidade pública de forma abrangente, abordando os sistemas financeiro, patrimonial, de compensação e orçamentário de maneira integrada. Utiliza metodologia que facilita a compreensão global dos fatos contábeis e sua relação com diversos sistemas. O texto também estuda os principais aspectos do serviço e da administração pública, orçamento, dívida e patrimônio públicos, e ao final traz plano de contas e índices detalhados. Indicado como livro-texto para cursos e referência para profissionais em administração pública.",
+  "exemplar_id": 1740,
+  "sku": "LI00Z0",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/heilio-kohama--contabilidade-p-blica--capa--20250430--102942.jpg",
+  "contracapa": "static/uploads/heilio-kohama--contabilidade-p-blica--contracapa--20250430--102942.jpg",
+  "fotos": [
+    "static/uploads/heilio-kohama--contabilidade-p-blica--foto1--20250430--102942.jpg",
+    "static/uploads/heilio-kohama--contabilidade-p-blica--foto2--20250430--102942.jpg",
+    "static/uploads/heilio-kohama--contabilidade-p-blica--foto3--20250430--102942.jpg",
+    "static/uploads/heilio-kohama--contabilidade-p-blica--foto4--20250430--102942.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:03:38",
+  "observacoes": "procedencia_biblioteca"
+}

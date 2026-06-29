@@ -1,0 +1,63 @@
+{
+  "obra_id": 2901,
+  "autor": "Tom Campbell",
+  "titulo": "Seven theories of human society",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "campbell seven theories human",
+  "edicao_id": 2881,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 244,
+  "peso": 300,
+  "isbn": "9780198761051",
+  "editora": "Clarendon Press Oxford",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "As ciências sociais abrangem uma vasta gama de teorias que influenciam áreas como sociologia, política, economia, direito, psicologia e história. O livro apresenta sete teorias contrastantes, destacando a estrutura lógica e as implicações práticas de cada uma. A obra explora desde o pensamento de Aristóteles e Hobbes até teorias modernas de Marx, Durkheim e Weber, oferecendo uma visão clara das mudanças sociais e como elas moldaram essas teorias.",
+  "exemplar_id": 2880,
+  "sku": "LI01UL",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/seven-theories-of-human-society-tom-campbell-capa_rev2110.jpg",
+  "contracapa": "static/uploads/seven-theories-of-human-society-tom-campbell-contracapa_rev873.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto com marcações à lápis em cerca de 30 a 40 por cento das folhas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:18:24",
+  "observacoes": null
+}

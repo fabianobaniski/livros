@@ -1,0 +1,63 @@
+{
+  "obra_id": 757,
+  "autor": "Charles R. Swindoll",
+  "titulo": "Elias",
+  "subtitulo": "Um homem de heroísmo e humildade",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura Estrangeira. Religião. Profetas.",
+  "palavras_chave": "swindoll elias homem heroismo humildade",
+  "edicao_id": 742,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 201,
+  "peso": 300,
+  "isbn": "9788573252521",
+  "editora": "Mundo Cristão",
+  "numero_edicao": 1,
+  "ano": 2001,
+  "serie": "Heróis da Fé",
+  "volume": 5,
+  "transcricao_contracapa": "<h1>Antes de \"Homem de Deus\", um Homem</h1><p>Sem títulos. Sem formação requintada. Sem prestígio social. O profeta Elias era rude e oriundo de uma cidadezinha perdida no mapa do Oriente. Um anônimo em meio a uma sociedade orgulhosa, opressora e idólatra, Elias poderia ter encarnado a fórmula da obscuridade. Afinal, quem daria crédito a alguém que personificasse essa descrição? Talvez ninguém.</p><p>No entanto, Charles Swindoll prova que as coisas podem ser diferentes quando tal pessoa é porta-voz de uma promessa. Principalmente se essa promessa provier de ninguém menos que o próprio Deus.</p><p>É nesse cenário bíblico que Elias aparece pela primeira vez. E é aqui que se inicia a saga desse grande profeta de Deus. Sozinho, ele enfrentou mais de 400 profetas do falso deus Baal... e ganhou. No entanto, paradoxalmente, deixou-se intimidar por uma mulher e fugiu para preservar sua vida. O que teria levado esse homem tão próximo de Deus a esconder-se depois de um feito tão espetacular?</p><p>Elias: Um Homem de Heroísmo e Humildade é o quinto volume da série Heróis da Fé - que já conta com Davi, Ester, José e Moisés. Elias relata de um lado a coragem do profeta de Deus ao enfrentar um povo corrompido pela impiedade e, de outro, a humildade do servo que se submete a seu Senhor, independentemente das circunstâncias.</p>",
+  "sinopse": "O livro 'Elias' explora a vida do profeta, um homem remoto e sem prestígio, que se transforma em um porta-voz de Deus. Enfrentando desafios imensos, incluindo 400 profetas de Baal, Elias demonstra coragem e, ao mesmo tempo, vulnerabilidade, fugindo de uma mulher que o intimida. Esta obra é o quinto volume da série 'Heróis da Fé', que destaca a dualidade da coragem e humildade do profeta.",
+  "exemplar_id": 741,
+  "sku": "LI00K0",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 33.0,
+  "capa": "static/uploads/charles-r--swindoll--elias--capa--20250227--152902.jpg",
+  "contracapa": "static/uploads/charles-r--swindoll--elias--contracapa--20250227--152902.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:07:47",
+  "observacoes": null
+}

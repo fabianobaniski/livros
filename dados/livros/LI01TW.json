@@ -1,0 +1,63 @@
+{
+  "obra_id": 2876,
+  "autor": "André Fontes; Joyce Alves Rocha",
+  "titulo": "Quilombolas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Brasil",
+  "temas": "",
+  "palavras_chave": "andre fontes quilombolas",
+  "edicao_id": 2856,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 488,
+  "peso": 400,
+  "isbn": "9788562108075",
+  "editora": "Trf 2ª Região",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Aborda os direitos e lutas das comunidades quilombolas no Brasil, explorando desde o critério de autoidentificação até a titularidade coletiva de terras. Ele analisa o contexto histórico e jurídico dessas populações, destacando questões de demarcação de terras, educação diferenciada e proteção ambiental. Com base no pensamento decolonial e nos desafios contemporâneos, a obra também discute a judicialização dos direitos quilombolas, a promoção da igualdade racial e os processos de resistência social, oferecendo uma visão ampla e crítica sobre a luta por território e identidade.",
+  "exemplar_id": 2855,
+  "sku": "LI01TW",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/quilombolas-andre-fontes-capa_rev800.jpg",
+  "contracapa": "static/uploads/quilombolas-andre-fontes-contracapa_rev1802.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado, sem qualquer dano na capa, lombada ou contracapa. Miolo impecável. Texto livre de anotações e sublinhados. Também não constam carimbo, selo e assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:26:21",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1766,
+  "autor": "Edivaldo M. Boaventura",
+  "titulo": "Metodologia da pesquisa",
+  "subtitulo": "Monografia, dissertação, tese",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Metodologia científica. Pesquisa acadêmica. Elaboração de monografias. dissertações e teses.",
+  "palavras_chave": "boaventura metodologia pesquisa monografia dissertacao tese",
+  "edicao_id": 1746,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 160,
+  "peso": 350,
+  "isbn": "9788522436972",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>METODOLOGIA DA PESQUISA</b><br><b>Monografia – Dissertação – Tese</b><p>Esta obra resulta da experiência do autor no ensino da disciplina Metodologia da Pesquisa em universidades baianas e da aprendizagem da investigação científica nos cursos de mestrado e doutorado na Pennsylvania State University (EUA).</p><p>Como um manual para elaboração de projetos e relatórios de pesquisas, enfatiza três elementos fundamentais na proposta de dissertação e tese: definição do problema, fundamentação teórica e metodologia.</p><p>O livro foi planejado em três partes. Na primeira, enfoca a proposta da dissertação, centrada na definição do problema, revisão da literatura e procedimentos metodológicos. Na segunda, o processo da pesquisa discute algumas metodologias mais usuais, como a bibliografia, documental, método histórico e estudo de caso. Na última, fecha-se o ciclo do processo investigativo com o relatório da monografia, dissertação ou tese, quando se discute o plano da dissertação e sua redação.</p><b>APLICAÇÃO</b><p>Livro-texto para as disciplinas METODOLOGIA DA PESQUISA, METODOLOGIA DO TRABALHO CIENTÍFICO e PROJETO DE PESQUISA dos cursos de graduação (bacharelado/licenciatura) e de pós-graduação (especialização, mestrado e doutorado) em Administração, Comunicação, Ciências Contábeis, Direito, Economia e Educação.</p>",
+  "sinopse": "Esta obra apresenta a experiência do autor no ensino de Metodologia da Pesquisa, abrangendo desde a definição do problema até a redação final de monografias, dissertações e teses. Estruturado em três partes, o livro aborda os fundamentos teóricos, metodologias de pesquisa como bibliografia, documental e estudo de caso, e orienta a preparação de relatórios acadêmicos. Indicado para disciplinas relacionadas à metodologia científica em cursos de graduação e pós-graduação das áreas de Administração, Comunicação, Ciências Contábeis, Direito, Economia e Educação.",
+  "exemplar_id": 1745,
+  "sku": "LI00Z5",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--capa--20250430--102943.jpg",
+  "contracapa": "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--contracapa--20250430--102943.jpg",
+  "fotos": [
+    "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--foto1--20250430--102943.jpg",
+    "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--foto2--20250430--102943.jpg",
+    "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--foto3--20250430--102943.jpg",
+    "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--foto4--20250430--102943.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:51:19",
+  "observacoes": "procedencia_biblioteca"
+}

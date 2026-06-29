@@ -1,0 +1,63 @@
+{
+  "obra_id": 3180,
+  "autor": "Roberto Mosquera; Claudia Pires; Outros",
+  "titulo": "A Jornada ágil",
+  "subtitulo": "um Caminho para a Inovação",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": null,
+  "palavras_chave": "mosquera jornada agil caminho",
+  "edicao_id": 3160,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 356,
+  "peso": 600,
+  "isbn": "9786556950396",
+  "editora": "Dvs",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Em um mundo cada vez mais ágil e exigente, as empresas precisam inovar continuamente para atender às demandas de clientes bem informados e manter-se competitivas. Este livro explora como adotar a mentalidade ágil, indo além da capacitação técnica, ao abordar práticas que transformam equipes e organizações. Com ferramentas práticas e estratégias ajustadas à realidade de cada negócio, a obra guia líderes e equipes em uma jornada de adaptação, inovação e entrega de valor...",
+  "exemplar_id": 3159,
+  "sku": "LI022C",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso e da passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:29:11",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

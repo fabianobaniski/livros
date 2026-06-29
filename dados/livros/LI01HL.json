@@ -1,0 +1,63 @@
+{
+  "obra_id": 2432,
+  "autor": "Jacques Chastenet",
+  "titulo": "Churchill y la Inglaterra del siglo XX",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "chastenet churchill inglaterra del",
+  "edicao_id": 2412,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 399,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Ariel",
+  "numero_edicao": null,
+  "ano": 1957,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A Inglaterra, apesar de ser um pequeno país com apenas 42.000 km², desempenhou um papel decisivo na política mundial do século XX. A obra reflete sobre como, mesmo com seu tamanho reduzido, o país manteve influência devido à sua flexibilidade política e uma tradição de equilíbrio entre os partidos conservadores e trabalhistas. A sociedade britânica, liderada por figuras como Churchill, é analisada como exemplo de uma nação que soube adaptar-se às mudanças sociais e políticas, mantendo-se relevante em um cenário global marcado por conflitos e transformações.",
+  "exemplar_id": 2411,
+  "sku": "LI01HL",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/jacques-chastenet--churchill-y-la-inglaterra-del-siglo-xx--capa--20260316--184744.jpg",
+  "contracapa": "static/uploads/jacques-chastenet--churchill-y-la-inglaterra-del-siglo-xx--contracapa--20260316--184744.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:33:29",
+  "observacoes": null
+}

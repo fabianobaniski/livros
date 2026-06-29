@@ -1,0 +1,68 @@
+{
+  "obra_id": 3485,
+  "autor": "Hajime Isayama; Ryo Suzukaze; Satoshi Shiki; Thores Shibamoto",
+  "titulo": "Ataque dos Titãs",
+  "subtitulo": "Antes da queda",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Ação.",
+  "palavras_chave": "isayama ataque titas antes queda",
+  "edicao_id": 3462,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 203,
+  "peso": 200,
+  "isbn": "9788542602821",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3461,
+  "sku": "LI02AO",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/ataque-dos-titas__antes-da-queda__hajime-isayama-ryo-suzukaze-satoshi-shiki-thores-shibamoto__capa__2025-11-05_16-15-50-560273.jpg",
+  "contracapa": "static/uploads/ataque-dos-titas__antes-da-queda__hajime-isayama-ryo-suzukaze-satoshi-shiki-thores-shibamoto__contracapa__2025-11-05_16-15-50-598025.jpg",
+  "fotos": [
+    "static/uploads/ataque-dos-titas__antes-da-queda__hajime-isayama-ryo-suzukaze-satoshi-shiki-thores-shibamoto__foto-01__2025-11-05_16-15-50-630665.jpg",
+    "static/uploads/ataque-dos-titas__antes-da-queda__hajime-isayama-ryo-suzukaze-satoshi-shiki-thores-shibamoto__foto-02__2025-11-05_16-15-50-660246.jpg",
+    "static/uploads/ataque-dos-titas__antes-da-queda__hajime-isayama-ryo-suzukaze-satoshi-shiki-thores-shibamoto__foto-03__2025-11-05_16-15-50-676044.jpg",
+    "static/uploads/ataque-dos-titas__antes-da-queda__hajime-isayama-ryo-suzukaze-satoshi-shiki-thores-shibamoto__foto-04__2025-11-05_16-15-50-694586.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:22:38",
+  "observacoes": null
+}

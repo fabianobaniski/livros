@@ -1,0 +1,63 @@
+{
+  "obra_id": 2924,
+  "autor": "Elsie Rutledge",
+  "titulo": "Teosofia para principiantes",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "rutledge teosofia para principiantes",
+  "edicao_id": 2904,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 68,
+  "peso": 160,
+  "isbn": "",
+  "editora": "Não identificada",
+  "numero_edicao": 0,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2903,
+  "sku": "LI01V8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/teosofia-para-principiantes-elsie-rutledge-capa_rev501.jpg",
+  "contracapa": "static/uploads/teosofia-para-principiantes-elsie-rutledge-contracapa_rev1421.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livreto marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:05:35",
+  "observacoes": null
+}

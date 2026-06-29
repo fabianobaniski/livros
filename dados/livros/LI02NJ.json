@@ -1,0 +1,63 @@
+{
+  "obra_id": 4893,
+  "autor": "Haruichi Furudate",
+  "titulo": "Haikyu!!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Esportes. Voleibol. Competitividade.",
+  "palavras_chave": "furudate haikyuu",
+  "edicao_id": 4868,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 380,
+  "peso": 420,
+  "isbn": "9786555945874",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2024,
+  "serie": "",
+  "volume": 11,
+  "transcricao_contracapa": "",
+  "sinopse": "Shoyo Hinata, inspirado por um ídolo apelidado de 'Pequeno Gigante', decide jogar vôlei apesar de sua baixa estatura. Ao entrar no Colégio Karasuno, ele descobre que terá de unir forças com seu maior rival das quadras, o talentoso e arrogante levantador Tobio Kageyama. Juntos, essa dupla improvável tenta reviver a glória de sua escola e alcançar o topo do campeonato nacional, provando que, no vôlei, o que importa não é a altura, mas a determinação de quem se recusa a deixar a bola cair.",
+  "exemplar_id": 4867,
+  "sku": "LI02NJ",
+  "preco_estante_virtual": 48.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/haikyuu__haruichi-furudate__capa__2026-02-20_10-31-02-601417-000.png",
+  "contracapa": "static/uploads/haikyuu__haruichi-furudate__contracapa__2026-02-20_10-31-02-811079-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá seminovo! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

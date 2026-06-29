@@ -1,0 +1,63 @@
+{
+  "obra_id": 5225,
+  "autor": "Shunsuke Ogata; Makoto Kedouin",
+  "titulo": "Corpse party",
+  "subtitulo": "Another child",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Suspense. Terror.",
+  "palavras_chave": "ogata corpse party another child",
+  "edicao_id": 5200,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 220,
+  "isbn": "9788583620990",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "Corpse Party",
+  "volume": 3,
+  "transcricao_contracapa": "<p>O Colégio Satsukiyama está prestes a fechar suas portas e cada um de seus alunos seguirá para lados diferentes na vida. Tamaki Minase decide permanecer na cidade e conseguir um emprego, para ela, talvez seja a última chance de ver Yuuma Shindou, por quem é apaixonada, já que ele vai se mudar para uma cidade vizinha. Ela então pede a ele que faça uma simpatia para ajudar pessoas que vão se separar e se encontrar novamente apesar da distância. Mas sua colega de classe, Erina Yuzuki, ouve a conversa e, por ciúmes, decide estragar os planos dela convidando toda a classe para participar da simpatia.</p> <p>Mas assim que a simpatia é feita, o chão se abre ao meio engolindo todos. Ao acordarem eles se veem em uma escola antiga. Incapazes de sair, eles vagam pelos corredores, tentando descobrir o que está acontecendo. Mas o prédio não está tão abandonado quanto pensavam, pois há algo maligno espreitando nas sombras.</p>",
+  "sinopse": "O Colégio Satsukiyama está prestes a fechar, separando seus alunos. Tamaki Minase vê nisso uma última chance de reencontrar Yuuma Shindou, mas a simpatia feita para ajudá-los dá errado, e eles acordam presos em uma escola antiga e maligna.",
+  "exemplar_id": 5199,
+  "sku": "LI02WH",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/corpse-party__another-child__shunsuke-ogata-makoto-kedouin__capa__2026-02-20_10-32-45-080996-000.png",
+  "contracapa": "static/uploads/corpse-party__another-child__shunsuke-ogata-makoto-kedouin__contracapa__2026-02-20_10-32-45-118541-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

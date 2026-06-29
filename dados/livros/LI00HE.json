@@ -1,0 +1,63 @@
+{
+  "obra_id": 663,
+  "autor": "Franklin Ferreira",
+  "titulo": "Pilares da fé",
+  "subtitulo": "A atualidade da mensagem da Reforma",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Reforma Protestante.",
+  "palavras_chave": "ferreira pilares fe",
+  "edicao_id": 648,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 208,
+  "peso": 300,
+  "isbn": "9788527507363",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta obra apresenta os temas mais importantes que foram redescobertos pela Reforma protestante do século 16: <b>Sola Scriptura</b>, <b>Solus Christus</b>, <b>Sola Gratia</b>, <b>Sola Fide</b> e <b>Solideo Gloria</b>.</p><p>• Deus se revela de forma salvífica somente na <b>Escritura Sagrada</b>,<br>• pecadores são redimidos somente pela morte de Jesus Cristo na cruz,<br>• somente por meio da graça,<br>• uma dádiva recebida somente pela fé<br>• e tudo para a glória de Deus soment.</p><p>Em Pilares da fé, cada um dos cinco <b>solas</b> é desenvolvido com base no ensino das Escrituras Sagradas, dialogando com os principais reformadores da época — Martinho Lutero e João Calvino — e com as principais confissões de fé e catecismos das tradições luterana e reformada surgidas no mesmo período, as quais resumem o ensino dos reformadores.</p><p>Essas afirmações também são relacionadas com as situações e desafios que a igreja cristã enfrenta na atualidade, afirmando pelo estudo delas a necessidade de recuperar e restaurar o uso do vocábulo <b>“evangélico”</b>, tão caro à Reforma protestante, mas tão desgastado: <b>“evangélico”</b> é todo aquele que é conformado às boas-novas de Jesus Cristo, conforme reveladas nas Escrituras e conforme redescobertas e afirmadas pelos reformadores.</p>",
+  "sinopse": "Pilares da Fé explora a atualidade da mensagem da Reforma, apresentando os cinco fundamentos da fé cristã redescobertos durante o século 16. Cada um dos <b>solas</b> é analisado com base nas Escrituras Sagradas, discutindo os ensinamentos de Martinho Lutero e João Calvino. O livro também aborda os desafios contemporâneos enfrentados pela igreja, ressaltando a importância de um retorno aos princípios evangélicos.",
+  "exemplar_id": 647,
+  "sku": "LI00HE",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/franklin-ferreira--pilares-da-f---capa--20250227--152856.jpg",
+  "contracapa": "static/uploads/franklin-ferreira--pilares-da-f---contracapa--20250227--152856.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Algumas páginas grifadas com caneta destaca-texto. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:04:12",
+  "observacoes": null
+}

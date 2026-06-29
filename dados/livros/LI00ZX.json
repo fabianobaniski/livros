@@ -1,0 +1,68 @@
+{
+  "obra_id": 1794,
+  "autor": "Maria Inês Caserta Scatena",
+  "titulo": "Ferramentas para a moderna gestão empresarial",
+  "subtitulo": "teoria, implementação e prática",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Gestão empresarial. Modelos organizacionais.",
+  "palavras_chave": "scatena ferramentas para moderna gestao empresarial",
+  "edicao_id": 1774,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 241,
+  "peso": 410,
+  "isbn": "9788578387952",
+  "editora": "Ibpex",
+  "numero_edicao": 2,
+  "ano": 2011,
+  "serie": "Administração estratégica",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro aborda as principais teorias da administração geral, sugerindo caminhos para a implantação de um modelo de gestão organizacional descomplicado e de fácil assimilação.</p> <p>Voltado a empreendedores e estudantes de áreas afins – que pretendam trabalhar como analistas, gestores, consultores, gerentes ou empresários –, apresenta tópicos imprescindíveis para a compreensão das premissas que envolvem o desenvolvimento de uma empresa desde sua abertura.</p>",
+  "sinopse": "O livro apresenta as principais teorias da administração geral e propõe caminhos para a implementação de um modelo de gestão organizacional simples e de fácil assimilação. Destinado a empreendedores e estudantes que desejam atuar como analistas, gestores, consultores, gerentes ou empresários, aborda tópicos essenciais para o entendimento das premissas do desenvolvimento empresarial desde a sua fundação.",
+  "exemplar_id": 1773,
+  "sku": "LI00ZX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maria-in-s-caserta-scatena--ferramentas-para-a-moderna-gest-o-empresarial--capa--20250430--102948.jpg",
+  "contracapa": "static/uploads/maria-in-s-caserta-scatena--ferramentas-para-a-moderna-gest-o-empresarial--contracapa--20250430--102948.jpg",
+  "fotos": [
+    "static/uploads/maria-in-s-caserta-scatena--ferramentas-para-a-moderna-gest-o-empresarial--foto1--20250430--102948.jpg",
+    "static/uploads/maria-in-s-caserta-scatena--ferramentas-para-a-moderna-gest-o-empresarial--foto2--20250430--102948.jpg",
+    "static/uploads/maria-in-s-caserta-scatena--ferramentas-para-a-moderna-gest-o-empresarial--foto3--20250430--102948.jpg",
+    "static/uploads/maria-in-s-caserta-scatena--ferramentas-para-a-moderna-gest-o-empresarial--foto4--20250430--102948.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:01:51",
+  "observacoes": "procedencia_biblioteca"
+}

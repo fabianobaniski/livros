@@ -1,0 +1,68 @@
+{
+  "obra_id": 1490,
+  "autor": "Vera Santos",
+  "titulo": "Sintonia com Jesus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Fé. Confiança.",
+  "palavras_chave": "santos sintonia jesus",
+  "edicao_id": 1471,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 383,
+  "peso": 450,
+  "isbn": "9788574594309",
+  "editora": "A. D. Santos",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As meditações que você tem em mãos são resultado de anos de comunicação de Vera Santos com seus ouvintes.</p><p>Os textos são diretos, práticos e falam de situações vivenciadas por todos nós, por isso, tocará a sua vida e ajudarão a crescer na confiança no Deus vivo.</p><p>Ajudarão a entender que as provas existem para nos aperfeiçoar e que em meios às tempestades, o Senhor está conosco, nos estendendo as mãos e amparando-nos para vencermos e superarmos todos os obstáculos.</p><p>Resultado de mais de 20 anos de programas de rádio e televisão, a autora nos presenteia com mensagens diárias que certamente tocarão corações e edificarão vidas.</p>",
+  "sinopse": "As meditações de Vera Santos oferecem reflexões diárias que tocam o coração, ajudando as pessoas a confiarem em Deus e a enfrentarem desafios com esperança. Com base em uma experiência de mais de 20 anos em comunicação, as mensagens são práticas e diretamente relacionadas às vivências diárias, promovendo um crescimento na fé e superação das dificuldades.",
+  "exemplar_id": 1470,
+  "sku": "LI00W3",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/vera-santos--sintonia-com-jesus--capa--20250401--115739.jpg",
+  "contracapa": "static/uploads/vera-santos--sintonia-com-jesus--contracapa--20250401--115739.jpg",
+  "fotos": [
+    "static/uploads/vera-santos--sintonia-com-jesus--foto1--20250401--115739.jpg",
+    "static/uploads/vera-santos--sintonia-com-jesus--foto2--20250401--115739.jpg",
+    "static/uploads/vera-santos--sintonia-com-jesus--foto3--20250401--115739.jpg",
+    "static/uploads/vera-santos--sintonia-com-jesus--foto4--20250401--115739.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Com dedicatória na primeira folha. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:26:41",
+  "observacoes": null
+}

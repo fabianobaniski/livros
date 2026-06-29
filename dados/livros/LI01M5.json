@@ -1,0 +1,63 @@
+{
+  "obra_id": 2597,
+  "autor": "Cáceres Monteiro",
+  "titulo": "Hotel Babilónia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "monteiro hotel babilonia",
+  "edicao_id": 2577,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 579,
+  "peso": 1221,
+  "isbn": "9789722223249",
+  "editora": "Verbo",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2576,
+  "sku": "LI01M5",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/caceres-monteiro--hotel-babilonia--capa--20260316--212510.jpg",
+  "contracapa": "static/uploads/caceres-monteiro--hotel-babilonia--contracapa--20260316--212510.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso.  / Hotel Babilónia é o resultado de uma reflexão madura de Carlos Cáceres Monteiro e um percurso fragmentário da História contemporânea, no qual constam a crueza da estrada para várias guerras, o caminho do terror, o sonho e o pesadelo americanos, o colapso do comunismo, as mudanças aceleradas e surpreendentes da Ásia, os ícones e mitos da América Latina ou as últimas marcas do Império Português - desde Goa, a Timor, Macau, Angola, Moçambique ou Guiné. É este mundo multifacetado - e as suas várias hipocrisias - que nos descreve o autor neste livro-testemunho que faz a história de um tempo perturbado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:13:23",
+  "observacoes": null
+}

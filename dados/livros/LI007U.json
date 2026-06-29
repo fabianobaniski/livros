@@ -1,0 +1,68 @@
+{
+  "obra_id": 307,
+  "autor": "Robson S. Oliveira",
+  "titulo": "Missões na África",
+  "subtitulo": "O Brasil e a sua geração missionária",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Missões. Intervenção divina.",
+  "palavras_chave": "oliveira missoes africa",
+  "edicao_id": 299,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 222,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Não identificada",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Uma história de constantes intervenções de Deus, de amor a missões, abnegação e muito trabalho. “Atos dos Apóstolos” continua tão real hoje, como nos dias antigos.</p> <p>Outras Obras do Autor:</p> <p><b>Índia A Fronteira do Sonho</b><br>Neste livro fica explícito que “tudo posso naquele que me fortalece”, que toda fortificação milenar, dominada pelo império das trevas, pode cair aos pés de Jesus. Realmente, não há portas fechadas e o inferno não pode deter o avanço da Igreja. Ao ler este livro você será estimulado a glorificar a Deus e saberá que missões, aos povos não evangelizados, vale qualquer sacrifício.</p> <p><b>Índia Uma Nação a Ser Redimida</b><br>Um empolgante documentário de 50 minutos, onde viajaremos pelas grandes cidades de uma época com 33 milhões de habitantes de uma bilhão de almas. Viajaríamos também pelas cidades perseguidas, lugares pobres como Ganches, o Taj-Mahal (uma das sete maravilhas do mundo) e demais influências que temos em nós apresentados.</p>",
+  "sinopse": "Missões na África narra uma história de constantes intervenções de Deus, abordando temas como amor às missões e abnegação. O autor reflete sobre como os 'Atos dos Apóstolos' permanecem reais, convidando os leitores a se dedicarem a missões, especialmente entre povos não evangelizados.",
+  "exemplar_id": 298,
+  "sku": "LI007U",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/robson-s--oliveira--miss-es-na--frica--capa--20250226--133817.jpg",
+  "contracapa": "static/uploads/robson-s--oliveira--miss-es-na--frica--contracapa--20250226--133817.jpg",
+  "fotos": [
+    "static/uploads/robson-s--oliveira--miss-es-na--frica--foto1--20250226--133817.jpg",
+    "static/uploads/robson-s--oliveira--miss-es-na--frica--foto2--20250226--133817.jpg",
+    "static/uploads/robson-s--oliveira--miss-es-na--frica--foto3--20250226--133817.jpg",
+    "static/uploads/robson-s--oliveira--miss-es-na--frica--foto4--20250226--133818.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Possui assinatura de ex-dono na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:45:21",
+  "observacoes": null
+}

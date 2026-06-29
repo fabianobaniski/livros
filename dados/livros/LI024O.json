@@ -1,0 +1,68 @@
+{
+  "obra_id": 3266,
+  "autor": "Titekubo",
+  "titulo": "Bleach",
+  "subtitulo": "The blood warfare",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Manga. Ação. Fantasia. Batalhas sobrenaturais.",
+  "palavras_chave": "titekubo bleach blood warfare",
+  "edicao_id": 3246,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "7897653511440",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": 55,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3245,
+  "sku": "LI024O",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 85.0,
+  "capa": "static/uploads/bleach__the-blood-warfare__titekubo__capa__2025-11-05_16-24-44-760896.jpg",
+  "contracapa": "static/uploads/bleach__the-blood-warfare__titekubo__contracapa__2025-11-05_16-24-44-794805.jpg",
+  "fotos": [
+    "static/uploads/bleach__the-blood-warfare__titekubo__foto-01__2025-11-05_16-24-44-828594.jpg",
+    "static/uploads/bleach__the-blood-warfare__titekubo__foto-02__2025-11-05_16-24-44-853776.jpg",
+    "static/uploads/bleach__the-blood-warfare__titekubo__foto-03__2025-11-05_16-24-44-875883.jpg",
+    "static/uploads/bleach__the-blood-warfare__titekubo__foto-04__2025-11-05_16-24-44-901367.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:50:20",
+  "observacoes": null
+}

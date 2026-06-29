@@ -1,0 +1,63 @@
+{
+  "obra_id": 4706,
+  "autor": "Tadahiro Miura",
+  "titulo": "Yuuna e a pensão assombrada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance. Sobrenatural.",
+  "palavras_chave": "miura yuuna pensao assombrada",
+  "edicao_id": 4681,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 186,
+  "peso": 210,
+  "isbn": "9786559602148",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 17,
+  "transcricao_contracapa": "<p>Quer dizer que... estou vivenciando um futuro em que eu e o Fuyuzora estamos juntos?!</p> <p>As meninas estão ansiosas para se aproximarem de Kogarashi durante a viagem escolar, mas, querendo evitar as confusões que sempre acontecem ao seu redor, ele mesmo decide se distanciar delas... Até que, graças à técnica da vidente Ryuzen, Chisaki começa a vivenciar um sonho que mostra um futuro em que ela e Kogarashi estão juntos...!!</p>",
+  "sinopse": "Durante uma viagem escolar, Kogarashi tenta evitar confusões afastando-se das meninas. No entanto, Chisaki começa a vivenciar sonhos de um futuro em que está ao lado de Kogarashi, graças à técnica de uma vidente.",
+  "exemplar_id": 4680,
+  "sku": "LI02IC",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 21.0,
+  "capa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__capa__2026-02-20_10-30-12-900351-000.png",
+  "contracapa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__contracapa__2026-02-20_10-30-12-946200-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com sobrecapa e capas sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

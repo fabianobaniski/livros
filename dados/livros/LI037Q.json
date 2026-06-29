@@ -1,0 +1,68 @@
+{
+  "obra_id": 5853,
+  "autor": "Brian Kibuuka",
+  "titulo": "Gênesis",
+  "subtitulo": "Estudo da Torá",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Pentateuco. Estudos bíblicos. Judaísmo. Cristianismo.",
+  "palavras_chave": "genesis estudo tora",
+  "edicao_id": 5828,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 450,
+  "peso": 670,
+  "isbn": "9786559965670",
+  "editora": "Penkall",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Explorando as raízes da fé: um guia de comentário bíblico para o Pentateuco\"</p> <p>Esta obra é um convite para uma jornada de descoberta das raízes da fé judaico-cristã por meio da exploração do Pentateuco. Comentários detalhados sobre cada livro (Gênesis, Êxodo, Levítico, Números e Deuteronômio) ajudam o leitor a entender o contexto histórico, cultural e teológico que moldou a revelação divina na Bíblia.</p> <p>O teólogo Brian Kibuuka a cada capítulo faz análises de passagens do Pentateuco, bem como aplicação em nossa vida diária. Descubra a profundidade e a riqueza das Escrituras e como elas ainda são relevantes para nós hoje.</p> <p>Este livro é uma ferramenta essencial para estudiosos, pastores, líderes religiosos e qualquer pessoa que deseje aprofundar seu conhecimento e compreensão da Palavra de Deus. Venha se juntar a nós nesta jornada de exploração e descoberta do Pentateuco.</p>",
+  "sinopse": "Este livro é um guia que convida o leitor a explorar as raízes da fé judaico-cristã por meio do estudo detalhado do Pentateuco, abrangendo os livros de Gênesis, Êxodo, Levítico, Números e Deuteronômio. Com comentários do teólogo Brian Kibuuka, cada capítulo apresenta análises históricas, culturais e teológicas, além de aplicações práticas para a vida diária. Essencial para estudiosos, pastores e todos que desejam aprofundar seu entendimento das Escrituras, a obra busca mostrar a relevância e profundidade do texto bíblico até os dias atuais.",
+  "exemplar_id": 5827,
+  "sku": "LI037Q",
+  "preco_estante_virtual": 110.0,
+  "preco_amazon": 110.0,
+  "capa": "static/uploads/genesis__estudo-da-tora__brian-kibuuka__capa__2026-01-18_14-12-19-610032-000.png",
+  "contracapa": "static/uploads/genesis__estudo-da-tora__brian-kibuuka__contracapa__2026-01-18_14-12-19-835216-001.png",
+  "fotos": [
+    "static/uploads/genesis__estudo-da-tora__brian-kibuuka__foto-01__2026-01-18_14-12-19-876350-002.jpg",
+    "static/uploads/genesis__estudo-da-tora__brian-kibuuka__foto-02__2026-01-18_14-12-19-918852-003.jpg",
+    "static/uploads/genesis__estudo-da-tora__brian-kibuuka__foto-03__2026-01-18_14-12-19-955363-004.jpg",
+    "static/uploads/genesis__estudo-da-tora__brian-kibuuka__foto-04__2026-01-18_14-12-19-986871-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:42:31",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2808,
+  "autor": "Leon Pomer",
+  "titulo": "O surgimento das nações",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "pomer surgimento das nacoes",
+  "edicao_id": 2788,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 92,
+  "peso": 150,
+  "isbn": "9788570565419",
+  "editora": "Atual",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2787,
+  "sku": "LI01S0",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-surgimento-das-nacoes-leon-pomer-capa_rev1366.jpg",
+  "contracapa": "static/uploads/o-surgimento-das-nacoes-leon-pomer-contracapa_rev1327.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, seminovo. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Ilustrações em preto e branco. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:45:04",
+  "observacoes": null
+}

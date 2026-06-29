@@ -1,0 +1,63 @@
+{
+  "obra_id": 466,
+  "autor": "Israel Belo de Azevedo",
+  "titulo": "Os Dez Mandamentos",
+  "subtitulo": "Atitudes que transformam nossas vidas",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade.",
+  "palavras_chave": "azevedo os dez mandamentos atitudes",
+  "edicao_id": 451,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 254,
+  "peso": 350,
+  "isbn": "9788524305191",
+  "editora": "United Press",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Muitos livros já foram escritos sobre os Dez Mandamentos. Uns se concentram nos aspectos morais do Decálogo. Outros dão ênfase a questões espirituais. Os dez mandamentos nos dias de hoje: atitudes que transformam nossas vidas vai além ao aplicar a sabedoria milenar ao nosso cotidiano. Um dos pontos altos, por exemplo, é o capítulo sobre a corrupção do Brasil.</p><p>Em seu prefácio, o juiz federal William Douglas acha que a obra, útil e abrangente, veio em boa hora. \"O texto é poderoso, libertador e extraordinário\", ao tirar lições para a vida profissional. \"A obra fala de uma espiritualidade que vai além da religião, e alcança casas, clubes, organizações e empresas\".</p>",
+  "sinopse": "Os Dez Mandamentos nos dias de hoje aborda atitudes que transformam nossas vidas, aplicando sabedoria milenar ao cotidiano, incluindo um capítulo sobre a corrupção no Brasil. Com prefácio do juiz William Douglas, a obra é elogiada por sua utilidade e abrangência, trazendo importantes lições para a vida profissional.",
+  "exemplar_id": 450,
+  "sku": "LI00BX",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/israel-belo-de-azevedo--os-dez-mandamentos--capa--20250227--111544.jpg",
+  "contracapa": "static/uploads/israel-belo-de-azevedo--os-dez-mandamentos--contracapa--20250227--111544.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta carimbo de livraria na parte interna da capa e primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:11:11",
+  "observacoes": null
+}

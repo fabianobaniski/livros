@@ -1,0 +1,68 @@
+{
+  "obra_id": 3276,
+  "autor": "Hiro Mashima",
+  "titulo": "EdensZero",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Ficção científica. Aventura espacial. Amizade.",
+  "palavras_chave": "mashima edenszero",
+  "edicao_id": 3256,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 210,
+  "isbn": "9788545709701",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Quando o acaso vira o inevitável, isso se torna o Destino... Shiki Granbell, um garoto que morava no Reino de Granbell junto com robôs chamados <i>bots</i>, tem um encontro inusitado com os primeiros visitantes em 100 anos em seu planeta: a criadora de conteúdo Rebecca e o gato azul Happy. Os três logo se entendem e ficam amigos... Esse pequeno encontro irá mudar o futuro do trio!! Este é o começo da grande aventura espacial fantástica de Shiki, Rebecca e Happy!!</p><p><b>EDENS ZERO</b> é o novo mangá de sucesso de Hiro Mashima, autor de Fairy Tail.</p>",
+  "sinopse": "Shiki Granbell vivia no Reino de Granbell ao lado de robôs chamados bots, até encontrar Rebecca, uma criadora de conteúdo, e o gato azul Happy, os primeiros visitantes em cem anos. A inesperada amizade entre eles marca o início de uma grande aventura espacial que mudará o destino do trio. Edens Zero apresenta a jornada fantástica desses personagens e é o novo mangá de sucesso de Hiro Mashima, autor de Fairy Tail.",
+  "exemplar_id": 3255,
+  "sku": "LI024Y",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/edens-zero__hiro-mashima__capa__2025-11-05_16-24-46-823536.jpg",
+  "contracapa": "static/uploads/edens-zero__hiro-mashima__contracapa__2025-11-05_16-24-46-857586.jpg",
+  "fotos": [
+    "static/uploads/edens-zero__hiro-mashima__foto-01__2025-11-05_16-24-46-878526.jpg",
+    "static/uploads/edens-zero__hiro-mashima__foto-02__2025-11-05_16-24-46-913157.jpg",
+    "static/uploads/edens-zero__hiro-mashima__foto-03__2025-11-05_16-24-46-940249.jpg",
+    "static/uploads/edens-zero__hiro-mashima__foto-04__2025-11-05_16-24-46-969556.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:49:42",
+  "observacoes": null
+}

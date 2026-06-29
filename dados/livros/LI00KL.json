@@ -1,0 +1,63 @@
+{
+  "obra_id": 778,
+  "autor": "Benedito Bittencourt",
+  "titulo": "A personalidade viva de Paulo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Cristianismo. Vida de Paulo.",
+  "palavras_chave": "bittencourt personalidade viva paulo",
+  "edicao_id": 763,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 140,
+  "peso": 280,
+  "isbn": "9788561859596",
+  "editora": "Reflexão",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Não faz muito tempo já fôramos brindados com o valioso estudo prático das epístolas aos Coríntios apresentando sob o título sugestivo de \"Corinto e os problemas de uma Igreja Local\". O autor demonstra mais uma vez na presente obra o equilíbrio entre objectividade científica e a análise dos fatos. De um lado, a nítida preocupação pastoral e pedagógica, de outro, fazem do livro um obra série, acessível e edificante, recomendável a todos quantos almejem conhecer o melhor da vida, do tempo, do lugar e do pensamento do apóstolo dos gentios. Todos os que conhecem a premente escassez de boa literatura sobre assuntos bíblicos e teológicos no vernáculo acolherão com entusiasmo este livro.”</p><p>Aharon Sapsezian</p><p>“Este livro é uma segunda tentativa de penetração no mundo extenso, rico e extraordinariamente fascinante de uma vida que se chama Paulo. Os primeiros lampejos surgiram durante meus estudos na Ruprecht Karl Universität em Heidelberg, na Alemanha, em 1961 e 1962, tornando-se aurora já de visível brilho durante a viagem de pesquisas que realizei na primavera daquele mesmo período pelas terras viajadas pelo imortal caminhheiro e concretizando-se em abril de 1964. Procurei tornar este livro o mais humano possível, não só pela tentativa de ver o grande gênio do cristianismo como homem, mas pela interpretação do autor às suas próprias experiências, vivendo cada dia como Paulo e percorrendo as mesmas terras e todas as rotas do grande missionário do Evangelho.”</p><p>B. P. Bittencourt</p>",
+  "sinopse": "Este livro oferece uma perspectiva acessível e edificante sobre a vida e obra do apóstolo Paulo, equilibrando análise científica e preocupação pastoral. Através de experiências pessoais e estudos aprofundados, o autor busca entender e representar a grandeza do gênio cristão e suas contribuições ao Evangelho.",
+  "exemplar_id": 762,
+  "sku": "LI00KL",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/benedito-bittencourt--a-personalidade-viva-de-paulo--capa--20250227--152904.jpg",
+  "contracapa": "static/uploads/benedito-bittencourt--a-personalidade-viva-de-paulo--contracapa--20250227--152904.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:36:45",
+  "observacoes": null
+}

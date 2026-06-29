@@ -1,0 +1,63 @@
+{
+  "obra_id": 2386,
+  "autor": "Henry Rider Haggard",
+  "titulo": "As Minas de Salomão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "haggard minas salomao",
+  "edicao_id": 2366,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 253,
+  "peso": 306,
+  "isbn": "",
+  "editora": "Cofina Media - Portugal",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Henry parte em busca de seu irmão George, desaparecido durante a exploração das lendárias minas do rei Salomão, nas profundezas da África. Para essa perigosa jornada, ele recruta o famoso caçador e explorador Allan Quatermain, o capitão John Good e o enigmático guia africano Umbopa. Juntos, eles embarcam em uma expedição repleta de desafios e mistérios. A obra clássica de Henry Rider Haggard é considerada um marco da literatura de aventuras e a origem do gênero que explora mundos perdidos e tesouros ocultos.",
+  "exemplar_id": 2365,
+  "sku": "LI01GB",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/henry-rider-haggard--as-minas-de-salomao--capa--20260316--155044.jpg",
+  "contracapa": "static/uploads/henry-rider-haggard--as-minas-de-salomao--contracapa--20260316--155051.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado. Sem anotações,  sublinhados, marcas de umidade, mofo ou traça. Capa dura, com"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:18:01",
+  "observacoes": null
+}

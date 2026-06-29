@@ -1,0 +1,63 @@
+{
+  "obra_id": 562,
+  "autor": "Wendell Lessa",
+  "titulo": "Espargindo luz",
+  "subtitulo": "Reflexões bíblicas que iluminam a vida",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Reflexão bíblica. Teologia.",
+  "palavras_chave": "lessa espargindo luz",
+  "edicao_id": 547,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 95,
+  "peso": 200,
+  "isbn": "9788562478482",
+  "editora": "Monergismo",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Devemos procurar a verdadeira espiritualidade. Aquela que leva os nossos pensamentos ao Deus verdadeiro, em ação de graças por tudo quanto nos fez; aquela que procura estudar e aplicar os princípios normativos de Deus às nossas vidas; aquela que reconhece a centralidade de Jesus Cristo em todas as coisas (Rm 11.36). Precisamos, portanto, fugir do subjetivismo que tem mirado as mentes cristãs. Precisamos voltar à revelação proposicional e objetiva da Palavra de Deus.</p> <p>Assim, temos grande alegria em ver este livro do Rev. Wendell Lessa concretizando o verdadeiro exercício da espiritualidade bíblica. Seus textos são pequenas joias de meditação na pessoa e nos atos de Deus e em nossas responsabilidades para com Ele. Ele enraiza o meditar nas Escrituras Sagradas. Ela serve de fio de prumo e de bússola ao nosso caminhar. Essa é a verdadeira espiritualidade, fundamentada na Palavra de Deus. Aquela que conduz à modificação de comportamentos estranhos às prescrições divinas, e que procura honrar a Deus em sua exposição. Reflexo da verdadeira teologia da Reforma, que não é fria ou distante; que não é simplesmente acadêmica ou estéril; mas que é viva e produz frutos abundantes na disseminação do Reino de Deus, para a Sua glória.</p> <p>Wendell Lessa é pastor da Primeira Igreja Presbiteriana de Pirapora - MG, bacharel em Teologia pelo Seminário Rev. José Manoel da Conceição, em São Paulo - SP, doutorando e mestre em Letras pela PUC/SP e licenciado em Filosofia e Letras pela Unimontes - MG.</p>",
+  "sinopse": "O livro aborda a importância da verdadeira espiritualidade cristã, enfatizando a centralidade de Jesus Cristo e a necessidade de retornar às revelações bíblicas. Wendell Lessa compartilha reflexões e práticas que visam iluminar a vida dos leitores, promovendo uma meditação profunda sobre a Palavra de Deus e a aplicação dos princípios divinos em nossas vidas.",
+  "exemplar_id": 546,
+  "sku": "LI00EL",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/wendell-lessa--espalhando-luz--capa--20250227--152850.jpg",
+  "contracapa": "static/uploads/wendell-lessa--espalhando-luz--contracapa--20250227--152850.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:28:08",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2418,
+  "autor": "Marcelo Silva",
+  "titulo": "Caminhando com o tigre",
+  "subtitulo": "Transcendendo a arte marcial",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "silva caminhando com tigre",
+  "edicao_id": 2398,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 194,
+  "peso": 350,
+  "isbn": "9788563163080",
+  "editora": "Cia dos Livros",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Caminhando com o Tigre explora o intenso convívio entre culturas completamente distintas, marcado por uma empatia quase incompreensível. A obra desvenda as sutilezas do relacionamento entre mestre e discípulo, destacando os desafios e aprendizados que surgem dessa relação. O livro oferece uma profunda reflexão sobre as trocas culturais e o crescimento mútuo nesse processo.",
+  "exemplar_id": 2397,
+  "sku": "LI01H7",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/marcelo-silva--caminhando-com-o-tigre--capa--20260316--175925.jpg",
+  "contracapa": "static/uploads/marcelo-silva--caminhando-com-o-tigre--contracapa--20260316--175926.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso (contracapa com sinal de dobra)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:11:33",
+  "observacoes": null
+}

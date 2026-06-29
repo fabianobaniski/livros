@@ -1,0 +1,68 @@
+{
+  "obra_id": 1705,
+  "autor": "Papa Francisco",
+  "titulo": "A igreja da misericórdia",
+  "subtitulo": "Minha visão para a Igreja",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religiões. Cristianismo. Igreja.",
+  "palavras_chave": "francisco igreja misericordia",
+  "edicao_id": 1685,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 121,
+  "peso": 200,
+  "isbn": "9788585530934",
+  "editora": "Paralela",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Uma Igreja que sabe abrir os braços para abraçar todos, que não é a casa de poucos, mas de todos, onde todos podem ser renovados, transformados e santificados pelo seu amor: os mais fortes e os mais fracos, os pecadores, os indiferentes, os que se sentem desanimados e perdidos.”</p> <p>Papa Francisco</p>",
+  "sinopse": "Neste livro, Papa Francisco apresenta a visão de uma Igreja inclusiva, que abraça a todos sem distinção, promovendo a renovação e a transformação pessoal por meio do amor. Ele enfatiza a importância da misericórdia e do acolhimento aos mais necessitados.",
+  "exemplar_id": 1684,
+  "sku": "LI00XT",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/papa-francisco--a-igreja-da-miseric-rdia--capa--20250401--115808.jpg",
+  "contracapa": "static/uploads/papa-francisco--a-igreja-da-miseric-rdia--contracapa--20250401--115808.jpg",
+  "fotos": [
+    "static/uploads/papa-francisco--a-igreja-da-miseric-rdia--foto1--20250401--115808.jpg",
+    "static/uploads/papa-francisco--a-igreja-da-miseric-rdia--foto2--20250401--115808.jpg",
+    "static/uploads/papa-francisco--a-igreja-da-miseric-rdia--foto3--20250401--115808.jpg",
+    "static/uploads/papa-francisco--a-igreja-da-miseric-rdia--foto4--20250401--115808.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:27:56",
+  "observacoes": null
+}

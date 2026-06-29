@@ -1,0 +1,63 @@
+{
+  "obra_id": 597,
+  "autor": "Hermisten Maia",
+  "titulo": "Vivendo com integridade",
+  "subtitulo": "Um estudo do Salmo 15",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Aspectos éticos. Relacionamento com Deus. Santidade.",
+  "palavras_chave": "maia vivendo integridade salmo",
+  "edicao_id": 582,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 165,
+  "peso": 250,
+  "isbn": "9788581323435",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Salmo 15 é um texto que apresenta o ideal ético e moral para a vida do homem que ama e teme a Deus. Mais do que uma série de mandamentos e prescrições, temos neste texto um princípio norteador, que só pode ser abraçado por aqueles que já têm um relacionamento vital com Deus. Temos neste salmo um desafio para crescermos em sabedoria e santidade diante de Deus e dos homens.</p> <p>Hermisten Maia oferece ao leitor um rico estudo bíblico, com citação farta de textos bíblicos e de palavras-chave empregadas pelo salmista que ajudam a iluminar a beleza do padrão moral que Deus requer de seu povo.</p>",
+  "sinopse": "O Salmo 15 discute o ideal ético e moral para aqueles que buscam uma vida de integridade em um mundo corrupto. O autor destaca a importância de um relacionamento vital com Deus e propõe reflexões sobre a sabedoria e a santidade que devem guiar a vida dos fiéis.",
+  "exemplar_id": 581,
+  "sku": "LI00FK",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/hermisten-maia--vivendo-com-integridade--capa--20250227--152852.jpg",
+  "contracapa": "static/uploads/hermisten-maia--vivendo-com-integridade--contracapa--20250227--152852.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:45:14",
+  "observacoes": null
+}

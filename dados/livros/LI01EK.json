@@ -1,0 +1,63 @@
+{
+  "obra_id": 2323,
+  "autor": "José Augusto Gaiarsa",
+  "titulo": "A família de que se fala e a família de que se sofre",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "gaiarsa familia que fala",
+  "edicao_id": 2303,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 450,
+  "isbn": "9788571832688",
+  "editora": "Ágora",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "José Ângelo Gaiarsa explora a dualidade entre a família idealizada que apresentamos em público e a realidade muitas vezes imperfeita e sofrida que vivemos em privado. Questiona como podem surgir tantos problemas em famílias aparentemente boas e justas. Propõe reconsiderar e reorganizar a família em bases mais saudáveis, responsáveis e verdadeiras, com o objetivo de construir relacionamentos mais autênticos e satisfatórios.",
+  "exemplar_id": 2302,
+  "sku": "LI01EK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jose-augusto-gaiarsa--a-familia-de-que-se-fala-e-a-familia-de-que-se-sofre--capa--20260316--095732.jpg",
+  "contracapa": "static/uploads/jose-augusto-gaiarsa--a-familia-de-que-se-fala-e-a-familia-de-que-se-sofre--contracapa--20260316--095740.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:21:11",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2603,
+  "autor": "Judy Fox; Karen Hughes; John Tampion",
+  "titulo": "I Ching ilustrado",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "fox ching ilustrado",
+  "edicao_id": 2583,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 159,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Círculo do livro",
+  "numero_edicao": 0,
+  "ano": 1987,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2582,
+  "sku": "LI01MB",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/judy-fox--i-ching-ilustrado--capa--20260316--212821.jpg",
+  "contracapa": "static/uploads/judy-fox--i-ching-ilustrado--contracapa--20260316--212821.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro amarelado pelo tempo, com pequenos desgastes decorrentes do uso, mas, em geral, bem conservado. Sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:34:38",
+  "observacoes": null
+}

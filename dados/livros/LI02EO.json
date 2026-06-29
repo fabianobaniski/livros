@@ -1,0 +1,68 @@
+{
+  "obra_id": 3629,
+  "autor": "Joseph Conrad",
+  "titulo": "Lorde Jim",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "conrad lorde jim",
+  "edicao_id": 3606,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 289,
+  "peso": 390,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Após abandonar um navio em perigo e carregar a marca da covardia, o jovem marinheiro Jim busca redenção em uma remota comunidade na Malásia, onde tenta reconstruir sua honra e identidade enquanto enfrenta os fantasmas do passado e os dilemas morais de sua própria consciência.",
+  "exemplar_id": 3605,
+  "sku": "LI02EO",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/joseph-conrad--lorde-jim--capa--20251114--181246.png",
+  "contracapa": "static/uploads/joseph-conrad--lorde-jim--contracapa--20251114--181253.png",
+  "fotos": [
+    "static/uploads/joseph-conrad--lorde-jim--foto1--20251113--195256.jpg",
+    "static/uploads/joseph-conrad--lorde-jim--foto2--20251113--195256.jpg",
+    "static/uploads/joseph-conrad--lorde-jim--foto3--20251113--195256.jpg",
+    "static/uploads/joseph-conrad--lorde-jim--foto4--20251113--195256.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:22:15",
+  "observacoes": null
+}

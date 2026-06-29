@@ -1,0 +1,63 @@
+{
+  "obra_id": 4840,
+  "autor": "Tatsuki Fujimoto",
+  "titulo": "Chainsaw man",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Demônios. Batalha.",
+  "palavras_chave": "fujimoto chainsaw man",
+  "edicao_id": 4815,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 220,
+  "isbn": "9786559602384",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "<p>Enquanto Quanxi e as Divisões Especiais continuam travando uma batalha por Denji, o sinistro Papai Noel começa a agir para realizar seu verdadeiro objetivo!! Mas quando um contrato perigoso repleto de maldade e insanidade é firmado, até mesmo os demônios ficam aterrorizados e abrem-se as portas para o desespero…! Os gritos do Demônio da Motosserra atravessarão a noite escura como breu!!</p>",
+  "sinopse": "Quanxi e as Divisões Especiais lutam por Denji enquanto o Papai Noel sinistro age para cumprir seu objetivo sombrio. Um contrato aterrorizante choca até mesmo os demônios, abrindo caminho para o desespero. Os gritos do Demônio da Motosserra cruzam a escuridão da noite.",
+  "exemplar_id": 4814,
+  "sku": "LI02M2",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/chainsaw-man__tatsuki-fujimoto__capa__2026-02-20_10-30-48-772638-000.png",
+  "contracapa": "static/uploads/chainsaw-man__tatsuki-fujimoto__contracapa__2026-02-20_10-30-48-831400-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2605,
+  "autor": "Gertrude Stein",
+  "titulo": "Ida",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "gertrude stein ida",
+  "edicao_id": 2585,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Ulisseia",
+  "numero_edicao": 0,
+  "ano": 1979,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2584,
+  "sku": "LI01MD",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/gertrude-stein--ida--capa--20260316--212916.jpg",
+  "contracapa": "static/uploads/gertrude-stein--ida--contracapa--20260316--212916.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:34:46",
+  "observacoes": null
+}

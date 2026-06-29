@@ -1,0 +1,63 @@
+{
+  "obra_id": 901,
+  "autor": "Michael Horton",
+  "titulo": "Bom demais para ser verdade",
+  "subtitulo": "Encontrando Esperança num mundo de Ilusões",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia. Sofrimento.",
+  "palavras_chave": "horton bom demais ser verdade",
+  "edicao_id": 886,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 400,
+  "isbn": "9788581321578",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Há lugar para fraqueza e sofrimento na vida cristã?</h1> <p>Num mundo de ilusões, talvez possamos comprar a ideia de que por meio de Jesus seremos mais saudáveis, prósperos e até sábios. Então, o que acontece quando chega a enfermidade, a depressão ou a falência? Será que fizemos algo errado? Deus nos abandonou?</p> <p>Em \"Bom demais para ser Verdade\", Michael Horton expõe a cultura evangélica que \"vende\" Jesus como um produto que traz saúde e felicidade e nos lembra que nossas vidas às vezes nos leva a rotas difíceis, com subidas e descidas, e que nós devemos viver por fé. Este livro oferece textos poderosos que demonstram como, através de cada dificuldade sufocante, Deus mantém suas promessas das Escrituras e opera todas as coisas para nosso bem.</p>",
+  "sinopse": "Este livro examina a ideia de que a vida cristã deve ser isenta de dificuldades e a realidade de que muitos enfrentam enfermidades e crises. Michael Horton explora a cultura evangélica que propõe um Jesus que promete saúde e prosperidade, desafiando essa visão ao fornecer textos que ressaltam a importância da fé em meio às lutas.",
+  "exemplar_id": 885,
+  "sku": "LI00NV",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/michael-horton--bom-demais-para-ser-verdade--capa--20250227--152912.jpg",
+  "contracapa": "static/uploads/michael-horton--bom-demais-para-ser-verdade--contracapa--20250227--152912.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:55:08",
+  "observacoes": null
+}

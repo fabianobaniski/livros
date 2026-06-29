@@ -1,0 +1,63 @@
+{
+  "obra_id": 911,
+  "autor": "John MacArthur",
+  "titulo": "A outra face",
+  "subtitulo": "Descubra o lado questionador, crítico, impetuoso e revolucionário de Jesus Cristo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Teologia.",
+  "palavras_chave": "macarthur outra face",
+  "edicao_id": 896,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 271,
+  "peso": 400,
+  "isbn": "9788578600426",
+  "editora": "Thomas Nelson Brasil",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A imagem plácida de Jesus a que o mundo está habituado esconde o pulso firme do homem que combateu com fé e rigor a hipocrisia de uma época.</p> <p>Manso e meigo. Politicamente correto. É assim que as pessoas descrevem Jesus. Mas isso é apenas uma parte dele, não o todo. Pode ser desconfortável ou inconveniente, mas o homem vem ignorando o caráter impetuoso e doutrinário de Jesus. Sua missão exigiu, na maioria das vezes, uma postura firme e coerciva diante de seus inimigos, o que fez dele realmente um grande mestre.</p> <p>Você vai se surpreender com a verdadeira face de Cristo descrita em A outra face. John MacArthur mostra o retrato impressionante de Jesus que o mundo está tão ansioso por esconder. A luta contra falsos mestres, as ideias sobre a religiosidade inexata e o modo como defendia a verdade, se encaixam muito pouco com o estereótipo meigo que com frequência a humanidade lhe impõe.</p> <p>Conheça esta visão polêmica e cristalina do Jesus que a história tenta esconder a todo custo e, como ele, assuma o compromisso de promover a fé ao enfrentar as mentiras e proteger a verdade:</p>",
+  "sinopse": "A obra explora a verdadeira face de Jesus, revelando sua postura firme e crítica em relação à hipocrisia, desafiando a imagem mansa frequentemente associada a ele. O autor destaca a luta contra falsos mestres e a defesa intransigente da verdade, apresentando uma visão polêmica e realista do papel de Jesus em um mundo que tenta ocultá-lo.",
+  "exemplar_id": 895,
+  "sku": "LI00O5",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/john-macarthur--a-outra-face--capa--20250227--152912.jpg",
+  "contracapa": "static/uploads/john-macarthur--a-outra-face--contracapa--20250227--152912.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Não possui marcas de umidade, mofo ou traça. Há, contudo, algumas páginas sublinhadas com caneta-destaque."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:35:42",
+  "observacoes": null
+}

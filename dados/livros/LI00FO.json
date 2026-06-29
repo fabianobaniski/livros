@@ -1,0 +1,63 @@
+{
+  "obra_id": 601,
+  "autor": "Mark Atteberry",
+  "titulo": "As lições de Salomão",
+  "subtitulo": "O que aprender com os erros e acertos do homem mais sábio que já existiu",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Religião. Auto-Ajuda.",
+  "palavras_chave": "atteberry liçoes salomao",
+  "edicao_id": 586,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 350,
+  "isbn": "9788578606985",
+  "editora": "Thomas Nelson",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>PARA NÃO COMETER UMA TOLICE, NÃO É PRECISO SER O MAIOR SÁBIO DO MUNDO.</p> <p>Não houve, em toda a História, homem mais inteligente que Salomão — e diz a Bíblia que jamais haverá. Filho de Davi e seu sucessor no trono de Israel, recebeu o dom da sabedoria. Escreveu belíssimos salmos, provérbios e outros textos inspiradores. Foi muito rico e poderoso. Nada disso, porém, o impediu de cair nas armadilhas da sedução e da apostasia, convertendo-o paradoxalmente num grande sábio tolo e da moral destruída.</p> <p>Ao analisar, de maneira bem-humorada, tanto os êxitos quanto os fracassos do famoso monarca, Mark Atteberry demonstra que também corremos o risco constante de ser seduzidos pelo mal; se baixarmos a guarda. Em As lições de Salomão, ele enumera alguns perigos e incentiva o leitor a manter o discernimento e a integridade cristã.</p>",
+  "sinopse": "No livro 'As Lições de Salomão', Mark Atteberry explora a vida e os ensinamentos do rei Salomão, destacando sua sabedoria, riquezas e os erros morais que cometeu. Através de uma análise bem-humorada, o autor reflete sobre os perigos que todos enfrentamos e convida os leitores a manter o discernimento e a integridade em suas vidas.",
+  "exemplar_id": 585,
+  "sku": "LI00FO",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/mark-atteberry--as-li--es-de-salom-o--capa--20250227--152852.jpg",
+  "contracapa": "static/uploads/mark-atteberry--as-li--es-de-salom-o--contracapa--20250227--152852.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Foi localizado sublinhado feito com caneta destaca-texto em uma folha. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:26:21",
+  "observacoes": null
+}

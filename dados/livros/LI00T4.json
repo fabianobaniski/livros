@@ -1,0 +1,68 @@
+{
+  "obra_id": 1378,
+  "autor": "Babi A. Sette",
+  "titulo": "Senhorita Aurora",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Superação. Dança.",
+  "palavras_chave": "sette senhorita aurora",
+  "edicao_id": 1361,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 335,
+  "peso": 400,
+  "isbn": "9788576866817",
+  "editora": "Verus",
+  "numero_edicao": 4,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nicole é uma jovem bailarina e está prestes a realizar seu sonho: estrear no papel principal em uma peça na Companhia de Ballet de Londres. Tudo estaria perfeito se não fosse pela presença de um dos seus diretores, o temido Daniel Hunter, um maestro pródigo de temperamento difícil, com um humor sombrio e que desperta em Nicole sentimentos contraditórios.</p> <p>Quando uma tempestade de neve isola os dois em uma mansão centenária, Nicole e Daniel serão obrigados a encarar não apenas os segredos que atormentam o maestro, mas também uma paixão proibida — e avassaladora — que nasce entre eles.</p> <p>Entre a tão sonhada carreira na dança, um amor intenso como ela nunca sentiu e a própria segurança, Nicole se verá diante de escolhas que parecem impossíveis. E caberá a ela resgatar Daniel de seu próprio passado...</p> <p>Senhorita Aurora é um romance poderoso, tocante e perturbador, que mostra que todos merecem uma segunda chance, até mesmo alguém com fama de monstro.</p>",
+  "sinopse": "Nicole, uma jovem bailarina, se prepara para estrear em uma peça na Companhia de Ballet de Londres, mas a presença do maestro Daniel Hunter complica suas emoções. Durante uma tempestade, eles se encontram em uma mansão e são forçados a confrontar não apenas os segredos do maestro, mas também uma paixão avassaladora. Nicole enfrentará decisões desafiadoras em meio a sua carreira de dança e seu amor por Daniel.",
+  "exemplar_id": 1360,
+  "sku": "LI00T4",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/babi-a--sette--senhorita-aurora--capa--20250401--115337.jpg",
+  "contracapa": "static/uploads/babi-a--sette--senhorita-aurora--contracapa--20250401--115337.jpg",
+  "fotos": [
+    "static/uploads/babi-a--sette--senhorita-aurora--foto1--20250401--115337.jpg",
+    "static/uploads/babi-a--sette--senhorita-aurora--foto2--20250401--115337.jpg",
+    "static/uploads/babi-a--sette--senhorita-aurora--foto3--20250401--115337.jpg",
+    "static/uploads/babi-a--sette--senhorita-aurora--foto4--20250401--115337.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:56:22",
+  "observacoes": null
+}

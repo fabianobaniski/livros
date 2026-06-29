@@ -1,0 +1,68 @@
+{
+  "obra_id": 151,
+  "autor": "Noronha",
+  "titulo": "Legal dictionary / Dicionário jurídico",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Dicionários. Vocabulário jurídico. Tradução.",
+  "palavras_chave": "noronha dicionario juridico ",
+  "edicao_id": 147,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 551,
+  "peso": 1200,
+  "isbn": "",
+  "editora": "Observador Legal ",
+  "numero_edicao": 2,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>COMENTÁRIOS AO DICIONÁRIO JURÍDICO NORONHA</h1> <h2>ACCLAIMS FOR THE NORONHA LEGAL DICTIONARY</h2> <p>\"The Noronha Legal Dictionary is the best Portuguese and English legal dictionary now available on the market...\"<br><i>The Institute of Translating and Interpreting NWTN Newsletter, London, UK</i></p> <p>\"O Dicionário Noronha é um sucesso de vendas.\"<br><i>O Estado de São Paulo, Agência Estado, São Paulo, Brasil</i></p> <p>\"Very good to excellent and well worth the money.\"<br><i>American Translators Association Washington, USA</i></p> <p>\"The Noronha Legal Dictionary attempts to make the lives of international lawyers a little easier.\"<br><i>International Business Chronicle Miami, Florida, USA</i></p> <p>\"The legal dictionary by Noronha is, for all of these reasons, most welcome and recommended.\"<br><i>International Business Lawyer London, UK</i></p> <p>\"O mais avançado do gênero.\" <br><i>Alto Madeira Porto Velho, Rondônia, Brasil</i></p> <p>\"The scope of Noronha's work sets it apart for its broad perspective of legal vocabulary. Its international balance is worth noting.\"<br><i>Comparative Juridical Review Miami, Florida, USA</i></p> <p>\"This dictionary will be well received by both translators and lawyers...\"<br><i>British Bulletin of Publications Canning House, London, UK</i></p> <p>\"Dicionário Noronha em uso no Itamaraty.\"<br><i>Jornal da Indústria e Comércio Curitiba, Paraná, Brasil</i></p> <p>\"A most meritorious work which is useful for other areas too.\"<br><i>Brazil Review Miami, Florida, USA</i></p> <p>\"... a very useful instrument...\"<br><i>Journal of International Banking Law Oxford, UK</i></p> <p>\"This comprehensive dictionary, well laid out and printed, will be extremely useful to translators...\"<br><i>The Linguist, London, UK</i></p>",
+  "sinopse": "O Dicionário Jurídico Noronha é amplamente reconhecido como uma ferramenta essencial para advogados e tradutores, elogiado por sua abrangência e utilidade. Ele se destaca por sua perspectiva ampla do vocabulário jurídico em português e inglês, sendo considerado um dos melhores do mercado.",
+  "exemplar_id": 146,
+  "sku": "LI003P",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/noronha--legal-dictionary--capa--20250226--133758.jpg",
+  "contracapa": "static/uploads/noronha--legal-dictionary--contracapa--20250226--133758.jpg",
+  "fotos": [
+    "static/uploads/noronha--legal-dictionary--foto1--20250226--133758.jpg",
+    "static/uploads/noronha--legal-dictionary--foto2--20250226--133758.jpg",
+    "static/uploads/noronha--legal-dictionary--foto3--20250226--133758.jpg",
+    "static/uploads/noronha--legal-dictionary--foto4--20250226--133758.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel fortemente amarelado e muitas marquinhas de desgaste na capa, lombada e contracapa. Texto sem grifos e anotações. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:29:46",
+  "observacoes": null
+}

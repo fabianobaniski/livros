@@ -1,0 +1,63 @@
+{
+  "obra_id": 720,
+  "autor": "Charles R. Swindoll",
+  "titulo": "Vidas incríveis",
+  "subtitulo": "Histórias fascinantes sobre vidas esquecidas",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura religiosa. Histórias inspiradoras. Ensinamentos práticos.",
+  "palavras_chave": "swindoll vidas incriveis historias",
+  "edicao_id": 705,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 334,
+  "peso": 380,
+  "isbn": "9788582160190",
+  "editora": "Ágape",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Há homens que buscam a fama e o reconhecimento.</p> <p>No entanto, há os que desejam causar impacto na vida de outras pessoas, silenciiosamente.</p> <p>Fomos ensinados a acreditar que as pessoas mais importantes são aquelas que conquistaram os holofotes de nossa sociedade: artistas famosos, grandes atletas, músicos das multidões. Esses são os que parecem merecer nossos aplausos e nossa admiração.</p> <p>Mas não é bem assim.</p> <p>O mundo está cheio de ninguém, pessoas que passam a vida inteira sem que sejam percebidas pelo grande público, mas que deixam sua marca. No Velho Testamento, é possível conhecer diversas dessas incríveis histórias, de heróis cujas ações e cujos sacrifícios tocaram o coração de Deus.</p> <p>Em Vidas incríveis - histórias fascinantes sobre vidas esquecidas, conheça o destino de Samuel, o menino que ouviu a voz de Deus, o de Saul, o rei que recusou a se curvar, o de Abigail, a mulher que salvou a vida de seu marido e de muitos outros.</p> <p>Aprenda com esses grandes exemplos bíblicos, aplicando os ensinamentos práticos de Deus em sua vida, tornando-se tão importante quanto Ele acredita que você é.</p>",
+  "sinopse": "Em 'Vidas Incríveis', Charles R. Swindoll explora personagens do Antigo Testamento que, mesmo sem receber reconhecimento, deixaram um impacto profundo. Conheça histórias de figuras como Samuel, Saul e Abigail, cujas ações ressoam até hoje, e aprenda lições práticas que podem ser aplicadas em sua própria vida.",
+  "exemplar_id": 704,
+  "sku": "LI00IZ",
+  "preco_estante_virtual": 85.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/charles-r--swindoll--vidas-incr-veis--capa--20250227--152900.jpg",
+  "contracapa": "static/uploads/charles-r--swindoll--vidas-incr-veis--contracapa--20250227--152900.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:44:48",
+  "observacoes": null
+}

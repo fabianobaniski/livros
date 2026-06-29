@@ -1,0 +1,68 @@
+{
+  "obra_id": 1385,
+  "autor": "Harold Robbins",
+  "titulo": "Ninguém é de ninguém",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "robbins ninguem",
+  "edicao_id": 1367,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 177,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1366,
+  "sku": "LI00TA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/harold-robbins--ningu-m---de-ningu-m--capa--20250401--115338.jpg",
+  "contracapa": "static/uploads/harold-robbins--ningu-m---de-ningu-m--contracapa--20250401--115338.jpg",
+  "fotos": [
+    "static/uploads/harold-robbins--ningu-m---de-ningu-m--foto1--20250401--115338.jpg",
+    "static/uploads/harold-robbins--ningu-m---de-ningu-m--foto2--20250401--115338.jpg",
+    "static/uploads/harold-robbins--ningu-m---de-ningu-m--foto3--20250401--115338.jpg",
+    "static/uploads/harold-robbins--ningu-m---de-ningu-m--foto4--20250401--115338.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Possui sobrecapa, que apresenta pequenos rasgos nas extremidades (vide fotos)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:17:06",
+  "observacoes": null
+}

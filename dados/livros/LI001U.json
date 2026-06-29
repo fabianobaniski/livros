@@ -1,0 +1,68 @@
+{
+  "obra_id": 70,
+  "autor": "Markus Zusak",
+  "titulo": "A menina que roubava livros",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Segunda Guerra Mundial. Nazismo. Infância. Livros. Resistência.",
+  "palavras_chave": "zusak menina roubava livros ",
+  "edicao_id": 70,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 474,
+  "peso": 800,
+  "isbn": "9788598078175",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quando a Morte conta uma história, você deve parar para ler.</p>",
+  "sinopse": "Durante a Segunda Guerra Mundial, Liesel Meminger, uma jovem alemã, descobre o poder das palavras ao roubar livros e compartilhá-los com seus vizinhos e com um judeu escondido em sua casa. Narrado pela Morte, o livro retrata os horrores da guerra e a força das histórias em meio à destruição.",
+  "exemplar_id": 69,
+  "sku": "LI001U",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/markus-zusak--a-menina-que-roubava-livros--capa--20250225--232419.jpg",
+  "contracapa": "static/uploads/markus-zusak--a-menina-que-roubava-livros--contracapa--20250225--232419.jpg",
+  "fotos": [
+    "static/uploads/markus-zusak--a-menina-que-roubava-livros--foto1--20250225--232419.jpg",
+    "static/uploads/markus-zusak--a-menina-que-roubava-livros--foto2--20250225--232419.jpg",
+    "static/uploads/markus-zusak--a-menina-que-roubava-livros--foto3--20250225--232419.jpg",
+    "static/uploads/markus-zusak--a-menina-que-roubava-livros--foto4--20250225--232419.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:33:37",
+  "observacoes": null
+}

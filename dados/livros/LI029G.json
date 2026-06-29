@@ -1,0 +1,68 @@
+{
+  "obra_id": 3441,
+  "autor": "Ryo Akizuki; TRIGGER; Kazuki Nakashima",
+  "titulo": "Kill la kill",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Ação. Drama. Anime.",
+  "palavras_chave": "akizuki kill kill",
+  "edicao_id": 3418,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 170,
+  "isbn": "9788569212010",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3417,
+  "sku": "LI029G",
+  "preco_estante_virtual": 80.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__capa__2025-11-05_16-15-21-103782.jpg",
+  "contracapa": "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__contracapa__2025-11-05_16-15-21-134950.jpg",
+  "fotos": [
+    "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__foto-01__2025-11-05_16-15-21-157355.jpg",
+    "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__foto-02__2025-11-05_16-15-21-184904.jpg",
+    "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__foto-03__2025-11-05_16-15-21-387675.jpg",
+    "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__foto-04__2025-11-05_16-15-21-406773.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo! / OBS.: Durante o processo de impressão, houve um pouco de vazamento de cola da lombada, deixando uma marca em algumas páginas, mas sem comprometer o manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:08:03",
+  "observacoes": null
+}

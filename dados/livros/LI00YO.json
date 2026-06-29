@@ -1,0 +1,68 @@
+{
+  "obra_id": 1748,
+  "autor": "André Figueiredo Rodrigues",
+  "titulo": "Como elaborar e apresentar monografias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Metodologia científica. Normas técnicas. Trabalhos acadêmicos. ABNT.",
+  "palavras_chave": "rodrigues como elaborar apresentar monografias",
+  "edicao_id": 1728,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 92,
+  "peso": 130,
+  "isbn": "9788577320202",
+  "editora": "Associação Editorial Humanitas",
+  "numero_edicao": 2,
+  "ano": 2006,
+  "serie": "Metodologias",
+  "volume": null,
+  "transcricao_contracapa": "<p>A obra apresenta as normas técnicas de redação e organização de trabalhos acadêmicos. Para tanto, segue as diretrizes da Associação Brasileira de Normas Técnicas (ABNT), que especificam os princípios gerais de elaboração e padronização de trabalhos de graduação – Trabalho de Conclusão de Curso (TCC), Trabalho Interdisciplinar Orientado (TIO) e/ou Trabalho de Graduação Interdisciplinar (TGI) e outros – e de pós-graduação – especialização e aperfeiçoamento, dissertação de Mestrado e tese de Doutorado.</p>",
+  "sinopse": "O livro apresenta as normas técnicas de redação e organização de trabalhos acadêmicos, seguindo as diretrizes da ABNT. Destina-se à elaboração e padronização de trabalhos de graduação como TCC, TIO e TGI, bem como de pós-graduação, incluindo especialização, dissertação de Mestrado e tese de Doutorado.",
+  "exemplar_id": 1727,
+  "sku": "LI00YO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/andr--figueiredo-rodrigues--como-elaborar-e-apresentar-monografias--capa--20250430--102940.jpg",
+  "contracapa": "static/uploads/andr--figueiredo-rodrigues--como-elaborar-e-apresentar-monografias--contracapa--20250430--102940.jpg",
+  "fotos": [
+    "static/uploads/andr--figueiredo-rodrigues--como-elaborar-e-apresentar-monografias--foto1--20250430--102940.jpg",
+    "static/uploads/andr--figueiredo-rodrigues--como-elaborar-e-apresentar-monografias--foto2--20250430--102940.jpg",
+    "static/uploads/andr--figueiredo-rodrigues--como-elaborar-e-apresentar-monografias--foto3--20250430--102941.jpg",
+    "static/uploads/andr--figueiredo-rodrigues--como-elaborar-e-apresentar-monografias--foto4--20250430--102941.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, apresenta leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:49:08",
+  "observacoes": "procedencia_biblioteca"
+}

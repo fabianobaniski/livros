@@ -1,0 +1,63 @@
+{
+  "obra_id": 2373,
+  "autor": "Menga Lüdke",
+  "titulo": "Aparecida Joly Gouveia",
+  "subtitulo": "Coleção Educadores (MEC)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "ludke aparecida joly gouveia",
+  "edicao_id": 2353,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 266,
+  "isbn": "9788570195302",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2352,
+  "sku": "LI01FY",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/menga-ludke--aparecida-joly-gouveia--capa--20260316--154431.jpg",
+  "contracapa": "static/uploads/menga-ludke--aparecida-joly-gouveia--contracapa--20260316--154437.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:14:26",
+  "observacoes": null
+}

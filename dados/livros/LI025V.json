@@ -1,0 +1,68 @@
+{
+  "obra_id": 3309,
+  "autor": "Hiroji Mishima; Ichiei Ishibumi",
+  "titulo": "High School DxD",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Ação. Comédia. Escolar.",
+  "palavras_chave": "mishima high school dxd",
+  "edicao_id": 3289,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 140,
+  "isbn": "7897653522729",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Comic: Hiroji Mishima<br>Original: Ichiei Ishibumi<br>Character Design: Zero Miyama</p><p>IMPRÓPRIO PARA MENORES DE 18 ANOS</p>",
+  "sinopse": "Terceiro volume do mangá 'High School DxD', criado por Hiroji Mishima a partir da obra original de Ichiei Ishibumi e design de personagens por Zero Miyama. Esta edição, publicada pela Panini Comics, é indicada apenas para maiores de 18 anos.",
+  "exemplar_id": 3288,
+  "sku": "LI025V",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 58.0,
+  "capa": "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi__capa__2025-11-05_16-25-07-899767.jpg",
+  "contracapa": "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi__contracapa__2025-11-05_16-25-07-923784.jpg",
+  "fotos": [
+    "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi__foto-01__2025-11-05_16-25-07-944082.jpg",
+    "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi__foto-02__2025-11-05_16-25-07-974504.jpg",
+    "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi__foto-03__2025-11-05_16-25-07-999654.jpg",
+    "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi__foto-04__2025-11-05_16-25-08-020559.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:18:37",
+  "observacoes": null
+}

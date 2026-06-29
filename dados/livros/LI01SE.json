@@ -1,0 +1,63 @@
+{
+  "obra_id": 2822,
+  "autor": "Mario Prata",
+  "titulo": "Os anjos de Badaró",
+  "subtitulo": "Romance Policial",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "prata anjos badaro romance",
+  "edicao_id": 2802,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 231,
+  "peso": 300,
+  "isbn": "9788576658092",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em meio à ascensão da internet no ano 2000, uma trama policial cheia de mistério e humor se desenrola enquanto personagens tentam desvendar os enigmas ao redor da vida de Badaró. A história, escrita em tempo real e acompanhada por milhares de leitores online, reflete os desafios tecnológicos da época, com referências a disquetes, RAM e a revolução digital. O resultado é uma narrativa imperdível, marcada por mortes, sexo e segredos, oferecendo uma divertida e instigante combinação entre o mundo físico e o virtual.",
+  "exemplar_id": 2801,
+  "sku": "LI01SE",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/os-anjos-de-badaro-mario-prata-capa_rev1858.jpg",
+  "contracapa": "static/uploads/os-anjos-de-badaro-mario-prata-contracapa_rev674.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso.  Esta é uma história de amor - com muito sexo, claro, que ninguém é de ferro, muito menos o Badaró. É também um livro policial - com mortes e garotas de programas e enigmas a decifrar, mas tudo na medida certa. Afinal, o talento do escritor Mario Prata sempre esteve a serviço do humor. Aqui, mesmo nos momentos mais dramáticos da trama, você vai se divertir. Esta novela de suspense é uma comédia. Deliciosa e erótica como os anjos do Badaró."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:06:05",
+  "observacoes": null
+}

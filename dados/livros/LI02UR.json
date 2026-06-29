@@ -1,0 +1,63 @@
+{
+  "obra_id": 5163,
+  "autor": "Inio Asano",
+  "titulo": "Boa Noite Punpun",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Relações familiares. Depressão.",
+  "palavras_chave": "asano boa noite punpun",
+  "edicao_id": 5138,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 418,
+  "peso": 460,
+  "isbn": "9788545709602",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Depois que seu pai foi embora, Punpun começou a morar com a mãe e o tio Yuuichi. O garoto, agora no ginásial, está na mesma classe que seus amigos. Porém, ele não está mais falando com Aiko, a garota por quem era apaixonado desde pequeno. Ela começou a sair com um veterano do clube de badminto, e agora, a vida de Punpun virou um verdadeiro inferno!!</p><p><b>Boa Noite Punpun</b> é a obra-prima do aclamado Inio ASANO. Tratando temas delicados como relações familiares conturbadas e depressão, o mangá foi um grande sucesso no Japão.</p><p>Recomendável para maiores de 18 anos.</p>",
+  "sinopse": "Após a partida de seu pai, Punpun vive com sua mãe e tio Yuuichi. No ginásio, ele não fala mais com Aiko, sua paixão de infância, que agora namora um veterano, transformando a vida de Punpun em um inferno. Este mangá de Inio Asano explora temas como relações familiares e depressão, destacando-se no Japão. Recomendada para maiores de 18 anos.",
+  "exemplar_id": 5137,
+  "sku": "LI02UR",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/boa-noite-punpun__inio-asano__capa__2026-02-20_10-32-26-548746-000.png",
+  "contracapa": "static/uploads/boa-noite-punpun__inio-asano__contracapa__2026-02-20_10-32-26-584441-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

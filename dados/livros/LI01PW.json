@@ -1,0 +1,63 @@
+{
+  "obra_id": 2732,
+  "autor": "José Carlos Leal de Almeida",
+  "titulo": "Nas trilhas de Compostela",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "almeida nas trilhas compostela",
+  "edicao_id": 2712,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 300,
+  "isbn": "9788574740072",
+  "editora": "Insular",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O Caminho de Santiago transforma cada peregrino de maneira única. Através de relatos e emoções coletadas ao longo dos anos, este livro traz a visão pessoal de quem trilhou essa jornada, passo a passo, e se reinventou ao percorrer centenas de quilômetros. José Carlos Leal de Almeida narra com precisão e riqueza de detalhes, convidando o leitor a sentir as sensações e vivenciar os desafios da peregrinação. Ao seguir essa trajetória, o maior encontro é com si mesmo, redescobrindo-se no Caminho.",
+  "exemplar_id": 2711,
+  "sku": "LI01PW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/nas-trilhas-de-compostela-jose-carlos-leal-de-almeida-capa_rev2022.jpg",
+  "contracapa": "static/uploads/nas-trilhas-de-compostela-jose-carlos-leal-de-almeida-contracapa_rev1923.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:16:14",
+  "observacoes": null
+}

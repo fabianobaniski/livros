@@ -1,0 +1,63 @@
+{
+  "obra_id": 2458,
+  "autor": "Djalma Patrício",
+  "titulo": "Curso básico de fotografia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Fotografia",
+  "temas": "",
+  "palavras_chave": "patricio curso basico fotografia",
+  "edicao_id": 2438,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 79,
+  "peso": 269,
+  "isbn": "9788571140868",
+  "editora": "FURB",
+  "numero_edicao": 0,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2437,
+  "sku": "LI01IA",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/djalma-patricio--curso-basico-de-fotografia--capa--20260316--190223.jpg",
+  "contracapa": "static/uploads/djalma-patricio--curso-basico-de-fotografia--contracapa--20260316--190223.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo.  Os fotógrafos, muitas vezes, foram artistas plásticos que adotaram a máquina fotográfica como auxílio à reprodução de suas obras, como Cartier Bresson, e acabaram se apaixonando por ela. A fotografia é uma técnica em evolução; desde o Daguerreótipo até a câmera digital, muitos anos se passaram. A arte de escrever com a luz ainda apaixona muitos artistas e profissionais."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:17:30",
+  "observacoes": null
+}

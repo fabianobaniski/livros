@@ -1,0 +1,63 @@
+{
+  "obra_id": 2569,
+  "autor": "Roberto Saviano",
+  "titulo": "Gomorra",
+  "subtitulo": "A história real de um jornalista infiltrado na violenta máfia napolitana",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "saviano gomorra historia real",
+  "edicao_id": 2549,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 349,
+  "peso": 613,
+  "isbn": "9788528613681",
+  "editora": "Bertrando Brasil",
+  "numero_edicao": 0,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2548,
+  "sku": "LI01LD",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/roberto-saviano--gomorra--capa--20260316--211428.jpg",
+  "contracapa": "static/uploads/roberto-saviano--gomorra--contracapa--20260316--211428.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Não apresenta anotações nem sublinhados. Leves vestígios de uso e marcas da passagem do tempo. Apresenta assinatura de ex-proprietária."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:15:08",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3596,
+  "autor": "Cho-Heiwa Busters; Mitsu Izumi",
+  "titulo": "Anohana",
+  "subtitulo": "Ainda não sabemos o nome da flor que vimos naquele dia",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá. Relações de amizade. Luto.",
+  "palavras_chave": "cho-heiwa anohana ",
+  "edicao_id": 3573,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 220,
+  "isbn": "9788545702023",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3572,
+  "sku": "LI02DR",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__capa__2025-11-05_16-16-59-581141.jpg",
+  "contracapa": "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__contracapa__2025-11-05_16-16-59-608260.jpg",
+  "fotos": [
+    "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__foto-01__2025-11-05_16-16-59-624562.jpg",
+    "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__foto-02__2025-11-05_16-16-59-649584.jpg",
+    "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__foto-03__2025-11-05_16-16-59-672110.jpg",
+    "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__foto-04__2025-11-05_16-16-59-696109.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo! Sobrecapa com marquinhas de contato com outras superfícies."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:00:20",
+  "observacoes": null
+}

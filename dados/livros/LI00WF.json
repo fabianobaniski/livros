@@ -1,0 +1,68 @@
+{
+  "obra_id": 1504,
+  "autor": "Steve Biddulph",
+  "titulo": "O segredo das crianças felizes",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Psicologia. Educação. Relacionamento Familiar.",
+  "palavras_chave": "biddulph segredo criancas felizes",
+  "edicao_id": 1485,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 133,
+  "peso": 280,
+  "isbn": "9788588350120",
+  "editora": "Fundamento",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Lido por mais de um milhão de pessoas em 15 diferentes línguas, O segredo das Crianças Felizes contribuiu, definitivamente, na comunicação entre pais e filhos, do nascimento à adolescência. Ele vai lhe dar mais confiança para agir de forma inteligente, com mais carinho e menos tensão.</p> <p>Steve Biddulph, terapeuta familiar há mais de vinte anos, revela o que realmente acontece na mente das crianças. Você vai se libertar de métodos ultrapassados e negativos e terá mais energia para curtir seus filhos e sua vida.</p> <p>Um livro para pais e mães que lutam pela felicidade de seus filhos.</p>",
+  "sinopse": "O segredo das Crianças Felizes oferece insights valiosos para comunicação entre pais e filhos, ajudando a construir relacionamentos saudáveis desde o nascimento até a adolescência. O autor, Steve Biddulph, compartilha experiências de mais de vinte anos como terapeuta familiar, revelando como agir com inteligência e carinho, promovendo um ambiente positivo para as crianças.",
+  "exemplar_id": 1484,
+  "sku": "LI00WF",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/steve-biddulph--o-segredo-das-crian-as-felizes--capa--20250401--115741.jpg",
+  "contracapa": "static/uploads/steve-biddulph--o-segredo-das-crian-as-felizes--contracapa--20250401--115741.jpg",
+  "fotos": [
+    "static/uploads/steve-biddulph--o-segredo-das-crian-as-felizes--foto1--20250401--115741.jpg",
+    "static/uploads/steve-biddulph--o-segredo-das-crian-as-felizes--foto2--20250401--115741.jpg",
+    "static/uploads/steve-biddulph--o-segredo-das-crian-as-felizes--foto3--20250401--115741.jpg",
+    "static/uploads/steve-biddulph--o-segredo-das-crian-as-felizes--foto4--20250401--115741.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:43:27",
+  "observacoes": null
+}

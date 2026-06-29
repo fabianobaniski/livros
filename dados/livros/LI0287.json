@@ -1,0 +1,68 @@
+{
+  "obra_id": 3396,
+  "autor": "Aruko; Kazune Kawahara",
+  "titulo": "Ore monogatari!",
+  "subtitulo": "Minha história",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Relacionamentos. Amizade. Amor adolescente.",
+  "palavras_chave": "aruko ore monogatari",
+  "edicao_id": 3373,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "9788542604719",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>ORE MONOGATARI!! MINHA HISTÓRIA<br>Arte: Aruko<br>Roteiro: Kazune Kawahara</p>",
+  "sinopse": "Segundo volume do mangá 'Ore Monogatari!! Minha História', com arte de Aruko e roteiro de Kazune Kawahara. Uma história envolvente sobre relacionamentos e crescimento pessoal, acompanhando a trajetória única de seus protagonistas.",
+  "exemplar_id": 3372,
+  "sku": "LI0287",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/ore-monogatari__minha-historia__aruko-kazune-kawahara__capa__2025-11-05_16-14-58-368189.jpg",
+  "contracapa": "static/uploads/ore-monogatari__minha-historia__aruko-kazune-kawahara__contracapa__2025-11-05_16-14-58-404088.jpg",
+  "fotos": [
+    "static/uploads/ore-monogatari__minha-historia__aruko-kazune-kawahara__foto-01__2025-11-05_16-14-58-439048.jpg",
+    "static/uploads/ore-monogatari__minha-historia__aruko-kazune-kawahara__foto-02__2025-11-05_16-14-58-465080.jpg",
+    "static/uploads/ore-monogatari__minha-historia__aruko-kazune-kawahara__foto-03__2025-11-05_16-14-58-479719.jpg",
+    "static/uploads/ore-monogatari__minha-historia__aruko-kazune-kawahara__foto-04__2025-11-05_16-14-58-499302.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:38:47",
+  "observacoes": null
+}

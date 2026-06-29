@@ -1,0 +1,63 @@
+{
+  "obra_id": 2769,
+  "autor": "Bernardo Guimarães",
+  "titulo": "O garimpeiro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "bernardo guimaraes o garimpeiro",
+  "edicao_id": 2749,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 124,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2748,
+  "sku": "LI01QX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-garimpeiro-bernardo-guimaraes-capa_rev444.jpg",
+  "contracapa": "static/uploads/o-garimpeiro-bernardo-guimaraes-contracapa_rev1314.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro amarelado, mas em bom estado. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:17:18",
+  "observacoes": null
+}

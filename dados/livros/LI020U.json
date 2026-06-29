@@ -1,0 +1,63 @@
+{
+  "obra_id": 3126,
+  "autor": "Rav Berg",
+  "titulo": "The Holy Grail",
+  "subtitulo": "a Manifesto on the Zohar",
+  "idioma": "Inglês",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "berg the holy grail",
+  "edicao_id": 3106,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 131,
+  "peso": 280,
+  "isbn": "9781571898173",
+  "editora": "Pub Group West",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "A Lenda do Santo Graal é um mistério místico pré-cristão, associado a um objeto que confere conhecimento infinito e poder. Na Cabala, vaso e terra simbolizam o desejo humano de atrair a energia radiante do Criador. O Zohar, um texto místico, contém a Luz oculta do Criador, e acredita-se que possa ajudar a acabar com a dor e o sofrimento na Era de Aquário. Em 1922, o Zohar era altamente secreto, mas Rav Berg, líder do Kabbalah Centre a partir de 1969, arriscou-se a torná-lo acessível a todos. Rav Berg revela que o Zohar é o Santo Graal, capaz de elevar aqueles com mente e coração abertos a um universo paralelo de bondade, além das oscilações do mundo físico.",
+  "exemplar_id": 3105,
+  "sku": "LI020U",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, em capa dura, com sobrecapa. Possui  Excelente conservação, sem danos!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:15",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

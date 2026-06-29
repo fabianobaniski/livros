@@ -1,0 +1,68 @@
+{
+  "obra_id": 108,
+  "autor": "Douglas Adams",
+  "titulo": "O guia do mochileiro das galáxias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Ficção científica. Humor. Crítica social.",
+  "palavras_chave": "adams guia mochileiro galaxias",
+  "edicao_id": 106,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 280,
+  "isbn": "9788599296943",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "Guia do Mochileiro das Galáxias (Livro 1)",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Trinta anos celebrando a genialidade cômica de Douglas Adams...</h1><p>Considerado um dos maiores clássicos da literatura de ficção científica, O Guia do Mochileiro das Galáxias vem encantando gerações de leitores ao redor do mundo com seu humor afiado.</p><p>Este é o primeiro título da famosa série escrita por Douglas Adams, que conta as aventuras espaciais do inglês Arthur Dent e de seu amigo Ford Prefect.</p><p>A dupla escapa da destruição da Terra pegando carona numa nave alienígena, graças aos conhecimentos de Prefect, um E.T. que vivia disfarçado de ator desempregado enquanto fazia pesquisa de campo para a nova edição do Guia do Mochileiro das Galáxias, o melhor guia de viagens interplanetárias.</p><p>Mestre da sátira, Douglas Adams cria personagens inesquecíveis e situações mirabolantes para debachar da burocracia, dos políticos, da 'alta cultura' e de diversas instituições atuais. Seu livro, que trata em última instância da busca do sentido da vida, não só diverte como também faz pensar.</p>",
+  "sinopse": "O Guia do Mochileiro das Galáxias é um clássico da ficção científica que acompanha Arthur Dent e Ford Prefect em suas aventuras pelo espaço, escapando da destruição da Terra e explorando o sentido da vida com um humor afiado e críticas sociais, em meio a situações absurdas e personagens inesquecíveis.",
+  "exemplar_id": 105,
+  "sku": "LI002L",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/douglas-adams--o-guia-do-mochileiro-das-gal-xias--capa--20250226--114601.jpg",
+  "contracapa": "static/uploads/douglas-adams--o-guia-do-mochileiro-das-gal-xias--contracapa--20250226--114601.jpg",
+  "fotos": [
+    "static/uploads/douglas-adams--o-guia-do-mochileiro-das-gal-xias--foto1--20250226--114601.jpg",
+    "static/uploads/douglas-adams--o-guia-do-mochileiro-das-gal-xias--foto2--20250226--114601.jpg",
+    "static/uploads/douglas-adams--o-guia-do-mochileiro-das-gal-xias--foto3--20250226--114601.jpg",
+    "static/uploads/douglas-adams--o-guia-do-mochileiro-das-gal-xias--foto4--20250226--114601.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:18:15",
+  "observacoes": null
+}

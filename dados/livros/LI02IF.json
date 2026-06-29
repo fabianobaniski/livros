@@ -1,0 +1,63 @@
+{
+  "obra_id": 4709,
+  "autor": "Tadahiro Miura",
+  "titulo": "Yuuna e a pensão assombrada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Comédia. Sobrenatural.",
+  "palavras_chave": "miura yuuna pensao assombrada",
+  "edicao_id": 4684,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 196,
+  "peso": 210,
+  "isbn": "9786559820092",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 20,
+  "transcricao_contracapa": "<p>Vamos brincar outra vez! B-bom, acho que não é má ideia vir aqui outras vezes pra disputarmos!</p> <p>Ao acordar pela manhã, Yuuna havia se tornado um homem de verdade!! Apesar de Kogarashi não ter se incomodado muito com essa transformação, as confusões serão inevitáveis! Um certo dia, ao visitar a Pensão Yuragi, Asaka acaba invocando uma Barreira de Cláusula Imposta e agora todos precisam participar de uma gincana esportiva...!!</p>",
+  "sinopse": "Yuuna transforma-se em um homem de verdade ao acordar, surpreendendo todos ao seu redor. Enquanto Kogarashi não se incomoda, as confusões aumentam. Durante uma visita à Pensão Yuragi, uma barreira é invocada por Asaka, forçando todos a participarem de uma gincana esportiva.",
+  "exemplar_id": 4683,
+  "sku": "LI02IF",
+  "preco_estante_virtual": 29.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__capa__2026-02-20_10-30-13-224700-000.png",
+  "contracapa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__contracapa__2026-02-20_10-30-13-276320-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com sobrecapa e capas sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

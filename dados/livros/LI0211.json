@@ -1,0 +1,63 @@
+{
+  "obra_id": 3133,
+  "autor": "Eliseth Ribeiro Leão (org)",
+  "titulo": "Cuidar de Pessoas e Música",
+  "subtitulo": "uma Visão Multiprofissional",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": null,
+  "palavras_chave": "org cuidar pessoas musica",
+  "edicao_id": 3113,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 368,
+  "peso": 700,
+  "isbn": "9788577281329",
+  "editora": "Yendis",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Esta obra explora o papel da música no cuidado humano, especialmente em relação à saúde, através de experiências pessoais e profissionais. Combinando histórias, teorias, evidências científicas e casos de sucesso em projetos de humanização, o livro aborda temas que, embora antigos, estão ganhando atenção no meio acadêmico-científico. Além disso, propõe uma forma inovadora de entender a música no cuidado, facilitando sua integração em instituições de saúde.",
+  "exemplar_id": 3112,
+  "sku": "LI0211",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Dada a passagem das décadas, há, é claro, leves marcas de uso; nada acentuado. Não possui anotações, sublinhados, rasgos, amassados nem marcas de umidade, sol excessivo, mofo ou traça. Consta dedicatória na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:17:49",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

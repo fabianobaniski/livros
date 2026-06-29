@@ -1,0 +1,68 @@
+{
+  "obra_id": 1394,
+  "autor": "Eugene Peterson",
+  "titulo": "Um ano com Eugene Peterson",
+  "subtitulo": "Meditações diárias para uma vida centrada em Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Vida cristã. Devocionário.",
+  "palavras_chave": "peterson ano",
+  "edicao_id": 1376,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 332,
+  "peso": 400,
+  "isbn": "9788560387410",
+  "editora": "Palavra",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Um Ano com Eugene Peterson é um devocionário que combina versículos bíblicos com os escritos mais conhecidos do autor sobre a vida cristã. Aqui você desfrutará de uma companhia espiritual diária que traz, de uma forma viva, a mensagem de Deus à sua realidade. Peterson apresenta ferramentas e percepções que você necessita para ir além em sua fé cotidiana. As reflexões têm inspiração na Bíblia, na oração e na comunhão cristã e, certamente, conduzirão você ao caminho da descoberta da relevância da Palavra de Deus para a vida.</p>",
+  "sinopse": "Um Ano com Eugene Peterson é um devocionário que combina versículos bíblicos com os escritos mais conhecidos do autor sobre a vida cristã, oferecendo uma companhia espiritual diária que traz a mensagem de Deus à sua realidade. As reflexões inspiram na Bíblia, conduzindo à descoberta da relevância da Palavra de Deus para a vida.",
+  "exemplar_id": 1375,
+  "sku": "LI00TI",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 42.0,
+  "capa": "static/uploads/eugene-peterson--um-ano-com-eugene-peterson--capa--20250401--115339.jpg",
+  "contracapa": "static/uploads/eugene-peterson--um-ano-com-eugene-peterson--contracapa--20250401--115339.jpg",
+  "fotos": [
+    "static/uploads/eugene-peterson--um-ano-com-eugene-peterson--foto1--20250401--115339.jpg",
+    "static/uploads/eugene-peterson--um-ano-com-eugene-peterson--foto2--20250401--115339.jpg",
+    "static/uploads/eugene-peterson--um-ano-com-eugene-peterson--foto3--20250401--115339.jpg",
+    "static/uploads/eugene-peterson--um-ano-com-eugene-peterson--foto4--20250401--115339.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:35:21",
+  "observacoes": null
+}

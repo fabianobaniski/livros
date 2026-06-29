@@ -1,0 +1,68 @@
+{
+  "obra_id": 21,
+  "autor": "Holly Black; Neil Gaiman; Derek Landy; Charlie Higson; Alex Scarrow; Malorie Blackman; Richelle Mead; Patrick Ness; Philip Reeve; Marcus Sedgwick; Michael Scott; Eoin Colfer",
+  "titulo": "Doctor Who",
+  "subtitulo": "12 Doutores, 12 Histórias",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Ficção Científica. Viagem no Tempo. Doctor Who",
+  "palavras_chave": "black gaiman doctor who doutores historias",
+  "edicao_id": 21,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 470,
+  "peso": 400,
+  "isbn": "9788568263044",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>DOCTOR WHO</b></p><p><b>12 DOUTORES<br>12 HISTÓRIAS<br>1 SENHOR DO TEMPO</b></p><p>Os mais consagrados escritores que vivem em nossa galáxia nos dias de hoje criam, cada um, sua própria e única aventura sobre o carismático viajante do tempo.</p>",
+  "sinopse": "Coletânea de 12 histórias escritas por renomados autores, cada uma explorando uma aventura única do icônico Doutor da série Doctor Who.",
+  "exemplar_id": 20,
+  "sku": "LI000I",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/holly-black--doctor-who--capa--20250225--163920.jpg",
+  "contracapa": "static/uploads/holly-black--doctor-who--contracapa--20250225--163920.jpg",
+  "fotos": [
+    "static/uploads/holly-black--doctor-who--foto1--20250225--163920.jpg",
+    "static/uploads/holly-black--doctor-who--foto2--20250225--163920.jpg",
+    "static/uploads/holly-black--doctor-who--foto3--20250225--163920.jpg",
+    "static/uploads/holly-black--doctor-who--foto4--20250225--163920.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:32:43",
+  "observacoes": null
+}

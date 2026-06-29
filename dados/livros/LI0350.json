@@ -1,0 +1,68 @@
+{
+  "obra_id": 5755,
+  "autor": "Abril Coleções",
+  "titulo": "Cozinha regional brasileira",
+  "subtitulo": "Rio de Janeiro",
+  "idioma": "Português",
+  "categoria": "Culinária",
+  "temas": "Culinária brasileira. Gastronomia regional. Tradições do Rio de Janeiro.",
+  "palavras_chave": "rio janeiro",
+  "edicao_id": 5730,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 173,
+  "peso": 470,
+  "isbn": "9788562605109",
+  "editora": "Abril Coleções",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "Cozinha Regional Brasileira",
+  "volume": 5,
+  "transcricao_contracapa": "<p>De um lado, o mar; do outro, a montanha; no meio, os botequins, seus irresistíveis petiscos, receitas de sotaque português e a festejada feijoada. Assim pode ser definida a culinária da cidade do Rio de Janeiro, que domina o paladar fluminense. Entretanto, o Estado reserva surpresas, como os queijos de tradição suíça e pratos finlandeses na região serrana. Este volume da coleção COZINHA REGIONAL BRASILEIRA reúne as melhores receitas do Rio de Janeiro e criações de seus grandes chefs e cozinheiros.</p>",
+  "sinopse": "Combinando mar e montanha, o Rio de Janeiro apresenta uma culinária marcada pelos botequins, petiscos irresistíveis, influência portuguesa e a tradicional feijoada. O Estado ainda surpreende com queijos suíços e pratos finlandeses em sua região serrana. Este volume da coleção Cozinha Regional Brasileira reúne o melhor da gastronomia carioca, incluindo receitas e criações de renomados chefs e cozinheiros.",
+  "exemplar_id": 5729,
+  "sku": "LI0350",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/rio-de-janeiro__none__none__capa__2026-01-18_14-11-24-351241-000.png",
+  "contracapa": "static/uploads/rio-de-janeiro__none__none__contracapa__2026-01-18_14-11-24-424208-001.png",
+  "fotos": [
+    "static/uploads/rio-de-janeiro__none__none__foto-01__2026-01-18_14-11-24-479610-002.jpg",
+    "static/uploads/rio-de-janeiro__none__none__foto-02__2026-01-18_14-11-24-511926-003.jpg",
+    "static/uploads/rio-de-janeiro__none__none__foto-03__2026-01-18_14-11-24-549752-004.jpg",
+    "static/uploads/rio-de-janeiro__none__none__foto-04__2026-01-18_14-11-24-582825-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:05:17",
+  "observacoes": null
+}

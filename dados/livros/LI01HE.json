@@ -1,0 +1,63 @@
+{
+  "obra_id": 2425,
+  "autor": "Gustavo Barroso",
+  "titulo": "Caxias",
+  "subtitulo": "Coleção Nossos Grandes Mortos",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "barroso caxias colecao nossos",
+  "edicao_id": 2405,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 46,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Livraria Agir",
+  "numero_edicao": 0,
+  "ano": 1945,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2404,
+  "sku": "LI01HE",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/gustavo-barroso--caxias--capa--20260316--180728.jpg",
+  "contracapa": "static/uploads/gustavo-barroso--caxias--contracapa--20260316--180729.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bastante envelhecido, fortemente amarelado pelo tempo. Capa, lombada e contracapa apresentam desgastes. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:39:01",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2114,
+  "autor": "Carmen Soares",
+  "titulo": "Imagens da educação no corpo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Corpo. Ginástica. História das ideias.",
+  "palavras_chave": "soares imagens educacao corpo",
+  "edicao_id": 2094,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 145,
+  "peso": 245,
+  "isbn": "8585701536",
+  "editora": "Autores Associados",
+  "numero_edicao": 3,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Por convenção os textos são impressos em caracteres escuros sobre fundo claro. Apesar de virem de regiões obscuras da sociedade dos homens, as palavras fixam-se no papel escuras em fundos claros, neutros, como se quisessem esquecer sua origem complexa, ambígua, perigosa, para exibirem-se como limpas, nítidas, claras. E assim se exige também às idéias que elas expõem. E também quando elas são faladas. E assim deve ser o orador, o cientista, o escritor acadêmico. Limpo, claro, nítido. E também a escola, a educação do corpo, a ginástica.</p><p>Certa vez, convencionou-se também que a arte verdadeira deveria ser suja, escura, obscura, como se ela não quisesse expor sua face solar, clara, positiva. E assim deveria ser o artista. Sujo, obscuro, problemático. E também a rua, o funâmbulo, o trabalhador das minas, o circo.</p><p>O exagero destas duas afirmações leva-nos a afirmar que deveríamos buscar uma opinião média. Não. Para que algo significativo seja revelado, as coisas devem ser misturadas, colocadas em tensão. Buscar sentidos na aproximação problemática de linguagens diferentes. Tradução. Traduzir de uma linguagem para outra para que algo de verdadeiro e inesperado surja ora do texto, ora da imagem e aí achar trechos da história que ficaram perdidos e obscurecidos pela história oficial. Tradução também da imaginação, do desejo e da história do pesquisador, dos trechos perdidos e obscurecidos pela sua história oficial. Como se uma pesquisa pudesse ser ao mesmo tempo uma história pessoal profundamente social.</p><p><i>Milton José de Almeida</i></p>",
+  "sinopse": "O livro propõe uma reflexão sobre os modos de fixação e exposição dos conhecimentos e práticas sociais, utilizando o corpo e a educação como eixos centrais. Traz questões sobre clareza e obscuridade tanto nas ideias quanto nas tradições artísticas e científicas; sugere que encontrar significado envolve misturar, tensionar e traduzir linguagens e experiências. A obra discute ainda o papel das histórias individuais e coletivas na formação social, evocando um olhar para os aspectos esquecidos ou marginalizados pela história oficial.",
+  "exemplar_id": 2093,
+  "sku": "LI018R",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/carmen-soares--imagens-da-educa--o-no-corpo--capa--20250430--104535.jpg",
+  "contracapa": "static/uploads/carmen-soares--imagens-da-educa--o-no-corpo--contracapa--20250430--104535.jpg",
+  "fotos": [
+    "static/uploads/carmen-soares--imagens-da-educa--o-no-corpo--foto1--20250430--104535.jpg",
+    "static/uploads/carmen-soares--imagens-da-educa--o-no-corpo--foto2--20250430--104535.jpg",
+    "static/uploads/carmen-soares--imagens-da-educa--o-no-corpo--foto3--20250430--104535.jpg",
+    "static/uploads/carmen-soares--imagens-da-educa--o-no-corpo--foto4--20250430--104535.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:14:22",
+  "observacoes": "procedencia_biblioteca"
+}

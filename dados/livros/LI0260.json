@@ -1,0 +1,68 @@
+{
+  "obra_id": 3314,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos japoneses. Relações familiares. Romance escolar. LGBTQIA+.",
+  "palavras_chave": "saburouta citrus volume manga",
+  "edicao_id": 3294,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788583622413",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p><b>Yuzu</b>, apesar da sua aparência descolada, é uma menina pura e ingênua que não sabe como lidar com a sua irmã <b>Mei</b>, com quem passou a morar sob o mesmo teto depois do segundo casamento da mãe.</p><p>Isso porque a <b>Yuzu</b> vem percebendo as expressões de solidão que a <b>Mei</b> mostra de vez em quando, mesmo ela sendo a indefectível presidente do Conselho Estudantil.</p><p>Contudo, agora quem entra em cena é a <b>Himeko</b>, a amiga de infância da <b>Mei</b> e vice-presidente do Conselho, no intuito único de afastar a <b>Yuzu</b> da irmã!</p>",
+  "sinopse": "Yuzu, uma garota ingênua e de aparência descolada, lida com a convivência com sua meia-irmã Mei após o segundo casamento de sua mãe. Yuzu nota que Mei, presidente do Conselho Estudantil, apresenta sinais de solidão. A situação se complica com a chegada de Himeko, vice-presidente do Conselho e amiga de infância de Mei, que tenta afastar Yuzu da irmã.",
+  "exemplar_id": 3293,
+  "sku": "LI0260",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2025-11-05_16-25-10-056708.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2025-11-05_16-25-10-111786.jpg",
+  "fotos": [
+    "static/uploads/citrus__saburouta__foto-01__2025-11-05_16-25-10-626123.jpg",
+    "static/uploads/citrus__saburouta__foto-02__2025-11-05_16-25-10-759497.jpg",
+    "static/uploads/citrus__saburouta__foto-03__2025-11-05_16-25-10-781666.jpg",
+    "static/uploads/citrus__saburouta__foto-04__2025-11-05_16-25-11-042911.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:11:40",
+  "observacoes": null
+}

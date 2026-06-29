@@ -1,0 +1,63 @@
+{
+  "obra_id": 2972,
+  "autor": "Milton Mariano Azevedo",
+  "titulo": "Vozes em branco e preto",
+  "subtitulo": "A representação literária da fala não-padrão",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "azevedo vozes branco preto",
+  "edicao_id": 2952,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 163,
+  "peso": 300,
+  "isbn": "9788531407611",
+  "editora": "Edusp",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Vozes em Branco e Preto analisa a representação da oralidade em obras de ficção, com foco nas variações linguísticas expressas por dialetos regionais, sociais e falas híbridas. A obra utiliza uma abordagem acessível e com pouca terminologia técnica, tornando-se ideal tanto para estudiosos de linguística e teoria literária quanto para leitores leigos interessados em linguagem e literatura. O livro oferece uma reflexão valiosa sobre como a variação linguística é representada e seu impacto nas narrativas ficcionais.",
+  "exemplar_id": 2951,
+  "sku": "LI01WK",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/vozes-em-branco-e-preto-milton-mariano-azevedo-capa_rev2125.jpg",
+  "contracapa": "static/uploads/vozes-em-branco-e-preto-milton-mariano-azevedo-contracapa_rev552.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:45:51",
+  "observacoes": null
+}

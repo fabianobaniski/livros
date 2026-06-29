@@ -1,0 +1,63 @@
+{
+  "obra_id": 3104,
+  "autor": "Robert L. Park",
+  "titulo": "Superstição",
+  "subtitulo": "Crenças na era da Ciência",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": null,
+  "palavras_chave": "park supersticao crencas era",
+  "edicao_id": 3084,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 309,
+  "peso": 400,
+  "isbn": "9788526809222",
+  "editora": "Unicamp",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Em Superstição, Park questiona a persistência das crenças supersticiosas apesar da ciência refutá-las, analisando desde religião e vida após a morte até práticas médicas baseadas em fé e espiritualismo da Nova Era. Ele defende a ciência como nossa melhor ferramenta de compreensão do mundo e se preocupa com o aumento das superstições, buscando explicar nos capítulos do livro por que pseudociência é frequentemente confundida com ciência.",
+  "exemplar_id": 3083,
+  "sku": "LI0208",
+  "preco_estante_virtual": 48.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado, apenas com levíssimos sinais de uso. Não possui marcas de umidade, exposição ao sol, cheiro de mofo, furo de traça, nem anotações, sublinhados, rabiscos, rasgos ou amassados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:36:35",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 4978,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Relações interpessoais. Comédia romântica.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 4953,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 170,
+  "isbn": "9788542619409",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 23,
+  "transcricao_contracapa": "<p>Chitoge tenta animar Raku em um de seus encontros, mas nenhum de seus planos funciona, causando um enorme desentendimento. Em meio às brigas, os dois decidem fazer uma trégua e retomar o encontro em paz. De repente, Raku parece entender seus sentimentos pela primeira vez...</p>",
+  "sinopse": "Chitoge tenta animar Raku em um encontro, mas falha, resultando em desentendimentos. Após as brigas, eles fazem uma trégua, permitindo que Raku finalmente compreenda seus sentimentos.",
+  "exemplar_id": 4952,
+  "sku": "LI02PW",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2026-02-20_10-31-27-594169-000.png",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2026-02-20_10-31-27-787689-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

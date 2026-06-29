@@ -1,0 +1,63 @@
+{
+  "obra_id": 588,
+  "autor": "Ernst Werner Janzen",
+  "titulo": "Conflitos na igreja",
+  "subtitulo": "Como sobreviver aos conflitos e desenvolver uma cultura de paz",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Conflitos. Cultura de paz. Fé.",
+  "palavras_chave": "janzen conflitos igreja",
+  "edicao_id": 573,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 140,
+  "peso": 250,
+  "isbn": "9788578390860",
+  "editora": "Esperança",
+  "numero_edicao": 1,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Como ficaria a igreja se todos enfrentassem conflitos como você? Será que a igreja seria perfeita? Imagino que uma das razões que o levaram a pegar este livro é que provavelmente está envolvido em algum grau de conflito em sua igreja ou na vida pessoal. Conflitos trazem revelações sobre nossa fé e nosso caráter: nossa disposição ou negação de sermos o Corpo de Cristo. Creio que a igreja é o lugar que Deus quer utilizar para restaurar vidas e desenvolver uma cultura de paz.</p> <p>Este livro tem como objetivo despertar uma reflexão sobre a natureza dos conflitos na igreja e apresentar alternativas de resposta.</p>",
+  "sinopse": "Este livro busca refletir sobre a presença de conflitos na igreja e como enfrentá-los. Através de revelações sobre fé e caráter, propõe um entendimento de que a igreja é um espaço para restaurar vidas e promover uma cultura de paz, enquanto sugere alternativas para lidar com as tensões que surgem nesse contexto.",
+  "exemplar_id": 572,
+  "sku": "LI00FB",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/ernst-werner-janzen--conflitos--capa--20250227--152851.jpg",
+  "contracapa": "static/uploads/ernst-werner-janzen--conflitos--contracapa--20250227--152851.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:55:47",
+  "observacoes": null
+}

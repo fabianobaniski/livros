@@ -1,0 +1,68 @@
+{
+  "obra_id": 2064,
+  "autor": "Sergio Pinto Martins",
+  "titulo": "Instituições de direito público e privado",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Direito público. Direito privado. Introdução ao direito.",
+  "palavras_chave": "martins instituicoes direito publico privado",
+  "edicao_id": 2044,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 466,
+  "peso": 690,
+  "isbn": "9788522468065",
+  "editora": "Atlas",
+  "numero_edicao": 12,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Autor faz a exposição didática do conceito de Direito, sua divisão, suas fontes, seus princípios, a interpretação, integração e eficácia das normas jurídicas.</p><p>Na parte sobre o Direito Público versa sobre teoria do Estado, direito constitucional, administrativo, tributário, penal, processual e internacional público.</p><p>A terceira parte do livro trata do Direito Privado, dividido em Direito Civil, Comercial e do Trabalho. No capítulo sobre o Direito Civil são feitas referências à parte geral, direito das coisas, das sucessões, de família, das obrigações e contratos.</p><p>No capítulo relativo ao Direito Comercial são analisados o empresário, a empresa, sociedades mercantis, contratos mercantis, títulos de crédito, falência e concordata e direito do consumidor. No último capítulo são dadas noções de ética profissional.</p><h2>NOTA SOBRE O AUTOR</h2><p><b>Sergio Pinto Martins</b> é bacharel em Direito, Ciências Contábeis e Administração de Empresas. É mestre em Direito Tributário, doutor e livre-docente em Direito do Trabalho pela Faculdade de Direito da USP. Especialista em Direito Empresarial pela Universidade Mackenzie e em Direito do Trabalho pela USP. Desembargador do TRT da 2ª Região. Professor titular de Direito do Trabalho da Faculdade de Direito da USP (Fadusp). Autor de outros 37 livros nas áreas de Direito do Trabalho e legislação trabalhista e previdenciária, publicados pela Atlas.</p><h2>APLICAÇÃO</h2><p>Livro-texto para as disciplinas <i>Noções de Direito e Instituições de Direito Público e Privado</i> dos cursos de graduação em Contabilidade, Economia, Administração de Empresas, Engenharia, Computação ou outros cursos que tenham as referidas matérias. O objetivo do livro é estabelecer, num único volume, todas as noções de Direito a serem estudadas nos referidos cursos. Livro de referência e consulta para candidatos de concursos públicos, mesmo não sendo da área jurídica, e para pessoas que estejam iniciando o estudo da matéria.</p>",
+  "sinopse": "A obra apresenta uma exposição didática sobre o conceito de Direito, sua divisão, fontes e princípios, e a eficácia das normas jurídicas. Aborda o Direito Público, incluindo teoria do Estado, direito constitucional, administrativo, tributário, penal, processual e internacional. O Direito Privado é tratado em suas vertentes civil, comercial e do trabalho, detalhando desde questões familiares até contratos e ética profissional. Indicado para estudantes de diversas áreas e candidatos a concursos, o livro serve como referência introdutória ao estudo do Direito.",
+  "exemplar_id": 2043,
+  "sku": "LI017D",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/sergio-pinto-martins--institui--es-de-direito-p-blico-e-privado--capa--20250430--104527.jpg",
+  "contracapa": "static/uploads/sergio-pinto-martins--institui--es-de-direito-p-blico-e-privado--contracapa--20250430--104527.jpg",
+  "fotos": [
+    "static/uploads/sergio-pinto-martins--institui--es-de-direito-p-blico-e-privado--foto1--20250430--104528.jpg",
+    "static/uploads/sergio-pinto-martins--institui--es-de-direito-p-blico-e-privado--foto2--20250430--104528.jpg",
+    "static/uploads/sergio-pinto-martins--institui--es-de-direito-p-blico-e-privado--foto3--20250430--104528.jpg",
+    "static/uploads/sergio-pinto-martins--institui--es-de-direito-p-blico-e-privado--foto4--20250430--104528.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:25:10",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1759,
+  "autor": "Anderson Hernandes",
+  "titulo": "O poder da Marca Pessoal nos Negócios",
+  "subtitulo": "10 armas poderosas para seu marketing pessoal",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Marketing pessoal. Marca pessoal. Negócios.",
+  "palavras_chave": "hernandes poder marca pessoal negocios",
+  "edicao_id": 1739,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 126,
+  "peso": 160,
+  "isbn": "",
+  "editora": "KLA Educação Empresarial",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O poder da Marca Pessoal nos Negócios</p><br><p><b>Nesse livro você aprenderá:</b></p><ul><li>Como criar uma marca pessoal de destaque</li><li>Como tirar proveito do seu marketing pessoal</li><li>Como converter a marca pessoal em resultados</li></ul>",
+  "sinopse": "Neste livro, o leitor aprenderá como criar uma marca pessoal de destaque, tirar proveito do marketing pessoal e converter essa marca em resultados concretos. Oferece estratégias e ferramentas para fortalecer sua presença no mercado de negócios por meio do desenvolvimento do marketing pessoal.",
+  "exemplar_id": 1738,
+  "sku": "LI00YY",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/anderson-hernandes--o-poder-da-marca-pessoal-nos-neg-cios--capa--20250430--102942.jpg",
+  "contracapa": "static/uploads/anderson-hernandes--o-poder-da-marca-pessoal-nos-neg-cios--contracapa--20250430--102942.jpg",
+  "fotos": [
+    "static/uploads/anderson-hernandes--o-poder-da-marca-pessoal-nos-neg-cios--foto1--20250430--102942.jpg",
+    "static/uploads/anderson-hernandes--o-poder-da-marca-pessoal-nos-neg-cios--foto2--20250430--102942.jpg",
+    "static/uploads/anderson-hernandes--o-poder-da-marca-pessoal-nos-neg-cios--foto3--20250430--102942.jpg",
+    "static/uploads/anderson-hernandes--o-poder-da-marca-pessoal-nos-neg-cios--foto4--20250430--102942.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:37:21",
+  "observacoes": "procedencia_biblioteca"
+}

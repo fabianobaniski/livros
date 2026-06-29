@@ -1,0 +1,63 @@
+{
+  "obra_id": 4989,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Aventura. Treinamento. Desafios.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4964,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9788545703174",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 9,
+  "transcricao_contracapa": "<p>Para poder reencontrar Kitty, Touta terá que enfrentar uma provação impossível!</p> <p>Touta e os outros continuam o treinamento com Dana, a Bruxa da Dimensão. Então, o jovem imortal promete para Kitty encontrá-la em \"quatro dias\" no castelo de sua mestre. Porém... o tempo estimado para o término da provação é de um mês! E quem do espera ao final é um inimigo com um poder equivalente ao de Fate! Touta se desespera diante dessa sinuca de bico, mas quem aparece para ajudá-lo é...</p>",
+  "sinopse": "Touta e seus amigos continuam o treinamento com Dana, a Bruxa da Dimensão, prometendo encontrar Kitty em quatro dias no castelo da mestre. No entanto, a provação dura um mês e um poderoso inimigo os aguarda. Desespero toma conta de Touta, mas uma ajuda inesperada surge.",
+  "exemplar_id": 4963,
+  "sku": "LI02Q7",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-32-426176-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-32-832975-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

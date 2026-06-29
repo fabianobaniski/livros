@@ -1,0 +1,63 @@
+{
+  "obra_id": 2337,
+  "autor": "Steven Johnson",
+  "titulo": "A invenção do ar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "steven johnson a invencao do ar",
+  "edicao_id": 2317,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 218,
+  "peso": 507,
+  "isbn": "9788537801666",
+  "editora": "Jorge Zahar Editor",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Explora as conexões entre eventos históricos e descobertas científicas aparentemente desconexos, centrando-se na vida de Joseph Priestley, um pensador britânico do século XVIII. Priestley, que foi citado muitas vezes nas cartas de John Adams e Thomas Jefferson, fez importantes contribuições para a química, incluindo a descoberta de que as plantas produzem oxigênio. A obra não é apenas uma biografia, mas uma narrativa que integra ciência, revolução e o nascimento dos Estados Unidos, mostrando como ideias e inovações científicas influenciam o progresso social e tecnológico.",
+  "exemplar_id": 2316,
+  "sku": "LI01EY",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/steven-johnson--a-invencao-do-ar--capa--20260316--100449.jpg",
+  "contracapa": "static/uploads/steven-johnson--a-invencao-do-ar--contracapa--20260316--100456.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:26:07",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 423,
+  "autor": "Ralph Waldo Emerson",
+  "titulo": "A conduta da vida",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Autoconhecimento. Liberdade.",
+  "palavras_chave": "emerson conduta vida",
+  "edicao_id": 411,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 240,
+  "peso": 300,
+  "isbn": "9786580136056",
+  "editora": "Auster",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Para mim, a questão dos tempos se resume a uma questão prática a respeito da condução da vida. Como devo viver? Logo nos primeiros passos para realizar nossos desejos deparamos-nos com limitações intransponíveis. Mas, se devemos aceitar o destino, não somos por isso menos levados a afirmar a liberdade, a importância do indivíduo, a excelência do dever, o poder do caráter.</p><p>A revelação do pensamento tira o homem da escravidão e o liberta. A respeito de nós mesmos, podemos dizer corretamente que nascemos, e depois nascemos novamente, e assim inúmeras vezes. Passamos por sucessivas experiências significativas, as novas sobrepõem-se às antigas.</p><p>Conforme os homens avançam na vida, adquirem outra maneira de ver as coisas, assim como novos critérios; uma intuição que despreza o que é feito para agradar o olhar, e ouvidos que não escutam o que dizem os homens, mas atentos ao que eles não dizem.</p><p>O dia dos dias, o dia grandioso do banquete da vida é aquele em que o nosso olho interior se abre para a unidade das coisas e vê o que é e deve ser, e em ter de ser, e é o melhor.</p>",
+  "sinopse": "A obra de Emerson trata sobre as questões práticas da condução da vida, abordando a importância da liberdade e do caráter individual. Ele discorre sobre a evolução do pensamento humano, destacando a necessidade de se libertar de limitações e buscar novas experiências. A reflexão vai além, explorando como os homens, conforme avançam na vida, adquirem novos critérios e compreensões, enfatizando a sabedoria e a percepção mais profundas do ser.",
+  "exemplar_id": 410,
+  "sku": "LI00AT",
+  "preco_estante_virtual": 32.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/ralph-waldo-emerson--a-conduta-da-vida--capa--20250226--133828.jpg",
+  "contracapa": "static/uploads/ralph-waldo-emerson--a-conduta-da-vida--contracapa--20250226--133828.jpg",
+  "fotos": [
+    "static/uploads/ralph-waldo-emerson--a-conduta-da-vida--foto1--20250226--133828.jpg",
+    "static/uploads/ralph-waldo-emerson--a-conduta-da-vida--foto2--20250226--133828.jpg",
+    "static/uploads/ralph-waldo-emerson--a-conduta-da-vida--foto3--20250226--133828.jpg",
+    "static/uploads/ralph-waldo-emerson--a-conduta-da-vida--foto4--20250226--133828.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:13:45",
+  "observacoes": null
+}

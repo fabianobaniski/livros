@@ -1,0 +1,68 @@
+{
+  "obra_id": 2285,
+  "autor": "Sérgio de Iudícibus",
+  "titulo": "Teoria da contabilidade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Teoria contábil. Educação superior. Normas internacionais.",
+  "palavras_chave": "iudicibus teoria contabilidade",
+  "edicao_id": 2265,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 336,
+  "peso": 1020,
+  "isbn": "9788522452781",
+  "editora": "Atlas",
+  "numero_edicao": 9,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Teoria da Contabilidade</h1><p>O envolvimento profissional do contador no contexto atual dos negócios exige que a sua preparação não mais se restrinja ao conhecimento das técnicas de registro contábil e de preparação de demonstrações contábeis. O atual grau de complexidade das operações e eventos e seus desdobramentos econômico-contábeis exigem do profissional o conhecimento das bases teóricas da disciplina, para que estas sejam aplicadas de maneira consciente, não automática, na solução de problemas reais.</p><p>Este livro abrange desde os objetivos e a metodologia da Contabilidade até as suas mais recentes tendências e perspectivas futuras. Desde sua primeira publicação em 1979, esta obra continua como um dos ícones do mercado editorial, contribuindo para o estudo da disciplina, tanto para estudantes dos cursos avançados de graduação, como dos de pós-graduação em Contabilidade, que poderão utilizá-lo como material de revisão crítico de conteúdos básicos. Adicionalmente, fornece um instrumental de reflexão extremamente importante para os profissionais das mais variadas especializações contábeis, na solução dos complexos problemas que enfrentam.</p><p>Na revisão desta nova edição, há inúmeras inserções e atualizações na maior parte dos capítulos, principalmente para ilustrar novas tendências que têm surgido na Teoria da Contabilidade, bem como atualizações, tendo em vista a convergência, que está ocorrendo no Brasil, aos padrões internacionais do IASB e referências à nova Estrutura Conceitual do CPC/CVM/CFC, bem como à Lei nº 11.638/2007. A Unidade II, O Núcleo Fundamental da Teoria Contábil, foi sensivelmente reforçada com a realocação de capítulos que constavam de outras unidades e com versões devidamente revistas e ampliadas.</p><h2>NOTA SOBRE O AUTOR</h2><p>Sérgio de Iudícibus é Professor Titular aposentado do Departamento de Contabilidade e Atuária da FEA/USP. Professor de Mestrado em Ciências Contábeis e Financeiras na PUC de São Paulo e membro do Conselho Curador da FIPECAFI. Coordenador e co-autor do livro <i>Contabilidade introdutória</i>. Autor dos livros <i>Análise de balanços</i> (Texto e Exercícios), <i>Análise de custos</i> (esgotado) e <i>Contabilidade gerencial</i> (Texto e Exercícios) e co-autor de <i>Contabilidade comercial</i> (Texto e Exercícios), <i>Curso de contabilidade para não contadores</i> (Texto e Exercícios), <i>Dicionário de termos de contabilidade</i>, <i>Introdução à teoria da contabilidade</i>, <i>Manual de contabilidade para não contadores</i> (esgotado), <i>Teoria avançada da contabilidade</i>, <i>Tributação e política tributária</i> e <i>Opções de ações para funcionários</i>, todos publicados pela Atlas. Co-responsável pelo <i>Manual de Contabilidade das Sociedades por Ações</i>, também da Atlas. Foi Visiting Professor da Universidade de Kansas, nos EUA, em 1986, quando ministrou, no Mestrado daquela instituição, as disciplinas Contabilidade Gerencial e Seminários de Teoria da Correção Monetária Contábil. O Professor Iudícibus associou seu nome a uma importante etapa da devolução da Contabilidade no Brasil quando, em 1962, juntamente com outros pioneiros, se iniciou a mudança do ensino e da pesquisa em Contabilidade, lançando-se as bases de uma linha de pensamento mais voltada para as necessidades do usuário da informação contábil. O Professor Iudícibus exerceu, em várias gestões, a Chefia do Departamento de Contabilidade e Atuária da FEA/USP, bem como foi seu Diretor entre 1979 e 1983. Também exerceu a função de Diretor de Fiscalização do Banco Central do Brasil.</p><h2>APLICAÇÃO</h2><p>Texto básico para cursos de graduação e pós-graduação em Teoria da Contabilidade. Leitura complementar para a disciplina <i>Contabilidade Avançada</i> dos cursos de graduação em Contabilidade. Texto de referência para uso profissional.</p>",
+  "sinopse": "Teoria da Contabilidade apresenta uma abordagem das bases teóricas, objetivos e metodologias da Contabilidade, discutindo desde temas clássicos até tendências recentes e perspectivas futuras. Destinado a estudantes avançados e profissionais, o livro traz reflexões e atualizações alinhadas à convergência internacional e à legislação brasileira. Considerada referência na área desde 1979, a obra serve tanto como material de estudo quanto de consulta prática para solução de problemas contábeis reais.",
+  "exemplar_id": 2264,
+  "sku": "LI01DI",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/s-rgio-de-iud-cibus--teoria-da-contabilidade--capa--20250430--105109.jpg",
+  "contracapa": "static/uploads/s-rgio-de-iud-cibus--teoria-da-contabilidade--contracapa--20250430--105109.jpg",
+  "fotos": [
+    "static/uploads/s-rgio-de-iud-cibus--teoria-da-contabilidade--foto1--20250430--105109.jpg",
+    "static/uploads/s-rgio-de-iud-cibus--teoria-da-contabilidade--foto2--20250430--105109.jpg",
+    "static/uploads/s-rgio-de-iud-cibus--teoria-da-contabilidade--foto3--20250430--105109.jpg",
+    "static/uploads/s-rgio-de-iud-cibus--teoria-da-contabilidade--foto4--20250430--105109.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:57:08",
+  "observacoes": "procedencia_biblioteca"
+}

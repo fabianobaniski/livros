@@ -1,0 +1,68 @@
+{
+  "obra_id": 264,
+  "autor": "Nietzsche",
+  "titulo": "A genealogia da moral",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Moral. Linguística.",
+  "palavras_chave": "nietzsche genealogia moral",
+  "edicao_id": 258,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 143,
+  "peso": 250,
+  "isbn": "9788581862590",
+  "editora": "Lafonte",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "Coleção Grandes Obras do Pensamento Universal",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em Genealogia da Moral Nietzsche faz uma análise das palavras bom e mau e questiona se esses conceitos não teriam sido inventados pelos que se consideram superiores e são dominantes, justamente para escravizar os mais vulneráveis. Etymologicamente, ele dissec...r humanos. É um livro que dá continuidade a uma obra anterior: Além do bem e do mal. Entende que saber o significado das palavras e conhecer a história de sua evolução é a única forma de compreender a moral e os valores. Entre os livros de Nietzsche, este é o mais estudado nos meios acadêmicos, tema de maior número de teses, talvez porque procura responder de forma direta os questionamentos mais polêmicos da humanidade.</p>",
+  "sinopse": "A obra 'Genealogia da Moral' de Nietzsche analisa os conceitos de bom e mau, questionando suas histórias e origens, e examina como esses termos foram manipulados por aqueles que se consideram superiores. Através de uma investigação etimológica, o autor se propõe a entender a evolução desses significados para compreender melhor a moral e os valores humanos. É uma continuação de seu trabalho anterior, além do bem e do mal, e se destaca entre suas obras pelas discussões profundas que levanta.",
+  "exemplar_id": 257,
+  "sku": "LI006P",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/nietzsche--a-genealogia-da-moral--capa--20250226--133813.jpg",
+  "contracapa": "static/uploads/nietzsche--a-genealogia-da-moral--contracapa--20250226--133813.jpg",
+  "fotos": [
+    "static/uploads/nietzsche--a-genealogia-da-moral--foto1--20250226--133813.jpg",
+    "static/uploads/nietzsche--a-genealogia-da-moral--foto2--20250226--133813.jpg",
+    "static/uploads/nietzsche--a-genealogia-da-moral--foto3--20250226--133813.jpg",
+    "static/uploads/nietzsche--a-genealogia-da-moral--foto4--20250226--133813.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Capa com leve marca de dobra. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:24:14",
+  "observacoes": null
+}

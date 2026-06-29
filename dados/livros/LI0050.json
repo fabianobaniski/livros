@@ -1,0 +1,68 @@
+{
+  "obra_id": 203,
+  "autor": "Lewis Carroll",
+  "titulo": "Alice au pays des merveilles",
+  "subtitulo": "",
+  "idioma": "Francês",
+  "categoria": "Infanto Juvenis",
+  "temas": "Literatura fantástica. Infância.",
+  "palavras_chave": "carroll alice pays merveilles",
+  "edicao_id": 197,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 91,
+  "peso": 150,
+  "isbn": "9781974568987",
+  "editora": "CPSIA",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Assise au bord de la rivière, Alice s’ennuyait un peu quand soudain, venu de nulle part, surgit un lapin blanc pressé de regagner son terrier. N’hésitant pas à le suivre, Alice pénètre dans un monde de prodiges et de menaces qui n’est autre que le royaume de l’enfance. Et voici le chat de Cheshire à l’étrange sourire, la terrible Reine de Coeur, le Chapelier fou et le Lièvre de Mars, la Fausse Tortue et le Valet-Poisson...</p>",
+  "sinopse": "Alice, entediada à beira do rio, segue um coelho branco e entra em um mundo repleto de maravilhas e perigos, onde encontra personagens icônicos como o Gato de Cheshire e a aterrorizante Rainha de Copas.",
+  "exemplar_id": 196,
+  "sku": "LI0050",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/lewis-carroll--alice-au-pays-des-merveilles--capa--20250226--133805.jpg",
+  "contracapa": "static/uploads/lewis-carroll--alice-au-pays-des-merveilles--contracapa--20250226--133805.jpg",
+  "fotos": [
+    "static/uploads/lewis-carroll--alice-au-pays-des-merveilles--foto1--20250226--133805.jpg",
+    "static/uploads/lewis-carroll--alice-au-pays-des-merveilles--foto2--20250226--133805.jpg",
+    "static/uploads/lewis-carroll--alice-au-pays-des-merveilles--foto3--20250226--133805.jpg",
+    "static/uploads/lewis-carroll--alice-au-pays-des-merveilles--foto4--20250226--133805.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:21:25",
+  "observacoes": null
+}

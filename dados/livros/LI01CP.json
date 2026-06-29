@@ -1,0 +1,68 @@
+{
+  "obra_id": 2256,
+  "autor": "Cristina Maria Teixeira Stevens; Maria Jandyra Cavalcanti Cunha",
+  "titulo": "Caminhos e colheita",
+  "subtitulo": "Ensino e pesquisa na área de inglês no Brasil",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Ensino de idiomas. História do ensino de inglês no Brasil. Pesquisa acadêmica.",
+  "palavras_chave": "stevens caminhos colheita ensino pesquisa ingles brasil",
+  "edicao_id": 2236,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 280,
+  "peso": 360,
+  "isbn": "9788523007355",
+  "editora": "UnB",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Caminhos e colheita</b> é o produto de um esforço historiográfico de professores e pesquisadores de várias universidades brasileiras que atuam na área de língua inglesa e literaturas correspondentes.<br>A obra apresenta elementos para identificação de rotas, rumos, contornos e perspectivas futuras para a área. Analisa aspectos legislativos, históricos, associativos, institucionais e acadêmicos do ensino e da pesquisa da área em nosso país.</p>",
+  "sinopse": "Caminhos e colheita é resultado de um esforço coletivo de professores e pesquisadores de diversas universidades brasileiras que atuam na área de língua inglesa e suas literaturas. O livro discute rotas, rumos e as perspectivas futuras para o ensino e a pesquisa na área, analisando também os aspectos legislativos, históricos, associativos, institucionais e acadêmicos do campo no Brasil.",
+  "exemplar_id": 2235,
+  "sku": "LI01CP",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/cristina-maria-teixeira-stevens--caminhos-e-colheita--capa--20250430--105105.jpg",
+  "contracapa": "static/uploads/cristina-maria-teixeira-stevens--caminhos-e-colheita--contracapa--20250430--105105.jpg",
+  "fotos": [
+    "static/uploads/cristina-maria-teixeira-stevens--caminhos-e-colheita--foto1--20250430--105105.jpg",
+    "static/uploads/cristina-maria-teixeira-stevens--caminhos-e-colheita--foto2--20250430--105105.jpg",
+    "static/uploads/cristina-maria-teixeira-stevens--caminhos-e-colheita--foto3--20250430--105105.jpg",
+    "static/uploads/cristina-maria-teixeira-stevens--caminhos-e-colheita--foto4--20250430--105105.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:11:43",
+  "observacoes": "procedencia_biblioteca"
+}

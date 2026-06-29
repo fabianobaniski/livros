@@ -1,0 +1,68 @@
+{
+  "obra_id": 1952,
+  "autor": "Paulo Roberto Padilha",
+  "titulo": "Planejamento dialógico",
+  "subtitulo": "Como construir o projeto político-pedagógico da escola",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Planejamento pedagógico. Projeto político-pedagógico. Dialogicidade. Pedagogia de Paulo Freire.",
+  "palavras_chave": "padilha planejamento dialogico construir projeto politico pedagogico escola",
+  "edicao_id": 1932,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 157,
+  "peso": 270,
+  "isbn": "9788524907876",
+  "editora": "Cortez",
+  "numero_edicao": 8,
+  "ano": 2008,
+  "serie": "Guia da Escola Cidadã",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro mostra que na educação o planejamento não pode ser dissociado da construção do projeto político-pedagógico. Uma escola que não consegue se decidir por um projeto educacional caminha sem direção e tem poucas chances de contribuir para a formação cidadã e para o pleno desenvolvimento das atuais e futuras gerações.</p><p>O planejamento em educação só faz sentido quando elaborado a partir das relações mais fundamentais da escola, as relações da sala de aula, que Padilha chama de “Círculo de Cultura”, utilizando a expressão de Freire. “Aula” tornou-se, há muito tempo, uma palavra estreita, pobre, para caracterizar a complexa atividade que se dá na escola. Paulo Freire, ao falar em “Círculo de Cultura”, já havia percebido isso há 50 anos. O autor deste livro foi muito feliz ao retomar essa noção fundante da pedagogia freireana, associando-a ao planejamento dialógico, <i>tema tão necessário à formação e à atuação dos atuais e futuros educadores e educadoras.</i></p><p>Moacir Gadotti</p>",
+  "sinopse": "O livro mostra a importância de associar o planejamento educacional à construção do projeto político-pedagógico da escola. Destaca que, sem um projeto claro, a escola perde sua direção e não contribui para a formação cidadã e o desenvolvimento das gerações presentes e futuras. O autor resgata o conceito freireano de 'Círculo de Cultura' para propor um planejamento dialógico, essencial para a prática e formação de educadores comprometidos com uma educação transformadora.",
+  "exemplar_id": 1931,
+  "sku": "LI014A",
+  "preco_estante_virtual": 11.0,
+  "preco_amazon": 11.0,
+  "capa": "static/uploads/paulo-roberto-padilha--planejamento-dial-gico--capa--20250430--104306.jpg",
+  "contracapa": "static/uploads/paulo-roberto-padilha--planejamento-dial-gico--contracapa--20250430--104306.jpg",
+  "fotos": [
+    "static/uploads/paulo-roberto-padilha--planejamento-dial-gico--foto1--20250430--104306.jpg",
+    "static/uploads/paulo-roberto-padilha--planejamento-dial-gico--foto2--20250430--104306.jpg",
+    "static/uploads/paulo-roberto-padilha--planejamento-dial-gico--foto3--20250430--104306.jpg",
+    "static/uploads/paulo-roberto-padilha--planejamento-dial-gico--foto4--20250430--104306.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:04:36",
+  "observacoes": "procedencia_biblioteca"
+}

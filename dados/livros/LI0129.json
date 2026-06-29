@@ -1,0 +1,68 @@
+{
+  "obra_id": 1879,
+  "autor": "Carlos Ubiratan da Costa Schier",
+  "titulo": "Gestão de custos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Gestão de custos. Gestão contábil. Processos organizacionais.",
+  "palavras_chave": "schier gestao custos",
+  "edicao_id": 1859,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 249,
+  "peso": 350,
+  "isbn": "9788578388027",
+  "editora": "Ibpex",
+  "numero_edicao": 2,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O mercado competitivo do século XXI requer dos gestores organizacionais a compreensão exata e profunda do gerenciamento de custos, um dos suportes da empresa moderna.</p> <p>Dentro desse contexto, este livro, escrito por um profissional com vasta experiência na área, tem como propósito facilitar o entendimento de questões cotidianas que envolvem a <b>gestão de custos</b> e a <b>gestão contábil</b>, além de atender à demanda gerada nas empresas e instituições de ensino.</p> <p>Esta obra oferece <b>orientações objetivas</b> e instrumentos para a manutenção do padrão de qualidade de atividades de gestão, com subsídios para as <b>tomadas de decisões</b>.</p> <p>Você, que atua ou estuda nessa área, encontrará, neste livro, exemplos de métodos e processos adequados para atender às necessidades de sua organização.</p>",
+  "sinopse": "Em um mercado competitivo, o gerenciamento de custos torna-se essencial para as organizações modernas. Este livro, escrito por um profissional experiente, visa facilitar o entendimento dos desafios diários relacionados à gestão de custos e gestão contábil, além de atender demandas de empresas e instituições de ensino. Oferece orientações objetivas, instrumentos práticos para a manutenção de qualidade em gestão e exemplos de métodos e processos para decisões eficazes dentro das organizações.",
+  "exemplar_id": 1858,
+  "sku": "LI0129",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/carlos-ubiratan-da-costa-schier--gest-o-de-custos--capa--20250430--104253.jpg",
+  "contracapa": "static/uploads/carlos-ubiratan-da-costa-schier--gest-o-de-custos--contracapa--20250430--104253.jpg",
+  "fotos": [
+    "static/uploads/carlos-ubiratan-da-costa-schier--gest-o-de-custos--foto1--20250430--104253.jpg",
+    "static/uploads/carlos-ubiratan-da-costa-schier--gest-o-de-custos--foto2--20250430--104253.jpg",
+    "static/uploads/carlos-ubiratan-da-costa-schier--gest-o-de-custos--foto3--20250430--104254.jpg",
+    "static/uploads/carlos-ubiratan-da-costa-schier--gest-o-de-custos--foto4--20250430--104254.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:33:49",
+  "observacoes": "procedencia_biblioteca"
+}

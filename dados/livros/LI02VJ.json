@@ -1,0 +1,63 @@
+{
+  "obra_id": 5191,
+  "autor": "Kagyu Kumo; Kurose Kousuke",
+  "titulo": "Goblin Slayer!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Fantasia. Ação.",
+  "palavras_chave": "kumo goblin slayer",
+  "edicao_id": 5166,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 210,
+  "isbn": "9786559600137",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Liderado por um Lorde poderoso, um grande bando de Goblins aproxima-se da fronteira da aldeia. Para defender a fazenda da criadora de gado, o Goblin Slayer decide enfrentar essa grande força. E surpreende a todos ao pedir ajuda para concluir sua missão... Também inclui uma história curta de Kagyu Kumo, o autor original!</p>",
+  "sinopse": "Um bando de Goblins liderado por um Lorde ameaça a fronteira de uma aldeia e o Goblin Slayer deve enfrentá-los para proteger a fazenda da criadora de gado, surpreendendo a todos ao buscar ajuda para completar sua missão. Inclui uma história curta de Kagyu Kumo.",
+  "exemplar_id": 5165,
+  "sku": "LI02VJ",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/goblin-slayer__kagyu-kumo-kurose-kousuke__capa__2026-02-20_10-32-32-997840-000.png",
+  "contracapa": "static/uploads/goblin-slayer__kagyu-kumo-kurose-kousuke__contracapa__2026-02-20_10-32-33-052069-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

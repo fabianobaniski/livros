@@ -1,0 +1,63 @@
+{
+  "obra_id": 2596,
+  "autor": "Fred Hoyle",
+  "titulo": "Home is where the wind blows",
+  "subtitulo": "Chapters from a cosmologist's life",
+  "idioma": "Inglês",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "hoyle home where the",
+  "edicao_id": 2576,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 443,
+  "peso": 350,
+  "isbn": "",
+  "editora": "Oxford University Press",
+  "numero_edicao": 0,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2575,
+  "sku": "LI01M4",
+  "preco_estante_virtual": 65.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/fred-hoyle--home-is-where-the-wind-blows--capa--20260316--212452.jpg",
+  "contracapa": "static/uploads/fred-hoyle--home-is-where-the-wind-blows--contracapa--20260316--212452.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora levemente marcado pelo uso. Texto sem anotações ou sublinhados.  Sir Fred Hoyle is one of the centurys most eminent scientists, and this engaging book offers a revealing and charming account of his life, Mathematician, physicist, astronomer, cosmologist - Sir Fred is perhaps best known for his brilliant explanation of the origin of the elements from hydrogen nuclei in stars, and for developing (with Sir Hermann Bondi and Thomas Gold) the elegant but controversial Steady-State theory of the Universe. In this memorable autobiographical account, we see how Fred Hoyles childhood independence enable him to challenge established thinking, and meet many of the great figures of the age."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:36:47",
+  "observacoes": null
+}

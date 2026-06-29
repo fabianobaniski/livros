@@ -1,0 +1,63 @@
+{
+  "obra_id": 4675,
+  "autor": "Junya Inoue",
+  "titulo": "Btooom!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Jogos eletrônicos. Sobrevivência. Conflito.",
+  "palavras_chave": "inoue btooom",
+  "edicao_id": 4650,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 190,
+  "isbn": "9788577879236",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>Ryota Sakamoto é um jovem desempregado que passa o dia todo jogando online. Um dia, ele acorda em uma ilha deserta em uma versão real de \"Btooom!\". Para sobreviver, deverá derrotar outros participantes nessa disputa mortal.</p> <p>No quinto dia de jogo, Ryota, com a perna machucada, é descoberto por Nobutaka, seu rival desde criança. E agora, quais serão as repercussões deste inusitado encontro?!</p>",
+  "sinopse": "Ryota Sakamoto, um jovem que adora jogos online, se vê em uma ilha deserta vivendo uma versão real de \"Btooom!\". Para sobreviver, ele precisa enfrentar outros participantes. No quinto dia, ele é encontrado por Nobutaka, seu rival de infância, iniciando um novo e perigoso capítulo nessa luta pela sobrevivência.",
+  "exemplar_id": 4649,
+  "sku": "LI02HH",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/btooom__junya-inoue__capa__2026-02-20_10-30-04-682845-000.png",
+  "contracapa": "static/uploads/btooom__junya-inoue__contracapa__2026-02-20_10-30-05-239197-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado muito bem conservado, com capa e contracapa sem danos e lombada reta. O exemplar não possui grifos, anotações, rabiscos, carimbos ou etiquetas. Miolo íntegro e sem folhas soltas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

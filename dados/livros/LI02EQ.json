@@ -1,0 +1,68 @@
+{
+  "obra_id": 3631,
+  "autor": "Ernest Hemingway",
+  "titulo": "O sol também se levanta",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "hemingway sol tambem levanta",
+  "edicao_id": 3608,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 266,
+  "peso": 370,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Integrantes da \"geração perdida\" viajam de Paris para a Espanha para acompanhar as festas de San Fermín, onde o jornalista Jake Barnes e seus amigos lidam com a desilusão do pós-guerra, o tédio existencial e os amores não correspondidos em meio a touradas e excessos alcoólicos.",
+  "exemplar_id": 3607,
+  "sku": "LI02EQ",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/ernest-hemingway--o-sol-tambem-se-levanta--capa--20251114--181339.png",
+  "contracapa": "static/uploads/ernest-hemingway--o-sol-tambem-se-levanta--contracapa--20251114--181347.png",
+  "fotos": [
+    "static/uploads/ernest-hemingway--o-sol-tambem-se-levanta--foto1--20251113--200602.jpg",
+    "static/uploads/ernest-hemingway--o-sol-tambem-se-levanta--foto2--20251113--200602.jpg",
+    "static/uploads/ernest-hemingway--o-sol-tambem-se-levanta--foto3--20251113--200602.jpg",
+    "static/uploads/ernest-hemingway--o-sol-tambem-se-levanta--foto4--20251113--200602.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:44:59",
+  "observacoes": null
+}

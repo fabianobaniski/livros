@@ -1,0 +1,68 @@
+{
+  "obra_id": 5832,
+  "autor": "Khaled Hosseini",
+  "titulo": "A cidade do sol",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura contemporânea. Violência e guerra. Sociedade afegã. Relações humanas.",
+  "palavras_chave": "hosseini cidade sol",
+  "edicao_id": 5807,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 364,
+  "peso": 520,
+  "isbn": "9788520920107",
+  "editora": "Nova Fronteira",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Uma jovem Mariam está sentada junto à mesa, fazendo uma boneca à luz de uma lamparina a óleo. Está cantarolando. Tem o rosto suave e juvenil, o cabelo foi lavado e está penteado para trás. E não lhe falta nenhum dente.<br>Laila a vê colar pedaços de lã na cabeça da boneca. Em poucos anos, essa menina vai ser uma mulher que pede muito pouco da vida, que nunca incomoda ninguém, que nunca deixa transparecer que ela também tem tristezas, desapontamentos, sonhos que foram menosprezados. Uma mulher que vai ser como uma rocha no leito de um rio, suportando tudo sem se queixar. Uma mulher cuja generosidade, longe de ser contaminada, foi forjada pelas turbulências que se abateram sobre ela. Laila já consegue ver algo nos olhos daquela menina, algo tão arraigado que nem Rashid nem os talibãs conseguiram destruir. Algo tão rijo e inabalável quanto um bloco de calcário. Algo que, afinal, acabou sendo a sua ruína e salvação de Laila. A menina ergue os olhos. Deixa a boneca de lado. E sorri.<br>- Laila jo?\"</p><p>\"Khaled Hosseini, mais uma vez, consegue envolver seus leitores com a força das emoções humanas, como poucos escritores sabem fazer.\"<br><i>The New York Times</i></p><p>\"A nova história de Khaled Hosseini é uma descrição poderosa e perturbadora da violência e da guerra, mas também uma evocação lírica da vida e da eterna esperança de suas duas personagens inesquecíveis.\"<br><i>Publishers Weekly</i></p><p>\"A cidade do sol é o novo triunfo literário, e novo best-seller, desse magnífico escritor.\"<br><i>Kirkus Review</i></p><p>\"Hosseini traça de forma perspicaz a história de sua terra natal no fim do século XX e, ao mesmo tempo, nos apresenta com o retrato sensível e impecável da vida em meio ao caos.\"<br><i>The New York Review of Books</i></p>",
+  "sinopse": "No cenário turbulento do Afeganistão do final do século XX, a jovem Mariam cresce como uma mulher marcada por traumas e resiliência. Sua trajetória cruza com a de Laila, e ambas enfrentam as dificuldades e a opressão em uma sociedade dilacerada pela guerra e violência. Apesar dos desafios, Mariam revela força e generosidade forjadas pelas adversidades, enquanto a esperança e a ligação entre as duas personagens emergem como pilares de sobrevivência e redenção.",
+  "exemplar_id": 5806,
+  "sku": "LI0375",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/a-cidade-do-sol__a-thousand-splendid-suns__khaled-hosseini__capa__2026-01-18_14-12-05-662692-000.png",
+  "contracapa": "static/uploads/a-cidade-do-sol__a-thousand-splendid-suns__khaled-hosseini__contracapa__2026-01-18_14-12-05-965158-001.png",
+  "fotos": [
+    "static/uploads/a-cidade-do-sol__a-thousand-splendid-suns__khaled-hosseini__foto-01__2026-01-18_14-12-06-572857-002.jpg",
+    "static/uploads/a-cidade-do-sol__a-thousand-splendid-suns__khaled-hosseini__foto-02__2026-01-18_14-12-06-596601-003.jpg",
+    "static/uploads/a-cidade-do-sol__a-thousand-splendid-suns__khaled-hosseini__foto-03__2026-01-18_14-12-06-628351-004.jpg",
+    "static/uploads/a-cidade-do-sol__a-thousand-splendid-suns__khaled-hosseini__foto-04__2026-01-18_14-12-06-658622-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:15:28",
+  "observacoes": null
+}

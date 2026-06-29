@@ -1,0 +1,68 @@
+{
+  "obra_id": 1876,
+  "autor": "Osni Moura Ribeiro",
+  "titulo": "Demonstrações financeiras",
+  "subtitulo": "Mudanças na Lei das Sociedades por Ações: como era e como ficou",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Demonstrações financeiras. Legislação societária.",
+  "palavras_chave": "ribeiro demonstracoes financeiras mudancas lei acoes como era como ficou",
+  "edicao_id": 1856,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 183,
+  "peso": 325,
+  "isbn": "9788502072305",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro foi elaborado em decorrência da promulgação da Lei n. 11.638/2007, que promoveu importantes alterações na Lei das Sociedades por Ações.</p><p>Traz um resumo das principais mudanças e os artigos da Lei n. 6.404/1976 que tratam de matéria contábil em duas colunas: como era e como ficou.</p><p>De forma didática, apresenta o conceito, a estrutura, o modelo e o estudo dos componentes, além de orientações para elaboração das seis demonstrações financeiras exigidas a partir de 1º de janeiro de 2008.</p><p>As informações completam-se com a apresentação dos procedimentos contábeis atualizados e das técnicas de elaboração das demonstrações financeiras em exemplos práticos, devidamente solucionados e comentados.</p><b>Aplicação</b><p>Este livro pode ser utilizado nas seguintes disciplinas: Contabilidade Básica, Introdutória ou Geral; Contabilidade Intermediária, Comercial ou Empresarial; Contabilidade Avançada; Estrutura e Análise de Balanços; Análise das Demonstrações Financeiras; Lei das S/A.</p><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço: www.saraivauni.com.br</p>",
+  "sinopse": "Este livro foi elaborado em decorrência da promulgação da Lei n. 11.638/2007, que trouxe significativas mudanças à Lei das Sociedades por Ações. Apresenta de forma didática os principais conceitos, estruturas e modelos das demonstrações financeiras, organizando os artigos da Lei n. 6.404/1976 em duas colunas comparativas, explicitando as alterações. Oferece orientações práticas e exemplos resolvidos para a elaboração das demonstrações financeiras, sendo útil para diversas disciplinas contábeis em cursos superiores.",
+  "exemplar_id": 1855,
+  "sku": "LI0126",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/osni-moura-ribeiro--demonstra--es-financeiras--capa--20250430--104253.jpg",
+  "contracapa": "static/uploads/osni-moura-ribeiro--demonstra--es-financeiras--contracapa--20250430--104253.jpg",
+  "fotos": [
+    "static/uploads/osni-moura-ribeiro--demonstra--es-financeiras--foto1--20250430--104253.jpg",
+    "static/uploads/osni-moura-ribeiro--demonstra--es-financeiras--foto2--20250430--104253.jpg",
+    "static/uploads/osni-moura-ribeiro--demonstra--es-financeiras--foto3--20250430--104253.jpg",
+    "static/uploads/osni-moura-ribeiro--demonstra--es-financeiras--foto4--20250430--104253.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:39:22",
+  "observacoes": "procedencia_biblioteca"
+}

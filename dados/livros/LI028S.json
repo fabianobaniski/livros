@@ -1,0 +1,68 @@
+{
+  "obra_id": 3417,
+  "autor": "Yoshitoki Oima",
+  "titulo": "Uma vida imortal",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Fantasia. Imortalidade. Autoconhecimento.",
+  "palavras_chave": "oima uma vida imortal",
+  "edicao_id": 3394,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 190,
+  "isbn": "9786586799286",
+  "editora": "NewPop",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Um ser imortal é enviado para a superfície da Terra sem qualquer conhecimento ou sequer um “eu”.</p><p>Além de sua imortalidade, ele tem a capacidade de tomar a “vontade” e a forma daqueles que morreram à sua volta.</p><p>E com esses poderes e experiências, esse ser passa a entender e explorar o mundo, procurando sua razão de existir e a verdade por trás de tudo.</p>",
+  "sinopse": "Um ser imortal é enviado à Terra sem memórias ou identidade, com a habilidade de assumir a vontade e a forma daqueles que faleceram ao seu redor. Ao adquirir novas experiências e poderes, ele começa a explorar o mundo, buscando compreender sua existência e desvendar a verdade fundamental que está por trás de tudo.",
+  "exemplar_id": 3393,
+  "sku": "LI028S",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/uma-vida-imortal__yoshitoki-oima__capa__2025-11-05_16-15-06-976669.jpg",
+  "contracapa": "static/uploads/uma-vida-imortal__yoshitoki-oima__contracapa__2025-11-05_16-15-07-017072.jpg",
+  "fotos": [
+    "static/uploads/uma-vida-imortal__yoshitoki-oima__foto-01__2025-11-05_16-15-07-049559.jpg",
+    "static/uploads/uma-vida-imortal__yoshitoki-oima__foto-02__2025-11-05_16-15-07-076419.jpg",
+    "static/uploads/uma-vida-imortal__yoshitoki-oima__foto-03__2025-11-05_16-15-07-091304.jpg",
+    "static/uploads/uma-vida-imortal__yoshitoki-oima__foto-04__2025-11-05_16-15-07-110370.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:06:27",
+  "observacoes": null
+}

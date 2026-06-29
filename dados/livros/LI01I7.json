@@ -1,0 +1,63 @@
+{
+  "obra_id": 2455,
+  "autor": "Toni Brandão",
+  "titulo": "Cuidado: garoto apaixonado",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "brandao cuidado garoto apaixonado",
+  "edicao_id": 2435,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 80,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Melhoramentos",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Toni Brandão, renomado autor juvenil, explora com sensibilidade o universo do pré-adolescente urbano. Em suas obras, ele aborda temas cotidianos e emocionais, conectando-se facilmente com seu público. Entre seus livros mais conhecidos estão Anjo Naná, Minta Comigo, Aquele Toque e Eu Levei, Falando Sozinha e Foi Ela que Começou. Sua escrita trata de questões contemporâneas com leveza e profundidade, proporcionando uma leitura agradável e reflexiva para jovens leitores.",
+  "exemplar_id": 2434,
+  "sku": "LI01I7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/cuidado-toni-brandao-capa_rev485.jpg",
+  "contracapa": "static/uploads/cuidado-toni-brandao-contracapa_rev1791.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro com leves sinais de uso, mas em bom estado. Sem grifos ou anotações.  Capa brochura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:17:46",
+  "observacoes": null
+}

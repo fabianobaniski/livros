@@ -1,0 +1,68 @@
+{
+  "obra_id": 2015,
+  "autor": "Wilson de Faria",
+  "titulo": "Teorias de ensino e planejamento pedagógico",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Pedagogia. Teorias de ensino. Planejamento pedagógico.",
+  "palavras_chave": "faria teorias ensino planejamento pedagogico",
+  "edicao_id": 1995,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 108,
+  "peso": 160,
+  "isbn": "",
+  "editora": "E.P.U.",
+  "numero_edicao": null,
+  "ano": 1987,
+  "serie": "Temas Básicos de Educação e Ensino",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>A coleção Temas Básicos de Educação e Ensino, coordenada pela Profª. Loyde A. Faustini, apresenta subsídios e sugestões para os educadores que atuam nas escolas de 1º e 2º graus e na administração dos sistemas de ensino e para os professores e estudantes dos cursos de graduação em Pedagogia e dos demais cursos que preparam professores para as diferentes áreas do ensino de 1º e 2º graus.</i></p><p><i>Temas Básicos de Educação e Ensino oferece livros e textos escritos por autores brasileiros, para a nossa realidade educacional.</i></p><p><b>Teorias de Ensino e Planejamento Pedagógico</b> explora a ideia de que os esquemas de planejamento instrucional devem decorrer de teorias de ensino. Estas incorporam, harmonicamente, conceitos e princípios que podem resultar em um ou mais modelos de planejamento pedagógico.</p><p>Os conceitos e princípios mais importantes de quatro teorias de ensino são apresentados e criticados. Tais teorias representam concepções de ensino de grande relevância na pedagogia contemporânea. São elas: <b>Ensino não-diretivo</b>, calcado especialmente na produção de Carls Rogers; <b>Ensino libertário</b>, baseado no pensamento educacional de Paulo Freire; <b>Ensino por descoberta</b>, enfocando a produção de renomados autores; <b>Sistema personalizado de instrução</b>, produzido por Fred S. Keller e associados. A partir dos conceitos e princípios dessas teorias de ensino, o autor propõe modelos de planejamento pedagógico que se constituem em sugestões destinadas a facilitar a passagem do plano teórico para o plano da prática educacional.</p><p>A obra destina-se a professores, orientadores pedagógicos e alunos de cursos de Pedagogia e Licenciatura. Fornece subsídios para estudos teórico-práticos em disciplinas como: Didática, Prática de Ensino, Planejamento e Avaliação do Ensino, Psicologia da Aprendizagem, Currículos e Programas, Teorias de Ensino etc.</p>",
+  "sinopse": "Teorias de Ensino e Planejamento Pedagógico discute como modelos de planejamento instrucional se baseiam em diferentes teorias de ensino, apresentando e criticando quatro abordagens fundamentais: ensino não-diretivo, ensino libertário, ensino por descoberta e sistema personalizado de instrução. O livro oferece sugestões práticas para professores, orientadores e alunos de Pedagogia e Licenciatura, visando facilitar a transição do plano teórico para a prática educacional em disciplinas como Didática, Psicologia da Aprendizagem e Currículos.",
+  "exemplar_id": 1994,
+  "sku": "LI0160",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/wilson-de-faria--teorias-de-ensino-e-planejamento-pedag-gico--capa--20250430--104318.jpg",
+  "contracapa": "static/uploads/wilson-de-faria--teorias-de-ensino-e-planejamento-pedag-gico--contracapa--20250430--104318.jpg",
+  "fotos": [
+    "static/uploads/wilson-de-faria--teorias-de-ensino-e-planejamento-pedag-gico--foto1--20250430--104318.jpg",
+    "static/uploads/wilson-de-faria--teorias-de-ensino-e-planejamento-pedag-gico--foto2--20250430--104318.jpg",
+    "static/uploads/wilson-de-faria--teorias-de-ensino-e-planejamento-pedag-gico--foto3--20250430--104318.jpg",
+    "static/uploads/wilson-de-faria--teorias-de-ensino-e-planejamento-pedag-gico--foto4--20250430--104318.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:05:22",
+  "observacoes": "procedencia_biblioteca"
+}

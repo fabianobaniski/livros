@@ -1,0 +1,63 @@
+{
+  "obra_id": 2942,
+  "autor": "Basil Hume",
+  "titulo": "The mystery of the incarnation",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "hume the mystery the",
+  "edicao_id": 2922,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 166,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Paraclete Press",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Neste livro, o cardeal Basil Hume reflete sobre o mistério da Encarnação, ou seja, Deus manifestando seu amor ao se tornar humano. Escrito pouco antes de sua morte, Hume discute o impacto desse evento central na vida cristã e em como ele molda nossa compreensão do milênio atual. Dividida em três partes, a obra aborda temas como a busca por sentido, a paz, o amor, os santos e a preparação para a morte. Com simplicidade e profundidade, o livro fala tanto aos que estão dentro da igreja quanto àqueles à margem da fé.",
+  "exemplar_id": 2921,
+  "sku": "LI01VQ",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/the-mystery-of-the-incarnation-basil-hume-capa_rev695.jpg",
+  "contracapa": "static/uploads/the-mystery-of-the-incarnation-basil-hume-contracapa_rev51.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:29",
+  "observacoes": null
+}

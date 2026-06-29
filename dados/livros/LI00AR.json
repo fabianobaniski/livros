@@ -1,0 +1,68 @@
+{
+  "obra_id": 421,
+  "autor": "Machado de Assis; Mauro Rosso",
+  "titulo": "Crônicas",
+  "subtitulo": "A + B - Gazeta de Holanda",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura clássica. Crônicas. Crítica social.",
+  "palavras_chave": "assis cronicas  ",
+  "edicao_id": 409,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 259,
+  "peso": 400,
+  "isbn": "9788515037896",
+  "editora": "Edições Loyola",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os dois conjuntos de crônicas desta coletânea, ainda que revelam um estilo algo “descompromissado”, a provocar o riso – mas atenção! apenas na aparência, ou fruto de apressada leitura superficial – guardam o aguçado olhar machadiano sobre um pano de fundo histórico, político e institucional extremamente importante da história nacional, e sobre a sociedade da cidade do Rio de Janeiro e do próprio Brasil.</p> <p>Tendo como fontes referenciais e inspiradoras a sátira minepia (apropriada e praticada por Machado na década de 1880 a partir de <i>Memórias póstumas de Brás Cubas</i>), as séries “A+B” – em forma de diálogo essencialmente satírico, de marcante crítica política – e “Gazeta de Holanda” – com crônicas em forma de versos – exercem a criação machadiana em “versiprosa”, cunhando a denominação muitos anos antes de Carlos Drummond de Andrade, e marcada pelo tom irônico, sarcástico, crítico.</p>",
+  "sinopse": "A coletânea 'Crônicas' de Machado de Assis apresenta dois conjuntos de crônicas que, apesar de um estilo despreocupado, refletem um olhar aguçado sobre a história, política e sociedade do Brasil. Inspiradas na sátira minepia, as crônicas criticam o contexto do Rio de Janeiro no século XIX, explorando a ironia e o sarcasmo como ferramentas de reflexão.",
+  "exemplar_id": 408,
+  "sku": "LI00AR",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/machado-de-assis--cr-nicas--capa--20250226--133827.jpg",
+  "contracapa": "static/uploads/machado-de-assis--cr-nicas--contracapa--20250226--133827.jpg",
+  "fotos": [
+    "static/uploads/machado-de-assis--cr-nicas--foto1--20250226--133827.jpg",
+    "static/uploads/machado-de-assis--cr-nicas--foto2--20250226--133827.jpg",
+    "static/uploads/machado-de-assis--cr-nicas--foto3--20250226--133827.jpg",
+    "static/uploads/machado-de-assis--cr-nicas--foto4--20250226--133827.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:17:32",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2345,
+  "autor": "Charles Darwin",
+  "titulo": "A Origem do Homem e a Seleção Natural",
+  "subtitulo": "Edição Comemorativa 1882-1982",
+  "idioma": "Português",
+  "categoria": "Biologia",
+  "temas": "",
+  "palavras_chave": "darwin origem homem selecao",
+  "edicao_id": 2325,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 712,
+  "peso": 745,
+  "isbn": "",
+  "editora": "Hemus",
+  "numero_edicao": null,
+  "ano": 1974,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Com A origem das espécies (1859), Darwin estabeleceu a ideia de uma continuidade entre o homem e o animal, inscrevendo todas as espécies no tempo de uma história contingente, sem uma ordem geral e sem um progresso determinado.",
+  "exemplar_id": 2324,
+  "sku": "LI01F6",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/charles-darwin--a-origem-do-homem-e-a-selecao-natural--capa--20260316--151901.jpg",
+  "contracapa": "static/uploads/charles-darwin--a-origem-do-homem-e-a-selecao-natural--contracapa--20260316--152819.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Raridade! Livro brochura, formato padrão, em boas condições de manuseio e leitura, mas esteticamente envelhecido em razão do amarelamento do papel, sobretudo nas bordas. Lombada alinhada. Capa e contracapa marcadas pelo manuseio e contato com outras superfícies, porém sem amassados, rasgos ou perdas. Texto livre de anotações e sublinhados. Há assinatura à caneta na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 18:42:03",
+  "observacoes": null
+}

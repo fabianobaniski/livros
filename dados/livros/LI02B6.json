@@ -1,0 +1,68 @@
+{
+  "obra_id": 3503,
+  "autor": "Akihito Tsukushi",
+  "titulo": "Made in Abyss",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Fantasia. Exploração. Mistério.",
+  "palavras_chave": "tsukushi made abyss",
+  "edicao_id": 3480,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 270,
+  "isbn": "9786586799101",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "<p>EIS O OITAVO VOLUME DA GRANDE AVENTURA REGADA DE AMBIÇÃO E DESISTÊNCIA!</p><p>Riko, Reg e Nanachi chegaram à “Vila dos Sequelas”, na sexta camada de profundidade.</p><p>E para encontrar os companheiros que se perderam pela Vila, Riko vai até o local chamado “Fundo do Olho”, onde ela se depara com uma mulher aprisionada, que se apresentou como Veco. Para a surpresa de Riko, Veco era uma das fundadoras da Vila dos Sequelas e conhecia toda a história de sua criação, história essa que seria fundamental para o resgate de Nanachi.</p><p>Afinal, qual foi a aventura visceral da chamada Tropa Ganja?!</p>",
+  "sinopse": "Riko, Reg e Nanachi chegam à 'Vila dos Sequelas' na sexta camada do Abismo. Em busca de seus companheiros desaparecidos, Riko encontra Veco, uma das fundadoras da vila, que revela a história de sua criação, fundamental para o resgate de Nanachi. O volume narra os desafios e segredos enfrentados na jornada do grupo enquanto descobrem o passado da misteriosa Tropa Ganja.",
+  "exemplar_id": 3479,
+  "sku": "LI02B6",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/made-in-abyss__akihito-tsukushi__capa__2025-11-05_16-16-01-538953.jpg",
+  "contracapa": "static/uploads/made-in-abyss__akihito-tsukushi__contracapa__2025-11-05_16-16-01-579314.jpg",
+  "fotos": [
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-01__2025-11-05_16-16-01-609085.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-02__2025-11-05_16-16-01-628449.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-03__2025-11-05_16-16-01-650882.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-04__2025-11-05_16-16-01-671056.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:53:50",
+  "observacoes": null
+}

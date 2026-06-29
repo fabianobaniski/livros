@@ -1,0 +1,68 @@
+{
+  "obra_id": 303,
+  "autor": "Augusto Cury",
+  "titulo": "O homem mais inteligente da história",
+  "subtitulo": "A épica jornada de Marco Polo, um cientista ateu, para desvendar a fascinante mente de Jesus",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Literatura. Filosofia. Religiosidade.",
+  "palavras_chave": "cury homem mais inteligente",
+  "edicao_id": 295,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 265,
+  "peso": 300,
+  "isbn": "9788543104355",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"O psiquiatra Marco Polo é um cientista respeitadíssimo, especialista no funcionamento da mente e autor do primeiro programa mundial de gestão da emoção.</p> <p>Quando vai a Jerusalém participar de uma reunião na ONU, é desafiado a estudar a inteligência do homem mais famoso da história: Jesus. Mas ele é um dos maiores ateus da atualidade e se recusa a fazê-lo. Todavia, a plateia de intelectuais o instiga a realizar esse empreitada.</p> <p>Depois de muita resistência, Marco Polo aceita o desafio. Monta uma mesa-redonda composta de brilhantes profissionais para analisar a mente de Jesus sob os ângulos da ciência e não da religião. Ele parte em uma jornada épica para saber se Jesus era um mestre em ter autocontrole, gerir sua emoção, trabalhar perdas e frustrações, libertar sua criatividade, contemplar e formar pensadores.</p> <p>Marco Polo esperava encontrar um homem comum, sem grandes habilidades intelectuais, mas pouco a pouco fica abalado e conclui que a mente do personagem mais conhecido da humanidade permanece um mistério, inclusive para os bilhões de pessoas que o admiram. Tanto as universidades como as religiões falharam em não estudar o homem mais inteligente da história.</p> <p>Este romance é uma obra vital para a minha carreira. Fruto de 15 anos de estudos e pesquisas, é o primeiro volume de uma coleção que vai abalar nossas convicções.\"</p> <p>Dr. Augusto Cury, Jerusalém</p>",
+  "sinopse": "Marco Polo, um psiquiatra respeitado e especialista em gestão da emoção, é desafiado a estudar a mente de Jesus em uma reunião da ONU. Inicialmente, um ateu convicto, ele hesita, mas a pressão de intelectuais o leva a aceitar. Juntando uma equipe de profissionais, ele se depara com um mistério que revela as complexidades da mente do homem mais conhecido da história, refletindo sobre como universidades e religiões falharam em compreendê-lo. Esta narrativa marca o início de uma coleção que promete abalar convicções.",
+  "exemplar_id": 294,
+  "sku": "LI007Q",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/augusto-cury--o-homem-mais-inteligente-da-hist-ria--capa--20250226--133817.jpg",
+  "contracapa": "static/uploads/augusto-cury--o-homem-mais-inteligente-da-hist-ria--contracapa--20250226--133817.jpg",
+  "fotos": [
+    "static/uploads/augusto-cury--o-homem-mais-inteligente-da-hist-ria--foto1--20250226--133817.jpg",
+    "static/uploads/augusto-cury--o-homem-mais-inteligente-da-hist-ria--foto2--20250226--133817.jpg",
+    "static/uploads/augusto-cury--o-homem-mais-inteligente-da-hist-ria--foto3--20250226--133817.jpg",
+    "static/uploads/augusto-cury--o-homem-mais-inteligente-da-hist-ria--foto4--20250226--133817.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, porém algumas ressalvas: capa com leve marca de dobra; algumas páginas com pequenos grifos à caneta; nome de ex-proprietária na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:18:48",
+  "observacoes": null
+}

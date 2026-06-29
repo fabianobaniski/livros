@@ -1,0 +1,63 @@
+{
+  "obra_id": 2414,
+  "autor": "Marcelo Câmara",
+  "titulo": "Cachaças",
+  "subtitulo": "Bebendo e Aprendendo - Guia Prática de Degustação",
+  "idioma": "Português",
+  "categoria": "Culinária",
+  "temas": "",
+  "palavras_chave": "camara cachacas bebendo aprendendo",
+  "edicao_id": 2394,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 654,
+  "isbn": "9788574781624",
+  "editora": "Mauad X",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora aromas, sabores e prazeres da cachaça, oferecendo uma abordagem técnica e crítica sobre os valores e características sensoriais dessa bebida brasileira. É a primeira obra dedicada à degustação de cachaças, proporcionando ao leitor a sabedoria e a experiência de um especialista. Através da prática de beber e aprender, o leitor é guiado em um processo passo a passo para aprimorar seus sentidos e conhecer profundamente a cachaça, apreciando-a com mais prazer. Quanto mais se sabe, melhor se aprecia, sempre.",
+  "exemplar_id": 2393,
+  "sku": "LI01H3",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marcelo-camara--cachacas--capa--20260316--175825.jpg",
+  "contracapa": "static/uploads/marcelo-camara--cachacas--contracapa--20260316--175825.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação, apesar do livro estar um pouco amarelado pela passagem dos anos. Texto à salvo de anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:09:41",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 19,
+  "autor": "Trevor Baxendale",
+  "titulo": "Doctor who: O prisioneiro dos Daleks",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Viagem no Tempo. Aventura. Aliens. Doctor Who",
+  "palavras_chave": "baxendale doctor who prisioneiro daleks",
+  "edicao_id": 19,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 207,
+  "peso": 350,
+  "isbn": "9788581052847",
+  "editora": "Suma de Letras",
+  "numero_edicao": 1,
+  "ano": 2015,
+  "serie": "Doctor Who",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Império Dalek não para de se expandir, e batalhas eclodem em vários sistemas solares. Quando o futuro da galáxia está em jogo, o Doutor se vê a bordo de uma nave próxima à linha de frente, junto a um implacável grupo de caçadores de recompensas.</p><p>O Comando da Terra paga a eles por cada Dalek morto, por cada olho entregue como prova. Mas, com a ajuda do Doutor, os caçadores conseguem algo de valor inestimável: um Dalek inteiro, vivo, com os sistemas desarmados e pronto para ser interrogado. No entanto, com os Daleks nada é o que parece e ninguém está a salvo. Quando o jogo virar, como o Doutor sobreviverá ao se tornar prisioneiro de seu maior inimigo?</p><p><b>Uma aventura inédita do Décimo Doutor, interpretado na TV por David Tennant.</b></p>",
+  "sinopse": "O Doutor se junta a um grupo de caçadores de recompensas que enfrentam os Daleks. Quando capturam um Dalek vivo, a situação rapidamente se torna perigosa, colocando todos em risco e tornando o Doutor prisioneiro de seus maiores inimigos.",
+  "exemplar_id": 18,
+  "sku": "LI000G",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/trevor-baxendale--doctor-who--o-prisioneiro-dos-daleks--capa--20250225--163840.jpg",
+  "contracapa": "static/uploads/trevor-baxendale--doctor-who--o-prisioneiro-dos-daleks--contracapa--20250225--163840.jpg",
+  "fotos": [
+    "static/uploads/trevor-baxendale--doctor-who--o-prisioneiro-dos-daleks--foto1--20250225--163840.jpg",
+    "static/uploads/trevor-baxendale--doctor-who--o-prisioneiro-dos-daleks--foto2--20250225--163840.jpg",
+    "static/uploads/trevor-baxendale--doctor-who--o-prisioneiro-dos-daleks--foto3--20250225--163840.jpg",
+    "static/uploads/trevor-baxendale--doctor-who--o-prisioneiro-dos-daleks--foto4--20250225--163840.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:32:54",
+  "observacoes": null
+}

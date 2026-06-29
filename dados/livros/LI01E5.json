@@ -1,0 +1,68 @@
+{
+  "obra_id": 2308,
+  "autor": "Luiz Roberto Lopez",
+  "titulo": "A Aventura dos Descobrimentos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "lopez aventura dos descobrimentos",
+  "edicao_id": 2288,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 100,
+  "peso": 226,
+  "isbn": "9788586880087",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Para uma Europa medieval e católica, centrada em Roma, a descoberta do Novo Mundo foi um evento surpreendente. Luiz Roberto Lopez, em linguagem direta e colorida, narra a grande aventura dos descobrimentos iniciada no século XVI, explorando como essa fascinante jornada se desenrolou.",
+  "exemplar_id": 2287,
+  "sku": "LI01E5",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/luiz-roberto-lopez--a-aventura-dos-descobrimentos--capa--20251021--103311.png",
+  "contracapa": "static/uploads/luiz-roberto-lopez--a-aventura-dos-descobrimentos--contracapa--20251021--103317.png",
+  "fotos": [
+    "static/uploads/luiz-roberto-lopez--a-aventura-dos-descobrimentos--foto1--20251021--103326.jpg",
+    "static/uploads/luiz-roberto-lopez--a-aventura-dos-descobrimentos--foto2--20251021--103326.jpg",
+    "static/uploads/luiz-roberto-lopez--a-aventura-dos-descobrimentos--foto3--20251021--103326.jpg",
+    "static/uploads/luiz-roberto-lopez--a-aventura-dos-descobrimentos--foto4--20251021--103326.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo, sobretudo na primeira e última folhas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:06:40",
+  "observacoes": null
+}

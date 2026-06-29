@@ -1,0 +1,63 @@
+{
+  "obra_id": 2771,
+  "autor": "Daniel Cohn-bendit",
+  "titulo": "O grande bazar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "cohnbendit grande bazar",
+  "edicao_id": 2751,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 196,
+  "peso": 300,
+  "isbn": "9788511290066",
+  "editora": "Brasiliense",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O Grande Bazar retrata a efervescência de Paris em 1968, quando jovens, como o protagonista, militavam em movimentos anarquistas e revolucionários. O autor, Daniel Cohn-Bendit, líder dos protestos estudantis que marcaram o mês de maio daquele ano, relembra os intensos dias de revolta que transformaram sua geração e abalaram o mundo. Neste relato, ele reflete sobre sua trajetória pessoal e política, desde a luta nas ruas até seu amadurecimento como defensor da democracia, da paz, da natureza...",
+  "exemplar_id": 2750,
+  "sku": "LI01QZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-grande-bazar-daniel-cohnbendit-capa_rev567.jpg",
+  "contracapa": "static/uploads/o-grande-bazar-daniel-cohnbendit-contracapa_rev252.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura em formato padrão, com boas condições para manuseio e leitura. Esteticamente regular devido ao envelhecimento, com papel levemente pigmentado nas bordas. Lombada alinhada, capa e contracapa com leves desgastes. Texto sem anotações ou sublinhados. Total de"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:17:29",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 157,
+  "autor": "Deb Caletti",
+  "titulo": "Um lugar para ficar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Relacionamentos. Medo. Liberdade.",
+  "palavras_chave": "caletti lugar ficar",
+  "edicao_id": 153,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 271,
+  "peso": 380,
+  "isbn": "9788581630199",
+  "editora": "Novo Conceito",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Tudo tinha mudado e tudo seria transformado, porque é isso o que acontece quando o medo se instala.</p> <p>O relacionamento de Clara com Christian era intenso desde o começo e diferente de tudo que ela já havia experimentado antes. Mas o que começa como um grande afeto rapidamente se transforma em obsessão, e é quase tarde demais quando Clara percebe que as coisas foram longe o bastante — e que Christian está disposto a fazer de tudo para ficar ao seu lado.</p> <p>Então Clara foge da cidade e Christian fica para trás. Ela ainda luta para se livrar do medo. Sabe que Christian não vai permitir que ela escape facilmente. E não importa para onde vá, nunca será longe o bastante...</p>",
+  "sinopse": "Clara se vê envolvida em um relacionamento intenso e diferente com Christian, que rapidamente se transforma em obsessão. Quando percebe que ele está disposto a fazer de tudo para mantê-la ao seu lado, ela decide fugir da cidade em busca de liberdade. No entanto, Christian não a deixará escapar facilmente, e Clara descobre que a luta contra o medo é mais difícil do que imaginava.",
+  "exemplar_id": 152,
+  "sku": "LI003V",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/deb-caletti--um-lugar-para-ficar--capa--20250226--133759.jpg",
+  "contracapa": "static/uploads/deb-caletti--um-lugar-para-ficar--contracapa--20250226--133759.jpg",
+  "fotos": [
+    "static/uploads/deb-caletti--um-lugar-para-ficar--foto1--20250226--133759.jpg",
+    "static/uploads/deb-caletti--um-lugar-para-ficar--foto2--20250226--133759.jpg",
+    "static/uploads/deb-caletti--um-lugar-para-ficar--foto3--20250226--133759.jpg",
+    "static/uploads/deb-caletti--um-lugar-para-ficar--foto4--20250226--133759.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:36:01",
+  "observacoes": null
+}

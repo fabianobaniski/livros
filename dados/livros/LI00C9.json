@@ -1,0 +1,63 @@
+{
+  "obra_id": 478,
+  "autor": "Hélio Klabono Jr",
+  "titulo": "Graça presente, glória futura",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Ética. Moralidade.",
+  "palavras_chave": "klabono graça presente glória futura",
+  "edicao_id": 463,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 247,
+  "peso": 380,
+  "isbn": "9788582160046",
+  "editora": "Ágape",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os moradores da ilha de Creta tinham uma péssima reputação diante do mundo antigo. Chamar alguém de “cretense” era uma ofensa moral terrível, pois até os seus poetas escreveram que eles eram “sempre mentirosos, feras malignas, glutões preguiçosos” (Tt 1:12). O Evangelho chegou nesta sociedade e seu papel inicial foi transformar os cretenses em cidadãos de bem; por meio da graça de Deus eles aprenderiam “a renunciar às paixões mundanas e a viver de maneira sensata, justa e piedosa” (Tt 2:12).</p> <p>O texto de Graça presente, Glória Futura nos ensina que a primeira salvação recebida pelo ser humano quando este aceita a mensagem do Evangelho é a capacidade de viver de forma ética e sensata num mundo que a cada dia perde os referenciais da moralidade. Os verdadeiros cristãos nunca perderam o desejo de estarem de forma definitiva com o seu Salvador. Porém, esta é a glória futura; para o presente, precisamos da graça de Deus para nos ajudar a desviar nossos pés das lamas nojentas deste mundo. Por isso, enquanto aguardamos a bendita esperança de nos reunirmos com o Nosso Salvador, recebemos generosamente de sua graça para vivermos de modo digno nesta presente Era.</p>",
+  "sinopse": "Graça Presente, Glória Futura aborda a transformação dos cretenses por meio do Evangelho, enfatizando a importância da graça de Deus na aceitação da salvação e na vivência de uma vida ética, em um mundo cada vez mais distante dos valores morais.",
+  "exemplar_id": 462,
+  "sku": "LI00C9",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/h-lio-klabono-jr--gra-a-presente--capa--20250227--111545.jpg",
+  "contracapa": "static/uploads/h-lio-klabono-jr--gra-a-presente--contracapa--20250227--111545.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:16:10",
+  "observacoes": null
+}

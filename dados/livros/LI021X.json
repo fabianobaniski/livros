@@ -1,0 +1,63 @@
+{
+  "obra_id": 3165,
+  "autor": "Alceu Kuhnen",
+  "titulo": "As Origens da Igreja no Brasil (1500 a 1552)",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "kuhnen origens igreja brasil",
+  "edicao_id": 3145,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 552,
+  "peso": 700,
+  "isbn": "9788574602790",
+  "editora": "Edusc",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Fruto de uma reflexão da Igreja sobre suas ações iniciais no Brasil, a obra analisa a evangelização primitiva sob dois referenciais: político-religioso-jurídico e sócio-econômico-religioso. Alceu Kuhnen estrutura o texto em três partes: o Padroado Português Ultramarino, a primeira cristianização até 1530, e a formação institucional da Igreja de 1532 a 1551. A pesquisa busca preencher lacunas bibliográficas sobre o começo da colonização brasileira, destacando a fundação de igrejas desde São Vicente até Salvador.",
+  "exemplar_id": 3144,
+  "sku": "LI021X",
+  "preco_estante_virtual": 140.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Possui, apenas, leves marquinhas de uso e da passagem dos anos. Livre de anotações, sublinhados, marcas de umidade, mofo, traça ou sol excessivo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:26:46",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

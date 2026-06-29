@@ -1,0 +1,68 @@
+{
+  "obra_id": 2176,
+  "autor": "Osni Moura Ribeiro",
+  "titulo": "Contabilidade comercial fácil",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Contabilidade comercial. Ensino didático.",
+  "palavras_chave": "ribeiro contabilidade comercial facil",
+  "edicao_id": 2156,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 365,
+  "peso": 580,
+  "isbn": "9788502029767",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A SARAIVA tem livros profissionais, feitos por profissionais...<br>... mas a didática é para estudantes.</p>",
+  "sinopse": "A obra \"Contabilidade comercial fácil\" apresenta, de forma didática e acessível, os principais conceitos e práticas de contabilidade comercial. O livro foi elaborado visando atender estudantes, facilitando o entendimento do conteúdo por meio de abordagem clara e objetiva, alinhada à tradição didática da Editora Saraiva.",
+  "exemplar_id": 2155,
+  "sku": "LI01AH",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/osni-moura-ribeiro--contabilidade-comercial--capa--20250430--104952.jpg",
+  "contracapa": "static/uploads/osni-moura-ribeiro--contabilidade-comercial--contracapa--20250430--104952.jpg",
+  "fotos": [
+    "static/uploads/osni-moura-ribeiro--contabilidade-comercial--foto1--20250430--104952.jpg",
+    "static/uploads/osni-moura-ribeiro--contabilidade-comercial--foto2--20250430--104952.jpg",
+    "static/uploads/osni-moura-ribeiro--contabilidade-comercial--foto3--20250430--104952.jpg",
+    "static/uploads/osni-moura-ribeiro--contabilidade-comercial--foto4--20250430--104952.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:03:18",
+  "observacoes": "procedencia_biblioteca"
+}

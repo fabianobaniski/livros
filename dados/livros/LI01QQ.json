@@ -1,0 +1,63 @@
+{
+  "obra_id": 2762,
+  "autor": "Tom Breitling",
+  "titulo": "O dobro ou nada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "",
+  "palavras_chave": "breitling dobro nada",
+  "edicao_id": 2742,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 231,
+  "peso": 300,
+  "isbn": "9788577750771",
+  "editora": "Landscape",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A história de dois amigos que, como Tom Sawyer e Huck Finn, embarcam em uma grande aventura moderna no final do século XX. A narrativa mistura ação, mistério e um toque de fantasia enquanto os protagonistas se envolvem com uma sociedade secreta e uma conspiração de décadas. Eles percorrem cenários icônicos, como Las Vegas e o famoso Hotel Chelsea, em busca de respostas para um enigma que envolve o passado e o presente. A trama é cheia de reviravoltas e referências à cultura pop, garantindo uma leitura envolvente e surpreendente.",
+  "exemplar_id": 2741,
+  "sku": "LI01QQ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-dobro-ou-nada-tom-breitling-capa_rev117.jpg",
+  "contracapa": "static/uploads/o-dobro-ou-nada-tom-breitling-contracapa_rev636.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:04:59",
+  "observacoes": null
+}

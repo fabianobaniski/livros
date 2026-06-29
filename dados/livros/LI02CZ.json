@@ -1,0 +1,68 @@
+{
+  "obra_id": 3568,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Mangá. Terror. Suspense. Vampirismo.",
+  "palavras_chave": "oshimi happiness",
+  "edicao_id": 3545,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788583622659",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p><b>Masami</b>, o homem que cortou o pescoço de <b>Yukiko</b> há <b>dez anos</b> e desapareceu juntamente com <b>Yuuki</b>, havia criado uma seita chamada <b>“Sangue da Felicidade”</b> e estava vivendo nas montanhas.</p><p><b>Yukiko</b> se infiltra nas instalações da seita em busca de <b>pistas</b> sobre o paradeiro de <b>Makoto</b> e <b>Yuuki</b>.</p><p>Então, ela chega a um misterioso <b>quarto no subsolo</b> para descobrir a <b>identidade</b> do tal <b>“vampiro”</b> adorado pelos adeptos…</p>",
+  "sinopse": "Masami, desaparecido há dez anos após atacar Yukiko, criou uma seita chamada 'Sangue da Felicidade' e vive nas montanhas com Yuuki. Yukiko infiltra-se nas instalações da seita em busca de pistas sobre o paradeiro de Makoto e Yuuki. Durante sua busca, ela chega a um misterioso quarto no subsolo, onde tenta descobrir a verdadeira identidade do vampiro adorado pelos seguidores.",
+  "exemplar_id": 3544,
+  "sku": "LI02CZ",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2025-11-05_16-16-44-022469.jpg",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2025-11-05_16-16-44-059197.jpg",
+  "fotos": [
+    "static/uploads/happiness__shuzo-oshimi__foto-01__2025-11-05_16-16-44-085485.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-02__2025-11-05_16-16-44-107811.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-03__2025-11-05_16-16-44-126208.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-04__2025-11-05_16-16-44-147407.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:45:26",
+  "observacoes": null
+}

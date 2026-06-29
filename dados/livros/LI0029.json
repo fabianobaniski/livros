@@ -1,0 +1,68 @@
+{
+  "obra_id": 87,
+  "autor": "Graham Greene",
+  "titulo": "O americano tranquilo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Guerra. Literatura. Crítica Social",
+  "palavras_chave": "greene americano tranquilo",
+  "edicao_id": 87,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 260,
+  "peso": 280,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As tramas da diplomacia na guerra da Indochina e a <b>ingenuidade</b> de Pyle, o \"americano tranquilo\". Mais do que um livro sobre a guerra indochinesa, o romance de Graham Greene é, na verdade, uma sátira aos americanos, cujo espírito infantil e ingênuo seria, para o autor, a causa inconsciente de muitos erros cometidos pelos Estados Unidos em nome dos princípios da civilização ocidental.</p>",
+  "sinopse": "O romance de Graham Greene explora as tramas da diplomacia na guerra da Indochina, destacando a ingenuidade de Pyle, o 'americano tranquilo'. Mais do que uma narrativa sobre conflitos, a obra é uma sátira ao espírito infantil e ingênuo dos americanos, refletindo sobre os erros cometidos pelos Estados Unidos em temas de civilização.",
+  "exemplar_id": 86,
+  "sku": "LI0029",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/graham-greene--o-americano-tranquilo--capa--20250226--110221.jpg",
+  "contracapa": "static/uploads/graham-greene--o-americano-tranquilo--contracapa--20250226--110221.jpg",
+  "fotos": [
+    "static/uploads/graham-greene--o-americano-tranquilo--foto1--20250226--110221.jpg",
+    "static/uploads/graham-greene--o-americano-tranquilo--foto2--20250226--110221.jpg",
+    "static/uploads/graham-greene--o-americano-tranquilo--foto3--20250226--110221.jpg",
+    "static/uploads/graham-greene--o-americano-tranquilo--foto4--20250226--110221.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:50:48",
+  "observacoes": null
+}

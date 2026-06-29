@@ -1,0 +1,63 @@
+{
+  "obra_id": 903,
+  "autor": "Philip Yancey",
+  "titulo": "Sinais da Graça",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Fé. Graça. Espiritualidade.",
+  "palavras_chave": "yancey sinais graça",
+  "edicao_id": 888,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 422,
+  "peso": 700,
+  "isbn": "9788573256826",
+  "editora": "Mundo Cristão",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Como redescobrir Deus através das maravilhas da natureza, músicas e amor?</p> <p>Por que a graça significa que você não pode fazer Deus lhe amar mais ou menos?</p> <p>O que acontece quando você encontra o verdadeiro Jesus?</p> <p>Como renovar sua compreensão e prática de oração?</p> <p>Como enxergar Deus nas pessoas e lugares mais inesperados?</p> <p>Como agir quando a vida desmorona sobre você?</p> <p>UMA NOVA CAMINHADA ESPERA POR VOCÊ, comece agora mesmo uma jornada com Cristo, responda aos seus maiores questionamentos e desfrute da maravilhosa graça de Deus.</p>",
+  "sinopse": "Sinais da Graça convida o leitor a redescobrir Deus por meio de maravilhas do cotidiano e questões profundidades sobre a fé. A obra explora o significado da graça e como isso transforma a relação com Deus e o entendimento de Cristo. Uma jornada que promete orientar a renovação da prática da oração e a percepção de Deus em lugares e pessoas inesperadas.",
+  "exemplar_id": 887,
+  "sku": "LI00NX",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/philip-yancey--sinais-da-gra-a--capa--20250227--152912.jpg",
+  "contracapa": "static/uploads/philip-yancey--sinais-da-gra-a--contracapa--20250227--152912.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:19:10",
+  "observacoes": null
+}

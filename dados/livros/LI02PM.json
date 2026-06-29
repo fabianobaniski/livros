@@ -1,0 +1,63 @@
+{
+  "obra_id": 4968,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Comédia romântica.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 4943,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 170,
+  "isbn": "9788542611533",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 13,
+  "transcricao_contracapa": "<p>Durante o festival, Haru descobriu que Chitoge e Raku apenas fingem estar namorando e seus sentimentos por ele começam a mudar... Enquanto isso, o bisavô de Ruri diz a ela que deseja conhecer seu namorado antes de morrer. Como ela não tem um, escolhe Raku para fazer o papel.</p>",
+  "sinopse": "Durante o festival, Haru descobre que Chitoge e Raku fingem estar namorando, e seus sentimentos começam a mudar. Enquanto isso, Ruri precisa apresentar um namorado ao seu bisavô e escolhe Raku para fazer o papel.",
+  "exemplar_id": 4942,
+  "sku": "LI02PM",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2026-02-20_10-31-25-168853-000.png",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2026-02-20_10-31-25-219145-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

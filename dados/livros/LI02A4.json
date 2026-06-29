@@ -1,0 +1,68 @@
+{
+  "obra_id": 3465,
+  "autor": "Makoto Shinkai; Yukiko Seike",
+  "titulo": "5 centímetros por segundo",
+  "subtitulo": "Uma sequência de histórias curtas sobre suas distâncias",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá. Romance juvenil. Distância. Relacionamentos.",
+  "palavras_chave": "shinkai centimetros por segundo",
+  "edicao_id": 3442,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 270,
+  "isbn": "9788583620785",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>uma sequência de histórias curtas sobre a distância deles</p><p>Um encontro do destino, um amor juvenil.<br>Um único milagre liga os dois.<br>Eu me tornei adulto procurando por você.<br>Termina agora o amor que começou na época em que as flores de cerejeira desabrochavam.</p>",
+  "sinopse": "O livro retrata uma sequência de histórias sobre amores distantes, acompanhando o crescimento dos personagens principais enquanto buscam um ao outro ao longo do tempo. Com início em um romance juvenil marcado pelo florescer das cerejeiras, a narrativa aborda encontros do destino, separações e a esperança de um milagre que una os dois. Agora adultos, os sentimentos e lembranças daquela época voltam à tona, encerrando uma história pura de amor e distância.",
+  "exemplar_id": 3441,
+  "sku": "LI02A4",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/5-centimetros-por-segundo__uma-sequencia-de-historias-curtas-sobre-suas-distancias__makoto-shinkai-yukiko-seike__capa__2025-11-05_16-15-38-369468.jpg",
+  "contracapa": "static/uploads/5-centimetros-por-segundo__uma-sequencia-de-historias-curtas-sobre-suas-distancias__makoto-shinkai-yukiko-seike__contracapa__2025-11-05_16-15-38-480098.jpg",
+  "fotos": [
+    "static/uploads/5-centimetros-por-segundo__uma-sequencia-de-historias-curtas-sobre-suas-distancias__makoto-shinkai-yukiko-seike__foto-01__2025-11-05_16-15-38-511992.jpg",
+    "static/uploads/5-centimetros-por-segundo__uma-sequencia-de-historias-curtas-sobre-suas-distancias__makoto-shinkai-yukiko-seike__foto-02__2025-11-05_16-15-38-535129.jpg",
+    "static/uploads/5-centimetros-por-segundo__uma-sequencia-de-historias-curtas-sobre-suas-distancias__makoto-shinkai-yukiko-seike__foto-03__2025-11-05_16-15-38-560410.jpg",
+    "static/uploads/5-centimetros-por-segundo__uma-sequencia-de-historias-curtas-sobre-suas-distancias__makoto-shinkai-yukiko-seike__foto-04__2025-11-05_16-15-38-581483.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:05:33",
+  "observacoes": null
+}

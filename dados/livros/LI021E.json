@@ -1,0 +1,63 @@
+{
+  "obra_id": 3146,
+  "autor": "John Sugden",
+  "titulo": "Paganini",
+  "subtitulo": "the Illustrated Lives of the Great Composers",
+  "idioma": "Inglês",
+  "categoria": "Biografias",
+  "temas": null,
+  "palavras_chave": "sugden paganini the illustrated",
+  "edicao_id": 3126,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 168,
+  "peso": 400,
+  "isbn": "9780711902640",
+  "editora": "Omnibus Press",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Os contemporâneos de Paganini o chamavam de o violinista do diabo, admirados por sua técnica deslumbrante. Considerado um dos primeiros grandes violinistas internacionais, ele foi um compositor e intérprete de talento excepcional. A obra reúne minuciosas pesquisas sobre sua carreira, retratando o impacto revolucionário que ele teve na música. Além de abordar as apresentações históricas, o livro traz detalhes sobre sua vida pessoal e o mito em torno de sua figura...",
+  "exemplar_id": 3125,
+  "sku": "LI021E",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora consideravelmente amarelado pela passagem do tempo e com a lombada levemente inclinada à direita. Texto sem anotações ou sublinhados. Miolo firme, sem folhas soltas. Lombada bem alinhada. Não possui marca de umidade, sol excessivo, traça ou mofo. , 18 x 25 cm."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:18:53",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

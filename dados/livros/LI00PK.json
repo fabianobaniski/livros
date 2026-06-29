@@ -1,0 +1,63 @@
+{
+  "obra_id": 962,
+  "autor": "John Knox; João Calvino",
+  "titulo": "Oração e a vida cristã",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "História. Teologia. Reforma.",
+  "palavras_chave": "knox calvino oracao vida cristã",
+  "edicao_id": 947,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 118,
+  "peso": 250,
+  "isbn": "9788538303442",
+  "editora": "Vida Acadêmica",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em 31 de outubro de 2017, celebra-se o quinto centenário da Reforma Protestante. Na mesma data de 1517, o monge agostiniano Martinho Lutero pregou na porta da Igreja do Castelo de Wittenberg um protesto contra diversos pontos da doutrina da Igreja Católica Romana, propondo uma reforma no catolicismo.</p><p>Os cinco pilares sobre os quais a Reforma Protestante está firmada são:</p><ul><li>Sola Fide – Somente a fé</li><li>Sola Scriptura – Somente a Escritura Sagrada</li><li>Solus Christus – Somente Jesus Cristo</li><li>Sola Gratia – Somente a graça</li><li>Solí Deo Gloria – Glória somente a Deus</li></ul><p>Oração e a vida cristã chega para celebrar as obras Tratado sobre a oração, de John Knox, e Sobre a vida cristã, de João Calvino, proeminentes da Reforma Protestante na Suíça, França e Inglaterra. O primeiro apresenta uma declaração sobre o que é a oração verdadeira, como e pelo que devemos orar em uma série de orações que demonstram grande maturidade e compaixão, servindo como base para instruir os cristãos que vivem sob tirania. Já Calvino instrui sobre o sistema moral das Escrituras, a santidade de Deus, a redenção e estímulos para imitar Cristo e seguir uma vida cristã piedosa com perseverança mediante a obediência à vontade divina e a autonegação.</p>",
+  "sinopse": "O livro 'Oração e a vida cristã' celebra as obras de John Knox e João Calvino, figuras fundamentais da Reforma Protestante. Knox discute a essência da oração verdadeira e a prática da oração consciente, enquanto Calvino explora o sistema moral das Escrituras e a importância de viver uma vida que imite Cristo. Ambos os textos servem como guias para o fortalecimento espiritual e a resistência contra a tirania, enfatizando a importância da oração e da obediência a Deus.",
+  "exemplar_id": 946,
+  "sku": "LI00PK",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/john-knox--ora--o-e-a-vida-crist---capa--20250227--152916.jpg",
+  "contracapa": "static/uploads/john-knox--ora--o-e-a-vida-crist---contracapa--20250227--152916.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta carimbo e assinatura na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:31",
+  "observacoes": null
+}

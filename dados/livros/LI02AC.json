@@ -1,0 +1,68 @@
+{
+  "obra_id": 3473,
+  "autor": "Nakaba Suzuki",
+  "titulo": "The Seven Deadly Sins",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Ação. Aventura.",
+  "palavras_chave": "suzuki seven deadly sins",
+  "edicao_id": 3450,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 170,
+  "isbn": "9788545700142",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Nanatsu no Taizai",
+  "volume": 3,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3449,
+  "sku": "LI02AC",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/the-seven-deadly-sins__nakaba-suzuki__capa__2025-11-05_16-15-41-125393.jpg",
+  "contracapa": "static/uploads/the-seven-deadly-sins__nakaba-suzuki__contracapa__2025-11-05_16-15-41-163005.jpg",
+  "fotos": [
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-01__2025-11-05_16-15-41-200362.jpg",
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-02__2025-11-05_16-15-41-228400.jpg",
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-03__2025-11-05_16-15-41-249138.jpg",
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-04__2025-11-05_16-15-41-270547.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:04:04",
+  "observacoes": null
+}

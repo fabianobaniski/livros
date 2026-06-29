@@ -1,0 +1,63 @@
+{
+  "obra_id": 3101,
+  "autor": "G. Campbell Morgan",
+  "titulo": "The Voice of the Devil",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "morgan the voice the",
+  "edicao_id": 3081,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 63,
+  "peso": 150,
+  "isbn": null,
+  "editora": "Baker Book House",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro aborda a luta espiritual contra as forças do mal, discutindo o poder do diabo e suas armadilhas. Baseado em princípios bíblicos, o autor explora como o mal se manifesta no mundo e na vida dos fiéis, instigando dúvidas e desespero. No entanto, a mensagem central é de confiança em Deus, que, mesmo permitindo que o mal aja, oferece forças para resistir e vencer. O texto enfatiza a importância de reconhecer os enganos do diabo e reafirma a fé como a arma mais poderosa contra a escuridão.",
+  "exemplar_id": 3080,
+  "sku": "LI0205",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um tanto amarelado pela ação do tempo sobre o papel. Com carimbo de biblioteca particular. Livre de anotações, sublinhados, rabiscos, rasgos ou amassados. Não possui marcas de umidade, exposição ao sol, cheiro de mofo, furo de traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:16:31",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

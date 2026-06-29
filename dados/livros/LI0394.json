@@ -1,0 +1,67 @@
+{
+  "obra_id": 5904,
+  "autor": "Ellen G. White",
+  "titulo": "Orientação da criança",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white orientacao crianca",
+  "edicao_id": 5879,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 627,
+  "peso": 670,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 9,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A formação de um lar e a criação de filhos são apresentados como responsabilidades sagradas. Este livro oferece orientações valiosas para pais cristãos, destacando o papel crucial da mãe na educação e no desenvolvimento moral dos filhos. Baseada em artigos e testemunhos inspirados, a obra reúne conselhos práticos e espirituais que ajudam a enfrentar os desafios da criação, enfatizando a importância de moldar o caráter infantil com amor e sabedoria divina.",
+  "exemplar_id": 5878,
+  "sku": "LI0394",
+  "preco_estante_virtual": 78.0,
+  "preco_amazon": 78.0,
+  "capa": "static/uploads/ellen-g-white--orientacao-da-crianca--capa--20260306--095312.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--orientacao-da-crianca--foto1--20260306--095319.jpg",
+    "static/uploads/ellen-g-white--orientacao-da-crianca--foto2--20260306--095319.jpg",
+    "static/uploads/ellen-g-white--orientacao-da-crianca--foto3--20260306--095319.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Sem marcas de umidade, mofo, traça. Única ressalva é que há alguns grifos feitos usando caneta azul e régua em um número mínimo de folhas. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:59:12",
+  "observacoes": null
+}

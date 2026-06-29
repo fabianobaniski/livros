@@ -1,0 +1,68 @@
+{
+  "obra_id": 2318,
+  "autor": "Lygia Fagundes Telles",
+  "titulo": "A disciplina do amor",
+  "subtitulo": "Fragmentos",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "telles disciplina amor fragmentos",
+  "edicao_id": 2298,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 151,
+  "peso": 180,
+  "isbn": "",
+  "editora": "Nova Fronteira",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra explora a função do escritor como testemunha de seu tempo e sociedade. Destaca a importância de escrever por aqueles que não podem se expressar e comunicar-se com o próximo para ajudar em seu sofrimento e esperança. Lygia Fagundes Telles é elogiada pela crítica por transformar experiências em ficção com sensibilidade e profundidade. Suas obras abordam inquietações íntimas e sociais com uma linguagem refinada e empática, conquistando a serenidade clássica das formas definitivas.",
+  "exemplar_id": 2297,
+  "sku": "LI01EF",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/lygia-fagundes-telles--a-disciplina-do-amor--capa--20251020--184422.png",
+  "contracapa": "static/uploads/lygia-fagundes-telles--a-disciplina-do-amor--contracapa--20251020--184436.png",
+  "fotos": [
+    "static/uploads/lygia-fagundes-telles--a-disciplina-do-amor--foto1--20251020--184406.jpg",
+    "static/uploads/lygia-fagundes-telles--a-disciplina-do-amor--foto2--20251020--184406.jpg",
+    "static/uploads/lygia-fagundes-telles--a-disciplina-do-amor--foto3--20251020--184406.jpg",
+    "static/uploads/lygia-fagundes-telles--a-disciplina-do-amor--foto4--20251020--184406.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:17:11",
+  "observacoes": null
+}

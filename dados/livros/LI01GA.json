@@ -1,0 +1,63 @@
+{
+  "obra_id": 2385,
+  "autor": "Geraldine Brooks",
+  "titulo": "As Memórias do Livro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "brooks memorias livro",
+  "edicao_id": 2365,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 384,
+  "peso": 550,
+  "isbn": "9788500023323",
+  "editora": "Ediouro",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em meio à devastação da Bósnia pós-guerra civil, um antigo manuscrito judeu medieval, a Haggadá de Sarajevo, ressurge. Rico em ilustrações, o manuscrito contraria as restrições judaicas da época, envolvendo-se em uma trama de mistérios. A restauradora australiana Hanna Heath é encarregada de analisar o livro e descobre pistas minúsculas, como manchas de vinho e cristais de sal, que revelam fragmentos da longa história da Haggadá e das pessoas que lutaram para preservá-la...",
+  "exemplar_id": 2364,
+  "sku": "LI01GA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/geraldine-brooks--as-memorias-do-livro--capa--20260316--155021.jpg",
+  "contracapa": "static/uploads/geraldine-brooks--as-memorias-do-livro--contracapa--20260316--155028.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Primeira folha sinais de algum selo que foi arrancado, data à caneta. Ilustrado em preto e branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:18:22",
+  "observacoes": null
+}

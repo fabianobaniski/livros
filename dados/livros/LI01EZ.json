@@ -1,0 +1,63 @@
+{
+  "obra_id": 2338,
+  "autor": "Jean M. Rivière",
+  "titulo": "A la sombra de los monasterios tibetanos",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "riviere sombra los monasterios",
+  "edicao_id": 2318,
+  "encadernacao": null,
+  "quantidade_paginas": 138,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Kier",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em espanhol. / Jean M. Rivière apresenta uma obra que explora os mistérios do Tibete, um país isolado no centro da Ásia. Relata viagens e encontros com figuras sábias e lugares místicos, como a lamaseria de Kombum, a cidade secreta de Shambala e a cela do eremita Issa, que dizem ter sido Jesus. Através de relatos misteriosos e esotéricos, a obra conduz o leitor a templos secretos e revela conhecimentos antigos, como a história da Atlântida e da Lemúria. Com um estilo elevado e transcendente, o autor oferece uma visão sublime e esotérica do Tibete e seus segredos.",
+  "exemplar_id": 2317,
+  "sku": "LI01EZ",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/jean-m-riviere--a-la-sombra-de-los-monasterios-tibetanos--capa--20260316--100537.jpg",
+  "contracapa": "static/uploads/jean-m-riviere--a-la-sombra-de-los-monasterios-tibetanos--contracapa--20260316--100545.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Raridade! Livro fortemente amarelado pela ação do tempo, com alguns sinais deixados pelo uso, mas, no geral, em bom estado. Miolo firme, lombada reta, texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:30:49",
+  "observacoes": null
+}

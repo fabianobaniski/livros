@@ -1,0 +1,68 @@
+{
+  "obra_id": 209,
+  "autor": "Ray Bradbury",
+  "titulo": "Prazer em queimar",
+  "subtitulo": "Histórias de Fahrenheit 451",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Literatura fantástica. Questões sociais.",
+  "palavras_chave": "bradbury prazer queimar",
+  "edicao_id": 203,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 413,
+  "peso": 380,
+  "isbn": "9786555670127",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Mestre da ficção especulativa, Ray Bradbury partiu da criação de um conto intitulado \"O bombeiro\" para escrever sua obra-prima, Fahrenheit 451. Neste volume estão reunidos os dezesseis contos que deram origem ao clássico sobre uma sociedade que queima livros e persegue quem ainda os mantém. Entre temas como a morte e o pós-morte, a liberdade e a repressão, a censura, a arte e a persistência da memória, Prazer em queimar - histórias de Fahrenheit 451 traz, como lampejos premonitórios de um futuro distópico, algumas das narrativas que cintilam o mundo que Bradbury imaginou. Será que ele é muito diferente do nosso?</p>",
+  "sinopse": "Este livro reúne contos que inspiraram o clássico Fahrenheit 451, refletindo sobre temas como a liberdade, a repressão e a persistência da memória em uma sociedade que queima livros e persegue seus mantenedores. As narrativas premonitórias evocam um futuro distópico que pode ser mais próximo da realidade do que se imagina.",
+  "exemplar_id": 202,
+  "sku": "LI0056",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/ray-bradbury--prazer-em-queimar--capa--20250226--133806.jpg",
+  "contracapa": "static/uploads/ray-bradbury--prazer-em-queimar--contracapa--20250226--133806.jpg",
+  "fotos": [
+    "static/uploads/ray-bradbury--prazer-em-queimar--foto1--20250226--133806.jpg",
+    "static/uploads/ray-bradbury--prazer-em-queimar--foto2--20250226--133806.jpg",
+    "static/uploads/ray-bradbury--prazer-em-queimar--foto3--20250226--133806.jpg",
+    "static/uploads/ray-bradbury--prazer-em-queimar--foto4--20250226--133806.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:09:26",
+  "observacoes": null
+}

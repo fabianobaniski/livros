@@ -1,0 +1,63 @@
+{
+  "obra_id": 488,
+  "autor": "Nancy Guthrie",
+  "titulo": "Antes de partir",
+  "subtitulo": "Encarando a morte com confiança corajosa em Deus",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Religião. Espiritualidade. Morte.",
+  "palavras_chave": "guthrie antes partir",
+  "edicao_id": 473,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 169,
+  "peso": 300,
+  "isbn": "9788581320458",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A morte, para o crente, não é uma tragédia. E para o crente, morrer bem – viver e morrer com o objetivo de glorificar a Deus, confiante de que Deus fará o bem em todas as suas promessas, é algo muito belo!</p> <p>Como o cristão lida com a difícil realidade da morte? Como devemos viver e como devemos morrer à luz do evangelho de Jesus Cristo? Leitores nas mais diversas fases da vida ou lidando com as mais complicadas situações haverão de encontrar conforto, encorajamento, esperança e desafios para suas almas, nesta coletânea de 20 meditações extraídas de sermões e escritos de pastores e teólogos clássicos e contemporâneos. Aqui, encontraremos instrução e encorajamento sobre como lidar com a morte, vindos de homens como Martinho Lutero, Abraham Kuyper, João Calvino, Charles Spurgeon, John Piper, J. I. Packer, Tim Keller e muitos outros.</p>",
+  "sinopse": "Este livro explora como o cristão lida com a realidade da morte e a importância de viver e morrer com um propósito glorificador a Deus. Através de uma coletânea de meditações e reflexões de renomados teólogos e pastores, ele oferece conforto, encorajamento e instrução para enfrentar desafios espirituais relativos à vida e à morte.",
+  "exemplar_id": 472,
+  "sku": "LI00CJ",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 58.0,
+  "capa": "static/uploads/nancy-guthrie--antes-de-partir--capa--20250227--111545.jpg",
+  "contracapa": "static/uploads/nancy-guthrie--antes-de-partir--contracapa--20250227--111545.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 19:18:55",
+  "observacoes": null
+}

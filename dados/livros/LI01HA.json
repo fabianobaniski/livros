@@ -1,0 +1,63 @@
+{
+  "obra_id": 2421,
+  "autor": "Renato Tapajós",
+  "titulo": "Carapintada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "renato tapajos carapintada",
+  "edicao_id": 2401,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 112,
+  "peso": 250,
+  "isbn": "9788508045648",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Após um dia de protestos que prometiam transformar o país, Rodrigo retorna para casa, mas percebe que algo estranho aconteceu. A cidade parece diferente, com ônibus e carros antigos, e até a poluição diminuiu. Intrigado, ele embarca em uma perigosa aventura para desvendar o que está acontecendo. O enigma que envolve essa nova realidade é explorado nesta narrativa envolvente de Renato Tapajós, misturando elementos de mistério, fantasia e questões sociais.",
+  "exemplar_id": 2400,
+  "sku": "LI01HA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/renato-tapajos--carapintada--capa--20260316--180627.jpg",
+  "contracapa": "static/uploads/renato-tapajos--carapintada--contracapa--20260316--180627.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:14:46",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 5815,
+  "autor": "Marcia Tiburi",
+  "titulo": "Feminismo em comum",
+  "subtitulo": "Para todas, todes e todos",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Feminismo. Direitos humanos. Gênero. Diversidade. Igualdade.",
+  "palavras_chave": "tiburi feminismo comum para todas todes todos",
+  "edicao_id": 5790,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 125,
+  "peso": 130,
+  "isbn": "9788501113511",
+  "editora": "Rosa dos Tempos",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"O feminismo nos leva à luta por direitos de todas, todes e todos.\"</p><p>Todas porque quem leva essa luta adiante são as mulheres. Todes porque o feminismo liberou as pessoas de se identificarem como mulheres ou homens e abriu espaço para outras expressões de gênero – e de sexualidade – e isso veio interferir no todo da vida. Todos porque luta por certa ideia de humanidade e, por isso mesmo, considera que aquelas pessoas definidas como homens também devem ser incluídas em um processo realmente democrático.</p><p>Do capítulo \"Para pensar o feminismo\"</p>",
+  "sinopse": "O livro aborda o feminismo como uma luta pelos direitos de todas as pessoas, independentemente de identidade de gênero ou sexualidade. Destaca o papel das mulheres, mas também inclui todas as expressões de gênero e defende um processo democrático e inclusivo, no qual homens, mulheres e pessoas não-binárias participam da luta por direitos e igualdade.",
+  "exemplar_id": 5789,
+  "sku": "LI036O",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/feminismo-em-comum__para-todas-todes-e-todos__marcia-tiburi__capa__2026-01-18_14-11-57-898293-000.png",
+  "contracapa": "static/uploads/feminismo-em-comum__para-todas-todes-e-todos__marcia-tiburi__contracapa__2026-01-18_14-11-57-914962-001.png",
+  "fotos": [
+    "static/uploads/feminismo-em-comum__para-todas-todes-e-todos__marcia-tiburi__foto-01__2026-01-18_14-11-57-928230-002.jpg",
+    "static/uploads/feminismo-em-comum__para-todas-todes-e-todos__marcia-tiburi__foto-02__2026-01-18_14-11-57-959627-003.jpg",
+    "static/uploads/feminismo-em-comum__para-todas-todes-e-todos__marcia-tiburi__foto-03__2026-01-18_14-11-57-993483-004.jpg",
+    "static/uploads/feminismo-em-comum__para-todas-todes-e-todos__marcia-tiburi__foto-04__2026-01-18_14-11-58-019837-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:01:33",
+  "observacoes": null
+}

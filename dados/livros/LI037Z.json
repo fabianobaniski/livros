@@ -1,0 +1,68 @@
+{
+  "obra_id": 5863,
+  "autor": "Samuel Hazzan; José Nicolau Pompeo",
+  "titulo": "Matemática financeira",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Economia. Ciências Contábeis. Atuária. Matemática financeira. Mercado financeiro brasileiro. Juros. Descontos. Investimentos.",
+  "palavras_chave": "hazzan matematica financeira",
+  "edicao_id": 5838,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 314,
+  "peso": 530,
+  "isbn": "9788502055315",
+  "editora": "Saraiva",
+  "numero_edicao": 6,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta edição de <b>Matemática financeira</b>, dos autores Samuel Hazzan e José Nicolau Pompeo, fornece, de maneira lógica e com encadeamento entre teoria e exercícios, os instrumentos para o cálculo financeiro dentro da realidade brasileira.</p><p>O livro aborda os conceitos de juros simples e compostos, descontos, análise de pagamentos e investimentos, financiamento em prestações iguais, juros em contexto inflacionário e pagamentos de longo prazo, oferecendo formas de aplicação atualizadas do mercado financeiro brasileiro. Destacam-se as operações com <i>hot money</i>, descontos de duplicatas, CDB, CDI, títulos públicos, debêntures, crédito ao consumidor, <i>leasing</i>, entre outros.</p><p>A teoria, os exemplos e os exercícios, colocados em ordem crescente de dificuldade, bem como os apêndices explicando o uso da calculadora HP12C e a planilha Excel, visam a dar ao leitor os elementos para uma aprendizagem eficiente e para a fixação dos conceitos.</p><p><b>Matemática financeira</b> é indicado como livro-texto para cursos de graduação e especialização em Administração, Economia, Ciências Contábeis e Atuariais e também como referência para profissionais que atuam nas áreas financeira e comercial.</p><p><i>Conheça o site do livro e as demais novidades do nosso catálogo no endereço: www.saraivauni.com.br</i></p>",
+  "sinopse": "Este livro oferece uma abordagem lógica e integrada entre teoria e exercícios, voltada para o cálculo financeiro no contexto brasileiro. Apresenta conceitos de juros simples e compostos, descontos, análise de pagamentos e investimentos, além de financiamento em prestações iguais e operações do mercado financeiro como hot money, CDB, CDI, títulos públicos, debêntures, crédito ao consumidor e leasing. Indicado para estudantes de Administração, Economia, Ciências Contábeis e Atuariais, bem como referência para profissionais das áreas financeira e comercial.",
+  "exemplar_id": 5837,
+  "sku": "LI037Z",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/matematica-financeira__none__samuel-hazzan-jose-nicolau-pompeo__capa__2026-01-18_14-12-40-415177-000.png",
+  "contracapa": "static/uploads/matematica-financeira__none__samuel-hazzan-jose-nicolau-pompeo__contracapa__2026-01-18_14-12-40-455364-001.png",
+  "fotos": [
+    "static/uploads/matematica-financeira__none__samuel-hazzan-jose-nicolau-pompeo__foto-01__2026-01-18_14-12-40-783518-002.jpg",
+    "static/uploads/matematica-financeira__none__samuel-hazzan-jose-nicolau-pompeo__foto-02__2026-01-18_14-12-40-808379-003.jpg",
+    "static/uploads/matematica-financeira__none__samuel-hazzan-jose-nicolau-pompeo__foto-03__2026-01-18_14-12-40-849271-004.jpg",
+    "static/uploads/matematica-financeira__none__samuel-hazzan-jose-nicolau-pompeo__foto-04__2026-01-18_14-12-40-932915-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:45:46",
+  "observacoes": "procedencia_biblioteca"
+}

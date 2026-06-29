@@ -1,0 +1,68 @@
+{
+  "obra_id": 3584,
+  "autor": "Akira Toriyama",
+  "titulo": "Dragon Ball",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos. Mangá. Aventura. Artes marciais.",
+  "palavras_chave": "toriyama dragon ball",
+  "edicao_id": 3561,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": 17,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3560,
+  "sku": "LI02DF",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/dragon-ball__akira-toriyama__capa__2025-11-05_16-16-54-630964.jpg",
+  "contracapa": "static/uploads/dragon-ball__akira-toriyama__contracapa__2025-11-05_16-16-54-666648.jpg",
+  "fotos": [
+    "static/uploads/dragon-ball__akira-toriyama__foto-01__2025-11-05_16-16-54-690832.jpg",
+    "static/uploads/dragon-ball__akira-toriyama__foto-02__2025-11-05_16-16-54-711722.jpg",
+    "static/uploads/dragon-ball__akira-toriyama__foto-03__2025-11-05_16-16-54-731503.jpg",
+    "static/uploads/dragon-ball__akira-toriyama__foto-04__2025-11-05_16-16-54-751182.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:39:45",
+  "observacoes": null
+}

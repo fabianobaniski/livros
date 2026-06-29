@@ -1,0 +1,68 @@
+{
+  "obra_id": 84,
+  "autor": "Christiane Rochefort",
+  "titulo": "O repouso do guerreiro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Amor. Alcoolismo. Solidão",
+  "palavras_chave": "rochefort repouso guerreiro",
+  "edicao_id": 84,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 248,
+  "peso": 280,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A história de Geneviève e sua mórbida paixão por Renaud, um alcoólatra inveterado. A submissão a um amor sem limites que a desespera, aniquila e, finalmente, a destrói. A sensação de vertigem, de flutuação acima de um despinhadeiro, que marca o espírito de Geneviève, e a lucidez com que ela aceita o aviltamento provocam no leitor um estado de expectativa que testemunha a habilidade literária da autora.</p>",
+  "sinopse": "A história de Geneviève e sua mórbida paixão por Renaud, um alcoólatra inveterado. A submissão a um amor sem limites que a despera, aniquila e, finalmente, a destrói.",
+  "exemplar_id": 83,
+  "sku": "LI0026",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/christiane-rochefort--o-repouso-do-guerreiro--capa--20250226--110048.jpg",
+  "contracapa": "static/uploads/christiane-rochefort--o-repouso-do-guerreiro--contracapa--20250226--110048.jpg",
+  "fotos": [
+    "static/uploads/christiane-rochefort--o-repouso-do-guerreiro--foto1--20250226--110048.jpg",
+    "static/uploads/christiane-rochefort--o-repouso-do-guerreiro--foto2--20250226--110048.jpg",
+    "static/uploads/christiane-rochefort--o-repouso-do-guerreiro--foto3--20250226--110048.jpg",
+    "static/uploads/christiane-rochefort--o-repouso-do-guerreiro--foto4--20250226--110048.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Capa com marca de dobra. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:41:19",
+  "observacoes": null
+}

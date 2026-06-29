@@ -1,0 +1,68 @@
+{
+  "obra_id": 2143,
+  "autor": "Antonio Benedito Silva Oliveira; Antonio Renato Cecconello; Claudionor Francisco Barbosa; Eduardo de Souza Célice; Marcia Covaciuc Kounrouzan; Wanny Arantes Bongiovanni Di Giorgi",
+  "titulo": "Métodos e técnicas de pesquisa em contabilidade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Métodos de pesquisa. Técnicas de pesquisa.",
+  "palavras_chave": "oliveira metodos tecnicas pesquisa contabilidade",
+  "edicao_id": 2123,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 177,
+  "peso": 350,
+  "isbn": "9788502039315",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Métodos e técnicas de pesquisa em contabilidade</h1><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço <b>www.saraivauni.com.br</b></p><p>LIVRO COM MATERIAL DE APOIO <br> acesse o site</p>",
+  "sinopse": "A obra 'Métodos e técnicas de pesquisa em contabilidade' oferece aos leitores fundamentos e diretrizes para o desenvolvimento de pesquisas na área contábil. Ideal para estudantes e profissionais, o livro também disponibiliza material de apoio online para complementar o estudo e aprofundar o conhecimento sobre métodos aplicados em contabilidade.",
+  "exemplar_id": 2122,
+  "sku": "LI019K",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/antonio-benedito-silva-oliveira--m-todos-e-t-cnicas-de-pesquisa-em-contabilidade--capa--20250430--104615.jpg",
+  "contracapa": "static/uploads/antonio-benedito-silva-oliveira--m-todos-e-t-cnicas-de-pesquisa-em-contabilidade--contracapa--20250430--104615.jpg",
+  "fotos": [
+    "static/uploads/antonio-benedito-silva-oliveira--m-todos-e-t-cnicas-de-pesquisa-em-contabilidade--foto1--20250430--104615.jpg",
+    "static/uploads/antonio-benedito-silva-oliveira--m-todos-e-t-cnicas-de-pesquisa-em-contabilidade--foto2--20250430--104615.jpg",
+    "static/uploads/antonio-benedito-silva-oliveira--m-todos-e-t-cnicas-de-pesquisa-em-contabilidade--foto3--20250430--104615.jpg",
+    "static/uploads/antonio-benedito-silva-oliveira--m-todos-e-t-cnicas-de-pesquisa-em-contabilidade--foto4--20250430--104615.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:53:21",
+  "observacoes": "procedencia_biblioteca"
+}

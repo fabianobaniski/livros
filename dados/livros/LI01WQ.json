@@ -1,0 +1,63 @@
+{
+  "obra_id": 2978,
+  "autor": "David M. Blitzer",
+  "titulo": "Whats the economy trying to tell you?",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Economia",
+  "temas": "",
+  "palavras_chave": "blitzer whats the economy",
+  "edicao_id": 2958,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 324,
+  "peso": 400,
+  "isbn": "9780070059399",
+  "editora": "Mcgraw-hill",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta obra oferece uma abordagem clara e acessível para quem deseja entender, interpretar e prever tendências econômicas. Escrito por um economista renomado, ensina a identificar sinais de inflação e recessão, compreender as decisões do Federal Reserve e seu impacto, e analisar ciclos econômicos como um especialista. Ideal para quem se sente perdido com indicadores econômicos, o livro desmistifica conceitos complexos e mostra como eles afetam suas finanças e decisões pessoais, desde investimentos até compra de imóveis.",
+  "exemplar_id": 2957,
+  "sku": "LI01WQ",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/whats-the-economy-trying-to-tell-you-david-m-blitzer-capa_rev582.jpg",
+  "contracapa": "static/uploads/whats-the-economy-trying-to-tell-you-david-m-blitzer-contracapa_rev632.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Subtítulo: Everyones guide to understanding and profiting from the economy. / Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel discretamente amarelado pelo tempo. Capa dura com sobrecapa.,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:01:09",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1303,
+  "autor": "Ana Cristina Limongi-França",
+  "titulo": "Psicologia do trabalho",
+  "subtitulo": "Psicossomática, valores e práticas organizacionais",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "Saúde. Trabalho. Psicologia organizacional.",
+  "palavras_chave": "limongi-franca psicologia trabalho ",
+  "edicao_id": 1287,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 299,
+  "peso": 400,
+  "isbn": "978850206393",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Não é só o corpo que sente os impactos do ritmo frenético de trabalho que as inovações tecnológicas, a globalização e o crescimento dos mercados imprimem em nosso cotidiano. A mente também sofre. Por isso, a abordagem psicossomática no trabalho tem sido cada vez integrada a essas questões de saúde. <b>Psicologia do Trabalho</b>: psicossomática, valores e práticas organizacionais é um livro que tem como missão contribuir para o estudo das pessoas nas organizações, justamente a partir das pessoas, suas percepções, interações, conflitos e processos de convivência e adaptação biopsocial.</p><p>Baseada em grande parte nas experiências e na dissertação de mestrado da psicóloga organizacional Ana Cristina Limongi-França, esta obra oferece aos alunos de Psicologia, Administração com ênfase em Recursos Humanos, Gestão de Pessoas, Ciências Sociais e suas vertentes um estudo sobre as respostas psicossomáticas das pessoas em uma empresa, desde o julgamento tido como psicológico até a revelação social do problema. Imprescindível no entendimento das relações profissionais contemporâneas.</p>",
+  "sinopse": "Este livro explora as consequências das inovações tecnológicas e da globalização na saúde mental dos trabalhadores, integrando a psicossomática no contexto organizacional. Tem como objetivo fornecer ferramentas para entender as interações, conflitos e a adaptação social dos indivíduos nas organizações de trabalho, oferecendo uma perspectiva valiosa sobre as práticas e valores que influenciam as dinâmicas profissionais contemporâneas.",
+  "exemplar_id": 1286,
+  "sku": "LI00R7",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/ana-cristina-limongi-fran-a--psicologia-do-trabalho--capa--20250401--114908.png",
+  "contracapa": "static/uploads/ana-cristina-limongi-fran-a--psicologia-do-trabalho--contracapa--20250401--114908.png",
+  "fotos": [
+    "static/uploads/ana-cristina-limongi-fran-a--psicologia-do-trabalho--foto1--20250401--114908.jpg",
+    "static/uploads/ana-cristina-limongi-fran-a--psicologia-do-trabalho--foto2--20250401--114908.jpg",
+    "static/uploads/ana-cristina-limongi-fran-a--psicologia-do-trabalho--foto3--20250401--114908.jpg",
+    "static/uploads/ana-cristina-limongi-fran-a--psicologia-do-trabalho--foto4--20250401--114908.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:19:13",
+  "observacoes": "procedencia_biblioteca"
+}

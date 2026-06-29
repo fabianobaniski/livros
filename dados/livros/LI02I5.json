@@ -1,0 +1,63 @@
+{
+  "obra_id": 4699,
+  "autor": "Tadahiro Miura",
+  "titulo": "Yuuna e a pensão assombrada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Sobrenatural. Mistério.",
+  "palavras_chave": "miura yuuna pensao assombrada",
+  "edicao_id": 4674,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 197,
+  "peso": 210,
+  "isbn": "9786555123050",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>Eu sou Matora Mikogami, uma Nue! Vamos aproveitar essa bela noite enluarada pra brigar pra valer...!</p> <p>Kogarashi e as meninas investigam um dos Sete Mistérios do Colégio Yukemuri... o lance de escadas onde a calcinha de qualquer menina sempre acaba aparecendo! Qual será o plano deles para desvendar este mistério...?! Além disso, para conseguir enfrentar Nonko e ajudar Kagura a se aproximar de Kogarashi, Matora decide ir com os três a uma fonte termal secreta de frente para o mar...</p>",
+  "sinopse": "Kogarashi e as meninas enfrentam o mistério das escadas mágicas do Colégio Yukemuri, enquanto Matora planeja uma visita a uma fonte termal secreta para ajudar Kagura e confrontar Nonko.",
+  "exemplar_id": 4673,
+  "sku": "LI02I5",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 21.0,
+  "capa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__capa__2026-02-20_10-30-12-074697-000.png",
+  "contracapa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__contracapa__2026-02-20_10-30-12-124742-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com sobrecapa e capas sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

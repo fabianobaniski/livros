@@ -1,0 +1,63 @@
+{
+  "obra_id": 3091,
+  "autor": "R. J. Vincent",
+  "titulo": "Human Rights and International Relations",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "Ciência Política",
+  "temas": null,
+  "palavras_chave": "vincent human rights and",
+  "edicao_id": 3071,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 186,
+  "peso": 380,
+  "isbn": "9780521339957",
+  "editora": "Cambridge University Press",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro trata do impacto dos direitos humanos nas relações entre os Estados. Ele procura reunir em um só lugar uma explicação da teoria dos direitos humanos (o que são; de onde vêm; se são universais); uma discussão sobre o papel deles na política internacional contemporânea (incluindo as relações Leste-Oeste e Norte-Sul); e uma visão do que deve ser feito em relação a eles - especialmente pelos países ocidentais.",
+  "exemplar_id": 3070,
+  "sku": "LI01ZV",
+  "preco_estante_virtual": 37.5,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, possuindo apenas leves sinais de uso ou da passagem do tempo. Não apresenta anotações, sublinhados, rabiscos, rasgos, amassados, marca de umidade, mofo ou exposição excessiva ao sol. Miolo íntegro, sem folhas soltas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:34:16",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

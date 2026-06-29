@@ -1,0 +1,68 @@
+{
+  "obra_id": 1862,
+  "autor": "Clezio Saldanha dos Santos",
+  "titulo": "Introdução à gestão pública",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração pública. Gestão. Processo administrativo. Estado brasileiro.",
+  "palavras_chave": "santos introducao gestao publica",
+  "edicao_id": 1842,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 295,
+  "isbn": "9788502055308",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esse livro tenta reunir conceitos, em uma única obra, sobre o processo administrativo e as grandes áreas funcionais da gestão pública. Tendo o cunho essencialmente didático, procura abordar conceitos sobre temas antigos, como o planejamento, a organização, a direção e o controle estatal, mas que estão sempre em voga.</p><p>A evolução da ciência administrativa remeteu pesquisadores e professores para o aprofundamento teórico desses temas em várias áreas, contudo, para auxiliar a <i>práxis</i> da gestão pública propõe-se aqui o conhecimento dos marcos conceituais e de seus desbravadores em uma publicação moderna.</p><p>Acredita-se que a partir da leitura dessa obra, confrontando os dados concretos da realidade das organizações públicas brasileiras, contribui-se para o entendimento sobre as funções e intervenções do Estado brasileiro. Enquanto cidadão ou servidor público, essas reflexões contribuirão cada vez mais para a evolução e transformações dos sistemas administrativos públicos, assim como para a construção da cidadania brasileira.</p>",
+  "sinopse": "O livro reúne conceitos essenciais do processo administrativo e das grandes áreas funcionais da gestão pública, com foco didático. Aborda temas como planejamento, organização, direção e controle estatal, aliando teoria à prática para auxiliar a gestão pública. Propõe o conhecimento dos marcos conceituais da área, facilitando o entendimento sobre o papel do Estado e contribuindo para a transformação dos sistemas administrativos públicos e para a cidadania no Brasil.",
+  "exemplar_id": 1841,
+  "sku": "LI011S",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/clezio-saldanha-dos-santos--introdu--o---gest-o-p-blica--capa--20250430--104251.jpg",
+  "contracapa": "static/uploads/clezio-saldanha-dos-santos--introdu--o---gest-o-p-blica--contracapa--20250430--104251.jpg",
+  "fotos": [
+    "static/uploads/clezio-saldanha-dos-santos--introdu--o---gest-o-p-blica--foto1--20250430--104251.jpg",
+    "static/uploads/clezio-saldanha-dos-santos--introdu--o---gest-o-p-blica--foto2--20250430--104251.jpg",
+    "static/uploads/clezio-saldanha-dos-santos--introdu--o---gest-o-p-blica--foto3--20250430--104251.jpg",
+    "static/uploads/clezio-saldanha-dos-santos--introdu--o---gest-o-p-blica--foto4--20250430--104251.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:20:43",
+  "observacoes": "procedencia_biblioteca"
+}

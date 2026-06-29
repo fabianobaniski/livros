@@ -1,0 +1,63 @@
+{
+  "obra_id": 2330,
+  "autor": "H. G. Wells; Alvim Corrêa (ilustrador)",
+  "titulo": "A guerra dos mundos",
+  "subtitulo": "Edição especial ilustrada por Alvim Corrêa",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "",
+  "palavras_chave": "correa guerra dos mundos",
+  "edicao_id": 2310,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 241,
+  "peso": 485,
+  "isbn": "9788520940969",
+  "editora": "Nova Fronteira",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta edição especial contém as ilustrações originais criadas em 1906 por Henrique Alvim Corrêa, brasileiro radicado na Bélgica. Alvim Corrêa enviou seus desenhos para Wells depois de ler uma versão francesa do livro. Wells gostou tanto do trabalho que incluiu as ilustrações na edição de luxo publicada em 1906, e o trabalho entrou para a história. Wells chegou a considerar as ilustrações de Corrêa superiores às do ilustrador britânico Warwick Goble.",
+  "exemplar_id": 2309,
+  "sku": "LI01ER",
+  "preco_estante_virtual": 200.0,
+  "preco_amazon": 200.0,
+  "capa": "static/uploads/h-g-wells-ilustracoes-alvim-correa--a-guerra-dos-mundos--capa--20260316--100048.jpg",
+  "contracapa": "static/uploads/h-g-wells-ilustracoes-alvim-correa--a-guerra-dos-mundos--contracapa--20260316--100057.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição de luxo! Tamanho grande, capa dura, papel couché mate opaque 120 g. Inclui as ilustrações clássicas feitas pelo artista brasileiro Alvim Corrêa para uma edição belga publicada em 1905. A conservação do livro está muito boa. Claro que, em razão da passagem de 4 décadas há sinais deixados pela passagem do tempo e manuseio, mas nada grave. Há carimbo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:36:37",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3090,
+  "autor": "Gay Talese",
+  "titulo": "Fama & Anonimato",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Outros Assuntos",
+  "temas": null,
+  "palavras_chave": "talese fama anonimato",
+  "edicao_id": 3070,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 535,
+  "peso": 700,
+  "isbn": "9788535904895",
+  "editora": "Companhia das Letras",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Gay Talese percorreu as ruas de Nova York nos anos 60 e descobriu curiosidades aparentemente triviais, mas que nas mãos deste escritor de primeira categoria imprimem a textura real da cidade e o rosto de seus habitantes: uma segunda Estátua da Liberdade para confundir desavisados, o número de piscadas dos nova-iorquinos por segundo, o impacto da chuva no comércio e nos suicídios, as histórias de um mergulhador, das prostitutas e suas homenagens aos cafetões...",
+  "exemplar_id": 3069,
+  "sku": "LI01ZU",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Boa conservação geral, com leves marcas de uso e da passagem do tempo. Papel um tanto amarelado. Não apresenta anotações, sublinhados, rabiscos, rasgos, amassados, marca de umidade, mofo ou exposição excessiva ao sol. Miolo íntegro, sem folhas soltas. Lombada levemente inclinada à direita."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:45:34",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

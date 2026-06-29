@@ -1,0 +1,63 @@
+{
+  "obra_id": 4836,
+  "autor": "Tatsuki Fujimoto",
+  "titulo": "Chainsaw man",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Demonios. Ação.",
+  "palavras_chave": "fujimoto chainsaw man",
+  "edicao_id": 4811,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 220,
+  "isbn": "9786559820320",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Os membros da Divisão Especial Antidemônios da Segurança Pública sofrem atentados a tiros por parte de um grupo misterioso que pretende tomar o coração de Denji, o que deixa os sobreviventes em estado de alerta constante. Diante das circunstâncias, Denji e Power começam um treinamento intensivo com aquele que é reconhecido como o mais forte dentre os Caçadores de Demônios. Não há dúvidas de que esse sujeito tem uns parafusos a menos e faz de tudo para tentar matar a dupla...!! Em uma atmosfera que mescla seriedade e insanidade, as bandeiras da contra-ataque são erguidas!!</p>",
+  "sinopse": "Os membros da Divisão Especial Antidemônios enfrentam atentados enquanto um grupo tenta capturar o coração de Denji. Neste cenário de constante alerta, Denji e Power iniciam um rigoroso treinamento com um dos caçadores mais fortes. Em meio a circunstâncias extremas e imprevisíveis, eles precisam se preparar para o inevitável confronto.",
+  "exemplar_id": 4810,
+  "sku": "LI02LY",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/chainsaw-man__tatsuki-fujimoto__capa__2026-02-20_10-30-48-255836-000.png",
+  "contracapa": "static/uploads/chainsaw-man__tatsuki-fujimoto__contracapa__2026-02-20_10-30-48-316632-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 59,
+  "autor": "Daniel Samper Pizano",
+  "titulo": "Impávido colosso",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "pizano impavido colosso ",
+  "edicao_id": 59,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 237,
+  "peso": 300,
+  "isbn": "8501072206",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"O Brasil é o país do futuro.\" Para convencer a opinião pública internacional dos avanços de um governo de farda e coturno, Medici organizava a feira \"Brasil Export 72\", em que tentava pintar um quadro colorido da realidade brasileira.</p> <p>Ao longo de semanas, jornalistas de todo o mundo passeiam em revistas às belezas de nosso país, em encontros com ministros e inaugurações de obras faraônicas. Revestido de fina ironia, <i>Impávido colosso</i> derruba o castelo de areia da ditadura, erguido sobre os pilares da repressão, censura e cultuação da miséria.</p>",
+  "sinopse": "Uma sátira mordaz sobre a propaganda do regime militar brasileiro durante a década de 1970. O livro retrata o evento 'Brasil Export 72', onde o governo tenta vender uma imagem idealizada do país, enquanto esconde a repressão e as desigualdades sociais.",
+  "exemplar_id": 58,
+  "sku": "LI001J",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/daniel-samper-pizano--imp-vido-colosso--capa--20250225--232010.jpg",
+  "contracapa": "static/uploads/daniel-samper-pizano--imp-vido-colosso--contracapa--20250225--232010.jpg",
+  "fotos": [
+    "static/uploads/daniel-samper-pizano--imp-vido-colosso--foto1--20250225--232010.jpg",
+    "static/uploads/daniel-samper-pizano--imp-vido-colosso--foto2--20250225--232010.jpg",
+    "static/uploads/daniel-samper-pizano--imp-vido-colosso--foto3--20250225--232010.jpg",
+    "static/uploads/daniel-samper-pizano--imp-vido-colosso--foto4--20250225--232010.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:14:33",
+  "observacoes": null
+}

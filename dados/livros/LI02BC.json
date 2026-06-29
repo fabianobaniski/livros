@@ -1,0 +1,68 @@
+{
+  "obra_id": 3509,
+  "autor": "Masashi Kishimoto",
+  "titulo": "Naruto",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Cultura pop japonesa. Aventura. Ninja.",
+  "palavras_chave": "kishimoto naruto gold",
+  "edicao_id": 3486,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788542602609",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "Gold",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Naruto, Sasuke e Sakura estão sendo testados por Kakashi-sensei!! Se passarem nessa difícil prova, eles se tornarão Genins, ou seja, ninjas aprendizes! A Equipe Sete parte para assegurar a proteção de um notável construtor de pontes, o senhor Tazuna, mas terríveis sombras assassinas os espreitam!!</p>",
+  "sinopse": "Naruto, Sasuke e Sakura enfrentam uma difícil prova imposta por Kakashi-sensei para se tornarem Genins, os ninjas aprendizes. Agora, a Equipe Sete recebe a missão de proteger o construtor de pontes Tazuna, mas logo se vê diante de perigosas ameaças e sombras assassinas durante a nova jornada.",
+  "exemplar_id": 3485,
+  "sku": "LI02BC",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/naruto__masashi-kishimoto__capa__2025-11-05_16-16-03-971724.jpg",
+  "contracapa": "static/uploads/naruto__masashi-kishimoto__contracapa__2025-11-05_16-16-04-005618.jpg",
+  "fotos": [
+    "static/uploads/naruto__masashi-kishimoto__foto-01__2025-11-05_16-16-04-043371.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-02__2025-11-05_16-16-04-071106.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-03__2025-11-05_16-16-04-090369.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-04__2025-11-05_16-16-04-107004.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:58:01",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3550,
+  "autor": "Nobuhiro Watsuki",
+  "titulo": "Rurouni Kenshin",
+  "subtitulo": "Crônicas da era Meiji",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos japoneses. Samurais. Japão Meiji. Aventura.",
+  "palavras_chave": "watsuki rurouni kenshin cronicas era meiji",
+  "edicao_id": 3527,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 230,
+  "isbn": "9788577878215",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": 17,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3526,
+  "sku": "LI02CH",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__capa__2025-11-05_16-16-32-572239.jpg",
+  "contracapa": "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__contracapa__2025-11-05_16-16-32-609914.jpg",
+  "fotos": [
+    "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__foto-01__2025-11-05_16-16-32-642439.jpg",
+    "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__foto-02__2025-11-05_16-16-32-668969.jpg",
+    "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__foto-03__2025-11-05_16-16-32-691693.jpg",
+    "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__foto-04__2025-11-05_16-16-32-717893.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Possui leve sinal de dobra na contracapa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:57:00",
+  "observacoes": null
+}

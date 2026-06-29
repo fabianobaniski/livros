@@ -1,0 +1,63 @@
+{
+  "obra_id": 2747,
+  "autor": "Helena M. Uehara, Eni de M. Samara, Vera Andrade",
+  "titulo": "O Brasil de Pero Vaz de Caminha",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "andrade brasil pero vaz",
+  "edicao_id": 2727,
+  "encadernacao": null,
+  "quantidade_paginas": 103,
+  "peso": 300,
+  "isbn": "9788560671045",
+  "editora": "Idéia Escrita",
+  "numero_edicao": 0,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2726,
+  "sku": "LI01QB",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/o-brasil-de-pero-vaz-de-caminha-helena-m-uehara-eni-de-m-samara-vera-andrade-capa_rev199.jpg",
+  "contracapa": "static/uploads/o-brasil-de-pero-vaz-de-caminha-helena-m-uehara-eni-de-m-samara-vera-andrade-contracapa_rev422.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro grande, ricamente ilustrado, em cores. Ótima conservação. Sem anotações nem sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:39:06",
+  "observacoes": null
+}

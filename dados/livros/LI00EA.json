@@ -1,0 +1,63 @@
+{
+  "obra_id": 551,
+  "autor": "D. Martyn Lloyd-Jones",
+  "titulo": "Romanos",
+  "subtitulo": "Exposição sobre capítulo 11 para a glória de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. História da Igreja. Bíblia.",
+  "palavras_chave": "lloyd-jones romanos",
+  "edicao_id": 536,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 391,
+  "peso": 450,
+  "isbn": "",
+  "editora": "Publicações Evangélicas Selecionadas",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A doxologia registrada em Romanos 11:33-36 forneceu a Dr. Lloyd-Jones uma oportunidade de ouro para mostrar que um conhecimento da Bíblia e uma compreensão de doutrina sempre devem conduzir a uma humile, grata e alegre adoração a Deus.</p> <p>Nestes sermões constatamos que as verdades expressas pelo apóstolo Paulo não somente constituem uma conclusão apropriada também para os capítulos precedentes, mas além disso são uma chave interpretativa para o passado e o futuro.</p> <p>Elas explicam a história de Israel no Velho Testamento e a dos judeus e da Igreja no Novo Testamento, enquanto antecipam o futuro do povo judaico na Igreja Cristã. A exposição do “doutor” avalia outros pontos de vista do significado deste capítulo a partir de uma base exegética e teológica. Ela lança grande luz sobre a história secular e incentiva os cristãos a aguardarem alegremente “a plenitude dos gentios” e a salvação de “todo o Israel”, a qual será como “vida dentro os mortos”.</p> <p>Nascido no sul do país de Gales, o Dr. Lloyd-Jones estudou no hospital São Bartolomeu (Londres) e posteriormente praticou a medicina como assistente do famoso Lorde Horder. Depois de deixar a medicina em 1927, ele se tornou ministro de uma igreja presbiteriana em Aberavon, no sul de Gales. Permaneceu ali até 1938, quando então mudou-se para Londres a fim de participar do ministério na Capela de Westminster, junto com o Dr. G. Campbell Morgan. Esse ministério durou por 30 anos, até Dr. Lloyd-Jones aposentar-se em 1968. A partir daí passou a exercer um ministério de pregação mais amplo e a escrever livros até pouco antes da sua morte em 1981.</p>",
+  "sinopse": "A obra discute a doxologia de Romanos 11:33-36, destacando a importância de um conhecimento profundo da Bíblia que leve à adoração a Deus. Os sermões do autor revelam verdades que não só encerram os capítulos anteriores mas também fornecem uma chave para interpretar o passado e o futuro da Igreja. A exposição ilumina a história de Israel, incentivando a esperança na salvação de 'todo o Israel' e a vigilância sobre 'a plenitude dos gentios'.",
+  "exemplar_id": 535,
+  "sku": "LI00EA",
+  "preco_estante_virtual": 65.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/d--martyn-lloyd-jones--romanos--capa--20250227--152849.jpg",
+  "contracapa": "static/uploads/d--martyn-lloyd-jones--romanos--contracapa--20250227--152849.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:47",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 955,
+  "autor": "Jeremiah J. Johnston",
+  "titulo": "Inimaginável",
+  "subtitulo": "O que nosso mundo seria sem o Cristianismo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Fé. História. Ética.",
+  "palavras_chave": "johnston inimaginavel mundo cristianismo",
+  "edicao_id": 940,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 266,
+  "peso": 350,
+  "isbn": "9788526317611",
+  "editora": "CPAD",
+  "numero_edicao": 1,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Isso é o que algumas pessoas acreditam ou desejariam que acontecesse. Elas sustentam que as crenças cristãs e nosso estilo de vida não serão mais relevantes.</p><p>Ao demonstrar que o mundo sem o cristianismo seria um lugar completamente obscuro, <i>Inimaginável</i> guiará você ao longo da história para entender que os ensinamentos de Jesus mudaram o mundo drasticamente e que hoje seguem sendo a força mais poderosa do bem.</p><p>Ao ler este livro sugestivo e revelador, ideal para qualquer pessoa que se preocupa para onde vai este mundo, você saberá:</p><ul><li>Como o cristianismo tem ficado contra o mal da escravidão, racismo, eugenia e injustiças contra mulheres e crianças;</li><li>Por que a democracia e a liberdade como valores universais e a educação moderna e o sistema legal devem muito ao cristianismo;</li><li>Como os cristãos através das eras têm demonstrado o valor da vida humana, sacrificialmente se dedicando aos doentes, marginalizados e agonizantes;</li><li>Como pessoas de fé têm estendido o Reino de Deus por meio da caridade, justiça social, saúde mental, etc.</li></ul>",
+  "sinopse": "O livro Inimaginável propõe uma reflexão profunda sobre o impacto do cristianismo na sociedade, demonstrando que sua ausência resultaria em um mundo obscuro e cheio de injustiça. Através de uma análise histórica, o autor enfatiza conquistas e valores fundamentais que surgiram devido aos ensinamentos de Jesus, abordando questões como direitos humanos e justiça social e alertando para a importância da fé na atualidade.",
+  "exemplar_id": 939,
+  "sku": "LI00PD",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/jeremiah-j--johnston--inimagin-vel--capa--20250227--152916.jpg",
+  "contracapa": "static/uploads/jeremiah-j--johnston--inimagin-vel--contracapa--20250227--152916.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém grifado à caneta em muitas páginas. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:18:54",
+  "observacoes": null
+}

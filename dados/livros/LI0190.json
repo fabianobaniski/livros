@@ -1,0 +1,68 @@
+{
+  "obra_id": 2123,
+  "autor": "Paulo Schmidt; José Luiz dos Santos; Paulo Roberto Pinheiro",
+  "titulo": "Introdução à contabilidade gerencial",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Contabilidade gerencial. Administração.",
+  "palavras_chave": "schmidt introducao contabilidade gerencial",
+  "edicao_id": 2103,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 254,
+  "peso": 335,
+  "isbn": "9788522447053",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "Coleção Resumos de Contabilidade",
+  "volume": null,
+  "transcricao_contracapa": "<b>INTRODUÇÃO À CONTABILIDADE GERENCIAL<br>Coleção Resumos de Contabilidade – 25</b><br><p>A Coleção <i>Resumos de Contabilidade</i> objetiva proporcionar uma visão geral de cada tema da área contábil. Possui a característica de vincular conceitos contábeis com leis e normatizações vigentes, tornando-o muito útil para consultas de profissionais do dia-a-dia, sem se descuidar de seu cunho didático.</p><ol><li>Contabilidade geral</li><li>Fundamentos de contabilidade intermediária</li><li>Fundamentos de contabilidade avançada</li><li>Contabilidade financeira</li><li>Fundamentos de contabilidade societária</li><li>Fundamentos da teoria da contabilidade</li><li>Fundamentos da teoria avançada da contabilidade</li><li>História do pensamento contábil</li><li>Fundamentos de auditoria de sistemas</li><li>Contabilidade internacional: equivalência patrimonial</li><li>Contabilidade internacional: consolidação e combinação de negócios</li><li>Fundamentos de contabilidade internacional</li><li>Introdução à avaliação de empresas</li><li>Fundamentos de conversão das demonstrações contábeis</li><li>Modelos de avaliação de empresas</li><li>Fundamentos de avaliação de ativos intangíveis</li><li>Fundamentos de controladoria</li><li>Fundamentos de perícia contábil</li><li>Fundamentos de auditoria contábil</li><li>Fundamentos de auditoria fiscal</li><li>Fundamentos de análise das demonstrações contábeis</li><li>Fundamentos de contabilidade de custos</li><li>Fundamentos de gestão estratégica de custos</li><li>Fundamentos de orçamento empresarial</li><li>Introdução à contabilidade gerencial</li><li>Fundamentos de contabilidade pública</li></ol><p><b>publicação atlas</b><br>www.EditoraAtlas.com.br</p>",
+  "sinopse": "A coleção Resumos de Contabilidade oferece uma visão geral de temas essenciais da área contábil, vinculando conceitos práticos a leis e normas vigentes. O volume 'Introdução à Contabilidade Gerencial' serve como referência tanto para consultas rápidas de profissionais quanto para fins didáticos, abordando de forma objetiva e atualizada conceitos fundamentais da contabilidade gerencial.",
+  "exemplar_id": 2102,
+  "sku": "LI0190",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/paulo-schmidt--introdu--o---contabilidade-gerencial--capa--20250430--104536.jpg",
+  "contracapa": "static/uploads/paulo-schmidt--introdu--o---contabilidade-gerencial--contracapa--20250430--104536.jpg",
+  "fotos": [
+    "static/uploads/paulo-schmidt--introdu--o---contabilidade-gerencial--foto1--20250430--104536.jpg",
+    "static/uploads/paulo-schmidt--introdu--o---contabilidade-gerencial--foto2--20250430--104536.jpg",
+    "static/uploads/paulo-schmidt--introdu--o---contabilidade-gerencial--foto3--20250430--104536.jpg",
+    "static/uploads/paulo-schmidt--introdu--o---contabilidade-gerencial--foto4--20250430--104536.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:26:48",
+  "observacoes": "procedencia_biblioteca"
+}

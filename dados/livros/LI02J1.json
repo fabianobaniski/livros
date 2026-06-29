@@ -1,0 +1,63 @@
+{
+  "obra_id": 4731,
+  "autor": "Yoshihiro Togashi",
+  "titulo": "Hunter x Hunter",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Fantasia.",
+  "palavras_chave": "togashi hunter hunter",
+  "edicao_id": 4706,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 197,
+  "peso": 230,
+  "isbn": "9788577872008",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 18,
+  "transcricao_contracapa": "<p>Hunter é o caçador de criaturas mágicas, tesouros, criminosos...</p> <p><b>Nesta edição</b>, para derrotar o Bomber e impedi-lo de completar o Greed Island, Gon, Killua e Biske colocam em ação um arriscado plano que pode custar suas próprias vidas.</p>",
+  "sinopse": "Hunter é um caçador de criaturas mágicas e criminosos. Nesta edição, Gon, Killua e Biske enfrentam desafios em Greed Island para derrotar Bomber, arriscando suas vidas em um plano perigoso.",
+  "exemplar_id": 4705,
+  "sku": "LI02J1",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/hunter-x-hunter__yoshihiro-togashi__capa__2026-02-20_10-30-18-174638-000.png",
+  "contracapa": "static/uploads/hunter-x-hunter__yoshihiro-togashi__contracapa__2026-02-20_10-30-18-401640-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com capa e contracapa sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 800,
+  "autor": "Justo L. González",
+  "titulo": "Atos",
+  "subtitulo": "O evangelho do Espírito Santo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Análise social. Exegese.",
+  "palavras_chave": "gonzalez atos evangelho",
+  "edicao_id": 785,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 356,
+  "peso": 400,
+  "isbn": "9788577420810",
+  "editora": "Hagnos",
+  "numero_edicao": 1,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O livro que chamamos de “Atos dos Apóstolos”, na verdade, é “Atos do Espírito Santo”, percepção que resiste ao tempo e que é a chave deste livro primordial. Justo González aprofunda essa percepção, inserindo o evangelho do Espírito em seu contexto social. Cada versículo é discutido em termos de suas implicações sociais e teológicas.</p> <p>“Entrelaça reflexão teológica, análise social e crítica exegética para criar um comentário que é um recurso valioso para a igreja e também para a academia.” —Sharon H. Ringe, Wesley Theological Seminary</p> <p>“Este é um comentário extraordinário em seus detalhes e escopo... Um recurso indispensável para pregadores, professores, catequistas e estudantes da Bíblia.” —Barbara E. Reid, Catholic Theological Union</p> <p>“A vívida leitura de Atos feita por González — de uma perspectiva claramente latina — prova, sem sombra de dúvida, que o Espírito é o ‘principal agente da missão’. Esta é uma verdadeira obra-prima de exegese em contexto.” —Stephen B. Bevans, autor de Models of Contextual Theology [Modelos de teologia contextual]</p> <p>“A meticulosidade característica de González, a ampla erudição e o amor pela Escritura estão evidentes em todo o livro. Seu comentário é um lembrete vivo de que a igreja liderada pelo Espírito é a que incorpora o amor de Jesus pelo mundo de Deus e pelo povo de Deus em toda sua notável variedade e promessa.” —Bispo Joel N. Martínez, Igreja Metodista Unida San Antônio</p>",
+  "sinopse": "Este livro explora a profundidade do 'Atos do Espírito Santo', enfatizando a resistência do tempo dessa percepção. Justo González analisa cada versículo em seu contexto social e teológico, oferecendo reflexões valiosas para a igreja e a academia.",
+  "exemplar_id": 784,
+  "sku": "LI00L7",
+  "preco_estante_virtual": 33.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/justo-l--gonz-lez--atos--capa--20250227--152905.jpg",
+  "contracapa": "static/uploads/justo-l--gonz-lez--atos--contracapa--20250227--152905.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, com o papel bem branco, texto livre de anotações e sublinhados, mas com as seguintes ressalvas: há marca de dobra na contracapa, pequeno rasgo na capa e lombada discretamente inclinada à direita."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:29:11",
+  "observacoes": null
+}

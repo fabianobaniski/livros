@@ -1,0 +1,63 @@
+{
+  "obra_id": 2539,
+  "autor": "Gabriel Chalita",
+  "titulo": "Felicidade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "gabriel chalita felicidade",
+  "edicao_id": 2519,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": null,
+  "peso": 312,
+  "isbn": "9788576656371",
+  "editora": "Planeta",
+  "numero_edicao": 0,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2518,
+  "sku": "LI01KJ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/gabriel-chalita--felicidade--capa--20260316--201922.jpg",
+  "contracapa": "static/uploads/gabriel-chalita--felicidade--contracapa--20260316--201922.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Capa dura, sem indicação do número de páginas (aprox. 80)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:50:08",
+  "observacoes": null
+}

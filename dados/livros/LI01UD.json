@@ -1,0 +1,63 @@
+{
+  "obra_id": 2893,
+  "autor": "Molinero",
+  "titulo": "Rosas e Lotus",
+  "subtitulo": "Invocações espirituais",
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "molinero rosas lotus invocacoes",
+  "edicao_id": 2873,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 54,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Mandala Livreiro",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2872,
+  "sku": "LI01UD",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/rosas-e-lotus-molinero-capa_rev104.jpg",
+  "contracapa": "static/uploads/rosas-e-lotus-molinero-contracapa_rev2075.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:55",
+  "observacoes": null
+}

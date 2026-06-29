@@ -1,0 +1,63 @@
+{
+  "obra_id": 3159,
+  "autor": "Robert Wilson",
+  "titulo": "O Cego de Sevilha",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": null,
+  "palavras_chave": "wilson cego sevilha",
+  "edicao_id": 3139,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 543,
+  "peso": 400,
+  "isbn": "9789896600662",
+  "editora": "Leya S. A.",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3138,
+  "sku": "LI021R",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Durante a Semana Santa em Sevilha, um renomado empresário é encontrado morto em frente ao seu televisor, amordaçado e atado, com feridas auto-infligidas que sugerem uma tentativa desesperada de evitar ver algo horrível. O detetive de homicídios Javier Falcón, normalmente imperturbável, é tomado por um medo inexplicável ao se deparar com essa cena macabra. / Livro em bom estado, embora apresente leves marcas de uso e da passagem dos anos, estando bem amarelado. Não possui anotações, sublinhados, marcas de umidade, mofo, traça ou sol excessivo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:55:56",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

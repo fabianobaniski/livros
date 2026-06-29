@@ -1,0 +1,63 @@
+{
+  "obra_id": 2547,
+  "autor": "Átila Jordão caldellas",
+  "titulo": "Fisioterapia geral",
+  "subtitulo": "Uma experiência profissional - Prático Técnico Manual",
+  "idioma": "Português",
+  "categoria": "Medicina",
+  "temas": "",
+  "palavras_chave": "caldellas fisioterapia geral uma",
+  "edicao_id": 2527,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 267,
+  "peso": 1042,
+  "isbn": "9788591214501",
+  "editora": "Liro Edit. Livre",
+  "numero_edicao": 0,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2526,
+  "sku": "LI01KR",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/atila-jordao-caldellas--fisioterapia-geral--capa--20260316--202157.jpg",
+  "contracapa": "static/uploads/atila-jordao-caldellas--fisioterapia-geral--contracapa--20260316--202157.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Com dedicatória do autor."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:04:05",
+  "observacoes": null
+}

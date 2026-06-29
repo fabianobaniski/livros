@@ -1,0 +1,68 @@
+{
+  "obra_id": 2031,
+  "autor": "Seiji Hariki; Oscar J. Abdounur",
+  "titulo": "Matemática aplicada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Matemática. Aplicação prática. Administração. Economia. Contabilidade.",
+  "palavras_chave": "hariki matematica aplicada",
+  "edicao_id": 2011,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 468,
+  "peso": 790,
+  "isbn": "9788502028029",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço:<br><b>www.saraivauni.com.br</b></p><p>SaraivaUni<br>Home | Cadastro | Catálogo | Material de Apoio | Serviço | Contato | SaraivaUni</p><p>Alunos/Professores:<br>Código [ ]<br>Email [ ]<br>Senha [ ]<br>Catálogo online<br>Encontre sua obra<br>Título [ ]<br>Autor [ ]<br>Editora [ ]<br>Palavra-chave [ ]<br>Busca por área:<br>Administração<br>Ciências Contábeis e Atuariais<br>Comunicação<br>Didáticos e Referências<br>Economia<br>Engenharia / Estatística<br>Matemática / Estatística<br>Serviço Social<br>Catálogo impresso<br>Faça o download do arquivo</p><p>Material de apoio | NOVIDADES<br>Matemática / Estatística<br>Manual do Professor<br>Estatística Aplicada, de Saldanha e David Downing<br>sobre a obra<br>Matemática / Estatística<br>Estatística Básica<br>sobre a obra<br>Memorização / Estatística<br>Projetos de Curso<br>sobre a obra<br>Estatística<br>Paulo A. Morettin<br>sobre a obra</p><p>Catálogo | LANÇAMENTOS<br>Matemática / Estatística<br>Matemática Financeira - objetivos e aplicações<br>Material de Apoio<br>sobre a obra<br>Matemática / Estatística<br>Cálculo uma e várias variáveis<br>Paulo A. Morettin<br>Material de Apoio<br>sobre a obra<br>Matemática / Estatística<br>Matemática Aplicada<br>sobre a obra</p><p>RECOMENDAMOS<br>Matemática / Estatística<br>Estatística Básica e Econômica<br>sobre a obra<br>Matemática / Estatística<br>Matemática Financeira<br>sobre a obra</p><p>Vitrine<br>Destaque<br>As vantagens de se cadastrar e manter seu cadastro sempre atualizado:<br>Receba por e-mail novidades e sugestões de obras de seu interesse.<br>Os + mais<br>Material de apoio<br>1. Transcripções<br>2. Estatística Básica<br>3. Projetos de Curso<br>Recomendamos<br>Matemática / Estatística<br>Matemática Financeira<br>Estatística Básica<br>Economia<br>Paulo A. Morettin<br>sobre a obra</p><p>SAC Uni | (11) 3613-3075<br>saraivauni@editorasaraiva.com.br</p><p>ISBN 978-85-02-02802-9<br>85-02-02802-2</p>",
+  "sinopse": "O livro 'Matemática Aplicada', de Seiji Hariki e Oscar J. Abdounur, é destinado a estudantes e profissionais das áreas de Administração, Economia e Contabilidade. Publicado pela Editora Saraiva, oferece um conteúdo didático voltado à aplicação prática da matemática nessas áreas, apresentando conceitos e métodos essenciais para o entendimento de matérias quantitativas no contexto das ciências sociais aplicadas.",
+  "exemplar_id": 2010,
+  "sku": "LI016G",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/seiji-hariki--matem-tica-aplicada--capa--20250430--104509.jpg",
+  "contracapa": "static/uploads/seiji-hariki--matem-tica-aplicada--contracapa--20250430--104509.jpg",
+  "fotos": [
+    "static/uploads/seiji-hariki--matem-tica-aplicada--foto1--20250430--104509.jpg",
+    "static/uploads/seiji-hariki--matem-tica-aplicada--foto2--20250430--104509.jpg",
+    "static/uploads/seiji-hariki--matem-tica-aplicada--foto3--20250430--104509.jpg",
+    "static/uploads/seiji-hariki--matem-tica-aplicada--foto4--20250430--104509.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:17:39",
+  "observacoes": "procedencia_biblioteca"
+}

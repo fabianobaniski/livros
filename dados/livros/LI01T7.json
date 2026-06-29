@@ -1,0 +1,63 @@
+{
+  "obra_id": 2851,
+  "autor": "Martin Jim Aitken",
+  "titulo": "Physics and archaeology",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "aitken physics and archaeology",
+  "edicao_id": 2831,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 291,
+  "peso": 300,
+  "isbn": "9780198519225",
+  "editora": "Oxford University Press",
+  "numero_edicao": null,
+  "ano": 1974,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra explora em profundidade as principais técnicas físicas utilizadas na arqueologia, como datação por radiocarbono, termoluminescência, arqueomagnetismo e prospecção magnética. Também aborda métodos de detecção e discute os erros sistemáticos na datação por radiocarbono e termoluminescência, destacando sua aplicação em cerâmicas e a identificação de falsificações. Voltada tanto para o público científico geral quanto para especialistas em arqueometria, oferece uma análise detalhada dessas técnicas e sua relevância no campo arqueológico.",
+  "exemplar_id": 2830,
+  "sku": "LI01T7",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/physics-and-archaeology-martin-jim-aitken-capa_rev2132.jpg",
+  "contracapa": "static/uploads/physics-and-archaeology-martin-jim-aitken-contracapa_rev1928.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados. Capa dura com sobrecapa.,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:04:05",
+  "observacoes": null
+}

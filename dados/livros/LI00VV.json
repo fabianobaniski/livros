@@ -1,0 +1,68 @@
+{
+  "obra_id": 1481,
+  "autor": "Ben Sherwood",
+  "titulo": "Morte e vida de Charlie St. Cloud",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Amor. Vida após a morte. Superação.",
+  "palavras_chave": "sherwood morte vida charlie",
+  "edicao_id": 1462,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 296,
+  "peso": 350,
+  "isbn": "9788563219183",
+  "editora": "Novo Conceito",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>BEST-SELLER DO NEW YORK TIMES</h1> <p>\"Emocionante, sensato e cheio de esperança... como um grande romance deve ser.\" <br>- Nicholas Sparks</p> <p>\"Uma das histórias de amor mais mágicas que eu já li.\" <br>- Sue Monk Kidd</p> <p>\"[Sherwood] faz com que você acredite – e isso, por si só, já é milagroso o bastante.\" <br>- Newsweek</p> <h2>Um coração dividido entre dois mundos.</h2> <p>Em uma pacata vila de pescadores da Nova Inglaterra, Charlie St. Cloud cuida dos gramados e monumentos de um antigo cemitério onde seu irmão mais jovem, Sam, está enterrado. Após sobreviver ao acidente de carro que tirou a vida de seu irmão, Charlie recebe um dom extraordinário: ele consegue enxergar, conversar e até mesmo brincar com o espírito de Sam. É neste mundo místico que entra Tess Carroll, uma cativante mulher treinando para navegar sozinha ao redor do mundo em um veleiro. O destino faz com que seu barco seja apanhado por uma violenta tempestade, trazendo assim para a vida de Charlie. Sua bela e incomum ligação os leva a uma corrida contra o tempo e a uma escolha entre a vida e a morte, entre o passado e o futuro, entre apegar-se ou deixar o 'passado para trás' – e a descoberta que milagres podem acontecer se nós simplesmente abrirmos nossos corações.</p>",
+  "sinopse": "Em uma pacata vila de pescadores, Charlie St. Cloud cuida de um cemitério onde seu irmão Sam está enterrado. Após um acidente, ele ganha a habilidade de ver e conversar com Sam. Sua vida muda ao conhecer Tess Carroll, uma mulher que navega sozinha, levando Charlie a uma corrida entre a vida e a morte, revelando a importância de abrir os corações para milagres.",
+  "exemplar_id": 1461,
+  "sku": "LI00VV",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/ben-sherwood--morte-e-vida-de-charlie-st--cloud--capa--20250401--115738.jpg",
+  "contracapa": "static/uploads/ben-sherwood--morte-e-vida-de-charlie-st--cloud--contracapa--20250401--115738.jpg",
+  "fotos": [
+    "static/uploads/ben-sherwood--morte-e-vida-de-charlie-st--cloud--foto1--20250401--115738.jpg",
+    "static/uploads/ben-sherwood--morte-e-vida-de-charlie-st--cloud--foto2--20250401--115738.jpg",
+    "static/uploads/ben-sherwood--morte-e-vida-de-charlie-st--cloud--foto3--20250401--115738.jpg",
+    "static/uploads/ben-sherwood--morte-e-vida-de-charlie-st--cloud--foto4--20250401--115738.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:06:00",
+  "observacoes": null
+}

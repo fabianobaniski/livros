@@ -1,0 +1,68 @@
+{
+  "obra_id": 226,
+  "autor": "Peter Straub",
+  "titulo": "Lost boy, lost girl",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Suspense. Mistério. Desaparecimento.",
+  "palavras_chave": "straub lost boy lost girl",
+  "edicao_id": 220,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 447,
+  "peso": 250,
+  "isbn": "9780007142316",
+  "editora": "HarperCollins",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>‘No one is better than Straub at having whole communities rocked by the forces of wickedness’ Observer</p> <p>A woman kills herself for no apparent reason. A week later, her teenage son disappears. The vanished boy’s uncle, Tim Underhill, returns to his home town of Millhaven to discover what he can. A madman known as the Sherman Park Killer has been haunting the neighbourhood, but Underhill believes that Mark’s obsession with a local abandoned house is at the root of his disappearance.</p> <p>He fears that Mark came across its last and greatest secret – a lost girl, one who has coaxed Mark deeper and deeper into her mysterious domain. Only by following in their footsteps will Underhill uncover the shocking truth.</p> <p>Praise for BLACK HOUSE</p> <p>‘One of the most brilliant and chilling thrillers of modern times’ Daily Mail</p> <p>‘Fabulous. It’s the best of the best. No argument. The ultimate in storytelling’ Independent on Sunday</p>",
+  "sinopse": "Após o suicídio de uma mulher, seu filho adolescente desaparece. O tio do rapaz, Tim Underhill, retorna à sua cidade natal para descobrir o que aconteceu. Um assassino conhecido como o Sherman Park Killer assombra a vizinhança, mas Underhill suspeita que a obsessão de Mark por uma casa abandonada pode ser a chave para seu desaparecimento. Com medo de que Mark tenha encontrado uma garota perdida que o atraiu para um domínio misterioso, Underhill busca a verdade escondida.",
+  "exemplar_id": 219,
+  "sku": "LI005N",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/peter-straub--lost-boy--capa--20250226--133808.jpg",
+  "contracapa": "static/uploads/peter-straub--lost-boy--contracapa--20250226--133808.jpg",
+  "fotos": [
+    "static/uploads/peter-straub--lost-boy--foto1--20250226--133808.jpg",
+    "static/uploads/peter-straub--lost-boy--foto2--20250226--133808.jpg",
+    "static/uploads/peter-straub--lost-boy--foto3--20250226--133808.jpg",
+    "static/uploads/peter-straub--lost-boy--foto4--20250226--133808.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Formato pocket."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:36:08",
+  "observacoes": null
+}

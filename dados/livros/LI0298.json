@@ -1,0 +1,68 @@
+{
+  "obra_id": 3433,
+  "autor": "Kirihito Ayamura; Gonzo",
+  "titulo": "Red Garden",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Drama. Terror. Mistério. Sobrenatural.",
+  "palavras_chave": "ayamura red garden",
+  "edicao_id": 3410,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 210,
+  "isbn": "9788560647378",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Kate é uma garota de boa família e uma ótima aluna. Quando sua amiga Lise desaparece misteriosamente, coisas estranhas passam a acontecer com Kate e outras três amigas de Lise. As quatro são chamadas para um lugar, e encontram um homem e uma mulher que lhes dizem que todas elas morreram na noite anterior. E o cotidiano se revela extraordinário: destinos que se interligam e começa uma luta bizarra até os limites da razão. Baseada na aclamada série animada, Red Garden é um thriller gótico sufocante, ilustrado no incrível traço de Kirihito Ayamura!</p>",
+  "sinopse": "Kate, uma estudante exemplar, vê sua vida transformada quando sua amiga Lise desaparece misteriosamente. Junto com outras três amigas, Kate descobre, por meio de estranhos encontros, que todas elas morreram na noite anterior. A partir daí, enfrentam destinos entrelaçados e uma luta bizarra nos limites da razão. Baseado na série animada, 'Red Garden' mistura drama, mistério e terror gótico sob o traço de Kirihito Ayamura.",
+  "exemplar_id": 3409,
+  "sku": "LI0298",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/red-garden__kirihito-ayamura-gonzo__capa__2025-11-05_16-15-16-437292.jpg",
+  "contracapa": "static/uploads/red-garden__kirihito-ayamura-gonzo__contracapa__2025-11-05_16-15-16-477531.jpg",
+  "fotos": [
+    "static/uploads/red-garden__kirihito-ayamura-gonzo__foto-01__2025-11-05_16-15-16-507299.jpg",
+    "static/uploads/red-garden__kirihito-ayamura-gonzo__foto-02__2025-11-05_16-15-16-538313.jpg",
+    "static/uploads/red-garden__kirihito-ayamura-gonzo__foto-03__2025-11-05_16-15-16-568212.jpg",
+    "static/uploads/red-garden__kirihito-ayamura-gonzo__foto-04__2025-11-05_16-15-16-590353.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:08:48",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5008,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Ficção. Aventura.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4983,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9786555944327",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "",
+  "volume": 28,
+  "transcricao_contracapa": "<p>\"Vou derrotá-lo... salvar a Yukihime e alcançar o meu final feliz! Ô maluco!\"</p> <p>... viaja para a lua de Plutão, Caronte, a fim de derrotar Baal e recuperar Yukihime! No caminho, a UQ Holder se depara com Baal e a magia suprema de Ialda, a Kosmo Entelecheia! Mas quando a humanidade caminha para o seu fim, Touta toma uma atitude inesperada...!!!</p> <p>A UQ Holder escapa por pouco da armadilha de Baal. Touta descobre que o artefato de Negi Springfield, o \"Mil Vínculos\", tem o poder de resgatar Yukihime e, junto com os outros membros...</p>",
+  "sinopse": "Touta e a UQ Holder enfrentam grandes desafios em uma jornada até a lua de Plutão para derrotar Baal e salvar Yukihime. No caminho, eles encontram a magia poderosa de Ialda. Com a humanidade à beira do fim, Touta descobre que o artefato \"Mil Vínculos\" possui o poder de resgatar Yukihime, enquanto uma atitude inesperada pode mudar o destino de todos.",
+  "exemplar_id": 4982,
+  "sku": "LI02QQ",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-37-337047-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-37-396877-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

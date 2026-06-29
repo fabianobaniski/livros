@@ -1,0 +1,63 @@
+{
+  "obra_id": 779,
+  "autor": "David R. Jackson",
+  "titulo": "Clamor por justiça",
+  "subtitulo": "O evangelho segundo Jó",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Sofrimento. Graça.",
+  "palavras_chave": "jackson clamor justiça evangelho jo",
+  "edicao_id": 764,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 250,
+  "isbn": "9788576223894",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em algum ponto em nossa vida também perguntamos ao Senhor o nosso \"por quê?\" Pode não ter sido relativo a nós, mas a respeito de uma pessoa próxima. Às vezes, nos sentimos como se tivéssemos caído numa emboscada. É como se um inimigo saltasse do nada diante de nós e nos atacasse.</p> <p>Vamos descobrir, com Jó, mais da profundidade da graça de Deus para conosco em Cristo – que, por sua própria escolha, sofreu mais do que Jó para salvar-nos da crueldade e da dominação do pecado. No pior dos tempos, quando estamos emboscados e feridos, precisamos saber essas coisas, crer nelas e nos apegar a elas. E, assim, nos juntamos à plateia para aprender a sabedoria do evangelho segundo Jó.</p> <p>David R. Jackson (M.Div., Th.M., Westminster Theological Seminary; Ph.D., University of Sydney) é o chefe de estudos bíblicos na William Carey School, Austrália, e associado honorário na University of Sydney.</p>",
+  "sinopse": "O livro explora questões profundas sobre sofrimento e a busca por justiça, à luz da história de Jó. O autor nos convida a refletir sobre as dificuldades e emboscadas da vida, destacando a graça de Deus em meio às provações. A obra também considera a sabedoria de Jó como um meio para compreender melhor a relação com Deus e as questões da vida.",
+  "exemplar_id": 763,
+  "sku": "LI00KM",
+  "preco_estante_virtual": 38.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/david-r--jackson--clamor-por-justi-a--capa--20250227--152904.jpg",
+  "contracapa": "static/uploads/david-r--jackson--clamor-por-justi-a--contracapa--20250227--152904.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:37:43",
+  "observacoes": null
+}

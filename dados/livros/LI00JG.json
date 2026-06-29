@@ -1,0 +1,63 @@
+{
+  "obra_id": 737,
+  "autor": "Francisco de Abreu Neto",
+  "titulo": "Geografia bíblica sistematizada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Geografia. História. Religião.",
+  "palavras_chave": "abreu geografia biblica",
+  "edicao_id": 722,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 170,
+  "peso": 350,
+  "isbn": "9788574593159",
+  "editora": "AD Santos",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Você aprenderá, de forma sistematizada e roteirizada, sobre os aspectos geográficos relativos às Sagradas Escrituras, sobre a vida de Jesus e também sobre aspectos relevantes do Antigo Testamento.</p> <p>Aprenderá sobre fatos que compuseram a história do povo hebreu desde o ano 63 a.C. até os dias contemporâneos e que refletem na atual conjuntura do Oriente Médio e sobre o moderno Estado de Israel.</p> <p>O texto aproxima-se de \"um diário romantizado\" com vistas a cobrir todos os locais nos quais o povo de Deus peregrinou.</p> <p>Uma linguagem clara, dinâmica e profundamente apaixonante, resultado de 28 anos de visitas frequentes à Terra Santa.</p> <p>E mais: Orografia (estudo dos montes), hidrografia, estudos dos vales, planícies, desertos e outros aspectos geográficos.</p>",
+  "sinopse": "Geografia Bíblica é um guia sistemático que oferece uma visão abrangente dos aspectos geográficos das Sagradas Escrituras. Desde a vida de Jesus até a história do povo hebreu, o livro explora a relevância histórica e geográfica da Terra Santa. Com uma linguagem clara e agradável, o autor compartilha sua experiência adquirida ao longo de 28 anos de visitas à região, proporcionando ao leitor um recurso valioso tanto para estudo pessoal quanto em grupos.",
+  "exemplar_id": 721,
+  "sku": "LI00JG",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 100.0,
+  "capa": "static/uploads/francisco-de-abreu-neto--geografia-b-blica--capa--20250227--152901.jpg",
+  "contracapa": "static/uploads/francisco-de-abreu-neto--geografia-b-blica--contracapa--20250227--152901.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:27:29",
+  "observacoes": null
+}

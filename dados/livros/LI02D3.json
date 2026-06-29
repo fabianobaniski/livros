@@ -1,0 +1,68 @@
+{
+  "obra_id": 3572,
+  "autor": "Inio Asano",
+  "titulo": "Boa noite Punpun",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Relações familiares. Depressão.",
+  "palavras_chave": "asano boa noite punpun",
+  "edicao_id": 3549,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 440,
+  "isbn": "9788545709619",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "Oyasumi Punpun",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Punpun é um garoto normal, que vive feliz com sua família. Um dia, Aiko Tanaka é transferida para a sua escola. Foi paixão à primeira vista!! Voltando juntos para casa, ela conta que no futuro “a Terra vai se tornar um planeta inabitável”. É nessa hora que Punpun decide ser cientista espacial. Porém, bem quando encontra seu objetivo na vida, a sua realidade começa a desmoronar.</p><p><b>Boa Noite Punpun</b> é a obra-prima do aclamado Inio ASANO. Tratando temas delicados como relações familiares conturbadas e depressão, o mangá foi um grande sucesso no Japão.</p><p><b>Recomendável para maiores de 18 anos.</b></p>",
+  "sinopse": "Punpun é um garoto comum e feliz, até que conhece Aiko Tanaka, por quem se apaixona à primeira vista. Inspirado por ela, decide ser cientista espacial, mas, ao encontrar um objetivo, sua realidade começa a desmoronar. O mangá aborda temas delicados como relações familiares conturbadas e depressão, sendo considerado a obra-prima de Inio Asano e um grande sucesso no Japão.",
+  "exemplar_id": 3548,
+  "sku": "LI02D3",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/boa-noite-punpun__inio-asano__capa__2025-11-05_16-16-45-050282.jpg",
+  "contracapa": "static/uploads/boa-noite-punpun__inio-asano__contracapa__2025-11-05_16-16-45-081163.jpg",
+  "fotos": [
+    "static/uploads/boa-noite-punpun__inio-asano__foto-01__2025-11-05_16-16-45-120703.jpg",
+    "static/uploads/boa-noite-punpun__inio-asano__foto-02__2025-11-05_16-16-45-149095.jpg",
+    "static/uploads/boa-noite-punpun__inio-asano__foto-03__2025-11-05_16-16-45-174398.jpg",
+    "static/uploads/boa-noite-punpun__inio-asano__foto-04__2025-11-05_16-16-45-197176.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:36:42",
+  "observacoes": null
+}

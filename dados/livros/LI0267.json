@@ -1,0 +1,68 @@
+{
+  "obra_id": 3321,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Romance. Relacionamentos LGBTQIA+. Drama escolar. Mangá.",
+  "palavras_chave": "saburouta citrus",
+  "edicao_id": 3301,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 190,
+  "isbn": "9788583622833",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 9,
+  "transcricao_contracapa": "<p>Enquanto aproveitam a viagem durante as férias, <b>Yuzu</b> e <b>Mei</b> não deixaram de aprofundar os laços do amor.</p><p>No entanto, em contraste à <b>Yuzu</b> que parecia transbordar felicidade, <b>Mei</b> revelava expressões de tristeza de tempos e tempos. E então, <b>Matsuri</b> acaba ouvindo uma “certa conversa” entre <b>Himeko</b> e <b>Suzuran</b>, o que a deixou completamente surpresa...!</p>",
+  "sinopse": "Durante as férias, Yuzu e Mei continuam aprofundando seus laços amorosos, mas enquanto Yuzu transborda felicidade, Mei demonstra tristeza em alguns momentos. Paralelamente, Matsuri escuta uma conversa inesperada entre Himeko e Suzuran, provocando uma grande surpresa.",
+  "exemplar_id": 3300,
+  "sku": "LI0267",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2025-11-05_16-25-15-919734.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2025-11-05_16-25-16-198377.jpg",
+  "fotos": [
+    "static/uploads/citrus__saburouta__foto-01__2025-11-05_16-25-16-277047.jpg",
+    "static/uploads/citrus__saburouta__foto-02__2025-11-05_16-25-16-561071.jpg",
+    "static/uploads/citrus__saburouta__foto-03__2025-11-05_16-25-17-023630.jpg",
+    "static/uploads/citrus__saburouta__foto-04__2025-11-05_16-25-17-234567.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:11:22",
+  "observacoes": null
+}

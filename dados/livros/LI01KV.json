@@ -1,0 +1,63 @@
+{
+  "obra_id": 2551,
+  "autor": "Mário Neme",
+  "titulo": "Fórmulas políticas no Brasil Holandês",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "neme formulas politicas brasil",
+  "edicao_id": 2531,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 271,
+  "peso": 427,
+  "isbn": "",
+  "editora": "Usp",
+  "numero_edicao": 0,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2530,
+  "sku": "LI01KV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mario-neme--formulas-politicas-no-brasil-holandes--capa--20260316--202255.jpg",
+  "contracapa": "static/uploads/mario-neme--formulas-politicas-no-brasil-holandes--contracapa--20260316--202255.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel um pouco pigmentado pela ação do tempo, principalmente nas bordas. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados. Há carimbo do antigo proprietário na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:12:51",
+  "observacoes": null
+}

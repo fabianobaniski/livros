@@ -1,0 +1,63 @@
+{
+  "obra_id": 2836,
+  "autor": "Otto Lara Resende e Outros",
+  "titulo": "Os sete pecados capitais",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "outros sete pecados capitais",
+  "edicao_id": 2816,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 270,
+  "peso": 300,
+  "isbn": "9788528607611",
+  "editora": "Bertrand Brasil",
+  "numero_edicao": 2,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Sete contos exploram a essência dos pecados capitais, revelando a humanidade por trás de cada fraqueza ou força das criaturas terrenas. Cada autor traz sua própria visão das tentações, transformando os pecados em histórias que comovem e envolvem o leitor. Essas fábulas não apenas narram acontecimentos, mas fazem o leitor se reconhecer nas emoções e dilemas apresentados, oferecendo uma reflexão profunda sobre a natureza humana e um roteiro artístico para pecar com engenho e arte.",
+  "exemplar_id": 2815,
+  "sku": "LI01SS",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/os-sete-pecados-capitais-otto-lara-resende-e-outros-capa_rev893.jpg",
+  "contracapa": "static/uploads/os-sete-pecados-capitais-otto-lara-resende-e-outros-contracapa_rev1254.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:01:25",
+  "observacoes": null
+}

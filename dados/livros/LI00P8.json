@@ -1,0 +1,63 @@
+{
+  "obra_id": 950,
+  "autor": "Claudinor Corrêa de Andrade",
+  "titulo": "Dicionário Teológico",
+  "subtitulo": "Com definições etimológicas e locuções latinas",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Educação. Linguística.",
+  "palavras_chave": "correa dicionario teologico",
+  "edicao_id": 935,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 251,
+  "peso": 350,
+  "isbn": "8526300725",
+  "editora": "CPAD",
+  "numero_edicao": 1,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nos livros teológicos, o leitor depara-se com uma infinidade de termos técnicos que, via de regra, não se encontram nos dicionários comuns.</p> <p>E por falta de definição, muitas doutrinas tornam-se incompreensíveis, ocasionando até erros e heresias.</p> <p>É por isto que um dicionário teológico torna-se indispensável aos</p> <ul> <li>seminaristas</li> <li>professores de Escola Dominical</li> <li>obreiros</li> <li>e aos que querem compreender a doutrina cristã.</li> </ul> <p>Este Dicionário Teológico, além das definições, oferece ainda a etimologia dos vocábulos e a tradução das locuções latinas bastante comuns nas obras teológicas.</p> <p>Definir é a melhor maneira de se entender.</p> <p><b>Autor</b><br>Ministro do Evangelho, o pastor Claudinor Corrêa de Andrade é professor de Teologia Sistemática e Filosofia. É autor dos seguintes livros: Paulo em Atenas, Merecem Confiança as Profecias?, Geografia Bíblica e Responda-me, Por Favor! (este em co-autoria com a sua esposa).</p>",
+  "sinopse": "Este dicionário é uma ferramenta indispensável para seminaristas, professores de escola dominical e obreiros, proporcionando definições claras e etimologias de termos teológicos e locuções latinas comuns nas obras religiosas. É um recurso fundamental para quem deseja compreender a doutrina cristã de maneira precisa.",
+  "exemplar_id": 934,
+  "sku": "LI00P8",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/claudinor-corr-a-de-andrade--dicion-rio-teol-gico--capa--20250227--152915.jpg",
+  "contracapa": "static/uploads/claudinor-corr-a-de-andrade--dicion-rio-teol-gico--contracapa--20250227--152915.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:47:30",
+  "observacoes": null
+}

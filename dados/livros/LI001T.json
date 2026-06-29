@@ -1,0 +1,68 @@
+{
+  "obra_id": 69,
+  "autor": "Harlan Coben",
+  "titulo": "Cilada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Suspense. Mistério. Crime. Investigações.",
+  "palavras_chave": "coben cilada",
+  "edicao_id": 69,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 271,
+  "peso": 400,
+  "isbn": "9788599296936",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Haley McWaid tem 17 anos. É aluna exemplar, disciplinada, ama esportes e sonha entrar para uma boa faculdade. Por isso, quando certa noite ela não volta para casa e três meses transcorreram sem que se tenha nenhuma notícia dela, todos na cidade começam a imaginar o pior.</p><p>O assistente social Dan Mercer recebe um estranho telefonema de uma adolescente e vai a seu encontro. Ao chegar ao local, ele é surpreendido pela equipe de um programa de televisão, que o exibe em rede nacional como pedófilo. Inocentado por falta de provas, Dan é morto logo em seguida.</p><p>Na junção dessas duas histórias está Wendy Tynes, a repórter que armou a cilada para Dan e que se torna a única testemunha de seu assassinato. Wendy sempre confiou apenas nos fatos, mas seu instinto lhe diz que Mercer talvez não fosse culpado. Agora ela precisa descobrir se desmascarou um criminoso ou causou a morte de um inocente.</p><p>Nas investigações da morte de Dan e do desaparecimento de Haley, verdades inimagináveis são reveladas e a fragilidade de vidas aparentemente normais é posta à prova. Todos têm algo a esconder e os segredos se interligam e se completam em um elaborado mosaico de mistérios.</p><p>Harlan Coben mais uma vez deixa o leitor sem ar. <i>Cilada</i> fala de culpa, luto e perdão em uma trama repleta de reviravoltas surpreendentes. Nada é o que parece e tudo pode ser desfeito até a última página.</p>",
+  "sinopse": "Haley McWaid, uma jovem exemplar, desaparece misteriosamente. Enquanto isso, Dan Mercer, um assistente social, é exposto como pedófilo em um programa de TV e morto logo depois. Wendy Tynes, a repórter que armou a cilada para Dan, começa a suspeitar que ele possa ser inocente. Conforme as investigações avançam, segredos sombrios vêm à tona, revelando conexões inesperadas e colocando vidas em risco.",
+  "exemplar_id": 68,
+  "sku": "LI001T",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/harlan-coben--cilada--capa--20250225--232401.jpg",
+  "contracapa": "static/uploads/harlan-coben--cilada--contracapa--20250225--232401.jpg",
+  "fotos": [
+    "static/uploads/harlan-coben--cilada--foto1--20250225--232401.jpg",
+    "static/uploads/harlan-coben--cilada--foto2--20250225--232401.jpg",
+    "static/uploads/harlan-coben--cilada--foto3--20250225--232401.jpg",
+    "static/uploads/harlan-coben--cilada--foto4--20250225--232401.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:35:50",
+  "observacoes": null
+}

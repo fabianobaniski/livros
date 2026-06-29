@@ -1,0 +1,63 @@
+{
+  "obra_id": 2925,
+  "autor": "Renzo Allegri",
+  "titulo": "Teresa dos pobres",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "allegri teresa dos pobres",
+  "edicao_id": 2905,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 200,
+  "isbn": "9788573119107",
+  "editora": "Edições Paulinas",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2904,
+  "sku": "LI01V9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/teresa-dos-pobres-renzo-allegri-capa_rev1794.jpg",
+  "contracapa": "static/uploads/teresa-dos-pobres-renzo-allegri-contracapa_rev2085.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Madre Teresa de Calcutá é uma das figuras mais admiradas de nosso tempo, inspirando inúmeros livros baseados em suas mensagens espirituais. No entanto, Teresa dos pobres, de Renzo Allegri, se destaca por ser uma biografia detalhada, resultado de pesquisas e entrevistas diretas com a religiosa. O autor, experiente jornalista, organiza cronologicamente a vida de Madre Teresa, revelando sua trajetória de amor e bondade. Enriquecida por testemunhos de admiradores, a obra é uma homenagem comovente à sua dedicação aos pobres e à sua fé. / Capa, lombada e contracapa sem danos. Bordas levemente amareladas pelo tempo. Texto livre de anotações e sublinhados. Há selo de livraria na primeira página.  Brochura, formato pocket."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:05:42",
+  "observacoes": null
+}

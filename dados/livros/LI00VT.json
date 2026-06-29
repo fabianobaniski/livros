@@ -1,0 +1,68 @@
+{
+  "obra_id": 1479,
+  "autor": "Joel Fuhrman",
+  "titulo": "Eu consigo emagrecer",
+  "subtitulo": "A dieta que está fazendo os estados unidos emagrecerem",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "Nutrição. Emagrecimento. Saúde.",
+  "palavras_chave": "fuhrman consigo emagrecer",
+  "edicao_id": 1460,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 307,
+  "peso": 400,
+  "isbn": "9788522015160",
+  "editora": "Agir",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Joel Fuhrman é um médico especializado em prevenção e reversão de doenças por meio de métodos nutricionais, além de ser reconhecido internacionalmente por seus métodos de tratamento e cura pela alimentação.</p> <p>Ele também é autor de sete livros, sendo que três deles alcançaram o topo da lista dos mais vendidos nos Estados Unidos, incluindo o seu primeiro livro publicado no Brasil, pela editora Agir, Eu consigo emagrecer.</p> <p>A maioria dos programas de redução de peso não funciona ou oferece apenas benefícios secundários e, geralmente, temporários. Além disso, são dietas impossíveis de serem seguidas por muito tempo e podem oferecer riscos à saúde.</p> <p>Aclamado nos Estados Unidos como um incrível avanço médico, Eu consigo emagrecer oferece uma maneira altamente eficaz e cientificamente comprovada de perder peso rapidamente. A chave para o plano revolucionário de seis semanas do dr. Joel Fuhrman é simples: saúde = nutrientes/calorias.</p> <p>Nesta dieta você não abre mão de comer nada. Já aplicada de forma eficaz pelo dr. Fuhrman em milhares de pacientes, ela inclui porções generosas de alimentos que fazem bem à saúde e ainda, por serem repletas de nutrientes, diminuem aquela vontade de assaltar a geladeira.</p> <p>Eu consigo emagrecer é uma dieta que não só reduz o peso rapidamente, mas também atende aqueles que desejam alcançar um nível melhor de saúde enquanto buscam o peso ideal.</p>",
+  "sinopse": "Neste livro, dr. Joel Fuhrman apresenta um programa inovador para emagrecimento, baseando-se em abordagens nutricionais eficazes. Ele propõe uma dieta que vai além da perda de peso, focando na saúde e no bem-estar, com um plano revolucionário que promete resultados rápidos e seguros, utilizando uma fórmula simples que equaciona saúde a nutrientes e calorias.",
+  "exemplar_id": 1459,
+  "sku": "LI00VT",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/dr--joel-fuhrman--eu-consigo-emagrecer--capa--20250401--115738.jpg",
+  "contracapa": "static/uploads/dr--joel-fuhrman--eu-consigo-emagrecer--contracapa--20250401--115738.jpg",
+  "fotos": [
+    "static/uploads/dr--joel-fuhrman--eu-consigo-emagrecer--foto1--20250401--115738.jpg",
+    "static/uploads/dr--joel-fuhrman--eu-consigo-emagrecer--foto2--20250401--115738.jpg",
+    "static/uploads/dr--joel-fuhrman--eu-consigo-emagrecer--foto3--20250401--115738.jpg",
+    "static/uploads/dr--joel-fuhrman--eu-consigo-emagrecer--foto4--20250401--115738.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:40:59",
+  "observacoes": null
+}

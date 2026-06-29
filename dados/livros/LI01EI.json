@@ -1,0 +1,63 @@
+{
+  "obra_id": 2321,
+  "autor": "Antônio Bracinha Vieira",
+  "titulo": "A evolução do Darwinismo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biologia",
+  "temas": "",
+  "palavras_chave": "vieira evolucao darwinismo",
+  "edicao_id": 2301,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 117,
+  "peso": 242,
+  "isbn": "9788588782570",
+  "editora": "Vieira & Lent",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro explora os critérios e provas da teoria da evolução, apresentando fatos simples e conceitos claros acessíveis a qualquer leitor interessado e curioso. Baseado na fusão de textos de duas conferências, oferece uma análise bem fundamentada da teoria evolutiva e seu desenvolvimento histórico. A obra destaca como a lógica evolucionista é aplicada em diversas áreas, desde a medicina até a agricultura. Inclui a história da predição de Darwin e Wallace sobre a mariposa-esfinge Xanthopan morganii praedicta, ilustrando a precisão das previsões evolutivas e seu impacto na ciência",
+  "exemplar_id": 2300,
+  "sku": "LI01EI",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/antonio-bracinha-vieira--a-evolucao-do-darwinismo--capa--20260315--095402.jpg",
+  "contracapa": "static/uploads/antonio-bracinha-vieira--a-evolucao-do-darwinismo--contracapa--20260315--095411.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Ilustrado em preto e branco. Assinatura do antigo dono na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:36:01",
+  "observacoes": null
+}

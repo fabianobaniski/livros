@@ -1,0 +1,63 @@
+{
+  "obra_id": 2908,
+  "autor": "J. C. de Toledo Hungard",
+  "titulo": "Sobre caçadores, vigaristas e banqueiros suíços",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "hungard sobre cacadores vigaristas",
+  "edicao_id": 2888,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 416,
+  "peso": 300,
+  "isbn": "9788568307038",
+  "editora": "Kwabb - Fortec",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Neste livro, o autor narra as aventuras de Fernando de Aranjuez, um bucaneiro do século XXI, agora mais velho e experiente, que transita pelo mundo das finanças internacionais. Entre conspirações de corporações poderosas, mercados secretos e operações transnacionais, Fernando se vê envolvido em tramas complexas para resgatar o filho de um poderoso Shogum moderno. Enquanto tenta sobreviver a golpes e traições, ele precisa lidar com a ganância e corrupção que ameaçam destruir os impérios financeiros globais.",
+  "exemplar_id": 2887,
+  "sku": "LI01US",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/sobre-cacadores-vigaristas-e-banqueiros-suicos-j-c-de-toledo-hungard-capa_rev2001.jpg",
+  "contracapa": "static/uploads/sobre-cacadores-vigaristas-e-banqueiros-suicos-j-c-de-toledo-hungard-contracapa_rev1703.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado, livre de anotações e sublinhados. Capas e lombada sem danos. Leve pigmentação das bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:33:06",
+  "observacoes": null
+}

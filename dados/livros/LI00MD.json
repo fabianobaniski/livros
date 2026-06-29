@@ -1,0 +1,63 @@
+{
+  "obra_id": 843,
+  "autor": "Deive Leonardo",
+  "titulo": "Coragem pra recomeçar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Desenvolvimento pessoal. Superação.",
+  "palavras_chave": "leonardo coragem recomeçar",
+  "edicao_id": 828,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 182,
+  "peso": 300,
+  "isbn": "9788554167240",
+  "editora": "quatro ventos",
+  "numero_edicao": 1,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Por mais que tentemos esconder as nossas vulnerabilidades, não há como negar que todos temos perdas, crises, fracassos e históricos dos quais nos arrependemos, e gostaríamos de esquecer ou mudar. É justamente por conta disso que, em menor ou maior escala, todos sempre necessitaremos de um recomeço em algum momento da vida.</p> <p>Por outro lado, recomeçar não é simples. Na prática, exige posicionamento, coragem e fé para enxergar uma realidade que ainda não existe.</p> <p>Foi nesse contexto que este livro nasceu. Nestas páginas, você será equipado e desafiado a enxergar a importância da coragem nos recomeços e da perseverança como valor inegociável; entenderá a necessidade de reconhecer os problemas, sepultar suas dores, resolver-se emocionalmente; além de descobrir o grande segredo da vida. Acredite, o recomeço está a um “sim” de distância.</p>",
+  "sinopse": "Este livro aborda a importância da coragem e da perseverança nos recomeços da vida, desafiando o leitor a reconhecer seus problemas e dores, além de oferecer uma nova perspectiva sobre como encarar desafios e transformações pessoais.",
+  "exemplar_id": 827,
+  "sku": "LI00MD",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/deive-leonardo--coragem-pra-recome-ar--capa--20250227--152908.jpg",
+  "contracapa": "static/uploads/deive-leonardo--coragem-pra-recome-ar--contracapa--20250227--152908.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:15:06",
+  "observacoes": null
+}

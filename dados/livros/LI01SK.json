@@ -1,0 +1,63 @@
+{
+  "obra_id": 2828,
+  "autor": "Hans Henningsen",
+  "titulo": "Os melhores jogadores sul americanos do século xx (Dicionário)",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "henningsen melhores jogadores sul",
+  "edicao_id": 2808,
+  "encadernacao": null,
+  "quantidade_paginas": 147,
+  "peso": 300,
+  "isbn": "9788590264415",
+  "editora": "Henningsen",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Hans Henningsen, alemão-brasileiro, dedicou décadas a reunir informações sobre os maiores jogadores de futebol sul-americanos e europeus. Em seus mais de 30 anos de pesquisa, colecionou uma vasta rede de contatos e um conhecimento profundo do esporte, atendendo ligações de lendas como Pelé, Di Stéfano e Maradona. Mesmo sem apoio financeiro ou patrocínio, lutou para compilar um dicionário essencial sobre o futebol, movido por sua paixão e generosidade, oferecendo ao mundo um verdadeiro tesouro sobre os melhores jogadores do século XX.",
+  "exemplar_id": 2807,
+  "sku": "LI01SK",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/os-melhores-jogadores-sul-americanos-do-seculo-xx-dicionario-hans-henningsen-capa_rev540.jpg",
+  "contracapa": "static/uploads/os-melhores-jogadores-sul-americanos-do-seculo-xx-dicionario-hans-henningsen-contracapa_rev547.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro com leves sinais deixados pelo uso, mas, no geral, em muito bom estado. Texto sem anotações e sem sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:21:26",
+  "observacoes": null
+}

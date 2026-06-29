@@ -1,0 +1,63 @@
+{
+  "obra_id": 2905,
+  "autor": "Luciana Savelli",
+  "titulo": "Sicilia",
+  "subtitulo": "Historia y obras maestras",
+  "idioma": "Português",
+  "categoria": "Turismo",
+  "temas": "",
+  "palavras_chave": "savelli sicilia historia obras",
+  "edicao_id": 2885,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Bonechi Edizioni",
+  "numero_edicao": 0,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2884,
+  "sku": "LI01UP",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/sicilia-luciana-savelli-capa_rev1874.jpg",
+  "contracapa": "static/uploads/sicilia-luciana-savelli-contracapa_rev1167.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:19:04",
+  "observacoes": null
+}

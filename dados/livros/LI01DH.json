@@ -1,0 +1,68 @@
+{
+  "obra_id": 2284,
+  "autor": "Djalma de Pinho Rebouças de Oliveira",
+  "titulo": "Teoria geral da administração",
+  "subtitulo": "Uma abordagem prática",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Teoria das organizações. Fundamentos da administração. Princípios da administração. Processo administrativo.",
+  "palavras_chave": "oliveira teoria geral administracao",
+  "edicao_id": 2264,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 427,
+  "peso": 1120,
+  "isbn": "9788522450152",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O principal diferencial deste livro está baseado em quatro aspectos de elevada importância na moderna administração das organizações:</p><ul><li>a apresentação da Teoria Geral da Administração – e das escolas que a sustentam – com forte abordagem prática;</li><li>a otimizada análise da realidade atual e das tendências futuras da administração;</li><li>a adequada interação entre todos os assuntos abordados ao longo dos anos pelas diversas escolas que consolidam a Teoria Geral da Administração; e</li><li>a estruturada, efetiva e fácil interligação com todas as outras disciplinas que envolvem assuntos da administração das organizações.</li></ul><h3>APLICAÇÃO</h3><p>Livro-texto para as disciplinas <i>Teoria Geral da Administração</i>, <i>Teoria das Organizações</i>, <i>Fundamentos da Administração</i>, <i>Introdução à Administração</i>, <i>Escolas da Administração</i>, <i>Funções da Administração</i>, <i>Princípios da Administração</i> e <i>Processo Administrativo</i> dos cursos de graduação e de pós-graduação em Administração, Economia, Contabilidade, Engenharia, Direito, Comunicação e Medicina, entre outros. Leitura de atualização e reciclagem profissional para os executivos e profissionais das organizações.</p>",
+  "sinopse": "O livro destaca-se por abordar aspectos fundamentais da moderna administração das organizações, como a apresentação das principais escolas da Teoria Geral da Administração com enfoque prático, análise das tendências atuais e futuras da área, integração entre temas clássicos da disciplina e interligação com outras áreas da administração. Indicado como livro-texto para diversas disciplinas de graduação e pós-graduação e leitura de atualização profissional.",
+  "exemplar_id": 2263,
+  "sku": "LI01DH",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--teoria-geral-da-administra--o--capa--20250430--105109.jpg",
+  "contracapa": "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--teoria-geral-da-administra--o--contracapa--20250430--105109.jpg",
+  "fotos": [
+    "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--teoria-geral-da-administra--o--foto1--20250430--105109.jpg",
+    "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--teoria-geral-da-administra--o--foto2--20250430--105109.jpg",
+    "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--teoria-geral-da-administra--o--foto3--20250430--105109.jpg",
+    "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--teoria-geral-da-administra--o--foto4--20250430--105109.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. / OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:59:07",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1472,
+  "autor": "R. L. Stine",
+  "titulo": "Goosebumps",
+  "subtitulo": "Como matar um monstro",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Suspense. Mistério.",
+  "palavras_chave": "stine como matar monstro",
+  "edicao_id": 1453,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 80,
+  "peso": 200,
+  "isbn": "8576761335",
+  "editora": "Fundamento",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Sozinho em casa... com um monstro?</h1><p>Gretchen e Clark detestam ficar na casa dos avós. Vô Eddie está praticamentesurdo, e vô Rose só saber de cozinhar. Além disso, eles vivem bem no meio de um pântano escuro e nojento. As coisas não podiam ser piores, certo? ERRADO! Há alguma coisa muito estranha no último andar daquela casa. Um dos quartos está sempre trancado, e dele saem uns barulhos bem bizarros. Bizarros e misteriosos...</p>",
+  "sinopse": "Gretchen e Clark odeiam ficar com os avós e, com um avô surdo e uma avó que só sabe cozinhar, eles mal podem imaginar o que há de mais estranho naquele lugar. Porém, segredos inusitados do último andar da casa revelam bizarros mistérios, fazendo com que as coisas tomem uma reviravolta assustadora.",
+  "exemplar_id": 1452,
+  "sku": "LI00VM",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/r--l--stine--como-matar-um-monstro--capa--20250401--115737.jpg",
+  "contracapa": "static/uploads/r--l--stine--como-matar-um-monstro--contracapa--20250401--115737.jpg",
+  "fotos": [
+    "static/uploads/r--l--stine--como-matar-um-monstro--foto1--20250401--115737.jpg",
+    "static/uploads/r--l--stine--como-matar-um-monstro--foto2--20250401--115737.jpg",
+    "static/uploads/r--l--stine--como-matar-um-monstro--foto3--20250401--115737.jpg",
+    "static/uploads/r--l--stine--como-matar-um-monstro--foto4--20250401--115737.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:15:22",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 4802,
+  "autor": "Hiro Mashima",
+  "titulo": "Fairy Tail",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Manga. Aventura. Fantasia.",
+  "palavras_chave": "mashima fairy tail",
+  "edicao_id": 4777,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 230,
+  "isbn": "9788545706915",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 62,
+  "transcricao_contracapa": "",
+  "sinopse": "Fairy Tail, de Hiro Mashima, é um mangá de fantasia shonen que acompanha Natsu Dragneel, um mago Dragon Slayer de fogo em busca de seu pai adotivo, o dragão Igneel. Ele integra a guilda de magos Fairy Tail, no Reino de Fiore, onde conhece Lucy Heartfilia, uma maga celestial que se junta à guilda e forma equipe com Natsu e o gato falante Happy. Junto a aliados como Gray Fullbuster (mago de gelo), Erza Scarlet (cavaleira mágica) e outros membros, o grupo enfrenta missões perigosas, guildas rivais, conspirações e batalhas épicas, enfatizando temas de amizade, família encontrada, superação e o poder da união em um mundo repleto de magia e aventura.",
+  "exemplar_id": 4776,
+  "sku": "LI02L0",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/fairy-tail__hiro-mashima__capa__2026-02-20_10-30-38-800991-000.png",
+  "contracapa": "static/uploads/fairy-tail__hiro-mashima__contracapa__2026-02-20_10-30-38-852289-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, mas bem preservado: livre de marcações, assinaturas ou carimbos; sem qualquer dano físico. Apresenta apenas mínimos vestígios de manuseio leve. Papel amarelou um pouco com a passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

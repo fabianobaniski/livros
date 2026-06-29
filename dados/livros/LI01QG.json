@@ -1,0 +1,63 @@
+{
+  "obra_id": 2752,
+  "autor": "Moacyr Scliar",
+  "titulo": "O ciclo das águas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "scliar ciclo das aguas",
+  "edicao_id": 2732,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 122,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2731,
+  "sku": "LI01QG",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-ciclo-das-aguas-moacyr-scliar-capa_rev1494.jpg",
+  "contracapa": "static/uploads/o-ciclo-das-aguas-moacyr-scliar-contracapa_rev2081.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição capa dura do Círculo do Livro. Livro bem conservado, apesar de amarelado e com leves sinais deixados pelo tempo. Texto livre de anotações ou sublinhados.  / O autor e sua obra: Desde sua estreia em 1962, com Histórias de Médico em Formação, até Os Voluntários em 1979, Scliar recebeu reconhecimento da crítica e do público, além de diversos prêmios literários. Suas obras exploram temas como o judaísmo, a busca das raízes e o contexto brasileiro, sempre com um humor irônico e agridoce, característico do que se chama de humor judeu. Entre suas principais obras estão A Guerra no Bom Fim e O Exército de um Homem Só, que refletem sua habilidade em unir o cômico ao trágico, em uma narrativa envolvente e única."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:56:16",
+  "observacoes": null
+}

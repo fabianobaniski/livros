@@ -1,0 +1,63 @@
+{
+  "obra_id": 2449,
+  "autor": "Casa Andrade Muricy",
+  "titulo": "Cores e pintores na Provenza",
+  "subtitulo": "1875-1920",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "muricy cores pintores provenza",
+  "edicao_id": 2429,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 204,
+  "peso": 800,
+  "isbn": "",
+  "editora": "Casa Andrade Muricy",
+  "numero_edicao": 0,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2428,
+  "sku": "LI01I1",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/casa-andrade-muricy--cores-e-pintores-na-provenza--capa--20260316--185651.jpg",
+  "contracapa": "static/uploads/casa-andrade-muricy--cores-e-pintores-na-provenza--contracapa--20260316--185651.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato grande, em ótimas condições. Papel discretamente amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados. Sem anotações. Ilustrações coloridas e em preto e branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:16:17",
+  "observacoes": null
+}

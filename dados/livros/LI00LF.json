@@ -1,0 +1,63 @@
+{
+  "obra_id": 808,
+  "autor": "D. A. Carson",
+  "titulo": "Um modelo de maturidade cristã",
+  "subtitulo": "Exposição de 2Coríntios 10-13",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Liderança.",
+  "palavras_chave": "carson modelo maturidade cristã",
+  "edicao_id": 793,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 280,
+  "isbn": "9788527506946",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>De que maneira as palavras que estão entre as mais apaixonadas do apóstolo Paulo podem nos ajudar hoje a compreender a nossa vida como cristãos?</p> <p>De acordo com o estudioso da Bíblia D. A. Carson, 2Coríntios 10–13 revela muito claramente o coração e a mente de Paulo. Esses capítulos de sua carta contêm passagens bem conhecidas, como aquela sobre o espinho na carne de Paulo e a que traz um relato vívido de seus sofrimentos. Essa seção das Escrituras também apresenta o modelo paulino de liderança espiritual e adverte contra os falsos líderes na igreja, algo de importância crucial para todos os que exercem um papel de influência no corpo de Cristo.</p> <p>Carson reflete sobre o chamado de Paulo para abraçarmos a disciplina e a obediência e examina os pensamentos do apóstolo sobre a natureza do “gloriar-se espiritualmente”. Com Paulo, vamos explorar as lutas, as oportunidades e as intenções de um cristão sob fogo cruzado e viajaremos com ele à medida que busca guiar a igreja de Corinto e falar conosco também.</p>",
+  "sinopse": "O livro de D. A. Carson explora as profundezas da carta de Paulo aos Coríntios, destacando o coração e a mente do apóstolo em momentos de sofrimento e liderança. Através da exposição dos capítulos 10 a 13, Carson analisa a chamada de Paulo à disciplina espiritual e à obediência, refletindo sobre as advertências contra líderes falsos, oferecendo insights valiosos sobre a vida cristã contemporânea.",
+  "exemplar_id": 792,
+  "sku": "LI00LF",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/d--a--carson--um-modelo-de-maturidade-crist---capa--20250227--152906.jpg",
+  "contracapa": "static/uploads/d--a--carson--um-modelo-de-maturidade-crist---contracapa--20250227--152906.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:36:20",
+  "observacoes": null
+}

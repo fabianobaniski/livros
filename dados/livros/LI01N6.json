@@ -1,0 +1,63 @@
+{
+  "obra_id": 2634,
+  "autor": "Glenn Cooper",
+  "titulo": "La biblioteca de los muertos",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "cooper biblioteca los muertos",
+  "edicao_id": 2614,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 300,
+  "isbn": "9788499088341",
+  "editora": "Debolsillo",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em meio a uma batalha épica entre o bem e o mal, a jovem protagonista se vê confrontada com uma série de mistérios sombrios. Sem memória e cercada por inimigos desconhecidos, ela precisa desvendar seu passado, ao mesmo tempo que enfrenta uma maldição antiga. À medida que se aproxima da verdade, descobre segredos perturbadores sobre sua identidade e os poderes que carrega. Um thriller cheio de suspense, reviravoltas e uma luta desesperada pela sobrevivência em um mundo onde a humanidade está em jogo.",
+  "exemplar_id": 2613,
+  "sku": "LI01N6",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/glenn-cooper--la-biblioteca-de-los-muertos--capa--20260316--214022.jpg",
+  "contracapa": "static/uploads/glenn-cooper--la-biblioteca-de-los-muertos--contracapa--20260316--214022.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel um pouco pigmentado pela ação do tempo, principalmente nas bordas. Lombada alinhada. Capa e contracapa sem danos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:02:20",
+  "observacoes": null
+}

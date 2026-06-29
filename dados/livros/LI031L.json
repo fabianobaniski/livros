@@ -1,0 +1,63 @@
+{
+  "obra_id": 5632,
+  "autor": "Takumi Fukui; Shinya Umemura; Azychika",
+  "titulo": "Record of Ragnarok",
+  "subtitulo": "Shuumatsu no Valkyrie",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mitologia. Batalhas lendárias. Confronto entre bem e mal.",
+  "palavras_chave": "fukui record ragnarok",
+  "edicao_id": 5607,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 310,
+  "isbn": "9788583623250",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>O grande confronto entre o perdedor supremo, Kojirou Sasaki, e o tirano dos mares, Poseidon, finalmente chega ao fim!! E as cartas para a quarta batalha são: o assassino mais famoso em toda história da humanidade, Jack, o Estripador, versus o indomável deus guerreiro, Hércules!!</p> <p>Um confronto direto entre o bem e o mal!!! Quem será o vencedor?! O mais terrível assassino versus o herói lendário!!!</p> <p><b>O mais terrível assassino da humanidade</b></p> <p><b>Jack, o Estripador</b> <b>VS</b> <b>Hércules</b></p> <p><b>O lendário herói que ascendeu ao nível dos deuses</b></p> <p>DEUSES DO MUNDO TODO <b>VERSUS</b> GRANDES FIGURAS, GUERREIROS E MESTRES!!!</p>",
+  "sinopse": "O confronto épico entre Kojiro Sasaki e Poseidon culmina, abrindo caminho para uma nova batalha entre Jack, o Estripador, e Hércules. Em um duelo entre o bem e o mal, o mais notório assassino enfrenta o lendário herói que ascendeu a deidade. Quem sairá vitorioso neste embate entre figuras míticas e guerreiros lendários?",
+  "exemplar_id": 5606,
+  "sku": "LI031L",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/record-of-ragnarok__shuumatsu-no-valkyrie__takumi-fukui-shinya-umemura-azychika__capa__2026-02-24_13-36-43-788114-000.jpg",
+  "contracapa": "static/uploads/record-of-ragnarok__shuumatsu-no-valkyrie__takumi-fukui-shinya-umemura-azychika__contracapa__2026-02-24_13-36-43-820738-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

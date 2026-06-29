@@ -1,0 +1,68 @@
+{
+  "obra_id": 1474,
+  "autor": "Henrique Sérgio Gutierrez da Costa",
+  "titulo": "Negociando para o sucesso",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Negociação. Habilidade Empresarial. Comunicação.",
+  "palavras_chave": "gutierrez negociando sucesso",
+  "edicao_id": 1455,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 286,
+  "peso": 400,
+  "isbn": "9788578380540",
+  "editora": "IBPEX",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta obra trata do que você deve fazer e ser para liderar sua empresa no que promete ser o ambiente de negócios mais difícil das últimas décadas.</p><p>Henrique Sérgio Gutierrez da Costa demonstra em Negociando para o sucesso que a importância da capacidade de negociar vai além do domínio dos múltiplos canais de comunicação disponibilizados pelas tecnologias existentes, que encurtam cada vez mais as distâncias entre clientes e fornecedores.</p><p>Ele posiciona a negociação empresarial sobre um alicerce de gerência e desempenho organizacional, sem perder de vista o fato de que negociadores precisam estar atentos à maneira como as outras pessoas com quem estão tratando de negócios os enxergam, transformando oportunidades em lucro.</p><p>Voltada a leitores interessados em negociação no ambiente empresarial, esta obra ainda fala sobre a importância de se cultivar uma rede de relacionamentos, os fatores humanos que envolvem um processo de negociação e as estratégias que podem ser utilizadas para conquistar o sucesso.</p>",
+  "sinopse": "A obra aborda a habilidade de negociar, essencial para lidar com os desafios do ambiente empresarial contemporâneo. Henrique Sérgio Gutierrez da Costa destaca a necessidade de dominar não apenas as técnicas, mas também as relações humanas no processo, enfatizando a importância de cultivar redes de contato para alcançar o sucesso.",
+  "exemplar_id": 1454,
+  "sku": "LI00VO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--capa--20250401--115737.jpg",
+  "contracapa": "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--contracapa--20250401--115737.jpg",
+  "fotos": [
+    "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--foto1--20250401--115737.jpg",
+    "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--foto2--20250401--115737.jpg",
+    "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--foto3--20250401--115737.jpg",
+    "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--foto4--20250401--115737.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:16:48",
+  "observacoes": null
+}

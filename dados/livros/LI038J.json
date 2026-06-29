@@ -1,0 +1,67 @@
+{
+  "obra_id": 5883,
+  "autor": "Ellen G. White",
+  "titulo": "O maior discurso de Cristo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white maior discurso cristo",
+  "edicao_id": 5858,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 169,
+  "peso": 260,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 15,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5857,
+  "sku": "LI038J",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/ellen-g-white--o-maior-discurso-de-cristo--capa--20260306--093545.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--o-maior-discurso-de-cristo--foto1--20260306--093554.jpg",
+    "static/uploads/ellen-g-white--o-maior-discurso-de-cristo--foto2--20260306--093554.jpg",
+    "static/uploads/ellen-g-white--o-maior-discurso-de-cristo--foto3--20260306--093554.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Texto totalmente livre de anotações, sublinhados, carimbos, etc. Também sem sinais de umidade, mofo, traça. Única ressalva é que houve discreta perda de material dourado no título e lombada (mãos habilidosas provavelmente consigam restaurar este aspecto). / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:30:07",
+  "observacoes": null
+}

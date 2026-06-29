@@ -1,0 +1,68 @@
+{
+  "obra_id": 2073,
+  "autor": "José Carlos Köche",
+  "titulo": "Fundamentos de metodologia científica",
+  "subtitulo": "Teoria da ciência e iniciação à pesquisa",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Metodologia científica. Epistemologia. Pesquisa acadêmica. Ensino superior.",
+  "palavras_chave": "koche fundamentos metodologia cientifica",
+  "edicao_id": 2053,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 182,
+  "peso": 280,
+  "isbn": "9788532618047",
+  "editora": "Vozes",
+  "numero_edicao": 25,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"A ciência é concebida, hoje, como um processo altamente criativo e crítico. Estamos muito longe do dogmatismo e do cientificismo. O conhecimento é visto como algo que está sendo continuamente revisto, reconstruído. Não há resultado pronto, acabado. Não há verdades inquestionáveis. Não há procedimentos de investigação indiscutíveis. Não há provas evidentes fornecidas por experimentos cruciais conclusivos. A produção do conhecimento é um projeto humano que exige superação de limites do já imaginado e que se enriquece no processo crítico e polêmico que se instaura na intromissão da rede do pluralismo teórico.</p><p>O processo decisório das ações humanas está sendo gradativa e aceleradamente impregnado, embebido, desse espírito científico crítico-criativo que domina a ciência contemporânea. Viver em uma sociedade do conhecimento requer que se esteja instrumentalizado para vivenciar esse espírito científico.</p><p>Esta obra tem presente esse fim, principalmente junto ao aluno de cursos de graduação e pós-graduação. Como fonte de instrumentalização didática; ela não é um manual que prega receitas ou fórmulas mecânicas de desenvolvimento do conhecimento através de procedimentos metodológicos mágicos. A investigação científica requer atividade imaginativa para repensar o já pensado, uso da intuição e revisão teórica e crítica do já produzido através do diálogo com as teorias e investigadores, e do diálogo com a natureza, no sentido galileano. Por isso esta obra trata da pesquisa não de forma isolada enquanto mero procedimento, mas fundamentada em uma crítica epistemológica que tem como pano de fundo a história da ciência.\"</p>",
+  "sinopse": "O livro apresenta a ciência como um processo criativo e crítico, distante do dogmatismo e do cientificismo. Destaca a produção do conhecimento como um projeto humano em constante revisão e enriquecimento pelo diálogo crítico e polêmico. Voltada principalmente para alunos de graduação e pós-graduação, a obra não se limita a receitas metodológicas, mas propõe uma abordagem crítica e epistemológica, enfatizando o papel da investigação imaginativa e do diálogo com teorias e a natureza, tendo como pano de fundo a história da ciência.",
+  "exemplar_id": 2052,
+  "sku": "LI017M",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--carlos-k-che--fundamentos-de-metodologia-cient-fica--capa--20250430--104529.jpg",
+  "contracapa": "static/uploads/jos--carlos-k-che--fundamentos-de-metodologia-cient-fica--contracapa--20250430--104529.jpg",
+  "fotos": [
+    "static/uploads/jos--carlos-k-che--fundamentos-de-metodologia-cient-fica--foto1--20250430--104529.jpg",
+    "static/uploads/jos--carlos-k-che--fundamentos-de-metodologia-cient-fica--foto2--20250430--104529.jpg",
+    "static/uploads/jos--carlos-k-che--fundamentos-de-metodologia-cient-fica--foto3--20250430--104529.jpg",
+    "static/uploads/jos--carlos-k-che--fundamentos-de-metodologia-cient-fica--foto4--20250430--104529.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:20:15",
+  "observacoes": "procedencia_biblioteca"
+}

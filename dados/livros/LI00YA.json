@@ -1,0 +1,68 @@
+{
+  "obra_id": 1734,
+  "autor": "Maria Luiza Mestriner",
+  "titulo": "O Estado entre a filantropia e a assistência social",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Sociologia. Políticas públicas. Estado. Terceiro setor. Assistência social.",
+  "palavras_chave": "mestriner estado entre filantropia assistencia social",
+  "edicao_id": 1714,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 320,
+  "peso": 400,
+  "isbn": "9788524908125",
+  "editora": "Cortez",
+  "numero_edicao": 4,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><span style=\"color:#D1002B;font-size:20px;font-weight:bold;\">O</span>bra de fôlego! Reflete a maturidade profissional da Autora. O arcabouço teórico-conceitual está bem construído. A redação é clara, correta, entusiasmada.<br>A tese é original ao iluminar uma relação entre Estado e Terceiro Setor, até aqui bastante obscura e sujeita a diversas interpretações.<br>O trabalho provoca o desafio: como desencadear a transformação social, política e administrativa que dê conta de promover a eficiência das práticas sociais e de efetivamente fazer com que funcionem as parcerias intersetoriais.</p><p><i>Rosa Maria Fischer</i></p>",
+  "sinopse": "A obra apresenta uma análise original sobre a relação entre o Estado e o Terceiro Setor, destacando a maturidade profissional da autora ao construir um arcabouço teórico sólido e redação clara. Aborda o desafio de promover a transformação social, política e administrativa necessária para tornar eficientes as práticas sociais e viabilizar parcerias intersetoriais.",
+  "exemplar_id": 1713,
+  "sku": "LI00YA",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/maria-luiza-mestriner--o-estado-entre-a-filantropia-e-a-assist-ncia-social--capa--20250430--102939.jpg",
+  "contracapa": "static/uploads/maria-luiza-mestriner--o-estado-entre-a-filantropia-e-a-assist-ncia-social--contracapa--20250430--102939.jpg",
+  "fotos": [
+    "static/uploads/maria-luiza-mestriner--o-estado-entre-a-filantropia-e-a-assist-ncia-social--foto1--20250430--102939.jpg",
+    "static/uploads/maria-luiza-mestriner--o-estado-entre-a-filantropia-e-a-assist-ncia-social--foto2--20250430--102939.jpg",
+    "static/uploads/maria-luiza-mestriner--o-estado-entre-a-filantropia-e-a-assist-ncia-social--foto3--20250430--102939.jpg",
+    "static/uploads/maria-luiza-mestriner--o-estado-entre-a-filantropia-e-a-assist-ncia-social--foto4--20250430--102939.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui identificação na parte interna."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:06:22",
+  "observacoes": "procedencia_biblioteca"
+}

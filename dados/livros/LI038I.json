@@ -1,0 +1,67 @@
+{
+  "obra_id": 5882,
+  "autor": "Ellen G. White",
+  "titulo": "O lar adventista",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white lar adventista",
+  "edicao_id": 5857,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 574,
+  "peso": 580,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 14,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5856,
+  "sku": "LI038I",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/ellen-g-white--o-lar-adventista--capa--20260306--093513.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--o-lar-adventista--foto1--20260306--093523.jpg",
+    "static/uploads/ellen-g-white--o-lar-adventista--foto2--20260306--093523.jpg",
+    "static/uploads/ellen-g-white--o-lar-adventista--foto3--20260306--093523.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Sem marcas de umidade, mofo, traça. Única ressalva é que há alguns grifos feitos usando caneta azul e régua em pouquíssimas folhas. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:24:05",
+  "observacoes": null
+}

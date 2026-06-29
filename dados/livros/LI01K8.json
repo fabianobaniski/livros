@@ -1,0 +1,63 @@
+{
+  "obra_id": 2528,
+  "autor": "Erin Frankel; Ilustrações: Paula Heaphy",
+  "titulo": "Esquisita!",
+  "subtitulo": "Uma história sobre como impedir o bullyng nas escolas",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "frankel esquisita uma historia",
+  "edicao_id": 2508,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 41,
+  "peso": 100,
+  "isbn": "9788578673796",
+  "editora": "Mythos Books",
+  "numero_edicao": 0,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2507,
+  "sku": "LI01K8",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/erin-frankel--esquisita--capa--20260316--194117.jpg",
+  "contracapa": "static/uploads/erin-frankel--esquisita--contracapa--20260316--194117.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, selo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:28:52",
+  "observacoes": null
+}

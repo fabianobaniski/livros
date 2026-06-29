@@ -1,0 +1,68 @@
+{
+  "obra_id": 54,
+  "autor": "John Green",
+  "titulo": "A culpa é das estrelas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "green culpa estrelas",
+  "edicao_id": 54,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 286,
+  "peso": 350,
+  "isbn": "9788580572261",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Não sou formada em matemática, mas sei de uma coisa: existe uma quantidade infinita de números entre 0 e 1. Tem o 0,1 e o 0,12 e o 0,112 e uma infinidade de outros. Obviamente, existe um conjunto ainda maior entre 0 e 2, ou entre 0 e 1 milhão. Alguns infinitos são maiores que outros... Há dias, muitos deles, em que fico zangada com o tamanho do meu conjunto ilimitado. Eu queria mais números do que provavelmente vou ter.</p> <p><b>Hazel Grace</b></p> <p>\"Um misto de melancolia, doçura, filosofia e diversão. Green nos mostra um amor verdadeiro... muito mais romântico que qualquer pôr do sol à beira da praia.\"</p> <p><b>— The New York Times</b></p>",
+  "sinopse": "Hazel Grace e Augustus Waters são dois adolescentes que se conhecem em um grupo de apoio para pacientes com câncer. Juntos, embarcam em uma jornada que desafia suas dores e limitações, descobrindo o amor e a beleza da vida mesmo diante da adversidade.",
+  "exemplar_id": 53,
+  "sku": "LI001E",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/john-green--a-culpa---das-estrelas--capa--20250225--231816.jpg",
+  "contracapa": "static/uploads/john-green--a-culpa---das-estrelas--contracapa--20250225--231816.jpg",
+  "fotos": [
+    "static/uploads/john-green--a-culpa---das-estrelas--foto1--20250225--231816.jpg",
+    "static/uploads/john-green--a-culpa---das-estrelas--foto2--20250225--231816.jpg",
+    "static/uploads/john-green--a-culpa---das-estrelas--foto3--20250225--231816.jpg",
+    "static/uploads/john-green--a-culpa---das-estrelas--foto4--20250225--231816.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:14:33",
+  "observacoes": null
+}

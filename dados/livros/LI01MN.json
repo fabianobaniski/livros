@@ -1,0 +1,63 @@
+{
+  "obra_id": 2615,
+  "autor": "Roland Barthes",
+  "titulo": "Inéditos",
+  "subtitulo": "Crítica",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "barthes ineditos",
+  "edicao_id": 2595,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 259,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Martins Fontes",
+  "numero_edicao": 0,
+  "ano": 2004,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "Este volume reúne os ensaios críticos de Roland Barthes que, por não terem sido retomados em livros do autor, permaneceram inéditos. São textos escritos, ao longo de décadas, acerca de Gide, Camus, Zola, Maupassant, Hugo, Stendhal, Balzac e outros, além de comentários a obras de outros críticos literários e de autores mais recentes, como Artaud, Cayrol e Robbe-Grillet.",
+  "exemplar_id": 2594,
+  "sku": "LI01MN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/roland-barthes--ineditos-vol-2--capa--20260316--213233.jpg",
+  "contracapa": "static/uploads/roland-barthes--ineditos-vol-2--contracapa--20260316--213233.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. texto livre de anotações e sublinhados. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:15:11",
+  "observacoes": null
+}

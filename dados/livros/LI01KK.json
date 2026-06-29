@@ -1,0 +1,63 @@
+{
+  "obra_id": 2540,
+  "autor": "Clovis De Barros Filho; Leandro Karnal",
+  "titulo": "Felicidade ou morte",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "filho felicidade morte",
+  "edicao_id": 2520,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 90,
+  "peso": 245,
+  "isbn": "",
+  "editora": "Papirus 7 Mares",
+  "numero_edicao": 1,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2519,
+  "sku": "LI01KK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/clovis-de-barros-filho--felicidade-ou-morte--capa--20260316--201939.jpg",
+  "contracapa": "static/uploads/clovis-de-barros-filho--felicidade-ou-morte--contracapa--20260316--201939.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria.  De filmes e livros a propagandas de televisão, a todo momento somos instados a ser felizes. Pois, como diria o poeta, é melhor ser alegre que ser triste. O desejo pela felicidade parece ser mesmo uma constante de nosso tempo. Clóvis de Barros Filho e Leandro Karnal passeiam pela história e pela filosofia para pontuar como cada época e sociedade estabelecem sua própria definição das circunstâncias para o que seja uma vida feliz. E questionam se, sendo livres para escolher entre tantas possibilidades, estamos de fato mais próximos desse ideal. O livro é certamente um encontro feliz entre os dois autores, que não deixam de tocar em aspectos mais desafortunados do tema, presentes quase como uma sombra indissociável de nossa condição humana. Afinal, poderia a felicidade denunciar certo contentamento com o infortúnio alheio? Ou estaria ela no amor pelo outro? Sem a felicidade, o que nos resta?"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:00:21",
+  "observacoes": null
+}

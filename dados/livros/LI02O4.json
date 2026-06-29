@@ -1,0 +1,63 @@
+{
+  "obra_id": 4914,
+  "autor": "Yu Sasuga; Ken-Ichi Tachibana",
+  "titulo": "Terra Formars",
+  "subtitulo": "10ª missão venosa solidão",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Ficção Científica.",
+  "palavras_chave": "sasuga terra formars",
+  "edicao_id": 4889,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 250,
+  "isbn": "9788545701682",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>Michel, Akari e outros tripulantes são capturados por um membro da equipe chinesa em meio a um ataque de terraformars!! Uma horda de terraformars se aproxima e os membros da equipe EUA-Japão estão incapacitados, mas Bao Zhilan não parece que vai desviar de sua missão! Como poderão sobreviver...?!</p>",
+  "sinopse": "Michel, Akari e a equipe enfrentam um ataque mortal de terraformars enquanto tentam sobreviver às ameaças provenientes da equipe chinesa e a missão de Bao Zhilan.",
+  "exemplar_id": 4888,
+  "sku": "LI02O4",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/terra-formars__10a-missao-venosa-solidao__yu-sasuga-ken-ichi-tachibana__capa__2026-02-20_10-31-10-565548-000.png",
+  "contracapa": "static/uploads/terra-formars__10a-missao-venosa-solidao__yu-sasuga-ken-ichi-tachibana__contracapa__2026-02-20_10-31-10-611802-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

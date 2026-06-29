@@ -1,0 +1,68 @@
+{
+  "obra_id": 124,
+  "autor": "Judith McNaught",
+  "titulo": "Em busca do paraíso",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Amor. Destino.",
+  "palavras_chave": "mcnaught busca paraiso",
+  "edicao_id": 122,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 783,
+  "peso": 800,
+  "isbn": "9788571236011",
+  "editora": "BestSeller",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>Em busca do paraíso</i> é a história envolvente e emocionante de dois jovens apaixonados, separados pela tirania de um homem arrogante e poderoso que se dá o direito de manipular pessoas e mudar o rumo de suas vidas.</p> <p>Pertencente a uma tradicional família de Chicago, Meredith Bancroft jamais teria conhecido Matthew Farrell, não fosse uma brincadeira do destino.</p> <p>Tudo parecia perfeito até eles serem brutalmente separados e forçados a sufocar seus sentimentos. Porém, Meredith e Matthew se reencontram 11 anos depois. Seus olhares se cruzam e só há um caminho para resgatar tantos anos de separação: a sinceridade do verdadeiro amor.</p> <p>\"Uma incomparável história de amor.\" — Dallas Times Herald</p> <p>\"Um romance envolvente e extremamente cativante.\" — Publishers Weekly</p>",
+  "sinopse": "A história envolvente de dois jovens apaixonados, separados pela tirania de um homem arrogante. Meredith Bancroft e Matthew Farrell se reencontram após 11 anos de separação, desafiando as manipulações do passado e buscando a sinceridade do verdadeiro amor.",
+  "exemplar_id": 121,
+  "sku": "LI0030",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/judith-mcnaught--em-busca-do-para-so--capa--20250226--133755.jpg",
+  "contracapa": "static/uploads/judith-mcnaught--em-busca-do-para-so--contracapa--20250226--133755.jpg",
+  "fotos": [
+    "static/uploads/judith-mcnaught--em-busca-do-para-so--foto1--20250226--133755.jpg",
+    "static/uploads/judith-mcnaught--em-busca-do-para-so--foto2--20250226--133755.jpg",
+    "static/uploads/judith-mcnaught--em-busca-do-para-so--foto3--20250226--133755.jpg",
+    "static/uploads/judith-mcnaught--em-busca-do-para-so--foto4--20250226--133755.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:08:08",
+  "observacoes": null
+}

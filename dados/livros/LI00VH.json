@@ -1,0 +1,68 @@
+{
+  "obra_id": 1467,
+  "autor": "Nilson Cesar Piccini Favara",
+  "titulo": "Viva sem medos",
+  "subtitulo": "Ditado pelo espírito Carlos Augusto do Nascimento",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Motivação. Superação.",
+  "palavras_chave": "favara viva sem medos",
+  "edicao_id": 1448,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 172,
+  "peso": 250,
+  "isbn": "9788573126716",
+  "editora": "Gente",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"O sonho de escrever um livro não era uma coisa nova na vida do autor. Ao longo dos anos de convivência fraterna com Nilson Cesar ouvi várias vezes seu desejo de firmar mensagens e conceitos. Textos úteis para consultas a qualquer instante. Leitura longa ou uma simples batida de olhos, necessárias e suficientes para levar paz ao coração e, talvez, dissipar dúvidas e inseguranças.</p><p>A ideia, dizia, era tentar ser um contador de verdades. As oportunidades aparecem nos momentos corretos. Tudo se encaixa, nem antes, nem depois. [...] O momento de escrever um livro surgiu agora, na hora certa, sem antecipações ou adiamentos.</p><p>E, para isso, ele encontrou uma grande ajuda espiritual para realizar o seu sonho de letras. Com o Carlinhos - como chama carinhosamente o espírito Carlos Augusto - conseguiu transcrever muitos capítulos de ensinamentos de quem conhece os caminhos que levam ao amor e à fraternidade. Nilson e Carlinhos formaram uma dupla integrada em todos os momentos. Uma dupla de artilheiros perfeitos. Vendo o Nilson receber os lançamentos precisos de Carlos Augusto não era difícil imaginar que lindos gols estavam saindo na tela do computador. 'Gols' que, não raras vezes, fizeram escorregar lágrimas no rosto do Nilson, grato ao parceiro.</p><p>Sou um jornalista com sangue de repórter. O tempo refinou minha sensibilidade. A profissão ensina a observar, avaliar e detalhar. Esse trabalho faz você aprender que um pequeno risco pode significar tudo e ele me diz que Viva sem medos será capaz de tocar olhos, corações e almas.\"</p>",
+  "sinopse": "O livro 'Viva sem Medos' é resultado de uma colaboração espiritual entre Nilson Cesar Piccini Favara e o espírito Carlos Augusto do Nascimento, que visa levar mensagens de motivação e esperança. O autor reflete sobre suas experiências e o desejo de compartilhar ensinamentos que podem trazer paz ao coração e clarear dúvidas. Com uma narrativa íntima, o texto promete tocar os leitores profundamente.",
+  "exemplar_id": 1447,
+  "sku": "LI00VH",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/nilson-cesar-piccini-favara--viva-sem-medos--capa--20250401--115736.jpg",
+  "contracapa": "static/uploads/nilson-cesar-piccini-favara--viva-sem-medos--contracapa--20250401--115736.jpg",
+  "fotos": [
+    "static/uploads/nilson-cesar-piccini-favara--viva-sem-medos--foto1--20250401--115736.jpg",
+    "static/uploads/nilson-cesar-piccini-favara--viva-sem-medos--foto2--20250401--115736.jpg",
+    "static/uploads/nilson-cesar-piccini-favara--viva-sem-medos--foto3--20250401--115736.jpg",
+    "static/uploads/nilson-cesar-piccini-favara--viva-sem-medos--foto4--20250401--115736.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:45:12",
+  "observacoes": null
+}

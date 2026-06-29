@@ -1,0 +1,63 @@
+{
+  "obra_id": 2360,
+  "autor": "Içami Tiba",
+  "titulo": "Adolescentes",
+  "subtitulo": "Quem ama, educa!",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "tiba adolescentes quem ama",
+  "edicao_id": 2340,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 301,
+  "peso": 300,
+  "isbn": "9788599362013",
+  "editora": "Integrare",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro de Içami Tiba aborda os desafios enfrentados por pais e educadores ao lidar com adolescentes em um mundo cada vez mais globalizado e digital. Ele diferencia adolescentes precoces (tweens) e tardios (coronas), ressaltando o impacto das rápidas transformações tecnológicas e sociais. Com base em sua vasta experiência clínica e mais de 75 mil atendimentos, Tiba oferece orientações práticas e objetivas para promover a ética, autonomia e independência financeira dos jovens.",
+  "exemplar_id": 2339,
+  "sku": "LI01FL",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/icami-tiba--adolescentes--capa--20260316--153705.jpg",
+  "contracapa": "static/uploads/icami-tiba--adolescentes--contracapa--20260316--153712.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:10:46",
+  "observacoes": null
+}

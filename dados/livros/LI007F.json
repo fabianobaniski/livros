@@ -1,0 +1,68 @@
+{
+  "obra_id": 290,
+  "autor": "Olavo de Carvalho",
+  "titulo": "Maquiavel ou A Confusão Demoníaca",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Política. Teoria do conhecimento.",
+  "palavras_chave": "carvalho maquiavel confusao",
+  "edicao_id": 284,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 93,
+  "peso": 150,
+  "isbn": "9788562910036",
+  "editora": "Vide Editorial",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "Biblioteca Olavo de Carvalho",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Dos pensadores modernos mais célebres, Nicolau Maquiavel é talvez o primeiro a entregar ao público uma doutrina tão desconcertante e confusa. Tão desconcertada e tão confusa que um de seus melhores intérpretes, Benedetto Croce, resumiu quatro séculos de investigações com a conclusão desencantada de que o pensador florentino é ‘um enigma que jamais será resolvido’. Depois de Croce, outros estudiosos de primeira ordem, como Leo Strauss, Quentin Skinner, Hans Baron e Maurizio Viroli acreditaram poder resolver o enigma; porém as soluções que ofereceram divergiram tanto umas das outras que só conseguiram multiplicá-lo. Evidentemente não espero, aqui, ter mais sorte do que esses meus ilustres antecessores. Considero, desde logo, que não compreendo Maquiavel melhor do que eles; talvez o compreenda menos. Mas meu objetivo aqui não é compreendê-lo, torná-lo mais inteligível. É traçar da maneira mais precisa possível o perfil da sua inteligibilidade, porque sua incorporação do ideal ao cimento séculos de discussão filosófica e política no Ocidente, que não há exagero em considerá-la uma das constantes da modernidade.”</p>",
+  "sinopse": "Este livro investiga a doutrina de Nicolau Maquiavel, um dos pensadores mais célebres da modernidade. A obra reflete sobre a confusão e os enigmas que envolvem seu pensamento, apresentando a perspectiva de vários estudiosos que tentaram decifrar suas ideias. A síntese de Benedetto Croce é destacada, revelando que, apesar dos esforços milhares de estudos realizados, a compreensão plena de Maquiavel permanece um desafio intrigante.",
+  "exemplar_id": 283,
+  "sku": "LI007F",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/olavo-de-carvalho--maquiavel--capa--20250226--133816.jpg",
+  "contracapa": "static/uploads/olavo-de-carvalho--maquiavel--contracapa--20250226--133816.jpg",
+  "fotos": [
+    "static/uploads/olavo-de-carvalho--maquiavel--foto1--20250226--133816.jpg",
+    "static/uploads/olavo-de-carvalho--maquiavel--foto2--20250226--133816.jpg",
+    "static/uploads/olavo-de-carvalho--maquiavel--foto3--20250226--133816.jpg",
+    "static/uploads/olavo-de-carvalho--maquiavel--foto4--20250226--133816.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto possui discretas marcações à lápis em algumas páginas. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:53:42",
+  "observacoes": null
+}

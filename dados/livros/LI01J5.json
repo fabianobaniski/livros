@@ -1,0 +1,63 @@
+{
+  "obra_id": 2489,
+  "autor": "Patricia Teixeira Santos",
+  "titulo": "Dom Comboni",
+  "subtitulo": "Profeta da África e Santo no Brasil",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "santos dom comboni profeta",
+  "edicao_id": 2469,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 300,
+  "isbn": "9788574780382",
+  "editora": "Mauad",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro Dom Comboni: Profeta da África e Santo no Brasil narra a trajetória de Dom Comboni, um missionário que se destacou por sua atuação revolucionária na África e no Brasil. Ele é apresentado como um precursor nas missões e na luta pela libertação dos povos africanos. A autora Patrícia Teixeira Santos, com uma pesquisa rigorosa e o uso abundante de fontes, traça a vida e o legado de Comboni, destacando seu papel como visionário e santo. A obra oferece uma reflexão sobre a importância de sua missão e sua relevância histórica e social.",
+  "exemplar_id": 2468,
+  "sku": "LI01J5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 11.0,
+  "capa": "static/uploads/patricia-teixeira-santos--dom-comboni--capa--20260316--192737.jpg",
+  "contracapa": "static/uploads/patricia-teixeira-santos--dom-comboni--contracapa--20260316--192737.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:33:18",
+  "observacoes": null
+}

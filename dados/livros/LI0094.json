@@ -1,0 +1,68 @@
+{
+  "obra_id": 357,
+  "autor": "Murray Rothbard",
+  "titulo": "Esquerda & direita",
+  "subtitulo": "Perspectivas para a liberdade",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "Política. Liberdade.",
+  "palavras_chave": "rothbard esquerda direita",
+  "edicao_id": 348,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 83,
+  "peso": 150,
+  "isbn": "9788567394848",
+  "editora": "Vide Editorial",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Neste ensaio, Rothbard questiona a classificação dos sistemas de crenças políticas baseada no binômio esquerda-direita, demonstrando que esse dualismo é incompatível com o desenvolvimento da história das ideias e, além disso, tornou superficial e obscuro nos tempos modernos.</p> <p>Propõe, então, uma nova perspectiva ao analisar as diversas correntes políticas que historicamente inverssem seus papéis e muitas vezes se confundem de acordo com as circunstâncias de suas épocas. Os fundamentos de sua análise estão no conceito de liberdade, no otimismo ou pessimismo frente ao futuro e na luta contra os grilhões da burocracia estatal.</p>",
+  "sinopse": "Neste ensaio, Rothbard apresenta uma crítica à classificação política tradicional do binômio esquerda-direita, argumentando que tal dualismo se tornou obsoleto e superficial. Ele propõe um novo olhar sobre as correntes políticas, que muitas vezes mudam suas posições conforme o contexto histórico, enfatizando a importância da liberdade na análise dessas ideologias.",
+  "exemplar_id": 347,
+  "sku": "LI0094",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/murray-rothbard--esquerda---direita--perspectivas-para-a-liberdade--capa--20250226--133822.jpg",
+  "contracapa": "static/uploads/murray-rothbard--esquerda---direita--perspectivas-para-a-liberdade--contracapa--20250226--133822.jpg",
+  "fotos": [
+    "static/uploads/murray-rothbard--esquerda---direita--perspectivas-para-a-liberdade--foto1--20250226--133822.jpg",
+    "static/uploads/murray-rothbard--esquerda---direita--perspectivas-para-a-liberdade--foto2--20250226--133822.jpg",
+    "static/uploads/murray-rothbard--esquerda---direita--perspectivas-para-a-liberdade--foto3--20250226--133822.jpg",
+    "static/uploads/murray-rothbard--esquerda---direita--perspectivas-para-a-liberdade--foto4--20250226--133822.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:28:46",
+  "observacoes": null
+}

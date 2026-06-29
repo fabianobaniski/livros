@@ -1,0 +1,63 @@
+{
+  "obra_id": 3189,
+  "autor": "Heitor Coutinho",
+  "titulo": "Da Estratégia ágil aos Resultados",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": null,
+  "palavras_chave": "coutinho estrategia agil aos",
+  "edicao_id": 3169,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 280,
+  "peso": 400,
+  "isbn": "9788571440449",
+  "editora": "Saraiva Uni",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Em um cenário de crescente complexidade e incerteza nos negócios, esta obra apresenta um guia prático para o sucesso na formulação e execução de estratégias. Baseada em pesquisas rigorosas e experiências coletivas, explora práticas inovadoras e conceitos avançados para fortalecer organizações e superar os principais desafios do crescimento. Com uma abordagem flexível e interdisciplinar, ensina como lidar com mudanças, ser ágil e adaptar-se ao imprevisível, oferecendo insights valiosos para líderes, empresários e estudantes.",
+  "exemplar_id": 3168,
+  "sku": "LI022L",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso e da passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:33:28",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

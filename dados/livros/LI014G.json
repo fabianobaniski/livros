@@ -1,0 +1,68 @@
+{
+  "obra_id": 1958,
+  "autor": "Odília Fachin",
+  "titulo": "Fundamentos de metodologia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Iniciação científica. Metodologia científica. Ciências sociais. Pesquisa acadêmica. Normas ABNT.",
+  "palavras_chave": "fachin fundamentos metodologia",
+  "edicao_id": 1938,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 210,
+  "peso": 375,
+  "isbn": "9788502055322",
+  "editora": "Saraiva",
+  "numero_edicao": 5,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta quinta edição revisada e atualizada traz vários assuntos fundamentais à iniciação científica, atende aos interesses dos pesquisadores, do meio acadêmico e de profissionais em geral. Além do enfoque teórico sobre conhecimentos, a obra relaciona-se ao estudo dos métodos aplicados nas áreas das ciências sociais, mostrando-se eficazes na prática.</p> <p>A obra mostra (e examina) as várias etapas de um projeto de pesquisa, os vários tipos de pesquisas e outros trabalhos acadêmicos, incluindo as normas vigentes da ABNT.</p> <p>Com uma redação simples, clara e lógica, o objetivo deste livro é iniciar o estudante em um trabalho intelectual, sério, prático e sistemático.</p>",
+  "sinopse": "A quinta edição deste livro aborda temas essenciais para a iniciação científica, atendendo a estudantes, pesquisadores e profissionais. Oferece embasamento teórico e prático sobre métodos aplicados nas ciências sociais, discute etapas e tipos de pesquisa e orienta sobre normas da ABNT. Com linguagem clara e lógica, prepara o leitor para trabalhos acadêmicos sérios, práticos e sistemáticos.",
+  "exemplar_id": 1937,
+  "sku": "LI014G",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/od-lia-fachin--fundamentos-de-metodologia--capa--20250430--104307.jpg",
+  "contracapa": "static/uploads/od-lia-fachin--fundamentos-de-metodologia--contracapa--20250430--104308.jpg",
+  "fotos": [
+    "static/uploads/od-lia-fachin--fundamentos-de-metodologia--foto1--20250430--104308.jpg",
+    "static/uploads/od-lia-fachin--fundamentos-de-metodologia--foto2--20250430--104308.jpg",
+    "static/uploads/od-lia-fachin--fundamentos-de-metodologia--foto3--20250430--104308.jpg",
+    "static/uploads/od-lia-fachin--fundamentos-de-metodologia--foto4--20250430--104308.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:19:40",
+  "observacoes": "procedencia_biblioteca"
+}

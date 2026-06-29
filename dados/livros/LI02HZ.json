@@ -1,0 +1,63 @@
+{
+  "obra_id": 4693,
+  "autor": "Tadahiro Miura",
+  "titulo": "Yuuna e a pensão assombrada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Aventura. Romance.",
+  "palavras_chave": "miura yuuna pensao assombrada",
+  "edicao_id": 4668,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 182,
+  "peso": 210,
+  "isbn": "9788542623963",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Deixa que a Yaya aqui lava as suas costas...</p><p>A viagem escolar à praia chegou ao seu último dia. Quem será que o Kogarashi escolheu pra dançar coladinho em frente à fogueira?! Depois das confusões da viagem, Kogarashi e Sagiri montam um grupo de estudo para se dedicarem às provas finais! Aproveitando-se desse momento, Oboro oferece ao grupo uma raspadinha contendo uma incrível... poção do amor!</p>",
+  "sinopse": "A viagem escolar à praia chega ao seu ápice com danças ao redor da fogueira e ressurge em confusões que levam Kogarashi e Sagiri a formarem um grupo de estudos. Oboro causa surpresas trazendo uma poção do amor em um momento crucial.",
+  "exemplar_id": 4667,
+  "sku": "LI02HZ",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__capa__2026-02-20_10-30-11-392073-000.png",
+  "contracapa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__contracapa__2026-02-20_10-30-11-405086-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com sobrecapa e capas sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

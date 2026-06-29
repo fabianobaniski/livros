@@ -1,0 +1,68 @@
+{
+  "obra_id": 3650,
+  "autor": "Jean-Paul Sartre",
+  "titulo": "Idade da razão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "sartre idade razao",
+  "edicao_id": 3627,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 367,
+  "peso": 470,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Centrado no professor de filosofia Mathieu Delarue, o livro explora a angústia da liberdade individual e o conceito de compromisso existencial em Paris às vésperas da Segunda Guerra Mundial, enquanto o protagonista busca desesperadamente dinheiro para financiar o aborto de sua amante.",
+  "exemplar_id": 3626,
+  "sku": "LI02F9",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/jean-paul-sartre--idade-da-razao--capa--20251114--185004.png",
+  "contracapa": "static/uploads/jean-paul-sartre--idade-da-razao--contracapa--20251114--185011.png",
+  "fotos": [
+    "static/uploads/jean-paul-sartre--idade-da-razao--foto1--20251113--211006.jpg",
+    "static/uploads/jean-paul-sartre--idade-da-razao--foto2--20251113--211006.jpg",
+    "static/uploads/jean-paul-sartre--idade-da-razao--foto3--20251113--211006.jpg",
+    "static/uploads/jean-paul-sartre--idade-da-razao--foto4--20251113--211006.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:04:14",
+  "observacoes": null
+}

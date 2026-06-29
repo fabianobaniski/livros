@@ -1,0 +1,63 @@
+{
+  "obra_id": 2739,
+  "autor": "André Lévy",
+  "titulo": "Novas cartas do Extremo Oriente",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "levy novas cartas extremo",
+  "edicao_id": 2719,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 244,
+  "peso": 300,
+  "isbn": "9788585095680",
+  "editora": "Companhia das Letras",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Inspiradas nas cartas de missionários jesuítas, estas cartas descrevem a visão dos chineses sobre o Ocidente durante a Belle Époque. A obra destaca o contraste entre as culturas e mostra a curiosidade e a surpresa dos viajantes chineses ao explorar sociedades industrializadas. André Lévy, que cresceu na China e é especialista em literatura chinesa, traz uma perspectiva única, explorando aspectos políticos, sociais e sexuais do Ocidente com abertura de espírito e tolerância.",
+  "exemplar_id": 2718,
+  "sku": "LI01Q3",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/novas-cartas-do-extremo-oriente-andre-levy-capa_rev1331.jpg",
+  "contracapa": "static/uploads/novas-cartas-do-extremo-oriente-andre-levy-contracapa_rev1041.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:22:28",
+  "observacoes": null
+}

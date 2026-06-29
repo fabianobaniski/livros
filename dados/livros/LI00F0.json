@@ -1,0 +1,63 @@
+{
+  "obra_id": 577,
+  "autor": "Douglas Nobbs",
+  "titulo": "Teocracia e tolerância",
+  "subtitulo": "Um estudo das controvérsias no calvinismo holandês de 1600 a 1650",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Calvinismo. História.",
+  "palavras_chave": "nobbs teocracia tolerancia",
+  "edicao_id": 562,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 295,
+  "peso": 400,
+  "isbn": "9788581581569",
+  "editora": "BV acadêmico",
+  "numero_edicao": 1,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esse livro traz um relato envolvente das principais controvérsias dentro do Calvinismo holandês entre os anos 1600 e 1650. Embora a relação da Igreja com o Estado tenha sido debatida por todo o século XVII na Holanda, duas controvérsias na primeira metade foram mais significativas porque ambas começaram no interior do próprio Calvinismo. A primeira dessas controvérsias surgiu do desafio arminiano dentro da Igreja Calvinista e durou de 1609 até 1618, quando o Sínodo de Dort expulsou os arminianos da Igreja e Maurice, o Estatuder, expulsou da Holanda os seus líderes. A segunda controvérsia começou em 1637 quando Vedelius ensinou em Deventer a teoria da magistratura, que era desconhecida pela tradição calvinista desde 1618.</p><p>Informações detalhadas são apresentadas tanto sobre as controvérsias quanto sobre o contexto histórico no qual ocorreram.</p>",
+  "sinopse": "Este livro oferece uma análise profunda das controvérsias centrais do Calvinismo holandês entre 1600 e 1650. A obra discute as relações entre a Igreja e o Estado na Holanda do século XVII, destacando duas controvérsias significativas que emergiram da própria estrutura do Calvinismo. A primeira refere-se ao desafio arminiano, que levou à expulsão de seus líderes pelo Sínodo de Dort, e a segunda envolve questões sobre a teoria da magistratura. Uma leitura essencial para entender o contexto histórico e teológico desses debates.",
+  "exemplar_id": 561,
+  "sku": "LI00F0",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/douglas-nobbs--teocracia-e-toler-ncia--capa--20250227--152851.jpg",
+  "contracapa": "static/uploads/douglas-nobbs--teocracia-e-toler-ncia--contracapa--20250227--152851.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:56:31",
+  "observacoes": null
+}

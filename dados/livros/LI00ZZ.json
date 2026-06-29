@@ -1,0 +1,68 @@
+{
+  "obra_id": 1796,
+  "autor": "Rodney Wernke",
+  "titulo": "Análise de custos e preços de venda",
+  "subtitulo": "Ênfase em aplicações e casos nacionais",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Contabilidade de custos. Gestão de custos. Realidade brasileira.",
+  "palavras_chave": "wernke analise custos precos venda",
+  "edicao_id": 1776,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 201,
+  "peso": 360,
+  "isbn": "9788502051911",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Análise de Custos e Preços de Venda</b></p><p>A literatura voltada à análise de custos é farta no mercado nacional. Porém, poucas se dedicam ao estudo da realidade brasileira. <i>Análise de custos e preços de venda</i> surge para preencher uma lacuna e oferecer aos estudantes e profissionais de Administração de Empresas e Contabilidade um aliado na arte de gerenciar corporações, independente de sua área de atuação.</p><p>De linguagem acessível, o livro analisa as principais ferramentas gerenciais aplicáveis na análise de custos e preços de vendas, divididas em quatro partes: Conceitos e Classificações; Métodos de Custeio; Análise de Custo, Volume e Lucro e Análise de Preços de Vendas. Reforça suas vantagens e desvantagens a partir da realidade brasileira, o que o torna único na área e representa um importante diferencial para seus leitores.</p><p>Finalmente, uma extensa lista de estudos de casos e exercícios para fixação dos conceitos apresentados complementa o conteúdo didático desta obra. Sem dúvida, uma obra para auxiliar alunos e profissionais na formulação de políticas e estratégias empresariais.</p><p><b>APLICAÇÃO:</b></p><p>Este livro pode ser utilizado nas seguintes disciplinas: Contabilidade de Custos, Gestão de Custos.</p><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço: <br>www.saraivauni.com.br</p>",
+  "sinopse": "Voltado para estudantes e profissionais de Administração de Empresas e Contabilidade, este livro aborda de forma acessível as principais ferramentas para análise de custos e preços de venda, com exemplos baseados na realidade brasileira. Dividido em quatro partes — Conceitos e Classificações, Métodos de Custeio, Análise de Custo, Volume e Lucro, e Análise de Preços de Vendas —, a obra também traz estudos de caso e exercícios práticos, servindo como apoio didático na formulação de políticas e estratégias empresariais.",
+  "exemplar_id": 1775,
+  "sku": "LI00ZZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/rodney-wernke--an-lise-de-custos-e-pre-os-de-venda--capa--20250430--102948.jpg",
+  "contracapa": "static/uploads/rodney-wernke--an-lise-de-custos-e-pre-os-de-venda--contracapa--20250430--102948.jpg",
+  "fotos": [
+    "static/uploads/rodney-wernke--an-lise-de-custos-e-pre-os-de-venda--foto1--20250430--102948.jpg",
+    "static/uploads/rodney-wernke--an-lise-de-custos-e-pre-os-de-venda--foto2--20250430--102948.jpg",
+    "static/uploads/rodney-wernke--an-lise-de-custos-e-pre-os-de-venda--foto3--20250430--102948.jpg",
+    "static/uploads/rodney-wernke--an-lise-de-custos-e-pre-os-de-venda--foto4--20250430--102948.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:25:35",
+  "observacoes": "procedencia_biblioteca"
+}

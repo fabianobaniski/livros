@@ -1,0 +1,63 @@
+{
+  "obra_id": 4666,
+  "autor": "Junya Inoue",
+  "titulo": "Btooom!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Jogos eletrônicos. Sobrevivência.",
+  "palavras_chave": "inoue btooom",
+  "edicao_id": 4641,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 190,
+  "isbn": "9788577878079",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Ryota Sakamoto é um jovem desempregado que vive com a mãe e passa o dia todo jogando online. Um dia, ele acorda em uma ilha deserta e se vê em uma versão real de Btooom, seu jogo favorito. Para sobreviver, o jovem deverá derrotar os outros participantes dessa disputa mortal.</p>",
+  "sinopse": "Ryota Sakamoto é um jovem que passa o dia jogando 'Btooom' online. Um dia, ele se vê preso em uma versão real do jogo em uma ilha deserta. Para sobreviver, ele deve derrotar outros participantes nesta luta mortal.",
+  "exemplar_id": 4640,
+  "sku": "LI02H8",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/btooom__junya-inoue__capa__2026-02-20_10-30-03-198496-000.png",
+  "contracapa": "static/uploads/btooom__junya-inoue__contracapa__2026-02-20_10-30-03-249085-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado muito bem conservado, com capa e contracapa sem danos e lombada reta. O exemplar não possui grifos, anotações, rabiscos, carimbos ou etiquetas. Miolo íntegro e sem folhas soltas. "
+  },
+  "disponivel": 0,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 13:58:54",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1785,
+  "autor": "Antonio Cesar Amaru Maximiano",
+  "titulo": "Teoria geral da administração",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Teoria das organizações. Processo administrativo. Fundamentos da administração. História da administração.",
+  "palavras_chave": "maximiano teoria geral administracao",
+  "edicao_id": 1765,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 353,
+  "peso": 630,
+  "isbn": "9788522445080",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Teoria Geral da Administração | Edição Compacta</b></p><p>Este livro apresenta o panorama dos conceitos mais influentes para a administração das empresas e organizações de todos os tipos. O texto foi planejado para atender a um curso superior de administração, com ênfase na história e no encadeamento dos eventos e das ideias a respeito do processo de administrar organizações.</p><p>Nesta edição compacta, foram preservadas todas as características da edição plena. Para atender ao interesse pela administração empreendedora, foi acrescentado nesta edição um capítulo sobre esse assunto.</p><p>A obra está dividida em seis partes, que compreendem 22 capítulos: I – Fundamentos da administração; II – Escola clássica; III – Da escola clássica ao modelo japonês; IV – Enfoque comportamental; V – Evolução do processo administrativo; VI – Organizações no Terceiro Milênio.</p><p>Além do texto, foram preparados estudos de casos, que se encontram no final de cada um dos capítulos.</p><b>APLICAÇÃO</b><p>Livro-texto para as disciplinas TEORIA GERAL DA ADMINISTRAÇÃO, TEORIA DAS ORGANIZAÇÕES, PROCESSO ADMINISTRATIVO e FUNDAMENTOS DA ADMINISTRAÇÃO dos cursos de Administração, Contabilidade, Economia, Engenharia, Medicina, Comunicações, Direito e outros cursos técnicos de nível superior. Leitura recomendada para cursos que enfatizam o estudo das organizações, do pensamento administrativo e do papel gerencial.</p>",
+  "sinopse": "O livro apresenta um panorama dos principais conceitos da administração, planejado para cursos superiores. Aborda a evolução das ideias administrativas, desde os fundamentos até organizações no Terceiro Milênio, agregando um capítulo sobre administração empreendedora. Com seis partes e 22 capítulos, mantém estudos de caso ao final de cada capítulo, sendo recomendado para disciplinas e cursos ligados à administração, economia, engenharia e áreas afins.",
+  "exemplar_id": 1764,
+  "sku": "LI00ZO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/antonio-cesar-amaru-maximiano--teoria-geral-da-administra--o--capa--20250430--102946.jpg",
+  "contracapa": "static/uploads/antonio-cesar-amaru-maximiano--teoria-geral-da-administra--o--contracapa--20250430--102946.jpg",
+  "fotos": [
+    "static/uploads/antonio-cesar-amaru-maximiano--teoria-geral-da-administra--o--foto1--20250430--102946.jpg",
+    "static/uploads/antonio-cesar-amaru-maximiano--teoria-geral-da-administra--o--foto2--20250430--102946.jpg",
+    "static/uploads/antonio-cesar-amaru-maximiano--teoria-geral-da-administra--o--foto3--20250430--102946.jpg",
+    "static/uploads/antonio-cesar-amaru-maximiano--teoria-geral-da-administra--o--foto4--20250430--102946.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:59:04",
+  "observacoes": "procedencia_biblioteca"
+}

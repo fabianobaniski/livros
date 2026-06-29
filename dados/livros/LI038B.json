@@ -1,0 +1,68 @@
+{
+  "obra_id": 5875,
+  "autor": "Jemima Dunne; Globo Estilo",
+  "titulo": "O livro da moto",
+  "subtitulo": "Enciclopédia visual",
+  "idioma": "Português",
+  "categoria": "Enciclopédias",
+  "temas": "Motociclismo. História das motocicletas. Engenharia. Ilustração visual.",
+  "palavras_chave": "livro moto enciclopedia visual",
+  "edicao_id": 5850,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 320,
+  "peso": 1950,
+  "isbn": "9788525052391",
+  "editora": "Globo Estilo",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>O Livro da Moto</i> é uma viagem memorável pela história das motocicletas com incríveis detalhes visuais. Incluindo mais de mil modelos, esta enciclopédia ilustrada abrange desde a adaptação das bicicletas com motores no final do século XIX até as ecológicas motos elétricas do novo milênio. Um guia definitivo para amantes da velocidade.</p>",
+  "sinopse": "O Livro da Moto é uma enciclopédia visual que percorre a história das motocicletas, apresentando mais de mil modelos e destacando incríveis detalhes visuais. A obra cobre desde as primeiras bicicletas motorizadas do século XIX até as motocicletas elétricas contemporâneas, tornando-se um guia essencial para apaixonados por velocidade e tecnologia sobre duas rodas.",
+  "exemplar_id": 5849,
+  "sku": "LI038B",
+  "preco_estante_virtual": 210.0,
+  "preco_amazon": 210.0,
+  "capa": "static/uploads/o-livro-da-moto__enciclopedia-visual__none__capa__2026-01-18_14-12-51-208059-000.png",
+  "contracapa": "static/uploads/o-livro-da-moto__enciclopedia-visual__none__contracapa__2026-01-18_14-12-51-260588-001.png",
+  "fotos": [
+    "static/uploads/o-livro-da-moto__enciclopedia-visual__none__foto-01__2026-01-18_14-12-51-304594-002.jpg",
+    "static/uploads/o-livro-da-moto__enciclopedia-visual__none__foto-02__2026-01-18_14-12-51-339069-003.jpg",
+    "static/uploads/o-livro-da-moto__enciclopedia-visual__none__foto-03__2026-01-18_14-12-51-382944-004.jpg",
+    "static/uploads/o-livro-da-moto__enciclopedia-visual__none__foto-04__2026-01-18_14-12-51-417701-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:24:50",
+  "observacoes": null
+}

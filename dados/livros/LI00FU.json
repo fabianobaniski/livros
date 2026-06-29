@@ -1,0 +1,63 @@
+{
+  "obra_id": 607,
+  "autor": "Jean Carlos da Silva Alcantara",
+  "titulo": "Sintaxe Tessalonicenses",
+  "subtitulo": "1 Tess 1-5 Versículo por Versículo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Exegese. Análise bíblica.",
+  "palavras_chave": "alcantara sintaxe tessalonicenses",
+  "edicao_id": 592,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 350,
+  "peso": 350,
+  "isbn": "9788568485019",
+  "editora": "JCS Publicações",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<h1>Sintaxe de Tessalonicenses - Obra em 3 volumes</h1><p>Volume 2 - 1 Tessalonicenses 1-5</p><p>Professor Jean Carlos da Silva Alcantara</p><p>11 98296 5144 - professorjeancarlos@bol.com.br</p><p>Sintático - Morfológico - Analítico - Teológico - Histórico</p><p>Quadro comparativo das principais versões em língua portuguesa</p><p>A comunidade teológica brasileira está de parabéns, pois Deus tem levantado dentre os expositores da teologia bíblica, um jovem teólogo que, muito mais que escrever e comentar uma obra paulina, tem se preocupado em brindar um profundo e eficiente instrumento de ajuda para o estudo bíblico do leitor que deseja ter um maior conhecimento das Escrituras.</p><p>O Professor Dr. Jean Carlos da Silva, que é teólogo e escritor, traduz de forma simples e ao alcance de todos, o livro de Tessalonicenses, partindo do princípio de comparar Escritura com Escritura, usando o texto original grego e as diferentes traduções da Bíblia, faz com que o texto seja mais acessível e compreensível ao leitor comum da Bíblia.</p>",
+  "sinopse": "Sintaxe Tessalonicenses é uma obra que se propõe a apresentar uma análise aprofundada das cartas de Paulo aos tessalonicenses, recursos teológicos e comparativos que atendem tanto aos estudiosos quanto aos leigos. A obra é descrita como um instrumento eficiente para compreender melhor as Escrituras, utilizando uma abordagem sintetizada e acessível, unindo diferentes traduções e a exposição morfológica e teológica do texto original.",
+  "exemplar_id": 591,
+  "sku": "LI00FU",
+  "preco_estante_virtual": 80.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/jean-carlos-da-silva-alcantara--sintaxe-tessalonicenses--capa--20250227--152853.jpg",
+  "contracapa": "static/uploads/jean-carlos-da-silva-alcantara--sintaxe-tessalonicenses--contracapa--20250227--152853.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:26:36",
+  "observacoes": null
+}

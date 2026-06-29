@@ -1,0 +1,63 @@
+{
+  "obra_id": 2835,
+  "autor": "Alexandre Rossi; Paula Itikawa",
+  "titulo": "Os segredos dos gatos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "itikawa segredos dos gatos",
+  "edicao_id": 2815,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 238,
+  "peso": 300,
+  "isbn": "9788525045232",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Os gatos sempre intrigaram seus donos por serem, ao mesmo tempo, independentes e afetuosos. Suas necessidades, como a melhor forma de alimentação, tratamento e até a possibilidade de serem treinados, são questões que deixam muitas pessoas em dúvida. Este livro ilustrado busca responder a essas perguntas e desvendar os mistérios felinos, oferecendo dicas valiosas sobre comportamento e adestramento, com a expertise de Alexandre Rossi, especialista em comportamento animal, e Paula Itikawa, veterinária em pequenos animais.",
+  "exemplar_id": 2814,
+  "sku": "LI01SR",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/os-segredos-dos-gatos-alexandre-rossi-e-paula-itikawa-capa_rev1460.jpg",
+  "contracapa": "static/uploads/os-segredos-dos-gatos-alexandre-rossi-e-paula-itikawa-contracapa_rev601.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado. Sem grifos ou anotações. Primeira orelha possui restos de etiqueta parcialmente retirada."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:26:23",
+  "observacoes": null
+}

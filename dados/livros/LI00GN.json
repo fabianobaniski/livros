@@ -1,0 +1,63 @@
+{
+  "obra_id": 636,
+  "autor": "Martin K. Bussey",
+  "titulo": "A mensagem de Amós",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Exegese. Aplicação bíblica.",
+  "palavras_chave": "bussey mensagem amos",
+  "edicao_id": 621,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 120,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Publicações Evangélicas Selecionadas",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Uma das maiores necessidades da Igreja atual é a cuidadosa e vigorosa exposição da Palavra de Deus. O autor deste conciso e valioso comentário nos oferece exatamente isso. Ele faz uma exposição acurada que busca revelar o sentido original do texto aplicando-o à situação atual. Dessa maneira podemos discernir com clareza o que Deus está nos dizendo e como devemos viver para a Sua glória.</p>",
+  "sinopse": "Este livro aborda a necessidade da Igreja de uma exposição cuidadosa da Palavra de Deus, oferecendo um comentário preciso e aplicável às situações contemporâneas, a fim de que possamos discernir a vontade divina.",
+  "exemplar_id": 620,
+  "sku": "LI00GN",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/martin-k--bussey--a-mensagem-de-am-s--capa--20250227--152854.jpg",
+  "contracapa": "static/uploads/martin-k--bussey--a-mensagem-de-am-s--contracapa--20250227--152854.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:33:30",
+  "observacoes": null
+}

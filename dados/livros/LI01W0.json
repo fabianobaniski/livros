@@ -1,0 +1,63 @@
+{
+  "obra_id": 2952,
+  "autor": "Ernst Lindner",
+  "titulo": "Toxicologia de los alimentos",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "lindner toxicologia los alimentos",
+  "edicao_id": 2932,
+  "encadernacao": null,
+  "quantidade_paginas": 262,
+  "peso": 450,
+  "isbn": "9789505045389",
+  "editora": "Editorial Acribia, S. A.",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra aborda o interesse crescente da Toxicologia Alimentar em investigar os compostos formados durante o preparo de alimentos, especialmente aqueles relacionados a potenciais efeitos nocivos à saúde. A pesquisa destaca a importância de entender as substâncias mutagênicas presentes em proteínas e produtos alimentares e os avanços obtidos por novas investigações. Além disso, o texto enfatiza a relevância de continuar estudando as reações químicas nos alimentos, ampliando o conhecimento sobre os riscos e prevenções na dieta moderna.",
+  "exemplar_id": 2931,
+  "sku": "LI01W0",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/toxicologia-de-los-alimentos-ernst-lindner-capa_rev1628.jpg",
+  "contracapa": "static/uploads/toxicologia-de-los-alimentos-ernst-lindner-contracapa_rev1260.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Capas e lombada sem perdas; lombada reta; miolo firme e sem folhas soltas; texto livre de anotações e sublinhados. Consta, apenas, pequeno carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:27:52",
+  "observacoes": null
+}

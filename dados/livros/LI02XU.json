@@ -1,0 +1,63 @@
+{
+  "obra_id": 5274,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Terror. Suspense. Vida adolescente.",
+  "palavras_chave": "oshimi happiness",
+  "edicao_id": 5249,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 187,
+  "peso": 210,
+  "isbn": "9788583621966",
+  "editora": "New Pop",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p><b>Certa noite</b>, eu fui atacado por uma <b>garota misteriosa</b> e <b>precisei</b> tomar uma <b>decisão</b>.</p><p>Depois disso, a minha <b>vida cotidiana</b> ordinária mudou <b>completamente</b>...</p><p>A “<b>cicatriz</b>” no <b>pescoço</b>.</p><p>A “<b>sede</b>” incessante por <b>algo</b>.</p><p><b>Makoto</b> era um <b>garoto sereno</b>, qual o <b>destino</b> que espera por ele?!</p>",
+  "sinopse": "Makoto, um garoto sereno, encontra seu destino alterado após ser atacado por uma garota misteriosa. Com uma cicatriz no pescoço e uma sede incessante, sua vida cotidiana muda completamente, levando-o a enfrentar decisões que o transformarão.",
+  "exemplar_id": 5248,
+  "sku": "LI02XU",
+  "preco_estante_virtual": 38.0,
+  "preco_amazon": 48.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2026-02-20_10-33-04-899587-000.png",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2026-02-20_10-33-04-937765-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Apresenta apenas mínimos vestígios de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

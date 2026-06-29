@@ -1,0 +1,68 @@
+{
+  "obra_id": 1340,
+  "autor": "Cyro Bernardes; Reynaldo C. Marcondes",
+  "titulo": "Teoria geral da administração",
+  "subtitulo": "Gerenciando organizações",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Teoria administrativa. Gestão de organizações.",
+  "palavras_chave": "bernardes teoria geral administracao",
+  "edicao_id": 1323,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 268,
+  "peso": 600,
+  "isbn": "9788502036307",
+  "editora": "Saraiva",
+  "numero_edicao": 3,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Teoria Geral da Administração – gerenciando organizações</h1><p>Se você está lendo estas linhas é porque o título despertou seu interesse por ensinar Administração ou estar se preparando para enfrentar o exame que foi denominado \"prova\". É possível, também, que tenha uma empresa ou seja gerente, e ainda, de alguma forma, participe de organização pública ou particular. Em qualquer desses casos, seu desejo é conhecer teorias e práticas para serem aplicados no trabalho diário de administrar.</p><p>Para atender pessoas como você e que foi escrito este livro, expondo as Teorias de Administração e como elas devem ser utilizadas no dia-a-dia para, neste terceiro milênio, criar, expandir e manter organizações viáveis.</p><p>Além disso, o texto difere dos existentes por dois aspectos pouco mencionados pela literatura: as organizações se destinam a satisfazer as necessidades de clientes e, também, os objetivos das pessoas que nelas participam, sem o que não teriam razão de existir.</p><p>No caso particular das empresas, elas necessitam ter lucros suficientes para compensar o capital investido e reter remuneradamente quem nelas trabalha, sem o que não sobreviveriam.</p><p>Tendo por meta obter tais conhecimentos e orientar suas aplicações práticas, a metodologia de ensino proposta é a de auto-aprendizagem; na qual o professor ou professora não expõe a matéria. Em sua instituição, instrui, orienta e coordena os trabalhos, bem como esclarece dúvidas e retotalizações para os alunos e as alunas ficarem a par de como sua aprendizagem está se desenvolvendo.</p><p>Para completar o texto foi preparado o Manual do Professor, cuja meta é facilitar o trabalho dos que ministram a disciplina a dos que dela participam. Todos eles poderão aproveitar melhor esse livro e conhecer detalhes de programas acessados no site qual este Manual está hospedado: <a href=\"http://www.saraivauni.com.br\">www.saraivauni.com.br</a>. Ele também apresenta acesso a figuras constantes do livro, para downloads com o fim de justificar as apresentações a serem feitas na sala de aula.</p>",
+  "sinopse": "O livro apresenta a Teoria Geral da Administração, abordando conceitos fundamentais para a gestão eficaz de organizações. Destaca a importância de satisfazer as necessidades dos clientes e os objetivos dos participantes, além de oferecer uma metodologia de ensino voltada para auto-aprendizagem, facilitando a compreensão e aplicação de teorias administrativas no cotidiano.",
+  "exemplar_id": 1322,
+  "sku": "LI00S7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/cyro-bernardes--teoria-geral-da-administra--o--capa--20250401--114914.png",
+  "contracapa": "static/uploads/cyro-bernardes--teoria-geral-da-administra--o--contracapa--20250401--114914.png",
+  "fotos": [
+    "static/uploads/cyro-bernardes--teoria-geral-da-administra--o--foto1--20250401--114914.jpg",
+    "static/uploads/cyro-bernardes--teoria-geral-da-administra--o--foto2--20250401--114914.jpg",
+    "static/uploads/cyro-bernardes--teoria-geral-da-administra--o--foto3--20250401--114914.jpg",
+    "static/uploads/cyro-bernardes--teoria-geral-da-administra--o--foto4--20250401--114914.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:58:44",
+  "observacoes": "procedencia_biblioteca"
+}

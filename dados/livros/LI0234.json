@@ -1,0 +1,63 @@
+{
+  "obra_id": 3208,
+  "autor": "Jim Acosta",
+  "titulo": "O Inimigo do Povo",
+  "subtitulo": "uma época Perigosa para Dizer a Verdade",
+  "idioma": "Português",
+  "categoria": "Comunicação",
+  "temas": null,
+  "palavras_chave": "acosta inimigo povo uma",
+  "edicao_id": 3188,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 382,
+  "peso": 500,
+  "isbn": "9788595086074",
+  "editora": "Harper Collins",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Durante a tumultuada campanha presidencial de 2016 nos EUA, a imprensa enfrentou um dos períodos mais desafiadores de sua história. Este relato mostra o compromisso de um repórter em questionar o poder e buscar a verdade, mesmo diante de ataques constantes e acusações de fake news. Em meio a um cenário onde fatos antes universais passaram a ser contestados, a luta pelo jornalismo honesto tornou-se ainda mais urgente. Uma reflexão sobre ética, resistência e a importância de relatar notícias reais em tempos de crise.",
+  "exemplar_id": 3187,
+  "sku": "LI0234",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:22:29",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

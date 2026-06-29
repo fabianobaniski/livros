@@ -1,0 +1,63 @@
+{
+  "obra_id": 2940,
+  "autor": "Mary Renault",
+  "titulo": "The mask of Apollo",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "renault the mask apollo",
+  "edicao_id": 2920,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 371,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Vintage",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Ambientado na Grécia do século IV a.C., *The Mask of Apollo* segue Nikeratos, um ator trágico que carrega consigo uma máscara de ouro de Apolo, símbolo de um teatro que já teve seus dias de glória. A máscara, inicialmente um amuleto, torna-se sua consciência enquanto ele enfrenta dilemas profundos. No centro da narrativa, Nikeratos se vê envolvido em uma crise política que também inclui o filósofo Platão. A ação se passa em Siracusa, onde Dion luta para convencer o tirano Dionísio a aceitar o Estado de direito. Através dos olhos de Nikeratos, o leitor acompanha o confronto e a violência crescente na cidade.",
+  "exemplar_id": 2919,
+  "sku": "LI01VO",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/the-mask-of-apollo-mary-renault-capa_rev2107.jpg",
+  "contracapa": "static/uploads/the-mask-of-apollo-mary-renault-contracapa_rev1787.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fortemente amarelado, com pequenos sinais decorrente do uso. Miolo em bom estado, sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:23",
+  "observacoes": null
+}

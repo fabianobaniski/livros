@@ -1,0 +1,63 @@
+{
+  "obra_id": 715,
+  "autor": "William MacDonald",
+  "titulo": "O discipulado verdadeiro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Discipulado. Crescimento espiritual.",
+  "palavras_chave": "macdonald discipulado verdadeiro",
+  "edicao_id": 700,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 158,
+  "peso": 300,
+  "isbn": "9788573255744",
+  "editora": "Mundo Cristão",
+  "numero_edicao": 2,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A nova vida em Cristo, que desponta como um recomeço triunfante, sem a árdua fundamentação do discipulado pode fazer de cristãos sinceros crentes medíocres.</p> <p>Em sua obra mais conhecida, cuja circulação supera a surpreendente marca de um milhão de exemplares, William MacDonald alerta para o risco de se perder o necessário zelo pelas coisas de Deus.</p> <p>O autor ap aponta os caminhos para trilhar a jornada do verdadeiro discípulado, a fim de que a paixão da conversão seja solidificada diariamente e se transforme em genuíno amor por Deus.</p> <p>WILLIAM MACDONALD (1917-2007) escreveu mais de 84 obras e dedicou-se ao ensino bíblico nos últimos 60 anos de sua vida.</p>",
+  "sinopse": "O discipulado verdadeiro é uma obra que explora a nova vida em Cristo, destacando a importância de um recomeço triunfante e a necessidade do zelo no discipulado. William MacDonald direciona os leitores a solidificar sua fé diariamente, enfatizando o amor genuíno por Deus.",
+  "exemplar_id": 699,
+  "sku": "LI00IU",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/william-macdonald--o-discipulado-verdadeiro--capa--20250227--152859.jpg",
+  "contracapa": "static/uploads/william-macdonald--o-discipulado-verdadeiro--contracapa--20250227--152859.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Não possui marcas de umidade, mofo ou traça. Uma minoria das páginas apresenta grifos feitos com caneta destaca-texto."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:03:10",
+  "observacoes": null
+}

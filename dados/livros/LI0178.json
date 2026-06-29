@@ -1,0 +1,68 @@
+{
+  "obra_id": 2059,
+  "autor": "Nicola Minervini",
+  "titulo": "O exportador",
+  "subtitulo": "Ferramentas para atuar com sucesso no mercado internacional",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Negócios internacionais. Exportação. Comércio exterior.",
+  "palavras_chave": "minervini exportador",
+  "edicao_id": 2039,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 268,
+  "peso": 460,
+  "isbn": "9788576051817",
+  "editora": "Pearson",
+  "numero_edicao": 5,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>EXPORTAR COM MÉTODO</b><br><p>O sucesso e a lucratividade com a exportação não precisam depender de sorte ou de conjunturas favoráveis; podem ser obtidos com mais segurança ao se seguir a metodologia para a gestão da exportação que o consultor internacional Nicola Minervini traz nesta 5ª edição de <b>O exportador</b><br>Ferramentas para atuar com sucesso no mercado internacional</p><p>Completamente revista e atualizada, esta edição apresenta a teoria e a prática de todos os aspectos fundamentais para uma estratégia vencedora de comércio internacional, tais como normas para elaboração de contratos de agente, regras de consórcios de exportação, táticas de redução de custos na gestão da exportação e normas internacionais de negociação, entre outros.</p><p>Escrito em uma linguagem clara e prática e apoiado pelos recursos do site exclusivo, <b>O exportador</b> ajuda o leitor a desenvolver, com sucesso, estratégias e vantagens competitivas em mercados globais.</p><p>Com um destaque especial para pequenas e médias empresas, esta edição é uma ferramenta de sucesso para profissionais e empresários que já trabalham ou planejam trabalhar com exportação, assim como para professores e estudantes de cursos de comércio exterior.</p><p>www.prenhall.com/minervini_br<br>Site de apoio com apresentações em PowerPoint, banco de questões e sugestões de atividades para professores e com o programa Export Check-up, arquivo de check-lists e links de sites para os leitores e estudantes.</p>",
+  "sinopse": "Esta obra aborda a teoria e a prática dos principais aspectos para o sucesso na exportação, reunindo metodologias e estratégias essenciais para a gestão de exportações. Revisada e atualizada, a 5ª edição trata de normas contratuais, consórcios de exportação, táticas de redução de custos e negociação internacional, destacando-se pelo apoio especial a pequenas e médias empresas. Indicada tanto para profissionais do ramo quanto para professores e estudantes de comércio exterior, também oferece recursos exclusivos online.",
+  "exemplar_id": 2038,
+  "sku": "LI0178",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/nicola-minervini--o-exportador--capa--20250430--104527.jpg",
+  "contracapa": "static/uploads/nicola-minervini--o-exportador--contracapa--20250430--104527.jpg",
+  "fotos": [
+    "static/uploads/nicola-minervini--o-exportador--foto1--20250430--104527.jpg",
+    "static/uploads/nicola-minervini--o-exportador--foto2--20250430--104527.jpg",
+    "static/uploads/nicola-minervini--o-exportador--foto3--20250430--104527.jpg",
+    "static/uploads/nicola-minervini--o-exportador--foto4--20250430--104527.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:07:14",
+  "observacoes": "procedencia_biblioteca"
+}

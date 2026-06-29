@@ -1,0 +1,63 @@
+{
+  "obra_id": 2637,
+  "autor": "Bernard Brunhes",
+  "titulo": "La dégradation de l' énergie",
+  "subtitulo": "",
+  "idioma": "Francês",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "brunhes degradation lenergie",
+  "edicao_id": 2617,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 10,
+  "peso": 250,
+  "isbn": "9782080812513",
+  "editora": "Flammarion",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "No século XIX, a física presenciou o surgimento da termodinâmica, uma ciência que permanece essencial. Dois princípios fundamentais a regem: a conservação da energia e o da degradação da energia, este último tema central deste livro. Descoberto por Carnot e refinado por Clausius, o princípio da dissipação de energia explica a irreversibilidade dos fenômenos físicos. Escrito no início do século, esta obra teve grande influência em cientistas renomados, como Louis de Broglie, consolidando-se como uma referência na física moderna.",
+  "exemplar_id": 2616,
+  "sku": "LI01N9",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/bernard-brunhes--la-degradation-de-lenergie--capa--20260316--214055.jpg",
+  "contracapa": "static/uploads/bernard-brunhes--la-degradation-de-lenergie--contracapa--20260316--214055.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, em bom estado, embora um pouco marcado pelo uso. Texto contém sublinhados à lápis em cerca e  Papel sem manchas, apenas o corte está um pouco sujo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:02:36",
+  "observacoes": null
+}

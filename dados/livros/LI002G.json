@@ -1,0 +1,68 @@
+{
+  "obra_id": 103,
+  "autor": "Neil Gaiman",
+  "titulo": "O oceano no fim do caminho",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura fantástica. Memórias. Infância.",
+  "palavras_chave": "gaiman oceano caminho",
+  "edicao_id": 101,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 205,
+  "peso": 350,
+  "isbn": "9788580573688",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Uma fábula que nos lembra como nossa vida é ditada pelas experiências da infância. O que ganhamos com elas e o preço que pagamos.\"</p><p>Kirkus Reviews</p>",
+  "sinopse": "A obra narra uma história cheia de memórias e experiências que moldam a vida de uma pessoa, refletindo sobre como as vivências da infância influenciam o futuro. Ela explora temas como a imaginação, a realidade e o preço que se paga pelas experiências vividas.",
+  "exemplar_id": 100,
+  "sku": "LI002G",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/neil-gaiman--o-oceano-no-fim-do-caminho--capa--20250226--114050.jpg",
+  "contracapa": "static/uploads/neil-gaiman--o-oceano-no-fim-do-caminho--contracapa--20250226--114050.jpg",
+  "fotos": [
+    "static/uploads/neil-gaiman--o-oceano-no-fim-do-caminho--foto1--20250226--114050.jpg",
+    "static/uploads/neil-gaiman--o-oceano-no-fim-do-caminho--foto2--20250226--114050.jpg",
+    "static/uploads/neil-gaiman--o-oceano-no-fim-do-caminho--foto3--20250226--114050.jpg",
+    "static/uploads/neil-gaiman--o-oceano-no-fim-do-caminho--foto4--20250226--114050.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:32:56",
+  "observacoes": null
+}

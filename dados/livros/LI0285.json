@@ -1,0 +1,68 @@
+{
+  "obra_id": 3394,
+  "autor": "Sugaru Miaki; Shouichi Taguchi",
+  "titulo": "I sold my life",
+  "subtitulo": "For ten thousand yen per year",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Romance contemporâneo. Drama existencial. Reflexão sobre a vida e felicidade.",
+  "palavras_chave": "miaki sold life ten thousand yen year",
+  "edicao_id": 3371,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "9788545714989",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Faltam apenas dois meses para a vida de Kusunoki terminar. Enquanto passava por momentos inesquecíveis com sua “monitora” Miyagi, o jovem procurava uma forma de salvá-la.<br> E no final, a solução que ele encontrou foi…<br>Volume final da adaptação para mangá de “Três dias de felicidade”, romance de sucesso de autoria de Sugaru Miaki.</p>",
+  "sinopse": "Com apenas dois meses restantes de vida, Kusunoki tenta salvar Miyagi, sua monitora, enquanto ambos compartilham momentos inesquecíveis. Este volume conclui a adaptação em mangá do romance 'Três dias de felicidade', de Sugaru Miaki, mostrando a busca do protagonista por uma solução definitiva para seu destino.",
+  "exemplar_id": 3370,
+  "sku": "LI0285",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/i-sold-my-life__for-ten-thousand-yen-per-year__sugaru-miaki-shouichi-taguchi__capa__2025-11-05_16-14-57-722345.jpg",
+  "contracapa": "static/uploads/i-sold-my-life__for-ten-thousand-yen-per-year__sugaru-miaki-shouichi-taguchi__contracapa__2025-11-05_16-14-57-822020.jpg",
+  "fotos": [
+    "static/uploads/i-sold-my-life__for-ten-thousand-yen-per-year__sugaru-miaki-shouichi-taguchi__foto-01__2025-11-05_16-14-57-858291.jpg",
+    "static/uploads/i-sold-my-life__for-ten-thousand-yen-per-year__sugaru-miaki-shouichi-taguchi__foto-02__2025-11-05_16-14-57-884470.jpg",
+    "static/uploads/i-sold-my-life__for-ten-thousand-yen-per-year__sugaru-miaki-shouichi-taguchi__foto-03__2025-11-05_16-14-57-899512.jpg",
+    "static/uploads/i-sold-my-life__for-ten-thousand-yen-per-year__sugaru-miaki-shouichi-taguchi__foto-04__2025-11-05_16-14-57-919055.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:38:29",
+  "observacoes": null
+}

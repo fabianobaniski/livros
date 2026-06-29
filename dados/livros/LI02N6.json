@@ -1,0 +1,63 @@
+{
+  "obra_id": 4880,
+  "autor": "Rumiko Takahashi",
+  "titulo": "InuYasha",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Japão Medieval. Aventura.",
+  "palavras_chave": "takahashi inuyasha",
+  "edicao_id": 4855,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 336,
+  "peso": 430,
+  "isbn": "9786555942132",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>A jovem Kagome encontra em um antigo poço uma passagem que a leva para um Japão Medieval habitado por criaturas místicas conhecidas como youkais. É nesse passado longínquo que ela conhece Inuyasha, um meio-youkai que busca a Joia de Quatro Almas e vingar-se do nefasto Naraku. <i>Inuyasha</i> é uma história fantástica que mistura aventura e romance escrita e desenhada por Rumiko Takahashi, a renomada autora de <i>Ranma ½</i>.</p>",
+  "sinopse": "Kagome descobre uma passagem para o Japão Medieval e conhece Inuyasha, um meio-youkai em busca da Joia de Quatro Almas. Juntos, eles enfrentam criaturas místicas e o vilão Naraku em uma história cheia de aventura e romance, criada por Rumiko Takahashi.",
+  "exemplar_id": 4854,
+  "sku": "LI02N6",
+  "preco_estante_virtual": 38.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/inuyasha__rumiko-takahashi__capa__2026-02-20_10-30-59-535240-000.png",
+  "contracapa": "static/uploads/inuyasha__rumiko-takahashi__contracapa__2026-02-20_10-30-59-574473-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador, seminovo! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

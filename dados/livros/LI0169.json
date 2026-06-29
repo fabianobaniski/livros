@@ -1,0 +1,68 @@
+{
+  "obra_id": 2024,
+  "autor": "Francisco Lacombe; Gilberto Heilborn",
+  "titulo": "Administração",
+  "subtitulo": "Princípios e tendências",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Princípios de gestão. Tendências em administração. Formação profissional.",
+  "palavras_chave": "lacombe administracao principios tendencias",
+  "edicao_id": 2004,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 544,
+  "peso": 1200,
+  "isbn": "9788502072442",
+  "editora": "Saraiva",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>ADMINISTRAÇÃO<br>PRINCÍPIOS E TENDÊNCIAS</h1><p>\"Concisão e clareza são atributos indispensáveis da obra literária, especialmente da que se destina ao ensino de qualquer disciplina, mesmo as de natureza técnica. O livro do professor Francisco Lacombe, que divide a autoria com o professor Gilberto Heilborn, soma a essas qualidades a precisão e a justeza dos conceitos, conscientemente aplicados a fatos e situações concretas. É obra indispensável aos estudiosos e aos estudantes de administração.\"<br><b>Célio Borja</b> foi deputado estadual e federal, presidente da Câmara dos Deputados, professor titular de Direito da Universidade Estadual do Rio de Janeiro, reitor da Universidade Santa Úrsula, ministro do Supremo Tribunal Federal e ministro de Estado da Justiça.</p><p>\"Em minha opinião, o livro de Administração dos professores Francisco José Masset Lacombe e Gilberto Luiz José Heilborn será um marco na história da bibliografia acadêmica do Brasil. Além de expor e analisar aspectos fundamentais da Administração, o texto é rico em exemplos oportunos, ilustrações claras e citações basilares que indicam a erudição e experiência dos seus autores. O estilo simples e atraente faz a leitura um aprendizado fácil e eficiente. Além de valiosa obra de consulta, será útil em cursos de formação e pós-graduação.\"<br><b>Gustavo de Sá e Silva</b> é doutor em Administração, tendo sido consultor e diretor de várias empresas de grande porte e diretor da Escola de Administração de Empresas da FGV em São Paulo (FGV-EAESP), onde lecionou como professor titular.</p><p>\"A obra de Heilborn e Lacombe é leitura obrigatória para os estudantes e profissionais que cuidam da gestão nas organizações. Centenas de páginas e um ótimo texto de fácil assimilação.\"<br><b>Luis Cesar Gonçalves de Araújo</b> é doutor em Administração pela FGV e professor titular da FGV e da Universidade Santa Úrsula, tendo feito dezenas de trabalhos e consultoria para empresas de grande porte e lecionado em muitos cursos de pós-graduação.</p><p>\"O livro do professor Lacombe está fadado a ser um clássico no campo da Administração e leitura obrigatória nos cursos dedicados a esta especialidade.\"<br><b>Og F. Leme</b> é economista e sociólogo, pós-graduado pela Universidade de Chicago. Foi professor de Economia da UFRJ e diretor e consultor de várias empresas de grande porte, tendo sido um dos consultores do Instituto Liberal no Rio de Janeiro. É reconhecidamente um articulador em vários ramos do conhecimento técnico e humanística.</p><p>\"Este excelente e profundo trabalho de Francisco Lacombe e Gilberto Heilborn servirá de guia para todos aqueles interessados na complexa arte de bem administrar.\"<br><b>Pedro Leitão da Cunha</b> foi diretor de várias empresas de grande porte e presidente do Montreal Bank, sendo atualmente presidente do Conselho de Administração da Generallri. É reconhecidamente um administrador bem-sucedido.</p><p><b>Conheça o site do livro e as demais novidades do nosso catálogo no endereço:<br>www.saraivauni.com.br</b></p>",
+  "sinopse": "O livro 'Administração: Princípios e tendências', de Francisco Lacombe e Gilberto Heilborn, é uma obra fundamental voltada para estudantes e profissionais de administração. Com clareza e concisão, apresenta conceitos essenciais da área, exemplos práticos e ilustrações que facilitam a aprendizagem. A obra é indicada tanto para consulta quanto para cursos de graduação e pós-graduação, sendo reconhecida por especialistas como leitura obrigatória e referência acadêmica.",
+  "exemplar_id": 2003,
+  "sku": "LI0169",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/francisco-lacombe--administra--o--capa--20250430--104320.jpg",
+  "contracapa": "static/uploads/francisco-lacombe--administra--o--contracapa--20250430--104320.jpg",
+  "fotos": [
+    "static/uploads/francisco-lacombe--administra--o--foto1--20250430--104320.jpg",
+    "static/uploads/francisco-lacombe--administra--o--foto2--20250430--104320.jpg",
+    "static/uploads/francisco-lacombe--administra--o--foto3--20250430--104320.jpg",
+    "static/uploads/francisco-lacombe--administra--o--foto4--20250430--104320.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:43:54",
+  "observacoes": "procedencia_biblioteca"
+}

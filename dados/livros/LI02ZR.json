@@ -1,0 +1,63 @@
+{
+  "obra_id": 5566,
+  "autor": "Unita Yumi",
+  "titulo": "Usagi Drop",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Relações familiares. Adaptação.",
+  "palavras_chave": "unita usagi drop",
+  "edicao_id": 5541,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 212,
+  "peso": 320,
+  "isbn": "9788583620396",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Morando com sua filha adotiva Rin há mais de um ano, Daikichi ainda considera a mente feminina algo muito longe de seu entendimento. Então, quando sua prima Haruko aparece, trazendo sua filha Reina, e diz que está “fugindo”, ele se vê obrigado a compreender a mentalidade feminina de alguma forma e entender a situação de Haruko. Essa experiência pode levar Daikichi a finalmente entender o que realmente significa ser pai.</p> <p>Sucesso no Japão, a história foi adaptada para uma série animada e ganhou também uma adaptação para o cinema.</p>",
+  "sinopse": "Daikichi e sua filha adotiva Rin enfrentam o desafio de entender a complexidade da mente feminina quando a prima Haruko chega com sua filha. Esse encontro pode ajudar Daikichi a compreender melhor o papel de ser pai. O sucesso no Japão levou a adaptações para série animada e cinema.",
+  "exemplar_id": 5540,
+  "sku": "LI02ZR",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/usagi-drop__unita-yumi__capa__2026-02-24_13-36-32-094280-000.jpg",
+  "contracapa": "static/uploads/usagi-drop__unita-yumi__contracapa__2026-02-24_13-36-32-123681-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

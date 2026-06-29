@@ -1,0 +1,63 @@
+{
+  "obra_id": 814,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Mensagens selecionadas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade.",
+  "palavras_chave": "lopes mensagens selecionadas",
+  "edicao_id": 799,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 223,
+  "peso": 350,
+  "isbn": "9788563563293",
+  "editora": "Voxliteris",
+  "numero_edicao": 1,
+  "ano": 2012,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Mensagens selecionadas 3 é a sequência dos dois primeiros livros da série e, como os anteriores, este terceiro livro tem finalidades múltiplas: devocionais, lições de escola bíblica, reuniões familiares, estudos bíblicos, orientação pessoal etc. Os textos também podem ser ampliados e pregados. As mensagens são breves, sucintas, visando apontar o caminho a partir do qual cada leitor poderá seguir movido pelo Espírito Santo. E esse é o anelo do autor, que os estudos deste livro sejam ferramentas tanto para edificação pessoal quanto para instrumentação para difusão e semeadura da Palavra.</p>",
+  "sinopse": "Mensagens Selecionadas 3 dá continuidade às obras anteriores, oferecendo mensagens com múltiplas finalidades, incluindo devocionais e orientações pessoais. Com textos breves e acessíveis, visa guiar o leitor pela fé e fomentar o espírito de edificação e disseminação da Palavra.",
+  "exemplar_id": 798,
+  "sku": "LI00LL",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/hernandes-dias-lopes--mensagens-selecionadas-3--capa--20250227--152906.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--mensagens-selecionadas-3--contracapa--20250227--152906.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém bem amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:50:16",
+  "observacoes": null
+}

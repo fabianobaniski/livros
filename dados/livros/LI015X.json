@@ -1,0 +1,68 @@
+{
+  "obra_id": 2012,
+  "autor": "Guaracira Gouvêa; Carmen Irene Oliveira",
+  "titulo": "Educação a distância na formação de professores",
+  "subtitulo": "Viabilidades, potencialidades e limites",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Ensino superior. Educação a distância. Formação de professores. Políticas públicas.",
+  "palavras_chave": "gouvea educacao distancia formacao professores",
+  "edicao_id": 1992,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 141,
+  "peso": 230,
+  "isbn": "9788588782341",
+  "editora": "Vieira & Lent",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Educação a Distância (EAD) tem sido uma modalidade de educação muito adotada e discutida nas duas últimas décadas do século XX. Se entendermos a legislação também como um espaço no qual as discussões e políticas públicas em qualquer área se consolidam em diretrizes e normas, um grande indicador desses aspectos que afetam a EAD foi a sua legalização pela Lei de Diretrizes e Bases (LDB) de 1996 e regulamentação pelos decretos posteriores.</p><p>Paralelamente, a adoção dessa modalidade em diferentes graus no ensino superior parece não ter sido acompanhada das necessárias infra-estruturas humana e tecnológica, nem do desenvolvimento de pesquisas que suscitem questões em torno de suas viabilidades, potencialidades e limites. Nesse sentido, este livro procura discutir tal problemática tendo como foco o desenrolar de práticas educativas na implantação de disciplinas de graduação, baseadas nesta modalidade, vivenciadas por professores e estudantes.</p><p>Assim, o objetivo da pesquisa foi de <b>colocar em pauta o debate sobre Educação a Distância no ensino superior</b> por meio do estudo das configurações criadas nas práticas cotidianas, mediadas pelas tecnologias da informação e comunicação.</p><p>Na discussão, procurou-se o tênue equilíbrio entre as posições extremamente otimistas, que não identificam problemas nas práticas educativas realizadas nessa modalidade de educação, e aquelas que esquecem ser as potencialidades das tecnologias uma possibilidade submetida à ação humana, isto significa dizer, submetidas a diretrizes políticas.</p>",
+  "sinopse": "A obra debate a Educação a Distância (EAD) na formação de professores, analisando sua adoção e as lacunas em infra-estrutura e pesquisas. O livro investiga práticas educativas em disciplinas de graduação mediadas por tecnologias, evidenciando os desafios, potencialidades e limites da EAD no ensino superior. Busca equilibrar visões otimistas e críticas, ressaltando a influência das diretrizes políticas sobre as potencialidades tecnológicas e humanas do ensino a distância.",
+  "exemplar_id": 1991,
+  "sku": "LI015X",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/guaracira-gouv-a--educa--o-a-dist-ncia-na-forma--o-de-professores--capa--20250430--104318.jpg",
+  "contracapa": "static/uploads/guaracira-gouv-a--educa--o-a-dist-ncia-na-forma--o-de-professores--contracapa--20250430--104318.jpg",
+  "fotos": [
+    "static/uploads/guaracira-gouv-a--educa--o-a-dist-ncia-na-forma--o-de-professores--foto1--20250430--104318.jpg",
+    "static/uploads/guaracira-gouv-a--educa--o-a-dist-ncia-na-forma--o-de-professores--foto2--20250430--104318.jpg",
+    "static/uploads/guaracira-gouv-a--educa--o-a-dist-ncia-na-forma--o-de-professores--foto3--20250430--104318.jpg",
+    "static/uploads/guaracira-gouv-a--educa--o-a-dist-ncia-na-forma--o-de-professores--foto4--20250430--104318.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:53:13",
+  "observacoes": "procedencia_biblioteca"
+}

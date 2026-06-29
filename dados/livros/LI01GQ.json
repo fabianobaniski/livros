@@ -1,0 +1,63 @@
+{
+  "obra_id": 2401,
+  "autor": "Luis Fernando Veríssimo",
+  "titulo": "Banquete com os deuses",
+  "subtitulo": "Cinema, literatura, música e outras artes",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "verissimo banquete com deuses",
+  "edicao_id": 2381,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 228,
+  "peso": 400,
+  "isbn": "9788573025156",
+  "editora": "Objetiva",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Com uma seleção de textos escritos ao longo de 20 anos, o autor compartilha suas grandes paixões culturais, abordando cinema, música e literatura com argúcia e humor. As crônicas são temperadas com uma visão generosa sobre mestres do jazz, filosofia, arte e literatura, explorando filmes, livros e autores que deixaram uma marca duradoura. Trilhas sonoras e estrelas também entram no radar, evocando o poder nostálgico e emocional dessas experiências culturais, que nos fazem sentir jovens e apaixonados.",
+  "exemplar_id": 2380,
+  "sku": "LI01GQ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luis-fernando-verissimo--banquete-com-os-deuses--capa--20260316--171324.jpg",
+  "contracapa": "static/uploads/luis-fernando-verissimo--banquete-com-os-deuses--contracapa--20260316--171324.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:53:23",
+  "observacoes": null
+}

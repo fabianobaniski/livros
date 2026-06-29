@@ -1,0 +1,63 @@
+{
+  "obra_id": 2572,
+  "autor": "Globus editora",
+  "titulo": "Grandes pintores do século XX",
+  "subtitulo": "Gauguin",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "editora grandes pintores seculo",
+  "edicao_id": 2552,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 829,
+  "isbn": "9788482230986",
+  "editora": "Globus",
+  "numero_edicao": 0,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2551,
+  "sku": "LI01LG",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/globus-editora--grandes-pintores-do-seculo-xx--capa--20260316--211644.jpg",
+  "contracapa": "static/uploads/globus-editora--grandes-pintores-do-seculo-xx--contracapa--20260316--211644.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro usado, em bom estado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:26:03",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3459,
+  "autor": "Takashi Murakami",
+  "titulo": "O outro cão que guarda as estrelas",
+  "subtitulo": "Zoku Hoshi Mamoru Inu",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Relação homem-animal. Sentimentos.",
+  "palavras_chave": "murakami outro cao que guarda estrelas",
+  "edicao_id": 3436,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 230,
+  "isbn": "9788545700227",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3435,
+  "sku": "LI029Y",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/o-outro-cao-que-guarda-as-estrelas__zoku-hoshi-mamoru-inu__takashi-murakami__capa__2025-11-05_16-15-31-929467.jpg",
+  "contracapa": "static/uploads/o-outro-cao-que-guarda-as-estrelas__zoku-hoshi-mamoru-inu__takashi-murakami__contracapa__2025-11-05_16-15-31-968942.jpg",
+  "fotos": [
+    "static/uploads/o-outro-cao-que-guarda-as-estrelas__zoku-hoshi-mamoru-inu__takashi-murakami__foto-01__2025-11-05_16-15-32-010155.jpg",
+    "static/uploads/o-outro-cao-que-guarda-as-estrelas__zoku-hoshi-mamoru-inu__takashi-murakami__foto-02__2025-11-05_16-15-32-043362.jpg",
+    "static/uploads/o-outro-cao-que-guarda-as-estrelas__zoku-hoshi-mamoru-inu__takashi-murakami__foto-03__2025-11-05_16-15-32-069040.jpg",
+    "static/uploads/o-outro-cao-que-guarda-as-estrelas__zoku-hoshi-mamoru-inu__takashi-murakami__foto-04__2025-11-05_16-15-32-216010.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:53:01",
+  "observacoes": null
+}

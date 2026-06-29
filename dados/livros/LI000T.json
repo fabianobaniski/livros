@@ -1,0 +1,68 @@
+{
+  "obra_id": 32,
+  "autor": "Neil Gaiman",
+  "titulo": "Mitologia nórdica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Mitologia. História. Cultura Nórdica. Deuses e Heróis",
+  "palavras_chave": "gaiman mitologia nordica",
+  "edicao_id": 32,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 288,
+  "peso": 400,
+  "isbn": "9788551001288",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>PREPARE-SE PARA UMA JORNADA QUE O LEVARÁ DA ORIGEM DO UNIVERSO ATÉ O FIM DO MUNDO</b></p><p>Os grandes mitos escandinavos recontados em um arco que vai do início dos tempos até o apocalipse mítico do Ragnarök. Neil Gaiman empresta suas palavras aos contos, mas se mantém fiel à mais tradicional leitura da mitologia nórdica, que guarda em verso e em prosa as lendas de Odin, o mais poderoso dos deuses, sábio, audacioso e sagaz; de Thor, seu filho, o mais forte, porém o menos inteligente dos deuses; e de Loki, filho de gigantes, irmão de Odin por juramento, trapaceiro e extraordinário manipulador.</p><p>Em quinze histórias fascinantes, Gaiman nos apresenta deuses competitivos que traem e são traídos e cujas emoções ditam grande parte de suas ações — traços marcantes de uma mitologia que ganha, neste livro, um novo e precioso registro.</p><p><i>“Tentei me imaginar muito tempo atrás, nas terras onde essas histórias foram contadas pela primeira vez, durante as longas noites de inverno (...), cercado por pessoas que queriam saber o que mais Thor fez, o que era o arco-íris, como levar a própria vida e de onde vem a poesia ruim.”</i></p><p><b>Neil Gaiman</b></p>",
+  "sinopse": "Neil Gaiman reconta os mitos nórdicos clássicos, desde a criação do universo até o Ragnarök. Com uma abordagem envolvente, ele traz à vida personagens como Odin, Thor e Loki em histórias de coragem, traição e destino.",
+  "exemplar_id": 31,
+  "sku": "LI000T",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/neil-gaiman--mitologia-n-rdica--capa--20250225--164530.jpg",
+  "contracapa": "static/uploads/neil-gaiman--mitologia-n-rdica--contracapa--20250225--164530.jpg",
+  "fotos": [
+    "static/uploads/neil-gaiman--mitologia-n-rdica--foto1--20250225--164530.jpg",
+    "static/uploads/neil-gaiman--mitologia-n-rdica--foto2--20250225--164530.jpg",
+    "static/uploads/neil-gaiman--mitologia-n-rdica--foto3--20250225--164530.jpg",
+    "static/uploads/neil-gaiman--mitologia-n-rdica--foto4--20250225--164530.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:18",
+  "observacoes": null
+}

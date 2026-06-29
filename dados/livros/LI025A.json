@@ -1,0 +1,68 @@
+{
+  "obra_id": 3288,
+  "autor": "Tadahiro Miura",
+  "titulo": "Yuuna e a pensão assombrada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia sobrenatural. Amizade. Resgate.",
+  "palavras_chave": "miura yuuna pensao assombrada",
+  "edicao_id": 3268,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 220,
+  "isbn": "9788542620276",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Eu, Sagiri Ameno, aplicarei o castigo divino em todos que corromperem a Pensão Yuragi!!</p><p>A Yuuna foi sequestrada?! Genshiro Ryuuga, o poderoso Dragão Negro Divino, apaixonou-se à primeira vista por Yuuna e a levou à força para seu castelo! Para resgatá-la, Kogarashi e Sagiri rumam sozinhos em direção ao Castelo Ryuuga, nas profundezas de um lago subterrâneo em Nagano, mas...</p>",
+  "sinopse": "Yuuna foi sequestrada pelo poderoso Dragão Negro Divino, Genshiro Ryuuga, que se apaixonou por ela à primeira vista e a levou para seu castelo. Para resgatá-la, Kogarashi e Sagiri partem sozinhos em direção ao Castelo Ryuuga, localizado nas profundezas de um lago subterrâneo em Nagano, enfrentando desafios para salvar sua amiga.",
+  "exemplar_id": 3267,
+  "sku": "LI025A",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__capa__2025-11-05_16-24-52-485422.jpg",
+  "contracapa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__contracapa__2025-11-05_16-24-52-519099.jpg",
+  "fotos": [
+    "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__foto-01__2025-11-05_16-24-52-544179.jpg",
+    "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__foto-02__2025-11-05_16-24-52-568911.jpg",
+    "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__foto-03__2025-11-05_16-24-52-715964.jpg",
+    "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__foto-04__2025-11-05_16-24-52-743289.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:19:44",
+  "observacoes": null
+}

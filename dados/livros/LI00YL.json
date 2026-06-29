@@ -1,0 +1,68 @@
+{
+  "obra_id": 1745,
+  "autor": "Edelvino Razzolini Filho",
+  "titulo": "Gerência de serviços para a gestão comercial",
+  "subtitulo": "Um enfoque prático",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Gestão. Administração de serviços. Qualidade no atendimento ao cliente. Diferencial competitivo.",
+  "palavras_chave": "razzolini gerencia servicos para gestao comercial",
+  "edicao_id": 1725,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 194,
+  "peso": 360,
+  "isbn": "9788578386894",
+  "editora": "IBPEX",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "Gestão Comercial",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Gerência de serviços para a gestão comercial: um enfoque prático</h1><p>É ainda comum nos depararmos com empresas capazes de oferecer bons produtos e serviços, que, na linha de frente, junto ao cliente, acabam colocando tudo a perder por meros detalhes, seja pela falta de cordialidade de uma telefonista ou pelo garçom que anotou o pedido errado, seja pela embalagem que chegou danificada.</p><p><b>Então, como uma empresa pode ser reconhecida por seu diferencial? Como ela pode oferecer qualidade e, ao mesmo tempo, surpreender, estreitar relacionamentos, encantar?</b></p><p>Estas são algumas das reflexões que este livro apresenta a você, empresário, estudante ou profissional já inserido no mercado de trabalho.</p><p>Por meio de uma linguagem pautada na excelência, no “enxergar mais além”, o conteúdo presente nestas páginas o ajudará a transformar sua marca em um alvo de desejo, reconhecido, principalmente, por sua capacidade de ser diferente e, ao mesmo tempo, de gerenciar de maneira prática os serviços que oferece.</p>",
+  "sinopse": "O livro propõe uma reflexão sobre como as empresas podem se destacar por meio da excelência na oferta de serviços. Aborda desafios comuns na linha de frente com o cliente, ressaltando a importância de detalhes, cordialidade e qualidade. Voltado para empresários, estudantes e profissionais do mercado, apresenta estratégias para surpreender, estreitar relacionamentos e encantar, ajudando o leitor a transformar sua marca em referência quanto à diferença e à prática na gestão de serviços.",
+  "exemplar_id": 1724,
+  "sku": "LI00YL",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/edelvino-razzolini-filho--ger-ncia-de-servi-os-para-a-gest-o-comercial--capa--20250430--102940.jpg",
+  "contracapa": "static/uploads/edelvino-razzolini-filho--ger-ncia-de-servi-os-para-a-gest-o-comercial--contracapa--20250430--102940.jpg",
+  "fotos": [
+    "static/uploads/edelvino-razzolini-filho--ger-ncia-de-servi-os-para-a-gest-o-comercial--foto1--20250430--102940.jpg",
+    "static/uploads/edelvino-razzolini-filho--ger-ncia-de-servi-os-para-a-gest-o-comercial--foto2--20250430--102940.jpg",
+    "static/uploads/edelvino-razzolini-filho--ger-ncia-de-servi-os-para-a-gest-o-comercial--foto3--20250430--102940.jpg",
+    "static/uploads/edelvino-razzolini-filho--ger-ncia-de-servi-os-para-a-gest-o-comercial--foto4--20250430--102940.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, apresenta leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:28:10",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2651,
+  "autor": "Gustavo Luis Gutierrez",
+  "titulo": "Lazer e prazer",
+  "subtitulo": "Questões metodológicas e alternativas políticas",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "gutierrez lazer prazer questoes",
+  "edicao_id": 2631,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 125,
+  "peso": 200,
+  "isbn": "9788574960333",
+  "editora": "Autores Associados",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora o conceito de lazer, destacando sua busca por prazer e sua inserção nas ciências humanas, até alcançar propostas concretas em políticas públicas. A obra analisa a relação entre condições materiais de vida e a dimensão subjetiva do lazer, com base em teóricos como Reich, Marcuse e Habermas. Ao dialogar com diversas áreas de pesquisa, oferece uma abordagem interdisciplinar, útil a estudiosos de lazer e profissionais das ciências sociais, educação, psicologia e administração, promovendo uma visão ampla e prática do tema.",
+  "exemplar_id": 2630,
+  "sku": "LI01NN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/gustavo-luis-gutierrez--lazer-e-prazer--capa--20260316--215409.jpg",
+  "contracapa": "static/uploads/gustavo-luis-gutierrez--lazer-e-prazer--contracapa--20260316--215409.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:16:52",
+  "observacoes": null
+}

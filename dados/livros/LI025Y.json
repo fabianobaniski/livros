@@ -1,0 +1,68 @@
+{
+  "obra_id": 3312,
+  "autor": "Hiroji Mishima; Ichiei Ishibumi; Zero Miyama",
+  "titulo": "High School DxD",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Ação. Comédia escolar.",
+  "palavras_chave": "mishima high school dxd",
+  "edicao_id": 3292,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 140,
+  "isbn": "7897653522729",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>COMIC Hiroji Mishima<br>ORIGINAL Ichiei Ishibumi<br>CHARACTER DESIGN Zero Miyama</p>",
+  "sinopse": "Esta edição do mangá High School DxD apresenta arte de Hiroji Mishima baseada na obra original de Ichiei Ishibumi, com design de personagens por Zero Miyama. O volume apresenta uma história repleta de ação, com destaque para personagens femininas fortes e ambientação escolar com elementos sobrenaturais.",
+  "exemplar_id": 3291,
+  "sku": "LI025Y",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi-zero-miyama__capa__2025-11-05_16-25-09-644130.jpg",
+  "contracapa": "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi-zero-miyama__contracapa__2025-11-05_16-25-09-675179.jpg",
+  "fotos": [
+    "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi-zero-miyama__foto-01__2025-11-05_16-25-09-695499.jpg",
+    "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi-zero-miyama__foto-02__2025-11-05_16-25-09-721789.jpg",
+    "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi-zero-miyama__foto-03__2025-11-05_16-25-09-746995.jpg",
+    "static/uploads/high-school-dxd__hiroji-mishima-ichiei-ishibumi-zero-miyama__foto-04__2025-11-05_16-25-09-774265.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:19:10",
+  "observacoes": null
+}

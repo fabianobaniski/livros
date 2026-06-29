@@ -1,0 +1,68 @@
+{
+  "obra_id": 1404,
+  "autor": "Rick Riordan",
+  "titulo": "O ladrão de raios",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção. Mitologia. Aventura.",
+  "palavras_chave": "riordan ladrao raios",
+  "edicao_id": 1386,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 387,
+  "peso": 400,
+  "isbn": "9788598078397",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "Percy Jackson & Os Olimpianos (Livro 1)",
+  "volume": null,
+  "transcricao_contracapa": "<p>Uma fábula de heroísmo no compasso de uma missão desenfreada, e que questiona a realidade de nosso mundo, a família, a amizade e a lealdade. <i>Kirkus Review</i></p> <p>Uma aventura moderna que levará os leitores a ansiar pela próxima ação do protagonista. <i>School Library Journal</i></p> <p>Repleto de bem-humoradas alucões à mitologia grega junto com sequências de tirar o fôlego, este livro é realmente brilhante. <i>The Horn Book Magazine</i></p>",
+  "sinopse": "​\"O Ladrão de Raios\" é o primeiro livro da série \"Percy Jackson e os Olimpianos\", escrito por Rick Riordan. A narrativa combina mitologia grega com aventuras contemporâneas, apresentando Percy Jackson, um jovem que descobre ser um semideus — filho de um deus do Olimpo com uma mortal. Após ser acusado de roubar o raio-mestre de Zeus, Percy embarca em uma jornada perigosa para recuperar o artefato e evitar uma guerra entre os deuses. Ao longo do caminho, ele conta com a ajuda de seus amigos Annabeth Chase, filha de Atena, e Grover Underwood, um sátiro, enfrentando diversos desafios e criaturas mitológicas.",
+  "exemplar_id": 1385,
+  "sku": "LI00TS",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/rick-riordan--o-ladr-o-de-raios--capa--20250401--115341.jpg",
+  "contracapa": "static/uploads/rick-riordan--o-ladr-o-de-raios--contracapa--20250401--115341.jpg",
+  "fotos": [
+    "static/uploads/rick-riordan--o-ladr-o-de-raios--foto1--20250401--115341.jpg",
+    "static/uploads/rick-riordan--o-ladr-o-de-raios--foto2--20250401--115341.jpg",
+    "static/uploads/rick-riordan--o-ladr-o-de-raios--foto3--20250401--115341.jpg",
+    "static/uploads/rick-riordan--o-ladr-o-de-raios--foto4--20250401--115341.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Lombada levemente inclinada à direita. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:22:59",
+  "observacoes": null
+}

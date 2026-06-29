@@ -1,0 +1,63 @@
+{
+  "obra_id": 5652,
+  "autor": "Kaito",
+  "titulo": "Ao no Flag",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Relações pessoais. Adolescência. Descoberta pessoal.",
+  "palavras_chave": "kaito ao flag",
+  "edicao_id": 5627,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 193,
+  "peso": 240,
+  "isbn": "9786559605521",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p>Taichi sofre e sente-se confuso depois que os boatos sobre a “confissão” chocante de Touma durante o Festival Cultural se espalham. As consequências disso também se alastram, deixando algumas feridas abertas. Enquanto isso, Touma ouve o que Seiya, seu irmão mais velho, realmente pensa. Os sentimentos que cada um deles guardava dentro de si vêm à tona e a relação dos dois começa a avançar...!!!</p>",
+  "sinopse": "Taichi sente-se confuso após os boatos da confissão chocante de Touma no Festival Cultural. As consequências espalham-se, revelando feridas antigas. Enquanto isso, Touma ouve o que Seiya pensa, trazendo à tona sentimentos profundos e transformando a relação de ambos.",
+  "exemplar_id": 5626,
+  "sku": "LI0325",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/ao-no-flag__kaito__capa__2026-02-24_13-36-45-779952-000.jpg",
+  "contracapa": "static/uploads/ao-no-flag__kaito__contracapa__2026-02-24_13-36-45-836613-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

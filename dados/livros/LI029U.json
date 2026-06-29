@@ -1,0 +1,68 @@
+{
+  "obra_id": 3455,
+  "autor": "Atsushi Ohkubo",
+  "titulo": "Soul Eater Not!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos. Mangá. Vida escolar. Fantasia.",
+  "palavras_chave": "ohkubo soul eater not",
+  "edicao_id": 3432,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 140,
+  "isbn": "9788577879557",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Soul Eater Not!",
+  "volume": 3,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3431,
+  "sku": "LI029U",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/soul-eater-not__atsushi-ohkubo__capa__2025-11-05_16-15-29-618313.jpg",
+  "contracapa": "static/uploads/soul-eater-not__atsushi-ohkubo__contracapa__2025-11-05_16-15-29-703793.jpg",
+  "fotos": [
+    "static/uploads/soul-eater-not__atsushi-ohkubo__foto-01__2025-11-05_16-15-29-739212.jpg",
+    "static/uploads/soul-eater-not__atsushi-ohkubo__foto-02__2025-11-05_16-15-29-766724.jpg",
+    "static/uploads/soul-eater-not__atsushi-ohkubo__foto-03__2025-11-05_16-15-29-787216.jpg",
+    "static/uploads/soul-eater-not__atsushi-ohkubo__foto-04__2025-11-05_16-15-29-807427.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:54:37",
+  "observacoes": null
+}

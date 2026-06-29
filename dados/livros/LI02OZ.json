@@ -1,0 +1,63 @@
+{
+  "obra_id": 4945,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Platinum End",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Luta pelo poder. Batalha entre ideais.",
+  "palavras_chave": "ohba platinum end",
+  "edicao_id": 4920,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 183,
+  "peso": 180,
+  "isbn": "9788545707769",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Eu não consigo gostar do Kakehashi.</p> <p>Mirai finalmente confronta Metropoliman. Começa a batalha de vida ou morte entre os dois candidatos a Deus que possuem ideais completamente opostos! E o que Saki, que apenas observa esta luta, guarda em seu coração...?!</p>",
+  "sinopse": "Mirai enfrenta Metropoliman numa batalha mortal entre os candidatos a Deus de ideais opostos. Enquanto isso, Saki observa e guarda algo em seu coração.",
+  "exemplar_id": 4919,
+  "sku": "LI02OZ",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__capa__2026-02-20_10-31-18-299979-000.png",
+  "contracapa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__contracapa__2026-02-20_10-31-18-637785-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

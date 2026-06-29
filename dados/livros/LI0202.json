@@ -1,0 +1,63 @@
+{
+  "obra_id": 3098,
+  "autor": "Constança Paúl; António M. Fonseca",
+  "titulo": "Psicossociologia da Saúde",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": null,
+  "palavras_chave": "paul psicossociologia saude",
+  "edicao_id": 3078,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 147,
+  "peso": 300,
+  "isbn": "9727960081",
+  "editora": "Climepsi",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro propõe uma discussão crítica sobre as concepções de saúde e doença, abordando o papel dos serviços de saúde, o perfil dos profissionais da área e os grandes desafios da saúde na vida das pessoas e sociedades. Ele explora a evolução da medicina, o impacto do estresse no estilo de vida e a experiência de estar doente. Além disso, discute temas como o envelhecimento, o bem-estar psicológico e a morte. A obra destaca a importância da saúde como chave para o bem-estar e como elemento organizador de outras áreas da vida.",
+  "exemplar_id": 3077,
+  "sku": "LI0202",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem preservado, apresentando, apenas, leves sinais de manuseio. Livre de anotações, sublinhados, rabiscos, rasgos ou amassados. Não possui marcas de umidade, exposição ao sol, cheiro de mofo, furo de traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:20:56",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

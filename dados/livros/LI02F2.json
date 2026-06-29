@@ -1,0 +1,68 @@
+{
+  "obra_id": 3643,
+  "autor": "Aldous Huxley",
+  "titulo": "Contraponto",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "aldous huxley contraponto",
+  "edicao_id": 3620,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 445,
+  "peso": 520,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Utilizando uma estrutura narrativa inspirada na técnica musical de múltiplas vozes, o romance entrelaça as vidas de diversos intelectuais e aristocratas londrinos na década de 1920, oferecendo um panorama cínico e complexo sobre o vazio espiritual, a amoralidade e os conflitos ideológicos da modernidade.",
+  "exemplar_id": 3619,
+  "sku": "LI02F2",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/aldous-huxley--contraponto--capa--20251114--184508.png",
+  "contracapa": "static/uploads/aldous-huxley--contraponto--contracapa--20251114--184516.png",
+  "fotos": [
+    "static/uploads/aldous-huxley--contraponto--foto1--20251113--203848.jpg",
+    "static/uploads/aldous-huxley--contraponto--foto2--20251113--203848.jpg",
+    "static/uploads/aldous-huxley--contraponto--foto3--20251113--203848.jpg",
+    "static/uploads/aldous-huxley--contraponto--foto4--20251113--203848.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:50:22",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3386,
+  "autor": "Keiko Suenobu",
+  "titulo": "Limit",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos e mangás. Bullying escolar. Adolescência.",
+  "palavras_chave": "suenobu limit",
+  "edicao_id": 3363,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788545700579",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Mizuki Konno leva a vida tentando se envolver o mínimo possível nos problemas que surgem à sua volta, se omitindo do <i>bullying</i> que suas amigas praticam. Porém, seu \"mundo perfeito\" cai por terra quando um acidente acaba com a vantagem de seu ambiente escolar e põe em xeque seu comportamento. Completo em 6 edições.</p>",
+  "sinopse": "Mizuki Konno sempre tentou evitar se envolver nos problemas e no bullying praticado por suas amigas na escola. No entanto, sua rotina aparentemente perfeita é destruída após um acidente, abalando seu ambiente escolar e colocando em questionamento seu próprio comportamento. Limit explora as consequências desse evento inesperado e os dilemas morais enfrentados por Mizuki. Série completa em 6 edições.",
+  "exemplar_id": 3362,
+  "sku": "LI027X",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/limit__keiko-suenobu__capa__2025-11-05_16-14-48-694759.jpg",
+  "contracapa": "static/uploads/limit__keiko-suenobu__contracapa__2025-11-05_16-14-48-730320.jpg",
+  "fotos": [
+    "static/uploads/limit__keiko-suenobu__foto-01__2025-11-05_16-14-48-761471.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-02__2025-11-05_16-14-48-784686.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-03__2025-11-05_16-14-48-803523.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-04__2025-11-05_16-14-48-826096.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:35:40",
+  "observacoes": null
+}

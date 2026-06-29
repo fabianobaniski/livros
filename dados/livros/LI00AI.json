@@ -1,0 +1,68 @@
+{
+  "obra_id": 412,
+  "autor": "Charles Spurgeon",
+  "titulo": "Caminhando com o peregrino",
+  "subtitulo": "Retratos de porções da imortal alegoria de John Bunyan",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Espiritualidade.",
+  "palavras_chave": "spurgeon caminhando peregrino",
+  "edicao_id": 400,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 250,
+  "isbn": "9786555521788",
+  "editora": "Principis",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Peregrino nunca teve alívio de seu fardo até chegar aos pés da cruz, e ali ele o perdeu para sempre. Bunyan não pensava nisso como o símbolo papista, agora tão comumente reverenciado; ele não respeitava tais bugigangas e idolatrias. Ele quis dizer que uma alma sobrecarregada não encontra paz até que confie no Sacrifício expiatório de Jesus. O pecado deve ser punido; a consciência sabe disso e faz o pecador tremer.</p>",
+  "sinopse": "Caminhando com o peregrino explora a jornada espiritual de um peregrino que, ao chegar aos pés da cruz, encontra alívio para seu fardo. O texto reflete sobre a visão de Bunyan a respeito do pecado e da necessidade de confiar no Sacrifício de Jesus para alcançar paz interior, destacando a importância da consciência diante da punição do pecado.",
+  "exemplar_id": 399,
+  "sku": "LI00AI",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--capa--20250226--133827.jpg",
+  "contracapa": "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--contracapa--20250226--133827.jpg",
+  "fotos": [
+    "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--foto1--20250226--133827.jpg",
+    "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--foto2--20250226--133827.jpg",
+    "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--foto3--20250226--133827.jpg",
+    "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--foto4--20250226--133827.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:11:26",
+  "observacoes": null
+}

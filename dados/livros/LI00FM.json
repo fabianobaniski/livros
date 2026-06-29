@@ -1,0 +1,63 @@
+{
+  "obra_id": 599,
+  "autor": "Johnnie Moore",
+  "titulo": "Um rei entre os pobres",
+  "subtitulo": "O amor de Jesus transformando pessoas simples em cidadãos do Reino de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Graça. Transformação.",
+  "palavras_chave": "moore rei pobres",
+  "edicao_id": 584,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 200,
+  "isbn": "9788578604806",
+  "editora": "Thomas Nelson Brasil",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em Um Rei entre os pobres, Johnnie Moore baseia-se nas Escrituras e em sua vasta experiência com outras culturas e religiões para mostrar como o Deus da Bíblia é único em sua vontade de se aproximar das pessoas. Ele destaca a importância central da doutrina da graça para que se possa co-nhecer um Jesus humilde, compreensivo e solidário, que estende sua mão para ajudar nos piores momentos por se identificar com o ser humano, seja qual for a circunstância.</p><p>Ao oferecer esperança em vez de condenação e mostrar as aplicações práticas da graça no mundo de hoje, Um Rei entre os pobres quer falar a todos os cristãos que estão à procura de uma fé mais autêntica e desenvolvimento espiritual.</p>",
+  "sinopse": "Johnnie Moore apresenta uma perspectiva inovadora sobre a graça de Deus, destacando sua importância nas relações humanas e como essa compreensão pode transformar a vida pessoal e espiritual. Ele fornece uma visão clara de como Jesus, em sua humildade e solidariedade, pode influenciar positivamente a vida de todos, convidando os leitores a explorar uma fé mais rica e autêntica.",
+  "exemplar_id": 583,
+  "sku": "LI00FM",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/johnnie-moore--um-rei-entre-os-pobres--capa--20250227--152852.jpg",
+  "contracapa": "static/uploads/johnnie-moore--um-rei-entre-os-pobres--contracapa--20250227--152852.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:36:45",
+  "observacoes": null
+}

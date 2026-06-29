@@ -1,0 +1,63 @@
+{
+  "obra_id": 2428,
+  "autor": "Regina Zappa",
+  "titulo": "Chico Buarque para todos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "zappa chico buarque para",
+  "edicao_id": 2408,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 197,
+  "peso": 300,
+  "isbn": "9788573161977",
+  "editora": "Relume Dumará",
+  "numero_edicao": 3,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A imagem de Chico muitas vezes é exagerada em sua timidez, sendo comparada de maneira equivocada à de Greta Garbo. No entanto, ele não adota nenhum tipo de mistério ou jogo de cena. A percepção de um artista distante e profundo não se encaixa em sua personalidade. Ao contrário, Chico é acessível e gosta de falar sobre temas simples e cotidianos, como notícias de jornal, futebol e histórias divertidas, misturando fatos com invenções mirabolantes, apenas por diversão, sem a necessidade de parecer intelectual ou exibido.",
+  "exemplar_id": 2407,
+  "sku": "LI01HH",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/regina-zappa--chico-buarque--capa--20260316--180831.jpg",
+  "contracapa": "static/uploads/regina-zappa--chico-buarque--contracapa--20260316--180831.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Nada de grifos ou anotações. Capa, lombada e contracapa sem danos. Discretos sinais de manuseio e/ou da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:39:56",
+  "observacoes": null
+}

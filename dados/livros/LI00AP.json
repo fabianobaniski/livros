@@ -1,0 +1,68 @@
+{
+  "obra_id": 419,
+  "autor": "Públio Terêncio Afro",
+  "titulo": "Os Adelfos",
+  "subtitulo": "Edição bilíngue",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura dramática. Comédia. Relações familiares.",
+  "palavras_chave": "terencio adelfos",
+  "edicao_id": 407,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 172,
+  "peso": 300,
+  "isbn": "9788551306284",
+  "editora": "Autêntica",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>É aqui <i>Os Adelphos</i>, comédia de Públio Terêncio Afro (século II a.C.), que nos relata o embate entre Mícião e Dêmea, dois irmãos já velhos que criam os dois filhos adolescentes de Dêmea: Esquino, adotado por Mícião; e Ctésifon, criado pelo pai. Marcada por um conflito entre gerações e costumes, expectativas e realidade, a peça transcorre sobre um pano de fundo pedagógico: qual dos dois criai melhor o filho? Mícião, rico homem urbano, que deixa Esquino aprender com os próprios erros, ou Dêmea, pobre agricultor, que mantém Ctésifon à rédea curta? Trapaças, enganos, desentendimentos e possibilidades de aprendizado do humor terenciano marcam a peça, ora trazida ao português em ousada tradução poética de Rodrigo Tadeu Gonçalves, que resgata o texto latino reviver em nossa língua e respirar poesia. Considerando-se o resultado alcançado pelo tradutor, por fim, é mais do que seguro afirmar que Terêncio e leitor podem ficar em paz, sem temer que <i>homens maus</i>, como os referidos no prólogo de <i>Os Adelphos</i>, tenham se apoderado da peça.</p>",
+  "sinopse": "A comédia Os Adelphos de Públio Terêncio Afro explora o conflito entre gerações através da história dos irmãos Mícião e Dêmea, abordando questões educacionais e morais na criação dos filhos. Entre trapaceiros e enganos, a peça discute quais valores são passados entre pais e filhos, enquanto o tradutor busca resgatar a essência poética do texto original.",
+  "exemplar_id": 406,
+  "sku": "LI00AP",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/p-blio-ter-ncio-afro--te-r-ncio--capa--20250226--133827.jpg",
+  "contracapa": "static/uploads/p-blio-ter-ncio-afro--te-r-ncio--contracapa--20250226--133827.jpg",
+  "fotos": [
+    "static/uploads/p-blio-ter-ncio-afro--te-r-ncio--foto1--20250226--133827.jpg",
+    "static/uploads/p-blio-ter-ncio-afro--te-r-ncio--foto2--20250226--133827.jpg",
+    "static/uploads/p-blio-ter-ncio-afro--te-r-ncio--foto3--20250226--133827.jpg",
+    "static/uploads/p-blio-ter-ncio-afro--te-r-ncio--foto4--20250226--133827.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:06:01",
+  "observacoes": null
+}

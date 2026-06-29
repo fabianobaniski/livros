@@ -1,0 +1,63 @@
+{
+  "obra_id": 2785,
+  "autor": "Maria Fausta Pereira De Castro",
+  "titulo": "O método e o dado no estudo da linguagem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Linguística",
+  "temas": "",
+  "palavras_chave": "castro metodo dado estudo",
+  "edicao_id": 2765,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 254,
+  "peso": 300,
+  "isbn": "9788526803749",
+  "editora": "Unicamp",
+  "numero_edicao": 0,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2764,
+  "sku": "LI01RD",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-metodo-e-o-dado-no-estudo-da-linguagem-maria-fausta-pereira-de-castro-capa_rev1166.jpg",
+  "contracapa": "static/uploads/o-metodo-e-o-dado-no-estudo-da-linguagem-maria-fausta-pereira-de-castro-contracapa_rev1250.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:30:40",
+  "observacoes": null
+}

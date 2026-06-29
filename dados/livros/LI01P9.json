@@ -1,0 +1,63 @@
+{
+  "obra_id": 2709,
+  "autor": "Paulo Dxangô",
+  "titulo": "Mistérios e magias na Umbanda e no Candomblé",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "dxango misterios magias umbanda",
+  "edicao_id": 2689,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 67,
+  "peso": 220,
+  "isbn": "9788534700528",
+  "editora": "Pallas",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora os mistérios e a magia presentes na Umbanda e no Candomblé, abordando questões como a importância dos orixás e dos odus em nosso destino. Através dos ensinamentos do Babalorixá Paulo DXangô, o leitor aprenderá sobre figuras importantes como Zé Pelintra, além de como realizar ebós e simpatias de maneira correta. A obra é uma introdução valiosa para quem deseja entender as características dos filhos de orixás e o papel dos rituais e tradições nessas religiões de matriz africana.",
+  "exemplar_id": 2688,
+  "sku": "LI01P9",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/misterios-e-magias-na-umbanda-e-no-candomble-paulo-dxango-capa_rev1756.jpg",
+  "contracapa": "static/uploads/misterios-e-magias-na-umbanda-e-no-candomble-paulo-dxango-contracapa_rev451.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:12",
+  "observacoes": null
+}

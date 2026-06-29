@@ -1,0 +1,68 @@
+{
+  "obra_id": 267,
+  "autor": "Chuck Wendig",
+  "titulo": "Star Wars",
+  "subtitulo": "Marcas da guerra",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção Científica. Fantasia. Aventura.",
+  "palavras_chave": "wendig marcas guerra",
+  "edicao_id": 261,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 403,
+  "peso": 400,
+  "isbn": "9788576572787",
+  "editora": "Aleph",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Trilogia Aftermath - Livro 1",
+  "volume": null,
+  "transcricao_contracapa": "<p>Às vésperas de STAR WARS: O despertar da Força, os fãs têm a oportunidade de acompanhar histórias inéditas ambientadas no universo criado por George Lucas. STAR WARS: Marcas da guerra, livro escrito por Chuck Wendig, é peça fundamental nesse processo, por unir o clássico Episódio VI: O retorno de Jedi à nova trilogia que continua a saga.</p> <p>Situado meses após a Batalha de Endor, que culminou na destruição da segunda Estrela da Morte, este livro apresenta novos e fascinantes personagens, além de revelar o que aconteceu com antigos conhecidos dos fãs. Ao mesmo tempo, nos introduz o panorama do novo mapa galáctico, com os primeiros passos da Nova República e as calculadas maquinações do rescaldo do Império, em sua tentativa de retomar o poder depois das mortes de Palpatine e Darth Vader.</p> <p>Essa aventura, dotada das maiores qualidades presentes nas narrativas de George Lucas, é um ponto de reencontro para os fãs de longa data de STAR WARS. O que parecia ser um aperitivo para o início de uma nova jornada resulta em um ótimo primeiro capítulo dessa história, deixando os leitores ansiosos por mais.</p>",
+  "sinopse": "Às vésperas de 'Star Wars: O despertar da Força', 'Marcas da guerra' apresenta novas e fascinantes personagens, revelando o que aconteceu após a Batalha de Endor e a destruição da segunda Estrela da Morte. Unindo o clássico Episódio VI à nova trilogia, o livro oferece um panorama do novo mapa galáctico e os primeiros passos da Nova República, enquanto o Império tenta retomar o poder. Uma aventura envolvente que deixa os leitores ansiosos por mais.",
+  "exemplar_id": 260,
+  "sku": "LI006S",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/chuck-wendig--marcas-da-guerra--capa--20250226--133813.jpg",
+  "contracapa": "static/uploads/chuck-wendig--marcas-da-guerra--contracapa--20250226--133813.jpg",
+  "fotos": [
+    "static/uploads/chuck-wendig--marcas-da-guerra--foto1--20250226--133813.jpg",
+    "static/uploads/chuck-wendig--marcas-da-guerra--foto2--20250226--133813.jpg",
+    "static/uploads/chuck-wendig--marcas-da-guerra--foto3--20250226--133813.jpg",
+    "static/uploads/chuck-wendig--marcas-da-guerra--foto4--20250226--133813.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:09:15",
+  "observacoes": null
+}

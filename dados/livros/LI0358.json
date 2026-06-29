@@ -1,0 +1,68 @@
+{
+  "obra_id": 5763,
+  "autor": "André de Sousa Lima",
+  "titulo": "Reforma & Reformadores",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "História. Reforma protestante. Biografia de reformadores. Doutrina cristã.",
+  "palavras_chave": "reforma reformadores",
+  "edicao_id": 5738,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 136,
+  "peso": 202,
+  "isbn": "9788576688211",
+  "editora": "Cristã Evangélica",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Eu sou um adorador de heróis! Pensem o que quiserem de mim, eu gosto de vê-los e de ler sobre eles. Numa época de pigmeus como esta, é bom ler sobre grandes homens! Nós somos todos muito parecidos e do mesmo tamanho, mas ali havia gigantes na terra, homens capazes, homens de intelecto gigantesco, homens de alto nível nos domínios da mente, da lógica e da razão. (Lloyd-Jones)</p>",
+  "sinopse": "Em tempos marcados pela escassez de grandes figuras, este livro destaca a importância de homens notáveis que fizeram diferença na história. Através da vida e obra dos reformadores, contempla-se exemplos de coragem, capacidade intelectual e influência transformadora nos domínios da mente, lógica e razão. Uma leitura para quem deseja compreender o legado dos grandes heróis da Reforma e sua doutrina.",
+  "exemplar_id": 5737,
+  "sku": "LI0358",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/reforma-reformadores__none__none__capa__2026-01-18_14-11-30-392856-000.png",
+  "contracapa": "static/uploads/reforma-reformadores__none__none__contracapa__2026-01-18_14-11-30-511393-001.png",
+  "fotos": [
+    "static/uploads/reforma-reformadores__none__none__foto-01__2026-01-18_14-11-30-666044-002.jpg",
+    "static/uploads/reforma-reformadores__none__none__foto-02__2026-01-18_14-11-31-213617-003.jpg",
+    "static/uploads/reforma-reformadores__none__none__foto-03__2026-01-18_14-11-32-228695-004.jpg",
+    "static/uploads/reforma-reformadores__none__none__foto-04__2026-01-18_14-11-32-376382-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:40:30",
+  "observacoes": null
+}

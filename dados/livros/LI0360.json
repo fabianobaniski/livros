@@ -1,0 +1,68 @@
+{
+  "obra_id": 5791,
+  "autor": "João Francisco Possari",
+  "titulo": "Centro de material e esterilização",
+  "subtitulo": "Planejamento e gestão",
+  "idioma": "Português",
+  "categoria": "Medicina",
+  "temas": "Assistência hospitalar. Enfermagem. Esterilização. Biossegurança.",
+  "palavras_chave": "possari centro material esterilizacao planejamento gestao",
+  "edicao_id": 5766,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 166,
+  "peso": 290,
+  "isbn": "9788576140184",
+  "editora": "Iátria",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O presente livro é resultado das experiências acumuladas pelo autor por meio de estudos, pesquisas, ensino e participação ativa nos principais eventos afins que ocorreram nos últimos anos.</p><p>São apresentados os aspectos técnicos do processo de limpeza dos artigos médico-hospitalares, as necessidades quanto à infra-estrutura básica, as preocupações relacionadas à segurança pessoal e operacional, além dos cuidados com o meio ambiente. Importantes capítulos abordam a previsão, a revisão, a padronização, os métodos de aquisição dos artigos médico-hospitalares, a biossegurança, a limpeza da unidade, o dimensionamento, o treinamento e o desenvolvimento de equipe de enfermagem do Centro de Material e Esterilização.</p><p>Seu conteúdo é bastante útil aos que se iniciam na área de enfermagem, como também àqueles que desejam prestar assistência com segurança e aprimorar os conhecimentos sobre essa unidade pouco valorizada na área da saúde.</p>",
+  "sinopse": "O livro compartilha experiências do autor em estudos, pesquisas e participação no campo de esterilização hospitalar. Aborda os processos de limpeza de artigos médico-hospitalares, infraestrutura necessária, segurança operacional, cuidados ambientais e biossegurança. Além disso, discute métodos de aquisição de materiais, treinamento e desenvolvimento da equipe de enfermagem. É indicado tanto para iniciantes quanto para profissionais que buscam aprimorar conhecimentos sobre o Centro de Material e Esterilização.",
+  "exemplar_id": 5765,
+  "sku": "LI0360",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/centro-de-material-e-esterilizacao__planejamento-e-gestao__joao-francisco-possari__capa__2026-01-18_14-11-46-424182-000.png",
+  "contracapa": "static/uploads/centro-de-material-e-esterilizacao__planejamento-e-gestao__joao-francisco-possari__contracapa__2026-01-18_14-11-46-445971-001.png",
+  "fotos": [
+    "static/uploads/centro-de-material-e-esterilizacao__planejamento-e-gestao__joao-francisco-possari__foto-01__2026-01-18_14-11-46-461151-002.jpg",
+    "static/uploads/centro-de-material-e-esterilizacao__planejamento-e-gestao__joao-francisco-possari__foto-02__2026-01-18_14-11-46-487709-003.jpg",
+    "static/uploads/centro-de-material-e-esterilizacao__planejamento-e-gestao__joao-francisco-possari__foto-03__2026-01-18_14-11-46-515266-004.jpg",
+    "static/uploads/centro-de-material-e-esterilizacao__planejamento-e-gestao__joao-francisco-possari__foto-04__2026-01-18_14-11-46-546581-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:05:30",
+  "observacoes": "procedencia_biblioteca"
+}

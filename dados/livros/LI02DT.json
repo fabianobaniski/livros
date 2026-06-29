@@ -1,0 +1,68 @@
+{
+  "obra_id": 3598,
+  "autor": "Clamp",
+  "titulo": "Chobits",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Ficção científica. Robôs. Relações humanas.",
+  "palavras_chave": "clamp chobits",
+  "edicao_id": 3575,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 215,
+  "isbn": "9788545700302",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>A relação entre Hideki e sua persocom, Chii, vai se aprofundando, mas todos à sua volta parecem preocupados... O que pode acontecer? Completo em 8 volumes.</p>",
+  "sinopse": "Neste segundo volume de Chobits, a relação entre Hideki e sua persocom, Chii, se aprofunda, enquanto as pessoas ao redor demonstram preocupação com o vínculo entre eles. A história promete novos desdobramentos e mistérios, em uma série completa em 8 volumes.",
+  "exemplar_id": 3574,
+  "sku": "LI02DT",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/chobits__clamp__capa__2025-11-05_16-17-00-589936.jpg",
+  "contracapa": "static/uploads/chobits__clamp__contracapa__2025-11-05_16-17-00-662236.jpg",
+  "fotos": [
+    "static/uploads/chobits__clamp__foto-01__2025-11-05_16-17-00-688644.jpg",
+    "static/uploads/chobits__clamp__foto-02__2025-11-05_16-17-00-707731.jpg",
+    "static/uploads/chobits__clamp__foto-03__2025-11-05_16-17-00-724307.jpg",
+    "static/uploads/chobits__clamp__foto-04__2025-11-05_16-17-00-753765.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:00:27",
+  "observacoes": null
+}

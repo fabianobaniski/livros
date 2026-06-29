@@ -1,0 +1,63 @@
+{
+  "obra_id": 2738,
+  "autor": "Tim Flannery",
+  "titulo": "Nós somos os senhores do clima",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ecologia",
+  "temas": "",
+  "palavras_chave": "flannery nos somos senhores",
+  "edicao_id": 2718,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 271,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Galera Record",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Tim Flannery, em Nós somos os senhores do clima, desmistifica as mudanças climáticas e suas consequências, analisando fatos e expondo como essas transformações afetam diretamente a vida no planeta. O autor foge do sensacionalismo, apresentando um panorama acessível e embasado sobre a história do clima ao longo de milhões de anos. Ele aponta soluções práticas que podem ser adotadas para mitigar os efeitos do aquecimento global e reverter o quadro atual, mostrando que ainda há esperança, desde que ajamos com urgência e responsabilidade.",
+  "exemplar_id": 2717,
+  "sku": "LI01Q2",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/nos-somos-os-senhores-do-clima-tim-flannery-capa_rev185.jpg",
+  "contracapa": "static/uploads/nos-somos-os-senhores-do-clima-tim-flannery-contracapa_rev1053.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado, sem qualquer dano na capa, lombada ou contracapa. Miolo impecável. Texto livre de anotações e sublinhados. Também não constam carimbo, selo e assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:21:38",
+  "observacoes": null
+}

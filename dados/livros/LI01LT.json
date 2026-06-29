@@ -1,0 +1,63 @@
+{
+  "obra_id": 2585,
+  "autor": "Wolfgang Hirschfeld",
+  "titulo": "Hirschfeld",
+  "subtitulo": "The secret diary of a U-boat",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "hirschfeld hirschfeld the secret",
+  "edicao_id": 2565,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Weidenfeld & Nicolson",
+  "numero_edicao": 0,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2564,
+  "sku": "LI01LT",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/wolfgang-hirschfeld--hirschfeld--capa--20260316--212425.jpg",
+  "contracapa": "static/uploads/wolfgang-hirschfeld--hirschfeld--contracapa--20260316--212425.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Primeira folha está solta. Texto sem anotações ou sublinhados.  Translated from the German by Geoffrey Brooks, the book chronicles the life of Wolfgang Hirschfeld from his conscription into the Kriegsmarine until his imprisonment in the USA."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:51:20",
+  "observacoes": null
+}

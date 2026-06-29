@@ -1,0 +1,63 @@
+{
+  "obra_id": 856,
+  "autor": "Thomas Brooks",
+  "titulo": "Resista ao diabo",
+  "subtitulo": "Um estudo da batalha espiritual dos crentes contra Satanás",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Espiritualidade. Resistência ao mal.",
+  "palavras_chave": "brooks resista diabo",
+  "edicao_id": 841,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 103,
+  "peso": 200,
+  "isbn": "9788568026021",
+  "editora": "PES",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro é sobre como Satanás, o inimigo de todos os crentes no Senhor Jesus Cristo, tenta levar os fiéis a pecar. Satanás deseja afastá-los de Jesus Cristo, de Deus o Pai e de Sua vontade. Satanás é muito astuto ao tentar fazê-lo. Ele tentará levar os crentes a pecar sem que eles percebam. Ele quer fazê-los pecar sem pensar que estão pecando.</p><p>Há quatro assuntos que todos os cristãos devem conhecer. Eles devem aprender sobre o Senhor Jesus Cristo, sobre a Bíblia, sobre si mesmos e sobre a astúcia de Satanás ao tentar afastá-los de Deus. Portanto, eu quero alertar você, leitor e leitora, sobre as formas como os cristãos podem ser atingidos. Eu desejo que todos os que leem este livro se tornem cristãos mais fortes e que todos os meus leitores resistam a todas as formas do mal desse inimigo.</p><p>Não somente leiam este livro: leiam, mas também aprendam e tomem uma decisão. Todo ensinamento cristão é para fazer mais do que simplesmente ajudar os crentes a entenderem a verdade. Eles precisam entender a vontade de Deus, mas também precisam FAZER a vontade de Deus. Jesus disse: \"Agora que vocês sabem estas coisas, felizes serão se as praticarem\" (João 13.17).</p>",
+  "sinopse": "Este livro explora como Satanás tenta influenciar os crentes, afastando-os de sua fé em Jesus Cristo e incutindo pecados sem que percebam. O autor destaca a importância de conhecer melhor a Bíblia, a vontade de Deus e como resistir às astúcias do inimigo. A obra é um chamado à ação e reflexão, encorajando os leitores a não apenas aprender, mas a agir conforme a vontade divina.",
+  "exemplar_id": 840,
+  "sku": "LI00MQ",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/thomas-brooks--resista--capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/thomas-brooks--resista--contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:44:45",
+  "observacoes": null
+}

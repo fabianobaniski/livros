@@ -1,0 +1,68 @@
+{
+  "obra_id": 2037,
+  "autor": "José Carlos Marion",
+  "titulo": "Contabilidade básica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Educação profissional. Introdução à contabilidade. Relatórios contábeis.",
+  "palavras_chave": "marion contabilidade basica",
+  "edicao_id": 2017,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 269,
+  "peso": 560,
+  "isbn": "9788522455928",
+  "editora": "Atlas",
+  "numero_edicao": 10,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Contabilidade Básica</h1><p>A matéria exposta neste livro procura ir além da existente em livros destinados ao ensino de iniciação à Contabilidade. Apresenta uma metodologia moderna, testada em algumas escolas e com resultados considerados satisfatórios, através de uma linguagem simples e acessível ao iniciante em Contabilidade.</p><p>Desenvolvido com base em autores da moderna escola de Contabilidade, apresenta a mecânica de escrituração dos lançamentos contábeis a partir de uma visão conjunta dos Relatórios Contábeis, com especial ênfase no Balanço Final e na Demonstração de Resultado do Exercício. A matéria é apresentada numa sequência de exploração gradativa do assunto para despertar o interesse do estudante na aprendizagem da disciplina. Procurou-se também dar um embasamento legal e tributário, possibilitando ao leitor situar-se na realidade em que a empresa atua.</p><p>No final de cada capítulo, são sugeridas tarefas práticas a serem desenvolvidas, proporcionando uma aprendizagem fora da sala de aula.</p><h2>APLICAÇÃO</h2><p>Livro-texto para a disciplina CONTABILIDADE BÁSICA do curso de Formação Profissionalizante Básica e para a disciplina CONTABILIDADE GERAL das habilitações profissionalizantes. Recomendado para disciplinas de iniciação à Contabilidade.</p>",
+  "sinopse": "Este livro de Contabilidade Básica apresenta uma metodologia moderna e acessível para iniciantes, proporcionando não apenas a compreensão simples dos conceitos, mas também o embasamento legal e tributário necessário para a atuação profissional. Com foco prático e ênfase nos Relatórios Contábeis como o Balanço Final e a Demonstração de Resultado do Exercício, o conteúdo é estruturado de forma gradual para facilitar o aprendizado. Ao final de cada capítulo, tarefas práticas ajudam a fixar o conhecimento, tornando-o um livro recomendado para cursos e disciplinas introdutórias de contabilidade.",
+  "exemplar_id": 2016,
+  "sku": "LI016M",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--carlos-marion--contabilidade-b-sica--capa--20250430--104524.jpg",
+  "contracapa": "static/uploads/jos--carlos-marion--contabilidade-b-sica--contracapa--20250430--104524.jpg",
+  "fotos": [
+    "static/uploads/jos--carlos-marion--contabilidade-b-sica--foto1--20250430--104524.jpg",
+    "static/uploads/jos--carlos-marion--contabilidade-b-sica--foto2--20250430--104524.jpg",
+    "static/uploads/jos--carlos-marion--contabilidade-b-sica--foto3--20250430--104524.jpg",
+    "static/uploads/jos--carlos-marion--contabilidade-b-sica--foto4--20250430--104524.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:03:08",
+  "observacoes": "procedencia_biblioteca"
+}

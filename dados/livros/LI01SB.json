@@ -1,0 +1,63 @@
+{
+  "obra_id": 2819,
+  "autor": "H. Caffarel",
+  "titulo": "Oração interior",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "caffarel oracao interior",
+  "edicao_id": 2799,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Editorial A. O. Braga",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2798,
+  "sku": "LI01SB",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/oracao-interior-h-caffarel-capa_rev1909.jpg",
+  "contracapa": "static/uploads/oracao-interior-h-caffarel-contracapa_rev753.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Em novembro e dezembro de 1979, em Paris, realizaram-se reuniões sobre oração interior, atraindo mais de 500 pessoas, a maioria jovens e casais. Em meio a um ambiente normalmente agitado, as palestras trouxeram um clima de silêncio e concentração, com participantes em busca de aprofundar sua conexão com Deus. Padre Caffarel revisou essas palestras para atender a pedidos de quem não pôde estar presente. O livro aborda não apenas os fundamentos da oração, mas também aspectos psicológicos e a participação do corpo, sendo uma obra relevante para aqueles que desejam aprender a rezar. / Livro bastante envelhecido, fortemente amarelado, mas em bom estado para leitura e manuseio. Pequenos desgastes na lombada e capas. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:34",
+  "observacoes": null
+}

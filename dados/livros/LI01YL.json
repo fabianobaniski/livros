@@ -1,0 +1,63 @@
+{
+  "obra_id": 3045,
+  "autor": "Salman Rushdie",
+  "titulo": "O último Suspiro do Mouro",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": null,
+  "palavras_chave": "rushdie ultimo suspiro mouro",
+  "edicao_id": 3025,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 451,
+  "peso": 800,
+  "isbn": "9788571645349",
+  "editora": "Companhia das Letras",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Há sete anos, o aiatolá Khomeini condenou Salman Rushdie à morte por escrever uma obra que ofendeu os fundamentalistas islâmicos. Este romance surge como uma defesa do pluralismo e da tolerância, desafiando verdades únicas e excludentes. A narrativa começa no sul da Índia colonial, passa pela Bombaim vibrante dos anos 80 e 90, e termina na Espanha. Com um herói picaresco de múltiplas origens, a história celebra a diversidade e a liberdade individual, rejeitando todo tipo de sectarismo nacionalista, étnico e religioso.",
+  "exemplar_id": 3024,
+  "sku": "LI01YL",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, apesar de um tanto amarelado pela passagem dos anos. Texto sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:46:12",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

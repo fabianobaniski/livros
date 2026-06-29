@@ -1,0 +1,63 @@
+{
+  "obra_id": 3095,
+  "autor": "Samson Raphael Hirsch",
+  "titulo": "Torá Interpretada",
+  "subtitulo": "Deuteronômio",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "hirsch tora interpretada deuteronomio",
+  "edicao_id": 3075,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 967,
+  "peso": 1400,
+  "isbn": "9786586175080",
+  "editora": "Sêfer",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Esta Torá Interpretada é uma adaptação da grande obra do Rabino Samson Raphael Hirsch (1808-1888) publicada em 1877 na cidade de Frankfurt, Alemanha, que, além da tradução da Torá ao idioma alemão, apresentava comentários que a complementavam. Esse Chumash se popularizou rapidante e, tendo aliado clareza e profundidade, foi lido e estudado por todas as camadas da sociedade - iniciantes e versados, homens, mulheres e crianças. Em 1960, traduzido ao inglês e ao hebraico, tornou-se um vetor de todo um legado espiritual que hoje vem se mostrando tão relevante e inspirador quanto foi urgente e inovador em sua época.",
+  "exemplar_id": 3074,
+  "sku": "LI01ZZ",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, sem danos!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:27:44",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3648,
+  "autor": "Daniel Defoe",
+  "titulo": "Moll Flanders",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "defoe moll flanders",
+  "edicao_id": 3625,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 362,
+  "peso": 460,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Escrito como uma autobiografia fictícia, o livro relata as peripécias de uma mulher que, nascida em uma prisão e lutando contra a miséria na Inglaterra do século XVII, recorre a sucessivos casamentos, à prostituição e ao crime organizado para sobreviver, oferecendo um relato cru sobre necessidade econômica e moralidade.",
+  "exemplar_id": 3624,
+  "sku": "LI02F7",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/daniel-defoe--moll-flanders--capa--20251114--184750.png",
+  "contracapa": "static/uploads/daniel-defoe--moll-flanders--contracapa--20251114--184758.png",
+  "fotos": [
+    "static/uploads/daniel-defoe--moll-flanders--foto1--20251113--205554.jpg",
+    "static/uploads/daniel-defoe--moll-flanders--foto2--20251113--205554.jpg",
+    "static/uploads/daniel-defoe--moll-flanders--foto3--20251113--205554.jpg",
+    "static/uploads/daniel-defoe--moll-flanders--foto4--20251113--205554.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:51",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 5833,
+  "autor": "Harlan Coben",
+  "titulo": "Confie em mim",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Suspense. Relações familiares. Internet. Mistério.",
+  "palavras_chave": "coben confie mim",
+  "edicao_id": 5808,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 317,
+  "peso": 450,
+  "isbn": "9788599296462",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Harlan Coben é mestre em prender a atenção do leitor e criar histórias surpreendentes. Ele vai seduzir você na primeira página apenas para chocá-lo na última.\"<br>Dan Brown, autor de O Código Da Vinci</p> <p>Preocupados com o comportamento cada vez mais distante de seu filho Adam – principalmente depois do suicídio de seu melhor amigo, Spencer Hill –, o Dr. Mike Baye e sua esposa, Tia, decidem instalar um programa de monitoração no computador do garoto.</p> <p>Os primeiros relatórios não revelam nada importante. Porém, quando eles já começavam a se sentir mais tranquilos, uma estranha mensagem muda completamente o rumo dos acontecimentos: \"Fica de bico calado que a gente se safa.\"</p> <p>Perto dali, a mãe de Spencer, Betsy, encontra uma foto que levanta suspeitas sobre as circunstâncias da morte de seu filho. Ao contrário do que todos pensavam, ele não estava sozinho naquela noite fatídica. Teria sido mesmo suicídio?</p> <p>Para tornar o caso ainda mais estranho, Adam combina ir a um jogo com o pai, mas desaparece misteriosamente. Acreditando que o garoto está correndo grande perigo, Mike não medirá esforços para encontrá-lo.</p> <p>Quando duas mulheres são assassinadas, uma série de acontecimentos faz com que a vida de todas essas pessoas se cruzem de forma trágica, violenta e inesperada.</p> <p><i>Confie em mim</i> é um suspense eletrizante, mas também um convite à reflexão sobre temas mais profundos. Neste livro, Harlan Coben – vencedor de diversos prêmios e presença constante nas listas de mais vendidos de todo o mundo – aborda assuntos atuais, como a facilidade de acesso a informações na era da internet, e questiona os limites no relacionamento entre pais e filhos: quando é hora de intervir? Quando o melhor é simplesmente confiar? Até onde você iria para proteger as pessoas que mais ama na vida?</p>",
+  "sinopse": "O Dr. Mike Baye e sua esposa, Tia, preocupados com a distância de seu filho Adam após o suicídio de seu melhor amigo, instalam um programa de monitoramento no computador do garoto. Uma mensagem suspeita muda o rumo dos acontecimentos e Adam desaparece misteriosamente. Enquanto isso, Betsy, mãe de Spencer, levanta dúvidas sobre as circunstâncias da morte do filho. Em meio a assassinatos e segredos, as vidas dessas famílias se cruzam tragicamente, abordando limites entre pais e filhos e o dilema sobre confiar ou intervir.",
+  "exemplar_id": 5807,
+  "sku": "LI0376",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/confie-em-mim__none__harlan-coben__capa__2026-01-18_14-12-06-792095-000.png",
+  "contracapa": "static/uploads/confie-em-mim__none__harlan-coben__contracapa__2026-01-18_14-12-06-820669-001.png",
+  "fotos": [
+    "static/uploads/confie-em-mim__none__harlan-coben__foto-01__2026-01-18_14-12-06-848682-002.jpg",
+    "static/uploads/confie-em-mim__none__harlan-coben__foto-02__2026-01-18_14-12-06-874439-003.jpg",
+    "static/uploads/confie-em-mim__none__harlan-coben__foto-03__2026-01-18_14-12-06-907035-004.jpg",
+    "static/uploads/confie-em-mim__none__harlan-coben__foto-04__2026-01-18_14-12-06-969578-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:02:10",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2792,
+  "autor": "Inês C. Inácio; Tania Regina de Luca",
+  "titulo": "O pensamento medieval",
+  "subtitulo": "Série Princípios Nº 150",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "inacio pensamento medieval serie",
+  "edicao_id": 2772,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 94,
+  "peso": 150,
+  "isbn": "9788508030446",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A Idade Média é comumente vista de forma negativa, associada à tirania, intolerância e irracionalidade. Este volume, no entanto, desafia essa perspectiva ao destacar a riqueza e originalidade do pensamento medieval. Os intelectuais da época buscaram criar uma visão universalizante, harmonizando legados culturais e construindo uma base racional para as relações entre Deus, o mundo e o homem. A obra revela a profundidade desse período, rompendo com os estereótipos de escuridão e mostrando seu impacto duradouro na história do pensamento.",
+  "exemplar_id": 2771,
+  "sku": "LI01RK",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/o-pensamento-medieval-ines-c-inacio-capa_rev891.jpg",
+  "contracapa": "static/uploads/o-pensamento-medieval-ines-c-inacio-contracapa_rev2089.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso. Boa conservação. Sem grifos ou anotações, mas um pouco amarelado. Capa brochura, com"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:08:36",
+  "observacoes": null
+}

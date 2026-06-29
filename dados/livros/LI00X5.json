@@ -1,0 +1,68 @@
+{
+  "obra_id": 1588,
+  "autor": "Knister",
+  "titulo": "Lili, a bruxa",
+  "subtitulo": "O dragão e o livro mágico",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Literatura infanto-juvenil. Magia. Amizade.",
+  "palavras_chave": "knister lili bruxa dragao livro magico",
+  "edicao_id": 1569,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 250,
+  "isbn": "9788578273262",
+  "editora": "Martins Fontes",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O terrível feiticeiro Jerônimos quer construir uma máquina para dominar o mundo. Só que, para seu plano dar certo, ele precisa roubar o livro mágico da bruxa Surulunda Knorx. Sabendo do perigo que isso representa, a boa Surulunda, que já está ficando velha e desmiolada, percebe que ela e seu fiel amigo Heitor, o dragão voador, não vão conseguir, sozinhos, manter o livro em segurança. E agora?! Com a ajuda de Heitor, ela terá de encontrar uma sucessora o mais depressa possível. Quem será?</p><p>A série \"Lili, a bruxa\" pode ser lida em 35 idiomas diferentes. Vendeu mais de 17 milhões de exemplares em todo o mundo.</p>",
+  "sinopse": "O feiticeiro Jerônimos planeja dominar o mundo, mas para isso precisa do livro mágico da bruxa Surulunda. Com o auxílio de seu amigo dragão Heitor, Surulunda busca uma sucessora para manter o livro seguro e enfrentar o grande desafio que se aproxima.",
+  "exemplar_id": 1568,
+  "sku": "LI00X5",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/knister--lili--a-bruxa--capa--20250401--115753.jpg",
+  "contracapa": "static/uploads/knister--lili--a-bruxa--contracapa--20250401--115753.jpg",
+  "fotos": [
+    "static/uploads/knister--lili--a-bruxa--foto1--20250401--115753.jpg",
+    "static/uploads/knister--lili--a-bruxa--foto2--20250401--115753.jpg",
+    "static/uploads/knister--lili--a-bruxa--foto3--20250401--115753.jpg",
+    "static/uploads/knister--lili--a-bruxa--foto4--20250401--115753.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada levemente inclinada à direita."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:24:12",
+  "observacoes": null
+}

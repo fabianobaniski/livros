@@ -1,0 +1,68 @@
+{
+  "obra_id": 1948,
+  "autor": "Dante Pinheiro Martinelli",
+  "titulo": "Negociação empresarial",
+  "subtitulo": "Enfoque sistêmico e visão estratégica",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Negociação. Estratégia empresarial.",
+  "palavras_chave": "martinelli negociacao empresarial enfoque sistemico visao estrategica",
+  "edicao_id": 1928,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 262,
+  "peso": 535,
+  "isbn": "9788520414361",
+  "editora": "Manole",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O tema negociação tem se destacado nos últimos anos. Muitas publicações surgiram, porém a maior parte delas não tem a preocupação de enfocar a negociação sob um ponto de vista sistêmico. Neste livro, ressalta-se a importância que o tema vem assumindo, demonstra-se como o conhecimento e a utilização das diversas classificações de estilos de negociação e dos diferentes perfis dos negociadores podem auxiliar no encaminhamento e na solução dos conflitos e, principalmente, apresenta-se a negociação segundo uma visão sistêmica, visando a torná-la estratégica.</p><p>Esta obra traz uma reflexão e uma contribuição para a busca de uma visão sistêmica no tratamento da negociação, seja no treinamento empresarial, seja no dia-a-dia das atividades nas organizações.</p>",
+  "sinopse": "O livro aborda a crescente importância da negociação no contexto empresarial, ressaltando a necessidade de um enfoque sistêmico e uma visão estratégica. Apresenta classificações de estilos de negociação, perfis de negociadores e como estes conhecimentos auxiliam na resolução de conflitos. A obra propõe reflexões e contribuições para aplicar uma abordagem sistêmica, útil tanto em treinamentos empresariais quanto no cotidiano das organizações.",
+  "exemplar_id": 1927,
+  "sku": "LI0146",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/dante-pinheiro-martinelli--negocia--o-empresarial--capa--20250430--104306.jpg",
+  "contracapa": "static/uploads/dante-pinheiro-martinelli--negocia--o-empresarial--contracapa--20250430--104306.jpg",
+  "fotos": [
+    "static/uploads/dante-pinheiro-martinelli--negocia--o-empresarial--foto1--20250430--104306.jpg",
+    "static/uploads/dante-pinheiro-martinelli--negocia--o-empresarial--foto2--20250430--104306.jpg",
+    "static/uploads/dante-pinheiro-martinelli--negocia--o-empresarial--foto3--20250430--104306.jpg",
+    "static/uploads/dante-pinheiro-martinelli--negocia--o-empresarial--foto4--20250430--104306.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:16:44",
+  "observacoes": "procedencia_biblioteca"
+}

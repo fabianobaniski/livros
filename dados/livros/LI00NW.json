@@ -1,0 +1,63 @@
+{
+  "obra_id": 902,
+  "autor": "J. C. Ryle",
+  "titulo": "Santidade",
+  "subtitulo": "Sem a qual ninguém verá o Senhor",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Santidade. Pecado.",
+  "palavras_chave": "ryle santidade senhor",
+  "edicao_id": 887,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 413,
+  "peso": 800,
+  "isbn": "9788599145616",
+  "editora": "FIEL",
+  "numero_edicao": 2,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A santidade é um assunto que parece estar relegado à seção de história dos assuntos religiosos contemporâneos; aliás, o termo santidade parece estranho a muitos cristãos hoje e remete à ideia de homens e mulheres angelicais, imaculados e semiperfeitos de uma era remota da história cristã.</p> <p>Esta situação torna urgente e atualíssima esta obra clássica de J. C. Ryle, publicada pela primeira vez na Inglaterra em 1879. O problema do pecado – sua seriedade e malignidade – tratado com maestria logo no primeiro capítulo, é apresentado como a barreira intransponível que impede nossa comunhão com Deus. O sacrifício propiciatório de Cristo na cruz remove esta barreira; agora precisamos que a santidade de Deus nos seja comunicada pelo Espírito e exercitada por nós, para que possamos, como diz o autor da epístola aos Hebreus, \"ver o Senhor\".</p> <p>Nesta obra prima da literatura cristã, Ryle fala aos nossos corações de forma clara, persuasiva e franca, ensinando-nos sobre a santidade de Deus e do nosso dever de vivermos vidas santas. É uma obra que, como disse J. I. Packer, \"todo cristão verdadeiro considerará como um banquete, uma mina de ouro, um aguilhão, comida e bebida, remédio e vitamina – tudo isso em um só livro. Tolle, lege\".</p>",
+  "sinopse": "A obra 'Santidad' de J. C. Ryle aborda a importância da santidade na vida cristã, explicando a seriedade do pecado e a necessidade da comunhão com Deus. Com uma linguagem clara e persuasiva, Ryle destaca como a santidade deve ser comunicada e exercitada na vida do cristão, enfatizando que a santidade é essencial para ver o Senhor.",
+  "exemplar_id": 886,
+  "sku": "LI00NW",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 66.0,
+  "capa": "static/uploads/j--c--ryle--santidad--capa--20250227--152912.jpg",
+  "contracapa": "static/uploads/j--c--ryle--santidad--contracapa--20250227--152912.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:51:08",
+  "observacoes": null
+}

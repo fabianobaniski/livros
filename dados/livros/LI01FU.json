@@ -1,0 +1,63 @@
+{
+  "obra_id": 2369,
+  "autor": "Carlos Rubens",
+  "titulo": "Andersen, Pai da Pintura Paranaense",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "rubens andersen pai pintura",
+  "edicao_id": 2349,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 123,
+  "peso": 202,
+  "isbn": "",
+  "editora": "Farol do Saber",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Aborda o trabalho de Alfredo Andersen, destacando sua superação do academicismo e seu encanto pelo impressionismo. Andersen, um pintor norueguês que se estabeleceu no Brasil, especialmente no Paraná, é elogiado pelos retratos e cenas do cotidiano, notáveis pelo uso da luz e cor. Após sua chegada ao Brasil em 1891, Andersen se fixou definitivamente em Curitiba, onde lecionou e fundou uma escola de desenho e pintura, que hoje é o Museu Alfredo Andersen. Sua contribuição à arte brasileira é reconhecida, especialmente pelo seu papel na representação da paisagem e da vida local.",
+  "exemplar_id": 2348,
+  "sku": "LI01FU",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/carlos-rubens--andersen-pai-da-pintura-paranaense--capa--20260316--154213.jpg",
+  "contracapa": "static/uploads/carlos-rubens--andersen-pai-da-pintura-paranaense--contracapa--20260316--154220.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, embora com leves desgastes decorrentes do passar dos anos. Texto livre de anotações e sublinhados. Papel um pouco pigmentado pelo tempo.  Publicado em 1995."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 20:22:21",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2695,
+  "autor": "Rui Santos",
+  "titulo": "Mentiras futebol clube",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "santos mentiras futebol clube",
+  "edicao_id": 2675,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 294,
+  "peso": 400,
+  "isbn": "9789897690471",
+  "editora": "Matéria Prima",
+  "numero_edicao": 1,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro expõe os bastidores do futebol português, revelando os principais escândalos que afetam o esporte nacional. Aborda temas como os planos de Luís Filipe Vieira e Jorge Mendes para dispensar Jorge Jesus, o impacto de Bruno de Carvalho na hegemonia Porto",
+  "exemplar_id": 2674,
+  "sku": "LI01OV",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/mentiras-futebol-clube-rui-santos-capa_rev1755.jpg",
+  "contracapa": "static/uploads/mentiras-futebol-clube-rui-santos-contracapa_rev11.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Esquemas, corrupção e interesses: O dinheiro não pode continuar a sujar o futebol / Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:50:38",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 472,
+  "autor": "Justo González",
+  "titulo": "Quando Cristo vive em nós",
+  "subtitulo": "Uma peregrinação de fé",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Vida cristã. Transformação espiritual.",
+  "palavras_chave": "gonzalez quando cristo vive",
+  "edicao_id": 457,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 124,
+  "peso": 250,
+  "isbn": "9788524305214",
+  "editora": "United Press",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Na epístola aos Gálatas, o apóstolo Paulo diz: e vivo, não mais eu, mas Cristo vive em mim. De maneira geral, entendemos essas palavras como sinal de orgulho de Paulo pela grandiosidade de sua fé. Contudo, o que Paulo está dizendo nesse texto é que todo crente, pelo fato de ser crente, de certa forma já não vive, mas Cristo é quem vive nele. Porém, na mesma epístola, Paulo diz que está sofrendo dores como de parto até que Cristo seja formado em vós (Gl 4.19). Esse livro é um convite à meditação sobre a vida cristã e como ela deve manifestar-se no dia a dia dos seguidores de Cristo. Este Cristo que vive em nós, e que transforma nossas vidas em sua totalidade.</p><p>Justo González é bacharel em teologia pelo Seminário Evangélico de Matanza, em Cuba, e doutor em filosofia pela Universidade de Yale, nos Estados Unidos. É casado com a professora de História, Catherine Gunsalus González, e mora em Atlanta, Georgia, Estados Unidos, onde se dedica ao ensino, pesquisa e produção de livros.</p>",
+  "sinopse": "Este livro explora a profunda afirmação do apóstolo Paulo sobre a vida cristã, afirmando que, ao se tornar crente, somos transformados pela presença de Cristo em nós. A obra convida à reflexão sobre como essa transformação deve se manifestar no dia a dia dos seguidores de Cristo, levando a uma vida plena e total com Ele.",
+  "exemplar_id": 456,
+  "sku": "LI00C3",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/justo-gonz-lez--quando-cristo-vive-em-n-s--capa--20250227--111544.jpg",
+  "contracapa": "static/uploads/justo-gonz-lez--quando-cristo-vive-em-n-s--contracapa--20250227--111544.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:22:18",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 4844,
+  "autor": "Tatsuki Fujimoto",
+  "titulo": "Chainsaw man",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Aventura. Sobrenatural.",
+  "palavras_chave": "fujimoto chainsaw man",
+  "edicao_id": 4819,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 220,
+  "isbn": "9786525909745",
+  "editora": "Panini Comics Planet Manga",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "Chainsaw Man",
+  "volume": 12,
+  "transcricao_contracapa": "<p>Asa Mitaka é uma jovem solitária que não consegue se adaptar à sua vida escolar. No entanto, seus dias sofrerão uma mudança drástica após seu encontro com certo demônio!! Qual o objetivo desse demônio que está prestes a se tornar uma nova calamidade para o mundo?! E qual o paradeiro do elusivo Chainsaw Man?! Aqui começa a chocante segunda parte sobre essa história de uma juventude explosiva banhada de sangue e tripas!!</p>",
+  "sinopse": "Asa Mitaka é uma jovem que tem dificuldades em se adaptar à vida escolar, mas sua vida muda drasticamente após encontrar um demônio. Qual será o objetivo deste demônio prestes a causar uma nova calamidade? E onde está o Chainsaw Man? A segunda parte desta história explosiva e sanguinária começa aqui.",
+  "exemplar_id": 4818,
+  "sku": "LI02M6",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 33.0,
+  "capa": "static/uploads/chainsaw-man__tatsuki-fujimoto__capa__2026-02-20_10-30-49-863060-000.png",
+  "contracapa": "static/uploads/chainsaw-man__tatsuki-fujimoto__contracapa__2026-02-20_10-30-49-974804-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

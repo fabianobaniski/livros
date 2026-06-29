@@ -1,0 +1,63 @@
+{
+  "obra_id": 3040,
+  "autor": "Stella Carr",
+  "titulo": "O Caso do Sabotador de Angra",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": null,
+  "palavras_chave": "carr caso sabotador angra",
+  "edicao_id": 3020,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 153,
+  "peso": 200,
+  "isbn": null,
+  "editora": "Pioneira",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Tic-Tac e Acetato, dois personagens irreverentes e especialistas em jeitinhos, se veem envolvidos em uma trama de mistério e perigo quando um sabotador ameaça explodir a Usina Nuclear de Angra dos Reis. Com o apoio do experiente delegado Nicolau, conhecido de outras aventuras, eles enfrentam um ritmo acelerado de investigações e desafios. Baseada em fatos reais e temperada com humor e figuras do cotidiano, a história mistura ação e suspense, criando uma narrativa envolvente e cheia de reviravoltas.",
+  "exemplar_id": 3019,
+  "sku": "LI01YG",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, com leves sinais de uso, um tanto amarelado pelo tempo, mas em bom estado. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:55:47",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

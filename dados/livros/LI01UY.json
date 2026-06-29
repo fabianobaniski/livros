@@ -1,0 +1,63 @@
+{
+  "obra_id": 2914,
+  "autor": "Marco Lucchesi",
+  "titulo": "Sphera",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Poesia",
+  "temas": "",
+  "palavras_chave": "marco lucchesi sphera",
+  "edicao_id": 2894,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 127,
+  "peso": 300,
+  "isbn": "9788515036233",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Marco Lucchesi, em sua obra Sphera, constrói uma poesia depurada e intensa, onde a linguagem se desdobra em camadas de significado, revelando uma profundidade que transcende o superficial. Suas referências literárias e filosóficas, ainda que presentes, não ofuscam a originalidade da obra, mas reforçam seu caráter alquímico, transformando o verbo em ouro. Ao dialogar com grandes sonhadores da humanidade, Lucchesi busca o absoluto e a perfeição, convidando o leitor a uma jornada por desertos físicos e metafísicos, em busca do sublime.",
+  "exemplar_id": 2893,
+  "sku": "LI01UY",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sphera-marco-lucchesi-capa_rev2072.jpg",
+  "contracapa": "static/uploads/sphera-marco-lucchesi-contracapa_rev922.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:35:53",
+  "observacoes": null
+}

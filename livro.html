@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Livro — Fabiano Livros</title>
+<meta name="description" content="Livros, CDs e DVDs usados e seminovos. Sebo em Castro - PR.">
+<meta property="og:title" content="Fabiano Livros">
+<meta property="og:description" content="Livros, CDs e DVDs usados e seminovos. Sebo em Castro - PR.">
+<meta property="og:type" content="product">
+<meta property="og:site_name" content="Fabiano Livros">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:url" content="https://fabianobaniski.github.io/livros/livro.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Fabiano Livros">
+<meta name="twitter:description" content="Livros, CDs e DVDs usados e seminovos. Sebo em Castro - PR.">
+<link rel="stylesheet" href="css/estilo.css">
+<script src="js/config.js"></script>
+</head>
+<body>
+
+<!-- cabeçalho e rodapé injetados por layout.js -->
+
+<div class="pagina pagina-detalhe">
+  <main class="conteudo">
+    <a class="voltar" id="voltar" href="index.html">‹ Voltar ao catálogo</a>
+    <div id="detalhe" class="detalhe">
+      <p class="vazio">Carregando…</p>
+    </div>
+  </main>
+</div>
+
+<!-- Painel da lista de interesse -->
+<div id="painel-interesse" class="painel" hidden>
+  <div class="painel-caixa">
+    <div class="painel-cabecalho">
+      <h2>Livros que me interessam</h2>
+      <button class="painel-fechar" id="fechar-interesse" aria-label="Fechar">&times;</button>
+    </div>
+    <div class="painel-corpo" id="lista-interesse"></div>
+    <div class="painel-rodape">
+      <p class="painel-total" id="interesse-total"></p>
+      <button class="btn-copiar" id="copiar-interesse">Copiar lista</button>
+      <p class="painel-instrucao">Ou envie uma mensagem ao vendedor:</p>
+      <div class="painel-envio">
+        <a class="btn-envio btn-envio-whats" id="whats-interesse" href="#" target="_blank" rel="noopener">WhatsApp</a>
+        <a class="btn-envio btn-envio-email" id="email-interesse" href="#">E-mail</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div id="lightbox" class="lightbox" hidden>
+  <img id="lightbox-img" src="" alt="">
+</div>
+
+<script src="js/interesse.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/detalhes.js"></script>
+</body>
+</html>

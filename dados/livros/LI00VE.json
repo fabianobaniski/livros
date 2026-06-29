@@ -1,0 +1,68 @@
+{
+  "obra_id": 1464,
+  "autor": "Rogério Formigoni",
+  "titulo": "A última pedra",
+  "subtitulo": "Vícios têm cura",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "Saúde. Comportamento. Superação.",
+  "palavras_chave": "formigoni ultima pedra vicios",
+  "edicao_id": 1445,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 106,
+  "peso": 200,
+  "isbn": "9788571407114",
+  "editora": "Unipro",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Vício: Será que você tem um e não sabe?</h1> <p>Muitas pessoas têm vícios, mesmo sem saber. Vemos isso todos os dias naqueles com quem convivemos. A palavra \"vício\", vem do latim <i>vitium</i>, significa \"defeito físico ou imperfeição grave que compromete a sua capacidade\".</p> <p>Essa imperfeição afeta negativamente o comportamento da pessoa. O vício é uma tendência para o mal, para a depravação, para uma conduta nociva. O hábito censurável daquele que possui um vício prejudica a si e aqueles com quem convive.</p> <p>Se você se sente aprisionado em um labirinto sem saída por causa de um hábito que mina a sua autoestima, destrói seus recursos financeiros e compromete o seu relacionamento familiar e social, precisa conhecer a história de Rogério Formigoni.</p> <p>Aprenda com Formigoni que é possível, de verdade, curar-se desse hábito que não nasceu com você. Chegou a hora de entender por que o caminho do vício não lhe traz nenhum benefício real. Você não merece ser infeliz sendo escravo de uma substância qualquer.</p> <p>Cure-se agora com A Última Pedra!</p>",
+  "sinopse": "O livro aborda a questão dos vícios, trazendo à tona a reflexão sobre hábitos prejudiciais que podem estar presentes na vida das pessoas sem que elas tenham consciência. Rogério Formigoni compartilha sua própria experiência, oferecendo um caminho de cura e libertação para aqueles que se sentem aprisionados por comportamentos autodestrutivos. O autor proporciona uma nova perspectiva sobre como lidar com vícios e enfatiza que a superação é possível.",
+  "exemplar_id": 1444,
+  "sku": "LI00VE",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/rog-rio-formigoni--a--ltima-pedra--capa--20250401--115736.jpg",
+  "contracapa": "static/uploads/rog-rio-formigoni--a--ltima-pedra--contracapa--20250401--115736.jpg",
+  "fotos": [
+    "static/uploads/rog-rio-formigoni--a--ltima-pedra--foto1--20250401--115736.jpg",
+    "static/uploads/rog-rio-formigoni--a--ltima-pedra--foto2--20250401--115736.jpg",
+    "static/uploads/rog-rio-formigoni--a--ltima-pedra--foto3--20250401--115736.jpg",
+    "static/uploads/rog-rio-formigoni--a--ltima-pedra--foto4--20250401--115736.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:43:16",
+  "observacoes": null
+}

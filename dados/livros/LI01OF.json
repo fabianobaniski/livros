@@ -1,0 +1,63 @@
+{
+  "obra_id": 2679,
+  "autor": "Adélia Prado",
+  "titulo": "Manuscritos de Felipa",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "prado manuscritos felipa",
+  "edicao_id": 2659,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 161,
+  "peso": 250,
+  "isbn": "9788526708303",
+  "editora": "Siciliano",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Felipa, uma mulher de meia-idade, dialoga constantemente com Deus em uma oração sem fim, enquanto narra seu cotidiano repleto de desentendimentos com o marido, encontros com amigos e vizinhos, lembranças tristes e alegres, preguiça de ir à academia e o medo da morte. Com humor e delicadeza, Adélia Prado nos faz refletir sobre a religiosidade, sonhos e frustrações diante de um mundo de aparências frágeis. A autora transforma a realidade crua em matéria-prima para uma ficção que ilumina o vazio deixado pela ausência de poesia e amor.",
+  "exemplar_id": 2658,
+  "sku": "LI01OF",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/manuscritos-de-felipa-adelia-prado-capa_rev1943.jpg",
+  "contracapa": "static/uploads/manuscritos-de-felipa-adelia-prado-contracapa_rev1318.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:53:47",
+  "observacoes": null
+}

@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fabiano Livros</title>
+<meta name="description" content="Livros, CDs e DVDs usados e seminovos. Sebo em Castro - PR.">
+<meta property="og:title" content="Fabiano Livros">
+<meta property="og:description" content="Livros, CDs e DVDs usados e seminovos. Sebo em Castro - PR.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fabiano Livros">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:url" content="https://fabianobaniski.github.io/livros/">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Fabiano Livros">
+<meta name="twitter:description" content="Livros, CDs e DVDs usados e seminovos. Sebo em Castro - PR.">
+<link rel="stylesheet" href="css/estilo.css">
+<script src="js/config.js"></script>
+</head>
+<body>
+
+<!-- cabeçalho e rodapé são injetados por layout.js -->
+
+<div class="pagina">
+  <aside class="filtros-painel">
+    <h2 class="filtros-titulo">Filtros</h2>
+
+    <div class="filtro-grupo">
+      <label for="filtro-categoria">Categoria</label>
+      <select id="filtro-categoria"><option value="">Todas</option></select>
+    </div>
+
+    <div class="filtro-grupo">
+      <label for="filtro-idioma">Idioma</label>
+      <select id="filtro-idioma"><option value="">Todos</option></select>
+    </div>
+
+    <div class="filtro-grupo">
+      <label for="ordenar">Ordenar por</label>
+      <select id="ordenar">
+        <option value="titulo">Título (A–Z)</option>
+        <option value="autor">Autor (A–Z)</option>
+        <option value="preco-asc">Preço (menor)</option>
+        <option value="preco-desc">Preço (maior)</option>
+        <option value="ano-desc">Ano (mais novo)</option>
+        <option value="ano-asc">Ano (mais antigo)</option>
+      </select>
+    </div>
+
+    <div class="filtro-grupo">
+      <label>Preço</label>
+      <div class="filtro-preco">
+        <input type="number" id="preco-min" placeholder="mín" min="0" step="1">
+        <span>—</span>
+        <input type="number" id="preco-max" placeholder="máx" min="0" step="1">
+      </div>
+      <button class="btn-aplicar-preco" id="aplicar-preco">Aplicar</button>
+    </div>
+
+    <button class="btn-limpar" id="limpar-filtros">Limpar filtros</button>
+  </aside>
+
+  <main class="conteudo">
+    <p class="contagem" id="contagem">Carregando…</p>
+    <div id="grade" class="grade"></div>
+    <nav class="paginacao" id="paginacao"></nav>
+  </main>
+</div>
+
+<!-- Painel da lista de interesse -->
+<div id="painel-interesse" class="painel" hidden>
+  <div class="painel-caixa">
+    <div class="painel-cabecalho">
+      <h2>Livros que me interessam</h2>
+      <button class="painel-fechar" id="fechar-interesse" aria-label="Fechar">&times;</button>
+    </div>
+    <div class="painel-corpo" id="lista-interesse"></div>
+    <div class="painel-rodape">
+      <p class="painel-total" id="interesse-total"></p>
+      <button class="btn-copiar" id="copiar-interesse">Copiar lista</button>
+      <p class="painel-instrucao">Ou envie uma mensagem ao vendedor:</p>
+      <div class="painel-envio">
+        <a class="btn-envio btn-envio-whats" id="whats-interesse" href="#" target="_blank" rel="noopener">WhatsApp</a>
+        <a class="btn-envio btn-envio-email" id="email-interesse" href="#">E-mail</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src="js/interesse.js"></script>
+<script src="js/layout.js"></script>
+<script src="js/listagem.js"></script>
+</body>
+</html>

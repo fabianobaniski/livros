@@ -1,0 +1,63 @@
+{
+  "obra_id": 5645,
+  "autor": "Makoto Raiku",
+  "titulo": "Gash Bell!!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Magia. Amizade.",
+  "palavras_chave": "raiku gash bell",
+  "edicao_id": 5620,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 381,
+  "peso": 530,
+  "isbn": "9786598287658",
+  "editora": "MPEG",
+  "numero_edicao": null,
+  "ano": 2024,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>O que deveriam ser férias, acaba se tornando um perigoso embate para Gash e Kiyomaro! A dupla percebe que precisa evoluir mais se possuem como objetivo tornar Gash em Rei! Qual será o objetivo de Barry e Gustaf? O Dr. Charada é uma pessoa confiável...? O que ele pretende usando Kidd em seus objetivos?</p> <p><b>Os novos mamodos são amigos ou inimigos...?</b></p>",
+  "sinopse": "Em um confronto inesperado nas férias, Gash e Kiyomaro precisam fortalecer suas habilidades se almejam que Gash se torne rei. Novos desafios surgem com Barry, Gustaf e o enigmático Dr. Charada, que tem planos desconhecidos para Kidd. A verdadeira natureza dos novos mamodos é incerta: aliados ou adversários?",
+  "exemplar_id": 5619,
+  "sku": "LI031Y",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/gash-bell__makoto-raiku__capa__2026-02-24_13-36-44-855149-000.jpg",
+  "contracapa": "static/uploads/gash-bell__makoto-raiku__contracapa__2026-02-24_13-36-44-883906-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

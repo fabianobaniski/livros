@@ -1,0 +1,63 @@
+{
+  "obra_id": 2714,
+  "autor": "Luiz Claudio Cardoso",
+  "titulo": "Molecagem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "luiz cardoso molecagem",
+  "edicao_id": 2694,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 76,
+  "peso": 200,
+  "isbn": "9788526211735",
+  "editora": "Scipione",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2693,
+  "sku": "LI01PE",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/molecagem-luiz-claudio-cardoso-capa_rev292.jpg",
+  "contracapa": "static/uploads/molecagem-luiz-claudio-cardoso-contracapa_rev1991.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado. Sem anotações ou sublinhados. Um pouco amarelado e com leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:44",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 235,
+  "autor": "Steven D. Levitt; Stephen J. Dubner",
+  "titulo": "Freakonomics",
+  "subtitulo": "A rogue economist explores the hidden side of everything",
+  "idioma": "Inglês",
+  "categoria": "Economia",
+  "temas": "Economia. Comportamento. Sociologia.",
+  "palavras_chave": "levitt dubner freakonomics",
+  "edicao_id": 229,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 315,
+  "peso": 200,
+  "isbn": "9780141030081",
+  "editora": "Penguin",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Assume nothing,<br>question everything.</p><p>This is the message at the heart of <i>Freakonomics</i>, Levitt and Dubner’s rule-breaking, iconoclastic book about crack dealers, cheating teachers and bizarre baby names.</p><p>‘Prepare to be dazzled’<br><b>MALCOLM GLADWELL</b></p><p>‘A sensation ... you’ll be stimulated, provoked and entertained. Of how many books can that be said?’<br><b>THE TIMES</b></p><p>‘Has you chuckling one minute and gasping in amazement the next’<br><b>WALL STREET JOURNAL</b></p><p>‘Dazzling ... a delight’<br><b>ECONOMIST</b></p><p>‘Made me laugh out loud’<br><b>SCOTLAND ON SUNDAY</b></p>",
+  "sinopse": "Em Freakonomics, Levitt e Dubner exploram as verdades ocultas do comportamento humano, desafiando o que consideramos convencional. Através de uma análise surpreendente de temas como o comércio de drogas e a educação, o livro convida o leitor a questionar tudo e descobrir como a economia pode iluminar comportamentos inesperados.",
+  "exemplar_id": 228,
+  "sku": "LI005W",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/steven-d--levitt--freakonomics--capa--20250226--133809.jpg",
+  "contracapa": "static/uploads/steven-d--levitt--freakonomics--contracapa--20250226--133809.jpg",
+  "fotos": [
+    "static/uploads/steven-d--levitt--freakonomics--foto1--20250226--133809.jpg",
+    "static/uploads/steven-d--levitt--freakonomics--foto2--20250226--133809.jpg",
+    "static/uploads/steven-d--levitt--freakonomics--foto3--20250226--133809.jpg",
+    "static/uploads/steven-d--levitt--freakonomics--foto4--20250226--133809.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:13:28",
+  "observacoes": null
+}

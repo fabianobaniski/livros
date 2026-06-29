@@ -1,0 +1,68 @@
+{
+  "obra_id": 454,
+  "autor": "Armando Silvestre",
+  "titulo": "Calvino",
+  "subtitulo": "O potencial revolucionário de um pensamento",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "História. Teologia. Política.",
+  "palavras_chave": "silvestre calvino potencial ",
+  "edicao_id": 439,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 349,
+  "peso": 400,
+  "isbn": "9788538300861",
+  "editora": "Vida Acadêmica",
+  "numero_edicao": 2,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>pós 500 anos de seu nascimento, a humanidade reconhece que Calvino, um dos responsáveis por grandes mudanças no panorama político europeu do século XVI — ao lado da Reforma Protestante —, trouxe inúmeras contribuições, na área teológica, educacional e também política; no entanto, Calvino ainda hoje é uma figura controversa e muitas vezes mal interpretada. Essa personagem continua a despertar o interesse no mundo todo e não faltam motivos para isso: Calvino lutou contra os abusos do poder ao lidar com o problema político-filosófico da desobediência civil e do direito de resistência aos governantes — o atual impeachment.</p><p>Para trazer novas luzes sobre João Calvino, esta edição, revista e ampliada, enriquece a bibliografia sobre o fundador da Academia de Genebra e peça fundamental na reestruturação daquela cidade. Além de apontar detalhes preciosos sobre Calvino, analisa também seus escritos políticos e muitos fatos ainda inéditos para o grande público: desde seu nascimento até sua morte, estendendo-se a análise do calvinismo, que teve início no século XVI e espalhou-se pelo mundo, por meio de seus intérpretes e sucessores.</p><p>Calvino: o potencial revolucionário de um pensamento é essencial a todos os interessados em conhecer o Calvino leigo, o cidadão, o administrador, o pioneiro entre os grandes escritores franceses, o líder do movimento reformado, o batalhador pelos direitos humanos, o educador e um dos fundadores do pensamento político moderno e personagem marcante da história.</p>",
+  "sinopse": "Esta obra revisita a vida e contribuições de João Calvino, destacando seu impacto no contexto político e religioso europeu do século XVI. O autor analisa a importância de Calvino na luta contra abusos de poder e sua influência no calvinismo, apresentando suas obras e pensamentos que ainda reverberam nos dias atuais, sendo uma leitura indispensável para quem busca entender sua relevância histórica.",
+  "exemplar_id": 438,
+  "sku": "LI00BL",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/armando-silvestre--calvino--capa--20250226--133830.jpg",
+  "contracapa": "static/uploads/armando-silvestre--calvino--contracapa--20250226--133830.jpg",
+  "fotos": [
+    "static/uploads/armando-silvestre--calvino--foto1--20250226--133830.jpg",
+    "static/uploads/armando-silvestre--calvino--foto2--20250226--133830.jpg",
+    "static/uploads/armando-silvestre--calvino--foto3--20250226--133830.jpg",
+    "static/uploads/armando-silvestre--calvino--foto4--20250226--133830.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Apresenta leves marcas de dobra na parte superior da capa e miolo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:11:03",
+  "observacoes": null
+}

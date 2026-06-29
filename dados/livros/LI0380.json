@@ -1,0 +1,68 @@
+{
+  "obra_id": 5864,
+  "autor": "Paulina Kurcgant",
+  "titulo": "Gerenciamento em enfermagem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Medicina",
+  "temas": "Ciências da saúde. Enfermagem. Gerenciamento.",
+  "palavras_chave": "tronchin gerenciamento enfermagem",
+  "edicao_id": 5839,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 197,
+  "peso": 510,
+  "isbn": "9788527710299",
+  "editora": "Guanabara Koogan",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5838,
+  "sku": "LI0380",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/gerenciamento-em-enfermagem__none__daisy-maria-rizzato-tronchin-fernanda-maria-tojeiro-fugulin-heloisa-helena-ciqueto-peres-maria-cristina-komatsu-braga-massarollo-maria-de-fa__capa__2026-01-18_14-12-41-685172-000.png",
+  "contracapa": "static/uploads/gerenciamento-em-enfermagem__none__daisy-maria-rizzato-tronchin-fernanda-maria-tojeiro-fugulin-heloisa-helena-ciqueto-peres-maria-cristina-komatsu-braga-massarollo-maria-de-fa__contracapa__2026-01-18_14-12-41-765109-001.png",
+  "fotos": [
+    "static/uploads/gerenciamento-em-enfermagem__none__daisy-maria-rizzato-tronchin-fernanda-maria-tojeiro-fugulin-heloisa-helena-ciqueto-peres-maria-cristina-komatsu-braga-massarollo-maria-de-fa__foto-01__2026-01-18_14-12-42-019688-002.jpg",
+    "static/uploads/gerenciamento-em-enfermagem__none__daisy-maria-rizzato-tronchin-fernanda-maria-tojeiro-fugulin-heloisa-helena-ciqueto-peres-maria-cristina-komatsu-braga-massarollo-maria-de-fa__foto-02__2026-01-18_14-12-42-085588-003.jpg",
+    "static/uploads/gerenciamento-em-enfermagem__none__daisy-maria-rizzato-tronchin-fernanda-maria-tojeiro-fugulin-heloisa-helena-ciqueto-peres-maria-cristina-komatsu-braga-massarollo-maria-de-fa__foto-03__2026-01-18_14-12-42-161477-004.jpg",
+    "static/uploads/gerenciamento-em-enfermagem__none__daisy-maria-rizzato-tronchin-fernanda-maria-tojeiro-fugulin-heloisa-helena-ciqueto-peres-maria-cristina-komatsu-braga-massarollo-maria-de-fa__foto-04__2026-01-18_14-12-42-216196-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Pontinhas das páginas com marcas de dobra."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:28:25",
+  "observacoes": "procedencia_biblioteca"
+}

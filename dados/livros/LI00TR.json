@@ -1,0 +1,68 @@
+{
+  "obra_id": 1403,
+  "autor": "Cecelia Ahern",
+  "titulo": "Imperfeitos",
+  "subtitulo": "Nossos defeitos nos fazem ser quem somos",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Literatura jovem. Questões morais. Distorções sociais.",
+  "palavras_chave": "ahern imperfeitos",
+  "edicao_id": 1385,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 319,
+  "peso": 400,
+  "isbn": "9788581626535",
+  "editora": "Novo Conceito",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"No Dia da Sentença, o juiz decide se o acusado é ou não Imperfeito. Se sim, suas imperfeições são pronunciadas publicamente e sua pele é marcada com um I em um dos cinco lugares possíveis. A localização do I depende da transgressão cometida.</p><p>Para quem toma decisões ruins, é na têmpora.</p><p>Para quem mente, na língua.</p><p>Para quem trapaceia, na palma da mão direita.\"</p><p>CELESTINE</p><p>A perfeita filha, namorada e irmã. O modelo exato de cidadã. Em um mundo de regras, não se pode nem sonhar contrariar o Tribunal, ainda mais sendo namorada do filho do grande juiz. No entanto, quando Celestine percebe que as leis vão contra o que julga certo, sua vida perfeita começa a ruir, e ela precisa saber se será forte o suficiente para encarar o julgamento mais severo de todos.</p>",
+  "sinopse": "Celestine é a perfeita filha e namorada em um mundo opressivo onde quebrar regras pode ter consequências severas. Quando se vê em conflito com as leis que contradizem suas crenças, ela deve decidir se terá coragem para enfrentar um tribunal que pode destruir sua vida ideal.",
+  "exemplar_id": 1384,
+  "sku": "LI00TR",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/cecelia-ahern--imperfeitos--capa--20250401--115340.jpg",
+  "contracapa": "static/uploads/cecelia-ahern--imperfeitos--contracapa--20250401--115340.jpg",
+  "fotos": [
+    "static/uploads/cecelia-ahern--imperfeitos--foto1--20250401--115340.jpg",
+    "static/uploads/cecelia-ahern--imperfeitos--foto2--20250401--115340.jpg",
+    "static/uploads/cecelia-ahern--imperfeitos--foto3--20250401--115340.jpg",
+    "static/uploads/cecelia-ahern--imperfeitos--foto4--20250401--115340.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:14:48",
+  "observacoes": null
+}

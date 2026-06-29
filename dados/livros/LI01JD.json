@@ -1,0 +1,63 @@
+{
+  "obra_id": 2497,
+  "autor": "V. E. Schincariol",
+  "titulo": "Economia e política no Governo Dilma (2011-2014)",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "schincariol economia politica governo",
+  "edicao_id": 2477,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 202,
+  "peso": 300,
+  "isbn": "9788569401285",
+  "editora": "Raízes América",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora as razões que levaram à desaceleração do crescimento econômico no Brasil a partir da década de 1980 até o início dos anos 2000. O autor examina como uma combinação de fatores, como o aumento da produtividade, a intensificação tecnológica e o investimento em conhecimento, poderia ter mudado o cenário econômico do país. A análise destaca a importância de políticas econômicas sustentáveis e inclusivas, que garantiriam um desenvolvimento mais equitativo. A obra também discute os desafios políticos e as disputas internas que influenciaram o atraso econômico do Brasil e aponta soluções para um futuro mais justo e igualitário",
+  "exemplar_id": 2476,
+  "sku": "LI01JD",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/v-e-schincariol--economia-e-politica-no-governo-dilma-2011-2014--capa--20260316--193004.jpg",
+  "contracapa": "static/uploads/v-e-schincariol--economia-e-politica-no-governo-dilma-2011-2014--contracapa--20260316--193004.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Uma história político-econômica da primeira administração de Dilma Rousseff. Ótima conservação. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:48:27",
+  "observacoes": null
+}

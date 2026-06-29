@@ -1,0 +1,63 @@
+{
+  "obra_id": 2778,
+  "autor": "Ernani Fornari",
+  "titulo": "O incrível padre Landell de Moura",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "fornari incrivel padre landell",
+  "edicao_id": 2758,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 158,
+  "peso": 250,
+  "isbn": "9788570110824",
+  "editora": "Bibliex",
+  "numero_edicao": 2,
+  "ano": 1984,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Padre Landell de Moura, pioneiro incompreendido em sua época, desempenhou um papel fundamental na ciência brasileira, especialmente nas áreas de eletrônica e telecomunicações. Décadas antes de Marconi, ele já havia testado transmissões sem fio, desenvolvendo também tecnologias precursoras da válvula eletrônica. Sua trajetória, resgatada por Ernani Fornari, é marcada pela perseverança e visão futurista, enfrentando o ceticismo da sociedade. Sua obra e legado, agora reconhecidos, influenciaram profundamente as comunicações modernas no Brasil.",
+  "exemplar_id": 2757,
+  "sku": "LI01R6",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-incrivel-padre-landell-de-moura-ernani-fornari-capa_rev1853.jpg",
+  "contracapa": "static/uploads/o-incrivel-padre-landell-de-moura-ernani-fornari-contracapa_rev450.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:22:26",
+  "observacoes": null
+}

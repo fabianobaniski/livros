@@ -1,0 +1,63 @@
+{
+  "obra_id": 2845,
+  "autor": "Adriano Marteleto Godinho; Marcelo Hugo da Rocha",
+  "titulo": "Passe em concursos públicos",
+  "subtitulo": "Carreiras trabalhistas",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "",
+  "palavras_chave": "godinho passe concursos publicos",
+  "edicao_id": 2825,
+  "encadernacao": null,
+  "quantidade_paginas": 557,
+  "peso": 1000,
+  "isbn": "9788502173071",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Com uma abordagem diferenciada e coordenada por especialistas, a coleção Passe em Concursos Públicos — questões comentadas reúne as disciplinas do direito mais cobradas em concursos, especialmente voltadas para carreiras jurídicas. Cada volume oferece questões selecionadas das principais bancas, com comentários aprofundados, além de quadros esquemáticos que ajudam a fixar os temas recorrentes. É uma fonte de estudo objetiva e eficiente, ideal para quem busca preparação sólida e aprovação garantida.",
+  "exemplar_id": 2824,
+  "sku": "LI01T1",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/passe-em-concursos-publicos-coord-marcelo-hugo-da-rocha-capa_rev1985.jpg",
+  "contracapa": "static/uploads/passe-em-concursos-publicos-coord-marcelo-hugo-da-rocha-contracapa_rev1970.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Excelente conservação. Sem anotações ou sublinhados. Infelizmente o ex dono arrancou a folha-de-rosto (em branco). Há, também, pequeno carimbo de livraria na parte interna da contracapa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:35:50",
+  "observacoes": null
+}

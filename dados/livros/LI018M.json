@@ -1,0 +1,68 @@
+{
+  "obra_id": 2109,
+  "autor": "Fábio Ulhoa Coelho",
+  "titulo": "Manual de direito comercial",
+  "subtitulo": "Direito de empresa",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Direito comercial. Direito de empresa.",
+  "palavras_chave": "coelho manual direito comercial direito empresa",
+  "edicao_id": 2089,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 556,
+  "peso": 650,
+  "isbn": "9788502154537",
+  "editora": "Saraiva",
+  "numero_edicao": 24,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Indicado para: <b>Graduação</b></p>",
+  "sinopse": "Voltado para estudantes de graduação, o 'Manual de direito comercial: Direito de empresa', de Fábio Ulhoa Coelho, oferece um panorama abrangente sobre o ramo do direito empresarial, destacando conceitos fundamentais e temas essenciais para a compreensão da disciplina.",
+  "exemplar_id": 2088,
+  "sku": "LI018M",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/f-bio-ulhoa-coelho--manual-de-direito-comercial--capa--20250430--104534.jpg",
+  "contracapa": "static/uploads/f-bio-ulhoa-coelho--manual-de-direito-comercial--contracapa--20250430--104534.jpg",
+  "fotos": [
+    "static/uploads/f-bio-ulhoa-coelho--manual-de-direito-comercial--foto1--20250430--104534.jpg",
+    "static/uploads/f-bio-ulhoa-coelho--manual-de-direito-comercial--foto2--20250430--104534.jpg",
+    "static/uploads/f-bio-ulhoa-coelho--manual-de-direito-comercial--foto3--20250430--104534.jpg",
+    "static/uploads/f-bio-ulhoa-coelho--manual-de-direito-comercial--foto4--20250430--104534.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. / OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:45:34",
+  "observacoes": "procedencia_biblioteca"
+}

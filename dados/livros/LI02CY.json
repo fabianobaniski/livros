@@ -1,0 +1,68 @@
+{
+  "obra_id": 3567,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Terror. Suspense. Psicologia. Dramático.",
+  "palavras_chave": "oshimi happiness",
+  "edicao_id": 3544,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788583622017",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Houve a <b>traição</b> de <b>Masami</b> e o <b>desaparecimento</b> de <b>Makoto</b>...<br>Passaram-se <b>10 anos</b> após aqueles <b>dias de caos</b>.<br><b>Yukiko</b> vivia silenciosamente, escondendo <b>seu passado e suas feridas</b>, até que começou a recuperar aos poucos o seu <b>cotidiano normal</b> graças à ajuda de seu colega de trabalho <b>Sudô</b>.<br>Contudo, <b>o pesadelo que a atormentava voltou a interferir em sua vida</b>...</p>",
+  "sinopse": "Após a traição de Masami e o desaparecimento de Makoto, dez anos se passaram desde os dias caóticos que marcaram Yukiko. Ela tenta levar uma vida normal escondendo seu passado e suas feridas, mas com a ajuda do colega Sudô, começa a se reerguer. No entanto, o pesadelo que a assombrava retorna, voltando a interferir em sua rotina.",
+  "exemplar_id": 3543,
+  "sku": "LI02CY",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2025-11-05_16-16-43-753634.jpg",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2025-11-05_16-16-43-785561.jpg",
+  "fotos": [
+    "static/uploads/happiness__shuzo-oshimi__foto-01__2025-11-05_16-16-43-821974.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-02__2025-11-05_16-16-43-841601.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-03__2025-11-05_16-16-43-861991.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-04__2025-11-05_16-16-43-881142.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:45:33",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 163,
+  "autor": "Robert H Frank",
+  "titulo": "The economic naturalist",
+  "subtitulo": "Why economics explains almost everything",
+  "idioma": "Inglês",
+  "categoria": "Economia",
+  "temas": "Economia. Curiosidades.",
+  "palavras_chave": "frank economic naturalist",
+  "edicao_id": 159,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 241,
+  "peso": 300,
+  "isbn": "9780753513385",
+  "editora": "Virgin Books",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Discover the secrets behind many everyday enigmas</h1> <p>Why do brown eggs cost more than white ones?</p> <p>Why is there a light in your fridge but not in your freezer?</p> <p>Why did Kamikaze pilots wear helmets?</p> <p>The answer is simple: economics</p> <p>Economics doesn’t just happen in classrooms or banks. It is everywhere and influences everything we do and see, from the cinema screen to the streets. It can even explain some of life’s most intriguing enigmas.</p> <p>For years, economist Robert Frank has been encouraging his students to use economics to explain the strange situations they encounter in everyday life, from peculiar product design to the vagaries of sex appeal. Now he shares the most intriguing questions and the economic principles that answer them to reveal why many of the most puzzling parts of everyday life actually make perfect (economic) sense.</p> <p><b>‘Fascinating ... provides the answers to some of life’s quirkiest conundrums’</b> Daily Mail</p> <p><b>‘Explains how cold, hard cash really does make our world go round’</b> Independent</p> <p><b>‘Can be returned to again and again like one of those all-you-can-eat buffets’</b> New York Times</p> <p><b>‘Fascinating, mind-expanding and lots of fun’</b> Steven Pinker</p>",
+  "sinopse": "Este livro revela como a economia explica muitas situações cotidianas intrigantes. O autor, Robert Frank, compartilha como a economia influencia decisões e percepções em nosso cotidiano, abordando questões curiosas com princípios econômicos que elucidam a lógica por trás de situações aparentemente peculiares.",
+  "exemplar_id": 158,
+  "sku": "LI0041",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/robert-h-frank--the-economic-naturalist--capa--20250226--133800.jpg",
+  "contracapa": "static/uploads/robert-h-frank--the-economic-naturalist--contracapa--20250226--133800.jpg",
+  "fotos": [
+    "static/uploads/robert-h-frank--the-economic-naturalist--foto1--20250226--133800.jpg",
+    "static/uploads/robert-h-frank--the-economic-naturalist--foto2--20250226--133800.jpg",
+    "static/uploads/robert-h-frank--the-economic-naturalist--foto3--20250226--133800.jpg",
+    "static/uploads/robert-h-frank--the-economic-naturalist--foto4--20250226--133800.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:12:50",
+  "observacoes": null
+}

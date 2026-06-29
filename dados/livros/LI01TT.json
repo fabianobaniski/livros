@@ -1,0 +1,63 @@
+{
+  "obra_id": 2873,
+  "autor": "Anthony Burgess",
+  "titulo": "Qualquer ferro velho",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "burgess qualquer ferro velho",
+  "edicao_id": 2853,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 368,
+  "peso": 300,
+  "isbn": "9788532504500",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Qualquer Ferro Velho acompanha a vida de David Jones, que após ser expulso de casa, sobrevive a um naufrágio e se reinventa em Nova York, onde se casa com Ludmila Petrovna. De volta à Inglaterra, junto com seus três filhos e familiares, ele atravessa momentos históricos marcantes, como os conflitos no Oriente Médio e a criação do Estado de Israel e de um País de Gales independente. Com um enredo que parte de navios icônicos como Titanic e Excalibur, Anthony Burgess mescla humor e criatividade para contar a história de um século em constante transformação.",
+  "exemplar_id": 2852,
+  "sku": "LI01TT",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/qualquer-ferro-velho-anthony-burgess-capa_rev1069.jpg",
+  "contracapa": "static/uploads/qualquer-ferro-velho-anthony-burgess-contracapa_rev1798.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livre bastante amarelado pela passagem dos anos, mas, no geral, bem conservado. Não possui nem anotações nem sublinhados. Contracapa com marca de dobra."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:22:12",
+  "observacoes": null
+}

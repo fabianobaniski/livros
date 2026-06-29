@@ -1,0 +1,63 @@
+{
+  "obra_id": 662,
+  "autor": "John Stott",
+  "titulo": "Cristianismo equilibrado",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "stott cristianismo equilibrado",
+  "edicao_id": 647,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 83,
+  "peso": 200,
+  "isbn": "9788577791613",
+  "editora": "Ultimato",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Estamos divididos ou somos desequilibrados?</h1> <p>Partidarismo e polarização não são novidades entre os cristãos. As frases ‘eu sou de Paulo’ ou ‘eu sou de Apolo’ são repetidas todos os dias, agora com novos sujeitos, novos adjetivos e em diferentes plataformas.</p> <p>Em Cristianismo Equilibrado, John Stott aponta não apenas questões que dividem os evangélicos, mas também o perigo do extremismo e da falta de discernimento.</p> <p>Em edição ampliada, com uma longa entrevista com o autor, a obra responde também a questões contemporâneas que desafiam a unidade da igreja.</p> <blockquote>Para John Stott, 'equilíbrio' não significa 'meio-termo' ou 'neutralidade'. Em vez disso, é uma decisão de viver fielmente sustentando e mantendo-se nos dois extremos, sem oscilar de um lado para o outro. - Mark Labberton, presidente do Fuller Theological Seminary</blockquote>",
+  "sinopse": "Neste livro, John Stott discute as divisões entre os cristãos e os desafios do extremismo, visando a manutenção do equilíbrio na fé. Ele apresenta uma análise não apenas sobre as questões que separam os evangélicos, mas também sobre a importância de discernimento e unidade na igreja, abordando questões contemporâneas e a relevância da posição equilibrada na vida cristã.",
+  "exemplar_id": 646,
+  "sku": "LI00HD",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/john-stott--cristianismo-equilibrado--capa--20250227--152856.jpg",
+  "contracapa": "static/uploads/john-stott--cristianismo-equilibrado--contracapa--20250227--152856.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:16:54",
+  "observacoes": null
+}

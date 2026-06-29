@@ -1,0 +1,68 @@
+{
+  "obra_id": 3607,
+  "autor": "Adolpho Wasserman",
+  "titulo": "Ruth",
+  "subtitulo": "Tradução e compilação de comentários por Adolpho Wasserman",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "Ruth Adolpho Wasserman",
+  "edicao_id": 3584,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 73,
+  "peso": 280,
+  "isbn": "",
+  "editora": "Maayanot",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3583,
+  "sku": "LI02E2",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/adolpho-wasserman--ruth--capa--20251114--175239.png",
+  "contracapa": "static/uploads/adolpho-wasserman--ruth--contracapa--20251114--175245.png",
+  "fotos": [
+    "static/uploads/adolpho-wasserman--ruth--foto1--20251121--185038.jpg",
+    "static/uploads/adolpho-wasserman--ruth--foto2--20251121--185038.jpg",
+    "static/uploads/adolpho-wasserman--ruth--foto3--20251121--185038.jpg",
+    "static/uploads/adolpho-wasserman--ruth--foto4--20251121--185038.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro usado, em boas condições, embora um tanto amarelado pela passagem dos anos. Sem grifos ou anotações. Papel ainda bem branco. Não possui sobrecapa. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:46:26",
+  "observacoes": null
+}

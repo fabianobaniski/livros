@@ -1,0 +1,68 @@
+{
+  "obra_id": 325,
+  "autor": "Max Lucado",
+  "titulo": "Graça",
+  "subtitulo": "Mais do que merecemos. Maior do que imaginamos.",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Transformação. Graça.",
+  "palavras_chave": "lucado graca melhor ideai",
+  "edicao_id": 316,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 218,
+  "peso": 280,
+  "isbn": "9788578602987",
+  "editora": "Thomas Nelson",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Somente a graça. Ela é suficiente... e irresistível.</p> <p>Através dos seus escritos, [Max Lucado] leva os leitores a serem cristãos sem fronteiras e a desenvolverem uma espiritualidade inteligente, que respeita as diferenças.</p> <p><b>Augusto Cury</b>, autor do best seller O código da inteligência e a excelência emocional</p> <p>Admiro muito o grande escritor que é Max Lucado, e sou influenciada pela forma poética, profunda e, mesmo assim, acessível que ele imprime a seus livros.</p> <p><b>Ludmila Ferber</b>, pastora e cantora</p> <p>Mais uma vez, Max nos surpreende com simplicidade e, ao mesmo tempo, intensificado ao falar de forma tão palpável e próxima sobre aquilo que nos mantém de pé e nos permite sonhar: a graça.</p> <p><b>André Valadão</b>, pastor e cantor</p> <p>Nas palavras do autor, a graça é a melhor ideia de Deus. Nada escapa de seu alcance. Nada pode modificar tão profundamente a vida humana quanto ela. Diferente de qualquer outra manifestação religiosa ou conteúdo filosófico, a graça expõe a própria dinâmica de vida proposta por Deus. Descubra neste livro uma graça ativa, surpreendente e irresistível que acontece na vida em toda sua plenitude.</p>",
+  "sinopse": "Neste livro, Max Lucado explora a essência da graça como a melhor ideia de Deus. Ele revela como a graça tem o poder de transformar vidas, desafiando os leitores a se tornarem cristãos sem fronteiras e a cultivarem uma espiritualidade que respeita as diferenças. Com uma escrita acessível e poética, Lucado nos convida a descobrir como essa graça ativa e irresistível pode impactar profundamente a vida humana.",
+  "exemplar_id": 315,
+  "sku": "LI008A",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/max-lucado--gra-a--capa--20250226--133819.jpg",
+  "contracapa": "static/uploads/max-lucado--gra-a--contracapa--20250226--133819.jpg",
+  "fotos": [
+    "static/uploads/max-lucado--gra-a--foto1--20250226--133819.jpg",
+    "static/uploads/max-lucado--gra-a--foto2--20250226--133819.jpg",
+    "static/uploads/max-lucado--gra-a--foto3--20250226--133819.jpg",
+    "static/uploads/max-lucado--gra-a--foto4--20250226--133819.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:15:48",
+  "observacoes": null
+}

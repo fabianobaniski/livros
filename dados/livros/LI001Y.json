@@ -1,0 +1,68 @@
+{
+  "obra_id": 74,
+  "autor": "Ruta Sepetys",
+  "titulo": "A vida em tons de cinza",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "História. Segunda Guerra Mundial. Repressão Soviética. Gulags. Povos Bálticos",
+  "palavras_chave": "sepetys vida tons cinza",
+  "edicao_id": 74,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 240,
+  "peso": 300,
+  "isbn": "9788580410167",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“No auge do inverno, finalmente percebi que dentro de mim havia um verão invencível.” – Albert Camus</p><p><b>Lina Vilkas</b> é uma lituana de 15 anos cheia de sonhos. Dotada de um incrível talento artístico, ela se prepara para estudar artes na capital. No entanto, a noite de 14 de junho de 1941 muda para sempre seus planos.</p><p>Por toda a região do Báltico, a polícia secreta soviética está invadindo casas e deportando pessoas. Junto com a mãe e o irmão de 10 anos, Lina é jogada num trem, em condições desumanas, e levada para um <i>gulag</i>, na Sibéria.</p><p>Lá, os deportados sofrem maus-tratos e trabalham arduamente para garantir uma ração ínfima de pão. Nada mais lhes resta, exceto o apoio mútuo e a esperança. E é isso que faz com que Lina insista em sua arte, usando seus desenhos para enviar mensagens codificadas ao pai, preso pelos soviéticos.</p><p><i>A vida em tons de cinza</i> conta a história de um povo que perdeu tudo, menos a dignidade, a esperança e o amor. Para construir os personagens de seu romance, Ruta Sepetys foi à Lituânia a fim de ouvir o relato de sobreviventes dos <i>gulags</i>. Este livro descreve uma parte da história muitas vezes esquecida: o extermínio de um terço dos povos do Báltico durante o reinado de horror de Stalin.</p><p>Para Estônia, Letônia e Lituânia, essa foi uma guerra feita de crenças. Esses três pequenos países nos ensinaram que a arma mais poderosa que existe é o amor, seja por um amigo, por uma nação, por Deus ou até mesmo pelo inimigo. Somente o amor é capaz de revelar a natureza realmente milagrosa do espírito humano.</p>",
+  "sinopse": "Lina Vilkas, uma jovem lituana de 15 anos com talento artístico, tem seus sonhos interrompidos em 1941, quando a polícia secreta soviética invade sua casa e a deporta, junto com sua mãe e seu irmão, para um gulag na Sibéria. Enfrentando condições desumanas, Lina usa sua arte para enviar mensagens secretas ao pai, enquanto luta para manter a esperança. Baseado em relatos reais, o livro revela a trágica história dos povos bálticos sob o regime de Stalin e a força do espírito humano.",
+  "exemplar_id": 73,
+  "sku": "LI001Y",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/ruta-sepetys--a-vida-em-tons-de-cinza--capa--20250225--233435.jpg",
+  "contracapa": "static/uploads/ruta-sepetys--a-vida-em-tons-de-cinza--contracapa--20250225--233435.jpg",
+  "fotos": [
+    "static/uploads/ruta-sepetys--a-vida-em-tons-de-cinza--foto1--20250225--233435.jpg",
+    "static/uploads/ruta-sepetys--a-vida-em-tons-de-cinza--foto2--20250225--233435.jpg",
+    "static/uploads/ruta-sepetys--a-vida-em-tons-de-cinza--foto3--20250225--233435.jpg",
+    "static/uploads/ruta-sepetys--a-vida-em-tons-de-cinza--foto4--20250225--233435.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:45:51",
+  "observacoes": null
+}

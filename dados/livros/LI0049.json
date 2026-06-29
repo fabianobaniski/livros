@@ -1,0 +1,68 @@
+{
+  "obra_id": 172,
+  "autor": "Tina Brown",
+  "titulo": "Diana",
+  "subtitulo": "Crônicas íntimas",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "Biografia. Celebridades. Relações sociais.",
+  "palavras_chave": "brown diana cronicas",
+  "edicao_id": 168,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 452,
+  "peso": 600,
+  "isbn": "9788500022708",
+  "editora": "Ediouro",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Diana era linda e generosa, mas havia sido traída, estava consumida pela bulimia, apaixonara-se por outro homem e sofria com a rejeição de seu marido. Revoltada, começou a usar a mídia a seu favor, mostrando-se maquiavélica. Enquanto revelava sem pudores detalhes de seu casamento, colocando-se sempre como vítima, Charles parecia, aos olhos do mundo, cada vez mais sem personalidade.</p><p>O que faltava a Diana Spencer em cultura sobrava-lhe em carisma. Com um jeito tímido e ingênuo, ela conquistou o príncipe Charles e sua família e depois a Inglaterra. Um conto de fadas que o tempo se encarregou de desfazer: o escândalo tomou conta das páginas dos jornais, e o que parecia feito para durar era apenas fachada.</p><p>Vários anos se passaram, mas a curiosidade em torno de Diana permanece. Inteligente, sarcástica, vingativa e vaidosa, a princesa de Gales desperta até hoje um fascínio que pouquíssimas celebridades exerceram. Diana: crônicas íntimas traz não apenas informações totalmente novas, intimidades e fatos secretos da vida de Lady Di, mas, principalmente, a pessoa por trás do mito.</p>",
+  "sinopse": "Diana, a princesa de Gales, foi uma figura encantadora, mas também marcada por dramas pessoais, como bulimia e traições. Após sofrer em seu casamento, ela começou a utilizar a mídia a seu favor, revelando detalhes íntimos de sua vida. Este livro traz informações não só sobre seus escândalos, mas também sobre a pessoa que estava por trás da imagem de Lady Di.",
+  "exemplar_id": 167,
+  "sku": "LI0049",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/tina-brown--diana--capa--20250226--133801.jpg",
+  "contracapa": "static/uploads/tina-brown--diana--contracapa--20250226--133801.jpg",
+  "fotos": [
+    "static/uploads/tina-brown--diana--foto1--20250226--133801.jpg",
+    "static/uploads/tina-brown--diana--foto2--20250226--133801.jpg",
+    "static/uploads/tina-brown--diana--foto3--20250226--133801.jpg",
+    "static/uploads/tina-brown--diana--foto4--20250226--133801.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:45:46",
+  "observacoes": null
+}

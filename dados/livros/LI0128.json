@@ -1,0 +1,68 @@
+{
+  "obra_id": 1878,
+  "autor": "Alexsandro Broedel Lopes; Iran Siqueira Lima",
+  "titulo": "Contabilidade e controle de operações com derivativos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Controle gerencial. Derivativos financeiros.",
+  "palavras_chave": "lopes contabilidade controle operacoes com derivativos",
+  "edicao_id": 1858,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 370,
+  "isbn": "9788522103720",
+  "editora": "Thomson",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O objetivo deste livro é suprir, pelo menos em parte, uma lacuna existente no mercado brasileiro, no que se refere à literatura técnica do assunto.</p> <p>Pode-se considerar como derivativos aqueles instrumentos financeiros que derivam ou dependem do valor de outro ativo e que se caracterizam normalmente, como contratos padronizados, negociados entre as partes em mercados secundários organizados ou contratos <i>ad hoc</i> entre agentes.</p> <p>Os derivativos podem ser classificados de forma sumária da seguinte maneira:</p> <p>1. Primeira Geração – contratos a termo, contratos a futuro, opções de compra e venda, contratos de <i>swaps</i>, e</p> <p>2. Segunda Geração – <i>straddle, strangel, strap, butterfly, condor, box</i> entre outros.</p> <p>Um trabalho dessa natureza se mostra necessário na medida em que o montante envolvido nas operações com derivativos alcança alguns trilhões de dólares em vários países, e os procedimentos contábeis e de evidenciação desses instrumentos ainda não estão perfeitamente consolidados.</p> <p>Aqui o leitor encontrará o arcabouço necessário para a realização da contabilização das operações com derivativos utilizada pelas instituições brasileiras. O livro enfoca as operações que são comuns ao nosso mercado, não entrando nos aspectos relativos a operações mais complexas que fujam da nossa realidade. Esta postura se deve à grande extensão do assunto que não permite, em uma só obra, uma análise completa de abrangência internacional. Faz parte também dos objetivos do texto fornecer uma base conceitual sólida a respeito dos principais aspectos envolvidos no controle gerencial dessas operações, bem como uma revisão dos trabalhos do FASB contidos no pronunciamento nº 133.</p> <p><b>Aplicações:</b><br> O livro destina-se a todos os profissionais de instituições financeiras e não-financeiras comprometidos com análise financeira, gestão de risco, aplicações de recursos, contabilidade e controladoria, bem como a professores e estudantes das áreas financeira e contábil.</p>",
+  "sinopse": "O livro traz uma análise técnica sobre a contabilização e controle de operações com derivativos, suprindo uma lacuna no mercado brasileiro. Explica diferentes tipos de derivativos e seus procedimentos contábeis, com foco nas práticas comuns no Brasil. Indicado a profissionais das áreas financeira e contábil, aborda ainda conceitos sólidos de controle gerencial e inclui revisão do pronunciamento FASB nº 133.",
+  "exemplar_id": 1857,
+  "sku": "LI0128",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/alexsandro-broedel-lopes--contabilidade-e-controle-de-opera--es-com-derivativos--capa--20250430--104253.jpg",
+  "contracapa": "static/uploads/alexsandro-broedel-lopes--contabilidade-e-controle-de-opera--es-com-derivativos--contracapa--20250430--104253.jpg",
+  "fotos": [
+    "static/uploads/alexsandro-broedel-lopes--contabilidade-e-controle-de-opera--es-com-derivativos--foto1--20250430--104253.jpg",
+    "static/uploads/alexsandro-broedel-lopes--contabilidade-e-controle-de-opera--es-com-derivativos--foto2--20250430--104253.jpg",
+    "static/uploads/alexsandro-broedel-lopes--contabilidade-e-controle-de-opera--es-com-derivativos--foto3--20250430--104253.jpg",
+    "static/uploads/alexsandro-broedel-lopes--contabilidade-e-controle-de-opera--es-com-derivativos--foto4--20250430--104253.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:03:58",
+  "observacoes": "procedencia_biblioteca"
+}

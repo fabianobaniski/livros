@@ -1,0 +1,63 @@
+{
+  "obra_id": 2768,
+  "autor": "Hamilton M. Monteiro",
+  "titulo": "O feudalismo",
+  "subtitulo": "Economia e Sociedade - Série Princípios (38)",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "monteiro feudalismo economia sociedade",
+  "edicao_id": 2748,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 93,
+  "peso": 150,
+  "isbn": "9788508017188",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora o modo de produção feudal e sua implantação na Europa Centro-Ocidental, dividindo-se em três partes. A primeira aborda os preceitos que permitiram o nascimento do feudalismo, chamada de primeira idade feudal. A segunda foca no desenvolvimento desse sistema, enquanto a terceira analisa a transição do feudalismo para a economia de mercado. A obra oferece uma síntese detalhada da evolução do feudalismo e seus impactos na organização econômica e social da época.",
+  "exemplar_id": 2747,
+  "sku": "LI01QW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-feudalismo-hamilton-m-monteiro-capa_rev706.jpg",
+  "contracapa": "static/uploads/o-feudalismo-hamilton-m-monteiro-contracapa_rev2000.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso. Boa conservação, embora amarelado. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:16:49",
+  "observacoes": null
+}

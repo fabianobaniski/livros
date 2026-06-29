@@ -1,0 +1,68 @@
+{
+  "obra_id": 1384,
+  "autor": "Karin Slaughter",
+  "titulo": "Esposa perfeita",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Thriller. Suspense.",
+  "palavras_chave": "slaughter esposa perfeita",
+  "edicao_id": 1366,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 461,
+  "peso": 450,
+  "isbn": "9788595080089",
+  "editora": "Harper Collins",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "Will Trent",
+  "volume": null,
+  "transcricao_contracapa": "<p>MARIDO. ESPOSA. RIVAIS.</p> <p>Com a descoberta do corpo de um ex-policial em um terreno, o detetive Will Trent é chamado para resolver um caso muito perigoso. Mas a polícia forense descobre que há outra vítima: uma mulher, que ninguém sabe onde está, mas que morrerá se não for encontrada logo. Will passa a lutar contra o tempo e também contra seu passado, quando as investigações indicam que o principal suspeito é Angie, sua ex-mulher.</p> <p>A escritora Karin Slaughter oferece mais um thriller incrível, que assombrará seus leitores até a última página.</p>",
+  "sinopse": "Marido. Esposa. Rivais. Will Trent investiga o corpo de um ex-policial e descobre uma nova vítima que deve ser encontrada rapidamente, enquanto enfrenta seu próprio passado e uma ex-mulher que é alvo dos suspeitos.",
+  "exemplar_id": 1365,
+  "sku": "LI00T9",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/karin-slaughter--esposa-perfeita--capa--20250401--115338.jpg",
+  "contracapa": "static/uploads/karin-slaughter--esposa-perfeita--contracapa--20250401--115338.jpg",
+  "fotos": [
+    "static/uploads/karin-slaughter--esposa-perfeita--foto1--20250401--115338.jpg",
+    "static/uploads/karin-slaughter--esposa-perfeita--foto2--20250401--115338.jpg",
+    "static/uploads/karin-slaughter--esposa-perfeita--foto3--20250401--115338.jpg",
+    "static/uploads/karin-slaughter--esposa-perfeita--foto4--20250401--115338.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:28:37",
+  "observacoes": null
+}

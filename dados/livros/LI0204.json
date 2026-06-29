@@ -1,0 +1,63 @@
+{
+  "obra_id": 3100,
+  "autor": "Charles R. Swindoll",
+  "titulo": "The Bible",
+  "subtitulo": "Applying Gods Word to Your Life",
+  "idioma": "Inglês",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "swindoll the bible applying",
+  "edicao_id": 3080,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 128,
+  "peso": 300,
+  "isbn": "0805401601",
+  "editora": "Broadman  & Holman",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3079,
+  "sku": "LI0204",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Este livro de estudo bíblico, desenvolvido por Charles Swindoll, busca aprofundar a compreensão teológica de quem deseja fortalecer sua fé e aplicar os ensinamentos cristãos no dia a dia. A série aborda temas fundamentais, como a Trindade, a salvação, a eternidade e o papel da família de Deus. Com perguntas e atividades práticas, o objetivo é tornar a doutrina acessível para qualquer pessoa, mesmo para aqueles que nunca frequentaram um seminário. / Em inglês. / Livro em bom estado, embora um tanto amarelado pela ação do tempo sobre o papel. Livre de anotações, sublinhados, rabiscos, rasgos ou amassados. Não possui marcas de umidade, exposição ao sol, cheiro de mofo, furo de traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:12:31",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2230,
+  "autor": "Acácia Kuenzer; M. Julieta C. Calazans; Walter Garcia",
+  "titulo": "Planejamento e educação no Brasil",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Planejamento educacional. Intervenção técnica e política. Estrutura institucional brasileira.",
+  "palavras_chave": "kuenzer planejamento educacao brasil",
+  "edicao_id": 2210,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 88,
+  "peso": 90,
+  "isbn": "9788524902611",
+  "editora": "Cortez",
+  "numero_edicao": 6,
+  "ano": 2009,
+  "serie": "Questões da nossa época",
+  "volume": null,
+  "transcricao_contracapa": "<p>Considerando que o planejamento é um ato de intervenção técnica e política, seria essencial que o profissional por ele responsável (planejador) estivesse preparado para manter uma articulação permanente a fim de estabelecer coordenação entre a esfera técnica, o nível político e o corpo burocrático. Esta articulação seria indispensável para que o planejador se preparasse para manter uma postura autônoma na estrutura e no sistema de relações das instituições e da sociedade.(...)</p><p>M. Julieta C. Calazans</p>",
+  "sinopse": "Este livro discute o planejamento como um ato de intervenção técnica e política, ressaltando a necessidade de o profissional planejador estar preparado para articular diferentes esferas — técnica, política e burocrática. Destaca a importância da autonomia do planejador na estrutura e no sistema institucional e social, tornando-se imprescindível para o desenvolvimento de uma postura crítica e independente dentro das relações entre instituições e sociedade.",
+  "exemplar_id": 2209,
+  "sku": "LI01BZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ac-cia-kuenzer--planejamento-e-educa--o-no-brasil--capa--20250430--105101.jpg",
+  "contracapa": "static/uploads/ac-cia-kuenzer--planejamento-e-educa--o-no-brasil--contracapa--20250430--105101.jpg",
+  "fotos": [
+    "static/uploads/ac-cia-kuenzer--planejamento-e-educa--o-no-brasil--foto1--20250430--105101.jpg",
+    "static/uploads/ac-cia-kuenzer--planejamento-e-educa--o-no-brasil--foto2--20250430--105101.jpg",
+    "static/uploads/ac-cia-kuenzer--planejamento-e-educa--o-no-brasil--foto3--20250430--105101.jpg",
+    "static/uploads/ac-cia-kuenzer--planejamento-e-educa--o-no-brasil--foto4--20250430--105101.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:04:41",
+  "observacoes": "procedencia_biblioteca"
+}

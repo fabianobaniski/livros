@@ -1,0 +1,68 @@
+{
+  "obra_id": 190,
+  "autor": "Augusto Cury",
+  "titulo": "As poderosas ferramentas de gestão da emoção para relações saudáveis",
+  "subtitulo": "Manual de psicologia aplicada para casais, pais e filhos, empresários e colaboradores",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Psicologia. Relações interpessoais. Desenvolvimento pessoal.",
+  "palavras_chave": "cury ferramentas relacoes",
+  "edicao_id": 185,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 155,
+  "peso": 250,
+  "isbn": "9786584661042",
+  "editora": "DreamSellers",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Relacionar-se é inevitável. Portanto, é preciso aprender a construir relações saudáveis consigo em primeiro lugar e com os outros. Nos relacionamos com familiares, amigos, colegas de trabalho e até mesmo com pessoas que cruzam nosso caminho na correria do dia a dia. Quando não há uma boa gestão dos pensamentos e das emoções, podemos prejudicar as relações em todos esses âmbitos, deteriorando nossa qualidade de vida.</p><p>Este livro apresenta ferramentas práticas e dinâmicas para repensarmos nosso comportamento e não cairmos nas armadilhas da mente que nos fazem construir relações não saudáveis.</p><p>A partir do desenvolvimento das funções mais complexas da inteligência para tornar o Eu o autor da própria história e das poderosas ferramentas de gestão da emoção para relações saudáveis, podemos melhorar nossos relacionamentos e nossa qualidade de vida.</p><p>Embarque nesta viagem e aprenda a decifrar os códigos das relações inteligentes!</p><p>VOCÊ VAI APRENDER A:</p><ul><li>Comunicar-se com empatia e assertividade.</li><li>Proteger a emoção e administrar os pensamentos para construir relações mais saudáveis.</li><li>Gerenciar as armadilhas da mente que sabotam as relações interpessoais.</li></ul>",
+  "sinopse": "Em 'As poderosas ferramentas de gestão da emoção para relações saudáveis', Augusto Cury aborda a importância de construir relações saudáveis, começando por uma boa gestão das emoções e pensamentos. O livro oferece ferramentas práticas para repensar comportamentos e evitar armadilhas mentais que prejudicam os relacionamentos. É um guia para melhorar as interações pessoais e profissionais, destacando a comunicação empática e assertiva como chaves para relações mais saudáveis.",
+  "exemplar_id": 184,
+  "sku": "LI004O",
+  "preco_estante_virtual": 21.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/augusto-cury--as-poderosas-ferramentas-de-gest-o-da-emo--o-para-rela--es-saud-veis--capa--20250226--133803.jpg",
+  "contracapa": "static/uploads/augusto-cury--as-poderosas-ferramentas-de-gest-o-da-emo--o-para-rela--es-saud-veis--contracapa--20250226--133803.jpg",
+  "fotos": [
+    "static/uploads/augusto-cury--as-poderosas-ferramentas-de-gest-o-da-emo--o-para-rela--es-saud-veis--foto1--20250226--133803.jpg",
+    "static/uploads/augusto-cury--as-poderosas-ferramentas-de-gest-o-da-emo--o-para-rela--es-saud-veis--foto2--20250226--133803.jpg",
+    "static/uploads/augusto-cury--as-poderosas-ferramentas-de-gest-o-da-emo--o-para-rela--es-saud-veis--foto3--20250226--133803.jpg",
+    "static/uploads/augusto-cury--as-poderosas-ferramentas-de-gest-o-da-emo--o-para-rela--es-saud-veis--foto4--20250226--133803.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:17:25",
+  "observacoes": null
+}

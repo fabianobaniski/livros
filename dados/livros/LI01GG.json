@@ -1,0 +1,63 @@
+{
+  "obra_id": 2391,
+  "autor": "Luiz Azevedo",
+  "titulo": "Atitudes Pessoais de Cura",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "azevedo atitudes pessoais cura",
+  "edicao_id": 2371,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 258,
+  "peso": 400,
+  "isbn": "9788546000753",
+  "editora": "Nova Letra",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra apresenta vinte e cinco hábitos essenciais para melhorar a saúde, o bem-estar, a qualidade de vida e promover longevidade. Com uma rica base de referências científicas, o livro oferece orientações claras e objetivas para o leitor compreender os princípios fundamentais de uma vida mais saudável, tanto física quanto espiritualmente. Especialistas elogiam o conteúdo pela capacidade de guiar o leitor em uma jornada de autoconhecimento, mostrando como acessar o espírito para alcançar a transformação pessoal e a saúde integral.",
+  "exemplar_id": 2370,
+  "sku": "LI01GG",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/luiz-azevedo--atitudes-pessoais-de-cura--capa--20260316--155332.jpg",
+  "contracapa": "static/uploads/luiz-azevedo--atitudes-pessoais-de-cura--contracapa--20260316--155339.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:28:31",
+  "observacoes": null
+}

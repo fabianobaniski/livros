@@ -1,0 +1,63 @@
+{
+  "obra_id": 5628,
+  "autor": "Rumiko Takahashi",
+  "titulo": "Mao",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Mistério.",
+  "palavras_chave": "takahashi mao",
+  "edicao_id": 5603,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 210,
+  "isbn": "9786559608003",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p><b>Qual seria o assustador “papel” que Mao vem desempenhando há mil anos?</b> Aproveitando o grande terremoto que era temido por todos, Mao encontra Byouki. Neste momento, o passado que ainda se faz presente coloca-o diante de novos mistérios...</p>",
+  "sinopse": "Mao enfrenta novos mistérios ao encontrar Byouki durante um grande terremoto. O assustador papel desempenhado por Mao há mil anos começa a se revelar enquanto o passado continua a influenciar o presente.",
+  "exemplar_id": 5602,
+  "sku": "LI031H",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/mao__rumiko-takahashi__capa__2026-02-24_13-36-43-457201-000.jpg",
+  "contracapa": "static/uploads/mao__rumiko-takahashi__contracapa__2026-02-24_13-36-43-481904-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

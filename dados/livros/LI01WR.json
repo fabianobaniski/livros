@@ -1,0 +1,63 @@
+{
+  "obra_id": 2979,
+  "autor": "Alfredo José Schwarcz",
+  "titulo": "Y a pesar de todo... los judíos de habla Alemana en la Argentina",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "schwarcz pesar todo los",
+  "edicao_id": 2959,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 317,
+  "peso": 300,
+  "isbn": "9789506941345",
+  "editora": "Grupo Editor Latinoamericano",
+  "numero_edicao": null,
+  "ano": 1991,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Nesta obra, é retratada a imigração de judeus de língua alemã expulsos da Europa Central e sua chegada à Argentina. Diferentes dos grupos imigrantes conhecidos, eles não se encaixavam nas categorias tradicionais, sentindo-se distintos. A partir de relatos e de um profundo estudo psicossocial, o autor explora questões de identidade, pertencimento, raízes, desenraizamento e dificuldades de integração. O livro oferece um rico panorama sobre a transmissão cultural e a experiência dessa comunidade em sua nova pátria.",
+  "exemplar_id": 2958,
+  "sku": "LI01WR",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/y-a-pesar-de-todo-los-judios-de-habla-alemana-en-la-argentina-alfredo-jose-schwarcz-capa_rev306.jpg",
+  "contracapa": "static/uploads/y-a-pesar-de-todo-los-judios-de-habla-alemana-en-la-argentina-alfredo-jose-schwarcz-contracapa_rev1431.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:06:15",
+  "observacoes": null
+}

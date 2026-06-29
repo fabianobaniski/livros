@@ -1,0 +1,68 @@
+{
+  "obra_id": 3269,
+  "autor": "Hiro Kiyohara",
+  "titulo": "Coin Laundry Lady",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Mistério. Humor.",
+  "palavras_chave": "kiyohara coin laundry lady",
+  "edicao_id": 3249,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788545703730",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta é a história de Maoko, a misteriosa garota que vive na lavanderia frequentada por Ikoma, um jovem que vê obrigado a ter com ela o seu relacionamento com as estranhas figuras que lá encontra! São histórias com humor, emoção e de uma absurda 'máquina de secar'!</p>",
+  "sinopse": "Maoko é uma misteriosa garota que vive em uma lavanderia, cenário onde Ikoma frequentemente a encontra. A relação entre eles se desenvolve em meio a interações com figuras estranhas que frequentam o local, proporcionando histórias repletas de humor, emoção e situações inusitadas envolvendo até mesmo uma absurda máquina de secar.",
+  "exemplar_id": 3248,
+  "sku": "LI024R",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/coin-laundry-lady__hiro-kiyohara__capa__2025-11-05_16-24-45-320165.jpg",
+  "contracapa": "static/uploads/coin-laundry-lady__hiro-kiyohara__contracapa__2025-11-05_16-24-45-354870.jpg",
+  "fotos": [
+    "static/uploads/coin-laundry-lady__hiro-kiyohara__foto-01__2025-11-05_16-24-45-383126.jpg",
+    "static/uploads/coin-laundry-lady__hiro-kiyohara__foto-02__2025-11-05_16-24-45-416924.jpg",
+    "static/uploads/coin-laundry-lady__hiro-kiyohara__foto-03__2025-11-05_16-24-45-440783.jpg",
+    "static/uploads/coin-laundry-lady__hiro-kiyohara__foto-04__2025-11-05_16-24-45-462856.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:50:42",
+  "observacoes": null
+}

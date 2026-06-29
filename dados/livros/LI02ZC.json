@@ -1,0 +1,63 @@
+{
+  "obra_id": 5551,
+  "autor": "Masashi Kishimoto; Mikio Ikemoto; Ukyo Kodachi",
+  "titulo": "Boruto",
+  "subtitulo": "-Naruto Next Generations-",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Ação. Aventura.",
+  "palavras_chave": "kishimoto boruto naruto next generations",
+  "edicao_id": 5526,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 172,
+  "peso": 220,
+  "isbn": "9788542615562",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "",
+  "sinopse": "Anos após a Quarta Guerra Ninja, a Vila da Folha vive uma era de paz e tecnologia avançada sob a liderança de Naruto Uzumaki, o Sétimo Hokage. A trama foca em seu filho, Boruto, que, sentindo-se negligenciado pelo pai e buscando trilhar seu próprio caminho, acaba envolvido em uma conspiração sombria ligada à misteriosa organização Kara e à marca Karma. Entre o peso do legado familiar e a ameaça de novos seres celestiais, o jovem ninja precisa amadurecer rapidamente para proteger o mundo de uma nova extinção.",
+  "exemplar_id": 5525,
+  "sku": "LI02ZC",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 19.0,
+  "capa": "static/uploads/boruto__naruto-next-generations__masashi-kishimoto-mikio-ikemoto-ukyo-kodachi__capa__2026-02-24_13-36-27-923560-000.png",
+  "contracapa": "static/uploads/boruto__naruto-next-generations__masashi-kishimoto-mikio-ikemoto-ukyo-kodachi__contracapa__2026-02-24_13-36-27-970243-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Possui um rasguinho mínimo na parte superior da capa. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel amarelou um pouco com a passagem dos anos. / OBS.: Exemplar saiu da editora com a lombada um pouco rígida, o que dificulta um pouquinho folhear as páginas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

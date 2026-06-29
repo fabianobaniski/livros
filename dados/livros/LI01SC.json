@@ -1,0 +1,63 @@
+{
+  "obra_id": 2820,
+  "autor": "Tsetsília Iampólskaia",
+  "titulo": "Organizações sociais na URSS",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "iampolskaia organizacoes sociais urss",
+  "edicao_id": 2800,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 206,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Edições Progresso-moscovo",
+  "numero_edicao": null,
+  "ano": 1976,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro analisa o conceito, o sistema e os tipos de organizações sociais na U.R.S.S., destacando seu papel na sociedade soviética. A obra enfatiza a relevância dessas organizações na construção do comunismo e sua influência sobre o desenvolvimento individual. Ao investigar a relação entre o Estado soviético e o envolvimento ativo da população na vida social, o livro evidencia a importância dessas instituições para a integração do homem na estrutura política e social da União Soviética.",
+  "exemplar_id": 2799,
+  "sku": "LI01SC",
+  "preco_estante_virtual": 65.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/organizacoes-sociais-na-urss-tsetsilia-iampolskaia-capa_rev2136.jpg",
+  "contracapa": "static/uploads/organizacoes-sociais-na-urss-tsetsilia-iampolskaia-contracapa_rev580.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados. Capa dura com sobrecapa,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:57",
+  "observacoes": null
+}

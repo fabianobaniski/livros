@@ -1,0 +1,68 @@
+{
+  "obra_id": 1914,
+  "autor": "Mione Apolinario Sales; Jefferson Lee de Souza Ruiz (Orgs.)",
+  "titulo": "Mídia, questão social e serviço social",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Sociologia. Serviço social. Comunicação social. Direitos humanos.",
+  "palavras_chave": "sales midia questao social servico",
+  "edicao_id": 1894,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 405,
+  "peso": 600,
+  "isbn": "9788524915031",
+  "editora": "Cortez",
+  "numero_edicao": 3,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro inaugura um debate que amplia e enriquece o campo de possibilidades do Serviço Social e de outras profissões interessadas em qualificar sua intervenção social de forma criativa e crítica. Considera a comunicação como um dos direitos humanos fundamentais, estabelecendo uma mediação com o exercício profissional dos assistentes sociais, por meio de diferentes experiências práticas significativas e de reflexões acerca das condições sócio-históricas adversas que desconstroem direitos e conquistas. <b>Mídia, Questão Social e Serviço Social</b> resgata, assim, com êxito, a construção dessa dimensão do projeto ético-político profissional: a comunicação como política estratégica capaz de estender os horizontes de uma práxis social e profissional compromissada com a liberdade e a emancipação humana.</p><p><i>Maria Lucia Silva Barroco</i></p>",
+  "sinopse": "O livro propõe um debate inovador que amplia as possibilidades do Serviço Social e áreas correlatas, enfocando a comunicação como direito humano fundamental e ferramenta estratégica para a atuação de assistentes sociais. Por meio de experiências práticas e reflexões sobre contextos sócio-históricos adversos, a obra ressalta a comunicação como elemento central para a construção de uma práxis voltada à liberdade e emancipação humana.",
+  "exemplar_id": 1893,
+  "sku": "LI0138",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mione-apolinario-sales--m-dia--quest-o-social-e-servi-o-social--capa--20250430--104300.jpg",
+  "contracapa": "static/uploads/mione-apolinario-sales--m-dia--quest-o-social-e-servi-o-social--contracapa--20250430--104300.jpg",
+  "fotos": [
+    "static/uploads/mione-apolinario-sales--m-dia--quest-o-social-e-servi-o-social--foto1--20250430--104300.jpg",
+    "static/uploads/mione-apolinario-sales--m-dia--quest-o-social-e-servi-o-social--foto2--20250430--104300.jpg",
+    "static/uploads/mione-apolinario-sales--m-dia--quest-o-social-e-servi-o-social--foto3--20250430--104300.jpg",
+    "static/uploads/mione-apolinario-sales--m-dia--quest-o-social-e-servi-o-social--foto4--20250430--104300.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:59:54",
+  "observacoes": "procedencia_biblioteca"
+}

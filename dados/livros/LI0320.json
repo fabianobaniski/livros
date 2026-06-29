@@ -1,0 +1,63 @@
+{
+  "obra_id": 5647,
+  "autor": "Kaito",
+  "titulo": "Ao no Flag",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Juventude. Relacionamentos. Esportes.",
+  "palavras_chave": "kaito ao flag",
+  "edicao_id": 5622,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 218,
+  "peso": 240,
+  "isbn": "9786559820375",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Com o início do verão... chega a época de mudar o guarda-roupa por completo.</p> <p>Por recomendação da classe, Touma se torna o líder da equipe de torcida do Festival Esportivo da escola e convoca Taichi e Futaba como vice-líderes. Na intenção de corresponder às expectativas do amigo, os dois treinam como nunca. Entretanto, acontece algo com Futaba bem no dia da apresentação?! O Festival Esportivo foi o estopim da reviravolta na relação desses três!!</p>",
+  "sinopse": "Com o início do verão, a mudança de guarda-roupa traz novas dinâmicas. Touma lidera a torcida do Festival Esportivo, com Taichi e Futaba como vice-líderes. Treinam intensamente, mas algo inesperado acontece com Futaba. O evento esportivo é o estopim para mudanças nas relações entre eles.",
+  "exemplar_id": 5621,
+  "sku": "LI0320",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 19.0,
+  "capa": "static/uploads/ao-no-flag__kaito__capa__2026-02-24_13-36-45-029268-000.jpg",
+  "contracapa": "static/uploads/ao-no-flag__kaito__contracapa__2026-02-24_13-36-45-056952-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

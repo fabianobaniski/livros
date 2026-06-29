@@ -1,0 +1,68 @@
+{
+  "obra_id": 1655,
+  "autor": "Sigrid Lange Scherrer Renaux; Hein Leonard Bowles (orgs)",
+  "titulo": "Bruno Enei",
+  "subtitulo": "Aulas de literatura italiana e desafios críticos",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "Literatura italiana. Ensino. Crítica literária.",
+  "palavras_chave": "enei aulas literatura italiana",
+  "edicao_id": 1636,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 450,
+  "peso": 800,
+  "isbn": "9788562450075",
+  "editora": "Toda Palavra",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "Série Intelectuais",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quanta energia você coloca na preservação do meio ambiente?</p> <p>Itaipu trabalha para gerar muito mais do que eletricidade. São dezenas de ações que se tornaram referência na preservação do meio ambiente e na promoção do desenvolvimento e da qualidade de vida de brasileiros e paraguaios. Projetos que geram novas tecnologias, novos conhecimentos e novas esperanças. A energia que o mundo precisa parar sustentável.</p>",
+  "sinopse": "O livro aborda as aulas de Bruno Enei sobre a literatura italiana, além de discutir desafios críticos que permeiam a área. Enei contribui de forma significativa para a reflexão e o debate acadêmico nesta temática.",
+  "exemplar_id": 1635,
+  "sku": "LI00XK",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/sigrid-lange-scherrer-renaux--bruno-enei--capa--20250401--115801.jpg",
+  "contracapa": "static/uploads/sigrid-lange-scherrer-renaux--bruno-enei--contracapa--20250401--115801.jpg",
+  "fotos": [
+    "static/uploads/sigrid-lange-scherrer-renaux--bruno-enei--foto1--20250401--115801.jpg",
+    "static/uploads/sigrid-lange-scherrer-renaux--bruno-enei--foto2--20250401--115801.jpg",
+    "static/uploads/sigrid-lange-scherrer-renaux--bruno-enei--foto3--20250401--115801.jpg",
+    "static/uploads/sigrid-lange-scherrer-renaux--bruno-enei--foto4--20250401--115801.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:55:53",
+  "observacoes": null
+}

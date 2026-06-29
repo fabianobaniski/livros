@@ -1,0 +1,63 @@
+{
+  "obra_id": 3199,
+  "autor": "J. H. Merle D Aubigné",
+  "titulo": "História da Reforma do Décimo Sexto Século",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": null,
+  "palavras_chave": "aubigne historia reforma decimo",
+  "edicao_id": 3179,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 248,
+  "peso": 350,
+  "isbn": null,
+  "editora": "Casa Edit. Presbiteriana",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Esta obra apresenta um relato abrangente e detalhado sobre a Reforma Protestante do século XVI, abordando as principais figuras, eventos e movimentos que moldaram esse período crucial da história religiosa e política. Com um olhar especial para a Alemanha, Suíça e Inglaterra, o autor examina os desafios enfrentados pelos reformadores e as transformações que resultaram na consolidação do protestantismo.",
+  "exemplar_id": 3178,
+  "sku": "LI022V",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado (vide fotos), embora bastante amarelado pela passagem dos anos e com leves sinais de uso. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:51:55",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

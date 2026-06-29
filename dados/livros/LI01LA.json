@@ -1,0 +1,63 @@
+{
+  "obra_id": 2566,
+  "autor": "Mário Hélio Gomes de Lima",
+  "titulo": "Gilberto Freyre",
+  "subtitulo": "Coleção Educadores (MEC)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "lima gilberto freyre colecao",
+  "edicao_id": 2546,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 327,
+  "isbn": "9788570195234",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2545,
+  "sku": "LI01LA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mario-helio-gomes-de-lima--gilberto-freyre--capa--20260316--202802.jpg",
+  "contracapa": "static/uploads/mario-helio-gomes-de-lima--gilberto-freyre--contracapa--20260316--202802.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:13:30",
+  "observacoes": null
+}

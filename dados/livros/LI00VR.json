@@ -1,0 +1,68 @@
+{
+  "obra_id": 1477,
+  "autor": "Miguel Sanches Neto",
+  "titulo": "Minha vida de velho",
+  "subtitulo": "Crônicas reunidas",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura brasileira. Envelhecimento. Reflexões pessoais.",
+  "palavras_chave": "sanches neto vida velho",
+  "edicao_id": 1458,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 199,
+  "peso": 300,
+  "isbn": "9788568411056",
+  "editora": "Container Edições",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As roupas que o mercado me oferta querem que eu seja jovem e exiba o corpo sarado, revelando músculos que nunca tive nem nunca terei. A todos os modistas tenho um apelo:</p><p>- Me deixem envelhecer.</p><p>É o pedido de um homem cansado. Respeitem as manchas na minha pele, minha cintura adiposa, minhas veias à mostra, minhas mãos de bruxa velha, minhas varicoses - por favor, não queiram que eu seja jovem.</p><p>Sim, também já tivemos a pele límpida, os cabelos sedosos, a face sem rugas, as pernas firmes, os passos decididos, mas se tentamos retornar àquela forma tudo vira paródia.</p><p>Miguel Sanches Neto</p>",
+  "sinopse": "Neste conjunto de crônicas, Miguel Sanches Neto reflete sobre o envelhecimento e a resistência contra os padrões impostos pela sociedade. Com um tom irônico e sincero, ele aborda a busca pela aceitação do próprio corpo e a importância de respeitar o passar dos anos, entrelaçando memórias e reflexões pessoais.",
+  "exemplar_id": 1457,
+  "sku": "LI00VR",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/miguel-sanches-neto--minha-vida-de-velho--capa--20250401--115738.jpg",
+  "contracapa": "static/uploads/miguel-sanches-neto--minha-vida-de-velho--contracapa--20250401--115738.jpg",
+  "fotos": [
+    "static/uploads/miguel-sanches-neto--minha-vida-de-velho--foto1--20250401--115738.jpg",
+    "static/uploads/miguel-sanches-neto--minha-vida-de-velho--foto2--20250401--115738.jpg",
+    "static/uploads/miguel-sanches-neto--minha-vida-de-velho--foto3--20250401--115738.jpg",
+    "static/uploads/miguel-sanches-neto--minha-vida-de-velho--foto4--20250401--115738.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:00:44",
+  "observacoes": null
+}

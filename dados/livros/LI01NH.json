@@ -1,0 +1,63 @@
+{
+  "obra_id": 2645,
+  "autor": "Gilton S. Santos",
+  "titulo": "Labá",
+  "subtitulo": "A sacerdotisa nagô",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "santos laba sacerdotisa nago",
+  "edicao_id": 2625,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 152,
+  "peso": 250,
+  "isbn": "9788586536441",
+  "editora": "Cristális",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Labá, filha de Ogum e sacerdotisa nagô, carrega o símbolo da lua e um destino de luta e superação. Filha de um guerreiro, ela enfrenta momentos de sofrimento, dor, mas também encontra alegria e esperança. Sua trajetória cruel, marcada pelo desterro e pelas mãos dos tumbeiros no Brasil, se entrelaça com a vontade de Olorum: levar esperança a seus irmãos e semear o culto aos Orixás em uma nova terra. Uma jornada de fé e resiliência, onde a espiritualidade e o dever se encontram.",
+  "exemplar_id": 2624,
+  "sku": "LI01NH",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/gilton-s-santos--laba--capa--20260316--214307.jpg",
+  "contracapa": "static/uploads/gilton-s-santos--laba--contracapa--20260316--214307.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Assinatura do antigo dono na primeira página. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:13:37",
+  "observacoes": null
+}

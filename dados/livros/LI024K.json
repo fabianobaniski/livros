@@ -1,0 +1,68 @@
+{
+  "obra_id": 3262,
+  "autor": "Yuki Amemiya; Yukino Ichihara",
+  "titulo": "07-Ghost",
+  "subtitulo": "Sete espectros",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Amizade. Amor. Segredos.",
+  "palavras_chave": "amemiya ghost espectros",
+  "edicao_id": 3242,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 140,
+  "isbn": "7897653514595",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": 9,
+  "transcricao_contracapa": "<p>Quando se viram, Ouka e Teito sentiram que já se conheciam... Qual o significado do encontro desses dois? Teito descobre o amor, mas sua jornada está cada vez mais perigosa, agora que Ayanami sabe o segredo do Pontífice!</p>",
+  "sinopse": "Quando Ouka e Teito se encontram, surge uma estranha sensação de familiaridade entre eles. Enquanto busca entender o significado desse reencontro, Teito começa a descobrir o amor, mas sua jornada se torna cada vez mais arriscada, pois Ayanami agora está ciente do segredo do Pontífice.",
+  "exemplar_id": 3241,
+  "sku": "LI024K",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/07-ghost__sete-espectros__yuki-amemiya-yukino-ichihara__capa__2025-11-05_16-24-43-978219.jpg",
+  "contracapa": "static/uploads/07-ghost__sete-espectros__yuki-amemiya-yukino-ichihara__contracapa__2025-11-05_16-24-44-003042.jpg",
+  "fotos": [
+    "static/uploads/07-ghost__sete-espectros__yuki-amemiya-yukino-ichihara__foto-01__2025-11-05_16-24-44-023668.jpg",
+    "static/uploads/07-ghost__sete-espectros__yuki-amemiya-yukino-ichihara__foto-02__2025-11-05_16-24-44-048384.jpg",
+    "static/uploads/07-ghost__sete-espectros__yuki-amemiya-yukino-ichihara__foto-03__2025-11-05_16-24-44-074445.jpg",
+    "static/uploads/07-ghost__sete-espectros__yuki-amemiya-yukino-ichihara__foto-04__2025-11-05_16-24-44-093472.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-06-26 14:42:08",
+  "observacoes": null
+}

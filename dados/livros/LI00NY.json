@@ -1,0 +1,63 @@
+{
+  "obra_id": 904,
+  "autor": "Hernandes Dias Lopes; Arival Dias Casimiro",
+  "titulo": "Homens de oração",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Liderança. Família.",
+  "palavras_chave": "lopes homens oracao",
+  "edicao_id": 889,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 119,
+  "peso": 100,
+  "isbn": "9788563563163",
+  "editora": "United Press",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O homem foi estabelecido por Deus como líder da família. É o sacerdote do lar. A ele compete a responsabilidade de educar os filhos na disciplina e admoestação do Senhor. Infelizmente, muitos homens têm sido negligentes a respeito desse sublime privilégio e dessa grande responsabilidade. Não poucos têm sido omissos. Outros têm delegado à esposa essa tarefa de consequências eternas. Não podemos acovardar-nos. Essa é uma incumbência nossa. Precisamos levantar-nos e agir.</p><p>HOMENS DE ORAÇÃO visa conclamar os homens, especialmente os pais, a se levantarem como intercessores, a assumir de fato a responsabilidade que lhe foi dada para o lar e a sociedade.</p>",
+  "sinopse": "O livro 'Homens de Oração' discute a importância do papel do homem como líder da família e sacerdote do lar, enfatizando a responsabilidade de educar os filhos na fé. Ele conclama os homens, especialmente os pais, a se levantarem como intercessores e assumirem suas responsabilidades, não delegando a tarefa à esposa, e buscando agir com integridade visando consequências eternas.",
+  "exemplar_id": 888,
+  "sku": "LI00NY",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/hernandes-dias-lopes--homens-de-ora--o--capa--20250227--152912.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--homens-de-ora--o--contracapa--20250227--152912.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:36:58",
+  "observacoes": null
+}

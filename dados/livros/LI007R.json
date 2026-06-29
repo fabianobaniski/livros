@@ -1,0 +1,68 @@
+{
+  "obra_id": 304,
+  "autor": "Allan Kardec",
+  "titulo": "O evangelho segundo o espiritismo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritismo. Cristianismo. Consolação.",
+  "palavras_chave": "kardec evangelho espiritismo",
+  "edicao_id": 296,
+  "encadernacao": null,
+  "quantidade_paginas": 275,
+  "peso": 300,
+  "isbn": "9788573414004",
+  "editora": "ide",
+  "numero_edicao": 352,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta obra define a essência religiosa da Doutrina Espírita, como sendo a do Cristianismo Redivivo, restaurado pela interpretação que os Espíritos deram aos textos evangélicos.</p> <p>Ela mostra o poder do amai-vos uns aos outros nas mais diversas situações da vida, quando deixamos o nosso amor fraterno guiar a nossa mente e o nosso coração, as nossas mãos e os nossos passos, para que tudo se equilibre ao nosso redor.</p> <p>É um livro de consolações e de orientações seguras que os Espíritos nos legaram como apoio e roteiro de nossa vida.</p> <p>No final desta obra, há um Índice Analítico dos Assuntos, reunindo, em ordem alfabética, todos os verbetes que podem interessar aos estudiosos.</p> <p>Allan Kardec, quando redigiu seus livros, escreveu para o povo, em linguagem simples, e, sendo esta uma tradução literal, a linguagem simples original ficou preservada.</p>",
+  "sinopse": "Esta obra apresenta a essência da Doutrina Espírita, revelando a importância do amor fraterno nas diversas situações da vida. É um guia de consolo e orientação, com um Índice Analítico que facilita o estudo dos assuntos abordados. Allan Kardec utiliza uma linguagem acessível, preservando a simplicidade dos ensinamentos.",
+  "exemplar_id": 295,
+  "sku": "LI007R",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/allan-kardec--o-evangelho-segundo-o-espiritismo--capa--20250226--133817.jpg",
+  "contracapa": "static/uploads/allan-kardec--o-evangelho-segundo-o-espiritismo--contracapa--20250226--133817.jpg",
+  "fotos": [
+    "static/uploads/allan-kardec--o-evangelho-segundo-o-espiritismo--foto1--20250226--133817.jpg",
+    "static/uploads/allan-kardec--o-evangelho-segundo-o-espiritismo--foto2--20250226--133817.jpg",
+    "static/uploads/allan-kardec--o-evangelho-segundo-o-espiritismo--foto3--20250226--133817.jpg",
+    "static/uploads/allan-kardec--o-evangelho-segundo-o-espiritismo--foto4--20250226--133817.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Possui sobrecapa plástica que pode ser facilmente retirada."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:06:57",
+  "observacoes": null
+}

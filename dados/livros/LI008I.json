@@ -1,0 +1,68 @@
+{
+  "obra_id": 333,
+  "autor": "Paulo Coelho",
+  "titulo": "Manuscrito encontrado em Accra",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura reflexiva. Filosofia. Espiritualidade.",
+  "palavras_chave": "coelho manuscrito encontrado accra",
+  "edicao_id": 324,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 250,
+  "isbn": "9788575428221",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>14 de julho de 1099. Jerusalém se prepara para a invasão dos cruzados. Dentro dos muros da cidade antiga, homens e mulheres de todas as idades e crenças se reúnem para ouvir as palavras sábias de um homem misterioso conhecido apenas como Copta. Ele convoca o povo a encarar a verdade e lidar com seus temores:</p> <p>“A partir de amanhã o que era harmonia se transformará em discórdia. O que era alegria será substituído pelo luto. O que era paz dará lugar a uma guerra... Ninguém sabe o que nos reserva o amanhã, porque a cada dia basta o seu mal ou o seu bem. Portanto, ao perguntarem o que desejam saber, especulamos as tropas do lado de fora e do lado de dentro. Nosso legado não será dizer aqueles que herdarão a terra o que aconteceu na data de hoje: isso a história se encarregará de fazer. Falaremos, portanto, de nossa vida cotidiana, das dificuldades que fomos obrigados a enfrentar.”</p> <p>As pessoas começam a fazer perguntas sobre derrota, luta e a natureza de seus inimigos; elas contemplam a vontade de mudar e as virtudes da lealdade e da solidão; e, por fim, levantam questões sobre beleza, amor, sabedoria, sexo e futuro.</p> <p>Hoje as respostas do sábio são um registro dos valores humanos que perduraram ao longo do tempo. E, pelas mãos de Paulo Coelho, Manuscrito encontrado em Accra revela que quem somos, o que tememos e o que esperamos do futuro vêm do conhecimento e da fé dentro de cada um de nós, e não das adversidades.</p>",
+  "sinopse": "Em julho de 1099, Jerusalém se prepara para a invasão dos cruzados, e homens e mulheres se reúnem para ouvir as sábias palavras de um misterioso homem conhecido como Copta. Ele os convoca a encarar a verdade e os medos internos. O livro explora questões sobre a vida, desafios, e a busca de valores humanos que perduram ao longo do tempo, revelando a essência do que somos e nossas esperanças para o futuro.",
+  "exemplar_id": 323,
+  "sku": "LI008I",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/paulo-coelho--manuscrito-encontrado-em-accra--capa--20250226--133820.jpg",
+  "contracapa": "static/uploads/paulo-coelho--manuscrito-encontrado-em-accra--contracapa--20250226--133820.jpg",
+  "fotos": [
+    "static/uploads/paulo-coelho--manuscrito-encontrado-em-accra--foto1--20250226--133820.jpg",
+    "static/uploads/paulo-coelho--manuscrito-encontrado-em-accra--foto2--20250226--133820.jpg",
+    "static/uploads/paulo-coelho--manuscrito-encontrado-em-accra--foto3--20250226--133820.jpg",
+    "static/uploads/paulo-coelho--manuscrito-encontrado-em-accra--foto4--20250226--133820.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta assinatura de ex-dono na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:53:52",
+  "observacoes": null
+}

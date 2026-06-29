@@ -1,0 +1,63 @@
+{
+  "obra_id": 2406,
+  "autor": "Irena Wojnar",
+  "titulo": "Bogdan Suchodolski",
+  "subtitulo": "Coleção Educadores",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "wojnar bogdan suchodolski colecao",
+  "edicao_id": 2386,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 171,
+  "peso": 263,
+  "isbn": "9788570195432",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2385,
+  "sku": "LI01GV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/irena-wojnar--bogdan-suchodolski--capa--20260316--175534.jpg",
+  "contracapa": "static/uploads/irena-wojnar--bogdan-suchodolski--contracapa--20260316--175534.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Livre de anotações, sublinhados, marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:54:48",
+  "observacoes": null
+}

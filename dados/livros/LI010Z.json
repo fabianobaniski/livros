@@ -1,0 +1,68 @@
+{
+  "obra_id": 1833,
+  "autor": "A. Lopes de Sá",
+  "titulo": "Princípios fundamentais de contabilidade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Ciências Exatas. Contabilidade. Princípios contábeis. Teoria da contabilidade.",
+  "palavras_chave": "sa principios fundamentais contabilidade",
+  "edicao_id": 1813,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 279,
+  "peso": 570,
+  "isbn": "9788522447695",
+  "editora": "Atlas",
+  "numero_edicao": 4,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O autor oferece a doutrina e as teorias que alicerçam os princípios que regem a informação contábil, de acordo com a Resolução 750 do Conselho Federal de Contabilidade, editada em fins de 1993. É mostrada a parte científica que embasa a tecnológica.</p><p>Apresenta o conhecimento contábil na sua parte mais qualificada, fornecendo meios para entender a razão de ser dos princípios que regem a parte formal do conhecimento contábil. É dedicado um capítulo a cada princípio e são analisadas as teorias que os sustentam.</p><p>A obra está atualizada com as mais recentes conquistas da normalização contábil internacional e representa um esforço para o pleno entendimento de cada um dos elementos básicos que norteiam todas as normas nacionais.</p><p>Aborda Princípios em contabilidade, Comparabilidade dos princípios contábeis, Princípio da entidade, Princípio da continuidade, Princípio da oportunidade, Princípio do registro pelo valor original, Princípio da atualização monetária, Princípio da competência e Princípio da prudência.</p>",
+  "sinopse": "O livro oferece a doutrina e as teorias fundamentais dos princípios que regem a informação contábil, alinhado à Resolução 750 do Conselho Federal de Contabilidade. Atualizado conforme as mais recentes mudanças na normalização contábil internacional, a obra detalha cada um dos princípios formais da contabilidade e suas teorias, abordando temas como comparabilidade, entidade, continuidade, oportunidade, registro pelo valor original, atualização monetária, competência e prudência.",
+  "exemplar_id": 1812,
+  "sku": "LI010Z",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/a--lopes-de-s---princ-pios-fundamentais-de-contabilidade--capa--20250430--102954.jpg",
+  "contracapa": "static/uploads/a--lopes-de-s---princ-pios-fundamentais-de-contabilidade--contracapa--20250430--102954.jpg",
+  "fotos": [
+    "static/uploads/a--lopes-de-s---princ-pios-fundamentais-de-contabilidade--foto1--20250430--102954.jpg",
+    "static/uploads/a--lopes-de-s---princ-pios-fundamentais-de-contabilidade--foto2--20250430--102954.jpg",
+    "static/uploads/a--lopes-de-s---princ-pios-fundamentais-de-contabilidade--foto3--20250430--102954.jpg",
+    "static/uploads/a--lopes-de-s---princ-pios-fundamentais-de-contabilidade--foto4--20250430--102954.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:17:11",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1845,
+  "autor": "Ermes Medeiros da Silva; Elio Medeiros da Silva; Valter Gonçalves; Afrânio Carlos Murolo",
+  "titulo": "Pesquisa operacional",
+  "subtitulo": "Para os cursos de: Economia, Administração, Ciências Contábeis",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Ensino superior. Pesquisa operacional. Programação linear. Simulação. Administração. Economia. Ciências contábeis.",
+  "palavras_chave": "silva pesquisa operacional cursos economia administracao ciencias contabeis",
+  "edicao_id": 1825,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 184,
+  "peso": 350,
+  "isbn": "9788522419319",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>PESQUISA OPERACIONAL</b></p> <p>Além de ser um livro-texto ajustado às necessidades de ensino, auxilia o professor a direcionar o estudo da disciplina, liberando-o de transcrever a matéria no quadro, pois essa atividade é uma fonte de propagação de erros e pouco traz de retorno ao aluno em termos de entendimento e fixação de conhecimentos.</p> <p>A Programação Linear e a Simulação são enfocadas. A Programação Linear tem o mérito de envolver conhecimentos matemáticos relativamente simples e de larga aplicação no campo da administração. Além disso, sua técnica resolutiva é programável em computador, havendo no mercado softwares específicos para isso.</p> <p>A Simulação é o modelo mais geral em Pesquisa Operacional. Seu estudo estimula o conhecimento do sistema envolvido e da metodologia da Pesquisa Operacional. Sua técnica resolutiva envolve conhecimentos simples de Estatística Básica ao nível apresentado, sendo também facilmente programável em computador. Algumas planilhas (Lotus e Excel, por exemplo) são de grande auxílio e podem ser facilmente encontradas.</p> <p>Os exemplos são desenvolvidos com todos os detalhes para servir de guia quando estudados sem o acompanhamento de professor.</p> <p><b>NOTA SOBRE OS AUTORES</b></p> <p>ERMES MEDEIROS DA SILVA é licenciado em Matemática pela Faculdade de Filosofia, Ciências e Letras de Rio Claro-SP. Pós-graduado em Estatística pelo I.M.E-USP.</p> <p>ELIO MEDEIROS DA SILVA é bacharel e licenciado em Matemática pela PUC-SP e pós-graduado em Matemática Aplicada pela USP e em Administração de Empresas pela EAESP-FGV.</p> <p>VALTER GONÇALVES é economista, administrador de empresas e mestrando em Administração de Empresas.</p> <p>AFRÂNIO CARLOS MUROLO é graduado em Matemática, com especialização em Estatística pela UNICAMP, pós-graduado em Didática do Ensino Superior e mestrando em Administração de Empresas.</p> <p>Os autores acumulam larga experiência no ensino de Matemática, Estatística e Pesquisa Operacional em cursos superiores de Economia, Administração e Ciências Contábeis.</p> <p><b>APLICAÇÃO</b></p> <p>Livro-texto para a disciplina PESQUISA OPERACIONAL dos cursos de Administração de Empresas, Ciências Contábeis e Engenharia de Produção.</p>",
+  "sinopse": "O livro apresenta uma abordagem ajustada às necessidades do ensino de Pesquisa Operacional, com foco em Programação Linear e Simulação, destacando aplicações práticas e técnicas de fácil programação em computador. Voltado para cursos de Economia, Administração e Ciências Contábeis, serve como livro-texto para alunos e professores, trazendo exemplos detalhados que facilitam o entendimento mesmo sem acompanhamento docente.",
+  "exemplar_id": 1824,
+  "sku": "LI011B",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ermes-medeiros-da-silva--pesquisa-operacional--capa--20250430--102955.jpg",
+  "contracapa": "static/uploads/ermes-medeiros-da-silva--pesquisa-operacional--contracapa--20250430--102955.jpg",
+  "fotos": [
+    "static/uploads/ermes-medeiros-da-silva--pesquisa-operacional--foto1--20250430--102955.jpg",
+    "static/uploads/ermes-medeiros-da-silva--pesquisa-operacional--foto2--20250430--102955.jpg",
+    "static/uploads/ermes-medeiros-da-silva--pesquisa-operacional--foto3--20250430--102955.jpg",
+    "static/uploads/ermes-medeiros-da-silva--pesquisa-operacional--foto4--20250430--102955.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:03:16",
+  "observacoes": "procedencia_biblioteca"
+}

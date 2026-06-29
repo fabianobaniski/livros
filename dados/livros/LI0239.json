@@ -1,0 +1,63 @@
+{
+  "obra_id": 3213,
+  "autor": "Rosiska Darcy de Oliveira",
+  "titulo": "Reengenharia do Tempo",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": null,
+  "palavras_chave": "oliveira reengenharia tempo",
+  "edicao_id": 3193,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 250,
+  "isbn": "9788532515551",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3192,
+  "sku": "LI0239",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "ATENÇÃO: Os detalhes sobre a conservação do livro serão adicionados nos próximos dias. Se tiver pressa na compra, por favor, envie uma mensagem solicitando mais detalhes.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "ATENÇÃO: Os detalhes sobre a conservação do livro serão adicionados nos próximos dias. Se tiver pressa na compra, por favor, envie uma mensagem solicitando mais detalhes."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:08:13",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

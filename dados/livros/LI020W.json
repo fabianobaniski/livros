@@ -1,0 +1,63 @@
+{
+  "obra_id": 3128,
+  "autor": "Luís Carlos Lopes",
+  "titulo": "A Imagem e a Sombra da Arquivística",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": null,
+  "palavras_chave": "lopes imagem sombra arquivistica",
+  "edicao_id": 3108,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 136,
+  "peso": 200,
+  "isbn": null,
+  "editora": "Arquivo Público Rj",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Índice resumido: Prefácio de Louise Gagnon-Arguin; A arquivística: ligações e imbricações; A informação: a mônada do século XX; A informação: Teoria de base e suas consequências; A informação: a visão das ciências da informação; Informação registrada ou memória?; A arquivística: correntes e tendências; A arquivística europeia e norte-americana em face da arquivística internacional; A arquivística integrada: quatro proposições sobre o seu desenvolvimento; etc.",
+  "exemplar_id": 3107,
+  "sku": "LI020W",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Amarelou com a passagem do tempo e possui leves marcas de uso, mas nada que prejudique a leitura e o manuseio. Não possui anotações, sublinhados, rasgos, amassados nem marcas de umidade, sol excessivo, mofo ou traça. Consta carimbo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:27:33",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

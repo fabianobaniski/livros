@@ -1,0 +1,63 @@
+{
+  "obra_id": 2990,
+  "autor": "René Frydman",
+  "titulo": "Deus, a Medicina e o Embrião",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": null,
+  "palavras_chave": "frydman deus medicina embriao",
+  "edicao_id": 2970,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 306,
+  "peso": 700,
+  "isbn": "9727712258",
+  "editora": "Instituto Piaget",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "O Embrião tem alma? Se sim, esta anima é imediata, desde a concepção ou diferida? E, neste caso, quando e como se produz? Desde sempre, esta questão foi objeto de controvérsias. As grandes religiões monoteístas dão respostas diferentes. A própria ciências balbuciou durante muito tempo antes de compreender os mecanismos íntimos da reprodução. Na alvorada do século XXI, os progressos da biologia molecular renovam o debate. A medicina, ao abordar a questão das origens do ser, deve levar em conta os progressos científicos, mas também questionamentos éticos...",
+  "exemplar_id": 2969,
+  "sku": "LI01X2",
+  "preco_estante_virtual": 37.5,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado. Conteúdo intacto, sem anotações ou sublinhados. Miolo firme, sem folhas soltas. Sem mofo, furos, umidade, carimbos, assinaturas. Amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:44:38",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

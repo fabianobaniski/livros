@@ -1,0 +1,63 @@
+{
+  "obra_id": 5579,
+  "autor": "Masakazu Katsura",
+  "titulo": "Zetman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Aventura. Ação.",
+  "palavras_chave": "katsura zetman",
+  "edicao_id": 5554,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 216,
+  "peso": 170,
+  "isbn": "9788545701484",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 9,
+  "transcricao_contracapa": "<p>Konoha e sua amiga são sequestradas por um player que quer usá-las para matar o ZET! Jin está em apuros, dividido entre tentar sobreviver sem poder se transformar no ZET e salvar as reféns. Enquanto isso, Kouga finalmente poderá testar seu traje Alphas...</p>",
+  "sinopse": "Konoha e sua amiga são sequestradas por um player que planeja usá-las para matar o ZET. Jin enfrenta um dilema entre sobreviver ou se transformar no ZET para salvar as reféns. Enquanto isso, Kouga se prepara para testar seu traje Alphas.",
+  "exemplar_id": 5553,
+  "sku": "LI0304",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/zetman__masakazu-katsura__capa__2026-02-24_13-36-33-110795-000.jpg",
+  "contracapa": "static/uploads/zetman__masakazu-katsura__contracapa__2026-02-24_13-36-33-135487-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

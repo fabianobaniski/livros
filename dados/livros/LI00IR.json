@@ -1,0 +1,63 @@
+{
+  "obra_id": 712,
+  "autor": "Wilma Rejane",
+  "titulo": "Às Margens do Quebar",
+  "subtitulo": "54 mensagens bíblicas",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura. Religião. Mensagens bíblicas.",
+  "palavras_chave": "rejane margens quebar mensagens",
+  "edicao_id": 697,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 183,
+  "peso": 300,
+  "isbn": "9788565105217",
+  "editora": "Ágape",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Manancial\" é a palavra que vem à mente ao ler os iluminados comentários e reflexões de Wilma Rejane sobre algumas das mais inspiradas mensagens bíblicas.</p><p>Às margens do Quebar conjuga leveza e edificação, beleza e entendimento, inspirando o desejo de mergulhar na leitura dos textos bíblicos, e alimentando a renovação do gosto pelo conhecimento das coisas de Deus.</p><p>Trata-se de 54 mensagens bíblicas, entre as quais se destacam, por exemplo:</p><ul><li>A caminho do sepulcro vazio</li><li>A luz resplandece nas trevas</li><li>A parábola do filho pródigo</li><li>Aprendendo com Marta e Maria</li><li>Cordeiro em meio aos lobos</li><li>Deus nas catástrofes</li><li>Elias e a pequena nuvem</li><li>Jesus e a mulher adúltera</li><li>Jesus e o jovem rico</li><li>Jesus lava os pés dos discípulos</li><li>Na estrada de Damasco</li><li>O justo florescerá como palmeira</li><li>O barco de Pedro</li><li>Pedro, tu me amas?</li></ul><p>Louvado seja Deus pela vida da irmã Wilma! Louvadas sejam a divina sabedoria e a inesgotável caridade destes textos escritos em meio à oração e ao estudo abnegado das Escrituras. Que eles sejam o melhor e mais aprazível caminho para a edificação de todos nós, na glória eterna do Senhor Deus.</p>",
+  "sinopse": "Às Margens do Quebar é uma coletânea de 54 mensagens bíblicas que une leveza e edificação, desafiando o leitor a se aprofundar nas Escrituras. A autora, Wilma Rejane, ilumina temas como fé, esperança e a importância de um relacionamento pessoal com Deus, proporcionando uma renovação do desejo de conhecer as mensagens sagradas.",
+  "exemplar_id": 696,
+  "sku": "LI00IR",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/wilma-rejane---s-margens-do-quebar--capa--20250227--152859.jpg",
+  "contracapa": "static/uploads/wilma-rejane---s-margens-do-quebar--contracapa--20250227--152859.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:26:27",
+  "observacoes": null
+}

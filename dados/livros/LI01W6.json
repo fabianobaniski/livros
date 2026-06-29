@@ -1,0 +1,63 @@
+{
+  "obra_id": 2958,
+  "autor": "Édouard Korenfeld",
+  "titulo": "Tus sueños te hablan",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "korenfeld tus suenos hablan",
+  "edicao_id": 2938,
+  "encadernacao": null,
+  "quantidade_paginas": 248,
+  "peso": 300,
+  "isbn": "9788441418783",
+  "editora": "Edaf",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este texto destaca a fascinação do ser humano pelos sonhos, considerados misteriosos e estimulantes. Ressalta como Freud usou a noção do inconsciente para explicar impulsos reprimidos que afetam nossas vidas. A obra de um psicoterapeuta convida a explorar o inconsciente através dos sonhos, enfatizando que cada sonho é único e pode revelar mensagens importantes para melhorar nossa vida.",
+  "exemplar_id": 2937,
+  "sku": "LI01W6",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/tus-suenos-te-hablan-edouard-korenfeld-capa_rev6.jpg",
+  "contracapa": "static/uploads/tus-suenos-te-hablan-edouard-korenfeld-contracapa_rev180.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Descubre Lo Que Tu Inconsciente Intenta Decirte / Ótima conservação. Capas e lombada sem perdas; lombada reta; miolo firme e sem folhas soltas; texto livre de anotações e sublinhados. Consta, apenas, pequeno carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:07:58",
+  "observacoes": null
+}

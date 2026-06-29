@@ -1,0 +1,68 @@
+{
+  "obra_id": 62,
+  "autor": "J. M. Dillard",
+  "titulo": "O fugitivo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Suspense. Thriller. Crime. Justiça.",
+  "palavras_chave": "dillard fugitivo ",
+  "edicao_id": 62,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Klick",
+  "numero_edicao": 2,
+  "ano": 1998,
+  "serie": "Coleção Supertítulos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Com o lançamento da coleção SUPERTÍTULOS, o jornal O Estado de S. Paulo brinda seus leitores com alguns dos mais populares best sellers do mundo. Seus autores garantem muitas horas de entretenimento e emoção.</p> <p><b>O FUGITIVO</b>, história que no cinema foi estrelada por Harrison Ford, conta o drama de um renomado cirurgião, Richard Kimble, que em poucas horas se vê envolvido, como suspeito número um, do assassinato de sua linda esposa, Helen. Condenado à morte, ele consegue fugir e faz tudo para descobrir o culpado. O leitor se surpreenderá com o frenético desenrolar de uma trama que envolve colegas de Kimble, grandes laboratórios farmacêuticos, dinheiro e ambição.</p>",
+  "sinopse": "Richard Kimble, um renomado cirurgião, é injustamente acusado do assassinato de sua esposa. Condenado à morte, ele foge e embarca em uma busca desesperada para encontrar o verdadeiro culpado, enquanto é perseguido pelas autoridades.",
+  "exemplar_id": 61,
+  "sku": "LI001M",
+  "preco_estante_virtual": 6.0,
+  "preco_amazon": 6.0,
+  "capa": "static/uploads/j--m--dillard--o-fugitivo--capa--20250225--232125.jpg",
+  "contracapa": "static/uploads/j--m--dillard--o-fugitivo--contracapa--20250225--232125.jpg",
+  "fotos": [
+    "static/uploads/j--m--dillard--o-fugitivo--foto1--20250225--232125.jpg",
+    "static/uploads/j--m--dillard--o-fugitivo--foto2--20250225--232125.jpg",
+    "static/uploads/j--m--dillard--o-fugitivo--foto3--20250225--232125.jpg",
+    "static/uploads/j--m--dillard--o-fugitivo--foto4--20250225--232125.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel fortemente amarelado, marcas de uso e uma página sem conteúdo rasgada."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:16:58",
+  "observacoes": null
+}

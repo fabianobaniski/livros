@@ -1,0 +1,68 @@
+{
+  "obra_id": 1939,
+  "autor": "Maria Lucia S. Barroco",
+  "titulo": "Ética ",
+  "subtitulo": "Fundamentos sócio-históricos",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Ética. Sociologia. Filosofia. História.",
+  "palavras_chave": "barroco etica fundamentos socio-historicos",
+  "edicao_id": 1919,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 245,
+  "peso": 390,
+  "isbn": "9788524914263",
+  "editora": "Cortez",
+  "numero_edicao": 3,
+  "ano": 2010,
+  "serie": "Biblioteca Básica / Serviço Social",
+  "volume": null,
+  "transcricao_contracapa": "<p>Ética! Insistir, persistir, resistir; não deixar de dar tratamento agudo e fundo a tema crucial para existirmos mais juntos e na melhor partilha. Lucia Barroco sabe fazê-lo, e o faz com densidade, substância e maestria. Claro; só podia mesmo ser assim, pois afinada na teoria e prática, é pesquisadora, docente e assistente social que maneja a Filosofia, a Sociologia e a História com respeito, prazer e competência. Sorte nossa: é péssimo para moralistas epidérmicos e ótimo para proteger futuros.</p><p><b>Mario Sergio Cortella</b></p>",
+  "sinopse": "O livro 'Ética: fundamentos sócio-históricos', de Maria Lucia S. Barroco, aborda de forma densa e aprofundada o tema da ética, essencial para a convivência social e o compartilhamento coletivo. A autora analisa os fundamentos e dimensões éticas com domínio teórico e prático, unindo conhecimentos de Filosofia, Sociologia e História para tratar das questões morais, sociais e a atuação profissional do assistente social.",
+  "exemplar_id": 1918,
+  "sku": "LI013X",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/maria-lucia-s--barroco---tica--capa--20250430--104304.jpg",
+  "contracapa": "static/uploads/maria-lucia-s--barroco---tica--contracapa--20250430--104304.jpg",
+  "fotos": [
+    "static/uploads/maria-lucia-s--barroco---tica--foto1--20250430--104304.jpg",
+    "static/uploads/maria-lucia-s--barroco---tica--foto2--20250430--104304.jpg",
+    "static/uploads/maria-lucia-s--barroco---tica--foto3--20250430--104304.jpg",
+    "static/uploads/maria-lucia-s--barroco---tica--foto4--20250430--104304.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:40:01",
+  "observacoes": "procedencia_biblioteca"
+}

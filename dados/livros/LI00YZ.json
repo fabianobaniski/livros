@@ -1,0 +1,68 @@
+{
+  "obra_id": 1760,
+  "autor": "Wilson Zappa Hoog",
+  "titulo": "Contabilidade",
+  "subtitulo": "Teoria básica e fundamentos",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Teoria contábil. Educação continuada. Consultoria.",
+  "palavras_chave": "hoog contabilidade teoria basica fundamentos",
+  "edicao_id": 1740,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 322,
+  "peso": 440,
+  "isbn": "9788536243122",
+  "editora": "Juruá",
+  "numero_edicao": 2,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro proporciona ao leitor o conhecimento sobre as fundamentações contábeis baseadas na Teoria da Contabilidade. É apontado como um dos indicativos para a implantação de programa de aperfeiçoamento ou desenvolvimento de programas de educação continuada para os profissionais do Direito, da Auditoria e da Perícia Contábil. Em decorrência de seu lastro na Teoria Pura da Contabilidade, destina-se também para o uso dos profissionais de consultoria que auxiliam os administradores de bens e direitos, como uma base em preceito científico para a elaboração de pareceres ou laudos.</p><div><b>Aplicação</b><br><p>A obra foi desenvolvida para atender às exigências básicas do programa do Exame de Suficiência, a prova de bacharel em ciências contábeis, motivo pelo que se recomenda como livro base para a disciplina de teoria da contabilidade, além de servir como leitura complementar quando da elaboração de artigos, monografias, dissertações e teses.<br><br>Leitura essencial a quem labuta com investigações contábilísticas e a alunos do curso de Graduação e Pós-graduação em Contabilidade.</p></div>",
+  "sinopse": "Este livro oferece ao leitor conhecimento sobre as fundamentações contábeis com base na Teoria da Contabilidade, sendo indicado para programas de aperfeiçoamento e educação continuada de profissionais do Direito, Auditoria e Perícia Contábil. Também serve como referência científica para consultores e administradores na elaboração de pareceres e laudos. A obra é recomendada como livro base para a disciplina de teoria da contabilidade, além de ser útil para artigos, monografias, dissertações e teses, e leitura essencial para estudantes e profissionais que atuam em investigações contábeis.",
+  "exemplar_id": 1739,
+  "sku": "LI00YZ",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/wilson-zappa-hoog--contabilidade--capa--20250430--102942.jpg",
+  "contracapa": "static/uploads/wilson-zappa-hoog--contabilidade--contracapa--20250430--102942.jpg",
+  "fotos": [
+    "static/uploads/wilson-zappa-hoog--contabilidade--foto1--20250430--102942.jpg",
+    "static/uploads/wilson-zappa-hoog--contabilidade--foto2--20250430--102942.jpg",
+    "static/uploads/wilson-zappa-hoog--contabilidade--foto3--20250430--102942.jpg",
+    "static/uploads/wilson-zappa-hoog--contabilidade--foto4--20250430--102942.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:58:00",
+  "observacoes": "procedencia_biblioteca"
+}

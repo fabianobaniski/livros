@@ -1,0 +1,63 @@
+{
+  "obra_id": 2694,
+  "autor": "Manuel Antonio de Almeida",
+  "titulo": "Memórias de um sargento de milícias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "almeida memorias sargento milicias",
+  "edicao_id": 2674,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 128,
+  "peso": 200,
+  "isbn": "9788575201176",
+  "editora": "Ciranda Cultural",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2673,
+  "sku": "LI01OU",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/memorias-de-um-sargento-de-milicias-manuel-antonio-de-almeida-capa_rev477.jpg",
+  "contracapa": "static/uploads/memorias-de-um-sargento-de-milicias-manuel-antonio-de-almeida-contracapa_rev720.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 18:42:39",
+  "observacoes": null
+}

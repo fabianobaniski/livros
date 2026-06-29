@@ -1,0 +1,68 @@
+{
+  "obra_id": 26,
+  "autor": "José Martí Gómez",
+  "titulo": "Lady Di",
+  "subtitulo": "La verdadera historia (1961-1997)",
+  "idioma": "Espanhol",
+  "categoria": "Biografias",
+  "temas": "História Contemporânea. Realeza. Mídia. Tragédias",
+  "palavras_chave": "gomez lady di verdadera historia",
+  "edicao_id": 26,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 380,
+  "peso": 450,
+  "isbn": "9788440644107",
+  "editora": "Ediciones Grupo Zeta",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>«En la madrugada.<br>Los cuerpos destrozados.<br>La chatarra del lujoso vehículo de la marca admirada por Diana.<br>Los fogonazos de las máquinas de los fotógrafos.<br>La curiosidad de los turistas.<br>La avidez de los periodistas por contar al mundo los más nimios detalles del final de la historia.<br>La princesa rogando, desde la conciencia inconsciente de su dura agonía, que la dejasen en paz.<br>Era la escenografía que ningún guionista hubiese imaginado para el final de una historia que acabó como había empezado: como una amarga tragedia shakespeariana, llena de ruido y de furia.»</p><p>José Martí Gómez, casado, padre de dos hijas, con nostalgia de gato siamés y urbanita que aborrece el campo, ejerce el periodismo desde hace más de 30 años, lo que quiere decir que es un hombre con mucha moral. Ha ganado el premio Manuel del Arco por las entrevistas que, junto a Josep Ramoneda, publicó en el semanario <i>Por Favor</i>. Premio Ciudad de Barcelona de Periodismo 1982 por sus entrevistas en <i>El Periódico</i>. Ha escrito <i>Señoras, caballeros, delincuentes todos</i> – en colaboración con Joan Anton Benach –, <i>Veintiún hijos de su padre</i>, <i>Calvo Serer, el exilio sin reino</i>, <i>Hagan juego, señores</i> – en colaboración con Josep Ramoneda –, <i>Gregorio López Raimundo, la soledad del corredor de fondo</i> – junto a Ramoneda y Xavier Vinader – y, en solitario, <i>Asesinatos por Amor</i>, <i>Amor y sangre en la Oficina</i>, <i>Joan Raventós, biografía de un político y de su tiempo</i> y <i>La España del estraperlo</i>.</p><p>Reportero de <i>La Vanguardia</i>, ha sido corresponsal en el Reino Unido de la cadena SER, cadena radiofónica en la que junto a Josep Ramoneda firma la columna «El Bestiario». Se alinea en las filas de los que creen que el periodismo es mucho peor desde que hay ordenadores y homogeneizantes libros de estilo.</p>",
+  "sinopse": "Biografia da Princesa Diana cobrindo sua vida de 1961 a 1997, incluindo sua trajetória na realeza, impacto público e o trágico acidente que levou à sua morte.",
+  "exemplar_id": 25,
+  "sku": "LI000N",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/jos--mart--g-mez--lady-di--capa--20250225--164234.jpg",
+  "contracapa": "static/uploads/jos--mart--g-mez--lady-di--contracapa--20250225--164234.jpg",
+  "fotos": [
+    "static/uploads/jos--mart--g-mez--lady-di--foto1--20250225--164234.jpg",
+    "static/uploads/jos--mart--g-mez--lady-di--foto2--20250225--164234.jpg",
+    "static/uploads/jos--mart--g-mez--lady-di--foto3--20250225--164234.jpg",
+    "static/uploads/jos--mart--g-mez--lady-di--foto4--20250225--164234.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:21:40",
+  "observacoes": null
+}

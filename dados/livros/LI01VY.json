@@ -1,0 +1,63 @@
+{
+  "obra_id": 2950,
+  "autor": "Philip K. Dick",
+  "titulo": "Tiempo desarticulado",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Ficção Científica",
+  "temas": "",
+  "palavras_chave": "dick tiempo desarticulado",
+  "edicao_id": 2930,
+  "encadernacao": null,
+  "quantidade_paginas": 222,
+  "peso": 150,
+  "isbn": "9788445003657",
+  "editora": "Minotauro",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Ragle Gumm é um homem comum com uma vida aparentemente banal, exceto por um detalhe: ele vence todos os dias um concurso do jornal local, onde precisa adivinhar onde estará o homenzinho verde. No entanto, sua rotina perfeita começa a ruir quando ele sente o desejo de sair de sua cidade, algo que nunca fez, e percebe que uma força desconhecida o impede. Ao longo do tempo, Ragle começa a questionar a natureza de sua realidade, levantando dúvidas sobre o que é verdadeiro e o que é ilusão. Uma trama envolvente que reflete sobre controle e a linha tênue entre o real e o simulado.",
+  "exemplar_id": 2929,
+  "sku": "LI01VY",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/tiempo-desarticulado-philip-k-dick-capa_rev330.jpg",
+  "contracapa": "static/uploads/tiempo-desarticulado-philip-k-dick-contracapa_rev1831.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, um pouco amarelado e com leves sinais de uso, mas bem conservado. Texto livre de grifos e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:23:56",
+  "observacoes": null
+}

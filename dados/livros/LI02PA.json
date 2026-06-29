@@ -1,0 +1,63 @@
+{
+  "obra_id": 4956,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Romance adolescente. Comédia.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 4931,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 170,
+  "isbn": "9788542607055",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Raku Ichijou é um estudante perfeitamente normal - apesar de ser filho do chefe de uma família da Yakuza. Um dia, surge em sua escola uma bela aluna transferida chamada Chitoge Kirisaki. Os dois logo se estranham e não se dão bem de jeito nenhum, mas, por algum motivo, descobrem que precisam fingir que são namorados!</p>",
+  "sinopse": "Raku Ichijou, filho de um chefe da Yakuza, leva uma vida estudantil comum até o aparecimento de Chitoge Kirisaki, uma aluna transferida. Embora os dois não se entendam, acabam precisando fingir um namoro.",
+  "exemplar_id": 4930,
+  "sku": "LI02PA",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2026-02-20_10-31-23-155738-000.png",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2026-02-20_10-31-23-203887-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

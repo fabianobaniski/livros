@@ -1,0 +1,63 @@
+{
+  "obra_id": 5004,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Aventura. Magia.",
+  "palavras_chave": "akamatsu holder",
+  "edicao_id": 4979,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9786555942644",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 24,
+  "transcricao_contracapa": "<p>“Vamos salvar o mundo!”</p> <p>Kuromaru se transforma com a espada mágica da família dos Caça-Imortais. Tanaka havia caído perante o Expurgo Imortal, porém, conseguiu resgatar Kuromaru após uma evolução dramática. Agora, com novos poderes, ele decide saber o paradeiro de Ialda Baoth, a Maga do Início. Há pouco tempo até o fim do mundo. UQ Holder se aproxima da batalha decisiva!</p> <p>Do mesmo autor de LOVE HINA e Negima!</p>",
+  "sinopse": "Kuromaru se transforma com a espada mágica da família dos Caça-Imortais. Tanaka, após uma evolução dramática, resgata Kuromaru do Expurgo Imortal. Decidido a encontrar Ialda Baoth, a Maga do Início, eles se aproximam da batalha decisiva com o fim do mundo se aproximando.",
+  "exemplar_id": 4978,
+  "sku": "LI02QM",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-36-246621-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-36-301448-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

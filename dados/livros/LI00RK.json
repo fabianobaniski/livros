@@ -1,0 +1,68 @@
+{
+  "obra_id": 1316,
+  "autor": "Adroaldo Gaya; Colaboradores",
+  "titulo": "Ciências do movimento humano",
+  "subtitulo": "Introdução à metodologia da pesquisa",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "Metodologia. Pesquisa. Educação Física.",
+  "palavras_chave": "gaya ciencias movimento humano",
+  "edicao_id": 1300,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 304,
+  "peso": 800,
+  "isbn": "9788536314389",
+  "editora": "Artmed",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro consiste em um manual de iniciação científica dirigido especialmente a estudantes de graduação e pós-graduação em educação física e áreas afins, como esporte, dança e fisioterapia. Além da descrição das principais concepções metodológicas da investigação científica, são apresentados ao leitor as etapas para a redação de trabalhos acadêmicos e as técnicas estatísticas desenvolvidas a partir do uso dos programas SPSS e Excel. Com uma linguagem simples e didática, esta obra constitui uma excelente ferramenta para a elaboração de dissertações, teses e artigos científicos na área das ciências do movimento humano.</p>",
+  "sinopse": "O livro oferece um manual de iniciação científica para estudantes de graduação e pós-graduação, abordando metodologia da pesquisa nas áreas de educação física e afins. Inclui métodos de investigação e orientações sobre a redação de trabalhos acadêmicos, além de técnicas estatísticas utilizando SPSS e Excel, apresentando uma linguagem acessível e didática.",
+  "exemplar_id": 1299,
+  "sku": "LI00RK",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/adroaldo-gaya--ci-ncias-do-movimento-humano--capa--20250401--114910.png",
+  "contracapa": "static/uploads/adroaldo-gaya--ci-ncias-do-movimento-humano--contracapa--20250401--114910.png",
+  "fotos": [
+    "static/uploads/adroaldo-gaya--ci-ncias-do-movimento-humano--foto1--20250401--114910.jpg",
+    "static/uploads/adroaldo-gaya--ci-ncias-do-movimento-humano--foto2--20250401--114910.jpg",
+    "static/uploads/adroaldo-gaya--ci-ncias-do-movimento-humano--foto3--20250401--114910.jpg",
+    "static/uploads/adroaldo-gaya--ci-ncias-do-movimento-humano--foto4--20250401--114910.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:35:42",
+  "observacoes": "procedencia_biblioteca"
+}

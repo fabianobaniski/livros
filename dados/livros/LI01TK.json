@@ -1,0 +1,63 @@
+{
+  "obra_id": 2864,
+  "autor": "Marilena Chauí e Outros",
+  "titulo": "Primeira filosofia",
+  "subtitulo": "Lições introdutórias",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "outros primeira filosofia licoes",
+  "edicao_id": 2844,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 310,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Brasiliense",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro oferece uma introdução abrangente à filosofia, resultado de um projeto desenvolvido por professores da Universidade de São Paulo. Voltado para estudantes do ensino médio e universitário, aborda temas centrais do pensamento filosófico, desde a filosofia antiga até a contemporânea, incluindo questões tradicionais e autores de destaque. Com uma abordagem didática, busca integrar a filosofia ao currículo escolar, oferecendo uma base sólida para o estudo das diferentes áreas da disciplina.",
+  "exemplar_id": 2843,
+  "sku": "LI01TK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/primeira-filosofia-marilena-chaui-e-outros-capa_rev7.jpg",
+  "contracapa": "static/uploads/primeira-filosofia-marilena-chaui-e-outros-contracapa_rev1582.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão. Bom para leitura, regular esteticamente. Papel levemente amarelado, principalmente nas bordas. Lombada alinhada. Capa e contracapa com discretos sinais de uso. Ilustrações em preto e branco. Sem anotações ou grifos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:13:27",
+  "observacoes": null
+}

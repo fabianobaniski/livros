@@ -1,0 +1,68 @@
+{
+  "obra_id": 1915,
+  "autor": "Helena Nagamine Brandão",
+  "titulo": "Gêneros do discurso na escola",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Ensino de língua portuguesa. Gêneros discursivos.",
+  "palavras_chave": "brandao generos discurso escola",
+  "edicao_id": 1895,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 269,
+  "peso": 425,
+  "isbn": "9788524907289",
+  "editora": "Cortez",
+  "numero_edicao": 4,
+  "ano": 2003,
+  "serie": "Aprender e ensinar com textos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro faz parte de uma trilogia que dá continuidade ao trabalho de pesquisa intitulado “A circulação dos textos na escola”, desenvolvido por professores da USP e UNICAMP, cujos resultados da primeira fase foram publicados pela Cortez Editora nos volumes: Aprender e ensinar com textos de alunos; Aprender e ensinar com textos didáticos e paradidáticos; Aprender e ensinar com textos não escolares. Nesta obra desenvolve-se um trabalho de seleção, análise, interpretação de diferentes gêneros discursivos, com sugestões de leitura, visando a aparelhar os professores na exploração didática de diferentes textos verbais. Juntamente com este <i>Gêneros do discurso na escola</i>, completam a trilogia referente à segunda fase da pesquisa os livros: <i>Leitura e construção do real</i> e <i>Outras linguagens na escola</i>. Todos publicados na coleção “Aprender e ensinar com textos”.</p>",
+  "sinopse": "Este livro integra uma trilogia que dá continuidade à pesquisa 'A circulação dos textos na escola', reunindo professores da USP e UNICAMP. Ele oferece seleção e análise de diferentes gêneros discursivos, com sugestões de leitura e atividades para professores, facilitando a exploração didática de diversos textos verbais na escola. Faz parte da coleção 'Aprender e ensinar com textos' e está alinhado à segunda fase da pesquisa, juntamente com os livros 'Leitura e construção do real' e 'Outras linguagens na escola'.",
+  "exemplar_id": 1894,
+  "sku": "LI0139",
+  "preco_estante_virtual": 11.0,
+  "preco_amazon": 11.0,
+  "capa": "static/uploads/helena-nagamine-brand-o--g-neros-do-discurso-na-escola--capa--20250430--104300.jpg",
+  "contracapa": "static/uploads/helena-nagamine-brand-o--g-neros-do-discurso-na-escola--contracapa--20250430--104300.jpg",
+  "fotos": [
+    "static/uploads/helena-nagamine-brand-o--g-neros-do-discurso-na-escola--foto1--20250430--104300.jpg",
+    "static/uploads/helena-nagamine-brand-o--g-neros-do-discurso-na-escola--foto2--20250430--104300.jpg",
+    "static/uploads/helena-nagamine-brand-o--g-neros-do-discurso-na-escola--foto3--20250430--104300.jpg",
+    "static/uploads/helena-nagamine-brand-o--g-neros-do-discurso-na-escola--foto4--20250430--104300.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:26:47",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2366,
+  "autor": "Gabriel Chalita",
+  "titulo": "Amor",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "gabriel chalita amor",
+  "edicao_id": 2346,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": null,
+  "peso": 354,
+  "isbn": "9788576656357",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro de Gabriel Chalita reúne reflexões, frases e poemas sobre o poder transformador do amor no cotidiano. A obra busca inspirar o leitor a enxergar o amor como uma força generosa e fundamental nas relações humanas, explorando suas diferentes manifestações com sensibilidade e profundidade. Através de palavras tocantes, o autor convida à valorização dos sentimentos e à reflexão sobre as conexões afetivas.",
+  "exemplar_id": 2345,
+  "sku": "LI01FR",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/gabriel-chalita--amor--capa--20260316--154036.jpg",
+  "contracapa": "static/uploads/gabriel-chalita--amor--contracapa--20260316--154045.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Capa dura, sem indicação do número de páginas (aprox. 80)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:13:05",
+  "observacoes": null
+}

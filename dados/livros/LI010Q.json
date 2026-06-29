@@ -1,0 +1,68 @@
+{
+  "obra_id": 1824,
+  "autor": "Ingedore Villaça Koch",
+  "titulo": "A inter-ação pela linguagem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Linguística",
+  "temas": "Linguística. Linguística do discurso. Interação social. Jogos de linguagem.",
+  "palavras_chave": "villaca inter acao pela linguagem",
+  "edicao_id": 1804,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 134,
+  "peso": 190,
+  "isbn": "9788572440257",
+  "editora": "Contexto",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>A INTER-AÇÃO PELA LINGUAGEM,</b> de Ingedore G. Villaça Koch, professora da UNICAMP, inscreve-se na linguística do discurso, na medida em que se ocupa de manifestações linguísticas formuladas por indivíduos concretos, sob determinadas condições de produção. Ao tomar como objeto de estudo sequências textuais ou textos inteiros, este livro procura descrever e explicar a capacidade do ser humano de interagir socialmente por meio de uma língua, das mais diversas formas e com os mais diferentes resultados, assim como as estratégias postas em ação nos \"jogos de linguagem\".</p>",
+  "sinopse": "O livro de Ingedore G. Villaça Koch, professora da UNICAMP, explora a linguística do discurso ao abordar manifestações linguísticas formuladas por indivíduos em contextos específicos de produção. Estudando sequências textuais ou textos inteiros, a obra descreve e explica como o ser humano interage socialmente por meio da linguagem, analisando as formas diversas dessa interação e as estratégias presentes nos chamados \"jogos de linguagem\".",
+  "exemplar_id": 1803,
+  "sku": "LI010Q",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/ingedore-villa-a-koch--a-inter-a--o-pela-linguagem--capa--20250430--102952.jpg",
+  "contracapa": "static/uploads/ingedore-villa-a-koch--a-inter-a--o-pela-linguagem--contracapa--20250430--102952.jpg",
+  "fotos": [
+    "static/uploads/ingedore-villa-a-koch--a-inter-a--o-pela-linguagem--foto1--20250430--102952.jpg",
+    "static/uploads/ingedore-villa-a-koch--a-inter-a--o-pela-linguagem--foto2--20250430--102952.jpg",
+    "static/uploads/ingedore-villa-a-koch--a-inter-a--o-pela-linguagem--foto3--20250430--102952.jpg",
+    "static/uploads/ingedore-villa-a-koch--a-inter-a--o-pela-linguagem--foto4--20250430--102952.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:26:26",
+  "observacoes": "procedencia_biblioteca"
+}

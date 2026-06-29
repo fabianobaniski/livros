@@ -1,0 +1,68 @@
+{
+  "obra_id": 269,
+  "autor": "J.P. O'Connell",
+  "titulo": "Hotel Portofino",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura contemporânea. Romance. Relações sociais.",
+  "palavras_chave": "oconnell hotel portofino",
+  "edicao_id": 263,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 349,
+  "peso": 380,
+  "isbn": "9786555874594",
+  "editora": "Record",
+  "numero_edicao": 1,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Bem-vindos ao Hotel Portofino,</h1> <p>Um lugar onde romance, festas e intrigas os aguardam.</p> <p>Do saguão pode-se apreciar a bela vista da Riviera italiana ou a recepção, onde a proprietária, Bella Ainsworth, planeja como administrar o rombo que seu marido deixou no caixa do hotel ao alimentar seu vício em cassinos.</p> <p>Da cozinha é possível sentir o agradável aroma do tomilho selvagem e as angústias da jovem Constance, babá da neta da Sra. Ainsworth que deixou coisas muito importantes para trás quando abandonou a Inglaterra para trabalhar na Itália.</p> <p>Ainda pode-se usufruir de uma estadia na elegante suíte Epsom, o quarto mais luxuoso do hotel, escolhido criteriosamente para a Sra. Drummond-Ward, que tenta arranjar um casamento para sua herdeira com Lucian, filho da Sra. Ainsworth.</p> <p>Ou, se preferir, pode-se ainda passear pela magnífica cidade de Portofino e fazer uma visita ao prédio da prefeitura, onde um homem mesquinho se vale de seu poder político para chantagear a dona do hotel.</p> <p>Isso e muito mais você encontrará se decidir abrir as páginas deste livro e passar alguns dias nesse aconchegante hotel no litoral norte da Itália.</p>",
+  "sinopse": "No Hotel Portofino, a proprietária Bella Ainsworth tenta lidar com as consequências financeiras deixadas por seu marido, enquanto a jovem Constance enfrenta suas angústias na Itália. O hotel, cenário de romance e intrigas, também abriga clientes como a Sra. Drummond-Ward, que busca arranjar um casamento. Entre passeios pela cidade e situações constrangedoras, a vida no hotel se desenrola repleta de tensões e expectativas.",
+  "exemplar_id": 262,
+  "sku": "LI006U",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/j-p--o-connell--hotel-portofino--capa--20250226--133814.jpg",
+  "contracapa": "static/uploads/j-p--o-connell--hotel-portofino--contracapa--20250226--133814.jpg",
+  "fotos": [
+    "static/uploads/j-p--o-connell--hotel-portofino--foto1--20250226--133814.jpg",
+    "static/uploads/j-p--o-connell--hotel-portofino--foto2--20250226--133814.jpg",
+    "static/uploads/j-p--o-connell--hotel-portofino--foto3--20250226--133814.jpg",
+    "static/uploads/j-p--o-connell--hotel-portofino--foto4--20250226--133814.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:37:34",
+  "observacoes": null
+}

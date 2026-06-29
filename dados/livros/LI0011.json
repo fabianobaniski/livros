@@ -1,0 +1,68 @@
+{
+  "obra_id": 41,
+  "autor": "Neil Gaiman",
+  "titulo": "Os filhos de Anansi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "gaiman filhos anansi",
+  "edicao_id": 41,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 327,
+  "peso": 400,
+  "isbn": "9788580576993",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Charlie Nancy tem uma vida pacata e um emprego entediante em Londres. A pedido da noiva, ele concorda em convidar o pai para seu casamento e fazer disso uma tentativa de reaproximação, já que há vinte anos os dois não se falam. Mas nada sai como o esperado, e agora Charlie será obrigado a mudar completamente de rumo. Sua vida vai ficar mais interessante... e bem mais perigosa.</p><p>Ao se embrenhar no território da mitologia africana, Neil Gaiman leva o leitor a mergulhar nesta história bem-humorada sobre relações familiares, profecias, divindades vingativas e aves bem malignas.</p><p>INCLUI UMA SEÇÃO DE EXTRAS COM UMA CENA CORTADA DA PRIMEIRA EDIÇÃO AMERICANA E DOIS NOVOS TEXTOS EXCLUSIVOS.</p>",
+  "sinopse": "Charlie Nancy tem uma vida pacata e um emprego entediante em Londres. A pedido da noiva, ele concorda em convidar o pai para seu casamento e fazer disso uma tentativa de reaproximação, já que há vinte anos os dois não se falam. Mas nada sai como o esperado, e agora Charlie será obrigado a mudar completamente de rumo. Sua vida vai ficar mais interessante... e bem mais perigosa.",
+  "exemplar_id": 40,
+  "sku": "LI0011",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/neil-gaiman--os-filhos-de-anansi--capa--20250225--175843.jpg",
+  "contracapa": "static/uploads/neil-gaiman--os-filhos-de-anansi--contracapa--20250225--175843.jpg",
+  "fotos": [
+    "static/uploads/neil-gaiman--os-filhos-de-anansi--foto1--20250225--175843.jpg",
+    "static/uploads/neil-gaiman--os-filhos-de-anansi--foto2--20250225--175843.jpg",
+    "static/uploads/neil-gaiman--os-filhos-de-anansi--foto3--20250225--175843.jpg",
+    "static/uploads/neil-gaiman--os-filhos-de-anansi--foto4--20250225--175843.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:11:34",
+  "observacoes": null
+}

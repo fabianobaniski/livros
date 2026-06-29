@@ -1,0 +1,63 @@
+{
+  "obra_id": 2453,
+  "autor": "Fanny Abramovich",
+  "titulo": "Cruzando caminhos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "abramovich cruzando caminhos",
+  "edicao_id": 2433,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 86,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Quatro jovens passam um feriado prolongado na praia, cheios de expectativas. Durante esses quatro dias, muita coisa pode acontecer: diversão, romance e aventura. Porém, a vida nem sempre é festa, e o inesperado frequentemente muda os planos. Cruzando Caminhos narra uma mesma história sob diferentes perspectivas, revelando que um único fato pode ter múltiplos significados. A obra questiona: de que lado está a verdade? Fanny Abramovich usa sua sensibilidade para explorar o universo jovem com profundidade e compreensão.",
+  "exemplar_id": 2432,
+  "sku": "LI01I5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/fanny-abramovich--cruzando-caminhos--capa--20260316--185904.jpg",
+  "contracapa": "static/uploads/fanny-abramovich--cruzando-caminhos--contracapa--20260316--185904.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:17:37",
+  "observacoes": null
+}

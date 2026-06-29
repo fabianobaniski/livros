@@ -1,0 +1,63 @@
+{
+  "obra_id": 2824,
+  "autor": "Fred Blanchod",
+  "titulo": "Os estranhos costumes do continente negro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Antropologia",
+  "temas": "",
+  "palavras_chave": "blanchod estranhos costumes continente",
+  "edicao_id": 2804,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 395,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Livraria Tavares Martins",
+  "numero_edicao": null,
+  "ano": 1960,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2803,
+  "sku": "LI01SG",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/os-estranhos-costumes-do-continente-negro-fred-blanchod-capa_rev1414.jpg",
+  "contracapa": "static/uploads/os-estranhos-costumes-do-continente-negro-fred-blanchod-contracapa_rev1430.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados. OBS.: Folhas unidas, conforme saíram da gráfica. Necessitam ser separadas com uma régua."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:11:23",
+  "observacoes": null
+}

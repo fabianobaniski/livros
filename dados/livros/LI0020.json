@@ -1,0 +1,68 @@
+{
+  "obra_id": 76,
+  "autor": "Georges Arnaud",
+  "titulo": "O salário do medo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Aventura. Suspense. Ação. Risco. Superação",
+  "palavras_chave": "arnaud salario medo",
+  "edicao_id": 76,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 186,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "Grandes Sucessos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Num pobre país da América Central, quatro amigos dispõem-se a uma incrível aventura: transportar uma imensa carga de explosivos – destinada a extinguir um incêndio num poço de petróleo – por uma estrada de difícil acesso.</p><p>Uma longa e louca viagem onde quatro homens vivem o medo sob as mais variadas formas.</p><p>Um romance extraordinário. Um clássico do romance de ação e suspense.</p>",
+  "sinopse": "Em um país pobre da América Central, quatro homens aceitam a perigosa missão de transportar uma carga de explosivos por estradas precárias para conter um incêndio em um poço de petróleo. Durante a jornada, enfrentam desafios extremos e testam seus próprios limites em uma narrativa cheia de tensão e suspense.",
+  "exemplar_id": 75,
+  "sku": "LI0020",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/georges-arnaud--o-sal-rio-do-medo--capa--20250225--233509.jpg",
+  "contracapa": "static/uploads/georges-arnaud--o-sal-rio-do-medo--contracapa--20250225--233510.jpg",
+  "fotos": [
+    "static/uploads/georges-arnaud--o-sal-rio-do-medo--foto1--20250225--233510.jpg",
+    "static/uploads/georges-arnaud--o-sal-rio-do-medo--foto2--20250225--233510.jpg",
+    "static/uploads/georges-arnaud--o-sal-rio-do-medo--foto3--20250225--233510.jpg",
+    "static/uploads/georges-arnaud--o-sal-rio-do-medo--foto4--20250225--233510.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:43:13",
+  "observacoes": null
+}

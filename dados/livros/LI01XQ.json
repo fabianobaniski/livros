@@ -1,0 +1,63 @@
+{
+  "obra_id": 3014,
+  "autor": "Mario Prata",
+  "titulo": "Cem Melhores Crônicas (que, na Verdade, São 129)",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": null,
+  "palavras_chave": "prata cem melhores cronicas",
+  "edicao_id": 2994,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 700,
+  "isbn": "9788576653264",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 2993,
+  "sku": "LI01XQ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:39:26",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

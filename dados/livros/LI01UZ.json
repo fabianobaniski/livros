@@ -1,0 +1,63 @@
+{
+  "obra_id": 2915,
+  "autor": "Fernand Niel",
+  "titulo": "Stonehenge",
+  "subtitulo": "Templo misterioso da pré-história",
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "niel stonehenge templo misterioso",
+  "edicao_id": 2895,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 297,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Edições 70",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Stonehenge, um dos monumentos pré-históricos mais enigmáticos e impressionantes do mundo, continua a fascinar estudiosos e curiosos. Esta obra investiga os mistérios por trás de sua construção, explorando como os gigantescos monólitos foram transportados e erguidos com precisão surpreendente. O autor reconstitui a história do monumento e examina as várias teorias sobre sua finalidade. Além de responder a diversas perguntas intrigantes, o livro oferece uma jornada instigante pelo passado, revelando os segredos deste templo pré-histórico fascinante.",
+  "exemplar_id": 2894,
+  "sku": "LI01UZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/stonehenge-fernand-niel-capa_rev1738.jpg",
+  "contracapa": "static/uploads/stonehenge-fernand-niel-contracapa_rev1021.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro mau conservado, mas em condições de leitura e manuseio. Fortemente amarelado. Com desgastes exteriores. Miolo até que vai; sem grifos e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:36:17",
+  "observacoes": null
+}

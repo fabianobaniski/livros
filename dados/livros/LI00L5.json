@@ -1,0 +1,63 @@
+{
+  "obra_id": 798,
+  "autor": "D.A. Carson",
+  "titulo": "A intolerância da tolerância",
+  "subtitulo": "A crise da tolerância que, redefinida, se tornou repressiva, perigosa e intelectualmente debilitante",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Tolerância. Moralidade. Religião.",
+  "palavras_chave": "carson intolerancia tolerancia",
+  "edicao_id": 783,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 175,
+  "peso": 300,
+  "isbn": "9788576224747",
+  "editora": "Cultura Cristã",
+  "numero_edicao": 1,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“A alegada superioridade moral da nova tolerância não se sustenta porque se não há verdade absoluta também não existe mal absoluto e o discernimento moral se desestrutura.”</p><p>A tolerância ocupa lugar de destaque na sociedade ocidental. Questioná-la é considerado indelicado, grosseiro até. Em <b>A intolerância da tolerância</b>, porém, Carson explica que o conceito de tolerância mudou e que essa nova definição deve ser rejeitada.</p><p>Tolerância significava respeitar o direito de outros adotarem diferentes crenças e pontos de vista. Agora significa afirmar que todas as crenças e pontos de vista são igualmente válidos e corretos. Carson examina a história dessa mudança e discute suas implicações para a cultura atual.</p><p>Com exemplos concretos, às vezes engraçados e outras vezes irritantemente absurdos (mas ainda reais), Carson pondera que a nova tolerância é socialmente perigosa e intelectualmente debilitante, gerando verdadeira intolerância em relação a todos que desejam permanecer firmes em suas crenças.</p><p>“De modo instigador, Carson demonstra como a tolerância se transformou em uma penetrante insistência para que ninguém tenha convicções firmes. Vivemos o pesadelo de um mundo para o qual o zelo para discernir a verdade é substituído pelo zelo para impedir qualquer um de apresentar qualquer coisa como realmente verdadeira.”</p><p>Dr. Bryan Chapell – Presidente do Covenant Theological Seminary, EUA.</p>",
+  "sinopse": "D.A. Carson, em seu livro, explica a mudança no conceito de tolerância, que deixou de ser o respeito por diferentes crenças e passou a significar que todas as visões são válidas. Com exemplos, ele destaca como essa nova forma de tolerância pode ser repressiva e prejudicial, desafiando a firmeza nas convicções individuais.",
+  "exemplar_id": 782,
+  "sku": "LI00L5",
+  "preco_estante_virtual": 85.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/d-a--carson--a-intoler-ncia-da-toler-ncia--capa--20250227--152905.jpg",
+  "contracapa": "static/uploads/d-a--carson--a-intoler-ncia-da-toler-ncia--contracapa--20250227--152905.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:26:14",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3124,
+  "autor": "Joyce Farrell",
+  "titulo": "Programming Logic and Design",
+  "subtitulo": "Introductory",
+  "idioma": "Inglês",
+  "categoria": "Informática",
+  "temas": null,
+  "palavras_chave": "farrell programming logic and",
+  "edicao_id": 3104,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 437,
+  "peso": 550,
+  "isbn": "9781423901952",
+  "editora": "Cengage Learning",
+  "numero_edicao": 5,
+  "ano": 2008,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Com uma linguagem clara e acessível, o livro oferece aos iniciantes em programação uma introdução aos conceitos fundamentais da lógica de programação. Ele aborda desde estruturas básicas de controle até técnicas mais avançadas, como manipulação de arrays, métodos e tomadas de decisão. Projetado para quem tem pouca ou nenhuma experiência, o texto explora erros comuns, além de fornecer ferramentas práticas para organizar grandes programas. Ao final, o leitor terá uma visão completa e organizada para desenvolver uma programação lógica eficaz.",
+  "exemplar_id": 3103,
+  "sku": "LI020S",
+  "preco_estante_virtual": 65.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem preservado possuindo, apenas, leves marcas de uso e da passagem dos anos. Lombada reta, miolo firme sem folhas soltas. Texto livre de sublinhados e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:17:35",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

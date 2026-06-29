@@ -1,0 +1,63 @@
+{
+  "obra_id": 625,
+  "autor": "Kevin DeYoung",
+  "titulo": "Levantando Deus a sério",
+  "subtitulo": "Por que a bíblia é compreensível, necessária e suficiente, e o que isso significa para você!",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Ensino bíblico. Princípios cristãos.",
+  "palavras_chave": "deyoung levantando deuses serio biblia",
+  "edicao_id": 610,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 150,
+  "peso": 280,
+  "isbn": "9788581321981",
+  "editora": "FIEL",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>O que a Bíblia diz sobre a Bíblia? Como isso nos ajuda a levar Deus a sério?</h1><p>O autor Kevin DeYoung preparou uma introdução clara e acessível sobre a Bíblia, que responde a perguntas importantes levantadas por cristãos e não cristãos. Este livro o ajudará a entender o que a Bíblia diz a respeito de si mesma e o que a torna tão significativa e relevante em todos os tempos. Sem fazer uso de termos técnicos ou difíceis, este livro o auxiliará a crer na Bíblia, compreendê-la e, assim, levar Deus a sério.</p><p>“Este livro é uma introdução muito agradável ao ensino bíblico sobre a Escritura, uma introdução que preserva os contornos de uma doutrina responsável e bem fundamentada da Escritura, sem aprofundar-se em detalhes complexos. Compre este livro e distribua cópias aos presbíteros, diáconos, professores de Escola Dominical e qualquer pessoa na igreja que deseja entender melhor o que a Bíblia é. Doutrina errada é, em parte, fruto de ignorância. Benditos são os professores e pregadores da igreja que, como eu, combatem a ignorância por comunicar teologia madura em um estilo claro que evita causar indigestão teológica.”</p><p>D. A. Carson, Professor de Novo Testamento, Trinity Evangelical Divinity School, Deerfield, Illinois, EUA. Cofundador do ministério The Gospel Coalition.</p><p>“Uma de minhas orações para os próximos vinte anos, se o Senhor achar conveniente me conceder isso, é que possamos ver o nível de conhecimento bíblico crescer exponencialmente. Para que isso aconteça, devemos aprender o que as Escrituras são e quão fortemente podemos nos apoiar nelas. Neste livro, Kevin DeYoung serve bem este objetivo. Que o Deus da Palavra seja conhecido e amado cada vez mais por causa deste livro.”</p><p>Matt Chadler, pastor, The Village Church, Dallas, Texas, EUA. Presidente, Acts 29 Church Planting Network.</p><p>“Este é um estudo brilhante, sucinto, mas completo da autoridade e suficiência da Escritura, baseado no que a Escritura diz sobre si mesma. Clareza e paixão são as marcas distintivas dos escritos de Kevin DeYoung. E esta pode ser a sua obra mais importante e mais excelente.”</p><p>John MacArthur, pastor, Grace Community Church, Sun Valley, Califórnia, EUA. Autor e fundador da Faculdade Masters.</p>",
+  "sinopse": "Kevin DeYoung oferece uma introdução acessível à Bíblia, abordando questões fundamentais e esclarecendo a sua importância na vida cristã. O livro serve como um guia para entender a Escritura e enfatiza sua relevância contínua, ajudando o leitor a levar Deus a sério.",
+  "exemplar_id": 609,
+  "sku": "LI00GC",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/kevin-deyoung--levantando-deus-a-s-rio--capa--20250227--152853.jpg",
+  "contracapa": "static/uploads/kevin-deyoung--levantando-deus-a-s-rio--contracapa--20250227--152853.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:30:48",
+  "observacoes": null
+}

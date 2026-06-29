@@ -1,0 +1,63 @@
+{
+  "obra_id": 2437,
+  "autor": "John Murphy; Michael Rowe",
+  "titulo": "Como Diseñar Marcas y Logotipos",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "murphy como disenar marcas",
+  "edicao_id": 2417,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 144,
+  "peso": 482,
+  "isbn": "",
+  "editora": "Editorial Gustavo Gili",
+  "numero_edicao": null,
+  "ano": 1989,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro oferece uma visão abrangente sobre o design de marcas e logotipos, explorando desde conceitos fundamentais até aspectos práticos e jurídicos. Inicia explicando o que são marcas e logotipos, seus diferentes tipos e a importância da estética no design. Em seguida, aborda o desenvolvimento de ideias, incluindo estudos de caso, tanto hipotéticos quanto reais, e discute a aplicação e manutenção do design. Também há seções dedicadas à criação de novos nomes de marcas e aos aspectos legais envolvidos, fornecendo um guia completo para profissionais e estudantes da área.",
+  "exemplar_id": 2416,
+  "sku": "LI01HP",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/john-murphy--como-disenar-marcas-y-logotipos--capa--20260316--185103.jpg",
+  "contracapa": "static/uploads/john-murphy--como-disenar-marcas-y-logotipos--contracapa--20260316--185103.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro capa dura, em bom estado de conservação, embora com leves sinais de uso. Texto sem anotações nem grifos. Ilustrações coloridas. Em espanhol."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:48:55",
+  "observacoes": null
+}

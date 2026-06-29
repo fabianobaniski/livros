@@ -1,0 +1,68 @@
+{
+  "obra_id": 366,
+  "autor": "Jonathan Edwards",
+  "titulo": "Dia a dia com Jonathan Edwards",
+  "subtitulo": "Devocional diário",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia. Espiritualidade.",
+  "palavras_chave": "edwards dia com",
+  "edicao_id": 356,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 427,
+  "peso": 300,
+  "isbn": "9781680436167",
+  "editora": "Pão Diário",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Considerado um dos maiores pensadores da história americana, Jonathan Edwards foi, antes de tudo, um pregador convincente e pastor cuidadoso.</p><p>Apresentando 366 meditações que desafiam a reflexão, acompanhadas das passagens das Escrituras, Dia a Dia com Jonathan Edwards oferece diariamente exortações e encorajamento vindos de um dos principais personagens do Grande Despertamento, o primeiro avivamento norte-americano (1720–40). Instiga os leitores a meditarem sobre como deve ser a verdadeira vida cristã.</p><p>Mais do que uma grande apresentação do pensamento desse renomado teólogo e evangelista Puritano, estes devocionais apresentam um raro vislumbre de um coração consumido por paixão pela glória de Deus.</p>",
+  "sinopse": "Este devocional apresenta 366 meditações inspiradoras de Jonathan Edwards, encorajando os leitores a refletirem sobre a verdadeira vida cristã à luz das Escrituras. A obra destaca a importância da reflexão e exortação diária, desafiando a mente e o coração dos fiéis.",
+  "exemplar_id": 355,
+  "sku": "LI009C",
+  "preco_estante_virtual": 34.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/jonathan-edwards--dia-a-dia-com-jonathan-edwards--capa--20250226--133823.jpg",
+  "contracapa": "static/uploads/jonathan-edwards--dia-a-dia-com-jonathan-edwards--contracapa--20250226--133823.jpg",
+  "fotos": [
+    "static/uploads/jonathan-edwards--dia-a-dia-com-jonathan-edwards--foto1--20250226--133823.jpg",
+    "static/uploads/jonathan-edwards--dia-a-dia-com-jonathan-edwards--foto2--20250226--133823.jpg",
+    "static/uploads/jonathan-edwards--dia-a-dia-com-jonathan-edwards--foto3--20250226--133823.jpg",
+    "static/uploads/jonathan-edwards--dia-a-dia-com-jonathan-edwards--foto4--20250226--133823.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:45:24",
+  "observacoes": null
+}

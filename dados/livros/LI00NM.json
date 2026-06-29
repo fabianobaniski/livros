@@ -1,0 +1,63 @@
+{
+  "obra_id": 892,
+  "autor": "Timothy Keller",
+  "titulo": "O Deus pródigo",
+  "subtitulo": "Uma análise completa da história mais importante que Jesus contou",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia. Parábola.",
+  "palavras_chave": "keller deus pródigo",
+  "edicao_id": 877,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 250,
+  "isbn": "9788578608675",
+  "editora": "Thomas Nelson Brasil",
+  "numero_edicao": 2,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Sem o Pai, todos estão absolutamente perdidos; nele, podem ser amorosamente encontrados.</p> <p>Um homem tinha dois filhos. O mais velho era um exemplo de moralidade e respeito à tradição. O mais novo desprezava regras e vivia irresponsavelmente. Não poderiam ser mais diferentes. Mas algo os tornava estranhamente iguais. O Deus pródigo analisa essas duas personagens da parábola mais conhecida da Bíblia para mostrar que tanto um quanto o outro filho desconheciam o amor irrestrito do pai e careciam dele desesperadamente para encontrar a verdadeira alegria.</p> <p>De maneira direta e envolvente, O Deus pródigo desconstruiu o pensamento comum de que pecado é uma violação da lista de regras e mostra que, na verdade, significa colocar-se no lugar de Deus, tornando-se seu próprio salvador, senhor e juiz, como fizeram os dois filhos da parábola. Apenas um amor sem limites ou reservas — ou pródigo — pode transformar pessoas falidas e orgulhosas em filhos dignos de participar do banquete divino.</p>",
+  "sinopse": "O Deus pródigo apresenta uma profunda análise da parábola que Jesus contou, abordando a jornada de dois filhos que, apesar de suas diferenças, compartilham a necessidade do amor paterno. A obra explora como ambos, em suas respectivas escolhas, ignoram o amor irrestrito do pai, revelando uma reflexão sobre a busca pela verdadeira alegria. Combinando uma narrativa envolvente e reflexões teológicas, o autor propõe uma nova perspectiva sobre a natureza do pecado e a graça divina.",
+  "exemplar_id": 876,
+  "sku": "LI00NM",
+  "preco_estante_virtual": 33.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/timothy-keller--o-deus-pr-digo--capa--20250227--152911.jpg",
+  "contracapa": "static/uploads/timothy-keller--o-deus-pr-digo--contracapa--20250227--152911.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:02:43",
+  "observacoes": null
+}

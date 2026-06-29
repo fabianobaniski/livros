@@ -1,0 +1,68 @@
+{
+  "obra_id": 2168,
+  "autor": "Christopher Lovelock; Lauren Wright",
+  "titulo": "Serviços",
+  "subtitulo": "Marketing e gestão",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Marketing de serviços. Gestão empresarial.",
+  "palavras_chave": "lovelock servicos marketing gestao",
+  "edicao_id": 2148,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 416,
+  "peso": 995,
+  "isbn": "9788502032781",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Serviços Marketing e Gestão</p><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço: <b>www.saraivauni.com.br</b></p><p>SaraivaUni</p><p>LIVRO COM MATERIAL DE APOIO<br>www.saraivauni.com.br</p>",
+  "sinopse": "",
+  "exemplar_id": 2147,
+  "sku": "LI01A9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/christopher-lovelock--servi-os--capa--20250430--104910.jpg",
+  "contracapa": "static/uploads/christopher-lovelock--servi-os--contracapa--20250430--104910.jpg",
+  "fotos": [
+    "static/uploads/christopher-lovelock--servi-os--foto1--20250430--104910.jpg",
+    "static/uploads/christopher-lovelock--servi-os--foto2--20250430--104910.jpg",
+    "static/uploads/christopher-lovelock--servi-os--foto3--20250430--104910.jpg",
+    "static/uploads/christopher-lovelock--servi-os--foto4--20250430--104910.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:59:20",
+  "observacoes": "procedencia_biblioteca"
+}

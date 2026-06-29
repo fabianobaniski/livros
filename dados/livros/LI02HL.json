@@ -1,0 +1,63 @@
+{
+  "obra_id": 4679,
+  "autor": "Junya Inoue",
+  "titulo": "Btooom!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Jogos. Sobrevivência. Assassinato.",
+  "palavras_chave": "inoue btooom",
+  "edicao_id": 4654,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 190,
+  "isbn": "9788577879847",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 14,
+  "transcricao_contracapa": "<p>Ryota Sakamoto é um jovem desempregado que passa o dia todo jogando online. Um dia, ele acorda em uma ilha deserta em uma versão real de 'Btooom!'. Para sobreviver, deverá derrotar outros participantes nessa disputa mortal.</p> <p>O Santuário está em chamas, e muitos já morreram! Ryota acaba ficando preso a Kaguya e, sabendo agora quem é o verdadeiro culpado pelos assassinatos, começa mais uma luta por sobrevivência!</p>",
+  "sinopse": "Ryota Sakamoto, um jovem desempregado, encontra-se preso em uma versão real do jogo 'Btooom!' em uma ilha deserta. Para sobreviver, ele deve derrotar outros participantes. Com o Santuário em chamas e enfrentando a acusação de ser o culpado pelos assassinatos, Ryota deve lutar por sua vida mais uma vez.",
+  "exemplar_id": 4653,
+  "sku": "LI02HL",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/btooom__junya-inoue__capa__2026-02-20_10-30-09-930383-000.png",
+  "contracapa": "static/uploads/btooom__junya-inoue__contracapa__2026-02-20_10-30-09-983712-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado muito bem conservado, com capa e contracapa sem danos e lombada reta. O exemplar não possui grifos, anotações, rabiscos, carimbos ou etiquetas. Miolo íntegro e sem folhas soltas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

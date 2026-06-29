@@ -1,0 +1,63 @@
+{
+  "obra_id": 4906,
+  "autor": "Yu Sasuga; Ken-Ichi Tachibana",
+  "titulo": "Terra Formars",
+  "subtitulo": "2ª Missão Reencontro com o Fatídico",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Conflito Interplanetário.",
+  "palavras_chave": "sasuga terra formars",
+  "edicao_id": 4881,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 250,
+  "isbn": "9788545700524",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Vinte anos após o fracasso da missão da BUGS-2, na Tailândia, Akari Hizamaru luta em um ringue de vale-tudo, na esperança de ganhar o prêmio para salvar sua amiga de infância de uma doença incurável. Porém, um misterioso casal o convida a participar de uma nova missão de ida à Marte. Será o começo de outra batalha mortal: Homem versus Baratas?!</p>",
+  "sinopse": "Vinte anos após a missão da BUGS-2, Akari Hizamaru luta para salvar sua amiga de uma doença. Convidado por um misterioso casal, ele enfrenta uma nova missão em Marte, iniciando outra batalha mortal: Homem versus Baratas.",
+  "exemplar_id": 4880,
+  "sku": "LI02NW",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/terra-formars__2a-missao-reencontro-com-o-fatidico__yu-sasuga-ken-ichi-tachibana__capa__2026-02-20_10-31-05-348327-000.png",
+  "contracapa": "static/uploads/terra-formars__2a-missao-reencontro-com-o-fatidico__yu-sasuga-ken-ichi-tachibana__contracapa__2026-02-20_10-31-05-538418-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "OBS.: Exemplar saiu da editora com a lombada um pouco rígida, o que dificulta um pouquinho folhear as páginas. // Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

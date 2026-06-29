@@ -1,0 +1,63 @@
+{
+  "obra_id": 2595,
+  "autor": "Moysés Moreinos",
+  "titulo": "Histórico conciso do antissemitismo europeu e as causas plausíveis do holocausto nazista",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "moreinos historico conciso antissemitismo",
+  "edicao_id": 2575,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 100,
+  "peso": 400,
+  "isbn": "9788591381807",
+  "editora": "Moysés Moreinos",
+  "numero_edicao": 0,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2574,
+  "sku": "LI01M3",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/moyses-moreinos--historico-conciso-do-antissemitismo-europeu-e-as-causas-plausiveis-do-holocausto-nazista--capa--20260316--212127.jpg",
+  "contracapa": "static/uploads/moyses-moreinos--historico-conciso-do-antissemitismo-europeu-e-as-causas-plausiveis-do-holocausto-nazista--contracapa--20260316--212127.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Há algumas marcações à lápis na lateral de vários parágrafos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:53:24",
+  "observacoes": null
+}

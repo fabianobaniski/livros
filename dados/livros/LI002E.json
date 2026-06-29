@@ -1,0 +1,68 @@
+{
+  "obra_id": 98,
+  "autor": "Honoré de Balzac",
+  "titulo": "Eugênia Grandet",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura clássica. Estudo de personagens. Sociedade.",
+  "palavras_chave": "balzac eugenia grandet",
+  "edicao_id": 98,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 226,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Patrono do romance ocidental e ao mesmo tempo um extraordinário historiador de costumes, Balzac descreve seus personagens com a precisão e segurança de um cirurgião. Na história de Eugênia - a bela e sensível filha de um negociante extremamente avaro - , há um profundo estudo sobre a solidão e um admirável retrato dos hábitos de província na França da primeira metade do século XIX.</p>",
+  "sinopse": "A história de Eugênia, a bela e sensível filha de um negociante avaro, revela um profundo estudo sobre a solidão e um retrato admirável dos hábitos da província francesa na primeira metade do século XIX.",
+  "exemplar_id": 97,
+  "sku": "LI002E",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/honor--de-balzac--eug-nia-grandet--capa--20250226--113546.jpg",
+  "contracapa": "static/uploads/honor--de-balzac--eug-nia-grandet--contracapa--20250226--113546.jpg",
+  "fotos": [
+    "static/uploads/honor--de-balzac--eug-nia-grandet--foto1--20250226--113546.jpg",
+    "static/uploads/honor--de-balzac--eug-nia-grandet--foto2--20250226--113546.jpg",
+    "static/uploads/honor--de-balzac--eug-nia-grandet--foto3--20250226--113546.jpg",
+    "static/uploads/honor--de-balzac--eug-nia-grandet--foto4--20250226--113546.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:41:08",
+  "observacoes": null
+}

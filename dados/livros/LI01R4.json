@@ -1,0 +1,63 @@
+{
+  "obra_id": 2776,
+  "autor": "Domingos Pellegrini Jr",
+  "titulo": "O homem vermelho / Os meninos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "jr homem vermelho meninos",
+  "edicao_id": 2756,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 205,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2755,
+  "sku": "LI01R4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-homem-vermelho--os-meninos-domingos-pellegrini-jr-capa_rev1797.jpg",
+  "contracapa": "static/uploads/o-homem-vermelho--os-meninos-domingos-pellegrini-jr-contracapa_rev1486.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Envelhecido, amarelado, com o miolo parcialmente descolando da lombada. Sem grifos ou anotações.   / O autor e sua obra: Domingos Pellegrini Jr., nascido em Londrina, Paraná, em 1949, cresceu em contato com peões e mascates na pensão de seus pais, o que influenciou sua vocação para contar histórias. Atuou no jornalismo, no magistério e no teatro antes de se destacar na literatura com O homem vermelho, obra premiada em 1974. Entre seus reconhecimentos estão o Concurso Nacional de Literatura da Fundação Cultural do Distrito Federal e o prêmio Fernando Chinaglia II. Sua escrita combina o insólito e o real, inspirando-se em autores como Julio Cortázar e trazendo à tona a singularidade da realidade brasileira."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:22:12",
+  "observacoes": null
+}

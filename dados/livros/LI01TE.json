@@ -1,0 +1,63 @@
+{
+  "obra_id": 2858,
+  "autor": "Hans Magnus Enzensberger",
+  "titulo": "Por onde você andou, Robert?",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "enzensberger por onde voce",
+  "edicao_id": 2838,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 261,
+  "peso": 300,
+  "isbn": "9788571648999",
+  "editora": "Cia das Letras",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Robert começa a ver manchas estranhas, que para ele se tornam cada vez mais intrigantes. Um dia, ao assistir TV, ele se vê transportado para dentro de um filme, em meio a uma revolução na União Soviética de 1956. Lá, conhece Olga e inicia uma jornada cheia de surpresas. Sete vezes Robert será levado a diferentes tempos e lugares, viajando pela história e explorando o passado sem, no entanto, poder revelá-lo, pois sua origem é de um futuro muito distante. Uma aventura misteriosa e fascinante começa.",
+  "exemplar_id": 2837,
+  "sku": "LI01TE",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/por-onde-voce-andou-robert-hans-magnus-enzensberger-capa_rev1347.jpg",
+  "contracapa": "static/uploads/por-onde-voce-andou-robert-hans-magnus-enzensberger-contracapa_rev1256.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Há anotações à lápis apenas na última folha e no interior da contracapa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:07:57",
+  "observacoes": null
+}

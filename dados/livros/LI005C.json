@@ -1,0 +1,68 @@
+{
+  "obra_id": 215,
+  "autor": "George Orwell",
+  "titulo": "1984",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Dystopia. Totalitarismo. Vigilância.",
+  "palavras_chave": "orwell 1984",
+  "edicao_id": 209,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 335,
+  "peso": 350,
+  "isbn": "9786589678007",
+  "editora": "TriCaju",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Entre os textos inspiradores do século XX, 1984 é uma obra rara, que fica mais assustadora à medida que sua trama se torna mais real a cada dia que passa. Publicado em 1949, o livro oferece a visão de pesadelo do satírico político George Orwell de um mundo totalitário e burocrático e uma tentativa pobre de encontrar a individualidade. O brilho do romance é a previsão sobre o futuro, sobre a vida moderna: a onipresença da televisão, a distorção da linguagem, o engano oficial, a manipulação da história por um regime totalitário.</p> <p>A visão de mundo de Orwell é sombria e mostra-nos o pesado autoritário alcançado: um tributo à vigilância e ao controle.</p>",
+  "sinopse": "1984 é uma obra inspiradora que se torna cada vez mais relevante à medida que o tempo passa. Publicado originalmente em 1949, o texto de George Orwell descreve um mundo totalitário e burocrático, onde a busca pela individualidade se torna um grande desafio. A narrativa explora previsões sobre o futuro, a presença constante de meios de comunicação, e como a linguagem e a história são manipuladas por um regime autoritário.",
+  "exemplar_id": 208,
+  "sku": "LI005C",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/george-orwell--1984--capa--20250226--133806.jpg",
+  "contracapa": "static/uploads/george-orwell--1984--contracapa--20250226--133807.jpg",
+  "fotos": [
+    "static/uploads/george-orwell--1984--foto1--20250226--133807.jpg",
+    "static/uploads/george-orwell--1984--foto2--20250226--133807.jpg",
+    "static/uploads/george-orwell--1984--foto3--20250226--133807.jpg",
+    "static/uploads/george-orwell--1984--foto4--20250226--133807.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:02:50",
+  "observacoes": null
+}

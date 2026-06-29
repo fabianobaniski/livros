@@ -1,0 +1,63 @@
+{
+  "obra_id": 2591,
+  "autor": "José Neves Bittencourt; Sarah Fassa Benchetrit",
+  "titulo": "História representada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "bittencourt historia representada",
+  "edicao_id": 2571,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 30,
+  "peso": 616,
+  "isbn": "8585822015",
+  "editora": "Mec / Iphan",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2570,
+  "sku": "LI01LZ",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/jose-neves-bittencourt--historia-representada--capa--20260316--212226.jpg",
+  "contracapa": "static/uploads/jose-neves-bittencourt--historia-representada--contracapa--20260316--212226.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "O dilema dos museus - Livro do seminário internacional. / Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados, exceto nas primeiras  iniciais. Papel um pouco amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:52:56",
+  "observacoes": null
+}

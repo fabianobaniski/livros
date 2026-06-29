@@ -1,0 +1,63 @@
+{
+  "obra_id": 3089,
+  "autor": "Aristófanes",
+  "titulo": "As Mulheres Que Celebram as Tesmofórias",
+  "subtitulo": "Clássicos Gregos e Latinos",
+  "idioma": "Português",
+  "categoria": "Teatro",
+  "temas": null,
+  "palavras_chave": "aristofanes mulheres que celebram",
+  "edicao_id": 3069,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 135,
+  "peso": 380,
+  "isbn": "9789724410760",
+  "editora": "Edições 70",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Esta comédia de Aristófanes, apresentada em 411 a.C. no festival das Grandes Dionísias em Atenas, caricaturiza Eurípides e sua tragédia As Mulheres que celebram as Tesmofórias. Aristófanes dedica toda uma peça à crítica literária pela primeira vez. Dois aspectos se destacam na caricatura: a obsessão de Eurípides pela criação de personagens femininas e a produção de intrigas complexas guiadas por percalços imprevisíveis.",
+  "exemplar_id": 3068,
+  "sku": "LI01ZT",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, possuindo apenas leves sinais de uso ou da passagem do tempo. Não apresenta anotações, sublinhados, rabiscos, rasgos, amassados, marca de umidade, mofo ou exposição excessiva ao sol. Miolo íntegro, sem folhas soltas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:17:44",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

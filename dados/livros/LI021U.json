@@ -1,0 +1,63 @@
+{
+  "obra_id": 3162,
+  "autor": "Bill Mcgowan; Alisa Bowman",
+  "titulo": "Os 7 princípios da persuasão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Comportamento",
+  "temas": "",
+  "palavras_chave": "mcgowan principios persuasao",
+  "edicao_id": 3142,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 247,
+  "peso": 400,
+  "isbn": "9788502617858",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3141,
+  "sku": "LI021U",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: A comunicação eficaz envolve muito mais do que apenas palavras. Questões como o que fazer com as mãos, como evitar interrupções ou como transmitir ideias de forma clara são desafios comuns para quem precisa se expressar em público. Com os sete princípios de persuasão de Bill McGowan, é possível superar esses obstáculos e se tornar um comunicador mais confiante e persuasivo. Utilizando a linguagem certa, tanto verbal quanto não verbal, você aprenderá a cativar e influenciar seu público de maneira duradoura e impactante. / Livro seminovo, com pouquíssimos sinais de uso. Não possui anotações, sublinhados, marcas de umidade, mofo, traça ou sol excessivo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:00:17",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

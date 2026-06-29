@@ -1,0 +1,63 @@
+{
+  "obra_id": 2371,
+  "autor": "Júlio Emílio Braz",
+  "titulo": "Anjos no Aquário",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "braz anjos aquario",
+  "edicao_id": 2351,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 201,
+  "isbn": "",
+  "editora": "Atual",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A história de *Anjos no Aquário* acompanha Tina, uma jovem de 16 anos que se encontra grávida. Mauro, o pai da criança, parte para outra cidade, deixando Tina sozinha para lidar com a situação. Ela se vê diante de um dilema complicado: continuar com a gravidez e enfrentar os desafios de se tornar mãe ou optar pelo aborto, questionando se essa é realmente a solução mais fácil. Ao longo da narrativa, Tina reflete sobre suas responsabilidades e incertezas, enquanto tenta decidir o futuro de sua vida e de seu filho.",
+  "exemplar_id": 2350,
+  "sku": "LI01FW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/julio-emilio-braz--anjos-no-aquario--capa--20260316--154305.jpg",
+  "contracapa": "static/uploads/julio-emilio-braz--anjos-no-aquario--contracapa--20260316--154311.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, apesar de um tanto amarelado e com leves sinais de uso. Texto livre de sublinhados e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:14:44",
+  "observacoes": null
+}

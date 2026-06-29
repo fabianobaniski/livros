@@ -1,0 +1,68 @@
+{
+  "obra_id": 3265,
+  "autor": "Eiichiro Oda",
+  "titulo": "One piece",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Piratas.",
+  "palavras_chave": "oda one piece",
+  "edicao_id": 3245,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "9788573519723",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": 11,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3244,
+  "sku": "LI024N",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/one-piece__eiichiro-oda__capa__2025-11-05_16-24-44-546178.jpg",
+  "contracapa": "static/uploads/one-piece__eiichiro-oda__contracapa__2025-11-05_16-24-44-576873.jpg",
+  "fotos": [
+    "static/uploads/one-piece__eiichiro-oda__foto-01__2025-11-05_16-24-44-606302.jpg",
+    "static/uploads/one-piece__eiichiro-oda__foto-02__2025-11-05_16-24-44-632085.jpg",
+    "static/uploads/one-piece__eiichiro-oda__foto-03__2025-11-05_16-24-44-656184.jpg",
+    "static/uploads/one-piece__eiichiro-oda__foto-04__2025-11-05_16-24-44-686707.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:50:13",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3275,
+  "autor": "Kohske",
+  "titulo": "Gangsta",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos japoneses. Crime organizado. Vida urbana.",
+  "palavras_chave": "kohske gangsta",
+  "edicao_id": 3255,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 190,
+  "isbn": "9788545700890",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Worick e Nicolas são uma dupla disposta a dar uma mãozinha ao submundo de Ergastulum, uma cidade dominada pela máfia, repleta de crime, drogas e prostituição. Mas os dois têm seu preço, e seus segredos!<br>\"Alô? Obrigado por ligar para os faz-tudo. Em que posso ajudar?\"</p>",
+  "sinopse": "Worick e Nicolas formam uma dupla de faz-tudo que atua no submundo de Ergastulum, uma cidade controlada pela máfia, onde o crime, as drogas e a prostituição predominam. Embora ajudem quem precise, eles têm seus próprios preços e segredos, oferecendo serviços diversos para sobreviver em um ambiente violento e cheio de mistérios.",
+  "exemplar_id": 3254,
+  "sku": "LI024X",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/gangsta__kohske__capa__2025-11-05_16-24-46-585976.jpg",
+  "contracapa": "static/uploads/gangsta__kohske__contracapa__2025-11-05_16-24-46-612165.jpg",
+  "fotos": [
+    "static/uploads/gangsta__kohske__foto-01__2025-11-05_16-24-46-635626.jpg",
+    "static/uploads/gangsta__kohske__foto-02__2025-11-05_16-24-46-719377.jpg",
+    "static/uploads/gangsta__kohske__foto-03__2025-11-05_16-24-46-742403.jpg",
+    "static/uploads/gangsta__kohske__foto-04__2025-11-05_16-24-46-763129.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:49:25",
+  "observacoes": null
+}

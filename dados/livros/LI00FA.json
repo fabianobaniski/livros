@@ -1,0 +1,68 @@
+{
+  "obra_id": 587,
+  "autor": "Stanley M. Horton",
+  "titulo": "1 e 2 Pedro",
+  "subtitulo": "A razão da nossa esperança",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Perseverança. Fé.",
+  "palavras_chave": "horton 1 pedro 2",
+  "edicao_id": 572,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 118,
+  "peso": 155,
+  "isbn": "9788526303348",
+  "editora": "CPAD",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Comentário Bíblico",
+  "volume": null,
+  "transcricao_contracapa": "<p>Você está pronto para:</p> <ul> <li>Mostrar as razões da sua fé?</li> <li>Glorificar a Deus através do sofrimento?</li> <li>Os desafios destes últimos dias?</li> <li>Tomar parte na vinda de Cristo?</li> </ul> <p>Este livro foi escrito para que você esteja sempre pronto. Comentando as epístolas de Pedro, Stanley M. Horton mostra como o crente pode estar em constante prontidão.</p> <p>Você aprenderá como os cristãos dos tempos de Pedro superaram as perseguições, as angústias e os ataques dos falsos profetas. Embora fossem tão frágeis e limitados quanto você, souberam como se manter sempre prontos.</p>",
+  "sinopse": "Através de uma análise das epístolas de Pedro, este livro busca preparar o leitor para mostrar razões de fé, glorificar a Deus e enfrentar os desafios atuais, garantindo que a fé se mantenha firme em tempos difíceis.",
+  "exemplar_id": 571,
+  "sku": "LI00FA",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/stanley-m--horton--1-e-2-pedro--capa--20250227--152851.jpg",
+  "contracapa": "static/uploads/stanley-m--horton--1-e-2-pedro--contracapa--20250227--152851.jpg",
+  "fotos": [
+    "static/uploads/stanley-m-horton--1-e-2-pedro--foto1--20251020--192147.jpg",
+    "static/uploads/stanley-m-horton--1-e-2-pedro--foto2--20251020--192147.jpg",
+    "static/uploads/stanley-m-horton--1-e-2-pedro--foto3--20251020--192147.jpg",
+    "static/uploads/stanley-m-horton--1-e-2-pedro--foto4--20251020--192147.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:04:50",
+  "observacoes": null
+}

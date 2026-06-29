@@ -1,0 +1,68 @@
+{
+  "obra_id": 2251,
+  "autor": "Antonio de Lima Ribeiro",
+  "titulo": "Teorias da Administração",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Teoria das organizações. Evolução do pensamento administrativo. Tipos de escola administrativa.",
+  "palavras_chave": "ribeiro teorias administracao",
+  "edicao_id": 2231,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 154,
+  "peso": 280,
+  "isbn": "9788502038134",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O mundo moderno e globalizado apresenta-se cada vez mais complexo e dinâmico, gerando a todo momento novos desafios e dificuldades às organizações e aos profissionais de administração.</p><p>Esta obra aborda de maneira inteligente e didática o desenvolvimento do pensamento administrativo e suas principais teorias, proporcionando ao leitor uma visão privilegiada a respeito da evolução de seus conceitos e os próximos caminhos a serem conquistados.</p><p>Ao estudar as teorias pela ótica cronológica, é possível assimilar cada fase no processo evolutivo das organizações desde a Administração Científica de Taylor e a Escola Normativista de Fayol, passando pela Escola das Relações Humanas, Escola do Comportamento Humano, Escola Burocrática, Escola Estruturalista, Escola de Sistemas, Escola de Administração por Objetos, Desenvolvimento Organizacional até a Teoria de Contingência.</p><p>Os exemplos práticos – apresentados por questionários e casos – tornam a leitura muito mais fácil e dinâmica, potencializando o aprendizado do aluno e contribuindo definitivamente para a construção de seu saber.</p><p><b>Aplicação:</b> Este livro pode ser usado em cursos de Administração e Gestão, na disciplina Teoria da Administração.</p>",
+  "sinopse": "O livro oferece uma análise didática do desenvolvimento do pensamento administrativo, abordando as principais teorias da administração de forma cronológica, desde a Administração Científica de Taylor até a Teoria de Contingência. Proporciona ao leitor compreensão da evolução dos conceitos organizacionais, com exemplos práticos, questionários e casos que facilitam o aprendizado, tornando-se um recurso indicado para cursos de Administração e Gestão.",
+  "exemplar_id": 2230,
+  "sku": "LI01CK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/antonio-de-lima-ribeiro--teorias-da-administra--o--capa--20250430--105104.jpg",
+  "contracapa": "static/uploads/antonio-de-lima-ribeiro--teorias-da-administra--o--contracapa--20250430--105104.jpg",
+  "fotos": [
+    "static/uploads/antonio-de-lima-ribeiro--teorias-da-administra--o--foto1--20250430--105104.jpg",
+    "static/uploads/antonio-de-lima-ribeiro--teorias-da-administra--o--foto2--20250430--105104.jpg",
+    "static/uploads/antonio-de-lima-ribeiro--teorias-da-administra--o--foto3--20250430--105104.jpg",
+    "static/uploads/antonio-de-lima-ribeiro--teorias-da-administra--o--foto4--20250430--105104.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:05:13",
+  "observacoes": "procedencia_biblioteca"
+}

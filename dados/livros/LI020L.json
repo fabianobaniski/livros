@@ -1,0 +1,63 @@
+{
+  "obra_id": 3117,
+  "autor": "Janice Kaiser; Marley Morgan",
+  "titulo": "Amor Rival / Flor do Texas",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": null,
+  "palavras_chave": "kaiser amor rival flor",
+  "edicao_id": 3097,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 256,
+  "peso": 200,
+  "isbn": null,
+  "editora": "Nova Cultural",
+  "numero_edicao": null,
+  "ano": 1989,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "(1) Sonhadora, Hillary James abandona-se ao abraço sedutor de Nick Bartlett. Do convés do barco, San Francisco é uma paisagem mágica. Esse clima de magia, porém, é o que ela mais teme. Mudeou de cidade para cuidar de negócios, não para viver um romance. Muito menos com o homem que ambiciona tomar o seu lugar...",
+  "exemplar_id": 3096,
+  "sku": "LI020L",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Em bom estado para manuseio e leitura, sem rasgos, amassados, sinais de umidade, mofo ou traça, bem como livre de sublinhados e anotações. Contudo, está fortemente amarelado e possui leves desgastes decorrentes do uso e contato com outras superfícies."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:14:07",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

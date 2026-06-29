@@ -1,0 +1,68 @@
+{
+  "obra_id": 3644,
+  "autor": "Choderlos de Laclos",
+  "titulo": "As relações perigosas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "laclos relacoes perigosas",
+  "edicao_id": 3621,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 319,
+  "peso": 410,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Composto por uma troca de cartas, o romance revela os jogos de manipulação e sedução da Marquesa de Merteuil e do Visconde de Valmont, dois aristocratas libertinos que, por vingança ou mero entretenimento, destroem a virtude de inocentes em uma análise impiedosa da vaidade humana.",
+  "exemplar_id": 3620,
+  "sku": "LI02F3",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/choderlos-de-laclos--as-relacoes-perigosas--capa--20251114--184547.png",
+  "contracapa": "static/uploads/choderlos-de-laclos--as-relacoes-perigosas--contracapa--20251114--184553.png",
+  "fotos": [
+    "static/uploads/choderlos-de-laclos--as-relacoes-perigosas--foto1--20251113--204052.jpg",
+    "static/uploads/choderlos-de-laclos--as-relacoes-perigosas--foto2--20251113--204052.jpg",
+    "static/uploads/choderlos-de-laclos--as-relacoes-perigosas--foto3--20251113--204052.jpg",
+    "static/uploads/choderlos-de-laclos--as-relacoes-perigosas--foto4--20251113--204052.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:20:12",
+  "observacoes": null
+}

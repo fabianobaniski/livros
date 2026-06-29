@@ -1,0 +1,63 @@
+{
+  "obra_id": 851,
+  "autor": "W. J. Seaton",
+  "titulo": "Os cinco pontos do calvinismo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Calvinismo. Graça.",
+  "palavras_chave": "seaton cinco pontos calvinismo",
+  "edicao_id": 836,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 39,
+  "peso": 80,
+  "isbn": "9788563905130",
+  "editora": "Publicações Evangélicas Selecionadas",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Por um acidente da história no século dezessete cinco grandes verdades cristãs, formuladas por sucessores dos reformadores no Sínodo de Dort para combaterem um afastamento do evangelho, ficaram vinculadas com o nome do reformador genebrino que havia falecido meio século antes. O rótulo “Calvinismo” a princípio foi uma tática propagandista da parte dos oponentes, mas enquanto os defensores da fé bíblica (defendida pelos reformadores) reconheceram que bem poderia ser chamado por outro nome eles aceitaram o termo como um que denota as doutrinas que colocam o homem em dependência total da livre graça de Deus na salvação.</p><p>Este livrinho foi escrito para explicar esse ensino, e o ponto de vista do autor é o mesmo exposto por C. H. Spurgeon quando escreveu: “Cremos nos cinco grandes pontos geralmente conhecidos como calvinistas; mas não olhamos para eles como fisgas para meter entre as costelas dos nossos irmãos cristãos. Olhamos para eles como sendo cinco grandes lampiões que ajudam a projetar a cruz, ou seja, cinco irrigações surgindo do glorioso concerto do nosso trino Deus e ilustrando a grande doutrina de Jesus crucificado”.</p>",
+  "sinopse": "Este livro aborda as cinco grandes verdades cristãs formuladas no Sínodo de Dort, que visam esclarecer doutrinas fundamentais do calvinismo. O autor explica sua relevância e como essas doutrinas indicam a total dependência do homem da graça de Deus para a salvação.",
+  "exemplar_id": 835,
+  "sku": "LI00ML",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/w--j--seaton--os-cinco-pontos-do-calvinismo--capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/w--j--seaton--os-cinco-pontos-do-calvinismo--contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em estado regular. Bastante amarelado e com sinais de umidade. Texto preservado, sem grifos ou anotações. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:09:09",
+  "observacoes": null
+}

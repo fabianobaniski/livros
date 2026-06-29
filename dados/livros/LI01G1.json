@@ -1,0 +1,63 @@
+{
+  "obra_id": 2376,
+  "autor": "Antony Beevor",
+  "titulo": "Ardenas 1944",
+  "subtitulo": "a última Jogada de Hitler",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "beevor ardenas 1944 ultima",
+  "edicao_id": 2356,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 515,
+  "peso": 500,
+  "isbn": "9789722531030",
+  "editora": "Bertrand",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Ardenas 1944: A Última Jogada de Hitler conta a história da última tomada de posição da Alemanha. No dia 16 de dezembro de 1944, Hitler deu início à sua «última jogada» nas florestas e desfiladeiros cobertos de neve das Ardenas. Estava convicto de que seria capaz de dividir os Aliados se fosse até Antuérpia para obrigar os canadianos e os britânicos a saírem da guerra.",
+  "exemplar_id": 2355,
+  "sku": "LI01G1",
+  "preco_estante_virtual": 145.0,
+  "preco_amazon": 150.0,
+  "capa": "static/uploads/antony-beevor--ardenas-1944--capa--20260316--154636.jpg",
+  "contracapa": "static/uploads/antony-beevor--ardenas-1944--contracapa--20260316--154642.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Lombada com leve desalinhamento. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso na capa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:20:14",
+  "observacoes": null
+}

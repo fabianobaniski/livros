@@ -1,0 +1,63 @@
+{
+  "obra_id": 787,
+  "autor": "Irmão Virgílio",
+  "titulo": "Jesus, o divino amigo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Cristianismo. Ensino religioso.",
+  "palavras_chave": "virgilio jesus divino amigo",
+  "edicao_id": 772,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 365,
+  "peso": 450,
+  "isbn": "9788572532044",
+  "editora": "Petit",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Jesus, o Divino Amigo revela toda a verdade sobre o Messias, sua jornada de luz, seu exemplo de amor e fraternidade, sua coragem e determinação. Arrastando multidões, o Divino Rabi da Galileia transmitia inesquecíveis lições de espiritualidade: elas estão neste livro inédito, livre dos erros dos copistas e de adulterações cometidas por interesses religiosos. Siga os passos do Mestre com o autor espiritual, Irmão Virgílio.</p> <p>Emocione-se com as palavras de Jesus. Entenda o real significado de suas parábolas. Desvende os mistérios do Evangelho: as curas, a multiplicação de pães e peixes, a caminhada sobre as águas e tantos outros fenômenos. Ouça-o e liberte-se da influência de espíritos malignos que pretendem influenciar a todos. Em plena transição planetária, é tempo de contemplar o retrato vivo do Salvador: cure sua alma na companhia de Jesus, o Divino Amigo.</p>",
+  "sinopse": "O livro revela a verdade sobre Jesus e sua jornada, mostrando seu exemplo de luz, amor e fraternidade. Ele aborda as lições de espiritualidade que o Divino Rabi transmitia, além de desvendar o significado profundo de suas parábolas e os mistérios do Evangelho. Em tempos de transição, o autor convida o leitor a curar a alma na companhia do Salvador.",
+  "exemplar_id": 771,
+  "sku": "LI00KU",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/irm-o-virg-lio--jesus--capa--20250227--152904.jpg",
+  "contracapa": "static/uploads/irm-o-virg-lio--jesus--contracapa--20250227--152904.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel fortemente amarelado e marcas ondulas decorrentes, provavelmente, de contato com umidade. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:50:21",
+  "observacoes": null
+}

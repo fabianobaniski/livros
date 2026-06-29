@@ -1,0 +1,68 @@
+{
+  "obra_id": 72,
+  "autor": "Brian L. Weiss",
+  "titulo": "Muitas vidas, muitos mestres",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Reencarnação. Terapia de vidas passadas. Espiritualidade. Autoconhecimento. Cura emocional.",
+  "palavras_chave": "weiss muitas vidas mestres",
+  "edicao_id": 72,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 143,
+  "peso": 250,
+  "isbn": "9788575424506",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "Coleção Auto-estima",
+  "volume": null,
+  "transcricao_contracapa": "<p>Com mais de dois milhões de livros vendidos no mundo, <b>Muitas vidas, muitos mestres</b> se tornou um marco ao contar uma história real que mais parece ficção: um médico de renome coloca sua carreira em jogo ao se ver diante de evidências da reencarnação.</p><p>Psiquiatra e pesquisador consagrado, o Dr. Brian Weiss viu suas crenças e sua carreira virarem pelo avesso ao tratar de Catherine, uma paciente com fobias e ataques de ansiedade. Durante uma sessão de hipnose, ela falou de traumas sofridos em vidas passadas que pareciam ser a origem de seus problemas.</p><p>Cético, o Dr. Weiss não acreditou no que estava presenciando até que Catherine começou a narrar fatos da vida dele que ela jamais poderia conhecer e a transmitir mensagens de espíritos altamente desenvolvidos – os Mestres – sobre a vida e a morte.</p><p>Transformado por essa experiência, ele surpreendeu a comunidade científica ao publicar este livro demonstrando o potencial curativo da terapia de vidas passadas, tornando-se a referência mundial nesse tipo de tratamento.</p><p>Para muitos, a maior contribuição de <b>Muitas vidas, muitos mestres</b> foi apresentar os princípios da reencarnação a milhões de pessoas que, por falta de oportunidade ou por preconceito, nunca teriam acesso a esta rica e transformadora filosofia espiritual.</p><p>Emocionante e inspirador, este livro já ajudou pessoas de todo o mundo a superar a dor de suas perdas e a adquirir uma nova compreensão da vida e da morte.</p>",
+  "sinopse": "O psiquiatra Brian Weiss relata sua experiência com Catherine, uma paciente que, sob hipnose, relembra vidas passadas. O livro apresenta a reencarnação e a terapia de vidas passadas como ferramentas para a cura emocional e o autoconhecimento.",
+  "exemplar_id": 71,
+  "sku": "LI001W",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/brian-l--weiss--muitas-vidas--muitos-mestres--capa--20250225--232454.jpg",
+  "contracapa": "static/uploads/brian-l--weiss--muitas-vidas--muitos-mestres--contracapa--20250225--232454.jpg",
+  "fotos": [
+    "static/uploads/brian-l--weiss--muitas-vidas--muitos-mestres--foto1--20250225--232454.jpg",
+    "static/uploads/brian-l--weiss--muitas-vidas--muitos-mestres--foto2--20250225--232454.jpg",
+    "static/uploads/brian-l--weiss--muitas-vidas--muitos-mestres--foto3--20250225--232454.jpg",
+    "static/uploads/brian-l--weiss--muitas-vidas--muitos-mestres--foto4--20250225--232454.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:10:27",
+  "observacoes": null
+}

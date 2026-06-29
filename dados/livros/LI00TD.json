@@ -1,0 +1,68 @@
+{
+  "obra_id": 1389,
+  "autor": "Oddvar Olsen (org.)",
+  "titulo": "Templários",
+  "subtitulo": "As sociedades secretas e o mistério do Santo Graal",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "História. Religion. Mistérios.",
+  "palavras_chave": "olsen templarios sociedades graal",
+  "edicao_id": 1371,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 286,
+  "peso": 300,
+  "isbn": "9788576842804",
+  "editora": "Best Seller",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os Cavaleiros Templários parecem ser a chave para muitos dos grandes enigmas do mundo cristão. Originais da Idade Média, esse grupo de guerreiros é responsável por uma série de feitos que hoje formam um grande mistério, com muita especulação e pouca certeza sobre os fatos. Nesta obra, Oddvar Olsen reúne um time de especialistas para destrinchar o passado em busca da verdade sobre temas polêmicos:</p><ul><li>O que fizeram os Cavaleiros Templários na Terra Santa?</li><li>Maria Madalena e Jesus tiveram relações amorosas?</li><li>O que encontraram durante as escavações sob o lendário Templo de Salomão?</li><li>Que mistérios cercam o Santo Graal, o cálice que continha o sangue de Cristo?</li><li>Maria gerou outros filhos além de Jesus?</li></ul>",
+  "sinopse": "Os Cavaleiros Templários são uma chave para desvendar grandes enigmas do cristianismo. Neste livro, são abordadas questões polêmicas sobre suas ações na Terra Santa, relações de Maria Madalena e Jesus, descobertas em escavações no Templo de Salomão, mistérios que cercam o Santo Graal e a possibilidade de Maria ter tido outros filhos.",
+  "exemplar_id": 1370,
+  "sku": "LI00TD",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/oddvar-olsen--org----templ-rios--capa--20250401--115338.jpg",
+  "contracapa": "static/uploads/oddvar-olsen--org----templ-rios--contracapa--20250401--115338.jpg",
+  "fotos": [
+    "static/uploads/oddvar-olsen--org----templ-rios--foto1--20250401--115338.jpg",
+    "static/uploads/oddvar-olsen--org----templ-rios--foto2--20250401--115339.jpg",
+    "static/uploads/oddvar-olsen--org----templ-rios--foto3--20250401--115339.jpg",
+    "static/uploads/oddvar-olsen--org----templ-rios--foto4--20250401--115339.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:54:22",
+  "observacoes": null
+}

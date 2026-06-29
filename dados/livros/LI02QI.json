@@ -1,0 +1,63 @@
+{
+  "obra_id": 5000,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Fantasia.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4975,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9786555940749",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 20,
+  "transcricao_contracapa": "<p>“Eu bem que achei que conversar amigavelmente com você não era o certo.”</p> <p>Passando por cima da “Rejeição de Deus”, Touta firma um pacto provisório com Karin, e também com Ikkuu, Santa, Shinobu, Mizore e Kirie. Agora que tem um grupo mais forte, Touta desafia o seu inimigo Fate para um duelo como seu primeiro passo para salvar Negi e o mundo!</p>",
+  "sinopse": "Touta forma um pacto provisório com vários aliados, fortalecendo seu grupo para enfrentar o inimigo Fate. Ele planeja um duelo decisivo como primeiro passo para salvar Negi e o mundo.",
+  "exemplar_id": 4974,
+  "sku": "LI02QI",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-35-187103-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-35-240063-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

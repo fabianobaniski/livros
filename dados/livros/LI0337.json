@@ -1,0 +1,63 @@
+{
+  "obra_id": 5690,
+  "autor": "Hikaru Nakamura",
+  "titulo": "Arakawa under the bridge",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Humor. Cultura japonesa.",
+  "palavras_chave": "nakamura arakawa under the bridge",
+  "edicao_id": 5665,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 174,
+  "peso": 210,
+  "isbn": "9788542608175",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 9,
+  "transcricao_contracapa": "<p>As margens do rio Arakawa continuam emanando poderosos raios eletromagnéticos movidos a maluquice. Absorvida por toda essa loucura, Shimazaki, a sempre eficiente secretária, desperta para o seu verdadeiro “eu”, gerando um grande incidente capaz de abalar as estruturas da ponte!! Qual será a conclusão do grande conflito entre espiã e espionada?!</p>",
+  "sinopse": "O rio Arakawa continua sendo uma fonte de maluquice eletromagnética. Em meio a essa loucura, Shimazaki, a secretária dedicada, descobre seu \"eu\" verdadeiro, provocando um evento que pode abalar a ponte. A história promete um desfecho no confronto entre espionagem.",
+  "exemplar_id": 5664,
+  "sku": "LI0337",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/arakawa-under-the-bridge__hikaru-nakamura__capa__2026-02-24_13-36-57-205821-000.jpg",
+  "contracapa": "static/uploads/arakawa-under-the-bridge__hikaru-nakamura__contracapa__2026-02-24_13-36-57-227136-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

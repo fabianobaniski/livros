@@ -1,0 +1,63 @@
+{
+  "obra_id": 2368,
+  "autor": "Flavio de Souza",
+  "titulo": "Anastácia e Bonifácia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "souza anastacia bonifacia",
+  "edicao_id": 2348,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 205,
+  "peso": 307,
+  "isbn": "9788571644809",
+  "editora": "Companhia das Letras",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Nesta obra, Flavio de Souza revisita a clássica história da Cinderela com um toque irreverente e picante. Anos após o famoso felizes para sempre, o autor apresenta situações inesperadas envolvendo o Príncipe e Cinderela, agora em um contexto muito diferente do conto de fadas tradicional. Com base nos relatos das meia-irmãs Anastácia e Bonifácia, o livro revela uma versão humorística e satírica dos eventos da noite do baile. Esta é apenas uma das muitas versões criativas que compõem o livro, transformando o conto original em uma narrativa cômico-picaresca...",
+  "exemplar_id": 2347,
+  "sku": "LI01FT",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/flavio-de-souza--anastacia-e-bonifacia--capa--20260316--154153.jpg",
+  "contracapa": "static/uploads/flavio-de-souza--anastacia-e-bonifacia--contracapa--20260316--154159.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 20:22:17",
+  "observacoes": null
+}

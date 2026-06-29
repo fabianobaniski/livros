@@ -1,0 +1,68 @@
+{
+  "obra_id": 1579,
+  "autor": "Marc de Smedt; Jean Augagneur",
+  "titulo": "Caderno de exercícios de meditação no cotidiano",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Meditação. Desenvolvimento pessoal.",
+  "palavras_chave": "smedt caderno exercicios meditacao",
+  "edicao_id": 1560,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 63,
+  "peso": 150,
+  "isbn": "9788532641670",
+  "editora": "Vozes",
+  "numero_edicao": 5,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Acalmar, pacificar a perpétua agitação que ofusca a nossa consciência: este é o objetivo-mor da meditação. O ato de meditar, além das técnicas preconizadas aqui é, sobretudo, um estado de espírito, uma verdadeira mudança de consciência, uma transformação da maneira como, todo dia, toda noite, vivenciamos o mundo. Portanto, é realmente uma arte de viver, uma nova forma de existir no cotidiano, que este caderno de exercícios e de reflexão deseja sugerir a você.</p><p>***</p><p>Marc de Smedt, diretor da revista <i>Nouvelles Clés</i>, é autor de vários livros que se tornaram clássicos: <i>Techniques de méditation et pratiques d'éveil</i>, <i>Elogio do silêncio</i>, <i>Elogio do bom-senso na busca do sentido…</i> e recentemente: <i>Exercices d’éveil pour petits chatons.</i></p>",
+  "sinopse": "O 'Caderno de Exercícios de Meditação no Cotidiano' apresenta técnicas e reflexões para ajudar a acalmar a mente agitada e transformar a maneira como vivemos. Este guia propõe uma nova forma de existir, integrando a meditação no dia a dia.",
+  "exemplar_id": 1559,
+  "sku": "LI00WZ",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/marc-de-smedt--caderno-de-exerc-cios--capa--20250401--115751.jpg",
+  "contracapa": "static/uploads/marc-de-smedt--caderno-de-exerc-cios--contracapa--20250401--115751.jpg",
+  "fotos": [
+    "static/uploads/marc-de-smedt--caderno-de-exerc-cios--foto1--20250401--115751.jpg",
+    "static/uploads/marc-de-smedt--caderno-de-exerc-cios--foto2--20250401--115751.jpg",
+    "static/uploads/marc-de-smedt--caderno-de-exerc-cios--foto3--20250401--115751.jpg",
+    "static/uploads/marc-de-smedt--caderno-de-exerc-cios--foto4--20250401--115751.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:09:49",
+  "observacoes": null
+}

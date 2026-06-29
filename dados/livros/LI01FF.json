@@ -1,0 +1,63 @@
+{
+  "obra_id": 2354,
+  "autor": "Jayme Ferreira da Silva",
+  "titulo": "A verdade sobre o Integralismo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "silva verdade sobre integralismo",
+  "edicao_id": 2334,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 72,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Grd",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2333,
+  "sku": "LI01FF",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/jayme-ferreira-da-silva--a-verdade-sobre-o-integralismo--capa--20260316--153227.jpg",
+  "contracapa": "static/uploads/jayme-ferreira-da-silva--a-verdade-sobre-o-integralismo--contracapa--20260316--153234.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Discurso pronunciado na Câmara do (então) Distrito Federal na sessão de 9 de julho de 1947 / Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo.  / O texto discute a paralisação da história no Brasil, comparando-a à afirmação de Guillermo Cabrera Infante sobre Cuba, onde Fidel Castro teria moldado a história ao seu favor. A crítica foca nos livros didáticos e na forma como a história brasileira, especialmente após o Estado Novo, tem sido escrita sob uma perspectiva distorcida, muitas vezes dominada por uma ideologia marxista. A obra também lamenta a falta de conhecimento dos jovens sobre temas importantes, como a democracia integralista e a participação de figuras negras na história do país..."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:46:43",
+  "observacoes": null
+}

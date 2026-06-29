@@ -1,0 +1,63 @@
+{
+  "obra_id": 2402,
+  "autor": "Suzy de Mello",
+  "titulo": "Barroco",
+  "subtitulo": "Coleção Primeiros Vôos",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "suzy mello barroco ",
+  "edicao_id": 2382,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 121,
+  "peso": 829,
+  "isbn": "",
+  "editora": "Brasiliense",
+  "numero_edicao": null,
+  "ano": 1983,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O ensaio explora diferentes correntes de pensamento sobre o barroco, abordando tanto suas características quanto suas exemplificações mais importantes. A análise vai além da arte, conectando o barroco a um tipo de cultura mais profunda e abrangente, presente em suas diversas manifestações. O texto destaca o barroco como uma das fases mais ricas e significativas do mundo ocidental, sendo essencial para compreender essa etapa crucial da civilização.",
+  "exemplar_id": 2381,
+  "sku": "LI01GR",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/suzy-de-mello--barroco--capa--20260316--175317.jpg",
+  "contracapa": "static/uploads/suzy-de-mello--barroco--contracapa--20260316--175317.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:53:32",
+  "observacoes": null
+}

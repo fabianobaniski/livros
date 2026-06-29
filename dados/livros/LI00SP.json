@@ -1,0 +1,68 @@
+{
+  "obra_id": 1363,
+  "autor": "Sinclair Ferguson",
+  "titulo": "A graça do arrependimento",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Arrependimento.",
+  "palavras_chave": "ferguson graca arrependimento",
+  "edicao_id": 1346,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 68,
+  "peso": 150,
+  "isbn": "9788581321776",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Quando nosso Senhor e Mestre, Jesus Cristo, disse: 'Arrependei-vos', ele queria dizer que toda a vida dos que creem deve ser uma vida de arrependimento.</h1> <p>Martinho Lutero, 1517</p> <p>É isso que pensamos sobre o arrependimento? Ou, em vez disso, achamos que o arrependimento é algo de que nos alegramos por já ter ficado para trás e nunca mais deve ser repetido? Nas igrejas contemporâneas, é possível que achemos que, com 'corde', o arrependimento é desnecessário para a santificação ou que podemos até nos tornar cristãos sem arrependimento. Por contraste, nossos antepassados eram convictos de que o arrependimento é tão central ao evangelho, que se não ele pode haver salvação, nem uma vida evidentemente marcada por transformação. Sinclair Ferguson nos ajuda a ver como o arrependimento pode reconquistar proeminência correta em nossa vida e na vida de nossas igrejas, levando-nos, por fim, à graça que achamos na confissão.</p> <p>SINCLAIR FERGUSON (PhD, Universidade de Aberdeen) é o pastor da First Presbyterian Church of Columbia, na Carolina do Sul. Ele já escreveu mais de vinte livros e fala regularmente em conferências ao redor do mundo.</p>",
+  "sinopse": "O livro aborda o conceito de arrependimento, questionando se ele é visto como algo a ser esquecido ou se ainda é central à vida cristã. Sinclair Ferguson explora a importância do arrependimento na experiência de fé e na vida das igrejas, enfatizando sua relevância para a verdadeira transformação e santificação.",
+  "exemplar_id": 1345,
+  "sku": "LI00SP",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/sinclair-ferguson--a-gra-a-do-arrependimento--capa--20250401--114918.png",
+  "contracapa": "static/uploads/sinclair-ferguson--a-gra-a-do-arrependimento--contracapa--20250401--114918.png",
+  "fotos": [
+    "static/uploads/sinclair-ferguson--a-gra-a-do-arrependimento--foto1--20250401--114918.jpg",
+    "static/uploads/sinclair-ferguson--a-gra-a-do-arrependimento--foto2--20250401--114918.jpg",
+    "static/uploads/sinclair-ferguson--a-gra-a-do-arrependimento--foto3--20250401--114918.jpg",
+    "static/uploads/sinclair-ferguson--a-gra-a-do-arrependimento--foto4--20250401--114918.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro pocket em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:23:15",
+  "observacoes": null
+}

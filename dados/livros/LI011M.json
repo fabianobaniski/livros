@@ -1,0 +1,68 @@
+{
+  "obra_id": 1856,
+  "autor": "Cecília Warschauer",
+  "titulo": "A roda e o registro",
+  "subtitulo": "Uma parceria entre professor, alunos e conhecimento",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Metodologia de ensino. Prática interdisciplinar. Relação professor-aluno.",
+  "palavras_chave": "warschauer roda registro",
+  "edicao_id": 1836,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 235,
+  "peso": 410,
+  "isbn": "9788521900153",
+  "editora": "Paz e Terra",
+  "numero_edicao": 4,
+  "ano": 1993,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>A Roda e o Registro</b> é o relato inovador, no conteúdo e na forma, das experiências da educadora Cecília Warschauer com alunos de duas turmas da 4ª série do 1º grau. Da discussão coletiva em forma de roda ao seu registro no diário da professora ou nos cadernos elaborados em conjunto pelos alunos, o leitor assiste maravilhado ao cotidiano de duas salas de aula, com seus problemas e suas soluções específicas, em que o diálogo e a prática interdisciplinar caminham de mãos dadas, como caminham de mãos dadas professora e alunos, co-autores deste livro fascinante.</p>",
+  "sinopse": "O livro apresenta o relato inovador das experiências da educadora Cecília Warschauer com turmas da 4ª série do 1º grau. A obra destaca a discussão coletiva em roda, o registro das atividades e a produção conjunta de cadernos pelos alunos, revelando o cotidiano de salas de aula, seus desafios e soluções. O diálogo e a prática interdisciplinar são enfatizados, mostrando a colaboração entre professora e alunos como co-autores deste fascinante livro.",
+  "exemplar_id": 1835,
+  "sku": "LI011M",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/cec-lia-warschauer--a-roda-e-o-registro--capa--20250430--104249.jpg",
+  "contracapa": "static/uploads/cec-lia-warschauer--a-roda-e-o-registro--contracapa--20250430--104250.jpg",
+  "fotos": [
+    "static/uploads/cec-lia-warschauer--a-roda-e-o-registro--foto1--20250430--104250.jpg",
+    "static/uploads/cec-lia-warschauer--a-roda-e-o-registro--foto2--20250430--104250.jpg",
+    "static/uploads/cec-lia-warschauer--a-roda-e-o-registro--foto3--20250430--104250.jpg",
+    "static/uploads/cec-lia-warschauer--a-roda-e-o-registro--foto4--20250430--104250.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:38:41",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 920,
+  "autor": "Timothy Keller",
+  "titulo": "Igreja centrada",
+  "subtitulo": "Desenvolvendo em sua cidade um ministério equilibrado e centrado no evangelho",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Ministério. Evangelho.",
+  "palavras_chave": "keller igreja centrada",
+  "edicao_id": 905,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 463,
+  "peso": 800,
+  "isbn": "9788527505796",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Evangelho. Cidade. Movimento.</h1> <p>Nossos pastores lutam para se adaptar a uma cultura pós-cristã sem abandonar a teologia evangélica ortodoxa. Mas como podemos comunicar os conceitos da graça e da morte substitutiva de Cristo em um contexto globalizado e a uma igreja também globalizada?</p> <p>Em Igreja centrada, Timothy Keller — com mais de vinte anos de experiência ministerial em Nova York — oferece percepções desafiadoras e levanta questões provocativas. Por meio da aplicação de doutrinas clássicas ao nosso tempo e contexto, Keller descreve de forma concisa e direta uma visão teológica para o ministério, organizada em torno de três compromissos fundamentais:</p> <h2>CENTRALIDADE DO EVANGELHO.</h2> <p>O evangelho da graça de Jesus Cristo muda todas as coisas, desde o coração do homem até o mundo inteiro, o que inclui também nossa comunidade. Ele transforma completamente o conteúdo, o tom e a estratégia de tudo o que fazemos.</p> <h2>CENTRALIDADE DA CIDADE.</h2> <p>Cada vez mais, os grandes centros urbanos influenciam nossa cultura global e impactam nossa forma de executar o ministério. Adotando uma maneira positiva de enxergar a cultura, aprendemos a afirmar que, para o ministério que brota do evangelho, as cidades são lugares maravilhosos e estratégicos e ainda com grandes oportunidades de serviço.</p> <h2>CENTRALIDADE DO MOVIMENTO.</h2> <p>Em vez de criar nossa própria tribo, buscamos, guiados pelo Espírito Santo, a prosperidade e a paz da nossa comunidade.</p>",
+  "sinopse": "No livro Igreja centrada, Timothy Keller aborda a adaptação dos pastores a um mundo pós-cristão, discutindo como comunicar o evangelho num contexto global. Ele apresenta uma visão teológica de ministério, destacando a centralidade do evangelho, da cidade e do movimento. Keller argumenta que a transformação do evangelho deve se estender ao coração das comunidades e às estratégias ministeriais em ambientes urbanos, visando oportunidades de serviço e colaboração.",
+  "exemplar_id": 904,
+  "sku": "LI00OE",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 78.0,
+  "capa": "static/uploads/timothy-keller--igreja-centrada--capa--20250227--152913.jpg",
+  "contracapa": "static/uploads/timothy-keller--igreja-centrada--contracapa--20250227--152913.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:13:47",
+  "observacoes": null
+}

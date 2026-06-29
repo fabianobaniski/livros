@@ -1,0 +1,68 @@
+{
+  "obra_id": 1659,
+  "autor": "Papa João Paulo II",
+  "titulo": "Papa João Paulo II viagem pastoral ao Brasil",
+  "subtitulo": "Discursos e homilias",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Documentos sociais. Ensino religioso. Ética.",
+  "palavras_chave": "papa joao paulo ii viagem pastoral",
+  "edicao_id": 1640,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 332,
+  "peso": 300,
+  "isbn": "",
+  "editora": "LTR",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": "Coleção Documentos Sociais da Igreja",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Coleção Documentos Sociais da Igreja</h1> <p>Eminentes pensadores têm inúmeras vezes advertido a humanidade sobre os perigos de uma desumanização totalitária que, por evolução robotizante, faça de cada homem, de cada família e de cada nação uma peça sob controle escravizador. Os líderes sociais e os pensadores devem pesquisar, na cultura e na história, como também na reflexão filosófica, na busca de princípios e valores capazes de preservar a liberdade e a dignidade do homem.</p> <h2>Vol. I — Encíclicas e documentos sociais da ‘Rerum Novarum’ à ‘Octogésima Adveniens’</h2> <h2>Vol. II — Educação e comunicação valores e objetivos cristãos</h2> <h2>Vol. III — Papa João Paulo II Viagem pastoral ao Brasil Discursos e homilias</h2>",
+  "sinopse": "Eminentes pensadores têm inúmeras vezes advertido a humanidade sobre os perigos de uma desumanização totalitária que, por evolução robotizante, faça de cada homem, de cada família e de cada nação uma peça sob controle escravizador. Os líderes sociais e os pensadores devem pesquisar, na cultura e na história, como também na reflexão filosófica, na busca de princípios e valores capazes de preservar a liberdade e a dignidade do homem...",
+  "exemplar_id": 1639,
+  "sku": "LI00XL",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/papa-jo-o-paulo-ii--papa-jo-o-paulo-ii-viagem-pastoral-ao-brasil--capa--20250401--115802.jpg",
+  "contracapa": "static/uploads/papa-jo-o-paulo-ii--papa-jo-o-paulo-ii-viagem-pastoral-ao-brasil--contracapa--20250401--115802.jpg",
+  "fotos": [
+    "static/uploads/papa-jo-o-paulo-ii--papa-jo-o-paulo-ii-viagem-pastoral-ao-brasil--foto1--20250401--115802.jpg",
+    "static/uploads/papa-jo-o-paulo-ii--papa-jo-o-paulo-ii-viagem-pastoral-ao-brasil--foto2--20250401--115802.jpg",
+    "static/uploads/papa-jo-o-paulo-ii--papa-jo-o-paulo-ii-viagem-pastoral-ao-brasil--foto3--20250401--115802.jpg",
+    "static/uploads/papa-jo-o-paulo-ii--papa-jo-o-paulo-ii-viagem-pastoral-ao-brasil--foto4--20250401--115802.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém bastante amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:35:05",
+  "observacoes": null
+}

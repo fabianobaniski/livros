@@ -1,0 +1,63 @@
+{
+  "obra_id": 2456,
+  "autor": "Etelvina Maria de Castro Trindade; Maria Andreazza",
+  "titulo": "Cultura e educação no Paraná",
+  "subtitulo": "Coleção História do Paraná",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "trindade cultura educacao parana",
+  "edicao_id": 2436,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 134,
+  "peso": 280,
+  "isbn": "9788585380052",
+  "editora": "Ufpr; Seed",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro analisa as configurações culturais e educacionais no Paraná, focando-se no papel da escola e do ensino. A partir da compreensão de que a cultura não se limita a manifestações eruditas, o estudo explora como diferentes usos sociais e valores comportamentais se manifestam e são transmitidos ao longo do tempo. O texto examina categorias culturais, confrontando tradições e novas influências, buscando entender as transformações culturais paranaenses e suas implicações na educação e na vida social.",
+  "exemplar_id": 2435,
+  "sku": "LI01I8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/etelvina-maria-de-castro-trindade--cultura-e-educacao-no-parana--capa--20260316--190131.jpg",
+  "contracapa": "static/uploads/etelvina-maria-de-castro-trindade--cultura-e-educacao-no-parana--contracapa--20260316--190131.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:17:54",
+  "observacoes": null
+}

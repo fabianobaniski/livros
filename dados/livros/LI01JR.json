@@ -1,0 +1,63 @@
+{
+  "obra_id": 2511,
+  "autor": "Alan Watts",
+  "titulo": "El futuro del éxtasis y otras meditaciones",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "watts futuro del extasis",
+  "edicao_id": 2491,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 201,
+  "peso": 300,
+  "isbn": "9788472452190",
+  "editora": "Kairós",
+  "numero_edicao": null,
+  "ano": 1990,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra convida o leitor a experimentar o presente, o aqui e agora, como o verdadeiro espaço de liberdade e sabedoria. Watts ensina que o segredo do bem viver está em deixar fluir, sem interferências, permitindo que a vida siga seu curso natural, inspirado pelos princípios do Tao. Este livro oferece uma reflexão sobre o desapego às certezas e o acolhimento da incerteza como caminho para o êxtase.",
+  "exemplar_id": 2490,
+  "sku": "LI01JR",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/alan-watts--el-futuro-del-extasis-y-otras-meditaciones--capa--20260316--193531.jpg",
+  "contracapa": "static/uploads/alan-watts--el-futuro-del-extasis-y-otras-meditaciones--contracapa--20260316--193531.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Papel um pouco amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:01:21",
+  "observacoes": null
+}

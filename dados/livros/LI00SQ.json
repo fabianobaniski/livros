@@ -1,0 +1,68 @@
+{
+  "obra_id": 1364,
+  "autor": "Nicolau Maquiavel",
+  "titulo": "O príncipe",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "Política. Filosofia. Gestão do Poder.",
+  "palavras_chave": "maquiavel principe",
+  "edicao_id": 1347,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 150,
+  "isbn": "9788572328555",
+  "editora": "Martin Claret",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "Coleção A Obra-Prima de Cada Autor",
+  "volume": null,
+  "transcricao_contracapa": "<p>Escrito em 1513, O príncipe é, de longe, o mais relevante tratado político produzido por Maquiavel. Insere-se na tradição do gênero literário medieval conhecido como \"espelho para príncipes\", verdadeiros \"manuais\" para poderosos, e consolida táticas e estratégias para conquistar, administrar e manter um Estado. É uma das obras fundadoras da Ciência Política moderna, já que o \"pequeno volume\" — como o próprio Maquiavel se referia a este texto — é pioneiro ao propor uma separação entre Igreja e Estado. Esta ousadia, num tempo em que a Igreja Católica dominava a sociedade, valeu-lhe a demonização de sua pessoa e de seus escritos pela Inquisição.</p>",
+  "sinopse": "O príncipe é um tratado político escrito por Nicolau Maquiavel em 1513, que se destaca como uma das obras mais influentes da Ciência Política. O texto aborda estratégias para conquistar e manter o poder, propondo uma nova perspectiva sobre a relação entre a Igreja e o Estado, em um período onde a Igreja dominava a sociedade. Sua ousadia lhe rendeu críticas e a demonização por parte da Inquisição.",
+  "exemplar_id": 1346,
+  "sku": "LI00SQ",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/nicolau-maquiavel--o-pr-ncipe--capa--20250401--114918.png",
+  "contracapa": "static/uploads/nicolau-maquiavel--o-pr-ncipe--contracapa--20250401--114918.png",
+  "fotos": [
+    "static/uploads/nicolau-maquiavel--o-pr-ncipe--foto1--20250401--114918.jpg",
+    "static/uploads/nicolau-maquiavel--o-pr-ncipe--foto2--20250401--114918.jpg",
+    "static/uploads/nicolau-maquiavel--o-pr-ncipe--foto3--20250401--114918.jpg",
+    "static/uploads/nicolau-maquiavel--o-pr-ncipe--foto4--20250401--114918.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:38:02",
+  "observacoes": null
+}

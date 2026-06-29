@@ -1,0 +1,63 @@
+{
+  "obra_id": 2939,
+  "autor": "Guillaume Cassegrain",
+  "titulo": "The little book of Vermeer",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "outros the little book",
+  "edicao_id": 2919,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 119,
+  "peso": 300,
+  "isbn": "9782080105493",
+  "editora": "Flammarion",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora o mistério em torno da vida e obra de Johannes Vermeer, o renomado pintor holandês do século XVII. Dividido em partes, analisa o contexto histórico e artístico da Holanda, suas influências e o surgimento de seu estilo único. A obra também investiga o enigma pessoal de Vermeer, sua formação artística e os desafios que enfrentou em sua carreira, além de sua redescoberta no século XIX. Com análises detalhadas de sua técnica e temas, o livro oferece uma visão profunda sobre o gênio por trás de pinturas icônicas como Moça com Brinco de Pérola.",
+  "exemplar_id": 2918,
+  "sku": "LI01VN",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/the-little-book-of-vermeer-guillaume-cassegrain-e-outros-capa_rev1061.jpg",
+  "contracapa": "static/uploads/the-little-book-of-vermeer-guillaume-cassegrain-e-outros-contracapa_rev1890.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel especial, sem manchas. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados. Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:20",
+  "observacoes": null
+}

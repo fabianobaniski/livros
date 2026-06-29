@@ -1,0 +1,63 @@
+{
+  "obra_id": 2984,
+  "autor": "Júlio Emílio Braz",
+  "titulo": "Zumbi, o despertar da liberdade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "zumbi despertar liberdade",
+  "edicao_id": 2964,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 72,
+  "peso": 150,
+  "isbn": "",
+  "editora": "FTD",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O despertar da liberdade narra a jornada de um menino de rua que descobre o prazer de ser dono de si mesmo e do seu próprio destino. Ao se deparar com a história fascinante de Zumbi nas páginas de um livro, ele refaz essa aventura, buscando a liberdade e o poder de transformação. A obra celebra a autonomia e o poder de escolha, destacando o valor da luta pela liberdade em meio a desafios pessoais e históricos.",
+  "exemplar_id": 2963,
+  "sku": "LI01WW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/zumbi-o-despertar-da-liberdade-julio-emilio-braz-capa_rev1468.jpg",
+  "contracapa": "static/uploads/zumbi-o-despertar-da-liberdade-julio-emilio-braz-contracapa_rev693.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, embora com leves desgastes decorrentes do passar dos anos. Texto livre de anotações e sublinhados. Papel um pouco pigmentado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:06:34",
+  "observacoes": null
+}

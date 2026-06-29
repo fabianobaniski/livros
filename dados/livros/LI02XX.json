@@ -1,0 +1,63 @@
+{
+  "obra_id": 5277,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Vampiros. Drama.",
+  "palavras_chave": "oshimi happiness",
+  "edicao_id": 5252,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 210,
+  "isbn": "9788583621997",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Yuuki desaparece do <b>hospital</b> após <i>atacar</i> sua <b>mãe</b>. Makoto descobre que ele foi levado por <b>homens des-conhecidos</b>, mas consegue salvá-lo quando estava <b>prestes a ser morto</b>. Os dois vão atrás de <b>Nora</b> em busca de <i>ajuda</i>, mas Yuuki é <i>rejeitado</i> e <i>atacado</i> por ela. Mas Makoto interrompe a <i>luta</i> dos dois.<br>Yuuki, que <b>mudou de repente</b>, vai <i>embora</i> deixando para trás Makoto e Nora. Para onde ele estará indo?<br>Os <b>dois garotos</b>, que compartilham o mesmo <b>destino</b>, começam a seguir caminhos <b>diferentes</b>.</p>",
+  "sinopse": "Yuuki desaparece do hospital após atacar sua mãe, levado por homens desconhecidos. Salvo por Makoto, eles buscam Nora por ajuda, mas o encontro termina em conflito. Yuuki, mudado de repente, parte e deixa Makoto e Nora. Os garotos, ligados por um destino comum, seguem caminhos diferentes.",
+  "exemplar_id": 5251,
+  "sku": "LI02XX",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2026-02-20_10-33-05-234446-000.png",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2026-02-20_10-33-05-278895-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1372,
+  "autor": "José de Alencar",
+  "titulo": "Iracema",
+  "subtitulo": "Lenda do Ceará",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura romântica. História do Brasil.",
+  "palavras_chave": "alencar iracema ceara",
+  "edicao_id": 1355,
+  "encadernacao": null,
+  "quantidade_paginas": 103,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Objetivo",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Para José de Alencar, como explica o subtítulo de seu romance, Iracema é uma \"lenda do Ceará\". É também, segundo diferentes críticos e historiadores, um poema em prosa, um romance histórico-indianista ou uma narrativa épico-lírica. Cada uma dessas definições destaca um aspecto da obra e nenhuma a esgota, pois Iracema é uma lenda que contém dados históricos e tem seu aspecto épico na narrativa das ações de personagens heroicas. E, perpassando o livro, há o caráter lírico da encantadora e triste história de amor entre a bela índia, cujo nome remete à América, e o estrangeiro Martim, que representa o colonizador vindo da Europa e cujo nome já sugere guerra.</p>",
+  "sinopse": "Iracema é uma lenda do Ceará, que combina elementos históricos e poéticos, narrando a história de amor entre a bela índia Iracema e o estrangeiro Martim. Compreendendo aspectos épicos e líricos, o romance apresenta um rico cenário de personagens heroicas em meio às suas ações e à colonização da América.",
+  "exemplar_id": 1354,
+  "sku": "LI00SY",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/jos--de-alencar--iracema--capa--20250401--115336.jpg",
+  "contracapa": "static/uploads/jos--de-alencar--iracema--contracapa--20250401--115336.jpg",
+  "fotos": [
+    "static/uploads/jos--de-alencar--iracema--foto1--20250401--115336.jpg",
+    "static/uploads/jos--de-alencar--iracema--foto2--20250401--115336.jpg",
+    "static/uploads/jos--de-alencar--iracema--foto3--20250401--115336.jpg",
+    "static/uploads/jos--de-alencar--iracema--foto4--20250401--115336.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Capa com marca de dobra. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:32:10",
+  "observacoes": null
+}

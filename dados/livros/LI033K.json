@@ -1,0 +1,63 @@
+{
+  "obra_id": 5703,
+  "autor": "Akira Toriyama",
+  "titulo": "Dr. Slump",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá.",
+  "palavras_chave": "toriyama slump",
+  "edicao_id": 5678,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 160,
+  "isbn": "9788542613551",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "",
+  "sinopse": "A série narra as aventuras cômicas e surreais na Vila Pinguim, focadas no inventor atrapalhado Senbe Norimaki e sua criação, Arale, uma menina robô com força física absurda e uma ingenuidade perigosa. Entre invenções que raramente funcionam e situações nonsense, a trama subverte clichês da ficção científica com o humor satírico e o traço icônico de Toriyama, muito antes de ele focar em batalhas épicas.",
+  "exemplar_id": 5677,
+  "sku": "LI033K",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 37.0,
+  "capa": "static/uploads/dr-slump__akira-toriyama__capa__2026-02-24_13-36-58-323654-000.jpg",
+  "contracapa": "static/uploads/dr-slump__akira-toriyama__contracapa__2026-02-24_13-36-58-352763-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

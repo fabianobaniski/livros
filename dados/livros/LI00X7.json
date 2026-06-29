@@ -1,0 +1,68 @@
+{
+  "obra_id": 1593,
+  "autor": "Ivone Benedetti",
+  "titulo": "Cabo de guerra",
+  "subtitulo": "[Romance]",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura contemporânea. Política. Repressão.",
+  "palavras_chave": "benedetti cabo guerra romance",
+  "edicao_id": 1574,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 301,
+  "peso": 300,
+  "isbn": "9788575594858",
+  "editora": "Boitempo",
+  "numero_edicao": 1,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Naquele ano de 1969 eu tinha perdido o respaldo do Rodolfo. No ano anterior, quando se falava de táticas de combate à ditadura, eu lia cartilhas marxista-leninistas, assistia a discussões sobre guerrilha urbana e rural, teoria do foco, ouvia falar mal de Stalin, bem de Lenin. Exaltava-se Guevara, execravam Mao uns, outros glorificavam, e Rodolfo ao meu lado era o ponto de referência. Isso enquanto se chamava Rodolfo, porque um ano depois trocou o verdadeiro nome pelo de guerra e os lugares conhecidos pelos ignorados. Era militante de vanguarda, sujeito aguerrido, dos que conheciam armas e várias outras coisas práticas nas quais nunca fui uma sumidade. Minha utilidade, segundo informaram, estava em ser desconhecido para a repressão: pinta de trabalhador burocrático, integrado no sistema, pequeno-burguês acomodado, certo ar de idiota também, como disse um dia com franqueza uma sujeitinha que me desmerecia constantemente.”</p>",
+  "sinopse": "O romance narra a trajetória de um protagonista que, em 1969, se vê perdido sem o apoio de Rodolfo, um militante de vanguarda. Em meio a discussões sobre táticas de combate e guerrilha, ele reflete sobre sua própria utilidade e a repressão que vive, cercado por ideais e personagens complexos que moldam sua história. A narrativa revela as tensões políticas de sua época e os dilemas pessoais que desafiam suas convicções.",
+  "exemplar_id": 1573,
+  "sku": "LI00X7",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/ivone-benedetti--cabo-de-guerra--capa--20250401--115753.jpg",
+  "contracapa": "static/uploads/ivone-benedetti--cabo-de-guerra--contracapa--20250401--115753.jpg",
+  "fotos": [
+    "static/uploads/ivone-benedetti--cabo-de-guerra--foto1--20250401--115753.jpg",
+    "static/uploads/ivone-benedetti--cabo-de-guerra--foto2--20250401--115753.jpg",
+    "static/uploads/ivone-benedetti--cabo-de-guerra--foto3--20250401--115753.jpg",
+    "static/uploads/ivone-benedetti--cabo-de-guerra--foto4--20250401--115753.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:09:34",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2484,
+  "autor": "Marcos Pereira dos Santos",
+  "titulo": "Dificuldades de aprendizagem na escola",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "santos dificuldades aprendizagem escola",
+  "edicao_id": 2464,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 194,
+  "peso": 400,
+  "isbn": "9788578542030",
+  "editora": "Wak",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Dificuldades de Aprendizagem na Escola: Um Tratamento Psicopedagógico aborda os desafios da aprendizagem humana no contexto escolar, com foco na intervenção psicopedagógica. A obra é direcionada a educadores, psicólogos, orientadores e gestores que buscam compreender as causas e soluções para dificuldades de aprendizagem. Traz reflexões teóricas e práticas sobre a relevância de uma abordagem multidisciplinar para auxiliar estudantes com problemas neurológicos, emocionais e pedagógicos, promovendo uma educação inclusiva e eficaz.",
+  "exemplar_id": 2463,
+  "sku": "LI01J0",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/marcos-pereira-dos-santos--dificuldades-de-aprendizagem-na-escola--capa--20260316--192601.jpg",
+  "contracapa": "static/uploads/marcos-pereira-dos-santos--dificuldades-de-aprendizagem-na-escola--contracapa--20260316--192601.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Um tratamento psicopedagógico / Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:47:41",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3383,
+  "autor": "Ransuke Kuroi; Makoto Shiozuka",
+  "titulo": "Savanna Game",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Ação. Sobrevivência. Jogos mortais.",
+  "palavras_chave": "kuroi savanna game",
+  "edicao_id": 3360,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "9788569212164",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "Segunda Temporada",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Começa <b>A SEGUNDA FASE DO SAVANNA GAME!</b><br>Após sobreviverem à primeira rodada, Kazuya, Jin e Mafumi passam a lutar ao lado dos samurais do Shinsengumi. Enquanto enfrentam os sinistros Ladrões de Preto e outras criaturas, eles tentam desvendar quem criou – e por qual motivo – o Savanna Game. Mas para isso, primeiro vão precisar se manter vivos!</p>",
+  "sinopse": "Kazuya, Jin e Mafumi sobrevivem à primeira rodada do Savanna Game e agora precisam lutar ao lado dos samurais do Shinsengumi. Enfrentando criaturas ameaçadoras como os Ladrões de Preto, eles tentam desvendar quem está por trás do perigoso jogo e seus verdadeiros propósitos. Para isso, precisarão sobreviver a novos desafios mortais.",
+  "exemplar_id": 3359,
+  "sku": "LI027U",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/savanna-game__ransuke-kuroi-makoto-shiozuka__capa__2025-11-05_16-14-47-890480.jpg",
+  "contracapa": "static/uploads/savanna-game__ransuke-kuroi-makoto-shiozuka__contracapa__2025-11-05_16-14-47-924765.jpg",
+  "fotos": [
+    "static/uploads/savanna-game__ransuke-kuroi-makoto-shiozuka__foto-01__2025-11-05_16-14-47-948422.jpg",
+    "static/uploads/savanna-game__ransuke-kuroi-makoto-shiozuka__foto-02__2025-11-05_16-14-47-976764.jpg",
+    "static/uploads/savanna-game__ransuke-kuroi-makoto-shiozuka__foto-03__2025-11-05_16-14-48-002412.jpg",
+    "static/uploads/savanna-game__ransuke-kuroi-makoto-shiozuka__foto-04__2025-11-05_16-14-48-032440.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:37:53",
+  "observacoes": null
+}

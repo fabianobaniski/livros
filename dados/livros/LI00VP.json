@@ -1,0 +1,68 @@
+{
+  "obra_id": 1475,
+  "autor": "Carneiro Neto",
+  "titulo": "É disso que o povo gosta!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "carneiro povo gosta",
+  "edicao_id": 1456,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 329,
+  "peso": 400,
+  "isbn": "9786590144201",
+  "editora": "Não identificada",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1455,
+  "sku": "LI00VP",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/carneiro-neto----disso-que-o-povo-gosta---capa--20250401--115737.jpg",
+  "contracapa": "static/uploads/carneiro-neto----disso-que-o-povo-gosta---contracapa--20250401--115737.jpg",
+  "fotos": [
+    "static/uploads/carneiro-neto----disso-que-o-povo-gosta---foto1--20250401--115737.jpg",
+    "static/uploads/carneiro-neto----disso-que-o-povo-gosta---foto2--20250401--115737.jpg",
+    "static/uploads/carneiro-neto----disso-que-o-povo-gosta---foto3--20250401--115737.jpg",
+    "static/uploads/carneiro-neto----disso-que-o-povo-gosta---foto4--20250401--115737.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, porém, três pequenos furinhos de traça que vão da contracapa até o miolo, sem atingir o texto. Livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:46:08",
+  "observacoes": null
+}

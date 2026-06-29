@@ -1,0 +1,63 @@
+{
+  "obra_id": 3049,
+  "autor": "Moktar Moktefi; Véronique Ageorges",
+  "titulo": "Os árabes na época do Seu Esplendor",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": null,
+  "palavras_chave": "moktefi arabes epoca seu",
+  "edicao_id": 3029,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 400,
+  "isbn": "9788585497224",
+  "editora": "Augustus",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3028,
+  "sku": "LI01YP",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:39:39",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

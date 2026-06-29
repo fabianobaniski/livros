@@ -1,0 +1,63 @@
+{
+  "obra_id": 689,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Amós",
+  "subtitulo": "Um clamor pela justiça social",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Justiça Social. Corrupção.",
+  "palavras_chave": "lopes amos clamor justica",
+  "edicao_id": 674,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 215,
+  "peso": 300,
+  "isbn": "9788577420063",
+  "editora": "Hagnos",
+  "numero_edicao": 1,
+  "ano": 2016,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Amós denunciou os pecados de opressão e de injustiça social das nações ao redor de Israel, bem como os desmandos morais de seu povo. Ele denunciou a corrupção no palácio e nas altas cortes do judiciário. Ele diagnosticou os males que destruíram a nação nos centros econômicos da nação, nas mansões dos endinheirados, bem como nos templos religiosos. Ele pôs o dedo na ferida da nação e alertou para a necessidade urgente de arrependimento tanto nas praças de negócios como nos altares religiosos. O livro de Amós jamais ficará ultrapassado. É um texto antigo com uma mensagem contemporânea. Amós ainda ergue sua voz. Ele ainda está entre nós. Ouvir sua mensagem pode livrar-nos de grandes tragédias.</p><p>Hernandes Dias Lopes, casado com Udemilta Pimentel Lopes, pai de Thiago e Mariana. Bacharel em Teologia pelo Seminário Presbiteriano do Sul, Campinas, São Paulo e Doutor em Ministério pelo Reformed Theological Seminary de Jackson, Mississippi, Estados Unidos. Pastor da Primeira Igreja Presbiteriana de Vitória, Espírito Santo, desde 1985. Conferencista e escritor, com mais de 100 livros publicados.</p>",
+  "sinopse": "O livro de Amós é uma poderosa denúncia sobre os pecados de opressão e injustiça social que afligem a nação de Israel e as nações vizinhas. Amós destaca a corrupção nas altas esferas e a necessidade de arrependimento diante de um Deus que exige justiça e moralidade. Com uma interna mensagem que ressoa até os dias atuais, sua voz se torna um alerta indispensável contra a indiferença social e espiritual.",
+  "exemplar_id": 673,
+  "sku": "LI00I4",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 19.0,
+  "capa": "static/uploads/hernandes-dias-lopes--am-s--capa--20250227--152858.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--am-s--contracapa--20250227--152858.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:25:04",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2542,
+  "autor": "José Artur Giannotti",
+  "titulo": "Filosofia à miúda",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "giannotti filosofia miuda",
+  "edicao_id": 2522,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 207,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Brasiliense",
+  "numero_edicao": 0,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2521,
+  "sku": "LI01KM",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jose-artur-giannotti--filosofia-a-miuda--capa--20260316--202022.jpg",
+  "contracapa": "static/uploads/jose-artur-giannotti--filosofia-a-miuda--contracapa--20260316--202022.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições de manuseio e leitura, mas esteticamente em situação regular em razão do envelhecimento do exemplar. Papel um pouco pigmentado pela ação do tempo, principalmente nas bordas. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados.  (A)"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:02:55",
+  "observacoes": null
+}

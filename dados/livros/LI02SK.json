@@ -1,0 +1,63 @@
+{
+  "obra_id": 5084,
+  "autor": "Akira Toriyama",
+  "titulo": "Dragon Ball",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Histórias em quadrinhos.",
+  "palavras_chave": "toriyama dragon ball",
+  "edicao_id": 5059,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 280,
+  "isbn": "9786555124668",
+  "editora": "Panini Comics, Planet Manga",
+  "numero_edicao": 2,
+  "ano": 2020,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "",
+  "sinopse": "Dragon Ball, de Akira Toriyama, é um mangá shonen de ação e aventura que segue Son Goku, um garoto de força extraordinária, em sua busca pelas sete Esferas do Dragão. Inicialmente uma história de fantasia, evolui para batalhas épicas contra vilões como Piccolo, Freeza, Cell e Majin Boo, com torneios, treinamentos intensos, transformações e temas de amizade, superação e rivalidade.",
+  "exemplar_id": 5058,
+  "sku": "LI02SK",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/dragon-ball__akira-toriyama__capa__2026-02-20_10-32-00-263145-000.png",
+  "contracapa": "static/uploads/dragon-ball__akira-toriyama__contracapa__2026-02-20_10-32-00-307318-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2594,
+  "autor": "Maria Auxiliadora M. S. Schmidt",
+  "titulo": "Histórias do cotidiano paranaense",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "schmidt historias cotidiano paranaense",
+  "edicao_id": 2574,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 122,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Letraviva",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2573,
+  "sku": "LI01M2",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/maria-auxiliadora-m-s-schmidt--historias-do-cotidiano-paranaense--capa--20260316--212150.jpg",
+  "contracapa": "static/uploads/maria-auxiliadora-m-s-schmidt--historias-do-cotidiano-paranaense--contracapa--20260316--212150.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Ilustrações em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:30:47",
+  "observacoes": null
+}

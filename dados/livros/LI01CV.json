@@ -1,0 +1,68 @@
+{
+  "obra_id": 2262,
+  "autor": "Francisco Lacombe",
+  "titulo": "Recursos humanos",
+  "subtitulo": "Princípios e tendências",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Recursos humanos. Formação de equipes. Gestão de pessoas.",
+  "palavras_chave": "lacombe recursos humanos principios tendencias",
+  "edicao_id": 2242,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 420,
+  "peso": 720,
+  "isbn": "9788502051232",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Idealizado para ser uma introdução aos recursos humanos, esta obra aborda o assunto de forma fácil, evitando termos técnicos muito específicos. O objetivo é atender às necessidades não só dos estudantes do tema, mas de todos aqueles que ocupam ou pretendem ocupar a chefia de uma unidade organizacional.</p><p>O renomado autor Francisco Lacombe acredita que o profissional administrador de empresas é o responsável, perante sua empresa, pela motivação, lealdade, comprometimento e resultados de seu pessoal. Por isso, os planos e as atividades de RH devem estar sempre em perfeita sintonia aos planos estratégicos da organização.</p><p>Após uma introdução sobre a importância dos recursos humanos, o livro é dividido em três partes: a formação, a condução e o aperfeiçoamento da equipe, seguidas de considerações finais sobre as tendências atuais da administração de pessoas e de alguns tópicos especiais.</p><p>Esta obra foi idealizada para ser uma introdução indispensável aos recursos humanos, servindo como um primeiro texto para os que desejarem esta especialização e também para os módulos de recursos humanos dos cursos de pós-graduação lato sensu.</p><b>APLICAÇÃO:</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Administração de Recursos Humanos, Comportamento Organizacional, Cultura Organizacional e Recursos Humanos.",
+  "sinopse": "Este livro é uma introdução fácil e acessível aos recursos humanos, evitando termos técnicos e atendendo tanto estudantes quanto profissionais em cargos de liderança. O autor Francisco Lacombe destaca a importância do administrador na motivação e resultados de equipes, alinhando RH aos planos estratégicos da empresa. A obra está dividida em três partes — formação, condução e aperfeiçoamento — e traz tendências atuais da administração de pessoas. É indicada como texto introdutório para quem se especializa ou cursa módulos de RH em pós-graduação.",
+  "exemplar_id": 2241,
+  "sku": "LI01CV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/francisco-lacombe--recursos-humanos--capa--20250430--105105.jpg",
+  "contracapa": "static/uploads/francisco-lacombe--recursos-humanos--contracapa--20250430--105105.jpg",
+  "fotos": [
+    "static/uploads/francisco-lacombe--recursos-humanos--foto1--20250430--105105.jpg",
+    "static/uploads/francisco-lacombe--recursos-humanos--foto2--20250430--105106.jpg",
+    "static/uploads/francisco-lacombe--recursos-humanos--foto3--20250430--105106.jpg",
+    "static/uploads/francisco-lacombe--recursos-humanos--foto4--20250430--105106.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:39:51",
+  "observacoes": "procedencia_biblioteca"
+}

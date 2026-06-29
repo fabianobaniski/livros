@@ -1,0 +1,63 @@
+{
+  "obra_id": 2356,
+  "autor": "Piero Eyben",
+  "titulo": "Abismo por Paixão",
+  "subtitulo": "(ensaios)",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "",
+  "palavras_chave": "eyben abismo por paixao",
+  "edicao_id": 2336,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 244,
+  "peso": 410,
+  "isbn": "9788599279847",
+  "editora": "Horizonte",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Os ensaios de Abismo por paixão exploram, de forma teórica e crítica, a linguagem e seus desdobramentos, dialogando com autores como Derrida, Bataille, Pamuk, Joyce, Freud, Tarkovski, entre outros. A obra reflete sobre os rastros da escrita, a leitura e a autoria, abordando essas questões centrais através de uma análise que busca entender a profundidade da experiência literária e filosófica.",
+  "exemplar_id": 2335,
+  "sku": "LI01FH",
+  "preco_estante_virtual": 11.0,
+  "preco_amazon": 11.0,
+  "capa": "static/uploads/piero-eyben--abismo-por-paixao--capa--20260316--153345.jpg",
+  "contracapa": "static/uploads/piero-eyben--abismo-por-paixao--contracapa--20260316--153351.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado, sem qualquer dano na capa, lombada ou contracapa. Miolo impecável. Texto livre de anotações e sublinhados. Também não constam carimbo, selo e assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:00:20",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3202,
+  "autor": "Bernard Ireland",
+  "titulo": "Janes Naval History of World War II",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": null,
+  "palavras_chave": "ireland janes naval history",
+  "edicao_id": 3182,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 256,
+  "peso": 1400,
+  "isbn": "9780004721439",
+  "editora": "Harper Collins Publishers",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "A Segunda Guerra Mundial testemunhou o maior confronto naval da história, com navios, submarinos e táticas que moldaram o curso do conflito. Este livro explora detalhadamente os homens, as máquinas e as estratégias por trás das batalhas marítimas decisivas, combinando ilustrações técnicas, especificações completas e diagramas táticos. Com dados sobre armamentos e informações precisas, a obra é um recurso essencial para compreender o impacto da guerra naval...",
+  "exemplar_id": 3181,
+  "sku": "LI022Y",
+  "preco_estante_virtual": 160.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado (vide fotos), tendo, apenas, discretos sinais de uso e da passagem dos anos. Papel levemente pigmentado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa dura com sobrecapa,  Formato grande. Ricamente ilustrado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:37:33",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

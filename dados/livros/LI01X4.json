@@ -1,0 +1,68 @@
+{
+  "obra_id": 2992,
+  "autor": "Alain Musset; Annie Claude Martin",
+  "titulo": "A América pré-colombiana, os maias e os astecas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "musset america precolombiana maias",
+  "edicao_id": 2972,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 65,
+  "peso": 300,
+  "isbn": "9788585497248",
+  "editora": "Augustus",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2971,
+  "sku": "LI01X4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/alain-musset--a-america-pre-colombiana-os-maias-e-os-astecas--capa--20251021--103852.png",
+  "contracapa": "static/uploads/alain-musset--a-america-pre-colombiana-os-maias-e-os-astecas--contracapa--20251021--103900.png",
+  "fotos": [
+    "static/uploads/alain-musset--a-america-pre-colombiana-os-maias-e-os-astecas--foto1--20251021--103909.jpg",
+    "static/uploads/alain-musset--a-america-pre-colombiana-os-maias-e-os-astecas--foto2--20251021--103909.jpg",
+    "static/uploads/alain-musset--a-america-pre-colombiana-os-maias-e-os-astecas--foto3--20251021--103909.jpg",
+    "static/uploads/alain-musset--a-america-pre-colombiana-os-maias-e-os-astecas--foto4--20251021--103909.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Explora as civilizações maia e asteca, destacando suas contribuições culturais e seu legado. Embora diferentes, esses povos compartilham características como engenhosidade arquitetônica, sociedades hierarquizadas e uma rica mitologia. O livro levanta questões intrigantes sobre seus deuses, tradições e feitos, como a construção de cidades impressionantes e o desenvolvimento de habilidades artesanais. A obra convida o leitor a admirar essas culturas notáveis e lamenta a falta de respeito dos conquistadores europeus por tais civilizações. / Livro em bom estado, com ilustrações coloridas. Possui nome à caneta nas duas primeiras folhas. Um pouco amarelado. Sem grifos, anotações, marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:34:37",
+  "observacoes": null
+}

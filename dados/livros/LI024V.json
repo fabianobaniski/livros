@@ -1,0 +1,68 @@
+{
+  "obra_id": 3273,
+  "autor": "Magica Quartet; Masaki Hiramatsu; Takashi Tensugi",
+  "titulo": "Puella Magi",
+  "subtitulo": "Kazumi Magica - Malícia inocente",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Fantasia. Memória. Mistério. Amizade.",
+  "palavras_chave": "magica kazumi magica malicia inocente",
+  "edicao_id": 3253,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788583620747",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Puella Magi",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Sequestrada e enfiada na mala de um terrorista desconhecido, a adolescente Kazumi se livra de seu confinamento apenas para notar que não só suas roupas foram tiradas, como também suas memórias de antes do sequestro. Quando um par de colegiais a ajudam, ela é incapaz de reconhecer que são Umika e Kaoru, suas melhores amigas. Kazumi tenta voltar a ter uma vida normal, ela começa a descobrir que sua antiga vida \"normal\" era muito mais do que ela esperava.</p>",
+  "sinopse": "Kazumi, uma adolescente sequestrada por um terrorista desconhecido, perde não apenas suas roupas, mas também suas memórias antes do sequestro. Com a ajuda de duas colegiais, que são suas melhores amigas, Kazumi tenta retomar a vida normal, mas logo percebe que seu passado guarda segredos e que sua antiga vida normal era mais misteriosa do que imaginava.",
+  "exemplar_id": 3252,
+  "sku": "LI024V",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/kazumi-magica__malicia-inocente__magica-quartet-masaki-hiramatsu-takashi-tensugi__capa__2025-11-05_16-24-46-105068.jpg",
+  "contracapa": "static/uploads/kazumi-magica__malicia-inocente__magica-quartet-masaki-hiramatsu-takashi-tensugi__contracapa__2025-11-05_16-24-46-128630.jpg",
+  "fotos": [
+    "static/uploads/kazumi-magica__malicia-inocente__magica-quartet-masaki-hiramatsu-takashi-tensugi__foto-01__2025-11-05_16-24-46-141343.jpg",
+    "static/uploads/kazumi-magica__malicia-inocente__magica-quartet-masaki-hiramatsu-takashi-tensugi__foto-02__2025-11-05_16-24-46-175297.jpg",
+    "static/uploads/kazumi-magica__malicia-inocente__magica-quartet-masaki-hiramatsu-takashi-tensugi__foto-03__2025-11-05_16-24-46-195307.jpg",
+    "static/uploads/kazumi-magica__malicia-inocente__magica-quartet-masaki-hiramatsu-takashi-tensugi__foto-04__2025-11-05_16-24-46-218952.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:12:03",
+  "observacoes": null
+}

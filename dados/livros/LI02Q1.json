@@ -1,0 +1,63 @@
+{
+  "obra_id": 4983,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Missões. Aventura.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4958,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 181,
+  "peso": 180,
+  "isbn": "9788545702030",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>A primeira missão no UQ Holder!</p> <p>Touta e Kuromaru superam a provação para ingressar na UQ Holder em apenas um mês e meio! Agora que são membros oficiais do clã, eles são designados para a primeira missão numa favela. Chegando ao destino, os dois sofrem um ataque surpresa de inimigos, mas Karin os repele bravamente. Porém, as coisas não terminam por aí... Pois surge um trio misterioso para impedir o trabalho da UQ Holder!</p>",
+  "sinopse": "Touta e Kuromaru superam a prova para ingressar na UQ Holder e são designados para uma missão numa favela. Enfrentando um ataque surpresa, eles são ajudados por Karin. No entanto, um trio misterioso aparece para impedir o trabalho da UQ Holder!",
+  "exemplar_id": 4957,
+  "sku": "LI02Q1",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-29-124547-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-29-174290-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

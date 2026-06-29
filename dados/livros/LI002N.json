@@ -1,0 +1,68 @@
+{
+  "obra_id": 111,
+  "autor": "Leon Uris",
+  "titulo": "Exodus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "História. Amor. Imigração.",
+  "palavras_chave": "uris exodus",
+  "edicao_id": 109,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 376,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>A heróica luta de um povo pela conquista de um lugar no mundo. Uma comovente história de amor entre uma enfermeira norte-americana e um soldado judeu.</p> <p>A imigração judaica para a Palestina e o esforço do povo judeu para estabelecer o Estado de Israel. O maior sucesso literário de Leon Uris. Um romance que já foi traduzido para mais de 40 línguas e vendeu mais de 20 milhões de exemplares.</p>",
+  "sinopse": "A obra narra a heroica luta de um povo por um lar no mundo, destacando uma intensa história de amor entre uma enfermeira norte-americana e um soldado judeu, além de abordar a imigração judaica para a Palestina e o empenho do povo judeu na fundação do Estado de Israel.",
+  "exemplar_id": 108,
+  "sku": "LI002N",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/leon-uris--exodus--capa--20250308--212734.jpg",
+  "contracapa": "static/uploads/leon-uris--exodus--contracapa--20250308--212734.jpg",
+  "fotos": [
+    "static/uploads/leon-uris--exodus--foto1--20250308--212734.jpg",
+    "static/uploads/leon-uris--exodus--foto2--20250308--212734.jpg",
+    "static/uploads/leon-uris--exodus--foto3--20250308--212734.jpg",
+    "static/uploads/leon-uris--exodus--foto4--20250308--212734.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:44:59",
+  "observacoes": null
+}

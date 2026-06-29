@@ -1,0 +1,63 @@
+{
+  "obra_id": 2667,
+  "autor": "Vladimir Nabokov",
+  "titulo": "Lolita",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "vladimir nabokov lolita",
+  "edicao_id": 2647,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 319,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Folha de S. Paulo",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2646,
+  "sku": "LI01O3",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/lolita-vladimir-nabokov-capa_rev1749.jpg",
+  "contracapa": "static/uploads/lolita-vladimir-nabokov-contracapa_rev316.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Conservação regular sobretudo porque o livro saiu da prensa um pouco enrugado. Fora isso, os sinais de uso são discretos. Sem sobrecapa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:33:56",
+  "observacoes": null
+}

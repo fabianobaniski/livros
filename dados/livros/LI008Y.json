@@ -1,0 +1,68 @@
+{
+  "obra_id": 351,
+  "autor": "Jules Payot",
+  "titulo": "A educação da vontade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Educação. Vontade. Desenvolvimento pessoal.",
+  "palavras_chave": "payot educacao vontade",
+  "edicao_id": 342,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 239,
+  "peso": 250,
+  "isbn": "9788594090164",
+  "editora": "Kirion",
+  "numero_edicao": 1,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os meios de fazer nascer ou de fortificar os sentimentos libertadores, de aniquilar ou reprimir os sentimentos hostis a nosso domínio de nós mesmos, esse poderia ser o subtítulo do livro que apresentamos ao público. Em vez de tratar da educação da vontade <i>in abstracto</i>, tomamos como tema essencial a <b>educação da vontade</b> tal como é exigida pelo trabalho intelectual prolongado e perseverante. Estamos persuadidos de que os estudantes e em geral todos os trabalhadores da inteligência encontrarão aqui indicações de grande utilidade. Já ouvi muitos jovens lamentarem-se da ausência de um <b>método para chegar ao domínio de si</b>. Ofereço-lhes o que me sugeriram sobre esse assunto cerca de quatro anos de estudos e meditações.</p>",
+  "sinopse": "O livro aborda a educação da vontade como essencial para o trabalho intelectual, propondo um método para alcançar o domínio de si. Através de quatro anos de estudos e reflexões, Payot apresenta indicações úteis para estudantes e trabalhadores da inteligência.",
+  "exemplar_id": 341,
+  "sku": "LI008Y",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/jules-payot--a-educa--o-da-vontade--capa--20250226--133821.jpg",
+  "contracapa": "static/uploads/jules-payot--a-educa--o-da-vontade--contracapa--20250226--133821.jpg",
+  "fotos": [
+    "static/uploads/jules-payot--a-educa--o-da-vontade--foto1--20250226--133821.jpg",
+    "static/uploads/jules-payot--a-educa--o-da-vontade--foto2--20250226--133821.jpg",
+    "static/uploads/jules-payot--a-educa--o-da-vontade--foto3--20250226--133821.jpg",
+    "static/uploads/jules-payot--a-educa--o-da-vontade--foto4--20250226--133821.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. O texto, porém, possui sublinhados e (interessantes) anotações à lápis nas laterais. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:20:35",
+  "observacoes": null
+}

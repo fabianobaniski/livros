@@ -1,0 +1,63 @@
+{
+  "obra_id": 691,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Marcos",
+  "subtitulo": "O evangelho dos milagres",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Evangelho. Cristo.",
+  "palavras_chave": "lopes marcos evangelho",
+  "edicao_id": 676,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 640,
+  "peso": 600,
+  "isbn": "9788577420025",
+  "editora": "Hagnos",
+  "numero_edicao": 2,
+  "ano": 2016,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Marcos é o evangelho da ação. Jesus é apresentado neste evangelho como servo que está constantemente em atividade. Marcos descreve Cristo, sempre ocupado, se deslocando de um lugar para outro, curando, libertando, pregando e ensinando às pessoas. As obras de Cristo têm mais ênfase que suas palavras. A parte mais importante do evangelho não é o que nós devemos fazer, mas o que Deus fez por nós em Cristo. O evangelho não é discussão nem debate, mas uma proclamação. O evangelho está centralizado na pessoa de Jesus Cristo. O conteúdo do evangelho é Jesus Cristo: sua vida, obra, morte, ressurreição, governo e segunda vinda. Sem esta gloriosa doutrina não teremos nada sólido debaixo dos nossos pés. Nossos corações são fracos, nossos pecados são muitos. Nós precisamos de um redentor que seja capaz de salvar-nos completamente e libertar-nos da ira vindoura. Nós temos esse salvador em Jesus Cristo. Ele é o Deus forte (Is 9.6).</p><p>Hernandes Dias Lopes é casado com Udemilta Pimentel Lopes e pai de Thiago e Mariana. É bacharel em Teologia pelo Seminário Presbiteriano do Sul, em Campinas, SP e doutor em Ministério pelo Reformed Theological Seminary de Jackson, Mississippi, Estados Unidos. Ele é pastor da Primeira Igreja Presbiteriana de Vitória, Espírito Santo, desde 1985. É conferencista, escritor com mais de 100 títulos publicados e diretor executivo de Luz para o Caminho. É membro da Academia Evangélica de Letras do Brasil.</p><p>Contato: <a href=\"www.hernandesdiaslopes.com.br\">www.hernandesdiaslopes.com.br</a></p>",
+  "sinopse": "O evangelho de Marcos apresenta Jesus como um servo ativo e milagroso, enfatizando suas obras e a necessidade de reconhecer o que Deus fez por nós. A obra de Cristo abrange sua vida e ministério, culminando em sua morte e ressurreição, e reforça a importância de abraçar essa mensagem de salvação.",
+  "exemplar_id": 675,
+  "sku": "LI00I6",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/hernandes-dias-lopes--marcos--capa--20250227--152858.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--marcos--contracapa--20250227--152858.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 18:00:11",
+  "observacoes": null
+}

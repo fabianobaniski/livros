@@ -1,0 +1,63 @@
+{
+  "obra_id": 2891,
+  "autor": "Adilson Citelli",
+  "titulo": "Romantismo",
+  "subtitulo": "Série Princípios Nº 78",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "citelli romantismo serie principios",
+  "edicao_id": 2871,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 96,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Palavras carregam consigo um encanto especial, repetidas ao longo do tempo, e ganham novos significados conforme são usadas em diferentes contextos. O livro explora as nuances da expressão romântica, investigando suas conexões histórico-culturais e destacando autores e obras que exemplificam esse movimento. A análise aprofunda-se no romantismo como um fenômeno em constante renovação, ampliando a compreensão de seu impacto artístico e filosófico ao longo dos séculos.",
+  "exemplar_id": 2870,
+  "sku": "LI01UB",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/romantismo-adilson-citelli-capa_rev865.jpg",
+  "contracapa": "static/uploads/romantismo-adilson-citelli-contracapa_rev187.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso. Boa conservação, embora um tanto pigmentado nas bordas. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:50",
+  "observacoes": null
+}

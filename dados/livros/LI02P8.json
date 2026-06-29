@@ -1,0 +1,63 @@
+{
+  "obra_id": 4954,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Platinum End",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Conflito divino. Ética.",
+  "palavras_chave": "ohba platinum end",
+  "edicao_id": 4929,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 212,
+  "peso": 180,
+  "isbn": "9786555942279",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 13,
+  "transcricao_contracapa": "<p>Existem vidas mais importantes que a nossa própria.</p><p>A discussão entre os candidatos a Deus será resolvida entre Mirai, que decidiu se tornar um Deus, e Yoneda, que quer evitar o nascimento de um falso Deus.</p><p>Ambos se encaram. Para quem a flecha branca será apontada em nome do que é 'preciso ser feito'?</p><p>Enquanto isso, a situação de Saki e dos outros que assistem à luta dos dois a distância muda...!</p>",
+  "sinopse": "A batalha final entre os candidatos a Deus ocorre, com Mirai e Yoneda em confronto por diferentes visões divinas. Enquanto Mirai decide se tornar um Deus, Yoneda busca prevenir a ascensão de um falso Deus. Os espectadores, incluindo Saki, observam essa decisão crítica de perto, alterando suas próprias situações.",
+  "exemplar_id": 4928,
+  "sku": "LI02P8",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__capa__2026-02-20_10-31-22-914102-000.png",
+  "contracapa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__contracapa__2026-02-20_10-31-22-964211-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

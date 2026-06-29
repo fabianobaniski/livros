@@ -1,0 +1,63 @@
+{
+  "obra_id": 710,
+  "autor": "O. Palmer Robertson",
+  "titulo": "Jonas",
+  "subtitulo": "Um estudo sobre compaixão, a do Senhor e a sua",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Compaixão. Reflexão espiritual.",
+  "palavras_chave": "robertson jonas compaixao",
+  "edicao_id": 695,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 63,
+  "peso": 100,
+  "isbn": "9788576224228",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Acompanhe a trajetória de Jonas para ver se, talvez, deva fazer algumas correções na sua própria trajetória atual.</p> <p>O livro de Jonas termina com uma pergunta a respeito da compaixão. O Senhor não deveria ter compaixão de Nínive? Essa pergunta permanece para você responder. Compaixão! Você não deve ter uma compaixão que reflita a do Senhor? Considerando o modo gracioso como ele teve compaixão de você e dos seus, não deveria ter você a mesma compaixão até mesmo pelos pecadores, que de algum modo (mas não em todos) podem ser piores do que você mesmo?</p> <p>Pare de fugir do Senhor. Eleve seus olhos para os campos, pois já branquearam para a ceifa.</p> <p>O. Palmer Robertson (ThD, Union Theological Seminary em Richmond) é o diretor do African Bible College em Uganda e professor adjunto de Antigo Testamento no Knox Theological Seminary, Fort Lauderdale, Flórida. Pastor e professor experiente, Robertson foi conferencista em diversos países e escreveu vários livros, incluindo Alianças, Terra de Deus e O Cristo dos Pactos, da Cultura Cristã.</p>",
+  "sinopse": "O livro de Jonas questiona a compaixão do Senhor e nos leva a refletir sobre a nossa própria. Observando a trajetória de Jonas, somos convidados a entender a importância de cultivar uma compaixão semelhante à divina, a fim de não apenas olhar para nós mesmos, mas também para os outros, especialmente aqueles considerados 'piores'.",
+  "exemplar_id": 694,
+  "sku": "LI00IP",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/o--palmer-robertson--jonas--capa--20250227--152859.jpg",
+  "contracapa": "static/uploads/o--palmer-robertson--jonas--contracapa--20250227--152859.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:53:43",
+  "observacoes": null
+}

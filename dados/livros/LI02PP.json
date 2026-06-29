@@ -1,0 +1,63 @@
+{
+  "obra_id": 4971,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Comédia. Romance.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 4946,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 170,
+  "isbn": "9788542613520",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 16,
+  "transcricao_contracapa": "<p>Além de ser a responsável pela turma de Raku, Yui também virou professora de música! Apesar de desafinar a ponto de fazer seus alunos desmaiarem, terá que cantar na frente de toda a escola. Raku e Chitoge conhecem a princesa do reino Nonbeeri, que está fugindo de homens vestidos de preto... e é igualzinha à Chitoge!</p>",
+  "sinopse": "Yui, agora professora de música, desafia seus limites ao desafinar em frente a toda a escola. Paralelamente, Raku e Chitoge se deparam com uma princesa fugitiva idêntica à Chitoge, gerando novas aventuras e confusões.",
+  "exemplar_id": 4945,
+  "sku": "LI02PP",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2026-02-20_10-31-25-811333-000.png",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2026-02-20_10-31-26-003740-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

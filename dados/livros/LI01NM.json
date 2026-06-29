@@ -1,0 +1,63 @@
+{
+  "obra_id": 2650,
+  "autor": "Canal de Historia",
+  "titulo": "Las grandes batallas de la historia",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "historia las grandes batallas",
+  "edicao_id": 2630,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 669,
+  "peso": 500,
+  "isbn": "9788499085708",
+  "editora": "Debolsillo",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro revisita trinta batalhas históricas que mudaram o rumo de impérios, deteram invasões e moldaram o mundo moderno. Através de uma pesquisa detalhada, recria desde cercos como a tomada de Jerusalém até operações navais como o Dia D, explorando o papel de grandes estrategistas como Aníbal, Alexandre, Napoleão e Churchill. Com foco nas causas, consequências, táticas e curiosidades, o texto oferece uma análise envolvente e didática, indispensável para qualquer entusiasta de história militar.",
+  "exemplar_id": 2629,
+  "sku": "LI01NM",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/canal-de-historia--las-grandes-batallas-de-la-historia--capa--20260316--215325.jpg",
+  "contracapa": "static/uploads/canal-de-historia--las-grandes-batallas-de-la-historia--contracapa--20260316--215325.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora fortemente amarelado pelo tempo. Capa, lombada e contracapa um pouco marcadas pelo uso. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:16:44",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 332,
+  "autor": "Charles Spurgeon",
+  "titulo": "Caminhando com o peregrino",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura cristã. Reflexões sobre fé.",
+  "palavras_chave": "spurgeon caminhando peregrino",
+  "edicao_id": 323,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 143,
+  "peso": 250,
+  "isbn": "9786559960248",
+  "editora": "Penkall",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "Clássicos da Literatura Cristã",
+  "volume": null,
+  "transcricao_contracapa": "<p>Neste livro, Charles Spurgeon evoca o clássico cristão “O Peregrino”, de John Bunyan, trazendo uma profunda reflexão sobre as belíssimas passagens dessa obra, contribuindo para nosso entendimento e fruição da leitura. É claro que isso é feito a partir do estilo eloquente e preciso do príncipe dos pregadores, que nos faz viajar junto ao peregrino em uma jornada de descoberta da fé cristã, de suas batalhas, desafios e recompensas, mostrando que, mesmo em meio às mais duras adversidades, Deus sempre nos revela o caminho correto a seguir, bem como nos ainda para que não nos desviemos dele.</p>",
+  "sinopse": "Charles Spurgeon apresenta uma reflexão sobre o clássico 'O Peregrino' de John Bunyan, explorando passagens importantes e desenvolvendo um entendimento mais profundo dessa obra. O autor nos convida a vivenciar as batalhas e recompensas da fé cristã ao longo da jornada do peregrino, ressaltando que mesmo nas adversidades, Deus sempre aponta o caminho certo a seguir.",
+  "exemplar_id": 322,
+  "sku": "LI008H",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--capa--20250226--133820.jpg",
+  "contracapa": "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--contracapa--20250226--133820.jpg",
+  "fotos": [
+    "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--foto1--20250226--133820.jpg",
+    "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--foto2--20250226--133820.jpg",
+    "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--foto3--20250226--133820.jpg",
+    "static/uploads/charles-spurgeon--caminhando-com-o-peregrino--foto4--20250226--133820.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:11:13",
+  "observacoes": null
+}

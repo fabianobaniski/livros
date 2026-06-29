@@ -1,0 +1,63 @@
+{
+  "obra_id": 861,
+  "autor": "Richard Baxter",
+  "titulo": "Quebrantamento",
+  "subtitulo": "Espírito de humilhação",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Quebrantamento. Humilhação.",
+  "palavras_chave": "baxter quebrantamento humilhacao",
+  "edicao_id": 846,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 100,
+  "isbn": "9788561184001",
+  "editora": "Knox Publicações",
+  "numero_edicao": 3,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Rev. Richard Baxter foi um conhecido pastor reformado que viveu na Inglaterra, de 1615 à 1691. Seus escritos, pregações e vida produziram um inegável reavivamento espiritual na cidade de Kidderminster, onde realizou o seu ministério. Quando chegou à cidade, eram poucos os crentes e duvidosas as suas conversões. Algum tempo depois, entretanto, o templo de sua igreja teve que ser aumentado - e ainda assim não comportava mais as pessoas, que subiam nas janelas para ouvir suas pregações; muitas ruas da cidade tiveram todos os seus moradores convertidos; podia-se ouvir centenas de pessoas cantando hinos de louvor em plena rua e as conversões davam provas suficientes de serem sinceras e profundas.</p><p>Esta é a terceira edição de uma de suas obras práticas sobre quebrantamento, a obra de humilhação que o Espírito Santo deseja realizar no entendimento, vontade e sentimentos de um pecador, a fim de habilitar seu coração a receber a Cristo.</p>",
+  "sinopse": "O Rev. Richard Baxter foi um pastor reformado que, ao longo de seu ministério, teve um impacto profundo na cidade de Kidderminster. Sua pregação liberta e a vida dedicada ao ministério resultaram em um notável reavivamento espiritual, provocando conversões sinceras entre os moradores. Esta obra é uma reflexão sobre a importância do quebrantamento e da humilhação na vida espiritual, essencial para a recepção de Cristo.",
+  "exemplar_id": 845,
+  "sku": "LI00MV",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/richard-baxter--quebrantamento--capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/richard-baxter--quebrantamento--contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:24:17",
+  "observacoes": null
+}

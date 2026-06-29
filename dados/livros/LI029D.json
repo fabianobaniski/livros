@@ -1,0 +1,68 @@
+{
+  "obra_id": 3438,
+  "autor": "Atsushi Ohkubo",
+  "titulo": "Soul eater",
+  "subtitulo": "Not!",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Vida escolar.",
+  "palavras_chave": "ohkubo soul eater not",
+  "edicao_id": 3415,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 140,
+  "isbn": "9788577879373",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Soul Eater Not!",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3414,
+  "sku": "LI029D",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/soul-eater__not__atsushi-ohkubo__capa__2025-11-05_16-15-18-979192.jpg",
+  "contracapa": "static/uploads/soul-eater__not__atsushi-ohkubo__contracapa__2025-11-05_16-15-19-024594.jpg",
+  "fotos": [
+    "static/uploads/soul-eater__not__atsushi-ohkubo__foto-01__2025-11-05_16-15-19-057057.jpg",
+    "static/uploads/soul-eater__not__atsushi-ohkubo__foto-02__2025-11-05_16-15-19-180785.jpg",
+    "static/uploads/soul-eater__not__atsushi-ohkubo__foto-03__2025-11-05_16-15-19-202303.jpg",
+    "static/uploads/soul-eater__not__atsushi-ohkubo__foto-04__2025-11-05_16-15-19-223262.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:54:19",
+  "observacoes": null
+}

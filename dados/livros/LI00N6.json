@@ -1,0 +1,63 @@
+{
+  "obra_id": 872,
+  "autor": "Greg Gilbert",
+  "titulo": "O que é o Evangelho",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Evangelho.",
+  "palavras_chave": "gilbert evangelho",
+  "edicao_id": 857,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 162,
+  "peso": 200,
+  "isbn": "9788599145890",
+  "editora": "FIEL",
+  "numero_edicao": 1,
+  "ano": 2015,
+  "serie": "9Marcas",
+  "volume": null,
+  "transcricao_contracapa": "<p>O que é o evangelho? Essa pergunta pode parecer simples, mas sua resposta tem gerado discussões acaloradas, mesmo entre os cristãos, e respostas aquém do que a Bíblia afirma. Alguns dizem: \"O evangelho é a mensagem de que Deus perdoará os seus pecados, se você crer nele\". Já outros: \"A boa notícia é que Deus ama você e tem um plano maravilhoso para a sua vida\". E ainda outros: \"O evangelho diz que você é um filho de Deus, e Deus quer que seus filhos vivam de maneira bem-sucedida\". Neste livro, Greg Gilbert nos leva a única fonte de resposta confiável, a Palavra de Deus, e apresenta uma formulação clara e bíblica para a mensagem mais crucial da história!</p><p>Greg Gilbert é formado pela Universidade Yale e obteve seu M.Div. no Southern Baptist Theological Seminary. Ele é o pastor da Third Avenue Baptist Church, em Louisville, KY.</p>",
+  "sinopse": "O livro explora a questão fundamental do que é o evangelho, abordando as diversas interpretações e enfatizando a importância de compreender a mensagem bíblica correta. Greg Gilbert fornece uma análise clara e fundamentada com base na Palavra de Deus, ajudando o leitor a entender a mensagem crucial da história.",
+  "exemplar_id": 856,
+  "sku": "LI00N6",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/greg-gilbert--o-que---o-evangelho--capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/greg-gilbert--o-que---o-evangelho--contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo e algumas páginas com leve sinal de dobra nas pontas. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:40:34",
+  "observacoes": null
+}

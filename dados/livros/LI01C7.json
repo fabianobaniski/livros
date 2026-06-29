@@ -1,0 +1,68 @@
+{
+  "obra_id": 2238,
+  "autor": "Rosângela de Oliveira Pinto; Outros",
+  "titulo": "Homem, cultura e sociedade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Sociedade. Cultura. Relações humanas.",
+  "palavras_chave": "rosangela pinto homem cultura sociedade",
+  "edicao_id": 2218,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 229,
+  "peso": 215,
+  "isbn": "9788584824076",
+  "editora": "KLS",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2217,
+  "sku": "LI01C7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/kls--homem--cultura-e-sociedade--capa--20250430--105102.jpg",
+  "contracapa": "static/uploads/kls--homem--cultura-e-sociedade--contracapa--20250430--105102.jpg",
+  "fotos": [
+    "static/uploads/kls--homem--cultura-e-sociedade--foto1--20250430--105102.jpg",
+    "static/uploads/kls--homem--cultura-e-sociedade--foto2--20250430--105102.jpg",
+    "static/uploads/kls--homem--cultura-e-sociedade--foto3--20250430--105102.jpg",
+    "static/uploads/kls--homem--cultura-e-sociedade--foto4--20250430--105102.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:36:51",
+  "observacoes": "procedencia_biblioteca"
+}

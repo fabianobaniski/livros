@@ -1,0 +1,68 @@
+{
+  "obra_id": 275,
+  "autor": "Margaret Atwood",
+  "titulo": "Vulgo Grace",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura. Questões sociais. Feminismo.",
+  "palavras_chave": "atwood vulgo grace",
+  "edicao_id": 269,
+  "encadernacao": null,
+  "quantidade_paginas": 511,
+  "peso": 350,
+  "isbn": "9788532523532",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Às vezes eu sussurro a palavra para mim mesma: Assassina. Assassina. Ela produz um som farfalhante, como uma saia de tafetá pelo assoalho.\"</p><p>Grace Marks: Mulher insana, femme fatale ou vítima das circunstâncias? Em torno da história real de uma das mulheres mais enigmáticas do século XIX, Margaret Atwood cria um extraordinário conto de crueldade, sexualidade e mistério.</p><p>“Brilhante. Tão íntimo que parece escrito sobre a pele.” – Hilary Mantel</p><p>“Um romance sombrio e fascinante.” – Time</p><p>“Vilã ou vítima, Grace é uma companhia intrigante.” – People</p>",
+  "sinopse": "Vulgo Grace explora a história de Grace Marks, uma mulher enigmática do século XIX, questionando se ela é uma femme fatale ou vítima das circunstâncias. Com um relato envolvente de crueldade e sexualidade, Margaret Atwood captura a complexidade de sua vida e os mistérios que a cercam, trazendo à tona a tensão entre ser vilã ou vítima.",
+  "exemplar_id": 268,
+  "sku": "LI0070",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/margaret-atwood--vulgo-grace--capa--20250226--133814.jpg",
+  "contracapa": "static/uploads/margaret-atwood--vulgo-grace--contracapa--20250226--133814.jpg",
+  "fotos": [
+    "static/uploads/margaret-atwood--vulgo-grace--foto1--20250226--133814.jpg",
+    "static/uploads/margaret-atwood--vulgo-grace--foto2--20250226--133814.jpg",
+    "static/uploads/margaret-atwood--vulgo-grace--foto3--20250226--133814.jpg",
+    "static/uploads/margaret-atwood--vulgo-grace--foto4--20250226--133814.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:59:15",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1650,
+  "autor": "Padre Marcelo Rossi",
+  "titulo": "Ágape",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade",
+  "palavras_chave": "marcelo rossi agape",
+  "edicao_id": 1631,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 124,
+  "peso": 250,
+  "isbn": "9788525048950",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Senhor,<br>Tu és o Bom Pastor.<br>Eu sou a Tua ovelha.<br>Em alguns dias, estou sujo;<br>Em outros, estou doente.<br>Em alguns dias, me escondo;<br>Em outros, me revelo.<br>Sou uma ovelha ora mansa, ora agitada.<br>Sou uma ovelha ora perdida, ora reconhecida.<br>Eu sou Tua ovelha, Senhor.<br>Eu conheço a Tua voz.<br>É que às vezes a surdez toma conta de mim.<br>Eu sou Tua ovelha, Senhor.<br>Não permita que eu me perca,<br>que eu me desvie do Teu rebanho.<br>Mas se eu me perder, eu Te peço, Senhor,<br>Vem me encontrar.<br>Amém.</p>",
+  "sinopse": "",
+  "exemplar_id": 1630,
+  "sku": "LI00XH",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/padre-marcelo-rossi---gape--capa--20250401--115801.jpg",
+  "contracapa": "static/uploads/padre-marcelo-rossi---gape--contracapa--20250401--115801.jpg",
+  "fotos": [
+    "static/uploads/padre-marcelo-rossi---gape--foto1--20250401--115801.jpg",
+    "static/uploads/padre-marcelo-rossi---gape--foto2--20250401--115801.jpg",
+    "static/uploads/padre-marcelo-rossi---gape--foto3--20250401--115801.jpg",
+    "static/uploads/padre-marcelo-rossi---gape--foto4--20250401--115801.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:11:09",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 391,
+  "autor": "George Smeaton; John Owen",
+  "titulo": "Vivendo com o Deus vivo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Espiritualidade.",
+  "palavras_chave": "smeaton vivendo deus vivo",
+  "edicao_id": 380,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 120,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Publicações Evangélicas Selecionadas",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Certamente é coisa triste que exista tanto desagrado entre os cristãos em relação à natureza e a obra do Espírito Santo.</p> <p>A primeira parte deste livro apresenta o ensino bíblico a respeito do Espírito Santo.</p> <p>A segunda parte trata do relacionamento entre o cristão e o Espírito Santo na experiência diária.</p> <p>Por conseguinte, o livro é tanto doutrinário como prático no seu propósito, apresentando material do Smeaton e Owen num estilo de fácil leitura.</p>",
+  "sinopse": "Este livro aborda a desconexão entre os cristãos e a compreensão da natureza e obra do Espírito Santo. Dividido em duas partes, ele explora o ensino bíblico sobre o Espírito Santo e o relacionamento do cristão com Ele na vida cotidiana. O texto oferece uma abordagem tanto doutrinária quanto prática, com um estilo acessível.",
+  "exemplar_id": 379,
+  "sku": "LI009Y",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 33.0,
+  "capa": "static/uploads/george-smeaton--vivendo-com-o-deus-vivo--capa--20250226--133825.jpg",
+  "contracapa": "static/uploads/george-smeaton--vivendo-com-o-deus-vivo--contracapa--20250226--133825.jpg",
+  "fotos": [
+    "static/uploads/george-smeaton--vivendo-com-o-deus-vivo--foto1--20250226--133825.jpg",
+    "static/uploads/george-smeaton--vivendo-com-o-deus-vivo--foto2--20250226--133825.jpg",
+    "static/uploads/george-smeaton--vivendo-com-o-deus-vivo--foto3--20250226--133825.jpg",
+    "static/uploads/george-smeaton--vivendo-com-o-deus-vivo--foto4--20250226--133825.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto possui alguns sublinhados feitos com caneta destaque. Também há carimbo e assinatura de ex-donos. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:45:17",
+  "observacoes": null
+}

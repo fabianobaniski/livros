@@ -1,0 +1,68 @@
+{
+  "obra_id": 1838,
+  "autor": "Joel M. Charon",
+  "titulo": "Sociologia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Sociologia. Ciências humanas. Mudanças sociais. Globalização. Desigualdade social no Brasil.",
+  "palavras_chave": "charon sociologia",
+  "edicao_id": 1818,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 237,
+  "peso": 410,
+  "isbn": "9788502027176",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Sociologia</b>, obra internacionalmente consagrada, voltada aos cursos de ciências humanas de modo geral, vem atender a todos os que necessitam aprender as noções básicas do assunto, de forma moderna, objetiva e interessante.</p><p>O grande mérito do livro é o de tornar acessíveis a todos os temas e as questões estudadas pelos sociólogos. O texto procura estimular o exame das idéias importantes que têm sido tradicionalmente abordadas, permitindo que os eventos particulares e mundiais possam ser entendidos e discutidos.</p><p>Além disso, esta é uma obra atual na acepção da palavra, pois acompanha os acontecimentos e mudanças mais recentes, inseridos no contexto de pós-guerra fria e de globalização, demonstrando que a sociologia possibilita a compreensão da sociedade, das mudanças e problemas sociais.</p><p>Ao mesmo tempo, a adaptação à realidade brasileira foi extremamente cuidadosa, a ponto de ter sido acrescentado um apêndice ao final do livro, contendo dados sobre desigualdade social no Brasil.</p>",
+  "sinopse": "Sociologia, de Joel M. Charon, é uma obra consagrada voltada para cursos de ciências humanas, apresentando de forma moderna e acessível as noções básicas e os principais temas da sociologia. O texto estimula o exame crítico das ideias tradicionais e atuais do campo, relacionando-as com eventos contemporâneos, desde a pós-guerra fria até o contexto da globalização. A adaptação ao Brasil inclui um apêndice com dados sobre desigualdade social, tornando o livro uma referência para entender questões e problemas sociais.",
+  "exemplar_id": 1817,
+  "sku": "LI0114",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/joel-m--charon--sociologia--capa--20250430--102954.jpg",
+  "contracapa": "static/uploads/joel-m--charon--sociologia--contracapa--20250430--102954.jpg",
+  "fotos": [
+    "static/uploads/joel-m--charon--sociologia--foto1--20250430--102954.jpg",
+    "static/uploads/joel-m--charon--sociologia--foto2--20250430--102954.jpg",
+    "static/uploads/joel-m--charon--sociologia--foto3--20250430--102954.jpg",
+    "static/uploads/joel-m--charon--sociologia--foto4--20250430--102954.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:34:09",
+  "observacoes": "procedencia_biblioteca"
+}

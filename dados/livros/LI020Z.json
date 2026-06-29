@@ -1,0 +1,63 @@
+{
+  "obra_id": 3131,
+  "autor": "Orden del Temple",
+  "titulo": "Introducción a los Misterios del Cristo por El Evangelio de Juan",
+  "subtitulo": null,
+  "idioma": "Espanhol",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "temple introduccion los misterios",
+  "edicao_id": 3111,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 397,
+  "peso": 400,
+  "isbn": "8439898010",
+  "editora": "Orden del Temple, Madrid",
+  "numero_edicao": null,
+  "ano": 1987,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Entre los Iniciados enseñamos una sabiduria que no es de este mundo, ni de los principes de este mundo... Enseñamos una sabiduria divina, misteriosa, oculta, que Deios pre destino para nuestra gloria antes de los siglos, y que ninguno de los principes de este mundo conocio... Y a nosostros nos lo revelo Dios mediante su espiritu... De esto hablamos también, no con el lenguaje aprendido de la sabiduria humana, sino aprendido del espiritu, expresando doctrinas espirituales en terminos espirituales.",
+  "exemplar_id": 3110,
+  "sku": "LI020Z",
+  "preco_estante_virtual": 42.5,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora bastante amarelado pelo tempo, e com marcas de manuseio e contato com outras superfícies. Texto íntegro, livre de anotações e sublinhados. Não possui marcas de umidade, sol excessivo, traça ou mofo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:29:53",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

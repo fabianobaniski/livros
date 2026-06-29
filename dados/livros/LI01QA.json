@@ -1,0 +1,63 @@
+{
+  "obra_id": 2746,
+  "autor": "Moacyr Scliar",
+  "titulo": "O anão no televisor",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "scliar anao televisor",
+  "edicao_id": 2726,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 114,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2725,
+  "sku": "LI01QA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/o-anao-no-televisor-moacyr-scliar-capa_rev1892.jpg",
+  "contracapa": "static/uploads/o-anao-no-televisor-moacyr-scliar-contracapa_rev2015.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso. Amarelado pelo tempo. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:53:11",
+  "observacoes": null
+}

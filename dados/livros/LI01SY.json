@@ -1,0 +1,63 @@
+{
+  "obra_id": 2842,
+  "autor": "Leon Thoorens",
+  "titulo": "Panorama das literaturas",
+  "subtitulo": "Alexandria, Roma, Idade Média Europeia",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "thoorens panorama das literaturas",
+  "edicao_id": 2822,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 290,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Difusão Editorial do Livro",
+  "numero_edicao": null,
+  "ano": 1966,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra apresenta uma vasta análise histórica, percorrendo o desenvolvimento das civilizações desde a Mesopotâmia até os tempos modernos. Ao abordar temas como o Egito, Roma, a Idade Média europeia e a América Latina, oferece uma visão abrangente sobre a evolução política, social e cultural de diferentes povos ao longo dos séculos.",
+  "exemplar_id": 2821,
+  "sku": "LI01SY",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/panorama-das-literaturas-leon-thoorens-capa_rev1695.jpg",
+  "contracapa": "static/uploads/panorama-das-literaturas-leon-thoorens-contracapa_rev1043.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Brochura em formato padrão, em boas condições para manuseio e leitura, embora com aparência regular devido ao envelhecimento. O papel está levemente pigmentado nas bordas pelo tempo. A lombada está alinhada, mas a capa e contracapa apresentam sinais de desgaste. Contém ilustrações em cores e preto e branco, com texto livre de anotações e sublinhados. Possui"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:34:52",
+  "observacoes": null
+}

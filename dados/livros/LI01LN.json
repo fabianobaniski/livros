@@ -1,0 +1,63 @@
+{
+  "obra_id": 2579,
+  "autor": "António Ramalho de Almeida",
+  "titulo": "Guiné mal amada",
+  "subtitulo": "O inferno da guerra",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "almeida guine mal amada",
+  "edicao_id": 2559,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 230,
+  "peso": 476,
+  "isbn": "9789898647047",
+  "editora": "Fronteira do Caos",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Um livro de memórias de Guerra. A história da comissão de um jovem oficial miliciano na antiga Guiné portuguesa. Este livro revela-nos as histórias que fizeram a história recente de Portugal. Os combates, as vivências, os dramas mas igualmente o heroísmo que apenas se conseguem revelar na catástrofe e na guerra.",
+  "exemplar_id": 2558,
+  "sku": "LI01LN",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/antonio-ramalho-de-almeida--guine-mal-amada--capa--20260316--211859.jpg",
+  "contracapa": "static/uploads/antonio-ramalho-de-almeida--guine-mal-amada--contracapa--20260316--211859.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:28:28",
+  "observacoes": null
+}

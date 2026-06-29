@@ -1,0 +1,68 @@
+{
+  "obra_id": 2273,
+  "autor": "Cicilia Maria Krohling Peruzzo; Fernando Ferreira de Almeida",
+  "titulo": "A mídia impressa, o livro e as novas tecnologias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Comunicação",
+  "temas": "Comunicação. Mídia impressa. Tecnologia.",
+  "palavras_chave": "peruzzo midia impressa livro novas tecnologias",
+  "edicao_id": 2253,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 178,
+  "peso": 305,
+  "isbn": "8588537044",
+  "editora": "Intercom",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2252,
+  "sku": "LI01D6",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/cicilia-maria-krohling-peruzzo--a-m-dia-impressa--capa--20250430--105107.jpg",
+  "contracapa": "static/uploads/cicilia-maria-krohling-peruzzo--a-m-dia-impressa--contracapa--20250430--105107.jpg",
+  "fotos": [
+    "static/uploads/cicilia-maria-krohling-peruzzo--a-m-dia-impressa--foto1--20250430--105107.jpg",
+    "static/uploads/cicilia-maria-krohling-peruzzo--a-m-dia-impressa--foto2--20250430--105107.jpg",
+    "static/uploads/cicilia-maria-krohling-peruzzo--a-m-dia-impressa--foto3--20250430--105107.jpg",
+    "static/uploads/cicilia-maria-krohling-peruzzo--a-m-dia-impressa--foto4--20250430--105107.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "LI01D6"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:31:43",
+  "observacoes": "procedencia_biblioteca"
+}

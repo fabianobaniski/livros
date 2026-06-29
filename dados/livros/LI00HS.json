@@ -1,0 +1,63 @@
+{
+  "obra_id": 677,
+  "autor": "Rick Nañez",
+  "titulo": "Pentecostal de coração e mente",
+  "subtitulo": "Um chamado ao dom divino do intelecto",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. História contemporânea. História denominacional.",
+  "palavras_chave": "nanez pentecostal coracao mente",
+  "edicao_id": 662,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 431,
+  "peso": 400,
+  "isbn": "9788538300106",
+  "editora": "Vida Acadêmica",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Glorifique a Deus com sua mente, coração e espírito.</h1> <p>O movimento pentecostal-carismático trouxe grandeVitalidade à vida da igreja. Esse movimento do início do século XX, porém, também contém um forte elemento de anti-intelectualismo que fez com que, desde então e até hoje, muitos cristãos desvalorizem a razão. Este livro examina as raízes do anti-intelectualismo e explora as bases bíblicas e históricas dessa tendência, mostrando a importância do dom divino do intelecto em termos de fé e prática.</p> <p>Nañez mostra como a razão humana nos ajuda tanto a entender e interpretar a Palavra de Deus, as doutrinas cristãs e a vida espiritual, como nos fornece argumentos para defender o evangelho. Ele apresenta o que a Bíblia ensina sobre a mente e explora os acontecimentos do século XIX, a história do pentecostalismo e os falsos juízos populares sobre o intelecto em relação à fé cristã.</p> <p>Este livro oferece um comentário excepcionalmente útil para o ensino nos dias atuais e também observações perspicazes sobre as consequências trágicas de as igrejas abandonarem o zelo intelectual responsável. Especialmente digno de nota é que o autor mantém suas convicções pentecostais com integridade.</p>",
+  "sinopse": "Pentecostal de Coração e Mente examina a relação entre fé e razão no contexto do movimento pentecostal-carismático, que trouxe vitalidade à vida da igreja. O autor, Rick Nañez, argumenta a importância do dom divino do intelecto, explorando a história do pentecostalismo e os impactos do anti-intelectualismo. O livro fornece uma análise das doutrinas cristãs e um apelo à valorização da razão como ferramenta na defesa do evangelho.",
+  "exemplar_id": 661,
+  "sku": "LI00HS",
+  "preco_estante_virtual": 110.0,
+  "preco_amazon": 110.0,
+  "capa": "static/uploads/rick-na-ez--pentecostal-de-cora--o-e-mente--capa--20250227--152857.jpg",
+  "contracapa": "static/uploads/rick-na-ez--pentecostal-de-cora--o-e-mente--contracapa--20250227--152857.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:55:16",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2780,
+  "autor": "Phil Mcgraw",
+  "titulo": "O jogo do amor",
+  "subtitulo": "Saiba como vencer",
+  "idioma": "Português",
+  "categoria": "Sexualidade",
+  "temas": "",
+  "palavras_chave": "mcgraw jogo amor saiba",
+  "edicao_id": 2760,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 283,
+  "peso": 350,
+  "isbn": "9789720041524",
+  "editora": "Ideias de Ler",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro guia as leitoras na busca por um relacionamento amoroso saudável e duradouro, abordando questões como o parceiro ideal, os mistérios da mente masculina e a importância do autoconhecimento. Através de capítulos que exploram desde a atração pelo príncipe encantado até a fase de manter a união, a obra oferece conselhos práticos para entender as dinâmicas dos relacionamentos. Com uma abordagem leve, apresenta estratégias para encontrar e viver intensamente o amor, promovendo a autoestima e o crescimento pessoal no processo.",
+  "exemplar_id": 2759,
+  "sku": "LI01R8",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/o-jogo-do-amor-phil-mcgraw-capa_rev1537.jpg",
+  "contracapa": "static/uploads/o-jogo-do-amor-phil-mcgraw-contracapa_rev1245.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:22:38",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2973,
+  "autor": "Gérard A. Jaeger",
+  "titulo": "Vues sur la piraterie",
+  "subtitulo": "Cartes, tableaux, chronologie, bibliographies",
+  "idioma": "Francês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "jaeger vues sur piraterie",
+  "edicao_id": 2953,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 458,
+  "peso": 300,
+  "isbn": "9782235020848",
+  "editora": "Tallandier",
+  "numero_edicao": null,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A pirataria, longe de ser apenas o estereótipo de aventureiros dos mares, assume formas variadas ao longo da história, manifestando-se como ato de brigandagem, empreendimento econômico ou estratégia política. Este livro explora a pirataria em todas as suas dimensões, desde os piratas da Barbária até os rádios-piratas, abrangendo fenômenos modernos como o terrorismo e o drama dos boat people. A obra investiga as margens da legalidade e a construção da lenda dos piratas, revelando a complexidade desse fenômeno multifacetado.",
+  "exemplar_id": 2952,
+  "sku": "LI01WL",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/vues-sur-la-piraterie-gerard-a-jaeger-capa_rev2153.jpg",
+  "contracapa": "static/uploads/vues-sur-la-piraterie-gerard-a-jaeger-contracapa_rev1120.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora fortemente amarelado pelo tempo. Capa, lombada e contracapa recobertas por película plástica transparente, sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:59:00",
+  "observacoes": null
+}

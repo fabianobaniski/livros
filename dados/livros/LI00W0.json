@@ -1,0 +1,68 @@
+{
+  "obra_id": 1487,
+  "autor": "Robert M. Hochheiser",
+  "titulo": "Aprenda a administrar seu tempo eficazmente",
+  "subtitulo": "Em uma semana",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Gestão do tempo. Produtividade. Organização.",
+  "palavras_chave": "hochheiser aprenda administrar tempo",
+  "edicao_id": 1468,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 132,
+  "peso": 200,
+  "isbn": "9788589885546",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "Habilidades direativas",
+  "volume": null,
+  "transcricao_contracapa": "<p>Se o seu trabalho é exaustivo, se você tem a sensação de viver escravizado pelo tempo, se as datas e prazos são uma angústia constante, este livro lhe apresentará as chaves para organizar melhor e mais racionalmente a sua agenda.</p><p>Com um pouco de disciplina e táticas muito simples - como aproveitar os intervalos de folga, evitar interrupções ou estabelecer prioridades - você conseguirá, de uma vez por todas, ser dono do seu tempo.</p>",
+  "sinopse": "O livro oferece ferramentas e estratégias práticas para ajudar o leitor a gerir seu tempo de maneira eficaz, proporcionando dicas sobre como organizar tarefas e melhorar a produtividade em uma agenda apertada.",
+  "exemplar_id": 1467,
+  "sku": "LI00W0",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/robert-m--hochheiser--aprenda-a-administrar-seu-tempo-eficazmente--capa--20250401--115739.jpg",
+  "contracapa": "static/uploads/robert-m--hochheiser--aprenda-a-administrar-seu-tempo-eficazmente--contracapa--20250401--115739.jpg",
+  "fotos": [
+    "static/uploads/robert-m--hochheiser--aprenda-a-administrar-seu-tempo-eficazmente--foto1--20250401--115739.jpg",
+    "static/uploads/robert-m--hochheiser--aprenda-a-administrar-seu-tempo-eficazmente--foto2--20250401--115739.jpg",
+    "static/uploads/robert-m--hochheiser--aprenda-a-administrar-seu-tempo-eficazmente--foto3--20250401--115739.jpg",
+    "static/uploads/robert-m--hochheiser--aprenda-a-administrar-seu-tempo-eficazmente--foto4--20250401--115739.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente em bom estado, porém possui grifos feitos com caneta destaque em cerca de 40 por cento das páginas. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:14:57",
+  "observacoes": null
+}

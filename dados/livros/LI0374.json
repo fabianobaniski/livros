@@ -1,0 +1,68 @@
+{
+  "obra_id": 5831,
+  "autor": "Kim Edwards",
+  "titulo": "O guardião de memórias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura estrangeira. Famílias. Segredos. Síndrome de Down. Escolhas e consequências.",
+  "palavras_chave": "edwards guardiao memorias",
+  "edicao_id": 5806,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 361,
+  "peso": 590,
+  "isbn": "9788599296141",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Kim Edwards, uma romancista estreante, escreveu um livro de cortar o coração, alternadamente luminoso e sombrio, literário e cheio de suspense.\"<br><b>Library Journal</b></p><p>Com mais de três milhões de exemplares vendidos nos Estados Unidos, <b>O guardião de memórias</b> é uma fascinante história sobre vidas paralelas, famílias separadas pelo destino, segredos do passado e o infinito poder do amor verdadeiro.</p><p>Inverno de 1964. Uma violenta tempestade de neve obriga o Dr. David Henry a fazer o parto de seus filhos gêmeos. O menino, primeiro a nascer, é perfeitamente saudável, mas o médico logo reconhece na menina sinais da síndrome de Down.</p><p>Guiado por um impulso irrefreável e por dolorosas lembranças do passado, o Dr. Henry toma uma decisão que mudará para sempre a vida de todos e o assombrará até a morte: ele pede que sua enfermeira, Caroline, entregue a criança para adoção e diz à esposa que a menina não sobreviveu.</p><p>Tocada pela fragilidade do bebê, Caroline decide sair da cidade e criar Phoebe como sua própria filha. E Norah, a mãe, jamais consegue se recuperar do imenso vazio causado pela ausência da menina. A partir daí, uma intrincada trama de segredos, mentiras e traições se desenrola, abrindo feridas que nem o tempo será capaz de curar.</p><p>A força deste livro não está apenas em sua construção bem amarrada ou no realismo de seus personagens, mas principalmente na sua capacidade de envolver o leitor da primeira à última página.</p><p>Com uma trama tensa e cheia de surpresas, <b>O guardião de memórias</b> vai emocionar e mostrar o profundo — e às vezes irreversível — poder de nossas escolhas.</p>",
+  "sinopse": "O guardião de memórias conta a história do Dr. David Henry, que durante uma tempestade de neve em 1964 faz o parto de seus filhos gêmeos e, ao perceber que a menina tem síndrome de Down, decide entregá-la para adoção sem contar à esposa. A enfermeira Caroline, tocada pela situação, cria a criança como sua filha, enquanto Norah, mãe biológica, sofre com o vazio. A partir dessa escolha marcante, desenrola-se uma trama de segredos e traumas familiares, mostrando o impacto duradouro das decisões e o poder do amor verdadeiro.",
+  "exemplar_id": 5805,
+  "sku": "LI0374",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/o-guardiao-de-memorias__none__kim-edwards__capa__2026-01-18_14-12-04-172579-000.png",
+  "contracapa": "static/uploads/o-guardiao-de-memorias__none__kim-edwards__contracapa__2026-01-18_14-12-04-195631-001.png",
+  "fotos": [
+    "static/uploads/o-guardiao-de-memorias__none__kim-edwards__foto-01__2026-01-18_14-12-04-217510-002.jpg",
+    "static/uploads/o-guardiao-de-memorias__none__kim-edwards__foto-02__2026-01-18_14-12-04-252767-003.jpg",
+    "static/uploads/o-guardiao-de-memorias__none__kim-edwards__foto-03__2026-01-18_14-12-04-285234-004.jpg",
+    "static/uploads/o-guardiao-de-memorias__none__kim-edwards__foto-04__2026-01-18_14-12-04-320171-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:23:24",
+  "observacoes": null
+}

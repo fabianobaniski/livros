@@ -1,0 +1,68 @@
+{
+  "obra_id": 1339,
+  "autor": "Renato Camargos Couto; Tania Moreira Grillo Pedrosa",
+  "titulo": "Hospital",
+  "subtitulo": "Acreditação e gestão em saúde",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "Gestão em Saúde. Acreditação.",
+  "palavras_chave": "couto hospital acreditacao gestao saude",
+  "edicao_id": 1322,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 377,
+  "peso": 1500,
+  "isbn": "9788527712729",
+  "editora": "Guanabara Koogan",
+  "numero_edicao": 2,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Fundamentado na experiência de seus autores e colaboradores, <b>Hospital. Acreditação e Gestão em Saúde</b> fornece ao leitor entendimento global do funcionamento de um hospital, as funções que devem estar presentes para sua sobrevivência, além de disponibilizar as ferramentas necessárias para que o gestor possa estruturar um sistema operacional viável que atenda às necessidades da sociedade, prestando um serviço de qualidade e que satisfaça seus clientes.</p>",
+  "sinopse": "O livro 'Hospital. Acreditação e Gestão em Saúde' oferece uma visão abrangente sobre o funcionamento hospitalar, abordando funções essenciais e ferramentas que os gestores devem utilizar para garantir a sobrevivência e qualidade do serviço prestado à sociedade.",
+  "exemplar_id": 1321,
+  "sku": "LI00S6",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/renato-camargos-couto--hospital--capa--20250401--114914.png",
+  "contracapa": "static/uploads/renato-camargos-couto--hospital--contracapa--20250401--114914.png",
+  "fotos": [
+    "static/uploads/renato-camargos-couto--hospital--foto1--20250401--114914.jpg",
+    "static/uploads/renato-camargos-couto--hospital--foto2--20250401--114914.jpg",
+    "static/uploads/renato-camargos-couto--hospital--foto3--20250401--114914.jpg",
+    "static/uploads/renato-camargos-couto--hospital--foto4--20250401--114914.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:33:52",
+  "observacoes": "procedencia_biblioteca"
+}

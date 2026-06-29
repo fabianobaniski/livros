@@ -1,0 +1,68 @@
+{
+  "obra_id": 340,
+  "autor": "Emily Brontë",
+  "titulo": "O morro dos ventos uivantes",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Amor. Tragédia. Literatura clássica.",
+  "palavras_chave": "bronte morro ventos uivantes",
+  "edicao_id": 331,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 292,
+  "peso": 350,
+  "isbn": "9788563066022",
+  "editora": "LeYa",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Se o amor dela morresse, eu arrancaria seu coração do peito e beberia seu sangue.”</p> <p>Na fazenda chamada Morro dos Ventos Uivantes nasce uma paixão devastadora entre Heathcliff e Catherine, amigos de infância e cruelmente separados pelo destino. Mas a união do casal é mais forte do que qualquer tormenta: um amor proibido que deixará rastros de ira e vingança. “Meu amor por Heathcliff é como uma rocha eterna, Eu sou Heathcliff”, diz a apaixonada Cathy.</p> <p>O único romance escrito por Emily Brontë é uma das histórias de amor mais surpreendentes de todos os tempos, O Morro dos Ventos Uivantes é um clássico da literatura inglesa e tornou-se o livro favorito de milhares de pessoas, incluindo os belos personagens de Stephenie Meyer.</p>",
+  "sinopse": "Na fazenda Morro dos Ventos Uivantes, nasce uma paixão devastadora entre Heathcliff e Catherine, amigos de infância separados pelo destino. A união do casal é forte, e seu amor proibido deixará rastros de ira e vingança. O livro se tornou um clássico da literatura inglesa e o favorito de muitos, incluindo personagens da série Crepúsculo.",
+  "exemplar_id": 330,
+  "sku": "LI008P",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/emily-bront---o-morro-dos-ventos-uivantes--capa--20250226--133820.jpg",
+  "contracapa": "static/uploads/emily-bront---o-morro-dos-ventos-uivantes--contracapa--20250226--133820.jpg",
+  "fotos": [
+    "static/uploads/emily-bront---o-morro-dos-ventos-uivantes--foto1--20250226--133821.jpg",
+    "static/uploads/emily-bront---o-morro-dos-ventos-uivantes--foto2--20250226--133821.jpg",
+    "static/uploads/emily-bront---o-morro-dos-ventos-uivantes--foto3--20250226--133821.jpg",
+    "static/uploads/emily-bront---o-morro-dos-ventos-uivantes--foto4--20250226--133821.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta nome na primeira folha e duas pequenas anotações na parte interna da contracapa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:30:59",
+  "observacoes": null
+}

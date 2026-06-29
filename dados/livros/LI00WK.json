@@ -1,0 +1,68 @@
+{
+  "obra_id": 1509,
+  "autor": "Paulo Coelho",
+  "titulo": "O aleph",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura. Espiritualidade. Autoconhecimento.",
+  "palavras_chave": "coelho aleph",
+  "edicao_id": 1490,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 250,
+  "isbn": "9788575425770",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Abençoa e será abençoado.</h1> <p>\"Quando tinha 22 anos, comecei a me dedicar ao aprendizado da magia. Passei por diversos caminhos, andei à beira do abismo, escorreguei e cai, desisti e voltei. Imaginava que, quando chegasse aos 59 anos, estaria perto do paraíso e da tranquilidade absoluta que penso ver nos sorrisos dos monges budistas. Mas a busca da paz tem seu preço, e me pergunto: até onde estou disposto a chegar?\"<br> PAULO COELHO</p> <p>O Aleph marca a volta de Paulo Coelho às origens. Num relato pessoal franco e surpreendente, ele revela como uma grave crise de fé o levou a sair à procura de um caminho de renovação e crescimento espiritual.</p> <p>Para se reaproximar de Deus, o mago resolve começar tudo de novo: viajar, experimentar, se reconectar às pessoas e ao mundo. E assim, entre março e julho de 2006, guiado por sinais, visita três continentes - Europa, África e Ásia - lançando-se em uma jornada através do tempo e do espaço, do passado e do presente, em busca de si mesmo.</p> <p>Ao longo da viagem, Paulo vai, pouco a pouco, saindo do seu isolamento, se despindo do ego e do orgulho e se abrindo à amizade, ao amor, à fé e ao perdão, sem medo de enfrentar os desafios inerentes à vida.</p> <p>Da mesma maneira que o pastor Santiago em O alquimista, o escritor descobre que é preciso ir para longe a fim de compreender o que está perto. A peregrinação o faz se sentir vivo novamente, capaz de enxergar o mundo com olhos de criança e de encontrar Deus nos pequenos gestos cotidianos.</p> <p>\"A viagem não foi para encontrar a resposta que estava faltando na minha vida, mas para voltar a ser rei do meu mundo. Estou de novo conectado comigo e com o universo mágico à minha volta. É isto que faz a vida interessante: acreditar em tesouros e milagres.\"</p>",
+  "sinopse": "O Aleph marca a volta de Paulo Coelho às suas origens, revelando como uma grave crise de fé o levou a explorar um caminho de renovação espiritual. Através de viagens por três continentes, Paulo busca se reconectar com as pessoas e com Deus, enfrentando seus desafios pessoais e redescobrindo a beleza e os milagres da vida.",
+  "exemplar_id": 1489,
+  "sku": "LI00WK",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/paulo-coelho--o-aleph--capa--20250401--115742.jpg",
+  "contracapa": "static/uploads/paulo-coelho--o-aleph--contracapa--20250401--115742.jpg",
+  "fotos": [
+    "static/uploads/paulo-coelho--o-aleph--foto1--20250401--115742.jpg",
+    "static/uploads/paulo-coelho--o-aleph--foto2--20250401--115742.jpg",
+    "static/uploads/paulo-coelho--o-aleph--foto3--20250401--115742.jpg",
+    "static/uploads/paulo-coelho--o-aleph--foto4--20250401--115742.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco  amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:25:06",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 445,
+  "autor": "Stephenie Meyer",
+  "titulo": "Eclipse",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção fantástica. Romance. Autoconhecimento.",
+  "palavras_chave": "meyer eclipse",
+  "edicao_id": 430,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 446,
+  "peso": 450,
+  "isbn": "9788598078410",
+  "editora": "Intrínseca",
+  "numero_edicao": 2,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"No silêncio mortal, todos os detalhes de repente se encaixaram, numa explosão de intuição.</p> <p>Havia algo que Edward não queria que eu soubesse. Algo que Jacob não teria escondido de mim. Algo que pôs tanto os Cullen quanto os lobos no bosque, movendo-se juntos numa proximidade perigosa. (...) Algo que eu, de algum modo, esperava. Que eu sabia que aconteceria de novo, tanto quanto desejava que jamais acontecesse.</p> <p>Nunca teria um fim, teria?\"</p> <p>O terceiro livro da série que vendeu mais de 70 milhões de exemplares em todo o mundo.</p> <p>Primeiro lugar na lista dos mais vendidos do The New York Times.</p> <p>★ \"Stephenie Meyer inunda a página como uma artéria cortada. (...) O modo como lida com a curiosidade do leitor, mantendo a tensão e controlando o fluxo de informações, é simplesmente excepcional. Cria uma compulsão no leitor quase vampírica.\"</p> <p>Time</p> <p>★ \"A série de Meyer ferve com a atração das paixões proibidas somadas ao tempero inebriante do sobrenatural.\"</p> <p>The New York Times</p> <p>★ \"Com os vampiros de Crepúsculo, Stephenie Meyer se torna a mais badalada autora de fantasia do mundo.\"</p> <p>O Globo</p>",
+  "sinopse": "No terceiro livro da série, Bella Swan se vê dividida entre Edward e Jacob em uma trama repleta de segredos e perigos. Enquanto a tensão aumenta, ela percebe que a verdade que Edward esconde pode mudar tudo. O livro explora questões de amor, lealdade e o inevitável confronto com o sobrenatural, mantendo os leitores ansiosos por mais.",
+  "exemplar_id": 429,
+  "sku": "LI00BC",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/stephenie-meyer--eclipse--capa--20250226--133829.jpg",
+  "contracapa": "static/uploads/stephenie-meyer--eclipse--contracapa--20250226--133829.jpg",
+  "fotos": [
+    "static/uploads/stephenie-meyer--eclipse--foto1--20250226--133829.jpg",
+    "static/uploads/stephenie-meyer--eclipse--foto2--20250226--133829.jpg",
+    "static/uploads/stephenie-meyer--eclipse--foto3--20250226--133829.jpg",
+    "static/uploads/stephenie-meyer--eclipse--foto4--20250226--133829.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:46:55",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1285,
+  "autor": "Helena Costa L. de Freitas",
+  "titulo": "O trabalho como princípio articulador na prática de ensino e nos estágios",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Trabalho. Pedagogia.",
+  "palavras_chave": "freitas trabalho principio articulador pratica ensino estagios",
+  "edicao_id": 1269,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 248,
+  "peso": 300,
+  "isbn": "9788530803940",
+  "editora": "Papirus",
+  "numero_edicao": 5,
+  "ano": 1996,
+  "serie": "Magistério Formação e Trabalho Pedagógico",
+  "volume": null,
+  "transcricao_contracapa": "<p>“A compreensão de que a unidade entre ensino e trabalho é um dos mais poderosos meios de transformação da sociedade atual, tal como formulada por Marx, traz inúmeros desafios para a área educacional que tem aprofundado seus estudos sobre a relação trabalho-educação e escola-trabalho.”</p><p>Com base em sua experiência como professora da disciplina Prática de ensino e estágios na habilitação magistério, a autora analisa o desenvolvimento dessa disciplina, no contexto das discussões sobre a pedagogia, recuperando os estudos dos últimos 20 anos na área, os documentos de encontros de educação (como Anfope e Conarcf) e as propostas de reformulação do curso de pedagogia.</p>",
+  "sinopse": "O livro explora a relação entre ensino e trabalho na educação, destacando a importância dos desafios educacionais contemporâneos. A autora compartilha suas experiências como professora e analisa o desenvolvimento da disciplina Prática de ensino dentro do contexto pedagógico, considerando discussões e propostas recentes de reformulação no curso de pedagogia.",
+  "exemplar_id": 1268,
+  "sku": "LI00QP",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/helena-costa-l--de-freitas--o-trabalho-como-princ-pio-articulador-na-pr-tica-de-ensino-e-nos-est-gios--capa--20250401--114905.png",
+  "contracapa": "static/uploads/helena-costa-l--de-freitas--o-trabalho-como-princ-pio-articulador-na-pr-tica-de-ensino-e-nos-est-gios--contracapa--20250401--114905.png",
+  "fotos": [
+    "static/uploads/helena-costa-l--de-freitas--o-trabalho-como-princ-pio-articulador-na-pr-tica-de-ensino-e-nos-est-gios--foto1--20250401--114905.jpg",
+    "static/uploads/helena-costa-l--de-freitas--o-trabalho-como-princ-pio-articulador-na-pr-tica-de-ensino-e-nos-est-gios--foto2--20250401--114905.jpg",
+    "static/uploads/helena-costa-l--de-freitas--o-trabalho-como-princ-pio-articulador-na-pr-tica-de-ensino-e-nos-est-gios--foto3--20250401--114905.jpg",
+    "static/uploads/helena-costa-l--de-freitas--o-trabalho-como-princ-pio-articulador-na-pr-tica-de-ensino-e-nos-est-gios--foto4--20250401--114905.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. / Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:45:21",
+  "observacoes": "procedencia_biblioteca"
+}

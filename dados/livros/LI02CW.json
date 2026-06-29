@@ -1,0 +1,68 @@
+{
+  "obra_id": 3565,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Terror. Suspense. Amizade. Destinos cruzados.",
+  "palavras_chave": "oshimi happiness volume",
+  "edicao_id": 3542,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788583621997",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p><b>Yuuki</b> desaparece do <b>hospital</b> após <b>atacar</b> sua mãe. <b>Makoto</b> descobre que ele foi levado por <b>homens desconhecidos</b>, mas consegue salvá-lo quando estava <b>prestes a ser morto</b>.</p><p><b>Os dois</b> vão atrás de <b>Nora</b> em busca de <b>ajuda</b>, mas Yuuki é <b>rejeitado</b> e <b>atacado</b> por ela! Mas <b>Makoto</b> interrompe a <b>luta</b> dos dois.</p><p>Yuuki, que <b>mudou de repente</b>, vai <b>embora</b> deixando para trás Makoto e Nora. Para <b>onde</b> ele estará indo?</p><p>Os <b>dois garotos</b>, que compartilham o mesmo <b>destino</b>, começam a seguir caminhos <b>diferentes</b>...</p>",
+  "sinopse": "Yuuki desaparece do hospital após atacar sua mãe e Makoto descobre que ele foi levado por homens desconhecidos, conseguindo salvá-lo no último momento. Os dois procuram Nora em busca de ajuda, mas Yuuki é rejeitado e atacado por ela, até que Makoto interrompe a luta. Após mudar repentinamente, Yuuki vai embora, deixando Makoto e Nora para trás, e os dois garotos, ligados pelo destino, começam a seguir caminhos diferentes.",
+  "exemplar_id": 3541,
+  "sku": "LI02CW",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2025-11-05_16-16-42-920932.jpg",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2025-11-05_16-16-43-068947.jpg",
+  "fotos": [
+    "static/uploads/happiness__shuzo-oshimi__foto-01__2025-11-05_16-16-43-198507.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-02__2025-11-05_16-16-43-235840.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-03__2025-11-05_16-16-43-262187.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-04__2025-11-05_16-16-43-296923.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:45:55",
+  "observacoes": null
+}

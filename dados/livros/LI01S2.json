@@ -1,0 +1,63 @@
+{
+  "obra_id": 2810,
+  "autor": "Moacyr Scliar",
+  "titulo": "O tio que flutuava",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "scliar tio que flutuava",
+  "edicao_id": 2790,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 64,
+  "peso": 150,
+  "isbn": "9788508030149",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Ao acordar, a mulher não encontra o marido ao seu lado e, intrigada, o descobre levitando junto ao teto. Esse estranho fenômeno leva um cidadão comum a vivenciar situações inusitadas e divertidas. O episódio, que marcou a infância do narrador, é agora contado ao seu filho. Misturando fantasia e realidade, a história apresenta personagens curiosos como um piloto com medo de voar, uma feiticeira, um médico desmemoriado e uma garota encantadora. Moacyr Scliar evoca a magia da infância, onde o impossível parece possível.",
+  "exemplar_id": 2789,
+  "sku": "LI01S2",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-tio-que-flutuava-moacyr-scliar-capa_rev1589.jpg",
+  "contracapa": "static/uploads/o-tio-que-flutuava-moacyr-scliar-contracapa_rev482.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:45:16",
+  "observacoes": null
+}

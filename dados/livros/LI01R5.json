@@ -1,0 +1,63 @@
+{
+  "obra_id": 2777,
+  "autor": "Hécton H. Bruit",
+  "titulo": "O Imperialismo",
+  "subtitulo": "Coleção Discutindo a História",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "bruit imperialismo colecao discutindo",
+  "edicao_id": 2757,
+  "encadernacao": null,
+  "quantidade_paginas": 79,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Atual / Unicamp",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2756,
+  "sku": "LI01R5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-imperialismo-hecton-h-bruit-capa_rev254.jpg",
+  "contracapa": "static/uploads/o-imperialismo-hecton-h-bruit-contracapa_rev56.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Conservação regular. Papel amarelado, últimas páginas com sinal de corrosão deixado por traça. Texto em bom estado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:22:13",
+  "observacoes": null
+}

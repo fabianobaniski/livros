@@ -1,0 +1,68 @@
+{
+  "obra_id": 2163,
+  "autor": "Antonio Zoratto Sanvicente",
+  "titulo": "Administração financeira",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Administração financeira. Finanças empresariais. Ensino superior.",
+  "palavras_chave": "sanvicente administracao financeira",
+  "edicao_id": 2143,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 283,
+  "peso": 485,
+  "isbn": "9788522402212",
+  "editora": "Atlas",
+  "numero_edicao": 3,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>ADMINISTRAÇÃO FINANCEIRA</b> <p>Este livro visa atender às necessidades dos cursos de graduação em Administração de Empresas e Ciências Contábeis. Atende ainda às exigências básicas do administrador profissional, dando-lhe bases para a discussão e a análise de problemas de administração financeira encontráveis em empresas de setores de atividade dos mais diversos, porque tratados com base em uma visão geral e analítica, não descritiva ou institucional.</p> <p>Desde sua primeira edição, a elaboração deste texto procurou atender a dois objetivos: submeter a matéria a um tratamento introdutório, embora rigoroso, dos pontos de vista conceitual e técnico; e aproximar os modelos teóricos e analíticos disponíveis da realidade observada no sistema financeiro nacional e das disposições legais em vigor no país. Quanto ao segundo objetivo, cabe notar que ainda hoje a literatura especializada para o ensino da Administração Financeira no Brasil é preponderantemente resultante de traduções. A despeito da rigorosa fundamentação teórica que em geral caracteriza a literatura disponível, há em certos casos afastamentos em relação às práticas e às operações observadas no país. Um dos motivos que levaram à preparação deste texto foi atender às exigências de maior adaptação nos estudos de finanças às situações reais do país, notadamente no que diz respeito às fontes alternativas de financiamento.</p> <b>NOTA SOBRE O AUTOR</b> <p>ANTONIO ZORATTO SANVICENTE é professor de Administração Financeira da Faculdade de Economia, Administração e Contabilidade da Universidade de São Paulo (FEA-USP). É graduado em Ciências Econômicas pela Universidade de São Paulo, mestre em Administração por Vanderbilt University, Ph.D. em Administração (Finanças) pela Stanford University e foi professor visitante na University of Michigan. Autor de livros sobre <b>empresas multinacionais e orçamento empresarial</b> e de artigos sobre finanças, publicados no Brasil e no exterior. Autor dos livros <i>Mercado de capitais e estratégias de investimento</i> e <i>Orçamento na administração de empresas</i>, publicados pela Atlas.</p> <b>APLICAÇÃO</b> <p>Livro-texto para a disciplina ADMINISTRAÇÃO FINANCEIRA dos cursos de Administração de Empresas e Ciências Contábeis. Indicado para programas básicos de treinamento profissional.</p> <p><b>publicação atlas</b></p><p>www.EditoraAtlas.com.br</p>",
+  "sinopse": "Este livro atende às necessidades dos cursos de Administração de Empresas e Ciências Contábeis, assim como às exigências do administrador profissional. Oferece uma abordagem introdutória, conceitual e técnica da administração financeira, conectando teoria e prática à realidade empresarial brasileira. Destaca a adaptação dos estudos de finanças às circunstâncias locais e é recomendado tanto como livro-texto acadêmico quanto para o treinamento profissional.",
+  "exemplar_id": 2142,
+  "sku": "LI01A4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/antonio-zoratto-sanvicente--administra--o-financeira--capa--20250430--104759.jpg",
+  "contracapa": "static/uploads/antonio-zoratto-sanvicente--administra--o-financeira--contracapa--20250430--104759.jpg",
+  "fotos": [
+    "static/uploads/antonio-zoratto-sanvicente--administra--o-financeira--foto1--20250430--104759.jpg",
+    "static/uploads/antonio-zoratto-sanvicente--administra--o-financeira--foto2--20250430--104759.jpg",
+    "static/uploads/antonio-zoratto-sanvicente--administra--o-financeira--foto3--20250430--104759.jpg",
+    "static/uploads/antonio-zoratto-sanvicente--administra--o-financeira--foto4--20250430--104759.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 18:59:36",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 735,
+  "autor": "Antonio Gilberto",
+  "titulo": "Manual da escola dominical",
+  "subtitulo": "O curso de treinamento para professores iniciantes e de atualização",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Educação religiosa. Formação de professores. Estudos bíblicos.",
+  "palavras_chave": "gilberto manual escola dominical",
+  "edicao_id": 720,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 264,
+  "peso": 350,
+  "isbn": "9788526312401",
+  "editora": "CPAD",
+  "numero_edicao": 18,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O curso de treinamento para professores iniciantes e de atualização</p> <ul> <li>Proporcionar conhecimentos básicos aos professores iniciantes;</li> <li>Reforçar a bagagem cultural dos veteranos.</li> <li>Aumentar a capacidade de ensino dos que se dedicam ao ministério da Palavra.</li> </ul> <p>Eis os objetivos principais deste livro, que proporciona ainda ricos subsídios nas áreas do pastorado, pregação, didática, história, geografia e usos e costumes dos tempos bíblicos.</p> <p>Este compêndio, fruto de 35 anos de observações e experiências do autor, obedece a um plano previamente elaborado, cujo propósito maior é facilitar a consulta e o estudo sistemático da Palavra de Deus.</p>",
+  "sinopse": "Este manual oferece um curso de treinamento essencial para professores iniciantes e veteranos da escola dominical. Com o intuito de ampliar conhecimentos e experiências no ministério da Palavra, o livro aborda técnicas de ensino, aspectos da didática e subsídios variados sobre o contexto bíblico, visando a formação integral do educador cristão.",
+  "exemplar_id": 719,
+  "sku": "LI00JE",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/antonio-gilberto--manual-da-escola-dominical--capa--20250227--152901.jpg",
+  "contracapa": "static/uploads/antonio-gilberto--manual-da-escola-dominical--contracapa--20250227--152901.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Há um leve enrugamento das folhas, talvez por conta de leve contato com umidade. Fora isso, o livro está em ótimo estado. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:37:44",
+  "observacoes": null
+}

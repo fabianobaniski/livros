@@ -1,0 +1,68 @@
+{
+  "obra_id": 2027,
+  "autor": "Luís Fernando Soares Zuin; Timóteo Ramos Queiroz",
+  "titulo": "Agronegócios",
+  "subtitulo": "Gestão e inovação",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Agronegócio. Inovação tecnológica. Gestão de cadeias produtivas.",
+  "palavras_chave": "zuin agronegocios gestao inovacao",
+  "edicao_id": 2007,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 436,
+  "peso": 1000,
+  "isbn": "9788502058071",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O livro <b>Agronegócios: Gestão e Inovação</b> aborda alguns dos mais importantes temas da atualidade para o agronegócio nacional e internacional. Grosso modo, pode-se dizer que o livro divide seus capítulos entre a apresentação de conceitos e de métodos de análise que se originam nas áreas da gestão e da economia. Essa abordagem de entendimento e intervenção é muito interessante e atual no estudo dos agronegócios.</p><p>Além de conceitos básicos relacionados com a definição dos sistemas agroindustriais, os autores enfatizam aspectos do agronegócio relacionados à inovação tecnológica, à coordenação das cadeias produtivas e às várias áreas de gestão (marketing, controle de custos etc.). Deve-se ressaltar que a maioria dos capítulos alia a apresentação da teoria com casos práticos que as ilustram. Essa preocupação facilita sobremaneira o entendimento dos conceitos apresentados ao leitor.</p><p>Assim, esta coletânea de textos pode ser útil a várias disciplinas dos cursos de Agronegócio existentes em todo o país. Esses cursos criados no Brasil recentemente poderão contar com mais esta fonte de consultas e informações. A maioria dos autores dos capítulos do livro desenvolveu ou desenvolve suas pesquisas no âmbito do Grupo de Estudos e Pesquisas Agroindustriais (Gepai) da Universidade Federal de São Carlos.</p><p>São algumas dessas pesquisas de mestrado e doutorado que ilustram a parte empírica dos capítulos. O Gepai desenvolve pesquisas e presta assessorias a instituições (públicas e privadas) do agronegócio nacional e internacional há mais de doze anos. Desta forma, como coordenador do Gepai, é um prazer ver que as sementes que plantamos há alguns anos começam a dar seus frutos. Os autores estão de parabéns pela iniciativa. Sucesso a todos e ao livro!</p><p><b>Prof. Dr. Mário Otávio Batalha</b><br>Coordenador do Gepai e Prof. do PPG-EP da UFSCar.</p>",
+  "sinopse": "O livro aborda temas centrais para o agronegócio nacional e internacional, dividindo seus capítulos entre conceitos e métodos de análise nas áreas de gestão e economia. Apresenta inovações tecnológicas, coordenação de cadeias produtivas e áreas como marketing e controle de custos, sempre ilustrando a teoria com casos práticos. É uma fonte de referência para disciplinas dos cursos de Agronegócio no Brasil, reunindo pesquisas e experiências do Grupo de Estudos e Pesquisas Agroindustriais (Gepai) da UFSCar.",
+  "exemplar_id": 2006,
+  "sku": "LI016C",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/lu-s-fernando-soares-zuin--agroneg-cios--capa--20250430--104320.jpg",
+  "contracapa": "static/uploads/lu-s-fernando-soares-zuin--agroneg-cios--contracapa--20250430--104320.jpg",
+  "fotos": [
+    "static/uploads/lu-s-fernando-soares-zuin--agroneg-cios--foto1--20250430--104320.jpg",
+    "static/uploads/lu-s-fernando-soares-zuin--agroneg-cios--foto2--20250430--104321.jpg",
+    "static/uploads/lu-s-fernando-soares-zuin--agroneg-cios--foto3--20250430--104321.jpg",
+    "static/uploads/lu-s-fernando-soares-zuin--agroneg-cios--foto4--20250430--104321.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:44:58",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5003,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Vampiros. Aventura.",
+  "palavras_chave": "akamatsu holder",
+  "edicao_id": 4978,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9786555942637",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "UQ Holder",
+  "volume": 23,
+  "transcricao_contracapa": "<p>“Não vai tocando assim no meu Kuromaru!”</p> <p>Após derrotar o Baal, o Vampiro Ancestral, a UQ Holder decide tirar um tempo para curtir. Touta convida Kuromaru para um “encontro”, mas diante dos dois surge um clã que considera Kuromaru como o “Inimigo Supremo”</p> <p>Do mesmo autor de Love Hina e Negima!</p>",
+  "sinopse": "Após derrotar Baal, o Vampiro Ancestral, a UQ Holder decide relaxar. Touta convida Kuromaru para um encontro, mas um clã inimigo surge, vendo Kuromaru como o Inimigo Supremo.",
+  "exemplar_id": 4977,
+  "sku": "LI02QL",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-35-818573-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-35-910945-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 888,
+  "autor": "Kevin J. Conner",
+  "titulo": "Os segredos do templo de Salomão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia. História bíblica.",
+  "palavras_chave": "conner segredos templo salomao",
+  "edicao_id": 873,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 286,
+  "peso": 350,
+  "isbn": "9788576070504",
+  "editora": "Atos",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Muitas verdades já foram descobertas, mas ainda há muito para descobrir sobre o poder de Deus e toda sua graça. Procurar pelas verdades, escondidas é mais que um prazer; é uma obrigação de todo cristão. E, interpretar a Palavra de Deus é o passo essencial para encontrar os grandes tesouros deixados pelo Pai.</p>\r\n<p>Os Segredos do Templo de Salomão é o terceiro livro da Série Segredos Bíblicos da Editora Atos. Página por página você saberá como os antigos hebreus adoravam a Deus em esplendor e glória. Poderá descobrir a ordem da adoração no Templo de Salomão e examinar as diferenças que se separaram dos Tabernáculos de Moisés e Davi.</p>\r\n<p>Nesta abrangente obra sobre a época do rei Salomão, Kevin J. Conner nos oferece também uma visão cronológica do Templo, desde o esboço inicial até a sua conclusão. Revelações serão feitas sobre os sacrifícios oferecidos no Templo e o uso e o simbolismo de cada peça nele incluída. Além disso, um magnífico quadro do plano de Redenção é apresentado tendo como base essa imponente edificação do mundo antigo.</p>\r\n<p>Professor ou estudioso, não importa. Os Segredos do Templo de Salomão é para quem deseja adquirir na Palavra ainda mais instrumentos para estar cada vez mais próximo do que o Pai espera de nós.</p>",
+  "sinopse": "Este livro aborda a adoração a Deus pelos antigos hebreus, explorando o Templo de Salomão em detalhes. Kevin J. Conner proporciona uma visão cronológica do Templo e revela diferenças significativas em relação aos Tabernáculos de Moisés e Davi. A obra também discute os sacrifícios e o simbolismo de cada peça do Templo, além de apresentar um quadro do plano de Redenção.",
+  "exemplar_id": 872,
+  "sku": "LI00NI",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/kevin-j--conner--os-segredos-do-templo-de-salom-o--capa--20250227--152911.jpg",
+  "contracapa": "static/uploads/kevin-j--conner--os-segredos-do-templo-de-salom-o--contracapa--20250227--152911.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:26:21",
+  "observacoes": null
+}

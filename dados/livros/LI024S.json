@@ -1,0 +1,68 @@
+{
+  "obra_id": 3270,
+  "autor": "Cuvie",
+  "titulo": "Hakoiri",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá erótico. Conteúdo adulto.",
+  "palavras_chave": "cuvie hakoiri",
+  "edicao_id": 3250,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 170,
+  "isbn": "7897780166506",
+  "editora": "Sampa",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3249,
+  "sku": "LI024S",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/hakoiri__cuvie__capa__2025-11-05_16-24-45-521205.jpg",
+  "contracapa": "static/uploads/hakoiri__cuvie__contracapa__2025-11-05_16-24-45-556362.jpg",
+  "fotos": [
+    "static/uploads/hakoiri__cuvie__foto-01__2025-11-05_16-24-45-592785.jpg",
+    "static/uploads/hakoiri__cuvie__foto-02__2025-11-05_16-24-45-622444.jpg",
+    "static/uploads/hakoiri__cuvie__foto-03__2025-11-05_16-24-45-648149.jpg",
+    "static/uploads/hakoiri__cuvie__foto-04__2025-11-05_16-24-45-675052.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:49:51",
+  "observacoes": null
+}

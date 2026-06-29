@@ -1,0 +1,63 @@
+{
+  "obra_id": 913,
+  "autor": "Joshua Harris",
+  "titulo": "Cave mais fundo",
+  "subtitulo": "Em que você acredita? Por que isso importa?",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Teologia.",
+  "palavras_chave": "harris cave fundo",
+  "edicao_id": 898,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 309,
+  "peso": 400,
+  "isbn": "9788581320090",
+  "editora": "Fiel",
+  "numero_edicao": 2,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Sobre o que você edificará sua vida?</h1> <p>As reflexões sérias, envolventes e até cômicas de Harris sobre as crenças cristãs mostram que a ortodoxia não é apenas para eruditos. Como Harris escreve: \"Cheguei a aprender que a teologia é importante. É importante porque o que sabemos a respeito de Deus molda a maneira como pensamos e vivemos. A teologia é importante porque, se a entendermos de modo errado, toda a nossa vida será errada\". Enquanto Harris o desafia a arraigar sua fé e sentimentos para com Deus na pessoa, obra e palavras de Jesus, ele responde a perguntas como estas:</p> <ul> <li>Como é Deus e como ele fala comigo?</li> <li>O fato de que Jesus é tanto humano como divino faz alguma diferença?</li> <li>Como a morte de Jesus, na cruz, paga a penalidade dos meus pecados?</li> <li>Quem é o Espírito Santo e como ele opera em minha vida?</li> </ul> <p>Se você está apenas começando no cristianismo ou já é um crente veterano, este livro o ajudará a descobrir as verdades eternas da Escritura.</p>",
+  "sinopse": "O livro 'Cave Mais Fundo' apresenta reflexões profundas e acessíveis sobre a ortodoxia cristã, questionando crenças fundamentais. Joshua Harris busca estimular os leitores a aprofundarem sua compreensão sobre Deus, Jesus e o Espírito Santo, abordando questões cruciais da fé e da teologia, para que cada um possa edificar suas vidas sobre verdades eternas.",
+  "exemplar_id": 897,
+  "sku": "LI00O7",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 98.0,
+  "capa": "static/uploads/joshua-harris--cave-mais-fundo--capa--20250227--152913.jpg",
+  "contracapa": "static/uploads/joshua-harris--cave-mais-fundo--contracapa--20250227--152913.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Bordas amareladas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:38:52",
+  "observacoes": null
+}

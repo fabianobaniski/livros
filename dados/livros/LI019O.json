@@ -1,0 +1,68 @@
+{
+  "obra_id": 2147,
+  "autor": "A. A. Groppelli; Ehsan Nikbakht",
+  "titulo": "Administração financeira",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Finanças. Educação profissional.",
+  "palavras_chave": "groppelli administracao financeira",
+  "edicao_id": 2127,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 496,
+  "peso": 800,
+  "isbn": "9788502083509",
+  "editora": "Saraiva",
+  "numero_edicao": 3,
+  "ano": 2010,
+  "serie": "Série Essencial",
+  "volume": null,
+  "transcricao_contracapa": "<p>Para atuar no mundo dos negócios, conhecer finanças é essencial. A combinação entre teoria e prática tornou-se instrumento importante de aprimoramento de tecnologias cada vez mais complexas, comuns e essenciais em uma área em constante mudança e evolução. Escrito por professores de Finanças da Hofstra University, a segunda edição de ADMINISTRAÇÃO FINANCEIRA oferece um moderno guia sobre a disciplina acadêmica mais popular do mundo.</p> <p>O livro combina a profundidade característica do tema com a didática necessária ao entendimento dos conceitos por alunos e profissionais. Em seus 21 capítulos, esclarece conceitos, explica como funciona o mercado financeiro e os tipos de empresas que o compõem, aborda cálculo de riscos e retorno, discute o mercado de ações, analisa demonstrativos financeiros, apresenta os softwares mais usados, entre outros temas. É indicado para estudantes e profissionais de Administração, Economia e áreas afins. Traz ainda um apêndice com tabelas financeiras e glossário dos termos mais utilizados em finanças.</p> <b>APLICAÇÃO:</b> Este livro pode ser utilizado nas seguintes disciplinas: Administração Financeira, Análise de Investimentos e Mercado de Capitais.",
+  "sinopse": "Este livro apresenta um guia moderno e aprofundado sobre finanças, combinando teoria e prática para facilitar o entendimento de conceitos essenciais por alunos e profissionais. Abrange temas como mercado financeiro, tipos de empresas, cálculo de riscos e retorno, mercado de ações, análise de demonstrativos financeiros e os softwares mais usados. Indicado para estudantes e profissionais de Administração e Economia, inclui ainda tabelas financeiras e glossário de termos comuns em finanças.",
+  "exemplar_id": 2126,
+  "sku": "LI019O",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/a--a--groppelli--administra--o-financeira--capa--20250430--104625.jpg",
+  "contracapa": "static/uploads/a--a--groppelli--administra--o-financeira--contracapa--20250430--104625.jpg",
+  "fotos": [
+    "static/uploads/a--a--groppelli--administra--o-financeira--foto1--20250430--104625.jpg",
+    "static/uploads/a--a--groppelli--administra--o-financeira--foto2--20250430--104625.jpg",
+    "static/uploads/a--a--groppelli--administra--o-financeira--foto3--20250430--104625.jpg",
+    "static/uploads/a--a--groppelli--administra--o-financeira--foto4--20250430--104625.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:03:29",
+  "observacoes": "procedencia_biblioteca"
+}

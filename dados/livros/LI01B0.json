@@ -1,0 +1,68 @@
+{
+  "obra_id": 2195,
+  "autor": "Dalvio José Bertó; Rolando Beulke",
+  "titulo": "Gestão de custos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Gestão de custos. Contabilidade. Administração. Economia.",
+  "palavras_chave": "berto gestao custos",
+  "edicao_id": 2175,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 390,
+  "peso": 650,
+  "isbn": "9788502051249",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Gestão de custos</h1> <p>Desenvolvido para acadêmicos e profissionais de Administração, Economia, Ciências Contábeis e áreas afins, Gestão de Custos apresenta o tema de maneira diferenciada por se distinguir da abordagem americana, frequentemente encontrada no mercado. Outro atributo a ser destacado é a atenção dada ao setor de comércio, assunto tratado de forma superficial em outros livros.</p> <p>O volume está estruturado em cinco partes com base nos recursos conceituais e técnicos, amplamente abordados, aprofundando questões práticas do dia-a-dia das empresas em diversas direções. Temas como custo-padrão e gestão participativa se destacam pela atualidade do cenário econômico brasileiro, que promete para os próximos anos economia estável.</p> <p>O projeto editorial inovador possibilita o leitor cadastrado ter acesso a novos conteúdos, na forma de capítulos complementares, além de focar modelos numéricos específicos, destinados à aplicação no meio industrial, serviços e comercial.</p> <p>Fundamental para o desenvolvimento da contabilidade brasileira, os autores dedicam ainda um capítulo completo ao comércio eletrônico, atendendo a uma necessidade que repercute no meio empresarial: a inserção digital dos agentes econômicos.</p> <hr> <b>APLICAÇÃO:</b> <br> Este livro pode ser utilizado nas seguintes disciplinas: Gestão de Custos, Contabilidade de Custos.",
+  "sinopse": "Voltado para acadêmicos e profissionais das áreas de Administração, Economia e Ciências Contábeis, este livro apresenta a gestão de custos com uma abordagem diferenciada, destacando-se da visão americana predominante. Estruturado em cinco partes, explora recursos conceituais e técnicos, com ênfase em práticas empresariais e temas atuais como custo-padrão e gestão participativa. O volume também aborda a aplicação em setores industriais, de serviços e comerciais, incluindo um capítulo sobre comércio eletrônico e a inserção digital no meio empresarial.",
+  "exemplar_id": 2174,
+  "sku": "LI01B0",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/dalvio-jos--bert---gest-o-de-custos--capa--20250430--105056.jpg",
+  "contracapa": "static/uploads/dalvio-jos--bert---gest-o-de-custos--contracapa--20250430--105056.jpg",
+  "fotos": [
+    "static/uploads/dalvio-jos--bert---gest-o-de-custos--foto1--20250430--105056.jpg",
+    "static/uploads/dalvio-jos--bert---gest-o-de-custos--foto2--20250430--105056.jpg",
+    "static/uploads/dalvio-jos--bert---gest-o-de-custos--foto3--20250430--105056.jpg",
+    "static/uploads/dalvio-jos--bert---gest-o-de-custos--foto4--20250430--105056.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:32:35",
+  "observacoes": "procedencia_biblioteca"
+}

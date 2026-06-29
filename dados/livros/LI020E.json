@@ -1,0 +1,63 @@
+{
+  "obra_id": 3110,
+  "autor": "Nazarethe Fonseca",
+  "titulo": "Alma e Sangue",
+  "subtitulo": "a Rainha dos Vampiros",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": null,
+  "palavras_chave": "fonseca alma sangue rainha",
+  "edicao_id": 3090,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 375,
+  "peso": 500,
+  "isbn": "9788576571179",
+  "editora": "Aleph",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "No livro Alma e Sangue - A Rainha dos Vampiros, Kara Ramos volta triunfante de uma guerra no Egito e se encontra no meio de um triângulo amoroso com Jan Kmam, seu mentor e amante, e Ariel Simon, o rei dos vampiros. Enquanto isso, uma antiga ameaça surge, colocando em risco a trégua entre vampiros e lobisomens. Adversários do rei conspiram para derrubá-lo em um golpe decisivo, criando um clima de terror, intriga e paixão que define a série.",
+  "exemplar_id": 3089,
+  "sku": "LI020E",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado, apenas com levíssimos sinais de uso e dedicatória na primeira folha. Não possui marcas de umidade, exposição ao sol, cheiro de mofo, furo de traça, nem anotações, sublinhados, rabiscos, rasgos ou amassados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:39:26",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

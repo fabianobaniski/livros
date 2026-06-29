@@ -1,0 +1,68 @@
+{
+  "obra_id": 322,
+  "autor": "Sun Tzu",
+  "titulo": "A arte da guerra",
+  "subtitulo": "Por uma estratégia perfeita",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Estratégia. Negócios.",
+  "palavras_chave": "tzu arte guerra estrategia",
+  "edicao_id": 313,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 123,
+  "peso": 200,
+  "isbn": "9788573746402",
+  "editora": "Madras",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Arte da Guerra é um dos maiores tratados de estratégia de todos os tempos. Um livro útil para o homem de negócios, militar, ou para qualquer pessoa empenhada em vencer na vida. Escrito pelo general chinês Sun Tzu, a partir do resultado de sua experiência em suas campanhas, que foram as mais variadas. Para os dias de hoje, os princípios de A Arte da Guerra podem ser aplicados, não apenas nas táticas militares, mas também em quase todos os setores da atividade humana.</p> <p>Os ensinamentos aqui contidos alcançam todos os seres humanos empenhados na batalha diária para o sucesso na luta contra os oponentes do cotidiano moderno, sejam eles colegas de trabalho, concorrentes, chefias, entre outros.</p> <p>Sun Tzu dizia que a Arte da Guerra é de total importância para o Estado; podemos dizer que, para os dias de hoje, a Arte da Guerra é vital para a vida.</p>",
+  "sinopse": "A Arte da Guerra é um clássico da estratégia, útil tanto para negócios quanto para a vida pessoal. O livro, escrito por Sun Tzu, aborda ensinamentos que podem ser aplicados em diversas áreas, demonstrando a relevância da estratégia na batalha diária e em contextos diversos, desde o mundo corporativo até a vida cotidiana.",
+  "exemplar_id": 312,
+  "sku": "LI0087",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/sun-tzu--a-arte-da-guerra--capa--20250226--133819.jpg",
+  "contracapa": "static/uploads/sun-tzu--a-arte-da-guerra--contracapa--20250226--133819.jpg",
+  "fotos": [
+    "static/uploads/sun-tzu--a-arte-da-guerra--foto1--20250226--133819.jpg",
+    "static/uploads/sun-tzu--a-arte-da-guerra--foto2--20250226--133819.jpg",
+    "static/uploads/sun-tzu--a-arte-da-guerra--foto3--20250226--133819.jpg",
+    "static/uploads/sun-tzu--a-arte-da-guerra--foto4--20250226--133819.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta assinatura de ex-dono na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:06:19",
+  "observacoes": null
+}

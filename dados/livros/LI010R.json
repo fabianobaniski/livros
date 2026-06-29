@@ -1,0 +1,68 @@
+{
+  "obra_id": 1825,
+  "autor": "Maria da Luz Calegari; Orlando H. Gemignani",
+  "titulo": "Temperamento e carreira",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Psicologia. Tipos psicológicos. Comportamento humano. Relações interpessoais. Sucesso profissional.",
+  "palavras_chave": "calegari temperamento carreira sucesso",
+  "edicao_id": 1805,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 245,
+  "peso": 310,
+  "isbn": "9788532303219",
+  "editora": "Summus Editorial",
+  "numero_edicao": 4,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Depois de ter lido</b> muita coisa sobre tipos psicológicos, concluo que a diversidade de informações apresentada torna este texto único. Além disso, a linguagem não é enjoativamente teórica nem culinarimente prática. A via média encontrada para tratar o assunto é encantadora.<br><b>PROF. DR. RENÉ LICHT</b><br>Pró-Reitor do Imes e professor de pós-graduação nessa instituição</p><p><b>Trabalhando há anos</b> com tipos psicológicos, tive prazerosas descobertas ao ler este livro. Assim como eu, o leitor se pegará indo de uma página a outra, certamente conquistado pela magia que os autores conseguiram transmitir: “a magia do intangível”, sendo artesão, racional, guardião de seus ideais.<br><b>BEATRIZ TERINELLI</b><br>Diretora da BT & A-Coaching, Argentina</p><p><b>Em meu trabalho</b> nos Estados Unidos e pelo mundo, vi muita gente ampliar o autoconhecimento por meio da teoria de Keirsey. Mas, não consigo pensar em uma forma mais eficaz e encantadora de torná-la compreensível do que este livro, ao abordar a vida de fascinantes celebridades brasileiras.<br><b>CHRISTOPHER CAPPY</b><br>Presidente da Pilot Consulting Corp., Colorado, EUA</p><p><b>Os autores</b> descreveram de maneira simples e clara os tipos de comportamentos e cognição. Destaque-se o modo como ampliaram e exemplificaram sentimentos e emoções. E não o fizeram de forma árida e acadêmica, mas como uma criação derivada de suas experiências de vida e profissionais.<br><b>DRA. DENISE MANFREDI</b><br>Psicóloga e mediadora corporativa</p><p><b>Uma aula</b> fascinante e imperdível. Fica o desafio de aprendermos a ser felizes, construindo e mantendo relacionamentos, respeitando nossas diferenças.<br><b>MALU WEBER</b><br>Gerente Corporativo de Comunicação do Grupo Votorantim</p>",
+  "sinopse": "O livro apresenta uma análise sobre tipos psicológicos, destacando a diversidade de informações de maneira acessível e envolvente. Os autores utilizam exemplos práticos e experiências pessoais para explicar comportamentos, cognição, sentimentos e emoções, proporcionando um entendimento encantador e eficaz da teoria de Keirsey, aplicada ao contexto brasileiro. Destina-se a quem busca autoconhecimento, aprimoramento de relacionamentos interpessoais e compreensão das diferenças para alcançar o sucesso profissional e pessoal.",
+  "exemplar_id": 1804,
+  "sku": "LI010R",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/maria-da-luz-calegari--temperamento-e-carreira--capa--20250430--102952.jpg",
+  "contracapa": "static/uploads/maria-da-luz-calegari--temperamento-e-carreira--contracapa--20250430--102952.jpg",
+  "fotos": [
+    "static/uploads/maria-da-luz-calegari--temperamento-e-carreira--foto1--20250430--102952.jpg",
+    "static/uploads/maria-da-luz-calegari--temperamento-e-carreira--foto2--20250430--102952.jpg",
+    "static/uploads/maria-da-luz-calegari--temperamento-e-carreira--foto3--20250430--102952.jpg",
+    "static/uploads/maria-da-luz-calegari--temperamento-e-carreira--foto4--20250430--102952.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:54:15",
+  "observacoes": "procedencia_biblioteca"
+}

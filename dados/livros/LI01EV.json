@@ -1,0 +1,63 @@
+{
+  "obra_id": 2334,
+  "autor": "Vito Marino",
+  "titulo": "A Idade Média e a criação do Graal",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "marino idade media criacao",
+  "edicao_id": 2314,
+  "encadernacao": null,
+  "quantidade_paginas": 410,
+  "peso": 567,
+  "isbn": "9788536631677",
+  "editora": "Scortecci",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra explora as origens e a evolução das lendas, mitos e tradições sobre o Graal, desde o século XII. Inicialmente inspirado e criado durante este período, o Graal se perpetuou na literatura arturiana, ganhando destaque e sendo imortalizado por diversos poetas e escritores. Nomes como Robert de Boron, Wolfram von Eschenbach, Thomas Malory, Alfred Tennyson, Richard Wagner, Oskar E. Bernhardt e Dan Brown contribuíram para a ascensão e a popularidade do tema, garantindo sua presença contínua na cultura literária e artística.",
+  "exemplar_id": 2313,
+  "sku": "LI01EV",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/vito-marino--a-idade-media-e-a-criacao-do-graal--capa--20260316--100233.jpg",
+  "contracapa": "static/uploads/vito-marino--a-idade-media-e-a-criacao-do-graal--contracapa--20260316--100240.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação! Livro seminovo. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:28:02",
+  "observacoes": null
+}

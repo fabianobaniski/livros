@@ -1,0 +1,63 @@
+{
+  "obra_id": 2718,
+  "autor": "Aparecida Fonseca Moraes",
+  "titulo": "Mulheres da Vila",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "moraes mulheres vila",
+  "edicao_id": 2698,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 283,
+  "peso": 300,
+  "isbn": "9788532615626",
+  "editora": "Vozes",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "No final dos anos 80, as prostitutas começaram a ocupar espaço nos noticiários ao reivindicarem direitos sociais, políticos e civis. Este livro explora a luta das trabalhadoras do sexo, que não devem ser vistas apenas como vítimas ou casos de polícia, mas como protagonistas de uma organização coletiva. A pesquisa realizada na Vila Mimosa, importante reduto de resistência, revela um universo com regras próprias, práticas de prevenção e controle, e a participação ativa no movimento associativo local, desmistificando o trabalho sexual e suas complexidades.",
+  "exemplar_id": 2697,
+  "sku": "LI01PI",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/mulheres-da-vila-aparecida-fonseca-moraes-capa_rev1994.jpg",
+  "contracapa": "static/uploads/mulheres-da-vila-aparecida-fonseca-moraes-contracapa_rev277.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:10:48",
+  "observacoes": null
+}

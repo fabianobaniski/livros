@@ -1,0 +1,63 @@
+{
+  "obra_id": 2948,
+  "autor": "Robert Kirkman; Jay Bonansinga",
+  "titulo": "The walking dead",
+  "subtitulo": "O caminho para Woodbury",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "kirkman the walking dead",
+  "edicao_id": 2928,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 331,
+  "peso": 400,
+  "isbn": "9788501401878",
+  "editora": "Galera Record",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A praga continua a devastar os subúrbios de Atlanta, com Lilly Caul lutando para sobreviver em meio a zumbis cada vez mais violentos. Refugiando-se na cidade murada de Woodbury, ela inicialmente acredita ter encontrado um santuário, protegido pelo carismático Philip Blake, que se autoproclama Governador. No entanto, logo descobre que a realidade em Woodbury é muito mais sombria, com o Governador escondendo intenções sinistras...",
+  "exemplar_id": 2927,
+  "sku": "LI01VW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/the-walking-dead-robert-kirkman-jay-bonansinga-capa_rev94.jpg",
+  "contracapa": "static/uploads/the-walking-dead-robert-kirkman-jay-bonansinga-contracapa_rev621.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, embora amarelado, sobretudo nas bordas, e um pouco marcado pelo uso. Texto livre de anotações, sublinhados, marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:16:43",
+  "observacoes": null
+}

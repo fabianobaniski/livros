@@ -1,0 +1,63 @@
+{
+  "obra_id": 3113,
+  "autor": "Camille Landau; Tiare White",
+  "titulo": "What They Dont Teach You At Film School",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "Cinema",
+  "temas": null,
+  "palavras_chave": "landau what they dont",
+  "edicao_id": 3093,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 243,
+  "peso": 300,
+  "isbn": "0786884770",
+  "editora": "Hyperion New York",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro oferece 161 estratégias práticas para quem deseja fazer filmes sem precisar frequentar uma escola de cinema. Com conselhos acessíveis e cheios de bom humor, ele aborda desde como finalizar um roteiro até lidar com atores ciumentos, equipes rebeldes e investidores impacientes. Recheado de dicas de cineastas experientes, o guia ensina a superar crises e fazer um filme com poucos recursos, seguindo seus próprios termos.",
+  "exemplar_id": 3092,
+  "sku": "LI020H",
+  "preco_estante_virtual": 32.5,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado e com leves marcas de uso. Não apresenta marcas de umidade ou exposição excessiva ao sol, cheiro de mofo, roído de inseto, rasgos, amassados, engruvinhados, nem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:59:45",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

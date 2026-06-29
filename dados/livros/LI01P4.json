@@ -1,0 +1,63 @@
+{
+  "obra_id": 2704,
+  "autor": "Isaac Kopezinski",
+  "titulo": "Mineração X meio ambiente",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biologia",
+  "temas": "",
+  "palavras_chave": "kopezinski mineracao meio ambiente",
+  "edicao_id": 2684,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 103,
+  "peso": 200,
+  "isbn": "9788570255501",
+  "editora": "Ufrgs",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A atividade de mineração, seja a céu aberto ou subterrânea, transforma profundamente o solo, extraindo recursos e deixando rejeitos. Embora o bem extraído sirva às necessidades humanas, ele não retorna ao local de origem, levantando questões sobre o impacto ambiental. Este livro discute como a degradação causada pela mineração pode ser mitigada através da reestruturação do terreno, abordando os principais impactos ambientais, processos modificadores e as legislações que regulam essa prática...",
+  "exemplar_id": 2683,
+  "sku": "LI01P4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mineracao-x-meio-ambiente-isaac-kopezinski-capa_rev995.jpg",
+  "contracapa": "static/uploads/mineracao-x-meio-ambiente-isaac-kopezinski-contracapa_rev993.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Considerações legais, principais impactos ambientais e seus processos modificadores / Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:00:29",
+  "observacoes": null
+}

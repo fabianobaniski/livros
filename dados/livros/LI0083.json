@@ -1,0 +1,68 @@
+{
+  "obra_id": 317,
+  "autor": "Carla Reverbel",
+  "titulo": "Lila no labirinto de Sagitário",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Literatura fantástica.",
+  "palavras_chave": "reverbel lila labirinto sagitario",
+  "edicao_id": 308,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 254,
+  "peso": 350,
+  "isbn": "9788565909150",
+  "editora": "AGE",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Inicialmente concebido como um conto de fadas, <b>Lila no Labirinto de Sagitário</b> guiará o leitor nos surpreendentes estreitos da literatura fantástica, numa experiência vertiginosa e inesquecível.</p>",
+  "sinopse": "Lila no Labirinto de Sagitário, inicialmente concebido como um conto de fadas, proporcionará ao leitor uma jornada pelos surpreendentes caminhos da literatura fantástica, em uma experiência deslumbrante e memorável.",
+  "exemplar_id": 307,
+  "sku": "LI0083",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/carla-reverbel--lila--capa--20250226--133818.jpg",
+  "contracapa": "static/uploads/carla-reverbel--lila--contracapa--20250226--133818.jpg",
+  "fotos": [
+    "static/uploads/carla-reverbel--lila--foto1--20250226--133818.jpg",
+    "static/uploads/carla-reverbel--lila--foto2--20250226--133818.jpg",
+    "static/uploads/carla-reverbel--lila--foto3--20250226--133818.jpg",
+    "static/uploads/carla-reverbel--lila--foto4--20250226--133819.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:24:18",
+  "observacoes": null
+}

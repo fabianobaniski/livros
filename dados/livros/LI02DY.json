@@ -1,0 +1,68 @@
+{
+  "obra_id": 3603,
+  "autor": "Clamp",
+  "titulo": "Chobits",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Relacionamentos humanos e máquinas. Inteligência artificial.",
+  "palavras_chave": "clamp chobits",
+  "edicao_id": 3580,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 215,
+  "isbn": "9788545701026",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p>Os mistérios por trás do passado de Chii estão cada vez mais próximos de serem revelados. Hideki mergulha profundamente no questionamento sobre seus sentimentos pela persocom. Mas, afinal, um ser humano pode amar um ser artificial programável? Mais um clássico do grupo CLAMP retorna em coleção especial, completa em 8 volumes.</p>",
+  "sinopse": "Neste volume de Chobits, os mistérios envolvendo o passado de Chii se intensificam, enquanto Hideki se aprofunda em suas dúvidas sobre seus sentimentos pela persocom. A narrativa questiona se é possível um ser humano amar uma inteligência artificial programável. O grupo CLAMP apresenta mais um capítulo desta coleção especial, completa em 8 volumes.",
+  "exemplar_id": 3579,
+  "sku": "LI02DY",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/chobits__clamp__capa__2025-11-05_16-17-06-798172.jpg",
+  "contracapa": "static/uploads/chobits__clamp__contracapa__2025-11-05_16-17-06-869155.jpg",
+  "fotos": [
+    "static/uploads/chobits__clamp__foto-01__2025-11-05_16-17-06-931739.jpg",
+    "static/uploads/chobits__clamp__foto-02__2025-11-05_16-17-07-006650.jpg",
+    "static/uploads/chobits__clamp__foto-03__2025-11-05_16-17-07-443131.jpg",
+    "static/uploads/chobits__clamp__foto-04__2025-11-05_16-17-07-471585.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:00:43",
+  "observacoes": null
+}

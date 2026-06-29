@@ -1,0 +1,68 @@
+{
+  "obra_id": 194,
+  "autor": "Kimberly Derting",
+  "titulo": "Ecos da morte",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Suspense. Mistério. Adolescência.",
+  "palavras_chave": "derting ecos morte",
+  "edicao_id": 189,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 268,
+  "peso": 300,
+  "isbn": "9788580570809",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "The Body Finder - Livro Um",
+  "volume": null,
+  "transcricao_contracapa": "<p>Violet parou o jet ski e se levantou para enxergar o fundo do lago. Uma luz matizada parecia irradiar embaixo d'água, surgindo de um ponto entre o junco e se propagando ao alcançar a superfície. Ela nunca tinha visto nada parecido, e sabia que o espectro de luz desafiava a própria natureza ao se comportar daquele jeito.</p><p>Aquilo só podia significar uma coisa.</p><p>Havia algo morto ali embaixo.</p>",
+  "sinopse": "Violet, ao se levantar de seu jet ski, percebe uma luz estranha emanando do fundo do lago, indicando a presença de algo não natural. Essa descoberta a leva a uma jornada de mistério e suspense, onde a situação se torna cada vez mais intensa ao indicar que algo maligno está prestes a ser revelado.",
+  "exemplar_id": 188,
+  "sku": "LI004S",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/kimberly-derting--ecos-da-morte--capa--20250226--133804.jpg",
+  "contracapa": "static/uploads/kimberly-derting--ecos-da-morte--contracapa--20250226--133804.jpg",
+  "fotos": [
+    "static/uploads/kimberly-derting--ecos-da-morte--foto1--20250226--133804.jpg",
+    "static/uploads/kimberly-derting--ecos-da-morte--foto2--20250226--133804.jpg",
+    "static/uploads/kimberly-derting--ecos-da-morte--foto3--20250226--133804.jpg",
+    "static/uploads/kimberly-derting--ecos-da-morte--foto4--20250226--133804.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:51:04",
+  "observacoes": null
+}

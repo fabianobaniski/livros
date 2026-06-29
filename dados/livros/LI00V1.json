@@ -1,0 +1,68 @@
+{
+  "obra_id": 1451,
+  "autor": "Içami Tiba",
+  "titulo": "Família de alta performance",
+  "subtitulo": "Conceitos contemporâneos na educação",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Educação. Desenvolvimento pessoal. Relações familiares.",
+  "palavras_chave": "tiba familia alta performance",
+  "edicao_id": 1432,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 271,
+  "peso": 300,
+  "isbn": "9788599362389",
+  "editora": "Integrare",
+  "numero_edicao": 6,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Num mundo de tantas modificações e crises não é mais possível funcionar como sempre o fizemos. Precisamos renovar, reinventar, procurar saídas globais para atingirmos essa nova fase de evolução da humanidade. Este livro se propõe a mostrar alguns caminhos para a família e para nós todos sermos pessoas melhores através da Alta Performance.</p> <p> Muitos dos conceitos que usamos no mundo corporativo, como liderança, meritocracia, hierarquização de prioridades, objetivos e metas, projetos e estratégias de execução podem ser aplicados na educação dos filhos. Seja na criação de um \"Filho Único\", ou dois ou mais \"Filhos Únicos\", não importa.</p> <p>Este livro é comemorativo dos 40 anos de carreira profissional do psiquiatra, psicodramatista e educador Içami Tiba. Família de Alta Performance é o resultado de extensa pesquisa e intensa prática clínica e de consultoria familiar do autor. Para aqueles que leram e praticam Quem Ama, Educa!, este livro, Família de Alta Performance, é seu complemento.</p>",
+  "sinopse": "Em um mundo em constante transformação, o autor propõe caminhos para que famílias alcancem alta performance, explorando conceitos do ambiente corporativo como liderança e meritocracia. O livro oferece uma perspectiva sobre como esses conceitos podem ser aplicados à educação dos filhos, visando o fortalecimento das relações familiares e o desenvolvimento pessoal.",
+  "exemplar_id": 1431,
+  "sku": "LI00V1",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/i-ami-tiba--fam-lia-de-alta-performance--capa--20250401--115734.jpg",
+  "contracapa": "static/uploads/i-ami-tiba--fam-lia-de-alta-performance--contracapa--20250401--115734.jpg",
+  "fotos": [
+    "static/uploads/i-ami-tiba--fam-lia-de-alta-performance--foto1--20250401--115734.jpg",
+    "static/uploads/i-ami-tiba--fam-lia-de-alta-performance--foto2--20250401--115734.jpg",
+    "static/uploads/i-ami-tiba--fam-lia-de-alta-performance--foto3--20250401--115734.jpg",
+    "static/uploads/i-ami-tiba--fam-lia-de-alta-performance--foto4--20250401--115734.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:45:37",
+  "observacoes": null
+}

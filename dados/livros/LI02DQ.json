@@ -1,0 +1,68 @@
+{
+  "obra_id": 3595,
+  "autor": "Cho-Heiwa Busters; Mitsu Izumi",
+  "titulo": "Anohana",
+  "subtitulo": "Ainda não sabemos o nome da flor que vimos naquele dia",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá. Luto. Amizade. Adolescência.",
+  "palavras_chave": "cho-heiwa anohana",
+  "edicao_id": 3572,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "9788545701934",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>No dia seguinte ao que Menma mostrou o “infinito” em fogos de artifício, Jintan retorna ao esconderijo secreto. Quem estava lá era Tsuruko, e ela leva Jintan para fora justificando que há algo que só ele seria capaz de mudar. Quando Jintan, seguindo instruções da amiga, provoca Yukiatsu falando de Menma, a sua reação é totalmente inesperada!</p><p><b>Completo em 3 edições.</b></p>",
+  "sinopse": "Após Menma mostrar o 'infinito' com fogos de artifício, Jintan volta ao esconderijo secreto e encontra Tsuruko, que o incentiva a mudar algo que só ele pode transformar. Seguindo o conselho da amiga, Jintan provoca Yukiatsu ao mencionar Menma, resultando em uma resposta totalmente inesperada. A história explora os laços e dilemas entre os personagens após eventos marcantes do passado.",
+  "exemplar_id": 3571,
+  "sku": "LI02DQ",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__capa__2025-11-05_16-16-59-344496.jpg",
+  "contracapa": "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__contracapa__2025-11-05_16-16-59-383440.jpg",
+  "fotos": [
+    "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__foto-01__2025-11-05_16-16-59-407792.jpg",
+    "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__foto-02__2025-11-05_16-16-59-437160.jpg",
+    "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__foto-03__2025-11-05_16-16-59-461303.jpg",
+    "static/uploads/anohana__ainda-nao-sabemos-o-nome-da-flor-que-vimos-naquele-dia__cho-heiwa-busters-mitsu-izumi__foto-04__2025-11-05_16-16-59-479716.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo! Não acompanha sobrecapa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:59:54",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 82,
+  "autor": "Ernest Hemingway",
+  "titulo": "O sol também se levanta",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura. Guerra. Amor",
+  "palavras_chave": "hemingway sol levantam",
+  "edicao_id": 82,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 264,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Sol Também se Levanta</p><p>Com empolgante sentido humano, o livro narra as desilusões de um grupo de americanos ricos, \"exilados\" em Paris logo após a Primeira Guerra Mundial. Em busca de emoções fortes, vão para a Espanha, onde assistem à <i>fiesta</i>, espetáculo composto de danças, missas, procissões, touradas. No meio da alegria que antecede o retorno ao marasmo habitual, uma sofrida história de amor se desenrola: o amor de Barnes e Brett. Amor frustrado de um mutilado de guerra, touro ferido e incapaz de viver sua própria <i>fiesta</i>.</p>",
+  "sinopse": "O livro narra as desilusões de um grupo de americanos ricos, exilados em Paris logo após a Primeira Guerra Mundial, que vão para a Espanha em busca de emoções e assistem à fiesta, enfrentando amores frustrados e a guerra.",
+  "exemplar_id": 81,
+  "sku": "LI0024",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ernest-hemingway--o-sol-tamb-m-se-levanta--capa--20250226--101600.jpg",
+  "contracapa": "static/uploads/ernest-hemingway--o-sol-tamb-m-se-levanta--contracapa--20250226--101600.jpg",
+  "fotos": [
+    "static/uploads/ernest-hemingway--o-sol-tamb-m-se-levanta--foto1--20250226--101600.jpg",
+    "static/uploads/ernest-hemingway--o-sol-tamb-m-se-levanta--foto2--20250226--101600.jpg",
+    "static/uploads/ernest-hemingway--o-sol-tamb-m-se-levanta--foto3--20250226--101600.jpg",
+    "static/uploads/ernest-hemingway--o-sol-tamb-m-se-levanta--foto4--20250226--101600.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:44:50",
+  "observacoes": null
+}

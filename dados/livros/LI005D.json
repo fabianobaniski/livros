@@ -1,0 +1,68 @@
+{
+  "obra_id": 216,
+  "autor": "Talal Husseini",
+  "titulo": "Paz guerreira",
+  "subtitulo": "O caminho das dezesseis pétalas",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Filosofia. Espiritualidade. Literatura fantástica.",
+  "palavras_chave": "husseini paz guerreira caminho",
+  "edicao_id": 210,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 710,
+  "peso": 1500,
+  "isbn": "978858738961",
+  "editora": "Nova Acrópole",
+  "numero_edicao": 5,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nesta obra épica, atemporal, dois mundos se encontram, num cruzamento bem elaborado de histórias e personagens de diferentes épocas.</p> <p>Em meio a um vasto conteúdo filosófico e a um enredo instigante repleto de personagens bem elaborados que transitam entre a realidade e o sonho, o leitor poderá testemunhar o nascimento de uma civilização, estruturada em eixos formados por virtudes. É a flor de dezesseis pétalas.</p> <p>Guerreiros, mestres e discípulos, damas e cavaleiros se confrontam com vilões, magos negros e criaturas terríveis numa batalha eterna que se trava dentro do coração dos homens, deixando claro que cada um de nós constrói seu próprio destino a cada instante, a cada escolha.</p> <p>A verdadeira guerra se trava no interior. A verdadeira paz é uma Paz Guerreira!</p>",
+  "sinopse": "A obra explora a intersecção entre dois mundos, apresentando uma rica tapeçaria de histórias e personagens. Com um conteúdo filosófico profundo, os leitores são levados a testemunhar a origem de uma civilização através de virtudes representadas em dezesseis pétalas. A narrativa gira em torno de guerreiros, mestres e vilões, em uma batalha interna que reflete escolhas e destinos individuais.",
+  "exemplar_id": 209,
+  "sku": "LI005D",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/talal-husseini--paz-guerreira--capa--20250226--133807.jpg",
+  "contracapa": "static/uploads/talal-husseini--paz-guerreira--contracapa--20250226--133807.jpg",
+  "fotos": [
+    "static/uploads/talal-husseini--paz-guerreira--foto1--20250226--133807.jpg",
+    "static/uploads/talal-husseini--paz-guerreira--foto2--20250226--133807.jpg",
+    "static/uploads/talal-husseini--paz-guerreira--foto3--20250226--133807.jpg",
+    "static/uploads/talal-husseini--paz-guerreira--foto4--20250226--133807.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:54:38",
+  "observacoes": null
+}

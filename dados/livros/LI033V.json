@@ -1,0 +1,63 @@
+{
+  "obra_id": 5714,
+  "autor": "Kenta Shinohara",
+  "titulo": "Astra",
+  "subtitulo": "Lost in Space",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Espaço. Aventura.",
+  "palavras_chave": "shinohara astra lost space",
+  "edicao_id": 5689,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 231,
+  "peso": 230,
+  "isbn": "9786555140248",
+  "editora": "Devir",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Nove adolescentes perdidos no espaço a mais de 5000 anos-luz vão conseguir voltar para casa sozinhos?</p> <p>Após o pesadelo de Shummoor, a Astra chega à terceira paragem da sua viagem, Arispade. O planeta tem muitos alimentos, água e sol, um autêntico paraíso tropical. A tripulação aproveita para relaxar e mesmo Ulgar, o mais reservado do grupo se torna mais falador... até ameaçar Luca com uma arma. Será ele o sabotador da equipe?</p>",
+  "sinopse": "Nove adolescentes perdidos no espaço a mais de 5000 anos-luz enfrentam desafios em Arispade, um paraíso tropical. Após o pesadelo de Shummoor, eles aproveitam o descanso, mas conflitos surgem quando Ulgar, o mais reservado, ameaça Luca. Será Ulgar o sabotador entre eles?",
+  "exemplar_id": 5688,
+  "sku": "LI033V",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/astra__lost-in-space__kenta-shinohara__capa__2026-02-24_13-36-59-174041-000.jpg",
+  "contracapa": "static/uploads/astra__lost-in-space__kenta-shinohara__contracapa__2026-02-24_13-36-59-205145-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Sobrecapa, capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

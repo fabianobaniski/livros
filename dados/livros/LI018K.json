@@ -1,0 +1,68 @@
+{
+  "obra_id": 2107,
+  "autor": "Osni Moura Ribeiro",
+  "titulo": "Contabilidade Intermediária",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Ciências contábeis. Contabilidade intermediária. Operações empresariais. Demonstrações contábeis.",
+  "palavras_chave": "ribeiro contabilidade intermediaria",
+  "edicao_id": 2087,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 424,
+  "peso": 680,
+  "isbn": "9788502077874",
+  "editora": "Saraiva",
+  "numero_edicao": 2,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O livro integra uma série em quatro volumes especialmente dirigida aos estudantes do curso superior de Ciências Contábeis. Este terceiro volume apresenta temas contábeis envolvendo operações típicas aplicadas às empresas em geral, trazendo atividades práticas e testes de exame de suficiência bem como de concursos públicos.</p><p>Traz como temas O plano de contas, Constituição das empresas, Operações com mercadorias, Operações com pessoal, Operações financeiras, Operações com ativo permanente, Tópicos especiais, Operações envolvendo contas de resultado, Apuração, deduções, participações e destinações do resultado e Demonstrações contábeis.</p><p><b>Aplicação</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Contabilidade intermediária e Contabilidade para administradores.</p>",
+  "sinopse": "Este livro faz parte de uma série de quatro volumes voltada aos estudantes do curso superior de Ciências Contábeis. O terceiro volume aborda temas contábeis essenciais para empresas, com atividades práticas e testes para exames de suficiência e concursos públicos. Entre os tópicos tratados estão plano de contas, constituição de empresas, operações com mercadorias, pessoal, financeiras e com ativo permanente, além de demonstrações contábeis e apuração de resultados. É indicado para as disciplinas de Contabilidade Intermediária e Contabilidade para administradores.",
+  "exemplar_id": 2086,
+  "sku": "LI018K",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/osni-moura-ribeiro--contabilidade-intermedi-ria--capa--20250430--104534.jpg",
+  "contracapa": "static/uploads/osni-moura-ribeiro--contabilidade-intermedi-ria--contracapa--20250430--104534.jpg",
+  "fotos": [
+    "static/uploads/osni-moura-ribeiro--contabilidade-intermedi-ria--foto1--20250430--104534.jpg",
+    "static/uploads/osni-moura-ribeiro--contabilidade-intermedi-ria--foto2--20250430--104534.jpg",
+    "static/uploads/osni-moura-ribeiro--contabilidade-intermedi-ria--foto3--20250430--104534.jpg",
+    "static/uploads/osni-moura-ribeiro--contabilidade-intermedi-ria--foto4--20250430--104534.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:47:29",
+  "observacoes": "procedencia_biblioteca"
+}

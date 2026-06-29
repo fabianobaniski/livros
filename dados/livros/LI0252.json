@@ -1,0 +1,68 @@
+{
+  "obra_id": 3280,
+  "autor": "Mika Orie; Makoto Kedouin",
+  "titulo": "Corpse party",
+  "subtitulo": "Musume",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Terror. Sobrenatural. Sobrevivência escolar.",
+  "palavras_chave": "orie corpse party",
+  "edicao_id": 3260,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 190,
+  "isbn": "9788583620037",
+  "editora": "NewPop",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Em 3 edições",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Para finalizar os preparativos do Festival Escolar do Colégio Kisaragi, os alunos Satoshi, Naomi, Yoshiki, Ayumi, Miyu e Yuka ficaram até de noite na escola, mas foram pegos pela garota conhecida por uma lenda que regia aquele local. De repente eles se encontram numa versão antiga de sua escola, caindo aos pedaços.</p><p>Pouco a pouco eles foram envolvidos por acontecimentos aterrorizantes. Será que é possível voltar vivo? E assim começa a viagem para a loucura...</p><p><b>\"Carregado de terror e sensualidade, uma história cheia de aventura, numa corrida pela própria sobrevivência\"</b></p>",
+  "sinopse": "Durante os preparativos para o Festival Escolar do Colégio Kisaragi, um grupo de alunos acaba preso em uma versão antiga e decadente da escola, após serem pegos por uma misteriosa garota ligada a uma lenda local. Envolvidos por acontecimentos aterrorizantes, precisam encontrar uma forma de sobreviver e voltar à realidade, enquanto enfrentam uma corrida repleta de terror, sensualidade e loucura.",
+  "exemplar_id": 3259,
+  "sku": "LI0252",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/corpse-party__musume__mika-orie-makoto-kedouin__capa__2025-11-05_16-24-47-823991.jpg",
+  "contracapa": "static/uploads/corpse-party__musume__mika-orie-makoto-kedouin__contracapa__2025-11-05_16-24-47-845887.jpg",
+  "fotos": [
+    "static/uploads/corpse-party__musume__mika-orie-makoto-kedouin__foto-01__2025-11-05_16-24-47-999053.jpg",
+    "static/uploads/corpse-party__musume__mika-orie-makoto-kedouin__foto-02__2025-11-05_16-24-48-024906.jpg",
+    "static/uploads/corpse-party__musume__mika-orie-makoto-kedouin__foto-03__2025-11-05_16-24-48-053390.jpg",
+    "static/uploads/corpse-party__musume__mika-orie-makoto-kedouin__foto-04__2025-11-05_16-24-48-114871.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:48:12",
+  "observacoes": null
+}

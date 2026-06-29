@@ -1,0 +1,63 @@
+{
+  "obra_id": 3093,
+  "autor": "Rita Garcia",
+  "titulo": "Os Que Vieram de África",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": null,
+  "palavras_chave": "garcia que vieram africa",
+  "edicao_id": 3073,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 270,
+  "peso": 450,
+  "isbn": "9789895560103",
+  "editora": "Oficina do Livro",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Após a independência das colônias, milhares de pessoas chegaram a Portugal, enfrentando uma nova vida marcada pela incerteza e pelo desafio de integração em uma sociedade que muitas vezes os rejeitava. A obra explora histórias de sobrevivência e adaptação desses antigos colonos, que lidaram com a perda de seu passado próspero e a difícil recepção dos portugueses que ficaram.",
+  "exemplar_id": 3072,
+  "sku": "LI01ZX",
+  "preco_estante_virtual": 27.5,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "O Drama da Nova Vida das Famílias Chegadas do Ultramar./ Livro muito bem conservado, possuindo apenas leves sinais de uso ou da passagem do tempo e dedicatória na primeira folha. Não apresenta anotações, sublinhados, rabiscos, rasgos, amassados, marca de umidade, mofo ou exposição excessiva ao sol. Miolo íntegro, sem folhas soltas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:26:07",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

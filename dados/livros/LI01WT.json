@@ -1,0 +1,63 @@
+{
+  "obra_id": 2981,
+  "autor": "Paul Ham",
+  "titulo": "Young Hitler",
+  "subtitulo": "The making of the fürer",
+  "idioma": "Inglês",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "ham young hitler the",
+  "edicao_id": 2961,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 308,
+  "peso": 350,
+  "isbn": "9780857524836",
+  "editora": "Doubleday",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Young Hitler: The Making of the Führer, de Paul Ham, examina a juventude de Adolf Hitler, desvendando as experiências que moldaram seu ódio e sua busca por poder. A partir de sua participação na Primeira Guerra Mundial, onde foi temporariamente cegado, até sua raiva alimentada pela derrota alemã e pelo Tratado de Versalhes, o livro explora os fatores pessoais e sociais que contribuíram para sua ascensão. Ham investiga se Hitler foi uma aberração histórica ou parte de um padrão recorrente de demagogos que exploram o caos e preconceitos humanos para alcançar o poder.",
+  "exemplar_id": 2960,
+  "sku": "LI01WT",
+  "preco_estante_virtual": 65.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/young-hitler-paul-ham-capa_rev1654.jpg",
+  "contracapa": "static/uploads/young-hitler-paul-ham-contracapa_rev383.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso. Capa dura com sobrecapa.,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:06:23",
+  "observacoes": null
+}

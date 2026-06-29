@@ -1,0 +1,68 @@
+{
+  "obra_id": 119,
+  "autor": "Jessica Knoll",
+  "titulo": "Uma garota de muita sorte",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura contemporânea. Suspense. Reinvenção.",
+  "palavras_chave": "knoll garota sorte",
+  "edicao_id": 117,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 380,
+  "isbn": "9788532530110",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Sua vida perfeita é uma perfeita mentira.</p> <p>Aos 28 anos, Ani FaNelli parece ter finalmente alcançado a 'vida perfeita do Instagram'. Mas, em seu íntimo, Ani ainda lida com os espinhos de um trauma irreversível vivido na adolescência - um segredo que poderá destruir tudo o que conquistou.</p> <p>“Com a sagacidade e a verve de Gillian Flynn, mas com intensidade própria, Uma garota de muita sorte é um romance de estreia que você não pode perder. Contundente, repleto de humor negro e tensão, penetra em sua pele para não sair mais.” - Megan Abbott, autora de A Febre</p> <p>“Atual, engraçado, mordaz e aterrador - me prendeu da primeira à última página. Absolutamente amei.” - Lauren Weisberger, autora de O diabo veste Prada</p> <p>“O romance de estreia mais convincente que li em anos. Ani FaNelli é uma heroína complexa e inesquecível, de partir o coração.” - John Searles</p> <p>“Jessica Knoll explora com beleza a reinvenção, a retribuição e a redenção - e toda a cruzeta que as separa.” - Miranda Beverly-Whittemore</p>",
+  "sinopse": "Ani FaNelli, aos 28 anos, parece ter alcançado a 'vida perfeita do Instagram', mas vive atormentada por um segredo do passado que pode ameaçar tudo o que conquistou. Entre humor negro e tensão, a narrativa revela a complexidade de sua jornada de reinvenção e redenção.",
+  "exemplar_id": 116,
+  "sku": "LI002V",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/jessica-knoll--uma-garota-de-muita-sorte--capa--20250226--133755.jpg",
+  "contracapa": "static/uploads/jessica-knoll--uma-garota-de-muita-sorte--contracapa--20250226--133755.jpg",
+  "fotos": [
+    "static/uploads/jessica-knoll--uma-garota-de-muita-sorte--foto1--20250226--133755.jpg",
+    "static/uploads/jessica-knoll--uma-garota-de-muita-sorte--foto2--20250226--133755.jpg",
+    "static/uploads/jessica-knoll--uma-garota-de-muita-sorte--foto3--20250226--133755.jpg",
+    "static/uploads/jessica-knoll--uma-garota-de-muita-sorte--foto4--20250226--133755.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, sem danos, ainda parcialmente lacrado!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:38:05",
+  "observacoes": null
+}

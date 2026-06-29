@@ -1,0 +1,68 @@
+{
+  "obra_id": 234,
+  "autor": "Stieg Larsson",
+  "titulo": "The girl who played with fire",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura policial. Questões sociais.",
+  "palavras_chave": "larsson girl played fire",
+  "edicao_id": 228,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 13,
+  "peso": 300,
+  "isbn": "9780307476159",
+  "editora": "Vintage Crime",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>21 MILLION STIEG LARSSON NOVELS SOLD WORLDWIDE</p> <p>“Intricate, puzzle-like...startling and violent.” —THE NEW YORK TIMES</p> <p>Crusading publisher Mikael Blomkvist has decided to run an explosive exposé of a wide-ranging sex trafficking operation. Just before the piece is published, two people are brutally murdered. The fingerprints on the murder weapon belong to his friend, the troubled hacker genius Lisbeth Salander. Blomkvist, convinced of Salander's innocence, plunges into an investigation. Meanwhile, Lisbeth herself is drawn into a murderous game of cat and mouse, and is forced to face her dark past.</p> <p>“Gripping stuff...a nail-biting tale of murder and cover-ups.” —PEOPLE</p> <p>“Give up on the idea of sleep till you’ve finished the book.” —DALLAS MORNING NEWS</p> <p>“Larsson has bottled lightning....buzzes with ideas and fizzes with fury.” —LOS ANGELES TIMES</p> <p>Includes an excerpt from Stieg Larsson's new thriller THE GIRL WHO KICKED THE HORNET'S NEST.</p>",
+  "sinopse": "Em 'The Girl Who Played With Fire', o editor Mikael Blomkvist investiga uma operação de tráfico sexual, mas se vê preso em um assassinato quando os dedos de Lisbeth Salander aparecem na cena do crime. Ela se torna a principal suspeita, e Blomkvist precisa desvendar a verdade antes que seja tarde demais, enquanto Lisbeth enfrentará seus próprios demônios em uma trama cheia de tensão e revelações.",
+  "exemplar_id": 227,
+  "sku": "LI005V",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/stieg-larsson--the-girl-who-played-with-fire--capa--20250226--133809.jpg",
+  "contracapa": "static/uploads/stieg-larsson--the-girl-who-played-with-fire--contracapa--20250226--133809.jpg",
+  "fotos": [
+    "static/uploads/stieg-larsson--the-girl-who-played-with-fire--foto1--20250226--133809.jpg",
+    "static/uploads/stieg-larsson--the-girl-who-played-with-fire--foto2--20250226--133809.jpg",
+    "static/uploads/stieg-larsson--the-girl-who-played-with-fire--foto3--20250226--133809.jpg",
+    "static/uploads/stieg-larsson--the-girl-who-played-with-fire--foto4--20250226--133809.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:13:24",
+  "observacoes": null
+}

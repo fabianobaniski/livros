@@ -1,0 +1,63 @@
+{
+  "obra_id": 874,
+  "autor": "Sinclair Ferguson; Alister McGrath",
+  "titulo": "Heresia",
+  "subtitulo": "Uma história em defesa da verdade",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "ferguson heresia historia defesa verdade",
+  "edicao_id": 859,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 292,
+  "peso": 350,
+  "isbn": "9788577421183",
+  "editora": "Hagnos",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O ser humano tem verdadeira fascinação por temas relacionados a um cristianismo alternativo. Isso se revela quando é publicado um texto do evangelho tradicional misturado com ideias extravagantes, quando ocorrem novas descobertas arquelógicas sobre Jesus, ou quando alguma obra de ficção é publicada e chega a desafiar os fundamentos da igreja. Através da história da religião, Alister McGrath expõe a surpreendente trajetória da heresia ao longo do tempo. McGrath explica, também, porque as heresias nunca foram erradicadas - elas podem desaparecer em determinada época, mas reaparecer com roupagem diferente, em outra. Por outro lado, o autor apresenta uma ortodoxia poderosa, compassiva, e profundamente atrativa, que Equipará a igreja para que possa enfrentar as heresias atuais, em suas mais diferentes formas.</p>",
+  "sinopse": "O ser humano tem verdadeira fascinação por temas relacionados a um cristianismo alternativo. Isso se revela quando é publicado um texto do evangelho tradicional mesclado com ideias extravagantes, quando ocorrem novas descobertas arqueológicas sobre Jesus, ou quando alguma obra de ficção é publicada e chega a desafiar os fundamentos da igreja.Através da história da religião, Alister McGrath expõe a surpreendente trajetória da heresia ao longo do tempo. McGrath explica, também, porque as heresias nunca foram erradicadas – elas podem desaparecer em determinada época, mas reaparecer com roupagem diferente, em outra. Por outro lado, o autor apresenta uma ortodoxia poderosa, compassiva, e profundamente atrativa, que equipará a igreja para que possa enfrentar as heresias atuais, em suas mais diferentes formas.",
+  "exemplar_id": 858,
+  "sku": "LI00N8",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 36.0,
+  "capa": "static/uploads/sinclair-ferguson--heresia--capa--20250228--143112.jpg",
+  "contracapa": "static/uploads/sinclair-ferguson--heresia--contracapa--20250228--143112.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:29:45",
+  "observacoes": null
+}

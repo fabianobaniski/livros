@@ -1,0 +1,68 @@
+{
+  "obra_id": 3627,
+  "autor": "Henry Fielding",
+  "titulo": "Tom Jones",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "fielding tom jones",
+  "edicao_id": 3604,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 614,
+  "peso": 690,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta narrativa picaresca segue as aventuras do enjeitado Tom Jones, um jovem de bom coração, mas impulsivo, que após ser expulso da casa de seu protetor percorre a Inglaterra em busca de sua identidade e do amor de Sophia Western, oferecendo um retrato satírico e detalhado das classes sociais do século XVIII.\r\n",
+  "exemplar_id": 3603,
+  "sku": "LI02EM",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/henry-fielding--tom-jones--capa--20251114--181114.png",
+  "contracapa": "static/uploads/henry-fielding--tom-jones--contracapa--20251114--181121.png",
+  "fotos": [
+    "static/uploads/henry-fielding--tom-jones--foto1--20251113--194841.jpg",
+    "static/uploads/henry-fielding--tom-jones--foto2--20251113--194841.jpg",
+    "static/uploads/henry-fielding--tom-jones--foto3--20251113--194841.jpg",
+    "static/uploads/henry-fielding--tom-jones--foto4--20251113--194841.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:27:36",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2849,
+  "autor": "Domingos Pellegrini",
+  "titulo": "Pequenices",
+  "subtitulo": "Crônicas",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "pellegrini pequenices cronicas",
+  "edicao_id": 2829,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 110,
+  "peso": 100,
+  "isbn": "9788565266079",
+  "editora": "Gazeta do Povo",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2828,
+  "sku": "LI01T5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 11.0,
+  "capa": "static/uploads/pequenices-domingos-pellegrini-capa_rev1786.jpg",
+  "contracapa": "static/uploads/pequenices-domingos-pellegrini-contracapa_rev1361.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro amarelado pelo tempo, com pequenos desgastes decorrentes do uso, mas, em geral, bem conservado. Sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:00:03",
+  "observacoes": null
+}

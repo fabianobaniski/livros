@@ -1,0 +1,68 @@
+{
+  "obra_id": 88,
+  "autor": "Guy de Maupassant",
+  "titulo": "Bel-Ami",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Sociedade. Relações de Gênero. Ascensão Social",
+  "palavras_chave": "maupassant bel-ami",
+  "edicao_id": 88,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 319,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As mulheres o chamam de <b>Bel-Ami</b>, e ele consegue delas o que deseja: de algumas, o prazer efêmero; de outras, pelo casamento, a projeção financeira e profissional. No retrato de Georges Duroy – rapaz pobre, de origem camponesa, que procura a fortuna e a afirmação social em Paris – Guy de Maupassant traça um painel sutil e mordaz da sociedade parisiense no final do século XIX.</p>",
+  "sinopse": "O romance Bel-Ami retrata Georges Duroy, um homem que usa seu charme para conquistar mulheres e ascender socialmente em Paris no final do século XIX, explorando os prazeres efêmeros e as aspirações financeiras.",
+  "exemplar_id": 87,
+  "sku": "LI002A",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/guy-de-maupassant--bel-ami--capa--20250226--110244.jpg",
+  "contracapa": "static/uploads/guy-de-maupassant--bel-ami--contracapa--20250226--110244.jpg",
+  "fotos": [
+    "static/uploads/guy-de-maupassant--bel-ami--foto1--20250226--110244.jpg",
+    "static/uploads/guy-de-maupassant--bel-ami--foto2--20250226--110244.jpg",
+    "static/uploads/guy-de-maupassant--bel-ami--foto3--20250226--110244.jpg",
+    "static/uploads/guy-de-maupassant--bel-ami--foto4--20250226--110244.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:51:17",
+  "observacoes": null
+}

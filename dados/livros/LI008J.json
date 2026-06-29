@@ -1,0 +1,68 @@
+{
+  "obra_id": 334,
+  "autor": "Paulo Coelho",
+  "titulo": "Maktub",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura contemporânea. Autoajuda. Reflexões.",
+  "palavras_chave": "coelho maktub",
+  "edicao_id": 325,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 300,
+  "isbn": "9788575429006",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Maktub não é um livro de conselhos, mas uma troca de experiências. A maior parte dos textos se refere a ensinamentos que Paulo Coelho recebeu de seu mestre ao longo de 11 anos. Outros são relatos de amigos ou pessoas desconhecidas que de uma forma ou de outra lhe deixaram uma mensagem inesquecível. Finalmente, existem trechos de livros que ele leu e de histórias que pertencem à herança espiritual da raça humana.</p> <p>A proposta do autor é reunir um apanhado da sabedoria universal destacando um ponto comum a todas as histórias: a busca da felicidade. Embora o desejo de ser feliz seja relatado em contextos tão diversos, fica fácil concluir que, não importa o lugar ou a época, ele sempre se baseia nos mesmos pilares: amor, humildade, solidariedade e renúncia.</p> <p>Maktub oferece aos leitores uma oportunidade de refletir e se reencontrar.</p> <p>Se você está percorrendo o caminho de seus sonhos, comprometa-se com ele. Não deixe a porta de saída aberta através da desculpa: \"Ainda não é bem isto que eu queria.\"</p> <p>Assuma o seu caminho. Mesmo que precise dar passos incertos, mesmo que saiba que pode fazer melhor o que está fazendo. Se você aceitar suas possibilidades no presente, com toda certeza vai se sair melhor no futuro.</p>",
+  "sinopse": "Maktub é uma reflexão sobre a troca de experiências e ensinamentos que Paulo Coelho recebeu ao longo de sua vida. Com relatos de amizades e mensagens significativas, o autor nos convida a buscar a felicidade, fundamentada em pilares como amor, humildade, solidariedade e renúncia. O livro propõe que, mesmo diante de incertezas, é essencial comprometer-se com os próprios sonhos e aceitar as possibilidades do presente para um futuro melhor.",
+  "exemplar_id": 324,
+  "sku": "LI008J",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/paulo-coelho--maktub--capa--20250226--133820.jpg",
+  "contracapa": "static/uploads/paulo-coelho--maktub--contracapa--20250226--133820.jpg",
+  "fotos": [
+    "static/uploads/paulo-coelho--maktub--foto1--20250226--133820.jpg",
+    "static/uploads/paulo-coelho--maktub--foto2--20250226--133820.jpg",
+    "static/uploads/paulo-coelho--maktub--foto3--20250226--133820.jpg",
+    "static/uploads/paulo-coelho--maktub--foto4--20250226--133820.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Com assinatura de ex-dono na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:37:04",
+  "observacoes": null
+}

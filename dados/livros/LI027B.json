@@ -1,0 +1,68 @@
+{
+  "obra_id": 3364,
+  "autor": "Taishi Tsutsui",
+  "titulo": "We never learn",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Vida estudantil. Relacionamentos adolescentes.",
+  "palavras_chave": "tsutsui never learn",
+  "edicao_id": 3341,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9786559821211",
+  "editora": "Panini",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p>Uma foto do Nariyuki e da Fumino saindo da hospedaria foi parar na internet?! Além de ficar bastante ocupado tentando ajudar a descobrir quem é o fotógrafo criminoso, Nariyuki ainda precisa dar uma mãozinha para Asumi e Kirisu-sensei. Ele achava que as duas já eram maduras, mas acaba descobrindo a fraqueza de ambas...</p>",
+  "sinopse": "Nariyuki e Fumino enfrentam problemas quando uma foto deles saindo da hospedaria aparece na internet. Enquanto tenta descobrir quem é o fotógrafo misterioso, Nariyuki ainda ajuda Asumi e Kirisu-sensei, percebendo que ambas possuem fragilidades inesperadas, apesar de aparentarem maturidade.",
+  "exemplar_id": 3340,
+  "sku": "LI027B",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/we-never-learn__taishi-tsutsui__capa__2025-11-05_16-25-49-706381.jpg",
+  "contracapa": "static/uploads/we-never-learn__taishi-tsutsui__contracapa__2025-11-05_16-25-49-733520.jpg",
+  "fotos": [
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-01__2025-11-05_16-25-49-762390.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-02__2025-11-05_16-25-49-791041.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-03__2025-11-05_16-25-49-819818.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-04__2025-11-05_16-25-49-853333.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:13:41",
+  "observacoes": null
+}

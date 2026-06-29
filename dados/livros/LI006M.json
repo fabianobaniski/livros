@@ -1,0 +1,68 @@
+{
+  "obra_id": 261,
+  "autor": "Jenny Han",
+  "titulo": "P.S.: Ainda amo você",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Amor. Adolescência. Relacionamentos.",
+  "palavras_chave": "han ps ainda amo voce",
+  "edicao_id": 255,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 298,
+  "peso": 300,
+  "isbn": "9788580578690",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Novo contrato de Lara Jean e Peter</h1><ul><li>Peter não vai se atrasar mais do que cinco minutos.</li><li>Lara Jean não vai obrigar Peter a fazer qualquer tipo de artesanato.</li><li>Peter não precisa ligar para Lara Jean todas as noites antes de ir dormir, mas pode ligar se tiver vontade.</li><li>Lara Jean só vai a festas se tiver vontade.</li><li>Peter vai dar carona para Lara Jean sempre que ela quiser.</li><li>Lara Jean e Peter vão sempre contar a verdade um para o outro.</li></ul><p>Só tem uma coisa, uma coisa importante da qual quero ter certeza.</p><p>— Peter.</p><p>— Que foi?</p><p>— Não quero que a gente parta o coração um do outro.</p><p>Peter ri e acaricia minha bochecha.</p><p>— Você está planejando partir meu coração, Covey?</p><p>P.S.: ainda amo você</p>",
+  "sinopse": "Lara Jean e Peter firmam um novo contrato que estabelece regras divertidas para o relacionamento, como horários e compromissos. Porém, entre risos e desentendimentos, ambos precisam lidar com a verdade de seus sentimentos e inseguranças. Lara Jean ainda luta para entender a profundidade do amor que sente por Peter, enquanto os dois navegam por desafios típicos da adolescência.",
+  "exemplar_id": 254,
+  "sku": "LI006M",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/jenny-han--p-s---ainda-amo-voc---capa--20250226--133812.jpg",
+  "contracapa": "static/uploads/jenny-han--p-s---ainda-amo-voc---contracapa--20250226--133812.jpg",
+  "fotos": [
+    "static/uploads/jenny-han--p-s---ainda-amo-voc---foto1--20250226--133812.jpg",
+    "static/uploads/jenny-han--p-s---ainda-amo-voc---foto2--20250226--133812.jpg",
+    "static/uploads/jenny-han--p-s---ainda-amo-voc---foto3--20250226--133812.jpg",
+    "static/uploads/jenny-han--p-s---ainda-amo-voc---foto4--20250226--133812.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:27:12",
+  "observacoes": null
+}

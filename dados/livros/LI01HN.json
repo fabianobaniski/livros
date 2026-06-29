@@ -1,0 +1,63 @@
+{
+  "obra_id": 2435,
+  "autor": "Helenice Rodrigues da Silva",
+  "titulo": "Circulação das ideias e reconfigurações dos saberes",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "silva circulacao das ideias",
+  "edicao_id": 2415,
+  "encadernacao": null,
+  "quantidade_paginas": 230,
+  "peso": 485,
+  "isbn": "9788571142176",
+  "editora": "Edifurb",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro aborda temas diversos sobre o desenvolvimento e a circulação do conhecimento ao longo do tempo, divididos em cinco partes principais. Ele explora as ideias e saberes clássicos, como as utopias e contestação dos anos 60 e a aceleração histórica nas ciências humanas. Além disso, trata da mundialização e virtualização do saber, passando por redes sociais, novas abordagens sobre a antiguidade e transferências culturais. Também discute a relação entre diferentes áreas do saber, mediando sua divulgação por meio de publicações e difusões, conectando história, sociologia, arqueologia e educação em um contexto global.",
+  "exemplar_id": 2414,
+  "sku": "LI01HN",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/helenice-rodrigues-da-silva--circulacao-das-ideias-e-reconfiguracoes-dos-saberes--capa--20260316--184851.jpg",
+  "contracapa": "static/uploads/helenice-rodrigues-da-silva--circulacao-das-ideias-e-reconfiguracoes-dos-saberes--contracapa--20260316--184851.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, sem danos. Há, apenas, selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:37:38",
+  "observacoes": null
+}

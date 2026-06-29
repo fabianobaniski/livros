@@ -1,0 +1,68 @@
+{
+  "obra_id": 83,
+  "autor": "Horace McCoy",
+  "titulo": "Mas não se mata cavalo?",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura. Sociedade. Desemprego. Superação",
+  "palavras_chave": "mccoy mas mata cavalo",
+  "edicao_id": 83,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 153,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1982,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Época da Depressão nos Estados Unidos. O desemprego, a falta de dinheiro e a fome ameaçam as pessoas. Robert Syverten e Glória Beatty encontram-se por acaso nas ruas de Hollywood. Ele, um esperançoso aspirante a diretor de cinema; ela, uma criatura amarga e mórbida, que procura um lugar como \"extra\" nos estúdios, apenas para sobreviver. Por insistência da moça, os dois entram para uma maratona de dança. Em Mas Não se Mata Cavalo?, Horace McCoy descreve essa maratona de desesperos.</p>",
+  "sinopse": "Durante a Depressão nos EUA, Robert e Glória, cada um lutando por sua sobrevivência, se encontram nas ruas de Hollywood e entram em uma maratona de dança, revelando os desafios da pobreza e da desilusão.",
+  "exemplar_id": 82,
+  "sku": "LI0025",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/horace-mccoy--mas-n-o-se-mata-cavalo---capa--20250226--110012.jpg",
+  "contracapa": "static/uploads/horace-mccoy--mas-n-o-se-mata-cavalo---contracapa--20250226--110012.jpg",
+  "fotos": [
+    "static/uploads/horace-mccoy--mas-n-o-se-mata-cavalo---foto1--20250226--110012.jpg",
+    "static/uploads/horace-mccoy--mas-n-o-se-mata-cavalo---foto2--20250226--110012.jpg",
+    "static/uploads/horace-mccoy--mas-n-o-se-mata-cavalo---foto3--20250226--110012.jpg",
+    "static/uploads/horace-mccoy--mas-n-o-se-mata-cavalo---foto4--20250226--110012.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:45:27",
+  "observacoes": null
+}

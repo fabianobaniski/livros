@@ -1,0 +1,63 @@
+{
+  "obra_id": 2786,
+  "autor": "Nicholas Sparks",
+  "titulo": "O milagre",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "nicholas sparks o milagre",
+  "edicao_id": 2766,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 326,
+  "peso": 300,
+  "isbn": "9788520924822",
+  "editora": "Agir",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2765,
+  "sku": "LI01RE",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-milagre-nicholas-sparks-capa_rev1836.jpg",
+  "contracapa": "static/uploads/o-milagre-nicholas-sparks-contracapa_rev1317.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso.  Jeremy Marsh é um respeitado jornalista que não consegue emplacar um relacionamento afetivo que o faça feliz. Acostumado a viajar pelo mundo à cata de lendas urbanas, Jeremy parte em direção a uma cidadezinha do sul dos Estados Unidos para investigar as misteriosas luzes de um antigo cemitério escravo que teria sido alvo de uma maldição. Lá ele conhece a bela Lexie Darnell, que irá ajudá-lo em sua fantasmagórica missão. Prestes a descobrir um segredo que poderá abalar os alicerces da comunidade, esse destruidor de mitos terá de se confrontar com o único fenômeno que considera genuinamente misterioso e sobrenatural- uma paixão avassaladora."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:30:44",
+  "observacoes": null
+}

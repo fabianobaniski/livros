@@ -1,0 +1,63 @@
+{
+  "obra_id": 2811,
+  "autor": "Thierry Janssen",
+  "titulo": "O trabalho de uma vida",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "janssen trabalho uma vida",
+  "edicao_id": 2791,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 252,
+  "peso": 300,
+  "isbn": "9788589885928",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A harmonia interior, cada vez mais valorizada, depende de um profundo autoconhecimento. Thierry Janssen propõe uma síntese entre o Oriente e o Ocidente, unindo suas melhores práticas para explorar o interior humano. Ele sugere que, ao rejeitarmos o reducionismo e preservarmos a unidade, superamos as divisões internas. Inspirado em tradições como o Yoga, o Tao e as teorias de Jung, sua abordagem psicológica e espiritual promove o desenvolvimento pessoal, ajudando a enfrentar medos e transformar separações em unificação.",
+  "exemplar_id": 2790,
+  "sku": "LI01S3",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-trabalho-de-uma-vida-thierry-janssen-capa_rev303.jpg",
+  "contracapa": "static/uploads/o-trabalho-de-uma-vida-thierry-janssen-contracapa_rev1344.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, livre de anotações ou sublinhados. Apresenta, apenas, leves sinais deixados pela passagem dos anos e do manuseio e contato com outras superfícies."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:45:27",
+  "observacoes": null
+}

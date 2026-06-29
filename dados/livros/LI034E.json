@@ -1,0 +1,63 @@
+{
+  "obra_id": 5733,
+  "autor": "Satoru Noda",
+  "titulo": "Golden Kamuy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos japoneses. Aventura. Drama.",
+  "palavras_chave": "noda golden kamuy",
+  "edicao_id": 5708,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 230,
+  "isbn": "9786559605439",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 24,
+  "transcricao_contracapa": "<p>“Nada é enviado dos céus sem um propósito”. Restam poucas peles tatuadas para encontrar... Vários destinos se cruzam, qual será o propósito de cada um? Os fugitivos de Abashiri, o grupo de Hijikata e a Sétima Divisão se reúnem em Sapporo!! Como será o desfecho do embate aquático contra o pirata Boutarou? Prenda a respiração nas ondas violentas e furiosas deste volume 24!!!!!</p>",
+  "sinopse": "Enquanto poucas peles tatuadas restam para encontrar, destinos se cruzam em um embate decisivo. Fugitivos de Abashiri, o grupo de Hijikata e a Sétima Divisão se reúnem em Sapporo. O desfecho do confronto aquático contra o pirata Boutarou promete ondas de tensão e emoção no volume 24.",
+  "exemplar_id": 5707,
+  "sku": "LI034E",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/golden-kamuy__satoru-noda__capa__2026-02-28_13-14-11-120793-000.jpg",
+  "contracapa": "static/uploads/golden-kamuy__satoru-noda__contracapa__2026-02-28_13-14-11-122656-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

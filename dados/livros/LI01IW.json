@@ -1,0 +1,63 @@
+{
+  "obra_id": 2480,
+  "autor": "Ricardo de Souza Janoario",
+  "titulo": "Diálogos interculturais",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "org dialogos interculturais",
+  "edicao_id": 2460,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 216,
+  "peso": 300,
+  "isbn": "9788554017040",
+  "editora": "Ayvu",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A interculturalidade é o foco central deste livro, que busca destacar a importância de uma educação inclusiva e crítica. Os autores discutem a relação entre pedagogia crítica e interculturalidade, abordando temas como sexualidade, metodologias de ensino e avaliação intercultural. Também exploram desafios, como a construção de um currículo adequado para surdos e na Educação de Jovens e Adultos (EJA). A obra oferece reflexões e propostas para reverter desigualdades sociais no Brasil, promovendo uma educação que respeite a diversidade cultural.",
+  "exemplar_id": 2459,
+  "sku": "LI01IW",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/ricardo-de-souza-janoario-org--dialogos-interculturais--capa--20260316--192441.jpg",
+  "contracapa": "static/uploads/ricardo-de-souza-janoario-org--dialogos-interculturais--contracapa--20260316--192441.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso.  A interculturalidade é o principal tema deste livro."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:45:42",
+  "observacoes": null
+}

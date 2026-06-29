@@ -1,0 +1,68 @@
+{
+  "obra_id": 75,
+  "autor": "Emily Giffin",
+  "titulo": "Questões do coração",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Drama. Família. Relacionamentos",
+  "palavras_chave": "giffin questoes coracao",
+  "edicao_id": 75,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 438,
+  "peso": 800,
+  "isbn": "9788563219312",
+  "editora": "Novo Conceito",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“O talento de <b>Emily Giffin</b> consiste em fazer com que acreditemos em seus personagens e nos relacionemos com eles. Os leitores ficarão fascinados com este romance cativante e cadenciado.”</p><p><b>BOOKLIST</b></p><p><b>Tessa Russo</b> é mãe de dois filhos e esposa de um renomado cirurgião pediátrico. Apesar de todos os seus receios, ela recentemente abandonou sua carreira para se concentrar em sua família, na busca pela felicidade doméstica. Por fora, parece destinada a viver uma vida encantada.</p><p><b>Valerie Anderson</b> é uma advogada e mãe solteira de um garotinho de seis anos, Charlie, que nunca conheceu seu pai. Depois de muitas decepções, desistiu do amor e até mesmo das amizades, acreditando que é sempre mais seguro não criar muitas expectativas.</p><p>Embora as duas vivam na mesma área de Boston, elas têm pouco em comum, com exceção do amor incondicional por seus filhos. Em uma noite, um trágico acidente faz suas vidas cruzarem-se de maneira inimaginável.</p><p>Com pontos de vista alternados e absolutamente bem delineados, <b>Emily Giffin</b> cria uma história comovente e brilhante sobre pessoas de bem que passam por circunstâncias insustentáveis. Todas sendo testadas como nunca imaginaram ser possível. Todas questionando tudo no que um dia acreditaram. E todas, por fim, descobrindo o que realmente importava.</p>",
+  "sinopse": "Tessa Russo, esposa de um renomado cirurgião e mãe dedicada, abandona a carreira para focar na família. Valerie Anderson, advogada e mãe solteira, desistiu do amor após inúmeras decepções. Suas vidas se cruzam inesperadamente após um trágico acidente, levando-as a questionar tudo o que acreditavam sobre amor, família e destino. Com uma narrativa envolvente, Emily Giffin entrega um romance emocionante sobre desafios, escolhas e o que realmente importa.",
+  "exemplar_id": 74,
+  "sku": "LI001Z",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/emily-giffin--quest-es-do-cora--o--capa--20250225--233451.jpg",
+  "contracapa": "static/uploads/emily-giffin--quest-es-do-cora--o--contracapa--20250225--233451.jpg",
+  "fotos": [
+    "static/uploads/emily-giffin--quest-es-do-cora--o--foto1--20250225--233451.jpg",
+    "static/uploads/emily-giffin--quest-es-do-cora--o--foto2--20250225--233451.jpg",
+    "static/uploads/emily-giffin--quest-es-do-cora--o--foto3--20250225--233451.jpg",
+    "static/uploads/emily-giffin--quest-es-do-cora--o--foto4--20250225--233451.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:25:50",
+  "observacoes": null
+}

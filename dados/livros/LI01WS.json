@@ -1,0 +1,63 @@
+{
+  "obra_id": 2980,
+  "autor": "Ann Kent",
+  "titulo": "Y la vida continúa",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "kent vida continua",
+  "edicao_id": 2960,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 207,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Norma Editorial",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta obra aborda o desafio de receber um diagnóstico de câncer, considerado um dos momentos mais difíceis na vida de qualquer pessoa. Com uma abordagem prática e realista, oferece orientações e sugestões sobre como enfrentar a doença de forma positiva, utilizando os recursos médicos disponíveis para combater o câncer. Destinada a pacientes e familiares, a obra visa ajudar a enfrentar e sobreviver à doença, destacando que, apesar do câncer, a vida continua.",
+  "exemplar_id": 2959,
+  "sku": "LI01WS",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/y-la-vida-continua-ann-kent-capa_rev239.jpg",
+  "contracapa": "static/uploads/y-la-vida-continua-ann-kent-contracapa_rev396.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Subtítulo: Cómo enfrentar positivamente el diagnóstico de cáncer y seguir adelante. / Livro brochura, formato padrão, em ótimas condições. Papel amarelado pela ação do tempo. Lombada reta. Capa e contracapa sem danos. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:06:21",
+  "observacoes": null
+}

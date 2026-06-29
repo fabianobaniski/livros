@@ -1,0 +1,63 @@
+{
+  "obra_id": 2902,
+  "autor": "Renato Paiva Carvalho",
+  "titulo": "Sexo e casamento",
+  "subtitulo": "O natural e o obrigatório",
+  "idioma": "Português",
+  "categoria": "Sexualidade",
+  "temas": "",
+  "palavras_chave": "carvalho sexo casamento natural",
+  "edicao_id": 2882,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 265,
+  "peso": 300,
+  "isbn": "9788585631178",
+  "editora": "Iglu",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra explora a evolução das normas sociais relacionadas ao sexo e ao casamento, analisando a transição de um comportamento baseado na escolha feminina natural para um modelo imposto por regras masculinas guerreiras. O autor investiga como essa dinâmica transformou as mulheres em propriedades de povos conquistados e como, com o tempo, surgiram crises e movimentos como o feminismo. O objetivo é colaborar para a construção de uma união consensual e equilibrada entre homens e mulheres, preservando suas individualidades.",
+  "exemplar_id": 2881,
+  "sku": "LI01UM",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sexo-e-casamento-renato-paiva-carvalho-capa_rev947.jpg",
+  "contracapa": "static/uploads/sexo-e-casamento-renato-paiva-carvalho-contracapa_rev530.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, embora com leves desgastes decorrentes do passar dos anos. Texto livre de anotações e sublinhados. Papel pigmentado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:18:34",
+  "observacoes": null
+}

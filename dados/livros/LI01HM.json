@@ -1,0 +1,63 @@
+{
+  "obra_id": 2434,
+  "autor": "Antonio Moreno (autografado)",
+  "titulo": "Cinema brasileiro",
+  "subtitulo": "História e relações com o Estado",
+  "idioma": "Português",
+  "categoria": "Cinema",
+  "temas": "",
+  "palavras_chave": "autografado cinema brasileiro historia",
+  "edicao_id": 2414,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 294,
+  "peso": 300,
+  "isbn": "9788522800711",
+  "editora": "Eduff / Ufm",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro oferece uma análise detalhada da história do cinema brasileiro, dividido em seis épocas, de 1896 a 1985. Cada capítulo abrange resumos e panoramas políticos das respectivas épocas, além de destacar os filmes, diretores e movimentos cinematográficos mais importantes, como o Ciclo Gaúcho, o Cinema Novo, a Atlântida, e o Tropicalismo. A obra também discute a formação de estúdios, leis de cinema e o papel de figuras importantes como Mário Peixoto, Humberto Mauro e Glauber Rocha. Anexos incluem listas de filmes e premiações dos festivais de Gramado e Brasília.",
+  "exemplar_id": 2413,
+  "sku": "LI01HM",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/antonio-moreno-autografado--cinema-brasileiro--capa--20260316--184831.jpg",
+  "contracapa": "static/uploads/antonio-moreno-autografado--cinema-brasileiro--contracapa--20260316--184832.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro autografado pelo autor. Muito bem conservado. Apresenta apenas as marcas características da passagem do tempo e do manuseio feito com cuidado. Texto sem anotações nem sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:36:02",
+  "observacoes": null
+}

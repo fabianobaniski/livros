@@ -1,0 +1,68 @@
+{
+  "obra_id": 3466,
+  "autor": "Makoto Shinkai; Tsubasa Yamaguchi",
+  "titulo": "Ela e o seu gato",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Relacionamento humano-animal. Solidão. Independência. Fantasia.",
+  "palavras_chave": "shinkai ela seu gato",
+  "edicao_id": 3443,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788583622345",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>\"Era um dia de chuva, no começo da primavera. Eu fui acolhido por ela.\"</p><p>Um <b>gato</b> e uma <b>garota</b> que mora sozinha se conhecem na primavera...<br>Ao viver sozinha, <b>ela</b> aprende a <b>alegria</b> e a <b>solidão</b> de ser independente, enquanto o <b>gato</b>, que recebeu o nome de <b>Chobi</b>, descobre a existência do mundo através dessa <b>garota</b>.<br>O tempo <b>desses dois</b> passa lentamente, mas a severidade do mundo acaba por alcançá-la...</p>",
+  "sinopse": "Em um início de primavera chuvoso, uma garota solitária acolhe um gato chamado Chobi. Enquanto ela descobre a alegria e a solidão de ser independente, Chobi passa a enxergar o mundo através dela. O tempo dos dois juntos é marcado por momentos tranquilos, até que a realidade do mundo vem ao encontro da garota, testando sua relação e crescimento pessoal.",
+  "exemplar_id": 3442,
+  "sku": "LI02A5",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/ela-e-o-seu-gato__makoto-shinkai-tsubasa-yamaguchi__capa__2025-11-05_16-15-38-701554.jpg",
+  "contracapa": "static/uploads/ela-e-o-seu-gato__makoto-shinkai-tsubasa-yamaguchi__contracapa__2025-11-05_16-15-38-722944.jpg",
+  "fotos": [
+    "static/uploads/ela-e-o-seu-gato__makoto-shinkai-tsubasa-yamaguchi__foto-01__2025-11-05_16-15-38-747294.jpg",
+    "static/uploads/ela-e-o-seu-gato__makoto-shinkai-tsubasa-yamaguchi__foto-02__2025-11-05_16-15-38-772827.jpg",
+    "static/uploads/ela-e-o-seu-gato__makoto-shinkai-tsubasa-yamaguchi__foto-03__2025-11-05_16-15-38-791647.jpg",
+    "static/uploads/ela-e-o-seu-gato__makoto-shinkai-tsubasa-yamaguchi__foto-04__2025-11-05_16-15-38-812333.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:51:30",
+  "observacoes": null
+}

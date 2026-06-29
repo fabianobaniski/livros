@@ -1,0 +1,68 @@
+{
+  "obra_id": 2266,
+  "autor": "Célia Braga",
+  "titulo": "Contabilidade ambiental",
+  "subtitulo": "Ferramenta para a gestão da sustentabilidade",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Gestão ambiental. Sustentabilidade. Responsabilidade social. Empresas de energia.",
+  "palavras_chave": "braga contabilidade ambiental ferramenta gestao sustentabilidade",
+  "edicao_id": 2246,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 169,
+  "peso": 410,
+  "isbn": "9788522447787",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta obra apresenta conceitos e situações práticas dos eventos relacionados ao meio ambiente e à atividade operacional empresarial, com uma abordagem focada nas distribuidoras de energia, utilizando-se como estudo de caso a Companhia Energética do Ceará (Coelce).</p><p>Visa apresentar, a todos os profissionais que trabalham com o patrimônio de uma entidade, a importância da Contabilidade Ambiental para a gestão correta do mesmo, através de tomadas de decisão financeira, econômica, de produção e social. Além de fomentar a expansão da pesquisa científica sobre o tema meio ambiente.</p><p>O tema abordado incentiva as empresas a assumirem uma postura ética em seu relacionamento com o meio ambiente, visando a sua continuidade, a qualidade de vida das gerações futuras e a minimização dos impactos negativos (passivos ambientais) sobre o seu patrimônio e sobre a sua imagem (ativo intangível – goodwill meio ambiente).</p><p>O livro está dividido em seis capítulos: Gestão ambiental e desenvolvimento sustentável; Dano ambiental; Contabilidade Ambiental: ferramenta para a gestão da sustentabilidade; A evidenciação contábil ambiental; Metodologia para o acompanhamento contábil do sistema de gestão ambiental da Coelce: Sistema de Informação Contábil Ambiental (Sica); e Software Sica.</p><h2>APLICAÇÃO</h2><p>Livro-texto para as disciplinas CONTABILIDADE AMBIENTAL e GESTÃO AMBIENTAL dos cursos de graduação em Ciências Contábeis, Administração e Economia e para os cursos de pós-graduação em Gestão Ambiental. Leitura complementar para as disciplinas TÓPICOS AVANÇADOS EM CONTABILIDADE, AUDITORIA AMBIENTAL, CONTROLADORIA, LOGÍSTICA e DIREITO AMBIENTAL. Leitura recomendada também para programas de reciclagem e desenvolvimento profissional.</p>",
+  "sinopse": "Esta obra aborda conceitos e situações práticas de contabilidade ambiental aplicados especialmente a distribuidoras de energia, usando como estudo de caso a Companhia Energética do Ceará (Coelce). Apresenta a importância do tema para a gestão patrimonial, financeira, econômica, de produção e social das empresas, estimulando posturas éticas frente ao meio ambiente e minimização de passivos ambientais. O livro é dividido em seis capítulos que incluem gestão ambiental, dano ambiental, metodologias de acompanhamento e aplicação de sistemas de informação. Indicado para disciplinas acadêmicas e profissionais interessados em reciclagem e desenvolvimento na área.",
+  "exemplar_id": 2245,
+  "sku": "LI01CZ",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/c-lia-braga--contabilidade-ambiental--capa--20250430--105106.jpg",
+  "contracapa": "static/uploads/c-lia-braga--contabilidade-ambiental--contracapa--20250430--105106.jpg",
+  "fotos": [
+    "static/uploads/c-lia-braga--contabilidade-ambiental--foto1--20250430--105106.jpg",
+    "static/uploads/c-lia-braga--contabilidade-ambiental--foto2--20250430--105106.jpg",
+    "static/uploads/c-lia-braga--contabilidade-ambiental--foto3--20250430--105106.jpg",
+    "static/uploads/c-lia-braga--contabilidade-ambiental--foto4--20250430--105106.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:58:54",
+  "observacoes": "procedencia_biblioteca"
+}

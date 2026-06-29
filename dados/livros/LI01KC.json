@@ -1,0 +1,63 @@
+{
+  "obra_id": 2532,
+  "autor": "Angel T. Lo Celso",
+  "titulo": "Euritmia arquitetônica",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "celso euritmia arquitetonica",
+  "edicao_id": 2512,
+  "encadernacao": null,
+  "quantidade_paginas": 442,
+  "peso": 829,
+  "isbn": "",
+  "editora": "Universidad de Cordoba",
+  "numero_edicao": 0,
+  "ano": 1950,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2511,
+  "sku": "LI01KC",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/angel-t-lo-celso--euritmia-arquitetonica--capa--20260316--201520.jpg",
+  "contracapa": "static/uploads/angel-t-lo-celso--euritmia-arquitetonica--contracapa--20260316--201520.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Obra rara! En orden, numero y armonia, fueron creadas por Dios todas las cosas. Boa conservação, embora o papel tenha amarelado com o passar das décadas e notem-se sinais de desgastes em várias páginas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:41:21",
+  "observacoes": null
+}

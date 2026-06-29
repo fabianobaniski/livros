@@ -1,0 +1,63 @@
+{
+  "obra_id": 3065,
+  "autor": "Alexandre da Fonseca (editor)",
+  "titulo": "Comandar no Mar",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Outros Assuntos",
+  "temas": null,
+  "palavras_chave": "editor comandar mar",
+  "edicao_id": 3045,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 293,
+  "peso": 550,
+  "isbn": "9789729653582",
+  "editora": "Edições Revista de Marinha",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3044,
+  "sku": "LI01Z5",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em excelentes condições, seminovo. Não apresenta anotações, sublinhados, rasgos, amassados, marcas de umidade, furos, mofo, carimbos ou assinaturas. Levíssimos sinais de uso.  / Índice: O exercício do comando; Comando abaixo da superfície; A bordo do navio de cruzeiros; Treino e avaliação geram competência; Nos veleiros de pesca de bacalhau; Comandar no Oceano Pacífico; Uma lancha de fiscalização pequena em Cabinda; Do comando de uma LDG ao comando de uma corveta; Comandar N.R.P. Vasco da Gama; Força Naval -  outro patamar de comando; A reserva naval a comandar; Navio-escola Sagres: Uma experiência inesquecível."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:46:34",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

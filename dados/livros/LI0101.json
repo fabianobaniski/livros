@@ -1,0 +1,68 @@
+{
+  "obra_id": 1798,
+  "autor": "Samir Keedi",
+  "titulo": "Transportes, unitização e seguros internacionais de carga",
+  "subtitulo": "Prática e exercícios",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Logística internacional. Transportes. Seguros. Comex.",
+  "palavras_chave": "keedi transportes unitizacao seguros internacionais carga",
+  "edicao_id": 1778,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 310,
+  "peso": 430,
+  "isbn": "9788571295834",
+  "editora": "Aduaneiras",
+  "numero_edicao": 5,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A ampla experiência profissional em importantes empresas exportadoras e importadoras, também num transitário de carga, aliada a atividades acadêmicas desenvolvidas na Universidade e na Aduaneiras, possibilitaram ao autor colocar no mercado esta 5ª edição, que contém inclusive uma abordagem do Incoterms® 2010, auxiliando como sempre aqueles que precisam transportar e segurar suas cargas, tanto em seu envio ao exterior quanto para trazê-las ao país.</p><p>Os interessados, estudantes e atuantes na área podem contar com mais este instrumento de operação de transporte, unitização e seguro de carga e seus tratamentos.</p>",
+  "sinopse": "A 5ª edição deste livro reúne a experiência do autor em empresas exportadoras, importadoras e no setor acadêmico, oferecendo uma abordagem prática sobre transporte, unitização e seguro internacional de cargas. Inclui ampla cobertura dos Incoterms 2010, servindo como instrumento fundamental para profissionais e estudantes que necessitam operar, transportar e segurar cargas em operações internacionais.",
+  "exemplar_id": 1777,
+  "sku": "LI0101",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/samir-keedi--transportes--unitiza--o-e-seguros-internacionais-de-carga--capa--20250430--102948.jpg",
+  "contracapa": "static/uploads/samir-keedi--transportes--unitiza--o-e-seguros-internacionais-de-carga--contracapa--20250430--102948.jpg",
+  "fotos": [
+    "static/uploads/samir-keedi--transportes--unitiza--o-e-seguros-internacionais-de-carga--foto1--20250430--102949.jpg",
+    "static/uploads/samir-keedi--transportes--unitiza--o-e-seguros-internacionais-de-carga--foto2--20250430--102949.jpg",
+    "static/uploads/samir-keedi--transportes--unitiza--o-e-seguros-internacionais-de-carga--foto3--20250430--102949.jpg",
+    "static/uploads/samir-keedi--transportes--unitiza--o-e-seguros-internacionais-de-carga--foto4--20250430--102949.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:30:20",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2389,
+  "autor": "Paulo Coelho",
+  "titulo": "As Valkírias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "paulo coelho as valkirias",
+  "edicao_id": 2369,
+  "encadernacao": null,
+  "quantidade_paginas": 239,
+  "peso": 330,
+  "isbn": "8598559431",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A narrativa explora o processo de canalização, uma forma de comunicação espiritual acessível a qualquer pessoa, capaz de conectar o ser humano com a sabedoria universal e forças espirituais. A história acompanha um casal em sua jornada ao deserto, onde buscam se comunicar com o Anjo da Guarda sem o uso de métodos artificiais. Neste livro, Paulo Coelho revela mais sobre o homem por trás do autor, apresentando uma busca pessoal e espiritual profunda.",
+  "exemplar_id": 2368,
+  "sku": "LI01GE",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/paulo-coelho--as-valkirias--capa--20260316--155239.jpg",
+  "contracapa": "static/uploads/paulo-coelho--as-valkirias--contracapa--20260316--155246.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, apesar de leves sinais deixados pelo tempo. Texto livre de anotações ou sublinhados. Há pequeno selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:27:34",
+  "observacoes": null
+}

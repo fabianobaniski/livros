@@ -1,0 +1,68 @@
+{
+  "obra_id": 5762,
+  "autor": "Pe. Fábio de Melo",
+  "titulo": "Quem me roubou de mim?",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Relações humanas. Identidade pessoal. Psicologia das relações.",
+  "palavras_chave": "melo quem roubou mim",
+  "edicao_id": 5737,
+  "encadernacao": null,
+  "quantidade_paginas": 210,
+  "peso": 311,
+  "isbn": "9788542201604",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em <i>Quem me roubou de mim?</i> padre Fábio de Melo aborda uma violência sutil, mas destruidora, que aflige muitas pessoas: o sequestro da subjetividade. Essa expressão pouco comum refere-se à privação que sofremos de nós mesmos quando estabelecemos com alguém, nas palavras do próprio autor, “um vínculo que mina nossa capacidade de ser quem somos, de pensar por nós mesmos, de exercer nossa autonomia, de tomar decisões e exercer nossa liberdade de escolha.”</p><p><span style=\"color:#b30077;\">Uma vez sequestrados, perdemos a capacidade de sonhar, ficamos impossibilitados de viver as realizações para as quais fomos feitos e não temos com quem reclamar. Precisamos, portanto, estar sempre atentos para que isso não nos aconteça pois, como escreve padre Fábio: “Nenhuma relação humana está privada de se transformar em roubo, perda de identidade, ainda que as pessoas nos pareçam bem-intencionadas. Um só descuido e as relações podem evoluir para essa violência silenciosa. Basta que as pessoas se percam de seus referenciais, [...] que confundam o amor com posse, que abram mão de suas identidades, e que se ausentem de si mesmas.”</span></p>",
+  "sinopse": "Neste livro, padre Fábio de Melo reflete sobre uma violência sutil, porém devastadora: o sequestro da subjetividade. Quando estabelecemos laços que nos privam de ser quem realmente somos, perdemos nossa autonomia, capacidade de sonhar e nossa identidade. O autor alerta para o perigo de relações que, mesmo bem-intencionadas, podem nos afastar de nós mesmos. Com sensibilidade, ele propõe a importância de estarmos atentos para não confundirmos amor com posse, evitando que abramos mão de nossa liberdade e essência individual.",
+  "exemplar_id": 5736,
+  "sku": "LI0357",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/quem-me-roubou-de-mim__none__pe-fabio-de-melo__capa__2026-01-18_14-11-29-362166-000.png",
+  "contracapa": "static/uploads/quem-me-roubou-de-mim__none__pe-fabio-de-melo__contracapa__2026-01-18_14-11-29-748884-001.png",
+  "fotos": [
+    "static/uploads/quem-me-roubou-de-mim__none__pe-fabio-de-melo__foto-01__2026-01-18_14-11-29-805867-002.jpg",
+    "static/uploads/quem-me-roubou-de-mim__none__pe-fabio-de-melo__foto-02__2026-01-18_14-11-29-835626-003.jpg",
+    "static/uploads/quem-me-roubou-de-mim__none__pe-fabio-de-melo__foto-03__2026-01-18_14-11-29-866246-004.jpg",
+    "static/uploads/quem-me-roubou-de-mim__none__pe-fabio-de-melo__foto-04__2026-01-18_14-11-29-894074-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:36:46",
+  "observacoes": null
+}

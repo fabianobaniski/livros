@@ -1,0 +1,68 @@
+{
+  "obra_id": 5811,
+  "autor": "José de Alencar",
+  "titulo": "Luciola",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura romântica. Relações sociais no século XIX. Amor e preconceito. Prostituição e redenção.",
+  "palavras_chave": "alencar luciola",
+  "edicao_id": 5786,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 167,
+  "peso": 140,
+  "isbn": "9788525409546",
+  "editora": "L&PM Pocket",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "L&PM Pocket",
+  "volume": null,
+  "transcricao_contracapa": "<b>ROMANTISMO E SENSUALIDADE</b><br><p>Na melhor tradição romântica, <i>Luciola</i> é um livro onde se debatem paixões tórridas e contraditórias. O amor que não resiste às barreiras sociais e morais. Assim é o romance da bela Lúcia, a mais rica e cobiçada cortesã do Rio de Janeiro, e Paulo, um jovem modesto e frágil. Um romance que sacode a corte e provoca um excitado burburinho na sociedade. De um lado a mulher que, sendo de todos, jurava não se prender a nenhum homem; de outro, o homem em dúvida entre o amor e o preconceito.</p><p>José de Alencar utiliza este instigante argumento para descrever a enorme atração física entre um homem e uma mulher. A pena moralizadora do escritor busca a idealização espiritual da prostituta que quer se modificar e a alma pura de Paulo, cujo amor arrebatador supera todas as barreiras. <i>Luciola</i> é um dos mais curiosos trabalhos de José de Alencar. Há nele um clima de sensualidade constante, combinado com andor e sofrimento, bem na atmosfera da literatura romântica que predominava na segunda metade do século XIX, quando foi escrito.</p>",
+  "sinopse": "Luciola apresenta o encontro de Lúcia, a mais famosa cortesã do Rio de Janeiro, com Paulo, um jovem modesto. O romance entre eles desafia barreiras sociais e morais, enquanto ambos enfrentam dúvidas, preconceitos e uma intensa atração física. A história explora a idealização espiritual e a busca de redenção de Lúcia, além da pureza dos sentimentos de Paulo, em uma atmosfera marcada pela sensualidade e sofrimento que caracteriza a literatura romântica da segunda metade do século XIX.",
+  "exemplar_id": 5785,
+  "sku": "LI036K",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luciola__none__jose-de-alencar__capa__2026-01-18_14-11-56-775698-000.png",
+  "contracapa": "static/uploads/luciola__none__jose-de-alencar__contracapa__2026-01-18_14-11-56-791932-001.png",
+  "fotos": [
+    "static/uploads/luciola__none__jose-de-alencar__foto-01__2026-01-18_14-11-56-806178-002.jpg",
+    "static/uploads/luciola__none__jose-de-alencar__foto-02__2026-01-18_14-11-56-836812-003.jpg",
+    "static/uploads/luciola__none__jose-de-alencar__foto-03__2026-01-18_14-11-56-860897-004.jpg",
+    "static/uploads/luciola__none__jose-de-alencar__foto-04__2026-01-18_14-11-56-901665-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:23:32",
+  "observacoes": null
+}

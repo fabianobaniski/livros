@@ -1,0 +1,68 @@
+{
+  "obra_id": 1702,
+  "autor": "yann martel",
+  "titulo": "Beatriz & Virgílio",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "martel beatriz virgilio",
+  "edicao_id": 1682,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 179,
+  "peso": 200,
+  "isbn": "9788520924006",
+  "editora": "Nova Fronteira",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1681,
+  "sku": "LI00XR",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/yann-martel--beatriz---virg-lio--capa--20250401--115807.jpg",
+  "contracapa": "static/uploads/yann-martel--beatriz---virg-lio--contracapa--20250401--115808.jpg",
+  "fotos": [
+    "static/uploads/yann-martel--beatriz---virg-lio--foto1--20250401--115808.jpg",
+    "static/uploads/yann-martel--beatriz---virg-lio--foto2--20250401--115808.jpg",
+    "static/uploads/yann-martel--beatriz---virg-lio--foto3--20250401--115808.jpg",
+    "static/uploads/yann-martel--beatriz---virg-lio--foto4--20250401--115808.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:53:59",
+  "observacoes": null
+}

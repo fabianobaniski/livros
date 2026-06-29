@@ -1,0 +1,68 @@
+{
+  "obra_id": 1808,
+  "autor": "Cristovam Buarque",
+  "titulo": "Da ética à ética",
+  "subtitulo": "Minhas dúvidas sobre a Ciência Econômica",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Economia. Ética. Desenvolvimento social. Impactos econômicos. Problemas civilizatórios.",
+  "palavras_chave": "buarque etica duvidas sobre ciencia economica",
+  "edicao_id": 1788,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 195,
+  "peso": 330,
+  "isbn": "9788578389277",
+  "editora": "Ibpex",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A <b>ciência econômica não tornou o mundo melhor</b> ou mais belo; apenas o fez <b>mais rico</b>, definindo <i>riqueza</i> como aquilo que a própria economia produz. Apesar de mais discretos, os <b>impactos das decisões econômicas</b> podem ser mais destrutivos do que os das <b>bombas atômicas</b>.</p><p>Neste livro, o economista e educador Cristovam Buarque chama a atenção para o fato de que, no Brasil, mais do que em qualquer outro país em desenvolvimento, o conhecimento foi utilizado para realizar um projeto social que, apesar do êxito econômico, fracassou no ponto de vista social e ético.</p><p>Ao propor importantes reflexões, o autor destaca <b>a importância de ser economista no Brasil</b>, um país que representa, melhor do que qualquer outro, <b>a problemática da civilização</b>, em todas as suas manifestações e com <b>todos os recursos e necessidades</b> possíveis.</p>",
+  "sinopse": "Cristovam Buarque analisa neste livro como a ciência econômica, embora tenha enriquecido países, não trouxe avanços sociais ou éticos e, por vezes, causou impactos negativos. O autor reflete especialmente sobre o Brasil, onde o conhecimento econômico contribuiu para projetos bem-sucedidos financeiramente, mas que fracassaram do ponto de vista social e ético. Ele destaca a importância do papel do economista brasileiro diante dos desafios civilizatórios relacionados à distribuição de recursos e necessidades.",
+  "exemplar_id": 1787,
+  "sku": "LI010B",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/cristovam-buarque--da--tica----tica--capa--20250430--102950.jpg",
+  "contracapa": "static/uploads/cristovam-buarque--da--tica----tica--contracapa--20250430--102950.jpg",
+  "fotos": [
+    "static/uploads/cristovam-buarque--da--tica----tica--foto1--20250430--102950.jpg",
+    "static/uploads/cristovam-buarque--da--tica----tica--foto2--20250430--102950.jpg",
+    "static/uploads/cristovam-buarque--da--tica----tica--foto3--20250430--102950.jpg",
+    "static/uploads/cristovam-buarque--da--tica----tica--foto4--20250430--102950.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:33:33",
+  "observacoes": "procedencia_biblioteca"
+}

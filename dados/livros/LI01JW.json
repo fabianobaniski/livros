@@ -1,0 +1,63 @@
+{
+  "obra_id": 2516,
+  "autor": "Han Ong",
+  "titulo": "El maestro de Feng Shui",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "ong maestro feng shui",
+  "edicao_id": 2496,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 330,
+  "peso": 450,
+  "isbn": "9789500423939",
+  "editora": "Emecé",
+  "numero_edicao": 1,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "El maestro de Feng Shui narra o encontro casual entre William Narciso Paulinha, um taxista filipino ressentido que vive em Nova York, e Shem C., um escritor de má reputação. Juntos, eles elaboram um plano ousado: Paulinha se faz passar por um mestre de Feng Shui, ganhando rapidamente adeptos entre a elite de Nova York. No entanto, o controle da situação escapa de suas mãos, levando-os a enfrentar consequências trágicas. A obra é uma sátira mordaz sobre as modas e crenças cegamente seguidas, refletindo sobre o poder das ilusões na sociedade moderna.",
+  "exemplar_id": 2495,
+  "sku": "LI01JW",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/han-ong--el-maestro-de-feng-shui--capa--20260316--193703.jpg",
+  "contracapa": "static/uploads/han-ong--el-maestro-de-feng-shui--contracapa--20260316--193703.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:03:21",
+  "observacoes": null
+}

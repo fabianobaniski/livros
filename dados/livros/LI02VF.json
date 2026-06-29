@@ -1,0 +1,63 @@
+{
+  "obra_id": 5187,
+  "autor": "Kenji Sakaki",
+  "titulo": "Enigma",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mistério. Sobrenatural. Aventura.",
+  "palavras_chave": "sakaki enigma",
+  "edicao_id": 5162,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 190,
+  "isbn": "9788545700609",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>O e-test termina e Sumio Haiba e os outros conseguem 'Escapar do Destino'. Com os detalhes sobre o passado e as intenções do Enigma revelados, novos desafios surgem. Agora, Sumio é o novo Enigma! Será que ele conseguirá destruir o crânio e reverter a vida de todos que foram afetados pela maldição?</p>",
+  "sinopse": "O e-test chega ao fim e Sumio Haiba e seus amigos conseguem escapar do destino. Com o passado e as intenções de Enigma reveladas, novos desafios emergem. Sumio se torna o novo Enigma e deve destruir o crânio para salvar aqueles afetados pela maldição.",
+  "exemplar_id": 5161,
+  "sku": "LI02VF",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/enigma__kenji-sakaki__capa__2026-02-20_10-32-31-668559-000.png",
+  "contracapa": "static/uploads/enigma__kenji-sakaki__contracapa__2026-02-20_10-32-31-725205-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

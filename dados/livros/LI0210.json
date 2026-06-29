@@ -1,0 +1,63 @@
+{
+  "obra_id": 3132,
+  "autor": "Ubirajara Rodrigues",
+  "titulo": "Na Pista dos Ufos",
+  "subtitulo": "Discos Voadores no Sul de Minas Gerais",
+  "idioma": "Português",
+  "categoria": "Outros Assuntos",
+  "temas": null,
+  "palavras_chave": "rodrigues pista dos ufos",
+  "edicao_id": 3112,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 196,
+  "peso": 400,
+  "isbn": null,
+  "editora": "Cbpdv",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Abduções alienígenas com repercussões significativas para testemunhas e vítimas, aterrizagens de naves não terrestres com impressionantes evidências físicas e muito mais são alguns dos temas abordados pelo experiente autor neste livro que fincará marco na Ufologia Brasileira. Por que estariam os extraterrestres interessados no sul de Minas Gerais? Por que se mostram tão ativos naquela região?",
+  "exemplar_id": 3111,
+  "sku": "LI0210",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Publicado pelo Centro Brasileiro de Pesquisas em Discos Voadores, CBPDV. Muito bem cuidado, tendo, apenas, levíssimos desgastes naturais decorrentes da ação do tempo e do uso. Lombada reta, miolo firme, sem folhas soltas. Não possui anotações, sublinhados, rasgos, amassados nem marcas de umidade, sol excessivo, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:13:32",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

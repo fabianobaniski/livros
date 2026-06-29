@@ -1,0 +1,63 @@
+{
+  "obra_id": 2711,
+  "autor": "Malcolm Payne",
+  "titulo": "Modern social work theory",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "payne modern social work",
+  "edicao_id": 2691,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 354,
+  "peso": 350,
+  "isbn": "9780333676547",
+  "editora": "Springer Nature B. V.",
+  "numero_edicao": 2,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Modern Social Work Theory oferece uma análise abrangente das principais teorias no campo do serviço social, explorando suas origens, debates e implicações na prática. A obra destaca como a compreensão da construção das teorias no contexto moderno é essencial para os profissionais criticarem, desenvolverem e aplicarem essas ideias de forma eficaz. Com atualizações substanciais e novos capítulos sobre teorias anti-opressivas e antidiscriminatórias, o livro é uma referência valiosa para estudantes e profissionais que buscam aplicar teorias à realidade social contemporânea.",
+  "exemplar_id": 2690,
+  "sku": "LI01PB",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/modern-social-work-theory-malcolm-payne-capa_rev1783.jpg",
+  "contracapa": "static/uploads/modern-social-work-theory-malcolm-payne-contracapa_rev1478.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa apresentam leves sinais de uso. Corte um pouco sujo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:34",
+  "observacoes": null
+}

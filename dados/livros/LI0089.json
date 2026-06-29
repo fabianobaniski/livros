@@ -1,0 +1,68 @@
+{
+  "obra_id": 324,
+  "autor": "Augusto Cury",
+  "titulo": "O mestre dos mestres",
+  "subtitulo": "Jesus, o maior educador da história",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura religiosa. Psicologia. Educação.",
+  "palavras_chave": "cury mestre mestres jesus",
+  "edicao_id": 315,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 187,
+  "peso": 250,
+  "isbn": "8575422294",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "Análise da Inteligência de Cristo - Livro 1",
+  "volume": null,
+  "transcricao_contracapa": "<p>Ao longo da história, muitas pessoas conseguiram com suas ideias mudar o curso da política, da filosofia, da ciência ou da religião. Houve um homem, no entanto, que foi capaz não só de abalar os alicerces do pensamento como de alterar para sempre a trajetória da humanidade.</p> <p>Esse homem foi Jesus Cristo e seus ensinamentos geraram frutos há mais de dois mil anos. Suas incomparáveis inteligência e personalidade tornaram-no o perfeito ponto de partida para uma investigação sobre o funcionamento da mente e sua surpreendente capacidade de superação.</p> <p>Em O Mestre dos Mestres, primeiro volume da coleção Análise da Inteligência de Cristo, Augusto Cury faz uma original abordagem da vida desse grande personagem, revelando que sua inteligência era bem mais grandiosa do que imaginamos.</p> <p>Sob o ponto de vista da psicologia, Cury apresenta um fascinante estudo do comportamento de Jesus, iluminando os aspectos mais notáveis de suas atitudes. Quando se esperava que ele falasse, ele silenciava; quando se imaginava que ele puniria, perdoava; quando se achava que ele ostentaria seus feitos, mostrava-se humilde. Quando soube que seria preso, em vez de fugir, Jesus entregou-se ao destino e à morte.</p> <p>Ele viu de perto a fome, a miséria e a dor, mas manteve-se firme em seus propósitos. Tamara era sua capacidade de gerenciar as emoções que passaram. Jesus tornou-se o símbolo maior da esperança, do amor, da dignidade e da compaixão.</p> <p>Nestas páginas, você fará uma viagem pelos mistérios da mente do Mestre dos Mestres. Não importam quais sejam suas crenças, sua religião, posição social ou condição financeira, a mensagem de Cristo é universal e fala ao coração de todas as pessoas.</p>",
+  "sinopse": "O Mestre dos Mestres analisa a vida de Jesus Cristo sob uma nova perspectiva, explorando sua inteligência e comportamento. Augusto Cury investiga como suas respostas às adversidades e seu profundo entendimento das emoções o tornaram um símbolo maior de esperança e compaixão. Neste primeiro volume da coleção Análise da Inteligência de Cristo, a obra propõe uma reflexão sobre a mensagem universal de Jesus, que transcende crenças e contextos sociais.",
+  "exemplar_id": 314,
+  "sku": "LI0089",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/augusto-cury--o-mestre-dos-mestres--capa--20250226--133819.jpg",
+  "contracapa": "static/uploads/augusto-cury--o-mestre-dos-mestres--contracapa--20250226--133819.jpg",
+  "fotos": [
+    "static/uploads/augusto-cury--o-mestre-dos-mestres--foto1--20250226--133819.jpg",
+    "static/uploads/augusto-cury--o-mestre-dos-mestres--foto2--20250226--133819.jpg",
+    "static/uploads/augusto-cury--o-mestre-dos-mestres--foto3--20250226--133819.jpg",
+    "static/uploads/augusto-cury--o-mestre-dos-mestres--foto4--20250226--133819.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:30:37",
+  "observacoes": null
+}

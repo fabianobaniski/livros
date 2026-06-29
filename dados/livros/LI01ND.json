@@ -1,0 +1,63 @@
+{
+  "obra_id": 2641,
+  "autor": "Dominique Maingueneau",
+  "titulo": "La literatura pornográfica",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Crítica Literária",
+  "temas": "",
+  "palavras_chave": "maingueneau literatura pornografica",
+  "edicao_id": 2621,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 124,
+  "peso": 250,
+  "isbn": "9789506025823",
+  "editora": "Claves",
+  "numero_edicao": 1,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A pornografia sempre gerou debates filosóficos e morais, mas essas discussões não devem esconder sua relevância histórica. O autor analisa as práticas discursivas que moldaram a pornografia, destacando suas características desde o Renascimento até os dias atuais. Ele também explora o impacto das novas tecnologias e a crescente presença das mulheres nesse universo, tradicionalmente masculino. A obra oferece uma reflexão crítica sobre como a pornografia evoluiu e as implicações culturais de sua transformação ao longo do tempo.",
+  "exemplar_id": 2620,
+  "sku": "LI01ND",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/dominique-maingueneau--la-literatura-pornografica--capa--20260316--214155.jpg",
+  "contracapa": "static/uploads/dominique-maingueneau--la-literatura-pornografica--contracapa--20260316--214155.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:02:52",
+  "observacoes": null
+}

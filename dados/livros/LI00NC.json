@@ -1,0 +1,63 @@
+{
+  "obra_id": 882,
+  "autor": "Jonathan Edwards",
+  "titulo": "Caridade e seus frutos",
+  "subtitulo": "Um estudo sobre o amor em 1Coríntios 13",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Amor. Cristanismo.",
+  "palavras_chave": "edwards caridade frutos",
+  "edicao_id": 867,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 408,
+  "peso": 450,
+  "isbn": "9788581322803",
+  "editora": "FIEL",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Originalmente uma série de sermões, <i>Caridade e Seus Frutos</i> tornou-se uma obra clássica e das mais importantes de Jonathan Edwards. Nela, temos uma cuidadosa, detalhada e tocante exposição de 1Coríntios 13, onde Edwards apresenta a mais nobre, sublime e excelente virtude que o ser humano pode experimentar e praticar: o amor. Ele demonstra o que é o verdadeiro amor cristão e como vivê-lo.</p> <p>Um livro para todos, em todos os lugares e em todos os tempos.</p> <p>Em meus primeiros dias de ministério, não houve livros que me auxiliassem mais, seja pessoalmente, seja com respeito à minha pregação, do que esta obra de Jonathan Edwards. Se estivesse em meu poder, eu faria deste livro uma leitura obrigatória para todos os ministros! Edwards parece agradar a todos; realmente ele foi um homem extraordinário.</p> <p>D.M. Lloyd-Jones (1899-1981). Pregador e Ministro da Westminster Chapel, em Londres, Inglaterra.</p>",
+  "sinopse": "Caridade e Seus Frutos é um estudo profundo sobre o amor cristão, fundamentado em 1Coríntios 13. Jonathan Edwards explora como viver essa virtude essencial, apresentando o amor como fundamental na prática cristã. A obra, que teve origem em uma série de sermões, é considerada uma das mais importantes de Edwards, oferecendo insights valiosos para todos, em qualquer tempo e lugar.",
+  "exemplar_id": 866,
+  "sku": "LI00NC",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/jonathan-edwards--caridade-e-seus-frutos--capa--20250227--152910.jpg",
+  "contracapa": "static/uploads/jonathan-edwards--caridade-e-seus-frutos--contracapa--20250227--152910.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:15:16",
+  "observacoes": null
+}

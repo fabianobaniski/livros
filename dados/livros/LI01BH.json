@@ -1,0 +1,68 @@
+{
+  "obra_id": 2212,
+  "autor": "Anísio Costa Castelo Branco",
+  "titulo": "Matemática Financeira aplicada",
+  "subtitulo": "Método Algébrico, HP-12C, Microsoft Excel",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Matemática financeira. Métodos de cálculo. Aplicações financeiras.",
+  "palavras_chave": "branco matematica financeira aplicada",
+  "edicao_id": 2192,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 295,
+  "peso": 570,
+  "isbn": "9788522110148",
+  "editora": "Cengage Learning",
+  "numero_edicao": 3,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Matemática Financeira Aplicada<br>Método Algébrico, HP-12C, Microsoft Excel</p><p>Este livro tem como preocupação principal abordar de modo bastante claro os conceitos da matemática financeira e suas aplicações, bem como mostrar as várias soluções para os exemplos fornecidos. Para tanto, são apresentadas soluções na forma algébrica, pela calculadora financeira HP-12C e pelo programa de planilhas eletrônicas Excel.</p><p>Esse conjunto de preocupações faz deste livro, como afirma Luiz Gustavo Mauro Cardoso, \"um divisor de águas para o aprendizado de matemática financeira\", justificando outros depoimentos de profissionais de renome, como os de José Carlos Damasceno, Luiz Antonio Guariente, Maurício Agudo Romão, Werson Franco Pereira Rego, juiz de direito que prefaciou a segunda edição do livro, e Adriana Borghi Fernandes Monteiro, promotora de Justiça do Ministério Público do Estado de São Paulo, prefaciadora desta nova edição.</p>",
+  "sinopse": "Este livro tem como objetivo principal tornar claros os conceitos da matemática financeira e suas aplicações, apresentando soluções algébricas, com a HP-12C e em Excel. Indicado como um divisor de águas no aprendizado do tema, oferece explicações detalhadas e exemplos práticos para o leitor, contando ainda com depoimentos de profissionais renomados e atualizações nesta nova edição.",
+  "exemplar_id": 2191,
+  "sku": "LI01BH",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/an-sio-costa-castelo-branco--matem-tica-financeira-aplicada--capa--20250430--105058.jpg",
+  "contracapa": "static/uploads/an-sio-costa-castelo-branco--matem-tica-financeira-aplicada--contracapa--20250430--105058.jpg",
+  "fotos": [
+    "static/uploads/an-sio-costa-castelo-branco--matem-tica-financeira-aplicada--foto1--20250430--105058.jpg",
+    "static/uploads/an-sio-costa-castelo-branco--matem-tica-financeira-aplicada--foto2--20250430--105058.jpg",
+    "static/uploads/an-sio-costa-castelo-branco--matem-tica-financeira-aplicada--foto3--20250430--105058.jpg",
+    "static/uploads/an-sio-costa-castelo-branco--matem-tica-financeira-aplicada--foto4--20250430--105058.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:18:03",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 8,
+  "autor": "John Green",
+  "titulo": "O teorema Katherine",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção. Romance. Jovem adulto",
+  "palavras_chave": "green teorema katherine",
+  "edicao_id": 8,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 304,
+  "peso": 380,
+  "isbn": "9788580573152",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>19 KATHERINES</b></p><p><b>POR ENQUANTO...</b></p><p>Quando se trata de garotas (e, no caso de Colin, quase sempre se tratava), todo mundo tem seu tipo. O de Colin Singleton não é físico, mas linguístico: ele gosta de Katherines. E não de Katies, nem Kats, nem Kitties, nem Cathys, nem Rynns, nem Trinas, nem Kays, nem Kates, nem — Deus o livre — Catherines. K-A-T-H-E-R-I-N-E. Já teve dezenove namoradas. Todas chamadas Katherine. E todas elas — cada uma, individualmente falando — terminaram com ele.</p><p><i>\"Bastante divertido, desafiadoramente complexo e extremamente interessante.\"</i><br>— <b>Kirkus Reviews</b></p>",
+  "sinopse": "Colin Singleton tem um tipo específico de garota: Katherines. Ele já teve dezenove namoradas com esse nome, e todas terminaram com ele.",
+  "exemplar_id": 8,
+  "sku": "LI0007",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/john-green--o-teorema-katherine--capa--20250225--163026.jpg",
+  "contracapa": "static/uploads/john-green--o-teorema-katherine--contracapa--20250225--163026.jpg",
+  "fotos": [
+    "static/uploads/john-green--o-teorema-katherine--foto1--20250225--163026.jpg",
+    "static/uploads/john-green--o-teorema-katherine--foto2--20250225--163026.jpg",
+    "static/uploads/john-green--o-teorema-katherine--foto3--20250225--163026.jpg",
+    "static/uploads/john-green--o-teorema-katherine--foto4--20250225--163026.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:45:06",
+  "observacoes": null
+}

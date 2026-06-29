@@ -1,0 +1,63 @@
+{
+  "obra_id": 2668,
+  "autor": "Vários Autores",
+  "titulo": "Los días que vivimos en peligro",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "autores los dias que",
+  "edicao_id": 2648,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 260,
+  "peso": 350,
+  "isbn": "9789500431521",
+  "editora": "Emecé",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2647,
+  "sku": "LI01O4",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/los-dias-que-vivimos-en-peligro-varios-autores-capa_rev1011.jpg",
+  "contracapa": "static/uploads/los-dias-que-vivimos-en-peligro-varios-autores-contracapa_rev362.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Bordas pigmentadas pela ação do tempo.  Sinopse: Esta antologia, organizada por Santiago Llach e Juan Diego Incardona, explora 25 anos de democracia na Argentina, desde a ocupação das Ilhas Malvinas em 1982 até o conflito do governo com o campo em 2008. A obra mistura literatura e política, revisitando momentos chave da história do país sob o olhar da ficção. Com uma narrativa que captura a tensão e a incerteza desses eventos, o livro retrata dias em que tudo parece estar à beira da suspensão e da queda, cruzando as fronteiras perigosas entre realidade e imaginação."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:34:03",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2164,
+  "autor": "Antonio Vieira de Carvalho; Luiz Paulo do Nascimento; Ozileá Clen Gomes Serafim",
+  "titulo": "Administração de recursos humanos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Recursos humanos. Gestão participativa. Estratégia organizacional.",
+  "palavras_chave": "carvalho administracao recursos humanos",
+  "edicao_id": 2144,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 221,
+  "peso": 355,
+  "isbn": "9788522112845",
+  "editora": "Cengage Learning",
+  "numero_edicao": 2,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este trabalho, fruto de vasta experiência profissional e acadêmica dos autores, busca integrar valores, crenças, técnicas e procedimentos da gestão estratégica de pessoal. O objetivo central da obra é apresentar a gestão participativa de pessoas como a única capaz de promover o ambiente organizacional no qual os recursos humanos da empresa possam produzir, com a necessária eficiência e rapidez, conhecimentos alternativos válidos e atualizados para atuarem em um cenário de mudanças imponderáveis e novos paradigmas.</p><p>Escrito em linguagem acessível, Administração de Recursos Humanos é ricamente ilustrado, apresenta casos, questões para reflexão e questionários de autoavaliação. Os capítulos se sucedem em ordem lógica, com destaque para sistemas estratégicos de RH, novos enfoques sobre recrutamento, seleção de pessoal, técnicos em treinamento/desenvolvimento de pessoal, analistas de treinamento e instrutores de treinamento que necessitem de atualização profissional na área.</p><p><b>Aplicações</b><br>Livro-texto para a disciplina de recursos humanos nos cursos de graduação em Administração de Empresas. Recomendado para gerentes, especialistas, profissionais da área de RH e psicólogos.</p>",
+  "sinopse": "Este livro apresenta uma abordagem prática e estratégica sobre a gestão de recursos humanos, integrando valores, crenças e métodos da administração de pessoal. Destaca a importância da gestão participativa para promover eficiência, adaptabilidade e inovação nas organizações. Ilustrado e com atividades práticas, trata de temas como sistemas estratégicos de RH, recrutamento, seleção, treinamento e desenvolvimento de pessoas, sendo indicado para alunos, gestores e profissionais que buscam atualização na área.",
+  "exemplar_id": 2143,
+  "sku": "LI01A5",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/antonio-vieira-de-carvalho--administra--o-de-recursos-humanos--capa--20250430--104759.jpg",
+  "contracapa": "static/uploads/antonio-vieira-de-carvalho--administra--o-de-recursos-humanos--contracapa--20250430--104759.jpg",
+  "fotos": [
+    "static/uploads/antonio-vieira-de-carvalho--administra--o-de-recursos-humanos--foto1--20250430--104759.jpg",
+    "static/uploads/antonio-vieira-de-carvalho--administra--o-de-recursos-humanos--foto2--20250430--104759.jpg",
+    "static/uploads/antonio-vieira-de-carvalho--administra--o-de-recursos-humanos--foto3--20250430--104759.jpg",
+    "static/uploads/antonio-vieira-de-carvalho--administra--o-de-recursos-humanos--foto4--20250430--104759.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:01:14",
+  "observacoes": "procedencia_biblioteca"
+}

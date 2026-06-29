@@ -1,0 +1,63 @@
+{
+  "obra_id": 941,
+  "autor": "Michael S. Horton",
+  "titulo": "Creio",
+  "subtitulo": "Redescobrindo o alicerce espiritual",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Fé. Doutrina. Cristianismo.",
+  "palavras_chave": "horton creio redescobrindo",
+  "edicao_id": 926,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 240,
+  "peso": 350,
+  "isbn": "",
+  "editora": "Cultura Cristã",
+  "numero_edicao": 1,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Credo dos Apóstolos e as realidades doutrinárias irremovíveis que expressa, fornecem um alicerce seguro que as filosofias pós-modernas simplesmente não podem duplicar. O credo antigo oferece a verdade prática que ajuda os cristãos a encontrarem o alicerce espiritual em vez de construírem suas vidas na areia inconstante de uma cultura à mercê do relativismo. Com uma análise sucinta e investigadora, CREIO reapresenta o Credo dos Apóstolos a uma nova geração, provando que sua mensagem é muito mais do que conceitos abstratos a serem discutidos entre teólogos. Em CREIO, o autor Michael Horton trata das grandes questões que o credo responde:</p><p>COMO PODEMOS CONHECER A DEUS?<br>QUEM PRECISA DA IGREJA?<br>NÓS AINDA PODEMOS ACREDITAR NA RESSURREIÇÃO?<br>EXISTE REALMENTE SÓ UM CAMINHO PARA DEUS?<br>DEUS ESTÁ SEMPRE CERTO?</p><p>Ele mostra que as respostas são eternas – tão aplicáveis aos cristãos de hoje quanto para aqueles nos primeiros séculos da Igreja.</p>",
+  "sinopse": "Creio explora o Credo dos Apóstolos como um alicerce para a fé cristã, abordando questões fundamentais da doutrina e da vida cristã. Com uma análise incisiva, o autor Michael Horton revela como essas verdades permanecem relevantes e aplicáveis para os cristãos de todos os tempos, desafiando-os a viver de acordo com a fé e a compreensão de Deus.",
+  "exemplar_id": 925,
+  "sku": "LI00OZ",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/michael-s--horton--creio--capa--20250227--152915.jpg",
+  "contracapa": "static/uploads/michael-s--horton--creio--contracapa--20250227--152915.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:15:41",
+  "observacoes": null
+}

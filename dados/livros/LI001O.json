@@ -1,0 +1,68 @@
+{
+  "obra_id": 64,
+  "autor": "Ronald Anthony",
+  "titulo": "Um ano inesquecível",
+  "subtitulo": "Um grande amor nem o tempo pode apagar.",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Amor. Família. Relações intergeracionais. Redescoberta.",
+  "palavras_chave": "anthony ano inesquecivel",
+  "edicao_id": 64,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 303,
+  "peso": 400,
+  "isbn": "9788581630335",
+  "editora": "Novo Conceito",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>“Um Ano Inesquecível</i> é puro prazer do início ao fim, escrito de uma maneira linda e emocionalmente rica. Ronald Anthony é um novo talento brilhante que cria ótimos personagens pelos quais os leitores vão torcer.”<br>— <b>Susan Elizabeth Phillips</b>, autora best-seller do <i>The New York Times</i></p> <p>Quando Jesse Sienna tem a oportunidade de chamar seu pai para morar com ele, vê nisso também a oportunidade de ter um relacionamento mais próximo.</p> <p>Mickey Sienna, aos 83 anos, se vê diante de um futuro incerto depois que sua esposa morre. Jesse, aos trinta e poucos anos, é um jornalista que passou por algumas desilusões amorosas e namora a bela Marina. Seu pai, ao conhecê-la, percebe que Marina tem algo especial e que precisa alertar seu filho de que ele não pode perdê-la. Jesse não está agindo do modo certo com Marina e, assim, Mickey decide contar ao filho a emocionante história dele com Gina, seu grande amor.</p> <p>No entanto, o que parecia ser apenas o relato de mais uma história do passado, poderá revelar a Jesse uma faceta de seu pai que ele nunca conheceu e transformar a vida de ambos de um modo que nunca poderiam imaginar.</p> <p><i>Um Ano Inesquecível</i> é uma história singular sobre o verdadeiro amor e sobre como ele pode ser poderoso em qualquer época e na vida de qualquer pessoa.</p>",
+  "sinopse": "Jesse Sienna convida seu pai, Mickey, de 83 anos, para morar com ele após a morte de sua mãe. Enquanto tenta aconselhar Jesse sobre seu relacionamento com Marina, Mickey compartilha sua própria história de amor com Gina. O que começa como um simples relato do passado acaba transformando a relação entre pai e filho de maneira inesperada.",
+  "exemplar_id": 63,
+  "sku": "LI001O",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/ronald-anthony--um-ano-inesquec-vel--capa--20250225--232214.jpg",
+  "contracapa": "static/uploads/ronald-anthony--um-ano-inesquec-vel--contracapa--20250225--232214.jpg",
+  "fotos": [
+    "static/uploads/ronald-anthony--um-ano-inesquec-vel--foto1--20250225--232214.jpg",
+    "static/uploads/ronald-anthony--um-ano-inesquec-vel--foto2--20250225--232214.jpg",
+    "static/uploads/ronald-anthony--um-ano-inesquec-vel--foto3--20250225--232214.jpg",
+    "static/uploads/ronald-anthony--um-ano-inesquec-vel--foto4--20250225--232214.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:35:28",
+  "observacoes": null
+}

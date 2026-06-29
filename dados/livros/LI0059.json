@@ -1,0 +1,68 @@
+{
+  "obra_id": 212,
+  "autor": "E. L. James",
+  "titulo": "Cinquenta tons de liberdade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Relações Interpessoais. Auto-descoberta.",
+  "palavras_chave": "james cinquenta tons liberdade",
+  "edicao_id": 206,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 543,
+  "peso": 450,
+  "isbn": "9788580572162",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "Trilogia Cinquenta tons de cinza",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quando Anastasia Steele conheceu o jovem empresário Christian Grey, teve início um sensual caso de amor que mudou a vida dos dois irrevogavelmente. Chocada, intrigada e, por fim, repelida pelas estranhas práticas sexuais de Christian, Ana exige um compromisso mais sério. Determinado a não perdê-la, ele concorda.</p> <p>Agora Ana e Christian têm tudo: amor, paixão, intimidade, riqueza e um mundo de possibilidades à sua frente. Mas Ana sabe que o relacionamento não será fácil, e a vida a dois reserva desafios que nenhum deles seria capaz de imaginar. Ana precisa se ajustar ao mundo de opulência de Grey sem sacrificar sua identidade. E ele deve aprender a dominar seu impulso controlador e se livrar dos fantasmas do passado.</p> <p>Quando finalmente parece que a força dessa união vai vencer qualquer obstáculo, o destino muda mais uma vez, e os piores medos de Ana podem se tornar realidade.</p>",
+  "sinopse": "Anastasia Steele e Christian Grey enfrentam desafios em seu relacionamento que promete amor, paixão e intimidade, mas exige que ambos se adaptem e superem obstáculos do passado para manter sua união.",
+  "exemplar_id": 205,
+  "sku": "LI0059",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/e-l-james--cinquenta-tons-de-liberdade--capa--20250226--133806.jpg",
+  "contracapa": "static/uploads/e-l-james--cinquenta-tons-de-liberdade--contracapa--20250226--133806.jpg",
+  "fotos": [
+    "static/uploads/e-l-james--cinquenta-tons-de-liberdade--foto1--20250226--133806.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-de-liberdade--foto2--20250226--133806.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-de-liberdade--foto3--20250226--133806.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-de-liberdade--foto4--20250226--133806.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:37:29",
+  "observacoes": null
+}

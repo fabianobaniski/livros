@@ -1,0 +1,68 @@
+{
+  "obra_id": 117,
+  "autor": "John Le Carré",
+  "titulo": "O espião que saiu do frio",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Espionagem. Guerra Fria.",
+  "palavras_chave": "carré espião frio",
+  "edicao_id": 115,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 259,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os obscuros meandros e os bastidores da espionagem política retratados em toda a crueza e violência. John Le Carré aproveita sua experiência de diplomata para apresentar o quadro terrível da Guerra Fria. O livro mostra a crueldade de um mundo dividido entre facções que se combatem surdamente e o drama de vidas marcadas pela existência do muro de Berlim. \"Temos de viver sem compaixão...\" — afirma um dos personagens, revelando a regra básica de um jogo político onde não há lugar para nobres sentimentos.</p>",
+  "sinopse": "A narrativa se desenrola em torno dos meandros da espionagem política durante a Guerra Fria, revelando a crueldade e a violência de um mundo dividido. John Le Carré explora sua experiência diplomática para apresentar os dramas e a complexidade das vidas no contexto do muro de Berlim.",
+  "exemplar_id": 114,
+  "sku": "LI002T",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/john-le-carr---o-espi-o-que-saiu-do-frio--capa--20250226--114602.jpg",
+  "contracapa": "static/uploads/john-le-carr---o-espi-o-que-saiu-do-frio--contracapa--20250226--114602.jpg",
+  "fotos": [
+    "static/uploads/john-le-carr---o-espi-o-que-saiu-do-frio--foto1--20250226--114602.jpg",
+    "static/uploads/john-le-carr---o-espi-o-que-saiu-do-frio--foto2--20250226--114602.jpg",
+    "static/uploads/john-le-carr---o-espi-o-que-saiu-do-frio--foto3--20250226--114602.jpg",
+    "static/uploads/john-le-carr---o-espi-o-que-saiu-do-frio--foto4--20250226--114602.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:06:15",
+  "observacoes": null
+}

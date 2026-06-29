@@ -1,0 +1,63 @@
+{
+  "obra_id": 2976,
+  "autor": "Derek Robinson",
+  "titulo": "War story",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "robinson war story",
+  "edicao_id": 2956,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 344,
+  "peso": 350,
+  "isbn": "9780304356423",
+  "editora": "Cassell",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em 1916, o jovem patriota Oliver Paxton entra para o Royal Flying Corps, ansioso para provar seu valor na Primeira Guerra Mundial. Contudo, após dois meses nos céus da batalha do Somme, ele se depara com a dura realidade do combate aéreo, a moral frouxa e a crueldade de seus companheiros. Aos poucos, Paxton vê seu entusiasmo se transformar em desilusão. Escrito por Derek Robinson, War Story é uma narrativa impactante que expõe os absurdos da guerra, mesclando ação e reflexão sobre os horrores do conflito.",
+  "exemplar_id": 2955,
+  "sku": "LI01WO",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/war-story-derek-robinson-capa_rev1877.jpg",
+  "contracapa": "static/uploads/war-story-derek-robinson-contracapa_rev1875.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:59:28",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 682,
+  "autor": "A. W. Pink",
+  "titulo": "A inspiração divina da Bíblia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Teologia.",
+  "palavras_chave": "pink inspiracao divina biblia",
+  "edicao_id": 667,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 127,
+  "peso": 250,
+  "isbn": "9788562478710",
+  "editora": "Monergismo",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O cristianismo é a religião de um Livro. O cristianismo baseia-se na inexpgunável rocha da Escritura Sagrada. O ponto de partida de toda discussão doutrinária só pode ser a Bíblia. Sobre o alicerce da inspiração divina da Bíblia permanece ou cai todo o edificado da verdade cristã.</p> <p>Renuncie ao dogma da inspiração verbal, e você será deixado como um navio sem leme num mar tempestuoso, à mercê de todo vento que sobre. Negue que a Bíblia é, sem nenhuma condição ou restrição, a verdadeira Palavra de Deus, e você ficará sem nenhum padrão para avaliação e sem nenhuma autoridade suprema. É inútil discutir qualquer doutrina ensinada pela Bíblia, enquanto você não estiver disposto a reconhecer, sem reserva, que a Bíblia é o supremo e final tribunal de recursos. Conceda que a Bíblia é uma revelação e comunicação divina dos pensamentos e da vontade de Deus aos homens, e você terá fixado um ponto de partida do qual poderá avançar rumo aos domínios da verdade. Conceda que a Bíblia é inerrante e infalível, e você chegará ao lugar onde o estudo de seu conteúdo é prático e proveitoso.</p> <p>A. W. Pink (1886-1952) foi um evangelista e escritor bíblico conhecido por seus ensinos de persuasão calvinista e puritana. Nascido na Inglaterra, tornou-se cristão aos 22 anos e logo em seguida imigrou para os Estados Unidos a fim de estudar a Bíblia. Pastoreou igrejas nos Estados Unidos, Inglaterra e Austrália. A grande circulação de suas obras após sua morte, fez de Pink um dos autores evangélicos mais influentes da segunda metade do século XX. Seus escritos causaram um reavivamento na pregação expositiva e desafiaram seus leitores a viverem uma vida cristã vigorosa.</p>",
+  "sinopse": "O livro discute a importância da inspiração divina da Bíblia dentro do cristianismo, enfatizando que essa inspiração é fundamental para a doutrina e a vida cristã. O autor argumenta que renunciar a essa base levaria a um colapso de certeza na fé e orientações morais.",
+  "exemplar_id": 666,
+  "sku": "LI00HX",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/a--w--pink--a-inspira--o-divina-da-b-blia--capa--20250227--152857.jpg",
+  "contracapa": "static/uploads/a--w--pink--a-inspira--o-divina-da-b-blia--contracapa--20250227--152857.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:26:41",
+  "observacoes": null
+}

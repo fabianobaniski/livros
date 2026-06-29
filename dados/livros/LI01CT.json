@@ -1,0 +1,68 @@
+{
+  "obra_id": 2260,
+  "autor": "Maria Luiza Belloni",
+  "titulo": "Educação a distância",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Educação a distância. Inovação educacional. Tecnologias educacionais.",
+  "palavras_chave": "belloni educacao distancia",
+  "edicao_id": 2240,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 127,
+  "peso": 310,
+  "isbn": "9788585701772",
+  "editora": "Autores Associados",
+  "numero_edicao": 6,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Nas sociedades</b> \"radicalmente modernas\", mudanças sociais aceleradas – sobretudo o espantoso avanço das tecnologias da informação e comunicação – vêm provocando, se não mudanças profundas, pelo menos desequilíbrios estruturais no campo da educação.</p><p>Tais mudanças exigem transformações nos sistemas educacionais que se veem confrontados com novas funções e novos desafios. O papel da educação transforma-se, e suas estratégias modificam-se para atender às novas demandas educativas da sociedade do \"saber\" ou da \"informação\".</p><p>Este ensaio sobre educação a distância pretende trazer ao leitor brasileiro algumas das principais questões ligadas à crise atual da educação, especialmente aquelas relacionadas à inovação educacional e às novas tecnologias.</p><p>Espera-se com ele trazer uma modesta colaboração para o debate sobre o ensino a distância e suas possíveis contribuições, numa perspectiva de aprendizagem aberta e educação ao longo da vida, na qual o uso dos mais avançados instrumentos técnicos torne possível e estimule um processo de aprendizagem autônomo voltado para a emancipação do aprendente do terceiro milênio.</p>",
+  "sinopse": "O livro discute as transformações nos sistemas educacionais em sociedades modernas, destacando o impacto das novas tecnologias da informação e comunicação. Analisa o papel da educação a distância e suas estratégias diante das demandas da sociedade do saber, trazendo questões sobre a crise atual da educação, inovação educacional e o uso de novas tecnologias. Oferece uma contribuição ao debate sobre ensino a distância, defendendo a aprendizagem aberta, ao longo da vida e autônoma, com foco na emancipação do aprendiz do terceiro milênio.",
+  "exemplar_id": 2239,
+  "sku": "LI01CT",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maria-luiza-belloni--educa--o-a-dist-ncia--capa--20250430--105105.jpg",
+  "contracapa": "static/uploads/maria-luiza-belloni--educa--o-a-dist-ncia--contracapa--20250430--105105.jpg",
+  "fotos": [
+    "static/uploads/maria-luiza-belloni--educa--o-a-dist-ncia--foto1--20250430--105105.jpg",
+    "static/uploads/maria-luiza-belloni--educa--o-a-dist-ncia--foto2--20250430--105105.jpg",
+    "static/uploads/maria-luiza-belloni--educa--o-a-dist-ncia--foto3--20250430--105105.jpg",
+    "static/uploads/maria-luiza-belloni--educa--o-a-dist-ncia--foto4--20250430--105105.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:53:03",
+  "observacoes": "procedencia_biblioteca"
+}

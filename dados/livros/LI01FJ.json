@@ -1,0 +1,63 @@
+{
+  "obra_id": 2358,
+  "autor": "Valéria Toldo e Outros",
+  "titulo": "Acervo Fotográfico Paróquia Nossa Senhora Aparecida",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Brasil",
+  "temas": "",
+  "palavras_chave": "outros acervo fotografico paroquia",
+  "edicao_id": 2338,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 142,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Não Identificada",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2337,
+  "sku": "LI01FJ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/valeria-toldo-e-outros--acervo-fotografico-paroquia-nossa-senhora-aparecida--capa--20260316--153608.jpg",
+  "contracapa": "static/uploads/valeria-toldo-e-outros--acervo-fotografico-paroquia-nossa-senhora-aparecida--contracapa--20260316--153614.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Ilustrações em preto & branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:00:34",
+  "observacoes": null
+}

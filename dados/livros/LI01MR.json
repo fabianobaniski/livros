@@ -1,0 +1,63 @@
+{
+  "obra_id": 2619,
+  "autor": "Antonio Celso Mendes",
+  "titulo": "Introdução ao universo dos símbolos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "mendes introducao universo dos",
+  "edicao_id": 2599,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 166,
+  "peso": 300,
+  "isbn": "9788536226446",
+  "editora": "Juruá",
+  "numero_edicao": 0,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2598,
+  "sku": "LI01MR",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/antonio-celso-mendes--introducao-ao-universo-dos-simbolos--capa--20260316--213424.jpg",
+  "contracapa": "static/uploads/antonio-celso-mendes--introducao-ao-universo-dos-simbolos--contracapa--20260316--213424.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:29:40",
+  "observacoes": null
+}

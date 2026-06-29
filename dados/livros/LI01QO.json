@@ -1,0 +1,63 @@
+{
+  "obra_id": 2760,
+  "autor": "Paulo Coelho",
+  "titulo": "O diário de um mago",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "coelho diario mago",
+  "edicao_id": 2740,
+  "encadernacao": null,
+  "quantidade_paginas": 246,
+  "peso": 300,
+  "isbn": "9788532500342",
+  "editora": "Rocco",
+  "numero_edicao": 113,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Paulo Coelho relata sua jornada de três meses a pé pelos 700 quilômetros entre o sul da França e Santiago de Compostela, na Espanha. Durante a peregrinação, ele busca os mistérios sagrados da magia e vive experiências místicas ao lado de seu guia italiano, Petrus. Ao longo do caminho, ele se depara com desafios espirituais e revelações profundas, explorando as Práticas de RAM e o sentido da fé. O Estranho Caminho de Santiago é uma narrativa sobre autoconhecimento, superação e a descoberta do espiritual através de uma antiga rota sagrada.",
+  "exemplar_id": 2739,
+  "sku": "LI01QO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-diario-de-um-mago-paulo-coelho-capa_rev2043.jpg",
+  "contracapa": "static/uploads/o-diario-de-um-mago-paulo-coelho-contracapa_rev1942.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, apesar de leves sinais deixados pelo tempo. Texto livre de anotações ou sublinhados. Há pequeno selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:02:57",
+  "observacoes": null
+}

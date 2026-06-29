@@ -1,0 +1,63 @@
+{
+  "obra_id": 2448,
+  "autor": "Mário de Andrade",
+  "titulo": "Contos e poemas (seleção)",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "andrade contos poemas selecao",
+  "edicao_id": 2428,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 127,
+  "peso": 241,
+  "isbn": "9788577433179",
+  "editora": "Expressão Popular",
+  "numero_edicao": 1,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta coletânea destaca a contribuição de Mário de Andrade para a cultura brasileira, explorando sua luta contra o academicismo e seu esforço em criar uma estética e uma consciência nacional. Os textos reunidos, incluindo Os contos de Belazarte e Contos novos, mostram a importância da pesquisa linguística e o abrasileiramento de combate na obra do autor. Andrade busca se aproximar dos setores sociais, refletindo em sua produção literária as aspirações e a realidade do Brasil. A obra revela seu compromisso com a arte como expressão social e política.",
+  "exemplar_id": 2427,
+  "sku": "LI01I0",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/mario-de-andrade--contos-e-poemas-selecao--capa--20260316--185614.jpg",
+  "contracapa": "static/uploads/mario-de-andrade--contos-e-poemas-selecao--contracapa--20260316--185614.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:13:25",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1849,
+  "autor": "Pedro Paulo Carbone; Hugo Pena Brandão; João Batista Diniz Leite; Rosa Maria de Paula Vilhena",
+  "titulo": "Gestão por competências e gestão do conhecimento",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Gestão de pessoas. Competências profissionais. Gestão do conhecimento.",
+  "palavras_chave": "carbone gestao competencias conhecimento",
+  "edicao_id": 1829,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 230,
+  "isbn": "9788522507191",
+  "editora": "FGV",
+  "numero_edicao": 3,
+  "ano": 2009,
+  "serie": "Série Gestão de Pessoas",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>SÉRIE GESTÃO DE PESSOAS</b></p><ul><li>Atração e seleção de pessoas</li><li>Capacitação e desenvolvimento de pessoas</li><li>Cargos, carreiras e remuneração</li><li>Consultoria em gestão de pessoas</li><li>Desenvolvimento de equipes</li><li>Gestão de desempenho</li><li>Gestão estratégica de pessoas</li><li>Gestão por competências e gestão do conhecimento</li><li>Liderança e motivação</li><li>Modelos de gestão</li></ul><h1>Gestão por competências<br>e gestão do conhecimento</h1><p>Os livros da <b>Série Gestão de Pessoas</b> das <b>Publicações FGV Management</b> visam atender à demanda por profissionais cada vez mais preparados para responder aos desafios do mercado.</p><p>Pela base conceitual que os sustenta, esses livros oferecem a estudantes, gestores e técnicos – a todos, enfim, que têm internalizado o conceito de educação continuada, tão relevante nesta era do conhecimento – ferramentas indispensáveis ao seu crescimento profissional.</p>",
+  "sinopse": "O livro 'Gestão por competências e gestão do conhecimento' faz parte da Série Gestão de Pessoas das Publicações FGV Management. Voltado para estudantes, gestores e técnicos, atende à demanda crescente por profissionais preparados para desafios de mercado. Baseado em conceitos sólidos, a obra propõe ferramentas essenciais para o desenvolvimento profissional, especialmente para aqueles que valorizam a educação continuada e buscam relevância na era do conhecimento.",
+  "exemplar_id": 1828,
+  "sku": "LI011F",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/pedro-paulo-carbone--gest-o-por-compet-ncias--capa--20250430--104248.jpg",
+  "contracapa": "static/uploads/pedro-paulo-carbone--gest-o-por-compet-ncias--contracapa--20250430--104248.jpg",
+  "fotos": [
+    "static/uploads/pedro-paulo-carbone--gest-o-por-compet-ncias--foto1--20250430--104248.jpg",
+    "static/uploads/pedro-paulo-carbone--gest-o-por-compet-ncias--foto2--20250430--104248.jpg",
+    "static/uploads/pedro-paulo-carbone--gest-o-por-compet-ncias--foto3--20250430--104248.jpg",
+    "static/uploads/pedro-paulo-carbone--gest-o-por-compet-ncias--foto4--20250430--104248.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:13:17",
+  "observacoes": "procedencia_biblioteca"
+}

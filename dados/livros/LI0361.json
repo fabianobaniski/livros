@@ -1,0 +1,68 @@
+{
+  "obra_id": 5792,
+  "autor": "Sônia Aparecida Santiago",
+  "titulo": "Ciências morfofuncionais dos sistemas tegumentar, reprodutor e locomotor",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biologia",
+  "temas": "",
+  "palavras_chave": "ciencias morfofuncionais dos sistemas tegumentar reprodutor locomotor",
+  "edicao_id": 5767,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 370,
+  "isbn": "9788584822263",
+  "editora": "KLS",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5766,
+  "sku": "LI0361",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ciencias-morfofuncionais-dos-sistemas-tegumentar-reprodutor-e-locomotor__none__none__capa__2026-01-18_14-11-46-684676-000.png",
+  "contracapa": "static/uploads/ciencias-morfofuncionais-dos-sistemas-tegumentar-reprodutor-e-locomotor__none__none__contracapa__2026-01-18_14-11-46-709306-001.png",
+  "fotos": [
+    "static/uploads/ciencias-morfofuncionais-dos-sistemas-tegumentar-reprodutor-e-locomotor__none__none__foto-01__2026-01-18_14-11-46-725392-002.jpg",
+    "static/uploads/ciencias-morfofuncionais-dos-sistemas-tegumentar-reprodutor-e-locomotor__none__none__foto-02__2026-01-18_14-11-46-754465-003.jpg",
+    "static/uploads/ciencias-morfofuncionais-dos-sistemas-tegumentar-reprodutor-e-locomotor__none__none__foto-03__2026-01-18_14-11-46-794419-004.jpg",
+    "static/uploads/ciencias-morfofuncionais-dos-sistemas-tegumentar-reprodutor-e-locomotor__none__none__foto-04__2026-01-18_14-11-46-823637-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:43:13",
+  "observacoes": "procedencia_biblioteca"
+}

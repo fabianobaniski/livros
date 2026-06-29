@@ -1,0 +1,68 @@
+{
+  "obra_id": 104,
+  "autor": "Douglas Adams",
+  "titulo": "Praticamente inofensiva",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção Científica. Comédia.",
+  "palavras_chave": "adams praticamente inofensiva ",
+  "edicao_id": 102,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 300,
+  "isbn": "9788599296981",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "O Mochileiro das Galáxias (Livro 5)",
+  "volume": null,
+  "transcricao_contracapa": "<p>Praticamente Inofensiva é tão polêmico quanto seu criador... Muitos o consideram o último volume da série O Mochileiro das Galáxias e outros afirmam tratar-se de um título independente, que apenas utiliza os mesmos personagens. Parte dessa controvérsia se deve aos 13 anos que separaram este livro da primeira aventura de Arthur Dent, já que Adams iniciou a coleção no final dos anos 1970 e somente em 1992 retomou a história.</p><p>As inúmeras mudanças políticas, culturais e, principalmente, tecnológicas que aconteceram nesse período influenciaram os rumos da narrativa e tornaram Praticamente Inofensiva uma obra singular. Mas, em vez de perder o tom, Adams é ainda mais irônico e profundo ao divagar sobre a vida, o Universo e tudo mais.</p><p>Situações hilárias, personagens imprevisíveis, descrições poéticas e paisagens surreais se mesclam com perfeição, resultando numa trama cheia de suspense, comédia e filosofia. Depois de muitos anos, Arthur Dent, Tricia McMillan e Ford Prefect se reencontram. Mas o que deveria ser uma festejada reunião de velhos amigos se transforma numa terrível confusão que põe em risco a vida de todos.</p><p>Praticamente Inofensiva é o toque final de Adams nessa divertida história: ele é o último presente do autor para os mais de 15 milhões de fãs que adoraram sua obra como ícone de uma geração.</p>",
+  "sinopse": "No último volume da série O Mochileiro das Galáxias, Douglas Adams traz uma história que reflete sobre as mudanças políticas, culturais e tecnológicas que influenciaram a narrativa. Arthur Dent, Tricia McMillan e Ford Prefect se reencontram em uma festa, mas a reunião se transforma em uma confusão que coloca suas vidas em risco. Com humor único e reflexões profundas, Praticamente Inofensiva destaca-se como uma obra que celebra a genialidade cômica do autor.",
+  "exemplar_id": 101,
+  "sku": "LI002H",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/douglas-adams--praticamente-inofensiva--capa--20250226--114050.jpg",
+  "contracapa": "static/uploads/douglas-adams--praticamente-inofensiva--contracapa--20250226--114050.jpg",
+  "fotos": [
+    "static/uploads/douglas-adams--praticamente-inofensiva--foto1--20250226--114050.jpg",
+    "static/uploads/douglas-adams--praticamente-inofensiva--foto2--20250226--114050.jpg",
+    "static/uploads/douglas-adams--praticamente-inofensiva--foto3--20250226--114050.jpg",
+    "static/uploads/douglas-adams--praticamente-inofensiva--foto4--20250226--114050.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:09:07",
+  "observacoes": null
+}

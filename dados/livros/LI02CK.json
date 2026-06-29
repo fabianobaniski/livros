@@ -1,0 +1,68 @@
+{
+  "obra_id": 3553,
+  "autor": "Nobuhiro Watsuki",
+  "titulo": "Rurouni Kenshin",
+  "subtitulo": "Crônicas da Era Meiji",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Japão feudal. Samurai.",
+  "palavras_chave": "watsuki rurouni kenshin cronicas",
+  "edicao_id": 3530,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 280,
+  "isbn": "9788577878642",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": 20,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3529,
+  "sku": "LI02CK",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__capa__2025-11-05_16-16-33-388850.jpg",
+  "contracapa": "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__contracapa__2025-11-05_16-16-33-429527.jpg",
+  "fotos": [
+    "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__foto-01__2025-11-05_16-16-33-462769.jpg",
+    "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__foto-02__2025-11-05_16-16-33-492034.jpg",
+    "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__foto-03__2025-11-05_16-16-33-515190.jpg",
+    "static/uploads/rurouni-kenshin__cronicas-da-era-meiji__nobuhiro-watsuki__foto-04__2025-11-05_16-16-33-537657.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:56:50",
+  "observacoes": null
+}

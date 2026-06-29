@@ -1,0 +1,63 @@
+{
+  "obra_id": 593,
+  "autor": "David Searle",
+  "titulo": "Na força do seu poder",
+  "subtitulo": "Armando-se para a batalha espiritual",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Desenvolvimento pessoal. Crescimento espiritual.",
+  "palavras_chave": "searle força poder",
+  "edicao_id": 578,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Com fartos conselhos práticos e ilustrações acessíveis, o autor nos mostra que esta força não consiste de algum conceito teológico etéreo. Ela é um poder real que nos ajuda no lar, no trabalho, na igreja e na comunidade.</p> <p>David Searle é Administrador da casa Rutherford, em Edimburgo, Escócia. Antes desta atividade, pastoreou igrejas na Escócia e na Irlanda do Norte.</p> <p>DEVOCIONAL/CRESCIMENTO/ESTUDO BÍBLICO</p>",
+  "sinopse": "Este livro oferece conselhos práticos sobre como acessar um poder espiritual que é real e aplicável no dia a dia. O autor, David Searle, compartilha suas experiências e orientações para ajudar os leitores a se armarem para batalhas espirituais, tanto em casa quanto na comunidade.",
+  "exemplar_id": 577,
+  "sku": "LI00FG",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/david-searle--na-for-a-do-seu-poder--capa--20250227--152852.jpg",
+  "contracapa": "static/uploads/david-searle--na-for-a-do-seu-poder--contracapa--20250227--152852.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:13:20",
+  "observacoes": null
+}

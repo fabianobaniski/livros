@@ -1,0 +1,63 @@
+{
+  "obra_id": 5155,
+  "autor": "Kazuo Koike",
+  "titulo": "Novo Lobo Solitário",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Arte. Mangá. Japão feudal.",
+  "palavras_chave": "koike novo lobo solitario",
+  "edicao_id": 5130,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 204,
+  "peso": 300,
+  "isbn": "9788542606195",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Criação e roteiro: Kazuo Koike</p> <p>Arte: Hideki Mori</p> <p>Arte original: Goseki Kojima</p> <p>Impróprio para menores de 18 anos</p>",
+  "sinopse": "Anos após o duelo final sangrento entre Ogami Itto e Retsudo Yagyu, o pequeno Daigoro permanece sozinho no campo de batalha, guardando o corpo de seu pai. É resgatado por Togo Shigekata, um mestre samurai do estilo Jigen-ryu, que o adota como discípulo. Juntos, eles iniciam uma nova e perigosa jornada pelo Japão feudal, enfrentando conspirações políticas e o peso do legado de sangue deixado pelo antigo Lobo Solitário.",
+  "exemplar_id": 5129,
+  "sku": "LI02UJ",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/novo-lobo-solitario__kazuo-koike__capa__2026-02-20_10-32-25-540875-000.png",
+  "contracapa": "static/uploads/novo-lobo-solitario__kazuo-koike__contracapa__2026-02-20_10-32-25-586538-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

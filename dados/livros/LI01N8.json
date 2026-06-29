@@ -1,0 +1,63 @@
+{
+  "obra_id": 2636,
+  "autor": "Fidel Castro Ruiz",
+  "titulo": "La contraofensiva estratégica",
+  "subtitulo": "De Sierra Maestra a Santiago de Cuba",
+  "idioma": "Espanhol",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "ruiz contraofensiva estrategica sierra",
+  "edicao_id": 2616,
+  "encadernacao": null,
+  "quantidade_paginas": 593,
+  "peso": 600,
+  "isbn": "",
+  "editora": "Partido Comunista de Cuba",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2615,
+  "sku": "LI01N8",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/fidel-castro-ruiz--la-contraofensiva-estrategica--capa--20260316--214039.jpg",
+  "contracapa": "static/uploads/fidel-castro-ruiz--la-contraofensiva-estrategica--contracapa--20260316--214039.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Bem conservado, mas há alguns defeitos: capa colada um pouco torta durante a fabricação do livro; sinal de umidade em pequenas partes do papel em algumas folhas. Sem grifos.  Las páginas de este volumen recorren la Contraofensiva Estratégica del Ejército Rebelde y lo hacen de manera extraordinaria, porque quien narra sus recuerdos como en un diario, quien devela cartas, sentimientos, opiniones, tácticas y estrategias empleadas, es el propio Fidel Castro, protagonista excepcional, Comandante en Jefe de las fuerzas rebeldes y líder histórico de la Revolución Cubana. La guerrilla victoriosa va liberando vastos territorios, poblados y ciudades, hasta triunfar, el 1ro. de enero de 1959, y hacer realidad los sueños de independencia y justicia social anhelados en cien años de lucha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:02:33",
+  "observacoes": null
+}

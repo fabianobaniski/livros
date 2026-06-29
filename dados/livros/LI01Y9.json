@@ -1,0 +1,63 @@
+{
+  "obra_id": 3033,
+  "autor": "Luiz Caramaschi",
+  "titulo": "Grandes Pontífices",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": null,
+  "palavras_chave": "caramaschi grandes pontifices",
+  "edicao_id": 3013,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 400,
+  "isbn": null,
+  "editora": "A Gazeta Maçônica",
+  "numero_edicao": null,
+  "ano": 1983,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3012,
+  "sku": "LI01Y9",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:16:32",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

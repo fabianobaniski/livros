@@ -1,0 +1,63 @@
+{
+  "obra_id": 2791,
+  "autor": "Bento Munhoz da Rocha Neto",
+  "titulo": "O Paraná, ensaios",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "neto parana ensaios ",
+  "edicao_id": 2771,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 222,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Fund. Cult. Curitiba",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "Coleção Farol do Saber",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Entre o fim do Estado Novo e o início do regime militar, Bento Munhoz da Rocha Neto destacou-se como um dos principais líderes políticos e intelectuais do Paraná. Atuou como deputado, governador e ministro, contribuindo para o crescimento econômico impulsionado pela produção de café e modernização do estado. O período também marcou a rápida urbanização e expansão do Paraná. Este livro reúne suas reflexões sobre o futuro do Brasil, suas esperanças e críticas, registrando o impacto de sua atuação parlamentar e intelectual até sua retirada para a vida acadêmica após o golpe de 1964.",
+  "exemplar_id": 2770,
+  "sku": "LI01RJ",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/o-parana-ensaios-bento-munhoz-da-rocha-neto-capa_rev545.jpg",
+  "contracapa": "static/uploads/o-parana-ensaios-bento-munhoz-da-rocha-neto-contracapa_rev551.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:33:18",
+  "observacoes": null
+}

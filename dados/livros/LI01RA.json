@@ -1,0 +1,63 @@
+{
+  "obra_id": 2782,
+  "autor": "José Paulo Cavalcanti Filho",
+  "titulo": "O mel e o fel",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "filho mel fel",
+  "edicao_id": 2762,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 252,
+  "peso": 300,
+  "isbn": "9788501050496",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Os textos de José Paulo Cavalcanti Filho oferecem uma análise rica e detalhada da história recente de Pernambuco, ao mesmo tempo em que proporcionam uma reflexão profunda sobre os rumos do Brasil. Com uma escrita envolvente, a obra aborda questões políticas, sociais e culturais, criando um panorama instigante e atual. A leitura flui de maneira agradável, despertando no leitor o desejo de revisitar os fatos e compreender melhor os desafios enfrentados pelo país em diferentes contextos históricos.",
+  "exemplar_id": 2761,
+  "sku": "LI01RA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-mel-e-o-fel-jose-paulo-cavalcanti-filho-capa_rev1670.jpg",
+  "contracapa": "static/uploads/o-mel-e-o-fel-jose-paulo-cavalcanti-filho-contracapa_rev1060.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:30:16",
+  "observacoes": null
+}

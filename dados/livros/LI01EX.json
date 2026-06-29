@@ -1,0 +1,63 @@
+{
+  "obra_id": 2336,
+  "autor": "Alain Finkielkraut",
+  "titulo": "A Ingratidão",
+  "subtitulo": "A relação do homem de hoje com a história",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "finkielkraut ingratidao relacao homem",
+  "edicao_id": 2316,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 186,
+  "peso": 357,
+  "isbn": "9788573023077",
+  "editora": "Objetiva",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Alain Finkielkraut discute a relação do homem contemporâneo com sua herança cultural, observando como a rejeição do passado pode levar ao narcisismo. Em diálogo com o jornalista Antoine Robitaille, ele explora temas como a nova onda nazista, a influência dos meios de comunicação, moralismo e o contraste entre a nova Europa econômica e suas diversas culturas. O texto apresenta uma análise filosófica sobre a desvinculação das tradições e as implicações para a identidade e a sociedade moderna, sendo uma leitura essencial para entender os desafios do século XXI.",
+  "exemplar_id": 2315,
+  "sku": "LI01EX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/alain-finkielkraut--a-ingratidao--capa--20260316--100354.jpg",
+  "contracapa": "static/uploads/alain-finkielkraut--a-ingratidao--contracapa--20260316--100400.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro um pouco amarelado e com leves sinais de uso, mas muito bem conservado. Texto livre de grifos e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:26:53",
+  "observacoes": null
+}

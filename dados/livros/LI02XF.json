@@ -1,0 +1,63 @@
+{
+  "obra_id": 5259,
+  "autor": "Satoru Noda",
+  "titulo": "Golden Kamuy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Aventura. Sobrevivência.",
+  "palavras_chave": "noda golden kamuy",
+  "edicao_id": 5234,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 230,
+  "isbn": "9788542625905",
+  "editora": "Planeta Manga",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Tetsuzo Nihei, o homem conhecido como o terrível abatedor dos ursos que hibernam, almeja Retar, o último lobo-de-hokkaido, como sua presa! Ashirpa e Sugimoto enfrentam o lendário caçador, para proteger o lobo, e obter a tatuagem como o código para a localização do ouro dos ainus!!!</p> <p>Enquanto isso, na cidade de Otaru, o grupo liderado por Toshizou Hijikata confronta a Sétima Divisão de Infantaria de Hokkaido, comandada pelo herói da batalha no Monte 203, o primeiro-tenente Tsurumi! Roubar, e ser roubado!!! Este é o quarto volume da luta pela sobrevivência nas terras do norte!!!</p>",
+  "sinopse": "Tetsuzo Nihei, famoso caçador de ursos, busca capturar o último lobo-de-hokkaido, Retar. Ashirpa e Sugimoto tentam proteger o lobo e desvendar o código das tatuagens para encontrar o ouro dos ainus. Em Otaru, Toshizou Hijikata enfrenta a Sétima Divisão de Infantaria. Neste quarto volume, a luta pela sobrevivência nas terras do norte intensifica-se.",
+  "exemplar_id": 5233,
+  "sku": "LI02XF",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/golden-kamuy__satoru-noda__capa__2026-02-20_10-32-59-052194-000.png",
+  "contracapa": "static/uploads/golden-kamuy__satoru-noda__contracapa__2026-02-20_10-32-59-492072-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

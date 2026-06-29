@@ -1,0 +1,63 @@
+{
+  "obra_id": 2422,
+  "autor": "Deepa Agarwal",
+  "titulo": "Caravan to Tibet",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "agarwal caravan tibet",
+  "edicao_id": 2402,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 171,
+  "peso": 485,
+  "isbn": "9780143330127",
+  "editora": "Penguin Global",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Nos últimos anos do século XIX, uma caravana de comerciantes parte das colinas de Kumaon, na Índia, em direção ao Tibete. Entre os comerciantes está o pai de Debu, de 14 anos. Quando a caravana retorna, Debu fica arrasado ao saber que seu pai se perdeu em uma das passagens traiçoeiras e não voltou. No entanto, após avistar um comerciante tibetano usando um amuleto semelhante ao de seu pai, ele se convence de que seu pai ainda está vivo no Tibete. Determinado a encontrá-lo, Debu embarca na próxima caravana, enfrentando uma perigosa e emocionante jornada cheia de aventuras...",
+  "exemplar_id": 2401,
+  "sku": "LI01HB",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/deepa-agarwal--caravan-to-tibet--capa--20260316--180648.jpg",
+  "contracapa": "static/uploads/deepa-agarwal--caravan-to-tibet--contracapa--20260316--180648.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:15:03",
+  "observacoes": null
+}

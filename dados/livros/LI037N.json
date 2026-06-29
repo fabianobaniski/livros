@@ -1,0 +1,68 @@
+{
+  "obra_id": 5850,
+  "autor": "Brian Kibuuka",
+  "titulo": "Deuteronômio",
+  "subtitulo": "Estudo da Torá",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Estudo bíblico. Pentateuco.",
+  "palavras_chave": "deuteronomio estudo tora ",
+  "edicao_id": 5825,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 335,
+  "peso": 500,
+  "isbn": "9786559967933",
+  "editora": "Penkall",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Explorando as raízes da fé: um guia de comentário bíblico para o Pentateuco\"</p> <p>Esta obra é um convite para uma jornada de descoberta das raízes da fé judaico-cristã por meio da exploração do Pentateuco. Comentários detalhados sobre cada livro (Gênesis, Êxodo, Levítico, Números e Deuteronômio) ajudam o leitor a entender o contexto histórico, cultural e teológico que moldou a revelação divina na Bíblia.</p> <p>O teólogo Brian Kibuuka a cada capítulo faz análises de passagens do Pentateuco, bem como aplicação em nossa vida diária. Descubra a profundidade e a riqueza das Escrituras e como elas ainda são relevantes para nós hoje.</p> <p>Este livro é uma ferramenta essencial para estudiosos, pastores, líderes religiosos e qualquer pessoa que deseje aprofundar seu conhecimento e compreensão da Palavra de Deus. Venha se juntar a nós nesta jornada de exploração e descoberta do Pentateuco.</p>",
+  "sinopse": "Este livro é um convite para uma jornada de descoberta das raízes judaico-cristãs por meio do estudo do Pentateuco, com comentários detalhados sobre cada livro (Gênesis, Êxodo, Levítico, Números e Deuteronômio). A obra, escrita pelo teólogo Brian Kibuuka, analisa passagens bíblicas e aplica suas lições à vida diária, promovendo a compreensão do contexto histórico, cultural e teológico da Bíblia. Essencial para estudiosos, pastores, líderes religiosos e todos que desejam aprofundar seu conhecimento sobre a Palavra de Deus.",
+  "exemplar_id": 5824,
+  "sku": "LI037N",
+  "preco_estante_virtual": 95.0,
+  "preco_amazon": 95.0,
+  "capa": "static/uploads/deuteronomio__estudo-da-tora__brian-kibuuka__capa__2026-01-18_14-12-14-531156-000.png",
+  "contracapa": "static/uploads/deuteronomio__estudo-da-tora__brian-kibuuka__contracapa__2026-01-18_14-12-14-651686-001.png",
+  "fotos": [
+    "static/uploads/deuteronomio__estudo-da-tora__brian-kibuuka__foto-01__2026-01-18_14-12-15-042173-002.jpg",
+    "static/uploads/deuteronomio__estudo-da-tora__brian-kibuuka__foto-02__2026-01-18_14-12-15-178182-003.jpg",
+    "static/uploads/deuteronomio__estudo-da-tora__brian-kibuuka__foto-03__2026-01-18_14-12-15-213140-004.jpg",
+    "static/uploads/deuteronomio__estudo-da-tora__brian-kibuuka__foto-04__2026-01-18_14-12-15-254924-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:07:30",
+  "observacoes": null
+}

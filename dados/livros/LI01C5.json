@@ -1,0 +1,68 @@
+{
+  "obra_id": 2236,
+  "autor": "Sergio Vasconcelos de Luna",
+  "titulo": "Planejamento de pesquisa",
+  "subtitulo": "Uma introdução",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Planejamento de pesquisa. Metodologia científica.",
+  "palavras_chave": "luna planejamento pesquisa introducao",
+  "edicao_id": 2216,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 108,
+  "peso": 110,
+  "isbn": "9788528301038",
+  "editora": "PUCSP EDUC",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "Trilhas",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2215,
+  "sku": "LI01C5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sergio-vasconcelos-de-luna--planejamento-de-pesquisa--capa--20250430--105101.jpg",
+  "contracapa": "static/uploads/sergio-vasconcelos-de-luna--planejamento-de-pesquisa--contracapa--20250430--105101.jpg",
+  "fotos": [
+    "static/uploads/sergio-vasconcelos-de-luna--planejamento-de-pesquisa--foto1--20250430--105101.jpg",
+    "static/uploads/sergio-vasconcelos-de-luna--planejamento-de-pesquisa--foto2--20250430--105101.jpg",
+    "static/uploads/sergio-vasconcelos-de-luna--planejamento-de-pesquisa--foto3--20250430--105101.jpg",
+    "static/uploads/sergio-vasconcelos-de-luna--planejamento-de-pesquisa--foto4--20250430--105101.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:04:31",
+  "observacoes": "procedencia_biblioteca"
+}

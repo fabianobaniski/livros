@@ -1,0 +1,63 @@
+{
+  "obra_id": 947,
+  "autor": "A. W. Pink",
+  "titulo": "Os atributos de Deus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Atributos de Deus.",
+  "palavras_chave": "pink atributos deus",
+  "edicao_id": 932,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 157,
+  "peso": 250,
+  "isbn": "9788568026182",
+  "editora": "PES",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nos dias atuais, a Igreja tem perdido o senso da majestade e sublimidade do glorioso Deus das Escrituras – e isso de um modo geral. Essa perda tem acontecido quase imperceptivelmente. Verdade é que o cristianismo moderno não está produzindo pessoas tementes a Deus, pessoas que entendam a experiência do profeta Isaías quando disse: \"Ai de mim, que vou perecendo! Porque sou um homem de lábios impuros...\", ou do rei Salomão quando exclamou: \"Ó Senhor Deus de Israel, não há Deus como tu, em cima nos céus nem embaixo na terra\".</p><p>Este livro é uma tentativa de trazer de volta o povo de Deus para aquela apreciação da gloriosa pessoa de Deus que levou o renomado Spurgeon a dizer: \"A ciência mais elevada, ou a inquisição mais sublime, ou a sabedoria mais importante que possa ser contemplada pelo verdadeiro cristão é o nome, a natureza, a pessoa, a obra e a existência do grande Deus a quem chamamos Pai.\"</p><p>A. W. Pink foi consagrado como pastor de uma igreja em Silverton, Colorado, E.U.A. em 1901. Posteriormente ministrou a Palavra de Deus em três continentes. Quando faleceu em 1952, no norte da Escócia, ele era quase desconhecido entre os evangélicos. No entanto, trinta anos depois ele havia se tornado uma influência mundial, contribuindo muito para uma fé e vida cristã marcadas por bastante seriedade.</p>",
+  "sinopse": "O livro busca resgatar a compreensão da majestade e sublimidade de Deus, abordando a importância de conhecer seus atributos. A. W. Pink reflete sobre a experiência de temer a Deus e a necessidade da igreja em reavivar essa apreciação, citando a ausência de reverência no cristianismo moderno. O autor também compartilha sua trajetória como pastor e a influência que teve ao longo dos anos.",
+  "exemplar_id": 931,
+  "sku": "LI00P5",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/a--w--pink--os-atributos-de-deus--capa--20250227--152915.jpg",
+  "contracapa": "static/uploads/a--w--pink--os-atributos-de-deus--contracapa--20250227--152915.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto com alguns poucos grifos feitos com caneta-destaque. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:06:12",
+  "observacoes": null
+}

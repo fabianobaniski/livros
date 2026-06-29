@@ -1,0 +1,68 @@
+{
+  "obra_id": 3649,
+  "autor": "F. Scott Fitzgerald",
+  "titulo": "Suave é a noite",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "fitzgerald suave noite",
+  "edicao_id": 3626,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 381,
+  "peso": 470,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O romance narra a ascensão e a trágica queda de Dick Diver, um psiquiatra brilhante, e sua esposa Nicole, uma herdeira rica e emocionalmente instável, enquanto circulam pela sofisticada Riviera Francesa em uma trama marcada por decadência, alcoolismo e o esgotamento dos ideais românticos.",
+  "exemplar_id": 3625,
+  "sku": "LI02F8",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/f-scott-fitzgerald--suave-e-a-noite--capa--20251114--184826.png",
+  "contracapa": "static/uploads/f-scott-fitzgerald--suave-e-a-noite--contracapa--20251114--184833.png",
+  "fotos": [
+    "static/uploads/f-scott-fitzgerald--suave-e-a-noite--foto1--20251113--210810.jpg",
+    "static/uploads/f-scott-fitzgerald--suave-e-a-noite--foto2--20251113--210810.jpg",
+    "static/uploads/f-scott-fitzgerald--suave-e-a-noite--foto3--20251113--210810.jpg",
+    "static/uploads/f-scott-fitzgerald--suave-e-a-noite--foto4--20251113--210810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:36:26",
+  "observacoes": null
+}

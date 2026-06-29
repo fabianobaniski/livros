@@ -1,0 +1,63 @@
+{
+  "obra_id": 2558,
+  "autor": "Kazuki Ebine",
+  "titulo": "Gandhi",
+  "subtitulo": "Uma biografia em mangá",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "",
+  "palavras_chave": "ebine gandhi uma biografia",
+  "edicao_id": 2538,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 291,
+  "isbn": "",
+  "editora": "Case / Tambor",
+  "numero_edicao": 0,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2537,
+  "sku": "LI01L2",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/kazuki-ebine--gandhi--capa--20260316--202539.jpg",
+  "contracapa": "static/uploads/kazuki-ebine--gandhi--contracapa--20260316--202539.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, sem danos. Não consta o número de páginas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 15:38:11",
+  "observacoes": null
+}

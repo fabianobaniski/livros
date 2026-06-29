@@ -1,0 +1,63 @@
+{
+  "obra_id": 3141,
+  "autor": "João Malheiro",
+  "titulo": "A Idade da Bola",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": null,
+  "palavras_chave": "malheiro idade bola",
+  "edicao_id": 3121,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 256,
+  "peso": 1200,
+  "isbn": "9789728998035",
+  "editora": "Quidnovi",
+  "numero_edicao": 1,
+  "ano": 2006,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro oferece uma análise apaixonada e isenta do futebol, evitando o sectarismo das preferências clubísticas. Enfatiza a essência do jogo, destacando jogadores e treinadores, e aborda o futebol de maneira que valoriza a beleza do esporte em si. A obra também faz uma reflexão sobre figuras icônicas como Eusébio e José Mourinho, e a persistência do futebol no século XXI...",
+  "exemplar_id": 3120,
+  "sku": "LI0219",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "250 Figuras Que Fizeram a História do Futebol Português. / Livro muito bem conservado. Lombada alinhada. Miolo firme, sem folhas soltas. Texto livre de sublinhados e anotações. Sem vestígios de umidade, sol excessivo, mofo ou traça. Bordas um pouco oxidadas. Leves sinais de uso.  Ilustrado, em cores. Tamanho: 19, 5 x 27 cm."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:38:32",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 129,
+  "autor": "Carlos Ruiz Zafón",
+  "titulo": "A sombra do vento",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção. Mistério. Literatura.",
+  "palavras_chave": "zafon sombra vento",
+  "edicao_id": 127,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 399,
+  "peso": 700,
+  "isbn": "9788560280094",
+  "editora": "Suma de Letras",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Numma madrugada de 1945, em Barcelona, Daniel Sempere é levado por seu pai a um misterioso lugar no coração do centro histórico: O Cemitério dos Livros Esquecidos. Lá, o menino encontra <i>A sombra do vento</i>, livro maldito que mudará o rumo de sua vida e o arrastará para um labirinto de aventuras repleto de segredos e intrigas enterrados na alma obscura da cidade. A busca por pistas do desaparecido autor do livro que o fascina transformará Daniel em homem ao iniciá-lo no mundo do amor, do sexo e da literatura.</p> <p>Numma narrativa de ritmo eletrizante que mistura gêneros como o romance de aventuras de Alexandre Dumas, a novela gótica de Edgar Allan Poe e os folhetins amorosos de Victor Hugo, Carlos Ruiz Zafón mantém o leitor em estado de contínuo suspense. Ambientada na Espanha franquista da primeira metade do século XX, entre os últimos raios de luz do modernismo e as trevas do pós-guerra, <i>A sombra do vento</i> é uma obra sedutora, comovente e impossível de largar. Uma grandiosa homenagem ao poder místico dos livros.</p>",
+  "sinopse": "Em uma madrugada de 1945, Daniel Sempere, guiado por seu pai, descobre um misterioso livro no Cemitério dos Livros Esquecidos. A partir desse encontro, inicia-se uma trama repleta de aventuras e segredos que mudarão o rumo de sua vida, levando-o a explorar o amor, o sexo e a literatura. A narrativa embala o leitor em um suspense constante, ambientada em uma Espanha marcada pela história.",
+  "exemplar_id": 126,
+  "sku": "LI0035",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/carlos-ruiz-zaf-n--a-sombra-do-vento--capa--20250226--133756.jpg",
+  "contracapa": "static/uploads/carlos-ruiz-zaf-n--a-sombra-do-vento--contracapa--20250226--133756.jpg",
+  "fotos": [
+    "static/uploads/carlos-ruiz-zaf-n--a-sombra-do-vento--foto1--20250226--133756.jpg",
+    "static/uploads/carlos-ruiz-zaf-n--a-sombra-do-vento--foto2--20250226--133756.jpg",
+    "static/uploads/carlos-ruiz-zaf-n--a-sombra-do-vento--foto3--20250226--133756.jpg",
+    "static/uploads/carlos-ruiz-zaf-n--a-sombra-do-vento--foto4--20250226--133756.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:41:42",
+  "observacoes": null
+}

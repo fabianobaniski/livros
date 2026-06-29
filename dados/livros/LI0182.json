@@ -1,0 +1,68 @@
+{
+  "obra_id": 2089,
+  "autor": "Egon Walter Wildauer",
+  "titulo": "Plano de negócios",
+  "subtitulo": "Elementos constitutivos e processo de elaboração",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Empreendedorismo. Planejamento empresarial. Plano de negócios. Marketing. Legislação empresarial.",
+  "palavras_chave": "wildauer plano negocios",
+  "edicao_id": 2069,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 332,
+  "peso": 460,
+  "isbn": "9788578389130",
+  "editora": "Ibpex",
+  "numero_edicao": 2,
+  "ano": 2011,
+  "serie": "Série Plano de Negócios",
+  "volume": null,
+  "transcricao_contracapa": "<p>As chances de sucesso de um empreendimento dependem, diretamente, de planejamento. Ao retratar os principais objetivos de um plano de negócios, este livro é uma ferramenta ideal para você, que deseja estruturar (ou reestruturar) sua empresa.</p><p>Voltado a estudantes, empresários, consultores, analistas, investidores e demais interessados, o conteúdo destas páginas apresenta a estrutura de um plano de negócios, examinando os principais elementos que o compõem, de forma simples e direta.</p><p>Aqui, você aprenderá:</p><ul><li>o que de fato é empreendedorismo;</li><li>como se dá o ciclo de planejamento de um projeto;</li><li>os elementos que compõem a estrutura de um plano de negócios;</li><li>o que são e para que servem os 4 “Ps” básicos do marketing;</li><li>quais cuidados um empreendedor deve ter com taxas e tributações cobradas pelo Estado;</li><li>quais são as normas e regras previstas na legislação na hora de se abrir uma empresa.</li></ul><p><b>O que há de novo nesta edição?</b></p><ul><li>Recursos de aprendizagem que contribuem para melhor compreensão da obra;</li><li>Estudos de caso;</li><li>Questões para revisão;</li><li>Questões para reflexão;</li><li>Linguagem dialógica tornando efetiva a comunicação entre o texto e o leitor.</li></ul>",
+  "sinopse": "Este livro apresenta os principais objetivos e elementos que constituem um plano de negócios, essencial para quem deseja estruturar ou reestruturar uma empresa. Destinado a estudantes, empresários, consultores e investidores, oferece uma abordagem simples sobre empreendedorismo, ciclo de planejamento, estrutura de negócios, marketing e legislação. A nova edição traz recursos de aprendizagem, estudos de caso, questões para revisão e reflexão, promovendo uma comunicação clara entre texto e leitor.",
+  "exemplar_id": 2068,
+  "sku": "LI0182",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/egon-walter-wildauer--plano-de-neg-cios--capa--20250430--104531.jpg",
+  "contracapa": "static/uploads/egon-walter-wildauer--plano-de-neg-cios--contracapa--20250430--104531.jpg",
+  "fotos": [
+    "static/uploads/egon-walter-wildauer--plano-de-neg-cios--foto1--20250430--104531.jpg",
+    "static/uploads/egon-walter-wildauer--plano-de-neg-cios--foto2--20250430--104531.jpg",
+    "static/uploads/egon-walter-wildauer--plano-de-neg-cios--foto3--20250430--104531.jpg",
+    "static/uploads/egon-walter-wildauer--plano-de-neg-cios--foto4--20250430--104531.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:04:55",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3106,
+  "autor": "Claudio de Oliveira Ribeiro; Alessandro R. Rocha",
+  "titulo": "Ecumenismo e Reforma",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "ribeiro ecumenismo reforma",
+  "edicao_id": 3086,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 358,
+  "peso": 500,
+  "isbn": "9788535642957",
+  "editora": "Paulinas",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro é parte da coleção Iguais e Diferentes e apresenta uma reflexão conjunta sobre a Reforma protestante. Autores protestantes e católicos analisam temas centrais, resultando em um diálogo ecumênico. O livro aborda desafios atuais e questiona o significado da Reforma para diferentes confissões cristãs. O debate teológico envolve a vida e ação das Igrejas e aborda questões como diversidade confessional, ecumenismo, pluralismo religioso, implicações sociopolíticas do Evangelho, espiritualidade ecológica e sexualidade humana.",
+  "exemplar_id": 3085,
+  "sku": "LI020A",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa, lombada e contracapa sem danos. Miolo firme, sem folhas soltas. Não possui anotações, sublinhados, marcas de umidade, mofo, sol excessivo, furos de traça, rasgos, engruvinhados ou amassados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:51:08",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

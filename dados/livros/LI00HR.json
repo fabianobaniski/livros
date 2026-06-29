@@ -1,0 +1,63 @@
+{
+  "obra_id": 676,
+  "autor": "Gerhard Hörster",
+  "titulo": "Introdução e síntese do Novo Testamento",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Novo Testamento.",
+  "palavras_chave": "hoerster introducao sintese novo testamento",
+  "edicao_id": 661,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 199,
+  "peso": 300,
+  "isbn": "9788578390099",
+  "editora": "Esperança",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Gerhard Hörster D.D. (Doutor em Divindade pelo Trinity Evangelical Divinity School), nasceu em 1934, é casado com Godiva, tem cinco filhos (duas filhas e três filhos) e quatro netos. <br>Apos o segundo grau, formou-se em comércio industrial em uma indústria química. Estudou teologia na faculdade de Wuppertal, no seminário de pastores da Igreja Evangélica Livre e nas universidades de Göttingen e Marburg.</p> <p>De 1961 a 1966 foi pastor da Igreja Evangélica Livre em Rotenburg (Fulda). Desde 1966 é docente de Ética e Novo Testamento no Seminário Teológico em Dietzhölztal-Ewersbach, do qual é reitor desde 1976.</p> <p>É diretor e pregador da Rádio Transmundial (Evangeliums Rundfunk) na Alemanha. Membro da comunidade de promoção da teologia evangélica (Arbeitsgemeinschaft für evangelikale Theologie) e da Federation of European Evangelical Theologians (FEET).</p>",
+  "sinopse": "",
+  "exemplar_id": 660,
+  "sku": "LI00HR",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/gerhard-h-rster--introdu--o-e-s-ntese-do-novo-testamento--capa--20250227--152857.jpg",
+  "contracapa": "static/uploads/gerhard-h-rster--introdu--o-e-s-ntese-do-novo-testamento--contracapa--20250227--152857.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:29:50",
+  "observacoes": null
+}

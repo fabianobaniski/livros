@@ -1,0 +1,63 @@
+{
+  "obra_id": 5737,
+  "autor": "Kazuo Koike",
+  "titulo": "Lobo Solitário",
+  "subtitulo": "As correntes dos Kurokuwa",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura oriental. Manga.",
+  "palavras_chave": "koike lobo solitario correntes dos kurokuwa",
+  "edicao_id": 5712,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 296,
+  "peso": 230,
+  "isbn": "9788542610796",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "",
+  "sinopse": "Traído pelo clã Yagyu e destituído de seu cargo de executor do Shogun, o samurai Itto Ogami percorre o Japão feudal como um assassino de aluguel em busca de vingança, levando consigo seu filho pequeno, Daigoro, em um carrinho de bebê repleto de armas. Juntos, pai e filho trilham o violento Caminho do Inferno, enfrentando exércitos e dilemas éticos nesta obra-prima de Kazuo Koike e Goseki Kojima que redefiniu o gênero samurai.",
+  "exemplar_id": 5711,
+  "sku": "LI034I",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/lobo-solitario__as-correntes-dos-kurokuwa__kazuo-koike__capa__2026-02-28_13-14-11-144787-000.jpg",
+  "contracapa": "static/uploads/lobo-solitario__as-correntes-dos-kurokuwa__kazuo-koike__contracapa__2026-02-28_13-14-11-146000-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

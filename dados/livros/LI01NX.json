@@ -1,0 +1,63 @@
+{
+  "obra_id": 2661,
+  "autor": "Paul Davies",
+  "titulo": "Les forces de la nature",
+  "subtitulo": "",
+  "idioma": "Francês",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "davies les forces nature",
+  "edicao_id": 2641,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 256,
+  "peso": 250,
+  "isbn": "9782080813411",
+  "editora": "Flammarion",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora os conceitos fundamentais dos avanços recentes na compreensão do mundo microscópico, o interior do átomo, onde partículas e forças se entrelaçam de maneira fascinante. Paul Davies nos guia por esse universo subatômico, revelando fenômenos que desafiam nossa experiência cotidiana e ampliam os limites da imaginação. Com foco nas leis da física quântica e da relatividade, a obra não apenas apresenta dados, mas narra a emocionante história das descobertas científicas que moldaram nossa visão moderna da natureza.",
+  "exemplar_id": 2640,
+  "sku": "LI01NX",
+  "preco_estante_virtual": 33.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/les-forces-de-la-nature-paul-davies-capa_rev721.jpg",
+  "contracapa": "static/uploads/les-forces-de-la-nature-paul-davies-contracapa_rev2005.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:30:30",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3283,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Platinum end",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Quadrinhos japoneses. Questões existenciais. Superação pessoal.",
+  "palavras_chave": "ohba platinum end",
+  "edicao_id": 3263,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "9788545706922",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Dos mesmos autores de Death Note<br>roteiro Tsugumi Ohba arte Takeshi Obata</p><h1>Vou lhe dar a esperança para viver.</h1><p>Mirai Kakehashi é um jovem que não tem mais vontade de viver. Além de perder a família em um terrível acidente, é maltratado todos os dias pela sua família adotiva. Cansado dessa vida infeliz, o jovem se joga de um prédio no dia de sua formatura no Ensino Fundamental. Porém, neste exato momento, Mirai se encontra com um anjo que poderá mudar totalmente a sua vida!</p>",
+  "sinopse": "Mirai Kakehashi, um jovem que perdeu a família em um acidente e sofre abusos diários da família adotiva, perde a vontade de viver. No dia de sua formatura do Ensino Fundamental, ele tenta tirar a própria vida, mas é salvo por um anjo que surge para lhe dar esperança e pode mudar totalmente seu destino.",
+  "exemplar_id": 3262,
+  "sku": "LI0255",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__capa__2025-11-05_16-24-49-482652.jpg",
+  "contracapa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__contracapa__2025-11-05_16-24-49-651842.jpg",
+  "fotos": [
+    "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__foto-01__2025-11-05_16-24-49-777774.jpg",
+    "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__foto-02__2025-11-05_16-24-49-932368.jpg",
+    "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__foto-03__2025-11-05_16-24-49-958747.jpg",
+    "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__foto-04__2025-11-05_16-24-49-982283.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:19:19",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3419,
+  "autor": "Inio Asano",
+  "titulo": "Solanin",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos orientais. Mangá. Sonhos e realidade.",
+  "palavras_chave": "asano solanin",
+  "edicao_id": 3396,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788525424679",
+  "editora": "L&PM Pocket",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>man•gá ou 漫画, em japonês (<i>man</i>, involuntário + <i>gá</i>, imagem), é um gênero de história em quadrinhos herdeiro das gravuras japonesas clássicas e das HQs ocidentais.</p><p>A série <b>L&PM POCKET MANGÁ</b> traz ao leitor brasileiro as melhores histórias e autores de quadrinhos do Oriente, com opções para todas as idades. <b>Solanin 2</b>, a segunda e última parte da aclamada história de Inio Asano, mostra que, frente ao abismo entre os sonhos e a vida como ela se apresenta, às vezes improvisar é a única saída possível.</p>",
+  "sinopse": "Solanin 2 é a segunda e última parte da aclamada história de Inio Asano, que apresenta o confronto entre sonhos e a realidade da vida. A narrativa mostra que, diante do abismo entre aquilo que desejamos e o que a vida nos oferece, improvisar pode ser a única saída possível.",
+  "exemplar_id": 3395,
+  "sku": "LI028U",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/solanin__inio-asano__capa__2025-11-05_16-15-11-876795.jpg",
+  "contracapa": "static/uploads/solanin__inio-asano__contracapa__2025-11-05_16-15-11-910335.jpg",
+  "fotos": [
+    "static/uploads/solanin__inio-asano__foto-01__2025-11-05_16-15-11-945504.jpg",
+    "static/uploads/solanin__inio-asano__foto-02__2025-11-05_16-15-11-968278.jpg",
+    "static/uploads/solanin__inio-asano__foto-03__2025-11-05_16-15-11-985682.jpg",
+    "static/uploads/solanin__inio-asano__foto-04__2025-11-05_16-15-12-003686.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:02:16",
+  "observacoes": null
+}

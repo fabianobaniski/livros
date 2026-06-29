@@ -1,0 +1,63 @@
+{
+  "obra_id": 2561,
+  "autor": "Luiz Márcio Imenes; Marcelo Lellis",
+  "titulo": "Geometria dos mosaicos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "imenes geometria dos mosaicos",
+  "edicao_id": 2541,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 50,
+  "peso": 215,
+  "isbn": "",
+  "editora": "Scipione",
+  "numero_edicao": 0,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2540,
+  "sku": "LI01L5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luiz-marcio-imenes--geometria-dos-mosaicos--capa--20260316--202614.jpg",
+  "contracapa": "static/uploads/luiz-marcio-imenes--geometria-dos-mosaicos--contracapa--20260316--202614.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação, apesar do livro estar um pouco amarelado pela passagem dos anos. Texto à salvo de anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:27:39",
+  "observacoes": null
+}

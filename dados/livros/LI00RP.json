@@ -1,0 +1,68 @@
+{
+  "obra_id": 1321,
+  "autor": "Maria Ignez Carlin Furlan",
+  "titulo": "Avaliação da aprendizagem escolar",
+  "subtitulo": "Convergências divergências",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Avaliação. Aprendizagem.",
+  "palavras_chave": "furlan avaliacao aprendizagem escolar",
+  "edicao_id": 1305,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 77,
+  "peso": 150,
+  "isbn": "9788574197715",
+  "editora": "Anna Blume",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O presente trabalho tem como foco o processo de avaliação da aprendizagem tal como é percebido por alunos e professores. É fruto de um estudo de caso e possibilitou, através da análise de questionamentos a professores e alunos, demonstrar que suas concepções convergem para a representação da avaliação como verificação do conteúdo programático associado à mensuração da aprendizagem.</p> <p>Evidencia a tendência dos professores de utilizarem, em seus discursos, nomenclaturas que se aproximam de conceitos progressistas a respeito da avaliação, porém nas respostas dos alunos fica evidenciado, que na prática, o professor privilegia a reprodução dos conteúdos ensinados. Os dados remetem a um retrato da concepção da avaliação da aprendizagem em uma escola pública que pode servir de ponto de referência para estudo de outras realidades próximas. Enfatiza a necessidade e importância de um trabalho crítico a respeito da avaliação da aprendizagem escolar e de uma reflexão crítica de alunos, pais, professores, funcionários e gestores a respeito de questões pedagógicas que envolvam a construção do conhecimento.</p>",
+  "sinopse": "Este trabalho aborda a avaliação da aprendizagem como percebida por alunos e professores, destacando a confluência de concepções e a prática da avaliação. A pesquisa revela uma tendência entre professores em adotar termos progressistas, enquanto os alunos demonstram uma predileção por conteúdo ensinado, sugerindo um retrato da avaliação em uma realidade educacional específica.",
+  "exemplar_id": 1304,
+  "sku": "LI00RP",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/maria-ignez-carlin-furlan--avalia--o-da-aprendizagem-escolar--capa--20250401--114911.png",
+  "contracapa": "static/uploads/maria-ignez-carlin-furlan--avalia--o-da-aprendizagem-escolar--contracapa--20250401--114911.png",
+  "fotos": [
+    "static/uploads/maria-ignez-carlin-furlan--avalia--o-da-aprendizagem-escolar--foto1--20250401--114911.jpg",
+    "static/uploads/maria-ignez-carlin-furlan--avalia--o-da-aprendizagem-escolar--foto2--20250401--114911.jpg",
+    "static/uploads/maria-ignez-carlin-furlan--avalia--o-da-aprendizagem-escolar--foto3--20250401--114911.jpg",
+    "static/uploads/maria-ignez-carlin-furlan--avalia--o-da-aprendizagem-escolar--foto4--20250401--114911.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro pocket em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:32:03",
+  "observacoes": "procedencia_biblioteca"
+}

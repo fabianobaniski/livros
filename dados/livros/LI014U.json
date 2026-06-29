@@ -1,0 +1,68 @@
+{
+  "obra_id": 1972,
+  "autor": "Professores do Departamento de Mercadologia da FGV-EAESP; Convidados",
+  "titulo": "Gestão de marketing",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Marketing. Estudo de caso. Realidade brasileira.",
+  "palavras_chave": "professores gestao marketing",
+  "edicao_id": 1952,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 539,
+  "peso": 1190,
+  "isbn": "9788502037878",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O resultado de muitos anos de trabalho e pesquisa pode ser conferido nesta obra abrangente de marketing, voltada para o leitor brasileiro e escrita por alguns dos melhores professores e pesquisadores do país. A equipe da conceituada Escola de Administração de Empresas da Fundação Getulio Vargas (FGV-EAESP) apresenta ao mercado um livro didático e objetivo, com vários recursos exclusivos, como seções para explicar e reforçar os objetivos de aprendizagem, além de casos e exemplos atuais e significativos, que ilustram e aplicam os conceitos à nossa realidade. Diferentemente dos manuais tradicionais, que simplesmente importam os conceitos usados lá fora, há, no livro todo, contribuições importantes e originais ao estudo do marketing no Brasil.</p><p>Considerado um dos livros de marketing mais completos e atualizados do mercado brasileiro, apresenta também as seguintes características:</p><ul><li>completamente baseado na realidade do mercado brasileiro, cada capítulo possui um estudo de caso e a proposta de elaboração de um projeto;</li><li>exemplos surpreendentes e atuais, tanto de companhias de grande porte como de pequenas e médias empresas, obtidos por meio da ampla experiência dos autores;</li><li>indicações de vários sites para pesquisa no decorrer dos assuntos tratados.</li></ul><p><b>APLICAÇÃO:</b> este livro é indicado para os cursos de Marketing e Administração.</p><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço: <b>www.saraivauni.com.br</b></p>",
+  "sinopse": "Esta obra de marketing, desenvolvida por professores da FGV-EAESP e convidados, é direcionada ao leitor brasileiro, trazendo conteúdos didáticos, exemplos atuais e estudos de caso baseados na realidade nacional. Diferente dos manuais estrangeiros, o livro oferece contribuições originais ao marketing no Brasil e inclui ferramentas exclusivas de apoio ao aprendizado, além de indicações de sites para pesquisa. Indicado para cursos de Marketing e Administração.",
+  "exemplar_id": 1951,
+  "sku": "LI014U",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/professores-do-departamento-de-mercadologia-da-fgv-eaesp--gest-o-de-marketing--capa--20250430--104310.jpg",
+  "contracapa": "static/uploads/professores-do-departamento-de-mercadologia-da-fgv-eaesp--gest-o-de-marketing--contracapa--20250430--104310.jpg",
+  "fotos": [
+    "static/uploads/professores-do-departamento-de-mercadologia-da-fgv-eaesp--gest-o-de-marketing--foto1--20250430--104310.jpg",
+    "static/uploads/professores-do-departamento-de-mercadologia-da-fgv-eaesp--gest-o-de-marketing--foto2--20250430--104310.jpg",
+    "static/uploads/professores-do-departamento-de-mercadologia-da-fgv-eaesp--gest-o-de-marketing--foto3--20250430--104310.jpg",
+    "static/uploads/professores-do-departamento-de-mercadologia-da-fgv-eaesp--gest-o-de-marketing--foto4--20250430--104310.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:37:08",
+  "observacoes": "procedencia_biblioteca"
+}

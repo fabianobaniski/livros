@@ -1,0 +1,63 @@
+{
+  "obra_id": 3176,
+  "autor": "Jilton Moraes",
+  "titulo": "Púlpito",
+  "subtitulo": "Pregação e Música",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "moraes pulpito pregacao musica",
+  "edicao_id": 3156,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 224,
+  "peso": 300,
+  "isbn": null,
+  "editora": "Juerp",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Ótima conservação! Livre de anotações, sublinhados, marcas de umidade, mofo ou traça. Brochura, 224 páginas.",
+  "exemplar_id": 3155,
+  "sku": "LI0228",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Jilton Moraes apresenta uma contribuição valiosa para o estudo da pregação e da música no contexto do culto evangélico. A obra destaca a importância da integração entre sermões e música para a edificação da igreja, sugerindo que essa união torna a mensagem mais didática e acessível aos ouvintes. O autor também preenche uma lacuna ao oferecer orientações tanto para pastores quanto para músicos, incentivando a colaboração entre ambos para um culto mais completo e significativo. O método segmentado de pregação é apresentado como uma maneira eficaz de dinamizar a participação congregacional.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Jilton Moraes apresenta uma contribuição valiosa para o estudo da pregação e da música no contexto do culto evangélico. A obra destaca a importância da integração entre sermões e música para a edificação da igreja, sugerindo que essa união torna a mensagem mais didática e acessível aos ouvintes. O autor também preenche uma lacuna ao oferecer orientações tanto para pastores quanto para músicos, incentivando a colaboração entre ambos para um culto mais completo e significativo. O método segmentado de pregação é apresentado como uma maneira eficaz de dinamizar a participação congregacional."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:21:44",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

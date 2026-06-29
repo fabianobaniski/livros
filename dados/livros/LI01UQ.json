@@ -1,0 +1,63 @@
+{
+  "obra_id": 2906,
+  "autor": "Karl Taro Greenfeld",
+  "titulo": "Sinto-me só",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "karl greenfeld sintome so",
+  "edicao_id": 2886,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 357,
+  "peso": 300,
+  "isbn": "9788576654698",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Sinto-me só é uma comovente obra de memórias em que Karl Taro Greenfeld narra a relação com seu irmão autista. Com franqueza e sensibilidade, o livro explora o impacto do autismo em sua família, revelando as complexidades emocionais de crescer ao lado de alguém com necessidades especiais. A obra oferece uma profunda reflexão sobre amor, devoção e as dificuldades de compreensão em meio a essa convivência, proporcionando uma visão íntima e transformadora sobre o que significa ser irmão e família.",
+  "exemplar_id": 2885,
+  "sku": "LI01UQ",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/sintome-so-karl-taro-greenfeld-capa_rev1824.jpg",
+  "contracapa": "static/uploads/sintome-so-karl-taro-greenfeld-contracapa_rev1603.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:26:38",
+  "observacoes": null
+}

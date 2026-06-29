@@ -1,0 +1,68 @@
+{
+  "obra_id": 1854,
+  "autor": "José Claudinei Lombardi; Pedro Goergen",
+  "titulo": "Ética e educação",
+  "subtitulo": "Reflexões filosóficas e históricas",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Ética. Filosofia. Educação. História das ideias.",
+  "palavras_chave": "lombardi etica educacao",
+  "edicao_id": 1834,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 179,
+  "peso": 250,
+  "isbn": "8574961590",
+  "editora": "Autores Associados",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A ética é, sem sombra de dúvida, o tema do momento. Tal fato se deve, certamente, de um lado, à desestabilização dos valores ou critérios tradicionais que pautavam o agir humano e, de outro, ao exponencial poder de manipulação, tanto da natureza quanto do homem, mediante o uso dos recursos da ciência e da tecnologia. O homem perdeu os parâmetros éticos e sua vida tornou-se arriscada. Do ponto de vista universal, isto é, da humanidade como um todo, a realidade presente e futura só pode ser descrita como trágica. Como dizia Walter Benjamin, os olhos do anjo da história estão arregalados diante da catástrofe única que sem cessar acumula escombros sobre escombros. A tempestade do suposto progresso aninha-se em suas asas impelindo-o para o futuro, enquanto o monte de escombros cresce ante ele até os céus.</p>",
+  "sinopse": "O livro debate a ética como tema central da atualidade, destacando a crise dos valores tradicionais frente ao avanço da ciência e tecnologia. Discute como a humanidade perdeu parâmetros éticos, tornando a vida arriscada e a realidade global trágica, traçando reflexões filosóficas e históricas sobre o impacto do progresso e da modernidade.",
+  "exemplar_id": 1833,
+  "sku": "LI011K",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--claudinei-lombardi---tica-e-educa--o--capa--20250430--104249.jpg",
+  "contracapa": "static/uploads/jos--claudinei-lombardi---tica-e-educa--o--contracapa--20250430--104249.jpg",
+  "fotos": [
+    "static/uploads/jos--claudinei-lombardi---tica-e-educa--o--foto1--20250430--104249.jpg",
+    "static/uploads/jos--claudinei-lombardi---tica-e-educa--o--foto2--20250430--104249.jpg",
+    "static/uploads/jos--claudinei-lombardi---tica-e-educa--o--foto3--20250430--104249.jpg",
+    "static/uploads/jos--claudinei-lombardi---tica-e-educa--o--foto4--20250430--104249.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:40:20",
+  "observacoes": "procedencia_biblioteca"
+}

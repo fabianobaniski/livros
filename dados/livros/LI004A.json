@@ -1,0 +1,68 @@
+{
+  "obra_id": 173,
+  "autor": "Henrique Sérgio Gutierrez da Costa",
+  "titulo": "Negociando para o sucesso",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Negociação. Comunicação.",
+  "palavras_chave": "gutierrez negociando sucesso",
+  "edicao_id": 169,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 341,
+  "peso": 450,
+  "isbn": "9788578388782",
+  "editora": "Ibpex",
+  "numero_edicao": 3,
+  "ano": 2011,
+  "serie": "Administração Estratégica",
+  "volume": null,
+  "transcricao_contracapa": "<p>Negociação: competência fundamental para profissionais que desejam realizar contatos duradouros com pessoas e empresas em escala nacional e global.</p> <p>Esta obra trata do que você deve ser e fazer para liderar sua empresa no que promete ser o ambiente de negócios mais difícil das últimas décadas.</p> <p>Henrique Sérgio Gutierrez da Costa demonstra em Negociando para o sucesso que a importância da capacidade de negociar vai além do domínio dos múltiplos canais de comunicação disponibilizados pelas tecnologias existentes, que encurtam cada vez mais as distâncias entre clientes e fornecedores.</p> <p>O autor posiciona a negociação empresarial sobre um alicerce de gerência e desempenho organizacional, sem perder de vista o fato de que negociadores precisam estar atentos à maneira como as outras pessoas com quem estão negociando enxergam o negócio, transformando oportunidades em lucro.</p> <p>Voltada a leitores interessados em negociação no ambiente empresarial, esta obra ainda aborda a importância de se cultivar uma rede de relacionamentos, os fatores humanos que envolvem um processo de negociação e as estratégias que podem ser utilizadas para conquistar o sucesso.</p> <p>O que há de novo nesta edição?</p> <ul> <li>Recursos de aprendizagem que contribuem para a melhor compreensão da obra.</li> <li>Atividades incluídas no término de cada capítulo, com respostas no final do livro.</li> <li>Indicações de leitura complementares para reforçar os conhecimentos adquiridos.</li> </ul>",
+  "sinopse": "Neste livro, Henrique Sérgio Gutierrez da Costa explora as nuances da negociação no ambiente empresarial, enfatizando a importância da comunicação e construção de relacionamentos. Ele apresenta estratégias que permitem aos profissionais não apenas negociar eficazmente, mas também transformar essas interações em oportunidades de sucesso, num cenário de constantes desafios e mudanças.",
+  "exemplar_id": 168,
+  "sku": "LI004A",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--capa--20250226--133801.jpg",
+  "contracapa": "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--contracapa--20250226--133801.jpg",
+  "fotos": [
+    "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--foto1--20250226--133801.jpg",
+    "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--foto2--20250226--133801.jpg",
+    "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--foto3--20250226--133801.jpg",
+    "static/uploads/henrique-s-rgio-gutierrez-da-costa--negociando-para-o-sucesso--foto4--20250226--133801.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:16:47",
+  "observacoes": null
+}

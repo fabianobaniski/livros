@@ -1,0 +1,68 @@
+{
+  "obra_id": 3379,
+  "autor": "Kaiu Shirai; Posuka Demizu",
+  "titulo": "The Promised Neverland",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Amizade. Orfandade. Mistério. Sobrevivência.",
+  "palavras_chave": "shirai promised neverland",
+  "edicao_id": 3356,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788542612424",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<h1><span>Casa Grace Field</span></h1><p>Ela é amada como uma mãe, mas não é uma mãe de verdade. E as crianças que vivem juntas também não são irmãos de verdade. Emma, Norman e Ray vivem felizes em um remoto orfanato, porém, esses alegres dias estão prestes a acabar...</p>",
+  "sinopse": "No isolado orfanato Grace Field, Emma, Norman e Ray vivem dias felizes sob os cuidados de uma tutora carinhosa que, apesar de ser chamada de mãe, não é realmente sua mãe. Da mesma forma, as demais crianças, apesar da convivência, não são verdadeiros irmãos. Esta aparente felicidade está prestes a acabar, quando uma verdade perturbadora se aproxima.",
+  "exemplar_id": 3355,
+  "sku": "LI027Q",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/the-promised-neverland__kaiu-shirai-posuka-demizu__capa__2025-11-05_16-14-46-772933.jpg",
+  "contracapa": "static/uploads/the-promised-neverland__kaiu-shirai-posuka-demizu__contracapa__2025-11-05_16-14-46-808704.jpg",
+  "fotos": [
+    "static/uploads/the-promised-neverland__kaiu-shirai-posuka-demizu__foto-01__2025-11-05_16-14-46-850087.jpg",
+    "static/uploads/the-promised-neverland__kaiu-shirai-posuka-demizu__foto-02__2025-11-05_16-14-46-882878.jpg",
+    "static/uploads/the-promised-neverland__kaiu-shirai-posuka-demizu__foto-03__2025-11-05_16-14-46-904753.jpg",
+    "static/uploads/the-promised-neverland__kaiu-shirai-posuka-demizu__foto-04__2025-11-05_16-14-46-926665.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:07:50",
+  "observacoes": null
+}

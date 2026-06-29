@@ -1,0 +1,63 @@
+{
+  "obra_id": 5697,
+  "autor": "Hiroya Oku",
+  "titulo": "Gigant",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "",
+  "palavras_chave": "hiroya gigant",
+  "edicao_id": 5672,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 230,
+  "isbn": "9788542629323",
+  "editora": "Panini Comics",
+  "numero_edicao": 1,
+  "ano": 2020,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "A história foca em Rei Yokoyama, um estudante apaixonado por cinema que descobre que sua atriz pornô favorita, Pa-po, ganhou a habilidade surreal de crescer até tamanhos colossais. Juntos, eles precisam lidar com o peso dessa transformação enquanto enfrentam ameaças bizarras enviadas por um site misterioso, misturando drama urbano, ficção científica visceral e o estilo visual detalhista e provocador de Oku.",
+  "exemplar_id": 5671,
+  "sku": "LI033E",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/gigant__hiroya-oku__capa__2026-02-24_13-36-57-833599-000.jpg",
+  "contracapa": "static/uploads/gigant__hiroya-oku__contracapa__2026-02-24_13-36-57-862982-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 5795,
+  "autor": "Niltonci Batista Chaves",
+  "titulo": "Visões de Ponta Grossa",
+  "subtitulo": "Images of Ponta Grossa",
+  "idioma": "Português",
+  "categoria": "Brasil",
+  "temas": "Fotografia. História local. Ponta Grossa.",
+  "palavras_chave": "visoes ponta grossa images",
+  "edicao_id": 5770,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 100,
+  "peso": 560,
+  "isbn": "9788586941160",
+  "editora": "UEPG",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Sumário: Ruas e praças de Ponta Grossa; A ocupação não disciplinada do espaço urbano; A disciplinarização do espaço urbano; O espaço urbano normatizado; Fé, fervor e festa; No princípio foram as capelas: Capella do Rozario; Modos de crenças: nós e \"os outros\"; Os hospitais: Santa Casa e 26 de Outubro; O saber necessário; Mansão Vila Hilda, símbolo de modernização arquitetônica; Conforto e consumo: revenda Ford e Padaria Glória; Mídia e urbanidade; Melindrosas e almofadinhas; A música na cidade: bandas, conjuntos e orquestras; Corso, laranjinha, confete e serpentina: o carnaval; O futebol em Ponta Grossa.",
+  "exemplar_id": 5769,
+  "sku": "LI0364",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/visoes-de-ponta-grossa__images-of-ponta-grossa__none__capa__2026-01-18_14-11-47-488149-000.png",
+  "contracapa": "static/uploads/visoes-de-ponta-grossa__images-of-ponta-grossa__none__contracapa__2026-01-18_14-11-47-505025-001.png",
+  "fotos": [
+    "static/uploads/visoes-de-ponta-grossa__images-of-ponta-grossa__none__foto-01__2026-01-18_14-11-47-520335-002.jpg",
+    "static/uploads/visoes-de-ponta-grossa__images-of-ponta-grossa__none__foto-02__2026-01-18_14-11-47-558613-003.jpg",
+    "static/uploads/visoes-de-ponta-grossa__images-of-ponta-grossa__none__foto-03__2026-01-18_14-11-47-587249-004.jpg",
+    "static/uploads/visoes-de-ponta-grossa__images-of-ponta-grossa__none__foto-04__2026-01-18_14-11-47-619776-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:45:06",
+  "observacoes": null
+}

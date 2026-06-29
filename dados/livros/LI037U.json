@@ -1,0 +1,68 @@
+{
+  "obra_id": 5857,
+  "autor": "Fábio Ulhoa Coelho",
+  "titulo": "Manual de direito comercial",
+  "subtitulo": "Direito de empresa",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Direito comercial. Direito de empresa.",
+  "palavras_chave": "coelho manual direito comercial direito empresa",
+  "edicao_id": 5832,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 556,
+  "peso": 650,
+  "isbn": "9788502154537",
+  "editora": "Saraiva",
+  "numero_edicao": 24,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Indicado para: <b>Graduação</b></p><p>SAC Jur | 0800-0557688<br>saraivajur@editorasaraiva.com.br<br>De 2ª a 6ª, das 8:30 às 19:30</p><p><b>SaraivaJur</b><br>O seu portal jurídico na internet<br>www.saraivajur.com.br</p>",
+  "sinopse": "Esta obra, indicada para a graduação, oferece uma abordagem sólida sobre o direito comercial, com enfoque especial no direito de empresa. Escrita por Fábio Ulhoa Coelho e publicada pela Editora Saraiva, a edição é uma referência para estudantes e profissionais da área jurídica que buscam compreender os fundamentos do direito empresarial.",
+  "exemplar_id": 5831,
+  "sku": "LI037U",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/manual-de-direito-comercial__direito-de-empresa__fabio-ulhoa-coelho__capa__2026-01-18_14-12-38-131690-000.png",
+  "contracapa": "static/uploads/manual-de-direito-comercial__direito-de-empresa__fabio-ulhoa-coelho__contracapa__2026-01-18_14-12-38-160249-001.png",
+  "fotos": [
+    "static/uploads/manual-de-direito-comercial__direito-de-empresa__fabio-ulhoa-coelho__foto-01__2026-01-18_14-12-38-183129-002.jpg",
+    "static/uploads/manual-de-direito-comercial__direito-de-empresa__fabio-ulhoa-coelho__foto-02__2026-01-18_14-12-38-214473-003.jpg",
+    "static/uploads/manual-de-direito-comercial__direito-de-empresa__fabio-ulhoa-coelho__foto-03__2026-01-18_14-12-38-239318-004.jpg",
+    "static/uploads/manual-de-direito-comercial__direito-de-empresa__fabio-ulhoa-coelho__foto-04__2026-01-18_14-12-38-277924-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. / OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:41:39",
+  "observacoes": "procedencia_biblioteca"
+}

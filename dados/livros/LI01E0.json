@@ -1,0 +1,68 @@
+{
+  "obra_id": 2303,
+  "autor": "Glenn Van Ekeren",
+  "titulo": "12 Segredos Simples da Felicidade no Trabalho",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "ekeren segredos simples felicidade",
+  "edicao_id": 2283,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 197,
+  "peso": 376,
+  "isbn": "9788531607615",
+  "editora": "Cultrix",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Neste livro, Glenn Van Ekeren, autor do aclamado 12 Segredos Simples da Felicidade, mostra aos leitores que podemos ter mais prazer no trabalho se investirmos nos nossos relacionamentos profissionais. Você pode ter uma vida muito melhor se simplesmente se dispuser a contribuir para que as outras pessoas também vivam melhor. Escrito num estilo leve e envolvente, pautado nos princípios da sabedoria perene sem deixar de lado as descobertas mais modernas nesse setor, esta obra esclarecedora desvenda os segredos de uma vida profissional feliz e bem-sucedida.",
+  "exemplar_id": 2282,
+  "sku": "LI01E0",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/glenn-van-ekeren--12-segredos-simples-da-felicidade-no-trabalho--capa--20251020--203635.png",
+  "contracapa": "static/uploads/glenn-van-ekeren--12-segredos-simples-da-felicidade-no-trabalho--contracapa--20251020--203643.png",
+  "fotos": [
+    "static/uploads/glenn-van-ekeren--12-segredos-simples-da-felicidade-no-trabalho--foto1--20251020--203653.jpg",
+    "static/uploads/glenn-van-ekeren--12-segredos-simples-da-felicidade-no-trabalho--foto2--20251020--203653.jpg",
+    "static/uploads/glenn-van-ekeren--12-segredos-simples-da-felicidade-no-trabalho--foto3--20251020--203653.jpg",
+    "static/uploads/glenn-van-ekeren--12-segredos-simples-da-felicidade-no-trabalho--foto4--20251020--203653.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato pequeno, em ótimas condições. Papel sem manhas. Lombada alinhada. Capa e contracapa sem danos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:03:33",
+  "observacoes": null
+}

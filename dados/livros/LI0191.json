@@ -1,0 +1,68 @@
+{
+  "obra_id": 2124,
+  "autor": "Regina Célia C. Haydt",
+  "titulo": "Curso de Didática Geral",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Didática. Planejamento escolar. Avaliação. Prática pedagógica.",
+  "palavras_chave": "haydt curso didatica geral",
+  "edicao_id": 2104,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 327,
+  "peso": 420,
+  "isbn": "9788508106004",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Para aproveitar o que cada procedimento de ensino tem de melhor, sem ficar alheio a novidades nem se sentir preso a elas, é necessário refletir sobre a prática educativa.</p> <p><i>Curso de didática geral</i> oferece a base teórica necessária para o professor decidir quando é mais eficaz, por exemplo, utilizar trabalhos em grupo e não uma aula expositiva ou qual a melhor maneira de empregar computadores e recursos audiovisuais na sala de aula.</p> <p>Célia Cazaux Haydt, orientadora pedagógica na rede municipal de São Paulo por mais de 25 anos, descreve e analisa minuciosamente a prática da didática – planejamento, objetivos, currículos, avaliação –, propondo um estudo cuidadoso da filosofia e da psicologia, para que o professor analise criticamente as novas propostas educacionais.</p> <p>Ao final de cada capítulo, o leitor encontra roteiros de atividades e textos complementares de autores como Paulo Freire e Vigotsky.</p>",
+  "sinopse": "Curso de didática geral oferece uma base teórica para que professores possam refletir sobre suas práticas educativas, avaliando quando utilizar diferentes métodos de ensino e recursos, como trabalhos em grupo, computadores e audiovisuais em sala de aula. Escrito por Regina Célia C. Haydt, pedagoga com mais de 25 anos de experiência, o livro analisa planejamento, objetivos, currículos e avaliação, combinando fundamentos da filosofia e psicologia aplicados à educação. Ao final de cada capítulo, são apresentados roteiros de atividades e textos complementares de autores renomados, como Paulo Freire e Vigotsky.",
+  "exemplar_id": 2103,
+  "sku": "LI0191",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/regina-c-lia-c--haydt--curso-de-did-tica-geral--capa--20250430--104536.jpg",
+  "contracapa": "static/uploads/regina-c-lia-c--haydt--curso-de-did-tica-geral--contracapa--20250430--104536.jpg",
+  "fotos": [
+    "static/uploads/regina-c-lia-c--haydt--curso-de-did-tica-geral--foto1--20250430--104536.jpg",
+    "static/uploads/regina-c-lia-c--haydt--curso-de-did-tica-geral--foto2--20250430--104536.jpg",
+    "static/uploads/regina-c-lia-c--haydt--curso-de-did-tica-geral--foto3--20250430--104536.jpg",
+    "static/uploads/regina-c-lia-c--haydt--curso-de-did-tica-geral--foto4--20250430--104536.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:19:59",
+  "observacoes": "procedencia_biblioteca"
+}

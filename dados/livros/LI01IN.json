@@ -1,0 +1,63 @@
+{
+  "obra_id": 2471,
+  "autor": "Reimei Yoshioka; Silvio Sam",
+  "titulo": "Dekassegui",
+  "subtitulo": "Com os pés no chão... no Japão",
+  "idioma": "Português",
+  "categoria": "Outros Assuntos",
+  "temas": "",
+  "palavras_chave": "yoshioka dekassegui com pes",
+  "edicao_id": 2451,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 147,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Ysayama",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O texto aborda a difícil adaptação de nipo-brasileiros que retornaram ao Japão acreditando que, devido à ascendência étnica, sua integração seria fácil. No entanto, enfrentaram uma realidade muito mais complicada e desafiadora, marcada por condições de trabalho precárias e profundas consequências psicológicas e sociais. Muitos deixaram o Brasil em busca de melhores oportunidades, mas encontraram desilusão e dificuldades, resultando em traumas, distrações e saudades. A obra reflete sobre essa experiência de retorno, as lutas desses imigrantes e a busca por um futuro melhor...",
+  "exemplar_id": 2450,
+  "sku": "LI01IN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/reimei-yoshioka--dekassegui--capa--20260316--192125.jpg",
+  "contracapa": "static/uploads/reimei-yoshioka--dekassegui--contracapa--20260316--192125.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:36:51",
+  "observacoes": null
+}

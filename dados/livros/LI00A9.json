@@ -1,0 +1,68 @@
+{
+  "obra_id": 403,
+  "autor": "Gabriel Liiceanu",
+  "titulo": "Da sedução",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Sedução. Existencialismo.",
+  "palavras_chave": "liiceanu da seducao",
+  "edicao_id": 391,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 250,
+  "peso": 350,
+  "isbn": "9788567394565",
+  "editora": "Vide Editorial",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Pensadores Contemporâneos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Ninguém vive verdadeiramente se não cai sob uma forma ou outra de sedução. De fato, os homens permanecem o mais das vezes ali onde a espécie os coloca: no anonimato da vida (no \"cardume dos arrenques\", de que fala o filósofo dinamarquês), ali onde se vive segundo a regra de todos. Ali nos instalamos todos do momento em que vimos ao mundo e permanecemos ali, a maioria de nós, até o final. O mais das vezes ninguém vem se-duzir-nos, tomar-nos a mão, tirar-nos do caminho largo da vida e \"conduzir-nos à parte\"; aquela parte em que nos dá a oportunidade de nos reencontrarmos com a nossa vida vivida como destino, o que significa: vivida por conta própria. A primeira conclusão deste estudo é: ai dos que não conseguiram nunca ser seduzidos! E se é assim, aparece imediatamente a pergunta: onde estão nossos sedutores?</p>\r\n<p>— Gabriel Liiceanu</p>",
+  "sinopse": "Este livro explora a ideia de que a vida de cada um é permeada por formas de sedução, que influenciam as decisões e o caminho que tomamos. Através da reflexão, o autor questiona a ausência de sedutores em um mundo onde muitos permanecem no anonimato, buscando reconectar-se com suas próprias vidas e destinos.",
+  "exemplar_id": 390,
+  "sku": "LI00A9",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": 150.0,
+  "capa": "static/uploads/gabriel-liiceanu--da-sedu--o--capa--20250226--133826.jpg",
+  "contracapa": "static/uploads/gabriel-liiceanu--da-sedu--o--contracapa--20250226--133826.jpg",
+  "fotos": [
+    "static/uploads/gabriel-liiceanu--da-sedu--o--foto1--20250226--133826.jpg",
+    "static/uploads/gabriel-liiceanu--da-sedu--o--foto2--20250226--133826.jpg",
+    "static/uploads/gabriel-liiceanu--da-sedu--o--foto3--20250226--133826.jpg",
+    "static/uploads/gabriel-liiceanu--da-sedu--o--foto4--20250226--133826.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:33:53",
+  "observacoes": null
+}

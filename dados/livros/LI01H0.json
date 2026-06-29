@@ -1,0 +1,63 @@
+{
+  "obra_id": 2411,
+  "autor": "Warren Elsmore",
+  "titulo": "Brick city",
+  "subtitulo": "Global icons to make from Lego",
+  "idioma": "Inglês",
+  "categoria": "Outros Assuntos",
+  "temas": "",
+  "palavras_chave": "elsmore brick city global",
+  "edicao_id": 2391,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 256,
+  "peso": 500,
+  "isbn": "9781438002491",
+  "editora": "Barrons",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Brick City celebra os edifícios e marcos urbanos mais famosos do mundo, recriados com peças de LEGO. Com mais de 100 construções icônicas, de pontes a pirâmides e torres, o livro apresenta estruturas como a Ponte do Porto de Sydney, a Sagrada Família em Barcelona, a Torre Eiffel em Paris e o Burj Al Arab em Dubai. Além de impressionantes fotos dessas recriações, o livro inclui instruções detalhadas para que fãs possam construir miniaturas em casa.",
+  "exemplar_id": 2390,
+  "sku": "LI01H0",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/warren-elsmore--brick-city--capa--20260316--175754.jpg",
+  "contracapa": "static/uploads/warren-elsmore--brick-city--contracapa--20260316--175754.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:55:44",
+  "observacoes": null
+}

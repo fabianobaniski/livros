@@ -1,0 +1,68 @@
+{
+  "obra_id": 1598,
+  "autor": "José Paulo Paes",
+  "titulo": "Melhores Poemas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Poesia",
+  "temas": "",
+  "palavras_chave": "paes melhores poemas",
+  "edicao_id": 1579,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 241,
+  "peso": 280,
+  "isbn": "9788526006003",
+  "editora": "Global",
+  "numero_edicao": 3,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1578,
+  "sku": "LI00X8",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/jos--paulo-paes--melhores-poemas--capa--20250401--115754.jpg",
+  "contracapa": "static/uploads/jos--paulo-paes--melhores-poemas--contracapa--20250401--115754.jpg",
+  "fotos": [
+    "static/uploads/jos--paulo-paes--melhores-poemas--foto1--20250401--115754.jpg",
+    "static/uploads/jos--paulo-paes--melhores-poemas--foto2--20250401--115754.jpg",
+    "static/uploads/jos--paulo-paes--melhores-poemas--foto3--20250401--115754.jpg",
+    "static/uploads/jos--paulo-paes--melhores-poemas--foto4--20250401--115754.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:57:19",
+  "observacoes": null
+}

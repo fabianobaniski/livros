@@ -1,0 +1,68 @@
+{
+  "obra_id": 2071,
+  "autor": "Sonia Vieira",
+  "titulo": "Estatística básica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Estatística. Ensino superior. Aplicações profissionais.",
+  "palavras_chave": "vieira estatistica basica",
+  "edicao_id": 2051,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 300,
+  "isbn": "9788522111039",
+  "editora": "Cengage Learning",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Sonia Vieira<br>estatística BÁSICA</h1><p>Pessoas que trabalham nas áreas de administração, negócios, gerenciamento, gestão de qualidade, precisam da Estatística como ferramenta auxiliar para a tomada de decisão. Estatística é, portanto, o meio para se chegar ao fim, não o fim em si mesmo. As informações devem ser apresentadas na forma de tabelas e gráficos. Os índices econômicos e as muitas taxas aparecem na mídia e precisam ser discutidos.</p><p>A Estatística, tida como aborrecida e sem sentido, começa a fazer sentido no momento em que se mergulha de vez no assunto. Isso porque, no âmbito profissional, é preciso julgar a qualidade de cada amostra, levantar as causas da variabilidade dos dados, medir o tamanho dos riscos. Veja o tempo despendido no estudo da Estatística como um investimento sólido para o futuro acadêmico e profissional – daí a importância desta obra.</p><p>Os conceitos são demonstrados de maneira informal como uma tentativa de explicar a lógica sem demonstrações matemáticas, o que torna sua leitura muito mais fácil. E para incrementar a aprendizagem são apresentados 110 exemplos e 120 exercícios com respostas comentadas.</p><h2>APLICAÇÕES</h2><p><i>Estatística básica</i> se propõe a auxiliar estudantes dos cursos de Matemática, Estatística, Economia, Gestão e Negócios, e também das áreas que eventualmente aplicam conhecimentos básicos de Estatística, como Relações Públicas, Ciências Sociais, Psicologia e Administração, além de profissionais que queiram adquirir conhecimento dos princípios da Estatística.</p>",
+  "sinopse": "Este livro oferece uma introdução acessível aos principais conceitos de Estatística, tornando-se uma ferramenta essencial para profissionais e estudantes das áreas de administração, negócios, matemática, estatística, economia, ciências sociais e psicologia. Apresenta exemplos e exercícios comentados para facilitar o aprendizado prático e busca explicar a lógica estatística sem demonstrações matemáticas complexas. É indicado para quem deseja entender conceitos básicos, interpretar dados, medir riscos e utilizar a Estatística na tomada de decisões profissionais.",
+  "exemplar_id": 2050,
+  "sku": "LI017K",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sonia-vieira--estat-stica--capa--20250430--104528.jpg",
+  "contracapa": "static/uploads/sonia-vieira--estat-stica--contracapa--20250430--104528.jpg",
+  "fotos": [
+    "static/uploads/sonia-vieira--estat-stica--foto1--20250430--104528.jpg",
+    "static/uploads/sonia-vieira--estat-stica--foto2--20250430--104529.jpg",
+    "static/uploads/sonia-vieira--estat-stica--foto3--20250430--104529.jpg",
+    "static/uploads/sonia-vieira--estat-stica--foto4--20250430--104529.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:33:32",
+  "observacoes": "procedencia_biblioteca"
+}

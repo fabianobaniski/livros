@@ -1,0 +1,63 @@
+{
+  "obra_id": 5621,
+  "autor": "Yu Kuraishi; Kazu Inabe",
+  "titulo": "Fort of Apocalypse",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Apocalipse. Mortos-vivos.",
+  "palavras_chave": "kuraishi fort apocalypse",
+  "edicao_id": 5596,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "9788545703112",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Os delinquentes estão sendo purificados pelos devotos da seita. O mal também corre para o membros da Sala 4 que planejavam um contra-ataque! Desde 'aquele dia' em que o mundo começou a ser dominado pelos monstros, por que os devotos começaram a adorar o 'Rei dos Mortos-Vivos', Bokor...?! Enquanto a sua memória desesperadora é revelada, qual a decisão que Yoshioka, Iwakura e Neumann tomam?!</p>",
+  "sinopse": "Os delinquentes enfrentam a purificação dos devotos da seita enquanto o mal ameaça a Sala 4. Desde que o mundo sucumbiu aos monstros, o 'Rei dos Mortos-Vivos', Bokor, se tornou alvo de adoração. Em meio a revelações sombrias, decisões cruciais aguardam Yoshioka, Iwakura e Neumann.",
+  "exemplar_id": 5595,
+  "sku": "LI031A",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/fort-of-apocalypse__yu-kuraishi-kazu-inabe__capa__2026-02-24_13-36-42-919089-000.jpg",
+  "contracapa": "static/uploads/fort-of-apocalypse__yu-kuraishi-kazu-inabe__contracapa__2026-02-24_13-36-42-957436-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2581,
+  "autor": "Regina Helena de Freitas Campos",
+  "titulo": "Helena Antipoff",
+  "subtitulo": "Coleção Educadores (MEC)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "campos helena antipoff colecao",
+  "edicao_id": 2561,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 303,
+  "isbn": "9788570195203",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2560,
+  "sku": "LI01LP",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/regina-helena-de-freitas-campos--helena-antipoff--capa--20260316--212028.jpg",
+  "contracapa": "static/uploads/regina-helena-de-freitas-campos--helena-antipoff--contracapa--20260316--212029.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:29:32",
+  "observacoes": null
+}

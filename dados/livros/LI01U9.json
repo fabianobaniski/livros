@@ -1,0 +1,63 @@
+{
+  "obra_id": 2889,
+  "autor": "Milan Kundera",
+  "titulo": "Risíveis amores",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "kundera risiveis amores",
+  "edicao_id": 2869,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 235,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Nova Fronteira",
+  "numero_edicao": null,
+  "ano": 1985,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Os equívocos gerados pela incapacidade do ser humano de se comunicar plenamente consigo mesmo e com os outros são o cerne destes contos de Milan Kundera. A partir de mal-entendidos, novas situações e personalidades emergem entre os amantes, revelando aspectos ocultos e ameaçadores das relações. Seus amores, embora nunca cheguem a uma comunicação verdadeira, são profundamente trágicos e vulneráveis, evidenciando a distância entre o desejo de conexão e a realidade do desencontro.",
+  "exemplar_id": 2868,
+  "sku": "LI01U9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/risiveis-amores-milan-kundera-capa_rev822.jpg",
+  "contracapa": "static/uploads/risiveis-amores-milan-kundera-contracapa_rev2014.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro usado, em bom estado geral, embora amarelado pela passagem dos anos.  Sem grifos nem anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:40",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2735,
+  "autor": "Alan Powers",
+  "titulo": "Nature in design",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Arquitetura",
+  "temas": "",
+  "palavras_chave": "powers nature design",
+  "edicao_id": 2715,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 160,
+  "peso": 786,
+  "isbn": "9781840910469",
+  "editora": "Conran Octopus",
+  "numero_edicao": 0,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A natureza é a maior fonte de inspiração para artistas, designers gráficos, estilistas e decoradores de interiores. Ao observar fotos coloridas exuberantes da influência da natureza nos lugares onde vivemos e nas roupas que usamos, fica fácil entender o grande retorno atual ao design natural. Você poderá examinar um cacto saguaro como modelo de engenharia de arranha-céus, um aeroporto inspirado nas asas de morcegos e um apartamento em Londres inspirado em tribos que vivem em penhascos. Depois, você descobrirá o que influencia você ao observar, por exemplo, os muitos objetos naturais que se enrolam e formam espirais (conchas, ninhos, flores, penas, samambaias, galáxias, furacões e a molécula de DNA). Ou então, pergunte-se por que o brócolis forma um fractal, ou como a pena de um pássaro cria um tipo perfeito de vestimenta.",
+  "exemplar_id": 2714,
+  "sku": "LI01PZ",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 100.0,
+  "capa": "static/uploads/nature-in-design-alan-powers-capa_rev939.jpg",
+  "contracapa": "static/uploads/nature-in-design-alan-powers-contracapa_rev326.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro tamanho grande, bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Sobrecapa com reparo feito com fita adesiva transparente. Ilustrado em cores. Capa dura com sobrecapa.,  This book presents nature as the ultimate sourcebook for design, and explores natures influence on architecture, engineering, interiors, fashion, manufacturing and graphic design. It features the work of leading designers such as Issey Miyake, Ron Arad, William Morris and Frank Genry. - back cover."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:38:46",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1413,
+  "autor": "Isabel de Araujo",
+  "titulo": "Frida Vingren",
+  "subtitulo": "Uma biografia da mulher de Deus, esposa de Gunnar Vingren, pioneiro das Assembleias de Deus no Brasil",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "Religião. História. Mulheres.",
+  "palavras_chave": "araujo frida vingren",
+  "edicao_id": 1395,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 183,
+  "peso": 250,
+  "isbn": "9788526311503",
+  "editora": "CPAD",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>MAIS QUE UMA MEMÓRIA, UMA HISTÓRIA.</h1> <p>Ela tinha muitos talentos naturais, além daqueles cedidos pelo Senhor. Suas funções, executadas com a dedicação que lhe cabia, ultrapassaram uma extensa lista de atividades. Era possível perceber que Frida não seria uma simples missionária: mudou-se de país para cumprir o chamado que Deus havia lhe confiado.</p> <p>Chorou no trajeto solitário até o campo em Belém do Pará, mas não desanimou. Seu ímpeto era forte e, além do mais, havia em si uma certeza de que não estava só. Assim, confiante em Deus, prosseguiu evangelizando e desbravando as amarras de sua época.</p> <p>De mulher responsável do lar a pregadora do Evangelho, ela foi capaz de fazer muito para ganhar almas para Cristo. Traduziu, cuidou de enfermos, redigiu, compôs, ensinou, tudo isso cheia do Espírito Santo.</p> <p>Ela, mulher de espírito ardente e zeloso, viveu, dentre tantos conflitos, amando o Senhor até seu último suspiro. E foi para contar essa história de fé e dedicação que esta obra foi criada.</p> <p>Conheça Frida - uma mulher cristã à frente de seu tempo.</p>",
+  "sinopse": "Frida Vingren é apresentada como uma mulher de Deus, que, apesar das dificuldades e desafios, se dedicou a cumprir seu chamado. Atuou em diversas funções missionárias e é reconhecida por seu espírito ardente, trabalhando incansavelmente para evangelizar e ajudar o próximo ao longo de sua vida.",
+  "exemplar_id": 1394,
+  "sku": "LI00U1",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 32.0,
+  "capa": "static/uploads/isabel-de-araujo--frida-vingren--capa--20250401--115342.png",
+  "contracapa": "static/uploads/isabel-de-araujo--frida-vingren--contracapa--20250401--115342.png",
+  "fotos": [
+    "static/uploads/isabel-de-araujo--frida-vingren--foto1--20250401--115342.jpg",
+    "static/uploads/isabel-de-araujo--frida-vingren--foto2--20250401--115342.jpg",
+    "static/uploads/isabel-de-araujo--frida-vingren--foto3--20250401--115342.jpg",
+    "static/uploads/isabel-de-araujo--frida-vingren--foto4--20250401--115342.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:13:34",
+  "observacoes": null
+}

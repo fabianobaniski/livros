@@ -1,0 +1,63 @@
+{
+  "obra_id": 2383,
+  "autor": "Marta Kasznar Feghali; Daniela Dwyer",
+  "titulo": "As engrenagens da moda",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Moda",
+  "temas": "",
+  "palavras_chave": "dwyer engrenagens moda",
+  "edicao_id": 2363,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 157,
+  "peso": 415,
+  "isbn": "",
+  "editora": "Senac Rio",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro aborda a moda como uma área que há muito deixou de ser vista como fútil ou improvisada, destacando a importância da tecnologia e do profissionalismo nesse setor em crescimento. Marta Kasznar Feghali e Daniela Dwyer exploram a história da moda, suas evoluções tecnológicas e as diversas ocupações profissionais relacionadas, oferecendo dicas sobre oportunidades de trabalho e negócios. Com um mercado em constante mudança, o livro enfatiza a necessidade de formação especializada para atuar com sucesso em áreas como estilismo, jornalismo de moda, modelagem e outras.",
+  "exemplar_id": 2362,
+  "sku": "LI01G8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marta-kasznar-feghali-e-daniela-dwyer--as-engrenagens-da-moda--capa--20260316--154918.jpg",
+  "contracapa": "static/uploads/marta-kasznar-feghali-e-daniela-dwyer--as-engrenagens-da-moda--contracapa--20260316--154924.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados. Sem anotações. Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:19:33",
+  "observacoes": null
+}

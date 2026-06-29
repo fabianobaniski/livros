@@ -1,0 +1,68 @@
+{
+  "obra_id": 2278,
+  "autor": "Emerson de O. Batista",
+  "titulo": "Sistemas de Informação",
+  "subtitulo": "O uso consciente da tecnologia para o gerenciamento",
+  "idioma": "Português",
+  "categoria": "Informática",
+  "temas": "Informática. Sistemas de informação. Tecnologia da informação. Administração. Projetos de sistemas. Inteligência artificial.",
+  "palavras_chave": "batista sistemas informacao",
+  "edicao_id": 2258,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 282,
+  "peso": 465,
+  "isbn": "9788502042490",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Um dos termos mais utilizados na área digital é sistema. Um sistema é constituído de dois elementos: uma coleção de objetos, por um lado, e uma relação lógica entre eles, por outro. Esses elementos físicos e lógicos fazem com que o sistema se comporte como um organismo. Assim, o sistema bancário é constituído pelos bancos (objetos), que seguem uma série de regras e leis específicas do setor (relação lógica). Um sistema de informação empresarial é constituído por uma série de emissores e receptores de dados conectados por canais de comunicação (objetos) por onde fluem dados relacionados ao funcionamento da empresa (relação lógica).</p><p>Diante da importância deste tema na atualidade, este livro foi desenvolvido para fornecer ao leitor um conjunto de informações sobre o sistema de informação. De forma didática, aborda assuntos como significado de TI, tipos de computadores, sistemas operacionais, bancos de dados, Internet e comércio eletrônico, segurança, confiabilidade e desperdício em TI, projeto e implantação de sistemas e inteligência artificial.</p><p>Escrita por um autor com grande experiência na área, a obra traz, ainda, estudos de caso e um glossário que facilita a compreensão e o aprendizado.</p><p><b>Aplicação</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Administração de Sistemas de Informação, Sistemas de Informação Gerencial.</p>",
+  "sinopse": "Este livro aborda de forma didática os fundamentos dos sistemas de informação, explicando seus elementos físicos e lógicos e sua importância para empresas e setores como o bancário. Apresenta temas como o significado de TI, tipos de computadores, sistemas operacionais, bancos de dados, Internet, comércio eletrônico, segurança, confiabilidade, desperdício em TI e inteligência artificial. Com estudos de caso e glossário, é indicado para disciplinas de Administração e Sistemas de Informação Gerencial.",
+  "exemplar_id": 2257,
+  "sku": "LI01DB",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/emerson-de-o--batista--sistemas-de-informa--o--capa--20250430--105108.jpg",
+  "contracapa": "static/uploads/emerson-de-o--batista--sistemas-de-informa--o--contracapa--20250430--105108.jpg",
+  "fotos": [
+    "static/uploads/emerson-de-o--batista--sistemas-de-informa--o--foto1--20250430--105108.jpg",
+    "static/uploads/emerson-de-o--batista--sistemas-de-informa--o--foto2--20250430--105108.jpg",
+    "static/uploads/emerson-de-o--batista--sistemas-de-informa--o--foto3--20250430--105108.jpg",
+    "static/uploads/emerson-de-o--batista--sistemas-de-informa--o--foto4--20250430--105108.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:29:42",
+  "observacoes": "procedencia_biblioteca"
+}

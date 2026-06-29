@@ -1,0 +1,63 @@
+{
+  "obra_id": 889,
+  "autor": "Alexandre Coelho; Silas Daniel",
+  "titulo": "Os doze profetas menores",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Profecia. Justiça.",
+  "palavras_chave": "coelho doze profetas menores",
+  "edicao_id": 874,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 112,
+  "peso": 200,
+  "isbn": "9788526303485",
+  "editora": "CPAD",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os últimos Doze Profetas do Antigo Testamento foram homens de Deus que, em seus dias, depararam-se com situações que desafiavam igualmente a Igreja de os nossos dias. Eles viram que o povo do Senhor esqueceu-se da pessoa a quem serviam, afastando-se da fé desejada por Deus e pervertendo práticas diárias. E a mensagem desses homens nos leva questionar:</p> <ul> <li>Como Deus lida com a traição de seu povo?</li> <li>Como Ele enxerga a justiça social?</li> <li>Deus tem misericórdia de nossos inimigos?</li> <li>Podemos prestar um culto que não será recebido por Deus por causa de nossas infidelidades no casamento?</li> <li>Podemos tratar com descaso as contribuições destinadas para o culto?</li> <li>O que Deus espera que façamos com nossos irmãos necessitados?</li> <li>Ainda há esperança de restauração para Israel?</li> </ul> <p>Essas e outras perguntas são abordadas neste livro. <i>Os Doze Profetas Menores</i> é uma radiografia dos nossos dias, e serve para que atentemos para a Palavra de Deus e a forma com que precisamos viver em nossos dias, sob a perspectiva divina e com objetivos justos para com Deus e os homens. A mensagem dos profetas menores é a mensagem de Deus também para os nossos dias.</p>",
+  "sinopse": "Os Doze Profetas Menores examinam questões atuais que desafiam a sociedade contemporânea, refletindo sobre temas como traição, justiça social e misericórdia. Este livro propõe uma reflexão sobre como viver à luz da Palavra de Deus, alinhando a prática diária com os objetivos divinos e justos. A obra se apresenta como um guia para a restauração espiritual e moral, tanto individual quanto coletiva.",
+  "exemplar_id": 873,
+  "sku": "LI00NJ",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/alexandre-coelho--os-doze-profetas-menores--capa--20250227--152911.jpg",
+  "contracapa": "static/uploads/alexandre-coelho--os-doze-profetas-menores--contracapa--20250227--152911.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:11:12",
+  "observacoes": null
+}

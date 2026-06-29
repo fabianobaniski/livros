@@ -1,0 +1,63 @@
+{
+  "obra_id": 2910,
+  "autor": "Bernard Lefort",
+  "titulo": "Sobre o fim da história",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "lefort sobre fim historia",
+  "edicao_id": 2890,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 153,
+  "peso": 250,
+  "isbn": "9788532613325",
+  "editora": "Vozes",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "As transformações políticas que seguiram o colapso do comunismo e a queda do muro de Berlim indicaram o fim de uma era histórica marcada pela Guerra Fria. A partir dessas mudanças, o livro investiga as reflexões de Francis Fukuyama sobre o possível fim da história, argumentando que o triunfo da democracia liberal poderia representar o fim dos grandes conflitos ideológicos. A obra também reúne conferências que discutem o futuro da Europa e o papel da democracia, levantando questões sobre violência e novos caminhos políticos.",
+  "exemplar_id": 2889,
+  "sku": "LI01UU",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sobre-o-fim-da-historia-bernard-lefort-capa_rev504.jpg",
+  "contracapa": "static/uploads/sobre-o-fim-da-historia-bernard-lefort-contracapa_rev1944.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Bom estado geral, sem danos físicos significativos nem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:33:13",
+  "observacoes": null
+}

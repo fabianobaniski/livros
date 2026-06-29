@@ -1,0 +1,67 @@
+{
+  "obra_id": 5906,
+  "autor": "Ellen G. White",
+  "titulo": "Conselhos sobre a escola sabatina",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white conselhos escola sabatina",
+  "edicao_id": 5881,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 191,
+  "peso": 270,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 7,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5880,
+  "sku": "LI0396",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": 100.0,
+  "capa": "static/uploads/ellen-g-white--conselhos-sobre-a-escola-sabatina--capa--20260306--095403.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--conselhos-sobre-a-escola-sabatina--foto1--20260306--095414.jpg",
+    "static/uploads/ellen-g-white--conselhos-sobre-a-escola-sabatina--foto2--20260306--095414.jpg",
+    "static/uploads/ellen-g-white--conselhos-sobre-a-escola-sabatina--foto3--20260306--095414.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Texto livre de anotações, sublinhados, carimbos, etc. Sem marcas de umidade, mofo, traça. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:00:34",
+  "observacoes": null
+}

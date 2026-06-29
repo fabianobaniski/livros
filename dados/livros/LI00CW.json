@@ -1,0 +1,63 @@
+{
+  "obra_id": 501,
+  "autor": "Francis A. Schaeffer",
+  "titulo": "Josué e a história bíblica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "História. Cristianismo. Cultura.",
+  "palavras_chave": "schaeffer josue historia biblica",
+  "edicao_id": 486,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 250,
+  "isbn": "8576221268",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O livro de Josué nos conta a história de um período de transição crucial para os israelitas, quando eles seguiram a direção de Deus e se estabeleceram na terra prometida. Israel precisou de disciplina à luz de sua recém-encontrada liberdade. Eles enfrentaram a responsabilidade de viver como povo da aliança enquanto se adaptavam à mudança. Josué descreve a mudança histórica da revelação das promessas de Deus para sua realização. O cuidado de Deus por seu povo se torna óbvio, e o conflito desse povo com a desobediência, o egoísmo e o medo é genuinamente humano.</p> <p>As meditações de Francis Schaeffer sobre o livro de Josué mostrarão aos leitores o alimento histórico, espiritual e intelectual disponível para a vida cristã por meio do exemplo de Josué e seus companheiros israelitas. No livro de Josué, Schaeffer descobre que Deus revela sua tristeza por causa dos pecados cometidos pelos homens, assim como seu amor gracioso por seu povo. Isso é verdade tanto para nós quanto para os que viveram nos dias de Josué. Este livro motivará os leitores a ver a mão de Deus presente em toda a história, incluindo hoje.</p> <p>Francis A. Schaeffer é reconhecido internacionalmente por seu trabalho no relacionamento entre Cristianismo e cultura. Ele e sua esposa fundaram a Comunidade L'Abri. Schaeffer faleceu em 1984, mas sua influência permanece. Ele é autor de mais de 20 livros, que foram traduzidos em várias línguas e venderam milhões de cópias em todo o mundo. Entre eles A obra consumada de Cristo, Como viveremos?, Morte na cidade, O Deus que intervém, O Deus que se revela, Poluição e morte do homem e Verdadeira espiritualidade, todos desta editora.</p>",
+  "sinopse": "O livro de Josué apresenta um período crucial para os israelitas, onde eles seguem a direção de Deus e estabelecem-se na terra prometida. A obra detalha a responsabilidade do povo da aliança em um tempo de mudanças significativas e a importância da disciplina divina. Com meditações de Francis Schaeffer, o texto fornece uma reflexão sobre a relação de Deus com seu povo e as dificuldades enfrentadas, incentivando uma visão sobre a ação divina presente em toda a história.",
+  "exemplar_id": 485,
+  "sku": "LI00CW",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/francis-a--schaeffer--josu---capa--20250227--152846.jpg",
+  "contracapa": "static/uploads/francis-a--schaeffer--josu---contracapa--20250227--152846.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:54:27",
+  "observacoes": null
+}

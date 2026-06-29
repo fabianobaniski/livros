@@ -1,0 +1,68 @@
+{
+  "obra_id": 1534,
+  "autor": "Mary del Priore",
+  "titulo": "A descoberta do Novo Mundo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "História. Descobrimento. Crianças.",
+  "palavras_chave": "priore descoberta mundo",
+  "edicao_id": 1515,
+  "encadernacao": null,
+  "quantidade_paginas": 109,
+  "peso": 160,
+  "isbn": "9788542200874",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "Aventuras na História",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em A descoberta do novo mundo, a historiadora Mary del Priore convida os leitores a embarcarem numa viagem mágica, capaz de levá-los de volta ao passado da História do Brasil nos seus primeiros tempos.</p> <p>Os personagens – verdadeiros heróis – vivem experiências e situações que retratam a realidade de muitas crianças do nosso passado, num cenário que foi o dos primeiros tempos da nossa história.</p> <p>Neste livro, o azul se impõe em cada uma de suas páginas, numa síntese entre céu e mar, onde o que predomina e realmente importa é o prazer que a leitura destas histórias entrelaçadas proporciona aos leitores.</p>",
+  "sinopse": "A autora Mary del Priore leva os leitores a uma viagem pelo passado do Brasil, explorando as vivências de crianças durante a descoberta do Novo Mundo. Os personagens vivem situações que revelam a realidade da época, criando um ambiente que mescla histórias e experiências do nosso passado.",
+  "exemplar_id": 1514,
+  "sku": "LI00WW",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/mary-del-priore--a-descoberta-do-novo-mundo--capa--20250401--115745.jpg",
+  "contracapa": "static/uploads/mary-del-priore--a-descoberta-do-novo-mundo--contracapa--20250401--115745.jpg",
+  "fotos": [
+    "static/uploads/mary-del-priore--a-descoberta-do-novo-mundo--foto1--20250401--115745.jpg",
+    "static/uploads/mary-del-priore--a-descoberta-do-novo-mundo--foto2--20250401--115745.jpg",
+    "static/uploads/mary-del-priore--a-descoberta-do-novo-mundo--foto3--20250401--115746.jpg",
+    "static/uploads/mary-del-priore--a-descoberta-do-novo-mundo--foto4--20250401--115746.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:16:54",
+  "observacoes": null
+}

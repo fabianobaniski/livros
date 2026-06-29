@@ -1,0 +1,68 @@
+{
+  "obra_id": 3616,
+  "autor": "Petra Editora",
+  "titulo": "São José",
+  "subtitulo": "O homem simples que aceitou a missão de ser pai do Filho de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "editora sao jose homem",
+  "edicao_id": 3593,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 78,
+  "peso": 230,
+  "isbn": "9788582780428",
+  "editora": "Petra",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3592,
+  "sku": "LI02EB",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/petra-editora--sao-jose--capa--20251114--175740.png",
+  "contracapa": "static/uploads/petra-editora--sao-jose--contracapa--20251114--175747.png",
+  "fotos": [
+    "static/uploads/petra-editora--sao-jose--foto1--20251121--185511.jpg",
+    "static/uploads/petra-editora--sao-jose--foto2--20251121--185511.jpg",
+    "static/uploads/petra-editora--sao-jose--foto3--20251121--185511.jpg",
+    "static/uploads/petra-editora--sao-jose--foto4--20251121--185511.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:53:44",
+  "observacoes": null
+}

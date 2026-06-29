@@ -1,0 +1,68 @@
+{
+  "obra_id": 1527,
+  "autor": "Âsne Seierstad",
+  "titulo": "O livreiro de Cabul",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Cultura. Sociedade. Guerra.",
+  "palavras_chave": "seierstad livreiro cabul",
+  "edicao_id": 1508,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 316,
+  "peso": 280,
+  "isbn": "9788501072870",
+  "editora": "Record",
+  "numero_edicao": 4,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“O resultado é formidável.” <br> The Guardian</p><p>“Seierstad é uma observadora astuciosa e lírica da vida doméstica afegã. (...) O Livreiro de Cabul pode ser lido como um romance, e é uma reportagem empolgante.” <br> The New York Times</p><p>“Ela escreve sobre indivíduos, mas sua mensagem é ampla, e ninguém que a leia será otimista sobre a transformação dessa cultura tradicional em uma democracia moderna.” <br> Mark Hertsgaard, The Washington Post</p><p>“Ficará como um dos melhores livros de reportagem sobre a vida afegã depois da queda do Talibã.” <br> Publishers Weekly</p>",
+  "sinopse": "",
+  "exemplar_id": 1507,
+  "sku": "LI00WT",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/-sne-seierstad--o-livreiro-de-cabul--capa--20250401--115744.jpg",
+  "contracapa": "static/uploads/-sne-seierstad--o-livreiro-de-cabul--contracapa--20250401--115744.jpg",
+  "fotos": [
+    "static/uploads/-sne-seierstad--o-livreiro-de-cabul--foto1--20250401--115744.jpg",
+    "static/uploads/-sne-seierstad--o-livreiro-de-cabul--foto2--20250401--115744.jpg",
+    "static/uploads/-sne-seierstad--o-livreiro-de-cabul--foto3--20250401--115745.jpg",
+    "static/uploads/-sne-seierstad--o-livreiro-de-cabul--foto4--20250401--115745.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:24:09",
+  "observacoes": null
+}

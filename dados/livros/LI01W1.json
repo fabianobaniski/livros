@@ -1,0 +1,63 @@
+{
+  "obra_id": 2953,
+  "autor": "Prog. Est. Medievais Ufrj",
+  "titulo": "Tradição monástica e franciscanismo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "tradicao monastica franciscanismo",
+  "edicao_id": 2933,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 264,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Inst. Teológico Franciscano",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro reúne as atas do Ciclo Tradição Monástica e Franciscanismo, organizado em parceria pelo Programa de Estudos Medievais da UFRJ e o Instituto Teológico Franciscano de Petrópolis. As instituições promovem intercâmbio de experiências sobre o estudo do fenômeno religioso, com foco no período medieval. A obra é dividida em duas sessões, apresentando conferências e comunicações de especialistas, mantendo a fidelidade ao conteúdo original. A iniciativa reflete o compromisso com a pesquisa interdisciplinar e a disseminação do conhecimento sobre tradições religiosas e medievais.",
+  "exemplar_id": 2932,
+  "sku": "LI01W1",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/tradicao-monastica-e-franciscanismo-prog-est-medievais-ufrj-capa_rev1013.jpg",
+  "contracapa": "static/uploads/tradicao-monastica-e-franciscanismo-prog-est-medievais-ufrj-contracapa_rev1036.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Leves marcas deixadas pelo uso e pela passagem do tempo, principalmente na capa e contracapa, mas, no geral, o livro está em ótimo estado. Texto sem anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:27:55",
+  "observacoes": null
+}

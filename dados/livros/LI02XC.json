@@ -1,0 +1,63 @@
+{
+  "obra_id": 5256,
+  "autor": "Satoru Noda",
+  "titulo": "Golden Kamuy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Aventura. História japonesa.",
+  "palavras_chave": "noda golden kamuy",
+  "edicao_id": 5231,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 230,
+  "isbn": "9788542620207",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Após feitos épicos na Guerra Russo-Japonesa, o soldado conhecido como 'Sugimoto, o Imortal' vai para Hokkaido em busca de uma grande quantia de dinheiro para realizar um objetivo. Lá, encontra pistas que levavam um tesouro perdido do povo ainu, mas, para segui-las, ele precisa enfrentar a natureza hostil do lugar, prisioneiros fugitivos, e os soldados que procuram por esses homens! Junto a uma garota ainu e um raro lobo-de-hokkaido, Sugimoto começa a luta pela sobrevivência em busca do ouro!!!</p>",
+  "sinopse": "Sugimoto, um soldado conhecido como 'o Imortal', parte para Hokkaido em busca de um tesouro perdido do povo ainu. Enfrentando a natureza hostil, prisioneiros fugitivos e soldados, ele se junta a uma garota ainu e um raro lobo-de-hokkaido na luta pela sobrevivência e busca pelo ouro.",
+  "exemplar_id": 5230,
+  "sku": "LI02XC",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/golden-kamuy__satoru-noda__capa__2026-02-20_10-32-56-686629-000.png",
+  "contracapa": "static/uploads/golden-kamuy__satoru-noda__contracapa__2026-02-20_10-32-57-399005-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

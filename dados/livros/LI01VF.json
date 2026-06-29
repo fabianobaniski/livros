@@ -1,0 +1,63 @@
+{
+  "obra_id": 2931,
+  "autor": "Andrea Gabor",
+  "titulo": "The capitalist philosophers",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "gabor the capitalist philosophers",
+  "edicao_id": 2911,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 384,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Three Rivers Press",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2910,
+  "sku": "LI01VF",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/the-capitalist-philosophers-andrea-gabor-capa_rev1474.jpg",
+  "contracapa": "static/uploads/the-capitalist-philosophers-andrea-gabor-contracapa_rev667.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Andrea Gabor narra a história dos grandes pensadores que moldaram a teoria e prática da administração moderna. A obra destaca figuras como Peter Drucker, Frederick Taylor, W. Edwards Deming e Robert McNamara, mostrando como suas ideias influenciaram profundamente o mundo dos negócios. Gabor explora como esses filósofos capitalistas redefiniram o papel das corporações e como suas contribuições impactaram tanto positivamente quanto negativamente as grandes empresas. / Em inglês / Subtítulo: The geniuses of modern business - Their lives, times, and ideas. / Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel levemente amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:12:33",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3188,
+  "autor": "Seumas Miller",
+  "titulo": "Corrupção Institucional",
+  "subtitulo": "Estudo Em Filosofia Aplicada",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": null,
+  "palavras_chave": "miller corrupcao institucional estudo",
+  "edicao_id": 3168,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 468,
+  "peso": 450,
+  "isbn": "9786557131213",
+  "editora": "Vozes",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Seumas Miller apresenta uma análise filosófica aprofundada sobre a corrupção, explorando conceitos como poder, responsabilidade coletiva, suborno e nepotismo. Utilizando exemplos reais do setor público e privado, o autor discute sistemas de integridade e medidas anticorrupção. Dividido em três partes, o livro define os conceitos-chave, analisa investigações e sistemas de delações e aborda a corrupção em áreas específicas como segurança, finanças e governo.",
+  "exemplar_id": 3167,
+  "sku": "LI022K",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:15:20",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

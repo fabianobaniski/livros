@@ -1,0 +1,68 @@
+{
+  "obra_id": 148,
+  "autor": "Yael Dayan",
+  "titulo": "Os dois filhos da morte",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "História. Guerra. Relações familiares.",
+  "palavras_chave": "dayan filhos morte",
+  "edicao_id": 144,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 216,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Edições Bloch",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "Coleção Roteiro",
+  "volume": null,
+  "transcricao_contracapa": "<h1>OS DOIS FILHOS DA MORTE</h1> <p>Dosando sabiamente a narrativa tradicional com a técnica de flash-back, a autora consegue nestas páginas um efeito singularmente forte. Sua história se origina da terrível \"escolha\" deixada a um pai pelos nazistas: salvar um filho, abandonando o outro ao carrasco.</p>",
+  "sinopse": "A obra de Yael Dayan explora a complexa escolha de um pai durante a Segunda Guerra Mundial, que se vê forçado a salvar um filho em detrimento do outro. O romance revela a experiência de sobreviver em meio à guerra, embalmando sentimentos de amor, perda e a busca pela identidade em tempos de desespero.",
+  "exemplar_id": 143,
+  "sku": "LI003M",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/yael-dayan--os-dois-filhos-da-morte--capa--20250226--133758.jpg",
+  "contracapa": "static/uploads/yael-dayan--os-dois-filhos-da-morte--contracapa--20250226--133758.jpg",
+  "fotos": [
+    "static/uploads/yael-dayan--os-dois-filhos-da-morte--foto1--20250226--133758.jpg",
+    "static/uploads/yael-dayan--os-dois-filhos-da-morte--foto2--20250226--133758.jpg",
+    "static/uploads/yael-dayan--os-dois-filhos-da-morte--foto3--20250226--133758.jpg",
+    "static/uploads/yael-dayan--os-dois-filhos-da-morte--foto4--20250226--133758.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém amarelado. Lombada levemente inclinada e com pequeno trecho descolado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:11:11",
+  "observacoes": null
+}

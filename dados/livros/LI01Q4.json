@@ -1,0 +1,63 @@
+{
+  "obra_id": 2740,
+  "autor": "Huberto Rohden",
+  "titulo": "Novos rumos para a educação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "rohden novos rumos para",
+  "edicao_id": 2720,
+  "encadernacao": null,
+  "quantidade_paginas": 176,
+  "peso": 250,
+  "isbn": "9788572321983",
+  "editora": "Martin Claret",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Para Huberto Rohden, a verdadeira educação vai além da instrução, sendo um processo de eduzir, ou seja, trazer à tona o que já existe no educando. Ele defende que a educação é um trabalho individual, focado na autoeducação e no desenvolvimento integral do ser humano. Este livro oferece ao leitor as bases para uma educação universal e autônoma, capacitando-o a trilhar seu próprio caminho de crescimento e realização pessoal. Estudá-lo é um convite à transformação interior e à revolução do pensamento.",
+  "exemplar_id": 2719,
+  "sku": "LI01Q4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 11.0,
+  "capa": "static/uploads/novos-rumos-para-a-educacao-huberto-rohden-capa_rev960.jpg",
+  "contracapa": "static/uploads/novos-rumos-para-a-educacao-huberto-rohden-contracapa_rev961.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, miolo firme, livre de anotações e sublinhados. Selo da livraria na primeira folha, segunda folha um pouco suja pelo manuseio. Capa com forte sinal de dobradura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:24:33",
+  "observacoes": null
+}

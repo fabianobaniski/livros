@@ -1,0 +1,68 @@
+{
+  "obra_id": 1398,
+  "autor": "Neil Gaiman",
+  "titulo": "Coraline",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Fantasia. Aventura. Crescimento pessoal.",
+  "palavras_chave": "gaiman coraline",
+  "edicao_id": 1380,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 223,
+  "peso": 350,
+  "isbn": "9788551006757",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Na nova casa de Coraline, há uma porta que esconde segredos.</p> <p>Um outro mundo, com pais de pele muito branca e olhos de botões negros.</p> <p>E eles querem que Coraline fique ali. Para sempre.</p>",
+  "sinopse": "Na nova casa de Coraline, existe uma porta que leva a outro mundo, onde seus \"pais\" tem pele muito branca e olhos de botões. Eles querem que Coraline permaneça nesse lugar, fazendo dela prisioneira. O mistério e os perigos deste outro mundo aguardam por Coraline e ela deve descobrir a verdade antes que seja tarde demais.",
+  "exemplar_id": 1379,
+  "sku": "LI00TM",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/neil-gaiman--coraline--capa--20250401--115340.jpg",
+  "contracapa": "static/uploads/neil-gaiman--coraline--contracapa--20250401--115340.jpg",
+  "fotos": [
+    "static/uploads/neil-gaiman--coraline--foto1--20250401--115340.jpg",
+    "static/uploads/neil-gaiman--coraline--foto2--20250401--115340.jpg",
+    "static/uploads/neil-gaiman--coraline--foto3--20250401--115340.jpg",
+    "static/uploads/neil-gaiman--coraline--foto4--20250401--115340.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:02:47",
+  "observacoes": null
+}

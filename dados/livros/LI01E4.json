@@ -1,0 +1,68 @@
+{
+  "obra_id": 2307,
+  "autor": "J. Martins Lampreia",
+  "titulo": "A Assessoria de Imprensa Nas Relações Públicas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Comunicação",
+  "temas": "",
+  "palavras_chave": "lampreia assessoria imprensa nas",
+  "edicao_id": 2287,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 212,
+  "peso": 482,
+  "isbn": "9789721033658",
+  "editora": "Publicações Europa-américa",
+  "numero_edicao": 2,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "No contexto em que a imagem é crucial, a maneira como a atuação de governos e empresas é percebida pelo público se torna vital. A divulgação e transmissão de informações por profissionais de Relações Públicas e assessoria de imprensa são temas centrais de debate ético e deontológico. Com a multiplicidade de interesses e a influência dos meios de comunicação, compreender os métodos, desafios e impactos dessa área é essencial. J. Martins Lampreia, especialista em comunicação, aborda essas questões, oferecendo insights valiosos para profissionais e estudantes.",
+  "exemplar_id": 2286,
+  "sku": "LI01E4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/j-martins-lampreia--a-assessoria-de-imprensa-nas-relacoes-publicas--capa--20251021--103633.png",
+  "contracapa": "static/uploads/j-martins-lampreia--a-assessoria-de-imprensa-nas-relacoes-publicas--contracapa--20251021--103641.png",
+  "fotos": [
+    "static/uploads/j-martins-lampreia--a-assessoria-de-imprensa-nas-relacoes-publicas--foto1--20251021--103649.jpg",
+    "static/uploads/j-martins-lampreia--a-assessoria-de-imprensa-nas-relacoes-publicas--foto2--20251021--103649.jpg",
+    "static/uploads/j-martins-lampreia--a-assessoria-de-imprensa-nas-relacoes-publicas--foto3--20251021--103649.jpg",
+    "static/uploads/j-martins-lampreia--a-assessoria-de-imprensa-nas-relacoes-publicas--foto4--20251021--103649.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso; marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:07:47",
+  "observacoes": null
+}

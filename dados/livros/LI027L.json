@@ -1,0 +1,68 @@
+{
+  "obra_id": 3374,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Comédia romântica. Vida escolar.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 3351,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788542607055",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Raku Ichijou é um estudante perfeitamente normal – apesar de ser filho do chefe de uma família da Yakuza. Um dia, surge em sua escola uma bela aluna transferida chamada Chitoge Kirisaki. Os dois logo se estranham e não se dão bem de jeito nenhum, mas, por algum motivo, descobrem que precisam fingir que são namorados!</p>",
+  "sinopse": "Raku Ichijou é um estudante aparentemente comum, mas filho do chefe de uma família da Yakuza. Sua vida muda quando a bela Chitoge Kirisaki se transfere para sua escola. Apesar de não se darem bem, por circunstâncias inesperadas, eles precisam fingir que são namorados, iniciando uma série de situações cômicas e complicadas.",
+  "exemplar_id": 3350,
+  "sku": "LI027L",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2025-11-05_16-14-45-378179.jpg",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2025-11-05_16-14-45-419542.jpg",
+  "fotos": [
+    "static/uploads/nisekoi__naoshi-komi__foto-01__2025-11-05_16-14-45-453968.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-02__2025-11-05_16-14-45-486924.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-03__2025-11-05_16-14-45-511084.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-04__2025-11-05_16-14-45-536863.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:35:58",
+  "observacoes": null
+}

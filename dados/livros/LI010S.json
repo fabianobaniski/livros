@@ -1,0 +1,68 @@
+{
+  "obra_id": 1826,
+  "autor": "Elismar Bertoluci de Araújo Anastácio; Henrique Pimenta Santos; Maysa de Oliveira Brum Bueno",
+  "titulo": "Tendências contemporâneas em letras",
+  "subtitulo": "Povos do Pantanal",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "Literatura. Estudos culturais. Diversidade humana. Pantanal.",
+  "palavras_chave": "anastacio tendencias contemporaneas letras povos pantanal",
+  "edicao_id": 1806,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 304,
+  "peso": 360,
+  "isbn": "9798577040369",
+  "editora": "Uniderp",
+  "numero_edicao": 2,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nesta segunda edição do livro <i>Tendências Contemporâneas</i>, mantemos a prática de estudos e pesquisas e sua publicação, na área de Letras. Procuramos ter em foco realidades mais próximas e, assim, descobrimos que bem pouco se diferenciam das distantes e distintas. A nossa geografia, por exemplo, se chama pantanal e se encontra dentro do peito de nosso segundo e principal foco, que se chama ser humano, sinônimo de alemão, norte-americano, judeu, árabe, negro, andino, indígena. Concentramos-nos nas diversidades. Cidadãos do mundo. Povos do Pantanal.</p>",
+  "sinopse": "Esta segunda edição de 'Tendências Contemporâneas em Letras' reúne estudos e pesquisas focados em realidades próximas, destacando a riqueza da diversidade humana, especialmente nos contextos do Pantanal. O livro valoriza as diferenças e similaridades entre culturas, refletindo sobre a geografia da região e o ser humano, independente das origens. Cidadãos do mundo, os povos do Pantanal são o centro deste olhar plural.",
+  "exemplar_id": 1805,
+  "sku": "LI010S",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/elismar-bertoluci-de-ara-jo-anast-cio--tend-ncias-contempor-neas-em-letras--capa--20250430--102952.jpg",
+  "contracapa": "static/uploads/elismar-bertoluci-de-ara-jo-anast-cio--tend-ncias-contempor-neas-em-letras--contracapa--20250430--102952.jpg",
+  "fotos": [
+    "static/uploads/elismar-bertoluci-de-ara-jo-anast-cio--tend-ncias-contempor-neas-em-letras--foto1--20250430--102953.jpg",
+    "static/uploads/elismar-bertoluci-de-ara-jo-anast-cio--tend-ncias-contempor-neas-em-letras--foto2--20250430--102953.jpg",
+    "static/uploads/elismar-bertoluci-de-ara-jo-anast-cio--tend-ncias-contempor-neas-em-letras--foto3--20250430--102953.jpg",
+    "static/uploads/elismar-bertoluci-de-ara-jo-anast-cio--tend-ncias-contempor-neas-em-letras--foto4--20250430--102953.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:56:30",
+  "observacoes": "procedencia_biblioteca"
+}

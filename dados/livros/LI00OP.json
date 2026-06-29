@@ -1,0 +1,63 @@
+{
+  "obra_id": 931,
+  "autor": "Paul Washer",
+  "titulo": "O poder do evangelho e sua mensagem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Evangelho. Crítica religiosa.",
+  "palavras_chave": "washer poder evangelho mensagem",
+  "edicao_id": 916,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 302,
+  "peso": 400,
+  "isbn": "9788581321622",
+  "editora": "FIEL",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Paul Washer trabalha questões fundamentais neste livro. Ele convida o leitor a considerar a mensagem mais importante da história da humanidade – o evangelho de Jesus Cristo – e o apresenta com grande clareza, retirando o pó da criminosa negligência que se vê em muitos meios evangélicos de nossos dias e revelando toda sua beleza, esplendor, escândalo e poder.</p><p>Este livro foi escrito a partir de uma série de meditações sobre o evangelho para provocar o leitor a fazer “das boas novas de perdão e salvação” o assunto mais importante de sua vida. E que essa redescoberta transforme sua vida, fortaleça sua proclamação e glorifique a Deus.</p><p>“Sou profundamente grato pela corajosa clareza de O Poder do Evangelho e sua Mensagem, de Paul Washer. Em alguns meios cristãos, impera a falsa ideia de que o evangelho diz respeito anos – um plano maravilhoso para nossas vidas, ou um meio para achar a paz e a felicidade e o caminho para o céu. Embora esses sejam aspectos do evangelho, eles não são o evangelho e nem mesmo seu objetivo final. O Evangelho tem a ver com Deus e sua glória – é onde começa e onde termina. E, nesta obra, Paul Washer acerta em cheio, apresentando-nos um estudo bíblico precioso e um evangelho poderoso para salvar”.</p>",
+  "sinopse": "Neste livro, Paul Washer explora a importância central do evangelho de Jesus Cristo, denunciando a negligência em muitos círculos evangélicos atuais. Ele convida o leitor a uma redescoberta que não apenas transforma vidas, mas aumenta a compreensão e a glorificação a Deus por meio do evangelho.",
+  "exemplar_id": 915,
+  "sku": "LI00OP",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/paul-washer--o-poder-do-evangelho-e-sua-mensagem--capa--20250227--152914.jpg",
+  "contracapa": "static/uploads/paul-washer--o-poder-do-evangelho-e-sua-mensagem--contracapa--20250227--152914.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:37:32",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2946,
+  "autor": "William H. Kemp",
+  "titulo": "The renewable energy handbook",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "kemp the renewable energy",
+  "edicao_id": 2926,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 567,
+  "peso": 800,
+  "isbn": "9780973323320",
+  "editora": "New Society Pub",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "À medida que os preços do petróleo continuam a subir, muitas pessoas começam a pensar em como se desvincular da rede elétrica. The Renewable Energy Handbook foca completamente em viver de forma sustentável fora da rede e na independência energética rural. O autor e engenheiro William H. Kemp, que é um especialista líder em tecnologias renováveis de pequena e média escala, projetou e construiu sua própria casa fora da rede. O resultado é uma casa que possui todos os confortos padrão da classe média enquanto usa menos de cinco vezes a energia total de combustíveis fósseis da casa norte-americana média.",
+  "exemplar_id": 2925,
+  "sku": "LI01VU",
+  "preco_estante_virtual": 80.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/the-renewable-energy-handbook-william-h-kemp-capa_rev1330.jpg",
+  "contracapa": "static/uploads/the-renewable-energy-handbook-william-h-kemp-contracapa_rev12.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:46",
+  "observacoes": null
+}

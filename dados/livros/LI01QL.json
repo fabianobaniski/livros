@@ -1,0 +1,63 @@
+{
+  "obra_id": 2757,
+  "autor": "Paulo Coelho",
+  "titulo": "O demônio e a srta Prym",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "coelho demonio srta prym",
+  "edicao_id": 2737,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 213,
+  "peso": 300,
+  "isbn": "9788573023350",
+  "editora": "Objetiva",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em uma pequena cidade dividida pela cobiça, covardia e medo, um homem perseguido por um passado sombrio chega em busca de respostas sobre a verdadeira natureza humana. Ele propõe um dilema moral à população: o Bem ou o Mal? Durante sete dias, os habitantes são confrontados com suas escolhas, e o destino da cidade está em jogo. O Demônio e a Srta. Prym é uma narrativa intensa que explora os limites da integridade humana, questionando até onde as pessoas podem ir quando suas almas estão em jogo.",
+  "exemplar_id": 2736,
+  "sku": "LI01QL",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-demonio-e-a-srta-prym-paulo-coelho-capa_rev255.jpg",
+  "contracapa": "static/uploads/o-demonio-e-a-srta-prym-paulo-coelho-contracapa_rev1465.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livre bastante amarelado pela passagem dos anos, mas, no geral, bem conservado. Não possui nem anotações nem sublinhados. Lombada um pouco inclinada à direita."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:01:50",
+  "observacoes": null
+}

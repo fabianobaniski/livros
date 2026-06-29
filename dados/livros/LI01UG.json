@@ -1,0 +1,63 @@
+{
+  "obra_id": 2896,
+  "autor": "Marta Maria Chagas de Carvalho",
+  "titulo": "Sampaio Dória",
+  "subtitulo": "Coleção Educadores",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "carvalho sampaio doria colecao",
+  "edicao_id": 2876,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 200,
+  "isbn": "9788570195050",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2875,
+  "sku": "LI01UG",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sampaio-doria-marta-maria-chagas-de-carvalho-capa_rev48.jpg",
+  "contracapa": "static/uploads/sampaio-doria-marta-maria-chagas-de-carvalho-contracapa_rev723.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:50:52",
+  "observacoes": null
+}

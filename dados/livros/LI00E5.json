@@ -1,0 +1,63 @@
+{
+  "obra_id": 546,
+  "autor": "Douglas Wilson",
+  "titulo": "Alegria no limite das forças",
+  "subtitulo": "A inescrutável sabedoria de Eclesiastes",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Sabedoria. Eclesiastes.",
+  "palavras_chave": "wilson alegria eclesiastes",
+  "edicao_id": 531,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 128,
+  "peso": 280,
+  "isbn": "9788562478390",
+  "editora": "Monergismo",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A maioria dos cristãos considera o livro de Eclesiastes um enigma, um quebra-cabeça a partir do qual se podem extrair uns poucos aforismos, talvez um pouco mais que isso. O tratamento novo e lúcido de Douglas Wilson dado a esse livro maravilhoso nos capacita a perceber que sua mensagem não é uma charada confusa, e sim a acusação incisiva contra a “sabedoria deste mundo”. Aprendemos que a chamada “modernidade” é apenas um termo para designar os pecados dos homens do jeito antigo — com novos brinquedos e ferramentas. Na verdade não há nada novo “debaixo do sol”; os problemas do homem de hoje são idênticos aos experimentados desde a Queda. E a resposta ao problema do homem é tão antiga quanto isso, embora seja sempre nova: “o temor do SENHOR é o princípio da sabedoria”. </p> <p> — Steve Wilkins, Alburn Avenue Presbyterian Church</p>",
+  "sinopse": "O livro 'Alegria' de Douglas Wilson analisa a sabedoria intrigante do livro de Eclesiastes, destacando como as questões enfrentadas pelo homem contemporâneo são atemporais. Através de uma linguagem acessível e reflexões profundas, Wilson promove uma compreensão renovada e instigante do tema da sabedoria, revelando que, apesar das mudanças ao longo da história, os desafios humanos permanecem. A obra conclui que o temor do Senhor é fundamental para se alcançar verdadeiro entendimento e sabedoria.",
+  "exemplar_id": 530,
+  "sku": "LI00E5",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/douglas-wilson--alegria--capa--20250227--152849.jpg",
+  "contracapa": "static/uploads/douglas-wilson--alegria--contracapa--20250227--152849.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:12:25",
+  "observacoes": null
+}

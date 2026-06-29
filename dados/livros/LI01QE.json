@@ -1,0 +1,63 @@
+{
+  "obra_id": 2750,
+  "autor": "David Calderoni",
+  "titulo": "O caso Hermes",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "calderoni caso hermes",
+  "edicao_id": 2730,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 332,
+  "peso": 350,
+  "isbn": "9788573963977",
+  "editora": "Casa do Psicólogo",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O aparelho auditivo de Hermes poderia ter captado as palavras da professora? Talvez sim, talvez não. Hermes passou por diversos lugares até ser ouvido, e sua história vai além de suas dificuldades de escuta. Neste texto, refletindo sobre as ideias de Ernildo Stein, aborda-se o papel da linguagem como ponte entre o indizível e o comunicável, explorando a complexidade de dar voz ao que parece inexpressável. A narrativa envolve o impulso infantil de nomear o mundo e as nuances do processo de tradução da experiência em palavras.",
+  "exemplar_id": 2729,
+  "sku": "LI01QE",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/o-caso-hermes-david-calderoni-capa_rev702.jpg",
+  "contracapa": "static/uploads/o-caso-hermes-david-calderoni-contracapa_rev1709.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:55:51",
+  "observacoes": null
+}

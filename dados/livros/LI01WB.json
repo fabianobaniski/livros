@@ -1,0 +1,63 @@
+{
+  "obra_id": 2963,
+  "autor": "Daniel Carlat",
+  "titulo": "Unhinged",
+  "subtitulo": "The trouble with psychiatry",
+  "idioma": "Inglês",
+  "categoria": "Medicina",
+  "temas": "",
+  "palavras_chave": "carlat unhinged the trouble",
+  "edicao_id": 2943,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 256,
+  "peso": 500,
+  "isbn": "9781416590798",
+  "editora": "Free Press",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Carlat critica a indústria e profissionais, incluindo-se por ter sido um palestrante pago por uma farmacêutica. Ele também critica representantes de vendas que influenciam médicos. O livro levanta preocupações sobre a eficácia de medicamentos psicotrópicos e os problemas nos estudos submetidos à FDA, mas reconhece a importância das farmacêuticas na pesquisa de novos medicamentos e casos de pacientes que se beneficiaram de suas prescrições...",
+  "exemplar_id": 2942,
+  "sku": "LI01WB",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/unhinged-daniel-carlat-capa_rev2154.jpg",
+  "contracapa": "static/uploads/unhinged-daniel-carlat-contracapa_rev414.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "A doctors revelations about a profession in crisis / Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, sobrecapa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Capa dura com sobrecapa.,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:14",
+  "observacoes": null
+}

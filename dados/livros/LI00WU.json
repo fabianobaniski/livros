@@ -1,0 +1,68 @@
+{
+  "obra_id": 1531,
+  "autor": "Roger Garaudy",
+  "titulo": "Liberdade vigiada",
+  "subtitulo": "Praga 1968",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "Política. História. Socialismo.",
+  "palavras_chave": "garaudy liberdade vigiada",
+  "edicao_id": 1512,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Edições Bloch",
+  "numero_edicao": null,
+  "ano": 1969,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em 1968, tentou-se criar na Tchecoslováquia \"um modelo novo de socialismo num país altamente desenvolvido, ou da democracia socialista em todos os níveis da economia, da política, da cultura\" -- como se diz na apresentação da edição francesa do presente livro. Neste, o conhecido líder intelectual esquerdista Roger Garaudy reuniu textos de Dubcek, Ota Sik e outros, acrescentando a introdução na qual qualifica as brutalidades cometidas pela URSS como \"um crime contra o futuro\".</p> <p>O leitor brasileiro que acompanhou os fatos pela imprensa dispõe agora de um repositório de idéias, a fim de aprofundar o conhecimento de como ferveu e foi cruelmente truncado pelos interesses soviéticos um movimento que não podia vingar contra esses mesmos interesses.</p>",
+  "sinopse": "Em 1968, a Tchecoslováquia tentou estabelecer um novo modelo de socialismo, mas o movimento foi interrompido brutalmente pela URSS. Roger Garaudy reúne reflexões sobre os textos de líderes como Dubcek, explorando as ideias e os desafios enfrentados durante esse período conturbado. O livro oferece uma análise crítica e um repositório de ideias para entender as complexidades do socialismo em um contexto de repressão.",
+  "exemplar_id": 1511,
+  "sku": "LI00WU",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/roger-garaudy--liberdade--capa--20250401--115745.jpg",
+  "contracapa": "static/uploads/roger-garaudy--liberdade--contracapa--20250401--115745.jpg",
+  "fotos": [
+    "static/uploads/roger-garaudy--liberdade--foto1--20250401--115745.jpg",
+    "static/uploads/roger-garaudy--liberdade--foto2--20250401--115745.jpg",
+    "static/uploads/roger-garaudy--liberdade--foto3--20250401--115745.jpg",
+    "static/uploads/roger-garaudy--liberdade--foto4--20250401--115745.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:31:04",
+  "observacoes": null
+}

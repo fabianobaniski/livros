@@ -1,0 +1,68 @@
+{
+  "obra_id": 5834,
+  "autor": "Harlan Coben",
+  "titulo": "Não conte a ninguém",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura estrangeira. Romance policial. Suspense. Mistério. Assassinato.",
+  "palavras_chave": "coben nao conte ninguem",
+  "edicao_id": 5809,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 251,
+  "peso": 400,
+  "isbn": "9788599296516",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Há oito anos, enquanto comemoravam o aniversário de seu primeiro beijo, o Dr. David Beck e sua esposa, Elizabeth, sofreram um terrível ataque. Ele foi golpeado e caiu no lago, inconsciente. Ela foi raptada e brutalmente assassinada por um <i>serial killer</i>.</p><p>O caso volta à tona quando a polícia encontra dois corpos enterrados perto do local do crime, junto com o taco de beisebol usado para nocautear David. Ao mesmo tempo, o médico recebe um misterioso e-mail, que, aparentemente, só pode ter sido enviado por sua esposa.</p><p>Esses novos fatos fazem ressurgir inúmeras perguntas sem resposta: Como David conseguiu sair do lago? Elizabeth está viva? E, se estiver, de quem era o corpo enterrado oito anos antes? Por que ela demorou tanto para entrar em contato com o marido?</p><p>Na mira do FBI como principal suspeito da morte da esposa e caçado por um perigosíssimo assassino de aluguel, David Beck contará apenas com o apoio de sua melhor amiga, a modelo Shauna, da célebre advogada Hester Crimstein e de um traficante de drogas para descobrir toda a verdade e provar sua inocência.</p><p><i>Não conte a ninguém</i> foi o livro mais aclamado de 2001, indicado para diversos prêmios, entre eles Edgar, Anthony, Macavity, Nero e Barry. Em 2006 foi adaptado para o cinema numa produção francesa vencedora de quatro Cesars (o Oscar francês), inclusive de melhor ator e diretor.</p>",
+  "sinopse": "Oito anos após o assassinato brutal da esposa Elizabeth, o Dr. David Beck vê sua vida virar de cabeça para baixo quando novos corpos aparecem e ele recebe um misterioso e-mail que pode ter sido enviado por ela. Enquanto o FBI o considera principal suspeito de um crime, David precisará da ajuda de amigos improváveis para desvendar o caso, provar sua inocência e descobrir se Elizabeth está realmente viva.",
+  "exemplar_id": 5808,
+  "sku": "LI0377",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/nao-conte-a-ninguem__none__harlan-coben__capa__2026-01-18_14-12-07-181984-000.png",
+  "contracapa": "static/uploads/nao-conte-a-ninguem__none__harlan-coben__contracapa__2026-01-18_14-12-07-212290-001.png",
+  "fotos": [
+    "static/uploads/nao-conte-a-ninguem__none__harlan-coben__foto-01__2026-01-18_14-12-07-242044-002.jpg",
+    "static/uploads/nao-conte-a-ninguem__none__harlan-coben__foto-02__2026-01-18_14-12-07-271100-003.jpg",
+    "static/uploads/nao-conte-a-ninguem__none__harlan-coben__foto-03__2026-01-18_14-12-07-313046-004.jpg",
+    "static/uploads/nao-conte-a-ninguem__none__harlan-coben__foto-04__2026-01-18_14-12-07-348215-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:07:15",
+  "observacoes": null
+}

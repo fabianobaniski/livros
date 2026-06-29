@@ -1,0 +1,63 @@
+{
+  "obra_id": 3032,
+  "autor": "Philippa Bowen; Denis Delaney",
+  "titulo": "Got It!",
+  "subtitulo": "Student Book & Workbook - 4 Books",
+  "idioma": "Inglês",
+  "categoria": "Ensino de Idiomas",
+  "temas": "",
+  "palavras_chave": "bowen got student book",
+  "edicao_id": 3012,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 800,
+  "isbn": "9780194463454",
+  "editora": "Oxford",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3011,
+  "sku": "LI01Y8",
+  "preco_estante_virtual": 85.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livros: Starter, Level 1, 2 and 3 / Ótima conservação, sem anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:25:23",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

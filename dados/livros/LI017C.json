@@ -1,0 +1,68 @@
+{
+  "obra_id": 2063,
+  "autor": "Silvio Aparecido Crepaldi",
+  "titulo": "Curso básico de contabilidade",
+  "subtitulo": "Resumo da teoria atendendo às novas demandas da gestão empresarial exercícios e questões com respostas",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Didática. Gestão empresarial. Tomada de decisões. Demonstrações financeiras.",
+  "palavras_chave": "crepaldi curso basico contabilidade",
+  "edicao_id": 2043,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 344,
+  "peso": 595,
+  "isbn": "9788522449088",
+  "editora": "Atlas",
+  "numero_edicao": 5,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>CURSO BÁSICO DE CONTABILIDADE</b><br>Resumo da Teoria<br>Atendendo às Novas Demandas da Gestão Empresarial<br>Exercícios e Questões com Respostas</p><p>O principal objetivo deste livro é privilegiar a didática, a simplicidade e a prática profissional no ensino da Contabilidade e na orientação aos profissionais do ramo.</p><p>A organização do texto liga conceitualmente as ações da empresa a sua contabilidade. Nessa ampla estrutura, encontra-se o balanço, que serve de base para a análise de muitas das decisões com as quais o administrador se defronta.</p><p>O livro segue a sequência lógica das teorias utilizadas pela disciplina contábil. A evolução é gradativa e lenta, para que o estudante assimile o conteúdo sem o acréscimo de informações repentinas, que podem inibir a continuação da aprendizagem.</p><p>O autor optou por organizar cada capítulo sob uma perspectiva administrativa de tomada de decisões. Portanto, é incluída, no mínimo, uma questão didática após cada ponto desenvolvido. Desse modo, o leitor, além de uma definição abstrata, sente verdadeiramente as considerações de uma tomada de decisão e as consequências de cada ação.</p><p>Os principais tópicos abordados são: conceitos, objetivos, finalidades, técnicas contábeis e campo de aplicação da Contabilidade, Patrimônio, Contas, Escrituração, Operações Comerciais, Demonstrações Contábeis e Análise das Demonstrações Financeiras.</p><p><b>APLICAÇÃO</b></p><p>Livro-texto para as disciplinas CONTABILIDADE GERAL, CONTABILIDADE INTRODUTÓRIA e CONTABILIDADE FINANCEIRA dos cursos de graduação em Ciências Contábeis, Administração de Empresas, Economia e outros. Por seu cunho atual, prático e objetivo, é recomendado como manual de consulta para contadores, administradores de empresas e economistas, bem como para auditores e, principalmente, para profissionais envolvidos no processo de administração da informação empresarial.</p>",
+  "sinopse": "Esta obra prioriza a didática, a simplicidade e a prática no ensino da Contabilidade, conectando a teoria com as demandas da gestão empresarial. Estruturado para facilitar a assimilação gradual dos conteúdos, organiza cada capítulo com foco na tomada de decisões, incluindo questões práticas e aplicações reais. Abrange conceitos, objetivos, técnicas, demonstrações contábeis, análise financeira e atende tanto alunos de graduação quanto profissionais envolvidos na administração e uso da informação empresarial.",
+  "exemplar_id": 2042,
+  "sku": "LI017C",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/silvio-aparecido-crepaldi--curso-b-sico-de-contabilidade--capa--20250430--104527.jpg",
+  "contracapa": "static/uploads/silvio-aparecido-crepaldi--curso-b-sico-de-contabilidade--contracapa--20250430--104527.jpg",
+  "fotos": [
+    "static/uploads/silvio-aparecido-crepaldi--curso-b-sico-de-contabilidade--foto1--20250430--104527.jpg",
+    "static/uploads/silvio-aparecido-crepaldi--curso-b-sico-de-contabilidade--foto2--20250430--104527.jpg",
+    "static/uploads/silvio-aparecido-crepaldi--curso-b-sico-de-contabilidade--foto3--20250430--104527.jpg",
+    "static/uploads/silvio-aparecido-crepaldi--curso-b-sico-de-contabilidade--foto4--20250430--104527.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:19:34",
+  "observacoes": "procedencia_biblioteca"
+}

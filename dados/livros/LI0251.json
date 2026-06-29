@@ -1,0 +1,68 @@
+{
+  "obra_id": 3279,
+  "autor": "Fujita",
+  "titulo": "Wotakoi",
+  "subtitulo": "O amor é difícil para otakus",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Cultura pop japonesa. Otakus. Relacionamentos amorosos. Humor.",
+  "palavras_chave": "fujita wotakoi ",
+  "edicao_id": 3259,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 140,
+  "isbn": "9788542617917",
+  "editora": "Planet Manga",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Wotakoi conta a história de Narumi, uma otaku viciada em yaoi que acabou de entrar em uma nova empresa. Lá, ela encontra seu velho amigo de infância, Hirotaka, um belo rapaz, mas também um otaku viciado em games. Depois de algum tempo sem se ver, Hirotaka e Narumi acabam se aproximando, mas será que um relacionamento entre dois otakus pode dar certo?</p>",
+  "sinopse": "Narumi, uma otaku fã de yaoi, inicia seu trabalho em uma nova empresa e reencontra Hirotaka, seu amigo de infância e também otaku, apaixonado por games. A convivência reacende a proximidade entre eles, levando-os a tentar um relacionamento amoroso. Entre referências geek e situações do universo otaku, o casal descobre os desafios e as alegrias do amor entre pessoas com gostos tão intensos.",
+  "exemplar_id": 3258,
+  "sku": "LI0251",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/wotakoi__o-amor-e-dificil-para-otakus__fujita__capa__2025-11-05_16-24-47-455531.jpg",
+  "contracapa": "static/uploads/wotakoi__o-amor-e-dificil-para-otakus__fujita__contracapa__2025-11-05_16-24-47-485972.jpg",
+  "fotos": [
+    "static/uploads/wotakoi__o-amor-e-dificil-para-otakus__fujita__foto-01__2025-11-05_16-24-47-505781.jpg",
+    "static/uploads/wotakoi__o-amor-e-dificil-para-otakus__fujita__foto-02__2025-11-05_16-24-47-536648.jpg",
+    "static/uploads/wotakoi__o-amor-e-dificil-para-otakus__fujita__foto-03__2025-11-05_16-24-47-559463.jpg",
+    "static/uploads/wotakoi__o-amor-e-dificil-para-otakus__fujita__foto-04__2025-11-05_16-24-47-582952.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:48:47",
+  "observacoes": null
+}

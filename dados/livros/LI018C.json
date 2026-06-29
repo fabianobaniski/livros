@@ -1,0 +1,68 @@
+{
+  "obra_id": 2099,
+  "autor": "Marco Aurélio P. Dias",
+  "titulo": "Administração de materiais",
+  "subtitulo": "Uma abordagem logística",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Logística. Administração de materiais. Estoques. Armazenamento. Compras. Distribuição. Transporte.",
+  "palavras_chave": "dias administracao materiais abordagem logistica",
+  "edicao_id": 2079,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 399,
+  "peso": 680,
+  "isbn": "9788522409952",
+  "editora": "Atlas",
+  "numero_edicao": 4,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>ADMINISTRAÇÃO DE MATERIAIS<br>Uma Abordagem Logística</b><br><p>O objetivo deste livro é reunir um conjunto básico de noções sobre a Administração de Materiais destinada especificamente àqueles que tomam o primeiro contato com a disciplina.</p><p>O texto inicia com a abordagem introdutória das conexões existentes entre a Administração de Materiais e outras áreas dentro das empresas modernas. Em seguida, é focalizado o dimensionamento e controle de estoques, fornecendo os conceitos básicos mais importantes, sem que se recorra a métodos quantitativos sofisticados.</p><p>Examina o armazenamento de materiais, com suas implicações no planejamento do <b>layout</b>, com os tipos de embalagens a serem manuseadas e com a análise dos princípios básicos de estocagem e de utilização de cargas. E, ainda, a localização, classificação de materiais, indicando os procedimentos práticos para o inventário físico. É também focalizada a movimentação de materiais, com a apresentação dos principais tipos de equipamento e sua utilização.</p><p>Subsequentemente, o texto analisa tópicos fundamentais de administração de compras, com a apresentação da função e dos sistemas operacionais de compras, seguindo-se a análise do processo de compras, do preço-custo, dos variados tipos de condições de compra, dos aspectos tributários, das características de uma boa negociação e das fontes de fornecimento.</p><p>A distribuição e transporte dos produtos acabados completa a análise logística da Administração de Materiais, focalizando as principais características dos transportes, inclusive intermodal, a organização para a distribuição e sua estrutura.</p><b>NOTA SOBRE O AUTOR</b><br><p>MARCO AURÉLIO P. DIAS é economista e Mestre em Administração de Empresas com especialização em Engenharia Econômica na Universidade Federal do Rio de Janeiro (UFRJ). É autor dos livros <i>Administração de materiais—edição compacta</i>, <i>Gerência de materiais</i> e <i>Transportes e distribuição física</i>, publicados pela Atlas.</p><b>APLICAÇÃO</b><br><p>Livro-texto para a disciplina ADMINISTRAÇÃO DE MATERIAIS dos cursos de Administração de Empresas. Texto complementar para a disciplina ADMINISTRAÇÃO DE PRODUÇÃO dos cursos de Economia, Administração de Empresas e Engenharia Industrial.</p>",
+  "sinopse": "Este livro reúne noções fundamentais sobre Administração de Materiais, voltado especialmente para iniciantes na área. Aborda conexões da administração de materiais com outras áreas empresariais, dimensionamento e controle de estoques, armazenamento, layout, embalagens, classificação e movimentação de materiais, além dos principais equipamentos utilizados. Analisa tópicos essenciais de administração de compras, como funções, processos, condições e negociações, e conclui com a distribuição e transporte de produtos acabados, destacando características e estrutura logística. Indicado como livro-texto para cursos de Administração e complemento em Economia e Engenharia.",
+  "exemplar_id": 2078,
+  "sku": "LI018C",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marco-aur-lio-p--dias--administra--o-de-materiais--capa--20250430--104533.jpg",
+  "contracapa": "static/uploads/marco-aur-lio-p--dias--administra--o-de-materiais--contracapa--20250430--104533.jpg",
+  "fotos": [
+    "static/uploads/marco-aur-lio-p--dias--administra--o-de-materiais--foto1--20250430--104533.jpg",
+    "static/uploads/marco-aur-lio-p--dias--administra--o-de-materiais--foto2--20250430--104533.jpg",
+    "static/uploads/marco-aur-lio-p--dias--administra--o-de-materiais--foto3--20250430--104533.jpg",
+    "static/uploads/marco-aur-lio-p--dias--administra--o-de-materiais--foto4--20250430--104533.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:00:57",
+  "observacoes": "procedencia_biblioteca"
+}

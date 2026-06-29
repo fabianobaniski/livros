@@ -1,0 +1,63 @@
+{
+  "obra_id": 3190,
+  "autor": "Aline Maira da Silva",
+  "titulo": "Educação Especial e Inclusão Escolar",
+  "subtitulo": "História e Fundamentos",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "silva educacao especial inclusao",
+  "edicao_id": 3170,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 213,
+  "peso": 250,
+  "isbn": "9788578387006",
+  "editora": "Ibpex",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "A inclusão escolar vai além de boas intenções, demandando reflexões e práticas que realmente acolham a diversidade nas salas de aula. Este livro convida educadores a analisar a capacidade das escolas em incluir alunos com necessidades especiais, enfrentando preconceitos e barreiras. Voltado para profissionais comprometidos com a educação especial, a obra oferece subsídios para reavaliar práticas pedagógicas, valorizar os potenciais dos alunos e identificar caminhos para transformar desafios em oportunidades...",
+  "exemplar_id": 3169,
+  "sku": "LI022M",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:56:00",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

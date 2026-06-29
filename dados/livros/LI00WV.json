@@ -1,0 +1,68 @@
+{
+  "obra_id": 1533,
+  "autor": "Rodrigo Alvarez",
+  "titulo": "Maria",
+  "subtitulo": "A biografia da mulher que gerou o homem mais importante da história, viveu um inferno, dividiu os cristãos, conquistou meio mundo e é chamada de Mãe de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "História. Religião. Feminilidade.",
+  "palavras_chave": "alvarez maria biografia",
+  "edicao_id": 1514,
+  "encadernacao": null,
+  "quantidade_paginas": 222,
+  "peso": 270,
+  "isbn": "9788525061515",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro apresenta a figura feminina mais importante de todos os tempos em seus diversos aspectos, muitos deles pouco conhecidos. Como correspondente da TV Globo em Jerusalém, Rodrigo Alvarez viajou por lugares sagrados e reviu documentos históricos para compor um amplo retrato de Maria.</p> <p>A partir de numerosas fontes e das mais recentes descobertas arqueológicas, Alvarez reúne fatos e versões — às vezes bastante polêmicas — a respeito daquela que, ao dar à luz, dividiu a história em antes e depois.</p> <p>Quem embarcar nesta viagem será testemunha de incríveis acontecimentos, muitos deles adornecidos em papiros, documentos proibidos ou até mesmo nas pedras da Terra Santa. Da infância de Maria à escolha do marido José. Da gravidez a controversa fuga para o Egito. Das pregações do filho adolescente ao milagre nas Bodas de Caná.</p> <p>Ricamente ilustrada, a obra traz histórias inesquecíveis: a freira que com suas visões indicou o suposto local de morte da Virgem; a imperatriz que conspirou para que Maria fosse reconhecida como \"Mãe de Deus\"; as aparições em Guadalupe, Lourdes e Fátima; e a santinha de barro que virou padroeira do Brasil.</p> <p>Rodrigo Alvarez escreve sobre assuntos complexos de um jeito popular, facilitando a compreensão e provocando reflexão. O livro será muito útil para os \"iniciados\" e, especialmente, para os \"neófitos\" no conhecimento dos misteriosos desígnios de Deus em torno a esta singular pessoa: a Virgem Maria.</p>",
+  "sinopse": "Este livro apresenta a figura feminina mais importante da história, oferecendo um amplo retrato de Maria. Através de fontes arqueológicas e documentos históricos, Alvarez relata acontecimentos da infância de Maria até sua vida adulta, explorando temas polêmicos e histórias inesquecíveis, como sua gravidez e as aparições que a fizeram ser reconhecida como Mãe de Deus.",
+  "exemplar_id": 1513,
+  "sku": "LI00WV",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/rodrigo-alvarez--maria--capa--20250401--115745.jpg",
+  "contracapa": "static/uploads/rodrigo-alvarez--maria--contracapa--20250401--115745.jpg",
+  "fotos": [
+    "static/uploads/rodrigo-alvarez--maria--foto1--20250401--115745.jpg",
+    "static/uploads/rodrigo-alvarez--maria--foto2--20250401--115745.jpg",
+    "static/uploads/rodrigo-alvarez--maria--foto3--20250401--115745.jpg",
+    "static/uploads/rodrigo-alvarez--maria--foto4--20250401--115745.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:44:13",
+  "observacoes": null
+}

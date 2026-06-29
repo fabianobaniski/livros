@@ -1,0 +1,68 @@
+{
+  "obra_id": 1822,
+  "autor": "Gilberto Luiz Alves (org.)",
+  "titulo": "Educação no campo",
+  "subtitulo": "Recortes no tempo e no espaço",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Educação rural. Pedagogia. Experiências pedagógicas. História da educação rural.",
+  "palavras_chave": "alves educacao campo recortes tempo espaco",
+  "edicao_id": 1802,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 305,
+  "peso": 400,
+  "isbn": "9788574962320",
+  "editora": "Autores Associados",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O presente livro pretende estimular o debate sobre educação rural, visando problematizar experiências pedagógicas em desenvolvimento, incluindo as iniciativas do MST. Pretende, também, descrever propostas educacionais de educação rural do passado, desvelando as condições materiais a elas associadas. Como pano de fundo, a tentativa é a de questionar, sempre, as bases teóricas, tanto históricas quanto pedagógicas, das propostas e experiências focalizadas.</p>",
+  "sinopse": "Este livro estimula o debate sobre educação rural ao problematizar experiências pedagógicas contemporâneas, incluindo iniciativas do MST, e descrever propostas educacionais do passado, analisando suas condições materiais. Busca questionar as bases teóricas, históricas e pedagógicas das experiências e propostas apresentadas.",
+  "exemplar_id": 1801,
+  "sku": "LI010O",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/gilberto-luiz-alves--org----educa--o-no-campo--capa--20250430--102952.jpg",
+  "contracapa": "static/uploads/gilberto-luiz-alves--org----educa--o-no-campo--contracapa--20250430--102952.jpg",
+  "fotos": [
+    "static/uploads/gilberto-luiz-alves--org----educa--o-no-campo--foto1--20250430--102952.jpg",
+    "static/uploads/gilberto-luiz-alves--org----educa--o-no-campo--foto2--20250430--102952.jpg",
+    "static/uploads/gilberto-luiz-alves--org----educa--o-no-campo--foto3--20250430--102952.jpg",
+    "static/uploads/gilberto-luiz-alves--org----educa--o-no-campo--foto4--20250430--102952.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:56:15",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 583,
+  "autor": "Henri Nouwen; Philip Roderick",
+  "titulo": "Conversa espiritual",
+  "subtitulo": "A beleza e a profundidade da espiritualidade cristã explicadas de maneira simples",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Reflexão. Teologia.",
+  "palavras_chave": "nouwen conversa espiritual",
+  "edicao_id": 568,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 76,
+  "peso": 280,
+  "isbn": "9788560387557",
+  "editora": "Palavra",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Saiba que o texto que você tem em mãos é uma ótima introdução ao pensamento e à espiritualidade de Nouwen... A descrição das suas lutas, seu olhar mais poético do que teológico, seus insights sobre a jornada espiritual revelam algumas das razões por que Nouwen tornou-se um dos mais amados mentores espirituais do nosso tempo.\"</p><p>Gerson Borges<br>Sociólogo da literatura, músico e pastor</p><p>\"Como você irá identificar, a direção da conversa deste livro enfatiza a verdade de que o silêncio e a solitude são precurssores do serviço... Este é um tempo profundo de desafio e um convite a cada um de nós que sentimos em nossos corações a abertura para um caminho contemplativo e a revigoração da fé, da esperança e do amor. É uma alegria convidar-lhe para compartilhar dessa conversa entre Henri e eu... Que você possa ser profundamente abençoado escutando e lendo, assim como em todos os aspectos de sua própria jornada em Deus.\"</p><p>Philip Roderick<br>Sacerdote anglicano</p>",
+  "sinopse": "Conversa Espiritual é uma profunda introdução ao pensamento de Henri Nouwen, desvendando suas lutas e percepções sobre a espiritualidade. Este livro ressalta a importância do silêncio e da solidão como precurssores do serviço, convidando o leitor a uma jornada de fé e amor, ao mesmo tempo tocante e desafiadora.",
+  "exemplar_id": 567,
+  "sku": "LI00F6",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/henri-nouwen--conversa-espiritual--capa--20250227--152851.jpg",
+  "contracapa": "static/uploads/henri-nouwen--conversa-espiritual--contracapa--20250227--152851.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:15:01",
+  "observacoes": null
+}

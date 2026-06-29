@@ -1,0 +1,68 @@
+{
+  "obra_id": 3351,
+  "autor": "Kentaro Yabuki; Saki Hasemi",
+  "titulo": "To love-Ru",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance. Comédia romântica.",
+  "palavras_chave": "yabuki love love-ru",
+  "edicao_id": 3328,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "9788569212317",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "To LOVE-Ru",
+  "volume": 12,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3327,
+  "sku": "LI026Y",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__capa__2025-11-05_16-25-37-786645.jpg",
+  "contracapa": "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__contracapa__2025-11-05_16-25-37-859501.jpg",
+  "fotos": [
+    "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__foto-01__2025-11-05_16-25-37-890912.jpg",
+    "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__foto-02__2025-11-05_16-25-37-922130.jpg",
+    "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__foto-03__2025-11-05_16-25-37-945947.jpg",
+    "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__foto-04__2025-11-05_16-25-37-975301.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:12:25",
+  "observacoes": null
+}

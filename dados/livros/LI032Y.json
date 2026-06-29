@@ -1,0 +1,63 @@
+{
+  "obra_id": 5681,
+  "autor": "Masashi Kishimoto",
+  "titulo": "Naruto",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Artes marciais. Amizade.",
+  "palavras_chave": "kishimoto naruto",
+  "edicao_id": 5656,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 183,
+  "peso": 230,
+  "isbn": "9788542603330",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "<p>Naruto e seus amigos finalmente completaram a segunda prova do Exame Chunin, mas antes de avançarem para a terceira e última fase, terão que passar por combates individuais eliminatórios!! Começam agora os duelos entre vinte habilidosos participantes...!!</p>",
+  "sinopse": "Naruto e seus amigos completam a segunda fase do Exame Chunin e enfrentam combates eliminatórios antes da terceira etapa. Os duelos entre os vinte participantes prometem disputas emocionantes.",
+  "exemplar_id": 5655,
+  "sku": "LI032Y",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 34.0,
+  "capa": "static/uploads/naruto__masashi-kishimoto__capa__2026-02-24_13-36-55-034679-000.jpg",
+  "contracapa": "static/uploads/naruto__masashi-kishimoto__contracapa__2026-02-24_13-36-55-162974-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 0,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 16:29:04",
+  "observacoes": null
+}

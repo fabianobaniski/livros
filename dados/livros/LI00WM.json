@@ -1,0 +1,68 @@
+{
+  "obra_id": 1519,
+  "autor": "Sarah J. Maas",
+  "titulo": "Casa de terra e sangue",
+  "subtitulo": "Cidade da lua crescente - Volume 1",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção fantástica.",
+  "palavras_chave": "maas cidade lua crescente casa sangue",
+  "edicao_id": 1500,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 895,
+  "peso": 1500,
+  "isbn": "9786555871708",
+  "editora": "Galera",
+  "numero_edicao": 1,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Limitada pelo sangue<br>Tentada pelo desejo<br>Desencadeada pelo destino</p><p>“Temperado com uma trama coesa e construção atmosférica do mundo... uma delícia cada virar de página.”<br>- The Guardian</p><p>“Sarah J. Maas não decepciona em sua primeira série para adultos... Um livro para ser saboreado.”<br>- Daily Mail</p>",
+  "sinopse": "",
+  "exemplar_id": 1499,
+  "sku": "LI00WM",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/sarah-j--maas--cidade-da-lua-crescente--capa--20250401--115743.jpg",
+  "contracapa": "static/uploads/sarah-j--maas--cidade-da-lua-crescente--contracapa--20250401--115743.jpg",
+  "fotos": [
+    "static/uploads/sarah-j--maas--cidade-da-lua-crescente--foto1--20250401--115743.jpg",
+    "static/uploads/sarah-j--maas--cidade-da-lua-crescente--foto2--20250401--115743.jpg",
+    "static/uploads/sarah-j--maas--cidade-da-lua-crescente--foto3--20250401--115744.jpg",
+    "static/uploads/sarah-j--maas--cidade-da-lua-crescente--foto4--20250401--115744.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:33:47",
+  "observacoes": null
+}

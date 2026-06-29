@@ -1,0 +1,68 @@
+{
+  "obra_id": 150,
+  "autor": "Daniel H. Pink",
+  "titulo": "Motivação 3.0",
+  "subtitulo": "Drive",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Motivação. Autonomia. Educação.",
+  "palavras_chave": "daniel pink motivacao",
+  "edicao_id": 146,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 239,
+  "peso": 350,
+  "isbn": "9788543107479",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Conciso, impactante e encorajador.\" – Los Angeles Times</p> <p>\"Pink é um dos mais enérgicos escritores a repensar pressupostos de negócios há muito estabelecidos.\" – The Wall Street Journal</p> <p>Publicado em 37 línguas e um dos livros mais vendidos e influentes dos últimos tempos, Motivação 3.0 mudou a compreensão das pessoas a respeito do que realmente nos move.</p> <p>Muita gente acredita que a melhor maneira de motivar alguém é oferecer algum tipo de recompensa, como prêmios, promoções ou dinheiro.</p> <p>Esta visão está errada, diz Daniel Pink. Segundo ele, o segredo da alta performance e da satisfação está ligado à necessidade essencialmente humana de aprender e criar coisas novas, ter autonomia e melhorar o mundo para nós e para os outros.</p> <p>Com base em décadas de pesquisas científicas, Pink expõe neste livro o descompasso entre a ciência da motivação e as práticas corporativas, e explica como isso afeta todos os aspectos de nossa vida.</p> <p>Examinando os três elementos da verdadeira motivação – autonomia, excelência e propósito –, o livro apresenta técnicas inteligentes e surpreendentes para colocar esses princípios em ação.</p> <p>Além disso, traz histórias de empresas que adotaram estratégias inovadoras para motivar seus funcionários e de empreendedores que vêm trilhando caminhos alternativos na busca da realização e do alto desempenho.</p>",
+  "sinopse": "Motivação 3.0 explora a verdadeira essência da motivação humana, desafiando a perspectiva tradicional de recompensas convencionais. Daniel Pink argumenta que a autonomia, a excelência e o propósito são fundamentais para o desempenho e a satisfação. O autor utiliza pesquisas científicas para propor novas estratégias que as empresas podem adotar para estimular seus funcionários e promover um ambiente de trabalho mais inovador e gratificante.",
+  "exemplar_id": 145,
+  "sku": "LI003O",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/daniel-h--pink--motiva--o-3-0--capa--20250226--133758.jpg",
+  "contracapa": "static/uploads/daniel-h--pink--motiva--o-3-0--contracapa--20250226--133758.jpg",
+  "fotos": [
+    "static/uploads/daniel-h--pink--motiva--o-3-0--foto1--20250226--133758.jpg",
+    "static/uploads/daniel-h--pink--motiva--o-3-0--foto2--20250226--133758.jpg",
+    "static/uploads/daniel-h--pink--motiva--o-3-0--foto3--20250226--133758.jpg",
+    "static/uploads/daniel-h--pink--motiva--o-3-0--foto4--20250226--133758.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:10:10",
+  "observacoes": null
+}

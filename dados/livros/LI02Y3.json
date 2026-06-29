@@ -1,0 +1,63 @@
+{
+  "obra_id": 5283,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Vampiros. Tensão psicológica.",
+  "palavras_chave": "oshimi happiness",
+  "edicao_id": 5258,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 183,
+  "peso": 210,
+  "isbn": "9788583622680",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>Após dez anos de experimento, Okazaki finalmente consegue despertar. Durante esse tempo todo, ele ouvia a voz da Nora ecoar em sua mente, porém, a aparência dela tinha mudado por completo.</p> <p>E agora, depois de conseguir fugir da instituição onde estava preso, ele ruma para resgatar o seu amigo Yuuki.</p> <p>Já Sakurane, como esperado, não conseguiu se tornar \"Deus\" mesmo devorando até o cérebro do vampiro e perde o último pingo de juízo que ainda lhe restava, fazendo-o brandir a faca contra o meio do peito da Gosho. Conseguirá Okazaki chegar a tempo de resolver tudo?</p>",
+  "sinopse": "Okazaki desperta após uma década de experiências e parte em uma missão para resgatar seu amigo Yuuki. Enquanto isso, Sakurane perde a sanidade, levando a situações de extremo perigo. Será que Okazaki conseguirá resolver a crise a tempo?",
+  "exemplar_id": 5257,
+  "sku": "LI02Y3",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2026-02-20_10-33-06-337318-000.png",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2026-02-20_10-33-06-375781-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

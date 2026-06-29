@@ -1,0 +1,63 @@
+{
+  "obra_id": 5648,
+  "autor": "Kaito",
+  "titulo": "Ao no Flag",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Adolescência. Amizade.",
+  "palavras_chave": "kaito ao flag",
+  "edicao_id": 5623,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 202,
+  "peso": 240,
+  "isbn": "9786559609550",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Céu azul e cúmulos-nimbos fazem um verão radiante...</p> <p>Touma acaba se ferindo ao proteger Taichi. Tomado pela culpa, Taichi sofre por Touma não poder participar do torneio de beisebol no Koshien que tanto almejava e os dois acabam discutindo por pensarem nos sentimentos um do outro. Preocupada com a situação, Futaba convida Taichi para sair, na esperança de melhorar o humor do amigo...?!</p>",
+  "sinopse": "Touma se fere ao proteger Taichi, que se sente culpado por Touma não poder competir no torneio de beisebol. Em meio a discussões sobre sentimentos, Futaba tenta melhorar o humor de Taichi com um convite para sair.",
+  "exemplar_id": 5622,
+  "sku": "LI0321",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/ao-no-flag__kaito__capa__2026-02-24_13-36-45-111592-000.jpg",
+  "contracapa": "static/uploads/ao-no-flag__kaito__contracapa__2026-02-24_13-36-45-133201-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 77,
+  "autor": "Philip Roth",
+  "titulo": "Complexo de Portnoy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Identidade. Família. Sexualidade. Cultura judaica",
+  "palavras_chave": "roth complexo portnoy",
+  "edicao_id": 77,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 221,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1982,
+  "serie": "Grandes Sucessos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Fruto de uma educação judaica tradicional, Alexander Portnoy divide sua vida, até a idade adulta, entre um pai omisso e o amor absorvente da mãe, que pretende mantê-lo sob permanente controle e vigilância. O excesso de amor doméstico leva o sofrido Portnoy a procurar refúgio em solitárias práticas sexuais. O livro é um retrato convincente da família judia urbana.</p>",
+  "sinopse": "Alexander Portnoy, criado em uma família judaica tradicional, cresce sob a influência de um pai omisso e uma mãe controladora. O excesso de amor materno e o rígido ambiente familiar levam Portnoy a desenvolver conflitos internos e compulsões sexuais. Com humor ácido e crítica social, o livro retrata os dilemas da identidade, da repressão e do desejo.",
+  "exemplar_id": 76,
+  "sku": "LI0021",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/philip-roth--complexo-de-portnoy--capa--20250225--233527.jpg",
+  "contracapa": "static/uploads/philip-roth--complexo-de-portnoy--contracapa--20250225--233527.jpg",
+  "fotos": [
+    "static/uploads/philip-roth--complexo-de-portnoy--foto1--20250225--233527.jpg",
+    "static/uploads/philip-roth--complexo-de-portnoy--foto2--20250225--233527.jpg",
+    "static/uploads/philip-roth--complexo-de-portnoy--foto3--20250225--233527.jpg",
+    "static/uploads/philip-roth--complexo-de-portnoy--foto4--20250225--233527.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:50:54",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 10,
+  "autor": "John Green",
+  "titulo": "Cidades de papel",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura. Romance. Mistério. Juventude",
+  "palavras_chave": "green cidades papel",
+  "edicao_id": 10,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 366,
+  "peso": 350,
+  "isbn": "9788580573749",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>NA MINHA OPINIÃO, TODO MUNDO TEM SEU MILAGRE. POR EXEMPLO, MUITO PROVAVELMENTE EU NUNCA VOU SER ATINGIDO POR UM RAIO, NEM GANHAR UM PRÊMIO NOBEL, NEM TER UM CÂNCER TERMINAL DE OUVIDO. MAS, SE VOCÊ LEVAR EM CONTA TODOS OS EVENTOS IMPROVÁVEIS, É POSSÍVEL QUE PELO MENOS UM DELES VÁ ACONTECER A CADA UM DE NÓS. EU PODERIA TER PRESENCIADO UMA CHUVA DE SAPOS. PODERIA TER ME CASADO COM A RAINHA DA INGLATERRA OU SOBREVIVIDO MESES À DERIVA NO MAR. MAS MEU MILAGRE FOI O SEGUINTE: DE TODAS AS CASAS EM TODOS OS CONDADOS DA FLÓRIDA, EU ERA VIZINHO DE <b>MARGO ROTH SPIEGELMAN</b>.</p><p>— <i>Q</i></p><p>“A prosa de Green é impressionante — de gírias e palavrões hilários e intelectuais a filosofias complexas e observações verdadeiras e devastadoras.”</p><p>— <i>School Library Journal</i></p>",
+  "sinopse": "Quentin acredita que todos têm um milagre em suas vidas, e o dele foi ser vizinho de Margo Roth Spiegelman. Mas quando Margo desaparece, ele embarca em uma busca repleta de mistérios e pistas enigmáticas.",
+  "exemplar_id": 10,
+  "sku": "LI0009",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/john-green--cidades-de-papel--capa--20250225--163140.jpg",
+  "contracapa": "static/uploads/john-green--cidades-de-papel--contracapa--20250225--163140.jpg",
+  "fotos": [
+    "static/uploads/john-green--cidades-de-papel--foto1--20250225--163140.jpg",
+    "static/uploads/john-green--cidades-de-papel--foto2--20250225--163140.jpg",
+    "static/uploads/john-green--cidades-de-papel--foto3--20250225--163140.jpg",
+    "static/uploads/john-green--cidades-de-papel--foto4--20250225--163140.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém bastante amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:35:33",
+  "observacoes": null
+}

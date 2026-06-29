@@ -1,0 +1,68 @@
+{
+  "obra_id": 1721,
+  "autor": "Oswald de Andrade",
+  "titulo": "Oswald de Andrade",
+  "subtitulo": "Literatura Comentada",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "Literatura. Análise crítica.",
+  "palavras_chave": "andrade oswald literatura comentada",
+  "edicao_id": 1701,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 107,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Abril Educação",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": "Literatura Comentada",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta é uma coleção de livros que se destina não só a estudantes — especialmente os do segundo grau e de cursos pré-universitários — e professores, mas também a todas as pessoas interessadas em Literatura.</p> <p>Cada volume terá por tema um autor (ou autores), clássico ou moderno, de língua portuguesa, de cuja obra serão publicados trechos de romances, poemas, contos, teatro, crítica, letras de músicas — com notas explicativas e comentários. Os volumes apresentarão também um resumo dos livros de onde foram extraídos os fragmentos, um panorama geral da época em que viveu o autor, características de sua obra, quadros cronológicos, exercícios de compreensão, atividades de criação, relação de obras do autor e bibliografia para consulta.</p> <p>A redação dos textos desta coleção foi confiada a uma equipe de especialistas em Literatura que, coerentes com a finalidade da obra, procuraram manter um nível de linguagem — não raro com sacrifício do próprio estilo — capaz de ser entendido por todos: pelos que estudam, pelos que ensinam e também por aqueles que aguardam um primeiro encontro com a Literatura.</p>",
+  "sinopse": "",
+  "exemplar_id": 1700,
+  "sku": "LI00Y0",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/oswald-de-andrade--oswald-de-andrade--capa--20250401--115810.jpg",
+  "contracapa": "static/uploads/oswald-de-andrade--oswald-de-andrade--contracapa--20250401--115810.jpg",
+  "fotos": [
+    "static/uploads/oswald-de-andrade--oswald-de-andrade--foto1--20250401--115810.jpg",
+    "static/uploads/oswald-de-andrade--oswald-de-andrade--foto2--20250401--115810.jpg",
+    "static/uploads/oswald-de-andrade--oswald-de-andrade--foto3--20250401--115810.jpg",
+    "static/uploads/oswald-de-andrade--oswald-de-andrade--foto4--20250401--115810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:26:59",
+  "observacoes": null
+}

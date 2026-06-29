@@ -1,0 +1,68 @@
+{
+  "obra_id": 116,
+  "autor": "Orígenes Lessa",
+  "titulo": "O feijão e o sonho",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura. Questões sociais. Família.",
+  "palavras_chave": "lessa feijao sonho",
+  "edicao_id": 114,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 194,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A necessidade de sobrevivência em luta com a realização de um ideal pessoal. A vida abafada e difícil do poeta Campos Lara, professor de uma pequena cidade do interior paulista, dividido entre o universo sensível da poesia e as amargas necessidades do cotidiano. O desespero de Maria Rosa, sua mulher, para quem \"literatura não enche barriga\", e a admiração profunda de Joãozinho, o filho, que sonha em seguir os passos do pai. Um livro admirável sobre pequenas grandezas da gente humilde.</p>",
+  "sinopse": "O livro retrata a luta de Campos Lara, um poeta que enfrenta a dificuldade de viver em uma pequena cidade, dividido entre a sensibilidade da poesia e as necessidades cotidianas. A obra explora o desespero de sua esposa Maria Rosa, que vê a Literatura como algo insuficiente para a vida, enquanto seu filho Joãozinho sonha em seguir os passos do pai.",
+  "exemplar_id": 113,
+  "sku": "LI002S",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/or-genes-lessa--o-feij-o-e-o-sonho--capa--20250226--114602.jpg",
+  "contracapa": "static/uploads/or-genes-lessa--o-feij-o-e-o-sonho--contracapa--20250226--114602.jpg",
+  "fotos": [
+    "static/uploads/or-genes-lessa--o-feij-o-e-o-sonho--foto1--20250226--114602.jpg",
+    "static/uploads/or-genes-lessa--o-feij-o-e-o-sonho--foto2--20250226--114602.jpg",
+    "static/uploads/or-genes-lessa--o-feij-o-e-o-sonho--foto3--20250226--114602.jpg",
+    "static/uploads/or-genes-lessa--o-feij-o-e-o-sonho--foto4--20250226--114602.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:16:43",
+  "observacoes": null
+}

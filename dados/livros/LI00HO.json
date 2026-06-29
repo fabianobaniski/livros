@@ -1,0 +1,63 @@
+{
+  "obra_id": 673,
+  "autor": "C. S. Lewis",
+  "titulo": "Oração: cartas a Malcolm",
+  "subtitulo": "Reflexões sobre o diálogo íntimo entre homem e Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Oração.",
+  "palavras_chave": "lewis oracao cartas malcolm",
+  "edicao_id": 658,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 300,
+  "isbn": "9788538301332",
+  "editora": "Vida",
+  "numero_edicao": 1,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O último livro de C. S. Lewis é uma abordagem franca e honesta sobre a oração. Publicação póstuma, ainda assim permaneceu na lista dos mais vendidos por muito tempo.</p> <p>Oração: cartas a Malcolm é um livro belamente concretizado e profundamente emocionante que trata dos temores e das fraquezas do homem.</p> <p>Em forma de cartas afetuosas e descontraídas a um amigo fictício muito chegado, C. S. Lewis medita em várias questões relativas ao diálogo íntimo entre homem e Deus. Pondera sobre aspectos práticos e metafóricos da oração. Indaga sobre nossa real necessidade de falar com Deus e sobre a forma ideal de oração. Busca saber qual dos nossos muitos eus mostramos a Deus enquanto oramos. E muito mais. A carta final contém pensamentos instigantes sobre “cristãos liberais”, alma e ressurreição.</p>",
+  "sinopse": "Oração: cartas a Malcolm é uma reflexão íntima e sincera de C. S. Lewis sobre a oração e suas complexidades. Por meio de cartas a um amigo fictício, o autor explora as nuances do diálogo entre o homem e Deus, as fraquezas humanas diante da oração e questiona a autenticidade das diversas facetas que apresentamos a Deus ao orarmos. O livro é uma profunda meditação sobre a essência do que significa orar e a espiritualidade envolvida nesse ato.",
+  "exemplar_id": 657,
+  "sku": "LI00HO",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/c--s--lewis--ora--o--cartas-a-malcolm--capa--20250227--152856.jpg",
+  "contracapa": "static/uploads/c--s--lewis--ora--o--cartas-a-malcolm--contracapa--20250227--152857.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:36",
+  "observacoes": null
+}

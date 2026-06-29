@@ -1,0 +1,68 @@
+{
+  "obra_id": 406,
+  "autor": "Henry Fielding",
+  "titulo": "Tom Jones",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "fielding tom jones",
+  "edicao_id": 394,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 846,
+  "peso": 1500,
+  "isbn": "8513011304",
+  "editora": "Abril",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 393,
+  "sku": "LI00AC",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/henry-fielding--tom-jones--capa--20250226--133826.jpg",
+  "contracapa": "static/uploads/henry-fielding--tom-jones--contracapa--20250226--133826.jpg",
+  "fotos": [
+    "static/uploads/henry-fielding--tom-jones--foto1--20250226--133826.jpg",
+    "static/uploads/henry-fielding--tom-jones--foto2--20250226--133826.jpg",
+    "static/uploads/henry-fielding--tom-jones--foto3--20250226--133826.jpg",
+    "static/uploads/henry-fielding--tom-jones--foto4--20250226--133826.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:27:35",
+  "observacoes": null
+}

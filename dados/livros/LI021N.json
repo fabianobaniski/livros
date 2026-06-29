@@ -1,0 +1,68 @@
+{
+  "obra_id": 3155,
+  "autor": "Troy Hamon",
+  "titulo": "14 days to Alaska",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Outros Assuntos",
+  "temas": "",
+  "palavras_chave": "hamon days alaska",
+  "edicao_id": 3135,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 300,
+  "isbn": "9781594332579",
+  "editora": "Publication Consultants",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em 2008, o autor, um piloto estudante, e seu irmão, um instrutor de voo, embarcaram em uma aventura de voar um pequeno avião até o Alasca. Utilizando uma aeronave antiga, enfrentaram desafios como encaixar dois homens em um cockpit minúsculo e voar até oito horas por dia. A jornada incluiu visitas planejadas a amigos e parentes, além de paradas não intencionais em locais desconhecidos. Eles enfrentaram condições climáticas adversas e problemas de manutenção, mas a experiência proporcionou um aprendizado intenso e uma das mais memoráveis viagens de travessia do país. / Em inglês.",
+  "exemplar_id": 3134,
+  "sku": "LI021N",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/troy-hamon--14-days-to-alaska--capa--20251020--203727.png",
+  "contracapa": "static/uploads/troy-hamon--14-days-to-alaska--contracapa--20251020--203734.png",
+  "fotos": [
+    "static/uploads/troy-hamon--14-days-to-alaska--foto1--20251020--203744.jpg",
+    "static/uploads/troy-hamon--14-days-to-alaska--foto2--20251020--203744.jpg",
+    "static/uploads/troy-hamon--14-days-to-alaska--foto3--20251020--203744.jpg",
+    "static/uploads/troy-hamon--14-days-to-alaska--foto4--20251020--203744.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação geral, possuindo apenas leves sinais deixados pelo uso e pela passagem dos anos. Não possui anotações, sublinhados, marcas de umidade, mofo, traça ou sol excessivo. Brochura, 191 páginas. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:03:10",
+  "observacoes": null
+}

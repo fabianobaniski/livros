@@ -1,0 +1,63 @@
+{
+  "obra_id": 2861,
+  "autor": "Douglas Adams",
+  "titulo": "Praticamente inofensiva",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "",
+  "palavras_chave": "adams praticamente inofensiva",
+  "edicao_id": 2841,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 250,
+  "isbn": "9788599296981",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Situações hilárias, personagens imprevisíveis e paisagens surreais se misturam em uma trama cheia de suspense, comédia e filosofia. Após muitos anos, Arthur Dent, Tricia McMillan e Ford Prefect se reencontram, mas o que deveria ser uma celebração de velhos amigos se transforma em uma confusão que ameaça a vida de todos. Com uma abordagem ainda mais irônica e profunda sobre a vida, o universo e tudo mais, essa obra encerra de forma polêmica e divertida a icônica série de Douglas Adams, deixando marcas em uma geração.",
+  "exemplar_id": 2840,
+  "sku": "LI01TH",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/praticamente-inofensiva-douglas-adams-capa_rev704.jpg",
+  "contracapa": "static/uploads/praticamente-inofensiva-douglas-adams-contracapa_rev491.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:09:10",
+  "observacoes": null
+}

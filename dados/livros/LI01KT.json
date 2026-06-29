@@ -1,0 +1,63 @@
+{
+  "obra_id": 2549,
+  "autor": "Raquel Goulart Barreto",
+  "titulo": "Formação de Professores, Tecnologias e Linguagens",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "barreto formacao professores tecnologias",
+  "edicao_id": 2529,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 163,
+  "peso": 394,
+  "isbn": "9788515025442",
+  "editora": "Edições Loyola",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Neste livro a interlocução se funda nos múltiplos sentidos da educação focalizando as relações entre a formação de professores as tecnologias e as práticas da linguagem. O lugar de onde fala a autora é o ensino público por decisão política e dever do ofício mas isso não se restringe o alcance de sua pesquisa que pode ser estendida ao universo educacional como um tudo.",
+  "exemplar_id": 2528,
+  "sku": "LI01KT",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/raquel-goulart-barreto--formacao-de-professores-tecnologias-e-linguagens--capa--20260316--202239.jpg",
+  "contracapa": "static/uploads/raquel-goulart-barreto--formacao-de-professores-tecnologias-e-linguagens--contracapa--20260316--202239.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mapeando velhos e novos (des)encontros / Coleção Tendências / Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:12:34",
+  "observacoes": null
+}

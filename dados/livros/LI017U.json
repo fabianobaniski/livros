@@ -1,0 +1,68 @@
+{
+  "obra_id": 2081,
+  "autor": "José Carlos Marion; Reinaldo Dias; Maria Cristina Traldi; Marcia Maria Costa Marion",
+  "titulo": "Monografia para os cursos de Administração, Contabilidade e Economia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Metodologia científica. Pesquisa acadêmica. Ensino superior.",
+  "palavras_chave": "marion monografia para cursos administracao contabilidade economia",
+  "edicao_id": 2061,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 139,
+  "peso": 330,
+  "isbn": "9788522458479",
+  "editora": "Atlas",
+  "numero_edicao": 2,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro constitui-se num guia prático para a elaboração de monografias na área de negócios – administração, ciências contábeis e economia. Aborda as regras convencionadas pela comunidade científica internacional e normatizadas no Brasil pela Associação Brasileira de Normas Técnicas (ABNT) para apresentação de trabalhos monográficos.</p><p>Descreve, de acordo com o curso e o nível, as características de cada elaboração monográfica. Ao longo do texto, destaca-se a preocupação dos autores de informar ao leitor as características de cada nível – graduação, mestrado, doutorado e pós-doutorado –, indicando escolas, revistas científicas e sugestões de monografias que ajudarão o estudante a definir seu caminho.</p><p>Como livro de metodologia, inova no atendimento das necessidades do estudante da área de negócios, esclarecendo muitas situações que o afligem ao término de seu curso de graduação. Com base em documentação mais atualizada do MEC, responde a questões, como: O que é MBA? Qual a característica do mestrado profissionalizante? Qual a diferença entre pós-graduação lato sensu e stricto sensu?</p><b>APLICAÇÃO</b><p>Manual de consulta para as disciplinas <i>Metodologia Científica</i>, <i>Metodologia de Pesquisa</i>, <i>Técnicas de Pesquisa em Economia</i> e <i>Monografia</i> nos cursos de graduação (TCC) e de pós-graduação <i>lato sensu</i> e <i>stricto sensu</i>, incluindo MBAs, em Administração, Ciências Contábeis e Economia.</p>",
+  "sinopse": "Este livro é um guia prático para elaboração de monografias nas áreas de administração, contabilidade e economia, abordando normas da ABNT e padrões científicos internacionais. Detalha as características de monografias conforme nível de estudo (graduação a pós-doutorado), sugerindo fontes e exemplos para ajudar estudantes a definir seus caminhos. Também esclarece dúvidas frequentes sobre pós-graduação, como diferenças entre MBA, mestrado profissionalizante e modalidades lato sensu e stricto sensu. Indicado como manual de consulta para diversas disciplinas relacionadas à metodologia científica e pesquisa.",
+  "exemplar_id": 2060,
+  "sku": "LI017U",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--capa--20250430--104530.jpg",
+  "contracapa": "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--contracapa--20250430--104530.jpg",
+  "fotos": [
+    "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--foto1--20250430--104530.jpg",
+    "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--foto2--20250430--104530.jpg",
+    "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--foto3--20250430--104530.jpg",
+    "static/uploads/jos--carlos-marion--monografia-para-os-cursos-de-administra--o--contabilidade-e-economia--foto4--20250430--104530.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:05:31",
+  "observacoes": "procedencia_biblioteca"
+}

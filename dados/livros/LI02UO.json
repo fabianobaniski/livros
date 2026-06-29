@@ -1,0 +1,63 @@
+{
+  "obra_id": 5160,
+  "autor": "Kazuo Koike; Hideki Mori; Goseki Kojima",
+  "titulo": "Novo Lobo Solitário",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Mangá.",
+  "palavras_chave": "koike novo lobo solitario",
+  "edicao_id": 5135,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 225,
+  "peso": 300,
+  "isbn": "9788542613506",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>Novo Lobo Solitário 10</p><p>Criação e roteiro: Kazuo Koike</p><p>Arte: Hideki Mori</p><p>Arte original: Goseki Kojima</p>",
+  "sinopse": "Anos após o duelo final sangrento entre Ogami Itto e Retsudo Yagyu, o pequeno Daigoro permanece sozinho no campo de batalha, guardando o corpo de seu pai. É resgatado por Togo Shigekata, um mestre samurai do estilo Jigen-ryu, que o adota como discípulo. Juntos, eles iniciam uma nova e perigosa jornada pelo Japão feudal, enfrentando conspirações políticas e o peso do legado de sangue deixado pelo antigo Lobo Solitário.",
+  "exemplar_id": 5134,
+  "sku": "LI02UO",
+  "preco_estante_virtual": 48.0,
+  "preco_amazon": 48.0,
+  "capa": "static/uploads/novo-lobo-solitario__kazuo-koike-hideki-mori-goseki-kojima__capa__2026-02-20_10-32-26-194906-000.png",
+  "contracapa": "static/uploads/novo-lobo-solitario__kazuo-koike-hideki-mori-goseki-kojima__contracapa__2026-02-20_10-32-26-241843-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

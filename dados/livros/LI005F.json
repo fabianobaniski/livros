@@ -1,0 +1,68 @@
+{
+  "obra_id": 218,
+  "autor": "Thea von Harbou",
+  "titulo": "Metrópolis",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Futuro. Tecnologia. Sociedade.",
+  "palavras_chave": "harbou metropolis ",
+  "edicao_id": 212,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 480,
+  "peso": 800,
+  "isbn": "9788576574552",
+  "editora": "Aleph",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Com capa dura e ilustrações de Mateus Acioli, o clássico da ficção científica e da literatura distópica Metrópolis, escrito por Thea von Harbou e traduzido pela primeira vez direto do alemão, ganha uma edição especial com textos complementares de Marina Person e Anthony Burgess. A trama acompanha Freder, o filho do governante da futurística cidade de Metrópolis — dividida entre uma elite superficial na superfície e operários explorados no subsolo —, que descobre a dura realidade dos trabalhadores ao se apaixonar por Maria, desencadeando uma revolução que moldou a estética do gênero e inspirou a histórica adaptação cinematográfica de 1927 dirigida por Fritz Lang.",
+  "exemplar_id": 211,
+  "sku": "LI005F",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/thea-von-harbou--metr-polis--capa--20250226--133807.jpg",
+  "contracapa": "static/uploads/thea-von-harbou--metr-polis--contracapa--20250226--133807.jpg",
+  "fotos": [
+    "static/uploads/thea-von-harbou--metr-polis--foto1--20250226--133807.jpg",
+    "static/uploads/thea-von-harbou--metr-polis--foto2--20250226--133807.jpg",
+    "static/uploads/thea-von-harbou--metr-polis--foto3--20250226--133807.jpg",
+    "static/uploads/thea-von-harbou--metr-polis--foto4--20250226--133807.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:53:25",
+  "observacoes": null
+}

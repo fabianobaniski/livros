@@ -1,0 +1,63 @@
+{
+  "obra_id": 4896,
+  "autor": "Buronson; Tetsuo Hara",
+  "titulo": "Hokuto No Ken",
+  "subtitulo": "Fist of the North Star",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Cultura pop. Mangá. Pós-apocalíptico.",
+  "palavras_chave": "buronson hokuto ken",
+  "edicao_id": 4871,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 290,
+  "peso": 340,
+  "isbn": "9788545712442",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>O ano é 199X. O mundo foi devastado pelas chamas nucleares.</p> <p>A sociedade civilizada foi dizimada, e agora a violência rege esse novo mundo. É uma era em que apenas os mais fortes sobrevivem.</p> <p>Neste cenário pós-apocalíptico, um homem com sete feridas no peito vaga pelo deserto...</p> <p>Ele é aquele que foi escolhido como o sucessor do estilo assassino terrível, o herdeiro do Hokuto Shin-ken. Ele é Kenshiro!!</p> <p>A lenda do salvador da humanidade está prestes a começar. Aqueles que ousarem se interpor em seu caminho sentirão a fúria dos seus punhos...</p> <p>“Você já está morto!”</p>",
+  "sinopse": "Em um mundo devastado por chamas nucleares, apenas os mais fortes sobrevivem em uma era de violência. Kenshiro, o herdeiro do estilo assassino Hokuto Shin-ken, vaga em um cenário pós-apocalíptico com sete feridas no peito. A lenda do salvador da humanidade está para começar, e aqueles que ousarem enfrentá-lo sentirão a fúria dos seus punhos.",
+  "exemplar_id": 4870,
+  "sku": "LI02NM",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/hokuto-no-ken__fist-of-the-north-star__buronson-tetsuo-hara__capa__2026-02-20_10-31-03-465445-000.png",
+  "contracapa": "static/uploads/hokuto-no-ken__fist-of-the-north-star__buronson-tetsuo-hara__contracapa__2026-02-20_10-31-03-513566-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

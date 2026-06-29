@@ -1,0 +1,68 @@
+{
+  "obra_id": 404,
+  "autor": "Gabriel Liiceanu",
+  "titulo": "Do ódio",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Crime. Ódio.",
+  "palavras_chave": "liiceanu do odio",
+  "edicao_id": 392,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 134,
+  "peso": 250,
+  "isbn": "9788567394558",
+  "editora": "Vida Editorial",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Pensadores Contemporâneos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Assim como da morte não se pode falar de maneira fecunda, senão do ponto de vista da vida, não falei aqui do ódio senão por um interesse pleno de afeição pelo mundo em que vivo. A sorte dele não tem como ser-me indiferente. Portanto, não me agrada odiar, não sei odiar “de morte”, e se escrevi este texto, fi-lo partindo da estupefação que algo como o crime – e principalmente este, feito com sistema – pode existir geralmente. No entanto, o ódio existe, assim como existe também o crime, mas a presença deles na nossa vida, principalmente quando captava conotação histórica, tinha de ser levada em consideração. Depois de 1948, o ódio organizado como princípio de governo devastou a sociedade romena: devastou as almas dos homens e as relações entre eles, assim como, pelos instintos de destruição liberados, devastou as acumulações do passado, igualmente – tornadas de todos e ninguém – a terra do país, suas águas e florestas. Este processo continua hoje em outras formas. O que nos esforçamos para colocar de pé é, no fundo, um país devastado pelos efeitos do ódio institucionalizado historicamente. Levei em consideração o ódio assim como o médico, para curar o paciente, tem de primeiro inclinar-se para a doença dele.</p>",
+  "sinopse": "Neste livro, Gabriel Liiceanu reflete sobre o ódio e suas consequências na sociedade, traçando um paralelo entre o fenômeno do crime e as provocações históricas que permearam a vida romena, especialmente após 1948. Ele questiona a forma como o ódio institucionalizado pode devastar não apenas as relações humanas, mas também o patrimônio cultural e natural do país. A obra se propõe a examinar esses sentimentos de maneira profunda, ressaltando a necessidade de entender e curar essas feridas sociais.",
+  "exemplar_id": 391,
+  "sku": "LI00AA",
+  "preco_estante_virtual": 95.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/gabriel-liiceanu--do--dio--capa--20250226--133826.jpg",
+  "contracapa": "static/uploads/gabriel-liiceanu--do--dio--contracapa--20250226--133826.jpg",
+  "fotos": [
+    "static/uploads/gabriel-liiceanu--do--dio--foto1--20250226--133826.jpg",
+    "static/uploads/gabriel-liiceanu--do--dio--foto2--20250226--133826.jpg",
+    "static/uploads/gabriel-liiceanu--do--dio--foto3--20250226--133826.jpg",
+    "static/uploads/gabriel-liiceanu--do--dio--foto4--20250226--133826.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:32:07",
+  "observacoes": null
+}

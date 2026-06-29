@@ -1,0 +1,63 @@
+{
+  "obra_id": 2934,
+  "autor": "Terje B. Englund",
+  "titulo": "The czechs in a nutshell",
+  "subtitulo": "A users manual for foreigners",
+  "idioma": "Inglês",
+  "categoria": "Turismo",
+  "temas": "",
+  "palavras_chave": "englund the czechs nutshell",
+  "edicao_id": 2914,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 279,
+  "peso": 350,
+  "isbn": "9788073400514",
+  "editora": "Baset",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2913,
+  "sku": "LI01VI",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/the-czechs-in-a-nutshell-terje-b-englund-capa_rev658.jpg",
+  "contracapa": "static/uploads/the-czechs-in-a-nutshell-terje-b-englund-contracapa_rev1433.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Este livro oferece uma visão leve e divertida sobre a sociedade tcheca, explorando curiosidades e aspectos culturais únicos. Com perguntas intrigantes, como por que os homens tchecos adoram sandálias com meias brancas ou por que a sociedade parece um matriarcado disfarçado, o autor, um estrangeiro, revela suas descobertas após anos vivendo no país. A obra investiga como a história turbulenta, os choques culturais e o isolamento bolchevique moldaram uma sociedade tolerante e generosa, mas também cheia de peculiaridades. / Em inglês. / Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:12:46",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1713,
+  "autor": "Paulo Franchetti; Antonio Pecora (orgs)",
+  "titulo": "Caetano Veloso",
+  "subtitulo": "Literatura Comentada",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "Literatura. Música. Comunicação.",
+  "palavras_chave": "veloso caetano literatura comentada",
+  "edicao_id": 1693,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 112,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Abril",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O mundo contemporâneo aproximou as pessoas, mas também as distanciou terrivelmente. As comunicações via satélite, o rádio, a televisão e outros meios de comunicação permitem que, horas depois, um acontecimento do extremo oriente seja conhecido no sertão nordestino. Entretanto, desapareceram as cadeiras colocadas à frente da casa, desfi zeram-se as rodas de amigos, os saraus e quase acabaram as visitas. Sob o bombardeio das informações, da rapidez das comunicações, a poesia busca hoje novos veículos para poder chegar até o leitor. A moderna literatura já não se confina apenas ao papel impresso. Caetano Veloso é um dos poetas que elegeram a música como forma de comunicação com seu público.</p><p>O trabalho de seleção de textos, análise literária, elaboração da biografia de Caetano Veloso, bem como os exercícios do final do livro e pela organização de algumas informações de época foi confi ado a dois jovens, Paulo Franchetti – mestrando em teoria literária pela Unicamp – e Alcyr Pécora – professor de teoria literária da Unicamp –, que organizaram o volume sobre Rubem Braga para Literatura Comentada. O esforço para discutir a obra e a personalidade de Caetano Veloso de uma forma aberta fez com que os organizadores do livro produzissem um livro bastante original, polêmico mesmo, que procura ser tão singular e instigante quanto a obra do próprio autor. O julgamento do mérito e do valor dessa tentativa cabe ao leitor.</p>",
+  "sinopse": "Caetano Veloso é um dos poetas que se destaca na música, refletindo sobre a contemporaneidade e a comunicação. Este volume apresenta uma seleção de textos, análise literária e biografia do autor, além de discussões sobre sua obra, feito por dois jovens acadêmicos, que partilham uma abordagem original e instigante sobre a sua contribuição cultural.",
+  "exemplar_id": 1692,
+  "sku": "LI00XX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/caetano-veloso--caetano-veloso--capa--20250401--115809.jpg",
+  "contracapa": "static/uploads/caetano-veloso--caetano-veloso--contracapa--20250401--115809.jpg",
+  "fotos": [
+    "static/uploads/caetano-veloso--caetano-veloso--foto1--20250401--115809.jpg",
+    "static/uploads/caetano-veloso--caetano-veloso--foto2--20250401--115809.jpg",
+    "static/uploads/caetano-veloso--caetano-veloso--foto3--20250401--115809.jpg",
+    "static/uploads/caetano-veloso--caetano-veloso--foto4--20250401--115809.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:10:24",
+  "observacoes": null
+}

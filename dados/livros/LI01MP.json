@@ -1,0 +1,63 @@
+{
+  "obra_id": 2617,
+  "autor": "Valério Rohden",
+  "titulo": "Interesse da razão e liberdade",
+  "subtitulo": "Coleção Ensaios Nº 71",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "rohden interesse razao liberdade",
+  "edicao_id": 2597,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 182,
+  "peso": 350,
+  "isbn": "",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2596,
+  "sku": "LI01MP",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/valerio-rohden--interesse-da-razao-e-liberdade--capa--20260316--213331.jpg",
+  "contracapa": "static/uploads/valerio-rohden--interesse-da-razao-e-liberdade--contracapa--20260316--213331.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ruim",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Infelizmente o livro entrou em contato com umidade. O manuseio e a leitura não foram comprometidos, mas a aparência ficou um pouco comprometida. Texto sem sublinhados ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:26:01",
+  "observacoes": null
+}

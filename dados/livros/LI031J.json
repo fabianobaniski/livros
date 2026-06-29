@@ -1,0 +1,63 @@
+{
+  "obra_id": 5630,
+  "autor": "Rumiko Takahashi",
+  "titulo": "Mao",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance. Mistério.",
+  "palavras_chave": "takahashi mao",
+  "edicao_id": 5605,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 210,
+  "isbn": "9786559605330",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Nos aproximamos das luzes e trevas que envolvem Sana, por quem Mao era apaixonado...</p> <p>Mao descobre que Sana, que supostamente havia falecido, está viva e agora chama-se \"Yurako\". Mas por que ela é aliada de Shiranui, seu inimigo...?</p>",
+  "sinopse": "Mao descobre que Sana, que ele acreditava estar morta, está viva e agora se chama 'Yurako'. A trama se complica à medida que ele tenta entender por que ela se aliou a Shiranui, seu inimigo.",
+  "exemplar_id": 5604,
+  "sku": "LI031J",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/mao__rumiko-takahashi__capa__2026-02-24_13-36-43-632777-000.jpg",
+  "contracapa": "static/uploads/mao__rumiko-takahashi__contracapa__2026-02-24_13-36-43-659742-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

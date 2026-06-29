@@ -1,0 +1,68 @@
+{
+  "obra_id": 2061,
+  "autor": "Alvisio Greco; Lauro Arend; Gunther Gartner",
+  "titulo": "Contabilidade",
+  "subtitulo": "Teoria e prática básicas",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Ciências exatas. Contabilidade. Prática contábil. Ensino.",
+  "palavras_chave": "greco contabilidade teoria pratica basicas",
+  "edicao_id": 2041,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 422,
+  "peso": 770,
+  "isbn": "9788502051317",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço <a href=\"http://www.saraivauni.com.br\">www.saraivauni.com.br</a></p>",
+  "sinopse": "O livro \"Contabilidade: Teoria e Prática Básicas\" apresenta os fundamentos essenciais da contabilidade, destinado a estudantes e profissionais que buscam compreensão teórica e aplicação prática na área. Acompanha CD com software didático para facilitar a prática contábil.",
+  "exemplar_id": 2040,
+  "sku": "LI017A",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/alvisio-greco--contabilidade--capa--20250430--104527.jpg",
+  "contracapa": "static/uploads/alvisio-greco--contabilidade--contracapa--20250430--104527.jpg",
+  "fotos": [
+    "static/uploads/alvisio-greco--contabilidade--foto1--20250430--104527.jpg",
+    "static/uploads/alvisio-greco--contabilidade--foto2--20250430--104527.jpg",
+    "static/uploads/alvisio-greco--contabilidade--foto3--20250430--104527.jpg",
+    "static/uploads/alvisio-greco--contabilidade--foto4--20250430--104527.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 21:58:38",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 871,
+  "autor": "Morris L. Venden",
+  "titulo": "Seu amigo, o Espírito Santo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Espiritualidade.",
+  "palavras_chave": "venden seu amigo espirito santo",
+  "edicao_id": 856,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 128,
+  "peso": 150,
+  "isbn": "9788534507820",
+  "editora": "CPB",
+  "numero_edicao": 3,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Sobre o Livro</h1><p>Um dos mistérios da Bíblia diz respeito à função e ao trabalho do Espírito Santo. No Novo Testamento, um mistério não é algo totalmente inexplicável, mas alguma coisa que pode ser compreendida por aqueles que já são instruídos. Neste livro, o autor introduz o leitor ao tema da misteriosa atuação do Espírito Santo.</p><h1>Sobre o Autor</h1><p>Morris L. Venden é filho de um evangelista adventista do sétimo dia, e pertence à terceira geração de adventistas. O Pr. Venden já dirigiu várias associações e colégios, e é autor de numerosos livros sobre temas religiosos, entre eles, <i>Como Tornar Real o Cristianismo</i>, <i>Como Jesus Tratava as Pessoas</i> e <i>95 Teses Sobre Justificação Pela Fé</i> (todos da Casa). É casado, e tem três filhos. Seus <b>hobbies</b> incluem fazer caminhadas longas e a prática de radioamadorismo.</p>",
+  "sinopse": "O livro apresenta a função e o trabalho do Espírito Santo, abordando um dos mistérios da Bíblia. O autor, Morris L. Venden, orienta o leitor a compreender temas complexos sobre a atuação do Espírito Santo, baseando-se nas escrituras do Novo Testamento.",
+  "exemplar_id": 855,
+  "sku": "LI00N5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/morris-l--venden--seu-amigo--capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/morris-l--venden--seu-amigo--contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:18:23",
+  "observacoes": null
+}

@@ -1,0 +1,67 @@
+{
+  "obra_id": 5895,
+  "autor": "Ellen G. White",
+  "titulo": "Mente, caráter e personalidade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white mente carater ",
+  "edicao_id": 5870,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 367,
+  "peso": 440,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 5,
+  "ano": 2005,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "",
+  "sinopse": "Este volume apresenta reflexões de Ellen G. White sobre saúde mental, caráter e personalidade, conectando princípios espirituais e psicológicos. Compilado para abordar temas como temperança, equilíbrio emocional e vida cristã, o livro oferece orientações práticas e profundas para uma mente saudável e harmoniosa.",
+  "exemplar_id": 5869,
+  "sku": "LI038V",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/ellen-g-white--mente-carater-e-personalidade--capa--20260306--093922.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--mente-carater-e-personalidade--foto1--20260306--093930.jpg",
+    "static/uploads/ellen-g-white--mente-carater-e-personalidade--foto2--20260306--093930.jpg",
+    "static/uploads/ellen-g-white--mente-carater-e-personalidade--foto3--20260306--093930.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Sem marcas de umidade, mofo, traça. Contudo, foram encontradas 11 páginas com grifos feitos com caneta-destaque amarelada. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:50:18",
+  "observacoes": null
+}

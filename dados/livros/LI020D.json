@@ -1,0 +1,63 @@
+{
+  "obra_id": 3109,
+  "autor": "V. E. Schwab",
+  "titulo": "Uma Magia Mais Escura",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": null,
+  "palavras_chave": "schwab uma magia mais",
+  "edicao_id": 3089,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 372,
+  "peso": 600,
+  "isbn": "9789899978577",
+  "editora": "Minotauro",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Kell é um dos raros magos viajantes que pode transitar entre universos paralelos, como entre as cidade de Londres Cinzenta, Vermelha e Branca, cada uma com diferentes níveis de magia. Oficialmente é o embaixador da Londres Vermelha, mas secretamente é um contrabandista que leva itens entre os mundos. Essa atividade ilegal terá perigosas consequências que Kell enfrentará diretamente, em uma trama envolvendo essas realidades paralelas conectadas pela mágica cidade de Londres.",
+  "exemplar_id": 3088,
+  "sku": "LI020D",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado para leitura e manuseio. Sem grifos, anotações, marcas de umidade, sol excessivo, cheiro de mofo. Contudo o papel está bem pigmentado pela ação do tempo. Além disso, notam-se, nas laterais, duas marquinhas de início de roído causado por traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:38:15",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

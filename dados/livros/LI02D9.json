@@ -1,0 +1,68 @@
+{
+  "obra_id": 3578,
+  "autor": "Tatsuya Endo",
+  "titulo": "Spy x Family",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos. Espionagem. Família.",
+  "palavras_chave": "endo spy family",
+  "edicao_id": 3555,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 230,
+  "isbn": "9786555127249",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Um plano para assassinar um ministro de Westalis usando cães-bomba vem à tona! A família Forger sai em busca de um cãozinho para Anya, mas Twilight acaba sendo chamado para participar de uma missão de emergência a fim de impedir o atentado...! Enquanto isso, Anya encontra um misterioso cão, que por algum motivo parece conhecer a sua família...?!</p>",
+  "sinopse": "Um plano para assassinar um ministro de Westalis envolvendo cães-bomba ameaça a segurança de todos. A família Forger procura um novo cãozinho para Anya, mas Twilight é chamado para uma missão urgente para tentar impedir o atentado. Durante esse tempo, Anya conhece um cão misterioso que aparenta ter alguma ligação com sua família.",
+  "exemplar_id": 3554,
+  "sku": "LI02D9",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 32.0,
+  "capa": "static/uploads/spy-x-family__tatsuya-endo__capa__2025-11-05_16-16-48-350622.jpg",
+  "contracapa": "static/uploads/spy-x-family__tatsuya-endo__contracapa__2025-11-05_16-16-48-449236.jpg",
+  "fotos": [
+    "static/uploads/spy-x-family__tatsuya-endo__foto-01__2025-11-05_16-16-48-609844.jpg",
+    "static/uploads/spy-x-family__tatsuya-endo__foto-02__2025-11-05_16-16-48-633410.jpg",
+    "static/uploads/spy-x-family__tatsuya-endo__foto-03__2025-11-05_16-16-48-650931.jpg",
+    "static/uploads/spy-x-family__tatsuya-endo__foto-04__2025-11-05_16-16-48-677524.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:30:15",
+  "observacoes": null
+}

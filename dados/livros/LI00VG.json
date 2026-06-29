@@ -1,0 +1,68 @@
+{
+  "obra_id": 1466,
+  "autor": "Machado de Assis",
+  "titulo": "Quincas Borba",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "assis quincas borba",
+  "edicao_id": 1447,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 174,
+  "peso": 200,
+  "isbn": "9788537706343",
+  "editora": "Escala Educacional",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "Clássicos",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Escala Educacional traz esta coleção de clássicos da Literatura Brasileira em edições acessíveis para o grande público, esperando contribuir para a leitura e a apreciação das grandes obras da nossa literatura.</p> <p>Os livros trazem ainda informações sobre o autor, sua obra e sua época.</p> <p>A leitura dos clássicos é fundamental para que possamos compreender nossa cultura!</p>",
+  "sinopse": "",
+  "exemplar_id": 1446,
+  "sku": "LI00VG",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/machado-de-assis--quincas-borba--capa--20250401--115736.jpg",
+  "contracapa": "static/uploads/machado-de-assis--quincas-borba--contracapa--20250401--115736.jpg",
+  "fotos": [
+    "static/uploads/machado-de-assis--quincas-borba--foto1--20250401--115736.jpg",
+    "static/uploads/machado-de-assis--quincas-borba--foto2--20250401--115736.jpg",
+    "static/uploads/machado-de-assis--quincas-borba--foto3--20250401--115736.jpg",
+    "static/uploads/machado-de-assis--quincas-borba--foto4--20250401--115736.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:26:24",
+  "observacoes": null
+}

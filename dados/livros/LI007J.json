@@ -1,0 +1,68 @@
+{
+  "obra_id": 295,
+  "autor": "Nikki Stafford",
+  "titulo": "Investigating Sherlock",
+  "subtitulo": "The unofficial guide",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura. Análise crítica. Adaptação.",
+  "palavras_chave": "stafford investigating sherlock",
+  "edicao_id": 288,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 229,
+  "peso": 300,
+  "isbn": "9781770412620",
+  "editora": "ECW Press",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Over SHERLOCK’s first three seasons, the Emmy-winning series has brought new life to stories almost 130 years old and, with its Holmes and Watson for the 21st century, created a worldwide fandom unlike any other.</p> <p>INVESTIGATING SHERLOCK, written by bestselling author Nikki Stafford, examines each episode through in-depth and fun analysis, exploring the character development and cataloging every subtle reference to the original stories. With biographies of Benedict Cumberbatch and Martin Freeman, as well as Arthur Conan Doyle, INVESTIGATING SHERLOCK is the ultimate guide to the great detective.</p> <p>“Data! data! data! Nikki Stafford has fashioned excellent bricks from perfect clay.” -Guy Adams, author of THE SHERLOCK FILES</p> <p>“Astute and thoughtful with brilliant analysis of the episodes’ deeper meanings and significances. A delightful exploration not to be missed!” -Valerie Estelle Frankel, author of SHERLOCK: EVERY CANON REFERENCE YOU MAY HAVE MISSED IN BBC'S SERIES 1-3</p>",
+  "sinopse": "Investigating Sherlock oferece uma análise profunda de cada episódio da série, abordando o desenvolvimento dos personagens e catalogando pequenas referências às histórias originais. Contando com biografias dos atores principais e do próprio Arthur Conan Doyle, o livro é considerado um guia essencial para os fãs da série.",
+  "exemplar_id": 287,
+  "sku": "LI007J",
+  "preco_estante_virtual": 65.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/nikki-stafford--investigating-sherlock--capa--20250226--133816.jpg",
+  "contracapa": "static/uploads/nikki-stafford--investigating-sherlock--contracapa--20250226--133816.jpg",
+  "fotos": [
+    "static/uploads/nikki-stafford--investigating-sherlock--foto1--20250226--133816.jpg",
+    "static/uploads/nikki-stafford--investigating-sherlock--foto2--20250226--133816.jpg",
+    "static/uploads/nikki-stafford--investigating-sherlock--foto3--20250226--133816.jpg",
+    "static/uploads/nikki-stafford--investigating-sherlock--foto4--20250226--133816.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:30:00",
+  "observacoes": null
+}

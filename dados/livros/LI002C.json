@@ -1,0 +1,68 @@
+{
+  "obra_id": 96,
+  "autor": "René-Victor Pilhes",
+  "titulo": "O imprecatador",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Tecnologia. Sociedade. Consumo.",
+  "palavras_chave": "pilhes imprecatador",
+  "edicao_id": 96,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 291,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "Grandes Sucessos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Num esplêndido edifício de aço e vidro – sucursal parisiense de uma grande empresa multinacional com sede nos Estados Unidos – o homem e o computador se enfrentam. O primeiro tem o privilégio da insensibilidade; o segundo é marcado pela discriminação das hierarquias e pela necessidade de prevalecer. Desenvolve-se então a história de uma lenta destruição, caindo por terra os alicerces da tecnocracia e do supercapitalismo.</p>",
+  "sinopse": "O livro aborda a tensão entre o homem e o computador em um ambiente corporativo futurista, explorando a insensibilidade humana em contraste com as pressões tecnocráticas. Através dessa luta, a história desenrola-se revelando a destruição gradual das estruturas sociais e econômicas estabelecidas.",
+  "exemplar_id": 95,
+  "sku": "LI002C",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ren--victor-pilhes--o-imprecatador--capa--20250226--113546.jpg",
+  "contracapa": "static/uploads/ren--victor-pilhes--o-imprecatador--contracapa--20250226--113546.jpg",
+  "fotos": [
+    "static/uploads/ren--victor-pilhes--o-imprecatador--foto1--20250226--113546.jpg",
+    "static/uploads/ren--victor-pilhes--o-imprecatador--foto2--20250226--113546.jpg",
+    "static/uploads/ren--victor-pilhes--o-imprecatador--foto3--20250226--113546.jpg",
+    "static/uploads/ren--victor-pilhes--o-imprecatador--foto4--20250226--113546.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:22:24",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 13,
+  "autor": "Paulo Vieira",
+  "titulo": "O poder da ação",
+  "subtitulo": "Faça sua vida ideal sair do papel",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Auto-Ajuda. Desenvolvimento Pessoal. Sucesso Profissional",
+  "palavras_chave": "vieira poder acao",
+  "edicao_id": 13,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 350,
+  "isbn": "9788545200345",
+  "editora": "Gente",
+  "numero_edicao": 24,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>ACORDE PARA OS OBJETIVOS QUE QUER CONQUISTAR.</b></p><p>Já aconteceu a você de se olhar no espelho e não gostar daqueles quilos a mais? De observar seu momento profissional somente com frustração? De se sentir desconectado dos seus familiares, dos seus amigos? Se você acha que essas são situações normais, pense de novo!</p><p>Paulo Vieira lhe convida a quebrar o ciclo vicioso e iniciar um caminho de realização. Para isso, apresenta o método responsável por impactar 250 mil pessoas ao longo de sua carreira – e que pode ser a chave para o que você tanto procura:</p><ul><li>Aprenda a tomar as decisões certas</li><li>Saiba como obter respostas de sucesso</li><li>Reprograme sua mente</li><li>Desenvolva novas capacidades</li><li>Conquiste a vida que sempre quis em seis meses</li><li>Aumente suas competências financeiras e profissionais</li></ul><p><b>NÃO EXISTE OUTRA OPÇÃO. ESTÁ EM SUAS MÃOS REESCREVER SEU FUTURO.</b></p>",
+  "sinopse": "Paulo Vieira apresenta um método para romper ciclos viciosos e alcançar objetivos, abordando temas como tomada de decisões, reprogramação mental e desenvolvimento de capacidades para conquistar a vida ideal em seis meses.",
+  "exemplar_id": 13,
+  "sku": "LI000C",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/paulo-vieira--o-poder-da-a--o--capa--20250225--163435.jpg",
+  "contracapa": "static/uploads/paulo-vieira--o-poder-da-a--o--contracapa--20250225--163435.jpg",
+  "fotos": [
+    "static/uploads/paulo-vieira--o-poder-da-a--o--foto1--20250225--163435.jpg",
+    "static/uploads/paulo-vieira--o-poder-da-a--o--foto2--20250225--163435.jpg",
+    "static/uploads/paulo-vieira--o-poder-da-a--o--foto3--20250225--163435.jpg",
+    "static/uploads/paulo-vieira--o-poder-da-a--o--foto4--20250225--163435.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:37:18",
+  "observacoes": null
+}

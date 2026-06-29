@@ -1,0 +1,63 @@
+{
+  "obra_id": 613,
+  "autor": "Gordon Fee; Douglas Stuart",
+  "titulo": "Como ler a Bíblia livro por livro",
+  "subtitulo": "Um guia de estudo panorâmico da Bíblia",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura religiosa. Interpretação bíblica.",
+  "palavras_chave": "fee como ler biblia",
+  "edicao_id": 598,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 525,
+  "peso": 600,
+  "isbn": "9788527505277",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Um guia passo a passo para a leitura de Gênesis a Apocalipse</p> <p>Ler a Bíblia não precisa ser uma jornada sem rumo através de um território estranho e desorientante. Como um experiente guia turístico, <i>Como ler a Bíblia livro por livro</i> pega você pela mão e o conduz ao longo das Escrituras. Para cada livro da Bíblia, os autores começam com um retrato instantâneo, depois abrem o foco para ajudar você a entender melhor os elementos-chave do livro e perceber como ele se encaixa na narrativa maior da Bíblia.</p> <p>Num estilo interativo e envolvente, Gordon Fee e Douglas Stuart conduzem o leitor através de um dado livro da Bíblia, usando sua singular abordagem progressiva:</p> <ul><li><b>Informações básicas:</b> Dados concisos que dão uma ideia resumida do livro.</li> <li><b>Visão geral:</b> Um breve panorama que introduz os conceitos e temas essenciais e os principais marcos do livro.</li> <li><b>Orientações para a leitura:</b> Indicadores para a compreensão precisa dos detalhes e da mensagem do livro no ambiente das circunstâncias específicas da sua composição.</li> <li><b>Uma caminhada por:</b> O guia passo a passo através das seções de cada livro que ajuda você a ter uma visão panorâmica do todo e a perceber como as diferentes partes se integram nesse todo. Aqui você é conduzido pela mão, por assim dizer, e ouve repetidas vezes: “Veja isto!”</li></ul> <p>Este livro pode ser usado em conjunto com a outra obra dos mesmos autores, <i>Entendes o que lês?</i> Também pode ser usado de maneira independente como um guia confiável para ajudar você na leitura e compreensão da Bíblia.</p>",
+  "sinopse": "O livro oferece um guia passo a passo para a leitura da Bíblia, permitindo ao leitor navegar pelas Escrituras de maneira orientada e informativa. Os autores, Gordon Fee e Douglas Stuart, introduzem cada livro da Bíblia com uma visão geral, informações básicas e orientações que facilitam a compreensão do texto sagrado. A obra é adequada tanto para iniciantes quanto para aqueles que desejam aprofundar seu conhecimento das Escrituras.",
+  "exemplar_id": 597,
+  "sku": "LI00G0",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/gordon-fee--como-ler-a-b-blia--capa--20250227--152853.jpg",
+  "contracapa": "static/uploads/gordon-fee--como-ler-a-b-blia--contracapa--20250227--152853.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:49:49",
+  "observacoes": null
+}

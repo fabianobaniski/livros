@@ -1,0 +1,63 @@
+{
+  "obra_id": 5025,
+  "autor": "Takehiko Inoue",
+  "titulo": "Real",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá",
+  "palavras_chave": "inoue real",
+  "edicao_id": 5000,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 218,
+  "peso": 310,
+  "isbn": "9786559606047",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p>REAL</p><p>TAKEHIKO INOUE</p><p>7</p>",
+  "sinopse": "Real, de Takehiko Inoue, é um mangá seinen de drama que acompanha três jovens — Nomiya, Togawa e Takahashi — cujas vidas são transformadas por acidentes ou doenças que os deixam em cadeira de rodas. Unidos pelo basquete (incluindo o adaptado), eles enfrentam superação pessoal, culpa, marginalização e a busca por identidade e propósito, com realismo psicológico profundo e arte detalhada.",
+  "exemplar_id": 4999,
+  "sku": "LI02QX",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/real__takehiko-inoue__capa__2026-02-20_10-31-44-337701-000.png",
+  "contracapa": "static/uploads/real__takehiko-inoue__contracapa__2026-02-20_10-31-44-794959-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

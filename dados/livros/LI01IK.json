@@ -1,0 +1,63 @@
+{
+  "obra_id": 2468,
+  "autor": "Luiz Caramaschi",
+  "titulo": "De volta ao caos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "caramaschi volta caos",
+  "edicao_id": 2448,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 352,
+  "peso": 400,
+  "isbn": "9788589389044",
+  "editora": "Piraju",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "De Volta do Caos apresenta um tom reflexivo e poético, com Luiz Caramaschi explorando temas como redenção, perdição e o eterno confronto entre o bem e o mal. Através do Epitáfio de Satã, o autor descreve a trajetória de queda e perda do protagonista, que escolheu se rebelar e enfrentar seu destino. Caramaschi usa metáforas potentes, como dragões e orfes, para ilustrar lutas internas e transformações profundas. A obra convida o leitor a refletir sobre escolhas, consequências e a possibilidade de recomeçar, sempre em busca do Amor perdido.",
+  "exemplar_id": 2447,
+  "sku": "LI01IK",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/luiz-caramaschi--de-volta-ao-caos--capa--20260316--191845.jpg",
+  "contracapa": "static/uploads/luiz-caramaschi--de-volta-ao-caos--contracapa--20260316--191845.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:35:45",
+  "observacoes": null
+}

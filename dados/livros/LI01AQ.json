@@ -1,0 +1,68 @@
+{
+  "obra_id": 2185,
+  "autor": "Jorge Lopes; José Francisco Ribeiro Filho; Marcleide Pederneiras",
+  "titulo": "Educação contábil",
+  "subtitulo": "Tópicos de ensino e pesquisa",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Educação. Ensino superior. Contabilidade. Pesquisa acadêmica. Formação profissional.",
+  "palavras_chave": "lopes educacao contabil topicos ensino pesquisa",
+  "edicao_id": 2165,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 274,
+  "peso": 495,
+  "isbn": "9788522451289",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Educação Contábil</h1><h2>Tópicos de Ensino e Pesquisa</h2><p>Este livro versa sobre reflexões e pesquisas sobre ensino e pesquisa em contabilidade. Os textos aqui reunidos foram produzidos por pesquisadores, espalhados em nove universidades brasileiras, que mantêm programas de pós-graduação <i>stricto sensu</i> em ciências contábeis. Os capítulos estão assim organizados:</p><ol><li>Produção científica em Contabilidade no Brasil: dez “pecados” mais frequentes</li><li>Análise das condições de oferta da disciplina Sistemas de Informação: pesquisa com cursos de Ciências Contábeis na cidade de São Paulo</li><li>O diálogo entre a Contabilidade e as Ciências Humanas e Sociais: nota-se a presença de um hermetismo contábil?</li><li>Formação, certificação e educação continuada: um estudo exploratório do profissional contábil sob a ótica das empresas <i>head hunters</i></li><li>O impacto da reforma do Estado sobre os sistemas de controle gerencial em empresas brasileiras durante o período de 1983 a 2003: estudo de nove casos</li><li>Evidenciação contábil e volatilidade dos retornos das ações no Brasil</li><li>Análise das metodologias e técnicas de pesquisas adotadas nos estudos brasileiros sobre <i>balanced scorecard</i>: um estudo dos artigos publicados no período de 1999 a 2006</li><li>Saberes e competências do professor universitário: contribuições para o estudo da prática pedagógica do professor de Ciências Contábeis do Brasil</li><li>Ebitda: possíveis impactos sobre o gerenciamento das empresas</li><li>Reflexão sobre a pesquisa em contabilidade no Brasil</li><li>A docência em Ciências Contábeis e as orientações produtivas em Erich Fromm</li><li>Disciplinas de Informática <i>versus</i> conteúdos de concursos públicos: uma análise comparativa em Ciências Contábeis na Universidade Federal de Pernambuco</li><li>A importância da auditoria forense na formação dos contadores</li><li>Uma contribuição dos elementos da metodologia de ensino – aprendizagem cooperativa – para o aperfeiçoamento da formação do contador diante das expectativas do mercado</li><li>Modelos econométricos para dados em painel: aspectos teóricos e exemplos de aplicação à pesquisa em Contabilidade e Finanças</li></ol><p>publicação atlas<br>www.EditoraAtlas.com.br</p>",
+  "sinopse": "Este livro reúne textos produzidos por pesquisadores de nove universidades brasileiras com programas de pós-graduação em Ciências Contábeis. Apresenta reflexões e pesquisas sobre ensino e pesquisa em contabilidade, abordando tópicos como produção científica, metodologias de ensino, impacto de reformas, docência, competências do professor, análise de disciplinas, auditoria forense, modelos econométricos e outros aspectos relevantes para a formação e atualização de profissionais da área contábil.",
+  "exemplar_id": 2164,
+  "sku": "LI01AQ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jorge-lopes--educa--o-cont-bil--capa--20250430--105052.jpg",
+  "contracapa": "static/uploads/jorge-lopes--educa--o-cont-bil--contracapa--20250430--105054.jpg",
+  "fotos": [
+    "static/uploads/jorge-lopes--educa--o-cont-bil--foto1--20250430--105054.jpg",
+    "static/uploads/jorge-lopes--educa--o-cont-bil--foto2--20250430--105054.jpg",
+    "static/uploads/jorge-lopes--educa--o-cont-bil--foto3--20250430--105054.jpg",
+    "static/uploads/jorge-lopes--educa--o-cont-bil--foto4--20250430--105054.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:53:25",
+  "observacoes": "procedencia_biblioteca"
+}

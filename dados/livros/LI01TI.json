@@ -1,0 +1,63 @@
+{
+  "obra_id": 2862,
+  "autor": "Szent-gyorgy - Burnet - Lwoff - Luria - Medawar -",
+  "titulo": "Prêmios nobel na Scientific American",
+  "subtitulo": "Volume 3 - Medicina",
+  "idioma": "Português",
+  "categoria": "Medicina",
+  "temas": "",
+  "palavras_chave": "premios nobel scientific",
+  "edicao_id": 2842,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 163,
+  "peso": 200,
+  "isbn": "9788579020902",
+  "editora": "Pocket Dueto",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro reúne artigos de renomados ganhadores do Prêmio Nobel de Medicina, oferecendo aos leitores uma visão aprofundada das bases da medicina moderna e seus rápidos avanços. Com textos originalmente publicados na *Scientific American*, aborda temas como o ciclo de vida dos vírus, o mecanismo da imunidade, transplantes e a estrutura da hemoglobina, entre outros. É uma oportunidade rara de acessar discussões científicas essenciais, escritas por alguns dos maiores nomes da ciência do século XX.",
+  "exemplar_id": 2841,
+  "sku": "LI01TI",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/premios-nobel-na-scientific-american-scientific-american-brasil-capa_rev1481.jpg",
+  "contracapa": "static/uploads/premios-nobel-na-scientific-american-scientific-american-brasil-contracapa_rev2034.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro pocket, em perfeito estado, sem qualquer dano na capa, lombada ou contracapa. Miolo impecável. Texto livre de anotações e sublinhados. Também não constam carimbo, selo e assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:10:01",
+  "observacoes": null
+}

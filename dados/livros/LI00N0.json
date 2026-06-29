@@ -1,0 +1,63 @@
+{
+  "obra_id": 866,
+  "autor": "E. Lund; P. C. Nelson",
+  "titulo": "Hermenêutica",
+  "subtitulo": "Princípios de interpretação das Sagradas Escrituras",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Hermenêutica.",
+  "palavras_chave": "lund hermeneutica interpretacao escrituras",
+  "edicao_id": 851,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 167,
+  "peso": 200,
+  "isbn": "9788573679564",
+  "editora": "Vida Acadêmica",
+  "numero_edicao": 2,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Uma das primeiras ciências que os pregadores devem conhecer é a hermenêutica, arte de interpretar textos. Todavia, a hermenêutica da qual este livro se ocupa faz parte da teologia exegética, que trata da correta explanação e interpretação da Bíblia.</p> <p>As Sagradas Escrituras foram produzidas por pessoas diferentes, em épocas remotas, países distantes entre si, em meio a povos e costumes variados e em linguagem simbólica. Para o discernimento e compreensão do texto bíblico, é necessário o precioso auxílio que a hermenêutica é capaz de oferecer.</p> <p>Hermenêutica: princípios de interpretação das Sagradas Escrituras é uma obra de grande utilidade, não só para pastores e evangelistas, mas também para todo cristão que seja zeloso estudante da Palavra de Deus.</p>",
+  "sinopse": "Este livro aborda a importância da hermenêutica como uma ciência essencial para pregadores e estudantes da Bíblia, oferecendo diretrizes para interpretar textos sagrados, considerando o contexto histórico e cultural das Escrituras.",
+  "exemplar_id": 850,
+  "sku": "LI00N0",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/e--lund--hermen-utica--capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/e--lund--hermen-utica--contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:29:48",
+  "observacoes": null
+}

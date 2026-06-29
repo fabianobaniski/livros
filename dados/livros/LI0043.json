@@ -1,0 +1,68 @@
+{
+  "obra_id": 166,
+  "autor": "Ernane Galvêas",
+  "titulo": "Crônicas econômicas",
+  "subtitulo": "Análise retrospectiva 2006-2009",
+  "idioma": "Português",
+  "categoria": "Economia",
+  "temas": "Economia. Política Econômica.",
+  "palavras_chave": "galveas cronicas economicas",
+  "edicao_id": 162,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 286,
+  "peso": 350,
+  "isbn": "",
+  "editora": "Confederação Nacional do Comércio de Bens, Serviços e Turismo",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Publicações do Autor</h1> <p>Além de inúmeros artigos e estudos de Economia e Política Econômica, em jornais e revistas nacionais e estrangeiras, o autor publicou, entre outros, os seguintes livros:</p> <ul> <li>Brasil - Fronteira do Desenvolvimento (Rio de Janeiro: APEC Editora, 1974)</li> <li>Brasil - Desenvolvimento e Inflação (Rio de Janeiro: APEC Editora, 1976)</li> <li>Brasil - Economia Aberta ou Fechada? (Rio de Janeiro: APEC Editora, 1982)</li> <li>Aprendiz de Empresário (Rio de Janeiro: Livro Técnicos e Científicos Editora, 1983)</li> <li> sistema Financeiro e Mercado de Capitais (Rio de Janeiro: IBMEC, 1985)</li> <li>A Saga da Crise (Rio de Janeiro, Ed. Forense Universitária, 1985)</li> <li>A Crise do Petróleo (Rio de Janeiro: APEC Editora, 1985)</li> <li>Inflação, Déficit e Política Monetária (Rio de Janeiro: CNC, 1985)</li> <li>As Duas Faces do Cruzado (Rio de Janeiro: APEC Editora, 1987)</li> <li>Crônicas Econômicas - Análise retrospectiva 2002/2005 (Rio de Janeiro: CNC, 2006)</li> </ul>",
+  "sinopse": "As 'Crônicas Econômicas' de Ernane Galvêas oferecem uma análise profunda sobre a economia brasileira entre 2006 e 2009, refletindo sobre questões econômicas e políticas relevantes da época. O autor, com vasta experiência na área, também destaca suas publicações anteriores, consolidando sua contribuição para o campo da Economia.",
+  "exemplar_id": 161,
+  "sku": "LI0043",
+  "preco_estante_virtual": 8.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/ernane-galv-as--cr-nicas-econ-micas--capa--20250226--133800.jpg",
+  "contracapa": "static/uploads/ernane-galv-as--cr-nicas-econ-micas--contracapa--20250226--133800.jpg",
+  "fotos": [
+    "static/uploads/ernane-galv-as--cr-nicas-econ-micas--foto1--20250226--133800.jpg",
+    "static/uploads/ernane-galv-as--cr-nicas-econ-micas--foto2--20250226--133800.jpg",
+    "static/uploads/ernane-galv-as--cr-nicas-econ-micas--foto3--20250226--133800.jpg",
+    "static/uploads/ernane-galv-as--cr-nicas-econ-micas--foto4--20250226--133800.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Com carimbo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:32:41",
+  "observacoes": null
+}

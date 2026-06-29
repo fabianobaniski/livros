@@ -1,0 +1,68 @@
+{
+  "obra_id": 249,
+  "autor": "E. G. Scott",
+  "titulo": "A outra",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura contemporânea. Suspense. Relações familiares.",
+  "palavras_chave": "scott outra vida",
+  "edicao_id": 243,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 376,
+  "peso": 400,
+  "isbn": "9786555874716",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A vida de Rebecca é perfeita. Paul, seu marido, não poderia ser mais incrível. Ela tem uma carreira consolidada e está plenamente satisfeita com o que a vida lhe deu. Até que um dia seu maior sonho se torna seu pior pesadelo.</p><p>Tudo o que ela construiu desmorona em instantes. Mentiras correm seu casamento, opioides destroem sua vida profissional e mexem com sua cabeça, fazendo-a se questionar sobre o que é ou não realidade.</p><p>Então, quando a oportunidade de se vingar de todos que tentaram prejudicá-la bate à sua porta, Rebecca não consegue resistir.</p>",
+  "sinopse": "A vida de Rebecca parece perfeita, mas desmorona quando mentiras a afetam e seu casamento é ameaçado. Com sua vida profissional em ruínas e uma luta contra os opioides, ela questiona sua realidade. A oportunidade de se vingar daqueles que a prejudicaram aparece, e Rebecca se vê diante de uma decisão que pode transformar tudo.",
+  "exemplar_id": 242,
+  "sku": "LI006A",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/e--g--scott--a-outra--capa--20250226--133810.jpg",
+  "contracapa": "static/uploads/e--g--scott--a-outra--contracapa--20250226--133811.jpg",
+  "fotos": [
+    "static/uploads/e--g--scott--a-outra--foto1--20250226--133811.jpg",
+    "static/uploads/e--g--scott--a-outra--foto2--20250226--133811.jpg",
+    "static/uploads/e--g--scott--a-outra--foto3--20250226--133811.jpg",
+    "static/uploads/e--g--scott--a-outra--foto4--20250226--133811.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta carimbo de cortesia da editora / venda proibida."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:35:50",
+  "observacoes": null
+}

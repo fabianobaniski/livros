@@ -1,0 +1,63 @@
+{
+  "obra_id": 2967,
+  "autor": "Monja Coen",
+  "titulo": "Verdade?",
+  "subtitulo": "Porque nem tudo o que ouvimos ou falamos é verdadeiro",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "coen verdade porque nem",
+  "edicao_id": 2947,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 143,
+  "peso": 200,
+  "isbn": "9788546501915",
+  "editora": "Best Seller",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro convida o leitor a reavaliar as verdades que moldam suas crenças e atitudes. Monja Coen apresenta 24 frases que, muitas vezes, repetimos automaticamente, e propõe uma reflexão profunda sobre elas, questionando seu real significado e relevância em nossas vidas. A obra estimula um novo olhar sobre essas máximas, permitindo que velhos conceitos sejam desconstruídos e novos entendimentos emergam. Com sabedoria e bom humor, o texto conduz à autodescoberta e à busca por uma visão mais ampla da realidade.",
+  "exemplar_id": 2946,
+  "sku": "LI01WF",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/verdade-monja-coen-capa_rev420.jpg",
+  "contracapa": "static/uploads/verdade-monja-coen-contracapa_rev39.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:40",
+  "observacoes": null
+}

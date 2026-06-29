@@ -1,0 +1,68 @@
+{
+  "obra_id": 400,
+  "autor": "Barry Strauss",
+  "titulo": "The Trojan War",
+  "subtitulo": "A new history",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "História. Mitologia. Conflitos.",
+  "palavras_chave": "strauss trojan war",
+  "edicao_id": 388,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 258,
+  "peso": 300,
+  "isbn": "9780743264426",
+  "editora": "Simon & Schuster Paperbacks",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>the trojan war</h1> <p>is one of history’s most famous conflicts, a ten-year-long war waged over the beautiful Helen. For more than two thousand years this story has been a source of artistic inspiration. But is it true?</p> <p>In <i>the trojan war</i> historian and classicist Barry Strauss explores the myth and the reality behind the war, from Homer’s accounts in <i>The Iliad</i> and <i>The Odyssey</i> to Heinrich Schliemann’s discovery of ancient Troy in the late nineteenth century to more recent excavations that yielded intriguing clues to the story behind the fabled city. The Trojans, it turns out, were not ethnic Greeks but an Anatolian people closely allied with the Hittite Empire to the east. At the time of the Trojan War the Greeks were great settlers, while Troy was a more settled civilization. And while the cause of the war may well have been the kidnapping of a queen—and, more significantly, the seizure of her royal dowry—the underlying cause was a conflict between the Trojans and the Greeks for control of the eastern Aegean Sea.</p> <p>Through vivid reconstructions of the battles and insightful depictions of its famous characters, <i>the trojan war</i> reveals the history behind Homer’s great epic, without losing the poetry and grandeur of the epic myth.</p>",
+  "sinopse": "O 'A Guerra de Troia' é um exame envolvente de um dos conflitos mais famosos da história, explorando a mitologia e a realidade por trás da guerra, desde as narrativas de Homero até descobertas arqueológicas. Barry Strauss revela não apenas as batalhas e personagens famosos, mas também os fatores subjacentes que motivaram o conflito entre os troianos e os gregos, destacando a luta pelo controle do mar Egeu oriental.",
+  "exemplar_id": 387,
+  "sku": "LI00A6",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/barry-strauss--the-trojan-war--capa--20250226--133826.jpg",
+  "contracapa": "static/uploads/barry-strauss--the-trojan-war--contracapa--20250226--133826.jpg",
+  "fotos": [
+    "static/uploads/barry-strauss--the-trojan-war--foto1--20250226--133826.jpg",
+    "static/uploads/barry-strauss--the-trojan-war--foto2--20250226--133826.jpg",
+    "static/uploads/barry-strauss--the-trojan-war--foto3--20250226--133826.jpg",
+    "static/uploads/barry-strauss--the-trojan-war--foto4--20250226--133826.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado (vide fotos). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:16:18",
+  "observacoes": null
+}

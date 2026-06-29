@@ -1,0 +1,68 @@
+{
+  "obra_id": 3653,
+  "autor": "Luigi Pirandello",
+  "titulo": "O falecido Mattia Pascal",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "pirandello falecido mattia pascal",
+  "edicao_id": 3630,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 289,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Após ser erroneamente dado como morto por sua família, Mattia Pascal decide assumir uma nova identidade para viver com total liberdade, descobrindo amargamente que a existência fora das normas sociais e burocráticas é impossível e que ele se tornou um estrangeiro de si mesmo.",
+  "exemplar_id": 3629,
+  "sku": "LI02FC",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/luigi-pirandello--o-falecido-mattia-pascal--capa--20251114--185224.png",
+  "contracapa": "static/uploads/luigi-pirandello--o-falecido-mattia-pascal--contracapa--20251114--185233.png",
+  "fotos": [
+    "static/uploads/luigi-pirandello--o-falecido-mattia-pascal--foto1--20251113--211517.jpg",
+    "static/uploads/luigi-pirandello--o-falecido-mattia-pascal--foto2--20251113--211517.jpg",
+    "static/uploads/luigi-pirandello--o-falecido-mattia-pascal--foto3--20251113--211517.jpg",
+    "static/uploads/luigi-pirandello--o-falecido-mattia-pascal--foto4--20251113--211517.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:07:25",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2227,
+  "autor": "Glaucia Guimarães",
+  "titulo": "TV e escola",
+  "subtitulo": "Discursos em confronto",
+  "idioma": "Português",
+  "categoria": "Comunicação",
+  "temas": "Comunicação. Linguagem. Educação. Televisão. Infância.",
+  "palavras_chave": "guimaraes escola discursos confronto",
+  "edicao_id": 2207,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 120,
+  "peso": 110,
+  "isbn": "9788524907340",
+  "editora": "Cortez ",
+  "numero_edicao": 3,
+  "ano": 2001,
+  "serie": "Questões da nossa época",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro traz o resultado de uma pesquisa rigorosa sobre as práticas de linguagem da televisão e da escola. Investiga os \"mecanismos de sedução\" que tem a televisão e que faltam à escola.<br>Destituída de preconceitos, de medos, a autora introduz em suas aulas a televisão e procura \"ver\" o que aquele objeto veicula que é capaz de \"prender\" a atenção das crianças, fazê-las rir, torná-las ansiosas, envolvê-las em um projeto pedagógico próprio.<br>Sua contribuição vai, assim, muito além da sala de aula. É um livro que fala a professores, psicólogos, filósofos... Ele compromete todos aqueles que têm o desenvolvimento da criança como sua preocupação.</p><p><i>Nilda Teves</i></p>",
+  "sinopse": "O livro resulta de uma pesquisa sobre as práticas de linguagem da televisão e da escola, analisando os mecanismos de sedução presentes na TV e ausentes no ambiente escolar. Glaucia Guimarães explora de forma crítica e sem preconceitos o impacto da televisão nas aulas, refletindo sobre como ela pode captar a atenção das crianças e envolver-se no processo pedagógico. A obra dialoga não apenas com professores, mas também psicólogos e filósofos, sendo indispensável para todos preocupados com o desenvolvimento infantil.",
+  "exemplar_id": 2206,
+  "sku": "LI01BW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/glaucia-guimar-es--tv-e-escola--capa--20250430--105100.jpg",
+  "contracapa": "static/uploads/glaucia-guimar-es--tv-e-escola--contracapa--20250430--105100.jpg",
+  "fotos": [
+    "static/uploads/glaucia-guimar-es--tv-e-escola--foto1--20250430--105100.jpg",
+    "static/uploads/glaucia-guimar-es--tv-e-escola--foto2--20250430--105100.jpg",
+    "static/uploads/glaucia-guimar-es--tv-e-escola--foto3--20250430--105100.jpg",
+    "static/uploads/glaucia-guimar-es--tv-e-escola--foto4--20250430--105100.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:31:04",
+  "observacoes": "procedencia_biblioteca"
+}

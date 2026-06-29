@@ -1,0 +1,68 @@
+{
+  "obra_id": 1852,
+  "autor": "Leôncio Soares",
+  "titulo": "Educação de jovens e adultos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Políticas públicas. Diretrizes curriculares. Educação de jovens e adultos.",
+  "palavras_chave": "soares educacao jovens adultos",
+  "edicao_id": 1832,
+  "encadernacao": null,
+  "quantidade_paginas": 165,
+  "peso": 215,
+  "isbn": "9788574901411",
+  "editora": "DP&A",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "Diretrizes Curriculares Nacionais",
+  "volume": null,
+  "transcricao_contracapa": "<p>Diz o artigo 208 da Carta Magna, no inciso I, que é dever do Estado garantir o “ensino fundamental obrigatório e gratuito, assegurada, inclusive, sua oferta gratuita <i>para todos os que a ele não tiverem acesso na idade própria</i>”.</p><p>Vive-se hoje um momento de revitalização de propostas e projetos na área de Educação de Jovens e Adultos (EJA), com a participação de movimentos sociais, organizações não-governamentais e universidades.</p><p>Esta edição traz o Parecer 11/2000 (aprovado pela Câmara de Educação Básica em 10/05/2000), que regulamenta as Diretrizes Curriculares Nacionais para a EJA. Traz, também, a Resolução 1/2000, que estabelece as DCN/EJA, além dos relatórios-síntese dos Encontros Nacionais de EJA do Rio de Janeiro e da Paraíba. A introdução do livro é assinada por Leôncio José Gomes Soares, coordenador do GT-EJA da ANPEd.</p>",
+  "sinopse": "O livro apresenta um panorama atual da Educação de Jovens e Adultos (EJA) no Brasil, abordando a revitalização de propostas e projetos, além da participação de movimentos sociais e universidades. Traz na íntegra o Parecer 11/2000 e a Resolução 1/2000, documentos que regulamentam as Diretrizes Curriculares Nacionais para a EJA, além de relatórios dos principais encontros nacionais sobre o tema. A introdução é assinada por Leôncio José Gomes Soares.",
+  "exemplar_id": 1831,
+  "sku": "LI011I",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/le-ncio-soares--educa--o-de-jovens-e-adultos--capa--20250430--104249.jpg",
+  "contracapa": "static/uploads/le-ncio-soares--educa--o-de-jovens-e-adultos--contracapa--20250430--104249.jpg",
+  "fotos": [
+    "static/uploads/leoncio-soares--educacao-de-jovens-e-adultos--foto5--20251121--185559.jpg",
+    "static/uploads/leoncio-soares--educacao-de-jovens-e-adultos--foto6--20251121--185559.jpg",
+    "static/uploads/leoncio-soares--educacao-de-jovens-e-adultos--foto7--20251121--185559.jpg",
+    "static/uploads/leoncio-soares--educacao-de-jovens-e-adultos--foto8--20251121--185559.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. / OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:53:50",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2675,
+  "autor": "Stan Kutcher; Sonia Chehil",
+  "titulo": "Manejo do risco de suicídio",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "kutcher manejo risco suicidio",
+  "edicao_id": 2655,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 134,
+  "peso": 200,
+  "isbn": "9781405153690",
+  "editora": "Lundbeck Institute",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este manual prático oferece orientações detalhadas para profissionais de saúde sobre como identificar e manejar o risco de suicídio. Ele fornece ferramentas para reconhecer, avaliar e intervir em pacientes com tendências suicidas, abordando aspectos epidemiológicos e fatores de risco associados. O livro inclui dois roteiros de avaliação, o TASR e o SRAG, refinados a partir de experiências clínicas, que auxiliam na tomada de decisão segura e eficaz.",
+  "exemplar_id": 2654,
+  "sku": "LI01OB",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/manejo-do-risco-de-suicidio-stan-kutcher-sonia-chehil-capa_rev347.jpg",
+  "contracapa": "static/uploads/manejo-do-risco-de-suicidio-stan-kutcher-sonia-chehil-contracapa_rev1432.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel discretamente amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:37:33",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2518,
+  "autor": "H. Rider Haggard",
+  "titulo": "Ela",
+  "subtitulo": "O mistério no coração da África",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "zotz ela misterio coracao",
+  "edicao_id": 2498,
+  "encadernacao": null,
+  "quantidade_paginas": 110,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Scipione",
+  "numero_edicao": 0,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2497,
+  "sku": "LI01JY",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:03:44",
+  "observacoes": null
+}

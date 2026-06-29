@@ -1,0 +1,68 @@
+{
+  "obra_id": 1812,
+  "autor": "Luiz Marins",
+  "titulo": "Homo habilis",
+  "subtitulo": "Você como empreendedor",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Empreendedorismo. Desenvolvimento profissional. Competitividade global. Responsabilidade social. Trabalho em equipe.",
+  "palavras_chave": "marins homo habilis voce como empreendedor",
+  "edicao_id": 1792,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 310,
+  "isbn": "9788573124538",
+  "editora": "Gente",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Neste novo livro do professor Marins você encontrará todas as dicas necessárias para se tornar um empreendedor de sucesso. Para o autor, o profissional precisa se inspirar no <i>Homo habilis</i>, uma espécie pré-humana que teve grande importância na evolução do homem. \"Foi justamente nessa espécie que o processo de ampliação do cérebro ocorreu de forma verdadeiramente espetacular\", diz Marins. \"Talvez por causa de uma conexão mental avançada, ele desenvolveu uma característica excepcionalmente humana – a técnica de fazer instrumentos simples com os materiais de que dispunha, como pedras e rochas, dando a eles formas úteis.\" E é justamente essa capacidade de criar ferramentas simples e funcionais que o empreendedor moderno deve desenvolver. Ele precisa, portanto, ter a postura de um novo <i>Homo habilis</i>. Só assim transformará seus sonhos em ações e suas ações em resultado.</p><p>Dividido em três partes – \"Um mundo globalizado e louco\", \"Afinal, o que é ser empreendedor\" e \"Ninguém é empreendedor sozinho\" –, o livro trata de temas que certamente ajudarão o leitor nessa empreitada. São artigos sobre competitividade global, relações com o consumidor, economia do entretenimento, responsabilidade social, perfil do empreendedor de sucesso, trabalho em equipe e disseminação de conhecimentos.</p><p>Um livro para quem deseja vencer os desafios profissionais do início deste novo século.</p>",
+  "sinopse": "O livro apresenta dicas e reflexões para quem deseja ser um empreendedor de sucesso, inspirando-se no exemplo do Homo habilis, uma espécie pré-humana conhecida pela capacidade de criar ferramentas simples e eficientes. Com artigos sobre competitividade global, responsabilidade social, trabalho em equipe e perfil do empreendedor moderno, a obra guia o leitor a transformar sonhos em ações concretas e a enfrentar os desafios do mercado profissional contemporâneo.",
+  "exemplar_id": 1791,
+  "sku": "LI010F",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luiz-marins--homo-habilis--capa--20250430--102950.jpg",
+  "contracapa": "static/uploads/luiz-marins--homo-habilis--contracapa--20250430--102950.jpg",
+  "fotos": [
+    "static/uploads/luiz-marins--homo-habilis--foto1--20250430--102950.jpg",
+    "static/uploads/luiz-marins--homo-habilis--foto2--20250430--102950.jpg",
+    "static/uploads/luiz-marins--homo-habilis--foto3--20250430--102950.jpg",
+    "static/uploads/luiz-marins--homo-habilis--foto4--20250430--102950.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:13:19",
+  "observacoes": "procedencia_biblioteca"
+}

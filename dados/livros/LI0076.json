@@ -1,0 +1,68 @@
+{
+  "obra_id": 281,
+  "autor": "Michelle Obama",
+  "titulo": "Minha história",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "Biografias. Identidade. História.",
+  "palavras_chave": "obama minha historia",
+  "edicao_id": 275,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 2018,
+  "peso": 500,
+  "isbn": "9788547000646",
+  "editora": "Objetiva",
+  "numero_edicao": 1,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Ainda não sei muito sobre os Estados Unidos, sobre a vida, sobre o que o futuro trará. Mas eu me conheço. Meu pai, Fraser, me ensinou a trabalhar duro, rir com frequência e cumprir com a minha palavra. Minha mãe, Marian, me ensinou a pensar com a minha própria cabeça e a usar minha voz. Juntos, no nosso apartamento apertado no South Side de Chicago, eles me ajudaram a enxergar o valor da nossa história, da minha história, da história mais ampla deste país. Mesmo quando o não é bonita ou perfeita. Mesmo quando é mais real do que você gostaria que fosse. Sua história é o que você tem, o que sempre terá. É algo para se orgulhar.</p>",
+  "sinopse": "Neste relato envolvente, Michelle Obama reflete sobre sua vida e experiências, desde sua infância no South Side de Chicago até sua trajetória como primeira-dama dos Estados Unidos. Ela explora a importância da história pessoal e coletiva, destacando como sua família a ajudou a moldar sua identidade e voz, enfatizando que cada um carrega uma narrativa única que deve ser valorizada.",
+  "exemplar_id": 274,
+  "sku": "LI0076",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/michelle-obama--minha-hist-ria--capa--20250226--133815.jpg",
+  "contracapa": "static/uploads/michelle-obama--minha-hist-ria--contracapa--20250226--133815.jpg",
+  "fotos": [
+    "static/uploads/michelle-obama--minha-hist-ria--foto1--20250226--133815.jpg",
+    "static/uploads/michelle-obama--minha-hist-ria--foto2--20250226--133815.jpg",
+    "static/uploads/michelle-obama--minha-hist-ria--foto3--20250226--133815.jpg",
+    "static/uploads/michelle-obama--minha-hist-ria--foto4--20250226--133815.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:00:32",
+  "observacoes": null
+}

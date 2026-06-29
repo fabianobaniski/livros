@@ -1,0 +1,63 @@
+{
+  "obra_id": 623,
+  "autor": "João Carlos Folle",
+  "titulo": "Santidade",
+  "subtitulo": "Uma vida que agrada a Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Santidade. Vida cristã.",
+  "palavras_chave": "folle santidade vida",
+  "edicao_id": 608,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 160,
+  "peso": 280,
+  "isbn": "9788574593937",
+  "editora": "Santos",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A busca da santidade começa com uma vida intensa de oração. Não há busca de santidade sem buscar Deus.</p> <p>A ideia de viver uma vida santa em um mundo tão conturbado e injusto parece uma utopia. Será que alguém consegue chegar a esse nível? O que é preciso fazer? Quais atitudes precisamos tomar?</p> <p>Ao adotar a santidade como um estilo de vida, devemos ter em mente que isso não será possível se deixarmos as coisas acontecerem naturalmente. Há um princípio em tudo e este princípio é JESUS. Para buscar a Santidade é preciso querer ter uma vida irrepreensível diante de Deus. Para uma vida santificada existe um preço a pagar: o preço da renúncia. A santidade só é possível para aqueles que têm o Senhor Deus habitando em seu coração e para isto é necessário ter uma experiência pessoal com o Senhor Jesus Cristo.</p> <p>Deve arder no coração de cada pessoa o desejo de buscar a santificação e fazer tudo o que for preciso para continuar vivendo uma vida santificada: \"Porque esta é a vontade de Deus, a vossa santificação...\" Apóstolo Paulo aos Tessalonicenses.</p> <p>Você está apto? Quer ser separado para DEUS? Esta é a sua oportunidade para buscar e viver em SANTIDADE.</p>",
+  "sinopse": "A busca da santidade é apresentada como um estilo de vida que envolve oração e compromisso. O autor levanta perguntas sobre a viabilidade de viver uma vida santa em um mundo conturbado, enfatizando que é preciso buscar a Deus. Renúncia e a experiência pessoal com Jesus Cristo são fundamentais para alcançar a santidade, visto que o desejo de se separar para Deus é um convite à reflexão e à transformação.",
+  "exemplar_id": 607,
+  "sku": "LI00GA",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/jo-o-carlos-folle--santidade--capa--20250227--152853.jpg",
+  "contracapa": "static/uploads/jo-o-carlos-folle--santidade--contracapa--20250227--152853.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:50:57",
+  "observacoes": null
+}

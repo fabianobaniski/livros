@@ -1,0 +1,63 @@
+{
+  "obra_id": 2866,
+  "autor": "André Vinícius Tschumi",
+  "titulo": "Princípio da segurança coletiva e manutenção da paz internacional",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "",
+  "palavras_chave": "tschumi principio seguranca coletiva",
+  "edicao_id": 2846,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 311,
+  "peso": 300,
+  "isbn": "9788536216775",
+  "editora": "Juruá",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A Guerra Fria e o ataque ao Iraque em 2003 evidenciaram a incapacidade do Conselho de Segurança da ONU de agir conforme a Carta das Nações Unidas. Embora concebido para garantir a paz internacional por meio da segurança coletiva, o Conselho demonstra limitações, operando no máximo sob a legítima defesa coletiva. Este livro realiza um estudo aprofundado sobre a segurança coletiva, analisando seus antecedentes e derrubando concepções equivocadas, além de refletir sobre o Direito à Guerra no contexto das relações internacionais.",
+  "exemplar_id": 2845,
+  "sku": "LI01TM",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/principio-da-seguranca-coletiva-e-manutencao-da-paz-internacional-andre-vinicius-tschumi-capa_rev2112.jpg",
+  "contracapa": "static/uploads/principio-da-seguranca-coletiva-e-manutencao-da-paz-internacional-andre-vinicius-tschumi-contracapa_rev261.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:13:44",
+  "observacoes": null
+}

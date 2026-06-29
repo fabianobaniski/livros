@@ -1,0 +1,68 @@
+{
+  "obra_id": 65,
+  "autor": "Angie Thomas",
+  "titulo": "O ódio que você semeia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Racismo. Justiça social. Violência policial. Ativismo.",
+  "palavras_chave": "thomas odio voce semeia",
+  "edicao_id": 65,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 2020,
+  "peso": 450,
+  "isbn": "9788501110817",
+  "editora": "Galera",
+  "numero_edicao": 16,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>A JUSTIÇA É CEGA?</b></p> <p>“Maravilhoso. Um clássico de nosso tempo.”<br>— <b>John Green</b> (<i>A culpa é das estrelas</i>)</p> <p>“Esta história é necessária. Esta história é importante.”<br>— <b>Kirkus Review</b></p> <p>“Um livro que é um tapa na cara.”<br>— <b>The Horn Book</b></p> <p>“Trágico e poderoso. Um pedido final por mudança. Não vire as costas, junte-se a Starr.”<br>— <b>Adam Silvera</b> (<i>More Happy Than Not</i>)</p>",
+  "sinopse": "Starr Carter transita entre dois mundos: o bairro pobre onde mora e a escola de elite que frequenta. Quando seu melhor amigo de infância é morto por um policial, ela se vê no centro de um grande dilema social e pessoal. O que Starr disser pode transformar sua comunidade — ou destruir sua vida.",
+  "exemplar_id": 64,
+  "sku": "LI001P",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/angie-thomas--o--dio-que-voc--semeia--capa--20250225--232235.jpg",
+  "contracapa": "static/uploads/angie-thomas--o--dio-que-voc--semeia--contracapa--20250225--232235.jpg",
+  "fotos": [
+    "static/uploads/angie-thomas--o--dio-que-voc--semeia--foto1--20250225--232235.jpg",
+    "static/uploads/angie-thomas--o--dio-que-voc--semeia--foto2--20250225--232235.jpg",
+    "static/uploads/angie-thomas--o--dio-que-voc--semeia--foto3--20250225--232235.jpg",
+    "static/uploads/angie-thomas--o--dio-que-voc--semeia--foto4--20250225--232235.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:32:58",
+  "observacoes": null
+}

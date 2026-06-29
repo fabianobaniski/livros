@@ -1,0 +1,68 @@
+{
+  "obra_id": 382,
+  "autor": "Franklin Ferreira",
+  "titulo": "Agostinho de A a Z",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. História da Igreja.",
+  "palavras_chave": "franklin ferreira agostinho a z",
+  "edicao_id": 372,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 243,
+  "peso": 300,
+  "isbn": "9788573679380",
+  "editora": "Vida Acadêmica",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "Pensadores Cristãos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Pesquisar artigos e comentários sobre a obra de um pensador amplia e enriquece nossa visão. No entanto, se quisermos conhecer de forma direta e profunda suas ideias, nada melhor que ir à própria fonte!</p> <p>Esse é o objetivo de <b>Agostinho</b>, livro elaborado com citações relevantes distribuídas em mais de 130 verbetes, de <b>A a Z</b>, que fornecem uma visão abrangente da reflexão teológica deste que é considerado por muitos o maior teólogo cristão desde o apóstolo Paulo.</p> <p>Em virtude da coerência e amplitude do pensamento do teólogo norte-africano do quinto século, esta obra constituiu-se ferramenta essencial para todos os interessados em um contato mais prolongado com as fontes primárias de um pensador apaixonante. Deleite-se!</p> <p>Franklin Ferreira é membro das equipes pastorais da Igreja Presbiteriana da Barra da Tijuca e da Primeira Igreja Batista do Cosme Velho (RJ). Mestre em Teologia pelo Seminário Teológico Batista do Sul do Brasil, é professor no Seminário Teológico Servo de Cristo (SP) e no Seminário Teológico Batista do Sul (RJ). É casado com Marilene e pai de Beatriz.</p>",
+  "sinopse": "O livro 'Agostinho de A a Z' tem como objetivo fornecer citações relevantes sobre a obra de Agostinho, contribuindo para uma melhor compreensão de suas ideias. Com mais de 130 verbetes, oferece uma perspectiva abrangente da reflexão teológica que o coloca como um dos maiores teólogos cristãos, destacando sua coerência e amplitude de pensamento. Esta obra é uma ferramenta essencial para aqueles que desejam um contato mais profundo com suas fontes primárias.",
+  "exemplar_id": 371,
+  "sku": "LI009Q",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/franklin-ferreira--agostinho--capa--20250226--133824.jpg",
+  "contracapa": "static/uploads/franklin-ferreira--agostinho--contracapa--20250226--133824.jpg",
+  "fotos": [
+    "static/uploads/franklin-ferreira--agostinho--foto1--20250226--133824.jpg",
+    "static/uploads/franklin-ferreira--agostinho--foto2--20250226--133824.jpg",
+    "static/uploads/franklin-ferreira--agostinho--foto3--20250226--133824.jpg",
+    "static/uploads/franklin-ferreira--agostinho--foto4--20250226--133824.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:11:34",
+  "observacoes": null
+}

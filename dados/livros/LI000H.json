@@ -1,0 +1,68 @@
+{
+  "obra_id": 20,
+  "autor": "Bell Hooks",
+  "titulo": "E eu não sou uma mulher?",
+  "subtitulo": "Mulheres negras e feminismo",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Feminismo. Racismo. Mulheres negras. Teoria política",
+  "palavras_chave": "hooks nao sou mulher",
+  "edicao_id": 20,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 319,
+  "peso": 350,
+  "isbn": "9788501117403",
+  "editora": "Rosa dos Tempos",
+  "numero_edicao": 5,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Agora, 38 anos depois de sua publicação em 1981, <b>E eu não sou uma mulher?</b> continua sendo um trabalho radical e relevante de teoria política. hooks lança as bases de sua teoria feminista, fornecendo evidências históricas do sexismo específico que as mulheres negras escravizadas enfrentaram e como esse legado afeta a mulheridade negra hoje.\"</p><p><b>— THE NEW YORK TIMES</b></p>",
+  "sinopse": "Obra clássica de Bell Hooks que discute o feminismo negro, analisando o impacto do racismo e do sexismo na vida das mulheres negras desde a escravidão até os dias atuais.",
+  "exemplar_id": 19,
+  "sku": "LI000H",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/bell-hooks--e-eu-n-o-sou-uma-mulher---capa--20250225--163902.jpg",
+  "contracapa": "static/uploads/bell-hooks--e-eu-n-o-sou-uma-mulher---contracapa--20250225--163902.jpg",
+  "fotos": [
+    "static/uploads/bell-hooks--e-eu-n-o-sou-uma-mulher---foto1--20250225--163902.jpg",
+    "static/uploads/bell-hooks--e-eu-n-o-sou-uma-mulher---foto2--20250225--163902.jpg",
+    "static/uploads/bell-hooks--e-eu-n-o-sou-uma-mulher---foto3--20250225--163902.jpg",
+    "static/uploads/bell-hooks--e-eu-n-o-sou-uma-mulher---foto4--20250225--163902.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:46:20",
+  "observacoes": null
+}

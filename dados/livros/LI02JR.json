@@ -1,0 +1,63 @@
+{
+  "obra_id": 4757,
+  "autor": "Hiro Mashima",
+  "titulo": "Edens Zero",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Mangá. Aventura.",
+  "palavras_chave": "mashima edens zero",
+  "edicao_id": 4732,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 177,
+  "peso": 230,
+  "isbn": "9786555940503",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p>Segundo Xiao Mei, a Recitadora do Tempo, Valkyrie se encontra em Sun Jewel, o planeta das joias. Regido pela Dama Escarlate, ele é um planeta brilhante, considerado como sendo o mais pacífico do universo. Porém, enviados como criminosos à Zona de Trabalho, Shiki e Homura descobrem que, na realidade, as pessoas são perseguidas e exploradas lá!! A Dama Escarlate começa a cobiçar a Edens Zero, Lavilia ajuda Rebecca (?!) e surge uma pessoa que se diz discípulo de Valkyrie. No meio de tantas emoções, a triste \"verdade\" de sobre Homura e sua mestra é revelada!!</p> <p>EDENS ZERO é o novo mangá de sucesso de Hiro Mashima, autor de Fairy Tail.</p>",
+  "sinopse": "Valkyrie está em Sun Jewel, o planeta das joias, governado pela Dama Escarlate. Apesar de ser considerado pacífico, Shiki e Homura descobrem que as pessoas são exploradas. A Dama Escarlate deseja a Edens Zero, e novos aliados e segredos surgem enquanto a verdade sobre Homura é revelada.",
+  "exemplar_id": 4731,
+  "sku": "LI02JR",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/edens-zero__hiro-mashima__capa__2026-02-20_10-30-24-854323-000.png",
+  "contracapa": "static/uploads/edens-zero__hiro-mashima__contracapa__2026-02-20_10-30-25-039080-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, mas extremamente bem preservado: livre de marcações, assinaturas ou carimbos; sem qualquer dano físico; papel sem sinais de envelhecimento. Apresenta apenas mínimos vestígios de manuseio leve."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

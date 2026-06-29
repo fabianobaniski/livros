@@ -1,0 +1,68 @@
+{
+  "obra_id": 306,
+  "autor": "Luciano Pereira da Silva",
+  "titulo": "Para pisardes serpentes e escorpiões",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Ministérios. Relacionamento.",
+  "palavras_chave": "silva para pisardes serpentes escorpioes",
+  "edicao_id": 298,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 81,
+  "peso": 100,
+  "isbn": "",
+  "editora": "Não identificada",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Bibliografia</h1> <p>Luciano Pereira da Silva é casado com Shirley da Silva Rocha há quatorze anos e pai da Maria Fernanda de 9 anos, pastor da Igreja Metodista do Brasil há dez anos, Bacharel em Teologia pela Faculdade de Teologia da Igreja Metodista do Brasil. Tem desenvolvido um ministério na área da libertação, e pregado em várias igrejas no Brasil e a partir de 2010 residirá em Quebec City, Canadá, para ser missionário. País este que desde de 2006 tem desenvolvido um relacionamento e pregado em várias igrejas.</p>",
+  "sinopse": "",
+  "exemplar_id": 297,
+  "sku": "LI007T",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luciano-pereira-da-silva--para-pisardes--capa--20250226--133817.jpg",
+  "contracapa": "static/uploads/luciano-pereira-da-silva--para-pisardes--contracapa--20250226--133817.jpg",
+  "fotos": [
+    "static/uploads/luciano-pereira-da-silva--para-pisardes--foto1--20250226--133817.jpg",
+    "static/uploads/luciano-pereira-da-silva--para-pisardes--foto2--20250226--133817.jpg",
+    "static/uploads/luciano-pereira-da-silva--para-pisardes--foto3--20250226--133817.jpg",
+    "static/uploads/luciano-pereira-da-silva--para-pisardes--foto4--20250226--133817.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "LI007T"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:35:19",
+  "observacoes": null
+}

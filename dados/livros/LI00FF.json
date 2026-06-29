@@ -1,0 +1,63 @@
+{
+  "obra_id": 592,
+  "autor": "Odayr Olivetti",
+  "titulo": "Teologia para você",
+  "subtitulo": "Conceituação e revelação",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Religião. Filosofia.",
+  "palavras_chave": "olivetti teologia voce",
+  "edicao_id": 577,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 174,
+  "peso": 280,
+  "isbn": "9788562478246",
+  "editora": "Monergismo",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Teologia em geral é o estudo das realidades divinas e espirituais em função do universo, do homem e da igreja. É a ciência de Deus e da relação entre Deus e o universo.</p> <p>Teologia sistemática é a busca do conhecimento de Deus e de suas relações com o universo e o homem, segundo a Palavra escrita e a Palavra encarnada, e o intento de comunicá-lo à igreja e, por esta, ao mundo.</p> <p>Qualquer teologia que ouse chamar-se crista baseia-se, ou deveria basear-se, na revelação de Deus, não na filosofia ou na ciência dos homens.</p> <p>Odayr Olivetti foi capelão da Universidade Presbiteriana Mackenzie, professor do Seminário Presbiteriano do Sul e presidente e estilista da Comissão de Tradução da Nova Versão Internacional da Bíblia (NVI) e um dos seus tradutores. Por dez anos foi missionário, além de dar os primeiros passos para o estabelecimento da Obra Presbiteriana em várias cidades. É casado com Azená Valim Olivetti, tem três filhos e seis netos. Reside em Águas da Prata, São Paulo.</p>",
+  "sinopse": "A teologia é apresentada como o estudo das realidades divinas e espirituais, explorando a ciência de Deus e suas relações com o universo. A obra destaca a teologia sistemática, que busca o conhecimento de Deus através da Palavra escrita e encarnada, enfatizando a importância da revelação divina como fundamento para qualquer teologia cristã.",
+  "exemplar_id": 576,
+  "sku": "LI00FF",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/odayr-olivetti--teologia-para-voc---capa--20250227--152851.jpg",
+  "contracapa": "static/uploads/odayr-olivetti--teologia-para-voc---contracapa--20250227--152851.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:56:56",
+  "observacoes": null
+}

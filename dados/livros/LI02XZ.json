@@ -1,0 +1,63 @@
+{
+  "obra_id": 5279,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Terror. Suspense.",
+  "palavras_chave": "oshimi happiness",
+  "edicao_id": 5254,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 182,
+  "peso": 210,
+  "isbn": "9788583622017",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Houve a <b>traição</b> de Masami e o <b>desaparecimento</b> de Makoto... Passaram-se <b>10 anos</b> após aqueles <b>dias de caos</b>. <b>Yukiko</b> vivia silenciosamente, escondendo <b>seu passado e suas feridas</b>, até que começou a recuperar aos poucos o seu <b>cotidiano normal</b> graças à ajuda de seu colega de trabalho Sudô. Contudo, o <b>pesadelo</b> que a atormentava voltou a interferir em sua vida...</p>",
+  "sinopse": "Após 10 anos da traição de Masami e o desaparecimento de Makoto, Yukiko tenta retomar sua vida normal, mas o pesadelo do passado volta a interferir em sua rotina. O apoio de Sudô parece não ser suficiente para enfrentar os traumas que retornam.",
+  "exemplar_id": 5253,
+  "sku": "LI02XZ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2026-02-20_10-33-05-495610-000.png",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2026-02-20_10-33-05-531527-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

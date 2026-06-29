@@ -1,0 +1,63 @@
+{
+  "obra_id": 4925,
+  "autor": "Yu Sasuga; Ken-Ichi Tachibana",
+  "titulo": "Terra Formars",
+  "subtitulo": "21ª missão: convergindo à Terra Santa",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Invasões. Guerreiros. Defesa da pátria.",
+  "palavras_chave": "sasuga terra formars",
+  "edicao_id": 4900,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 250,
+  "isbn": "9788545711247",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 21,
+  "transcricao_contracapa": "<p>O Japão está sendo invadido pelos invasores! Para defender a pátria-mãe, guerreiros de todas as partes do país erguem seus punhos!! Paralelo a isso, Michel e seus companheiros recebem uma mensagem do general Kai, dizendo que a China está com Shokichi e eles devem ir buscá-lo!!</p>",
+  "sinopse": "O Japão está sob ataque dos invasores, e guerreiros de todo o país se unem para defender sua pátria. Michel e seus aliados recebem uma mensagem crucial do general Kai sobre Shokichi, envolvendo a China em seu destino.",
+  "exemplar_id": 4899,
+  "sku": "LI02OF",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/terra-formars__21a-missao-convergindo-a-terra-santa__yu-sasuga-ken-ichi-tachibana__capa__2026-02-20_10-31-12-218250-000.png",
+  "contracapa": "static/uploads/terra-formars__21a-missao-convergindo-a-terra-santa__yu-sasuga-ken-ichi-tachibana__contracapa__2026-02-20_10-31-12-267876-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

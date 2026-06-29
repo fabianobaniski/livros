@@ -1,0 +1,68 @@
+{
+  "obra_id": 2187,
+  "autor": "Tadeu Cruz",
+  "titulo": "Sistemas de informações gerenciais",
+  "subtitulo": "Tecnologias da informação e a empresa do século XXI",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Sistemas de informação. Tecnologia da informação. Processos organizacionais.",
+  "palavras_chave": "cruz sistemas informacoes gerenciais",
+  "edicao_id": 2167,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 267,
+  "peso": 400,
+  "isbn": "9788522435227",
+  "editora": "Atlas",
+  "numero_edicao": 3,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>SISTEMAS DE INFORMAÇÕES GERENCIAIS<br>Tecnologias da Informação e a Empresa do Século XXI</b><p>O advento dos microcomputadores disseminou a informática, a tal ponto que hoje é impossível viver sem estar em contato com Tecnologia da Informação. Das atividades mais sofisticadas às mais simples, sempre existirá um dos dois tipos de Tecnologia da Informação: a aplicada ao produto e a aplicada ao processo.</p><p>Tratando-se de sistemas de informações, ainda persiste certa dicotomia entre a necessidade que pretensamente gerou o projeto de desenvolvimento do sistema e a solução final implantada. Ou seja, ainda é muito comum haver sistemas de um lado e processo de outro, quando na verdade o sistema deveria ter sido desenvolvido para apoiar o processo, tornando-o mais organizado, documentado, ágil e produtivo.</p><p>O autor discute, entre outros pontos, duas formas de desenvolver sistemas de informação em geral, e, em particular, sistemas de informações gerenciais. São elas:</p><ul><li>a forma tradicional, que mostra ferramentas que têm por finalidade aumentar a eficácia da metodologia;</li><li>A nova forma de análise, baseada em três pontos fundamentais: a motivação estratégica, a motivação essencial e a motivação qualitativa (ISO 9000-3).</li></ul><b>NOTA SOBRE O AUTOR</b><br><p>Tadeu Cruz é graduado em Administração de Empresas e Filosofia, com especialização em Engenharia de Sistemas e em Análise & Modelagem de Processos de Negócio, e mestre em Engenharia de Produção (COPPE-UFRJ). Participou de mais de 100 cursos de extensão e especialização na Itália, França, Estados Unidos, Alemanha, Inglaterra, Argentina e México. Tem 35 anos em Tecnologia da Informação, 24 em Qualidade e Desenvolvimento Organizacional. Trabalhou em empresas nacionais e multinacionais e como consultor de Tecnologia de Informação e de Gerência de Processos e Projetos no Uruguai, Chile, Argentina, Alemanha e Estados Unidos. Professor do curso de graduação em Engenharia de Produção do Mackenzie-SP e de cursos de pós-graduação de diversas universidades, entre elas: SOCIESC-SC; SENAC-SP; PUC-MG; UNIVEM-SP, CEETEPS-SP, ACAD/EPOL-SP, Mackenzie-SP. Consultor de análise, mapeamento, modelagem, organização, implantação, gerenciamento e melhoria de processos de negócio. É sócio da AMOP Consultoria (www.amop.com.br). É membro-pesquisador do Grupo de Estudo dos Aspectos Culturais, Tecnológicos e Estruturais das Organizações para Implantação da Gestão por Processos – FEA-USP e do Laboratório de Sistemas Avançados de Gestão da Produção (SAGE) COPPE-UFRJ). Autor de 17 livros, entre os quais Sistemas, métodos & processos e Sistemas, organização & métodos, publicados pela Atlas. É coautor de Workflow handbook, 2006, editado por Layna Fischer – Workflow Management Coalition (WFMC – USA).</p><b>APLICAÇÃO</b><br><p>Livro-texto para as disciplinas ORGANIZAÇÃO E MÉTODOS, SISTEMAS ADMINISTRATIVOS, SISTEMAS DE INFORMAÇÕES GERENCIAIS E PROCESSO DECISÓRIO dos cursos de Administração de Empresas. Leitura de atualização e reciclagem profissional.</p>",
+  "sinopse": "O livro aborda a disseminação da informática e a importância da Tecnologia da Informação nos processos empresariais do século XXI, discutindo sistemas de informações gerenciais sob duas óticas: a tradicional, focada em ferramentas de metodologia, e a análise baseada na motivação estratégica, essencial e qualitativa. O autor examina o papel dos sistemas para tornar processos mais organizados, ágeis e produtivos, sendo leitura recomendada para disciplinas de administração e atualização profissional.",
+  "exemplar_id": 2166,
+  "sku": "LI01AS",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/tadeu-cruz--sistemas-de-informa--es-gerenciais--capa--20250430--105054.jpg",
+  "contracapa": "static/uploads/tadeu-cruz--sistemas-de-informa--es-gerenciais--contracapa--20250430--105054.jpg",
+  "fotos": [
+    "static/uploads/tadeu-cruz--sistemas-de-informa--es-gerenciais--foto1--20250430--105054.jpg",
+    "static/uploads/tadeu-cruz--sistemas-de-informa--es-gerenciais--foto2--20250430--105054.jpg",
+    "static/uploads/tadeu-cruz--sistemas-de-informa--es-gerenciais--foto3--20250430--105054.jpg",
+    "static/uploads/tadeu-cruz--sistemas-de-informa--es-gerenciais--foto4--20250430--105054.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:30:36",
+  "observacoes": "procedencia_biblioteca"
+}

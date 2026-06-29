@@ -1,0 +1,68 @@
+{
+  "obra_id": 67,
+  "autor": "Jamie McGuire",
+  "titulo": "Desastre iminente",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Jovem adulto. Relações amorosas. Drama.",
+  "palavras_chave": "mcguire desastre iminente",
+  "edicao_id": 67,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 405,
+  "peso": 400,
+  "isbn": "9788576862550",
+  "editora": "Verus",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Toda história tem dois lados. Em <i>Belo desastre</i>, Abby disse o que pensava. Agora chegou a hora de conhecer os fatos pelos olhos de Travis.</p><p>Travis perdeu a mãe muito cedo, mas, antes de morrer, ela lhe ensinou duas regras de vida: ame muito, lute mais ainda.</p><p>Tendo crescido em uma família de homens que gostam de jogos e lutas, Travis Maddox é um cara durão. Musculoso e tatuado, bad boy até o último fio de cabelo, ele leva uma mulher diferente para casa a cada noite. Até conhecer Abby Abernathy...</p><p>Determinada a se manter longe de problemas, Abby resiste com todas as forças ao charme de Travis, sem saber que assim só o deixa mais determinado a conquistá-la.</p><p>Será que o invencível Travis \"Cachorro Louco\" Maddox vai ser derrotado por uma garota?</p>",
+  "sinopse": "Narrado pelo ponto de vista de Travis Maddox, 'Desastre iminente' apresenta os eventos de 'Belo desastre' sob uma nova perspectiva. Travis, um bad boy durão e acostumado a conquistas fáceis, vê sua vida virar de cabeça para baixo ao conhecer Abby Abernathy. Determinada a evitar problemas, Abby resiste ao charme de Travis, mas isso apenas o motiva ainda mais a conquistá-la.",
+  "exemplar_id": 66,
+  "sku": "LI001R",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/jamie-mcguire--desastre-iminente--capa--20250225--232326.jpg",
+  "contracapa": "static/uploads/jamie-mcguire--desastre-iminente--contracapa--20250225--232326.jpg",
+  "fotos": [
+    "static/uploads/jamie-mcguire--desastre-iminente--foto1--20250225--232326.jpg",
+    "static/uploads/jamie-mcguire--desastre-iminente--foto2--20250225--232326.jpg",
+    "static/uploads/jamie-mcguire--desastre-iminente--foto3--20250225--232326.jpg",
+    "static/uploads/jamie-mcguire--desastre-iminente--foto4--20250225--232326.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:40:33",
+  "observacoes": null
+}

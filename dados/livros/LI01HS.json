@@ -1,0 +1,63 @@
+{
+  "obra_id": 2440,
+  "autor": "Salvador Dali; André Parinaud",
+  "titulo": "Como me tornei Dali",
+  "subtitulo": "As confissões inconfessáveis de Salvador Dali",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "como tornei dali",
+  "edicao_id": 2420,
+  "encadernacao": null,
+  "quantidade_paginas": 399,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Meridianos Futura",
+  "numero_edicao": null,
+  "ano": 1975,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro revela o fascínio do fenômeno Salvador Dalí, combinando sua genialidade artística com uma mente intelectual e psicológica prodigiosa. Com 33 desenhos originais feitos à pena, Dalí ilustra aspectos de sua vida e confia sua história a André Parinaud, jornalista com quem desenvolveu uma longa amizade. O livro traz confissões íntimas e enigmas da mente de Dalí, desvendando símbolos e temas recorrentes em sua obra. É um mergulho profundo na mente do artista, conduzindo o leitor às origens do universo surrealista de Dalí.",
+  "exemplar_id": 2419,
+  "sku": "LI01HS",
+  "preco_estante_virtual": 90.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/salvador-dali--como-me-tornei-dali--capa--20260316--185222.jpg",
+  "contracapa": "static/uploads/salvador-dali--como-me-tornei-dali--contracapa--20260316--185222.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição publicada em Portugal. Livro bastante amarelado pelo tempo, com leves sinais de uso, mas em bom estado para leitura e manuseio. Texto livre de grifos e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:49:56",
+  "observacoes": null
+}

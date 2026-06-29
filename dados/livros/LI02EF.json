@@ -1,0 +1,68 @@
+{
+  "obra_id": 3620,
+  "autor": "Charles Dickens",
+  "titulo": "As aventuras do Sr Pickwick",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "dickens aventuras pickwick",
+  "edicao_id": 3597,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 589,
+  "peso": 670,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra acompanha as cômicas viagens do benevolente Samuel Pickwick e seus companheiros de clube pelo interior da Inglaterra, descrevendo com humor e sátira social as peculiaridades da vida britânica, as injustiças do sistema jurídico e a lealdade inabalável de seu fiel criado Sam Weller.",
+  "exemplar_id": 3596,
+  "sku": "LI02EF",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/charles-dickens--as-aventuras-do-sr-pickwick--capa--20251114--180728.png",
+  "contracapa": "static/uploads/charles-dickens--as-aventuras-do-sr-pickwick--contracapa--20251114--180735.png",
+  "fotos": [
+    "static/uploads/charles-dickens--as-aventuras-do-sr-pickwick--foto1--20251113--192329.jpg",
+    "static/uploads/charles-dickens--as-aventuras-do-sr-pickwick--foto2--20251113--192329.jpg",
+    "static/uploads/charles-dickens--as-aventuras-do-sr-pickwick--foto3--20251113--192329.jpg",
+    "static/uploads/charles-dickens--as-aventuras-do-sr-pickwick--foto4--20251113--192329.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:18:47",
+  "observacoes": null
+}

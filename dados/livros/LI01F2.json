@@ -1,0 +1,63 @@
+{
+  "obra_id": 2341,
+  "autor": "Georges Beau",
+  "titulo": "A medicina chinesa",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Medicina",
+  "temas": "",
+  "palavras_chave": "beau medicina chinesa",
+  "edicao_id": 2321,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 338,
+  "isbn": "9788427000568",
+  "editora": "Interciência",
+  "numero_edicao": null,
+  "ano": 1982,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A medicina chinesa está ligada a toda uma filosofia, a uma concepção do mundo afora da qual perde toda a significação. para os chineses, o homem é um pequeno universo. estudar a medicina chinesa é compreender melhor o pensamento chinês, penetrar nas estruturas mentais que, mais do que estrangeiras, nos são antagônicas.",
+  "exemplar_id": 2320,
+  "sku": "LI01F2",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/georges-beau--a-medicina-chinesa--capa--20260316--100800.jpg",
+  "contracapa": "static/uploads/georges-beau--a-medicina-chinesa--contracapa--20260316--100806.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:33:47",
+  "observacoes": null
+}

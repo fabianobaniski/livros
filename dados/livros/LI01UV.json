@@ -1,0 +1,63 @@
+{
+  "obra_id": 2911,
+  "autor": "Justin Richardson; Mark A. Schuster",
+  "titulo": "Sobre sexo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sexualidade",
+  "temas": "",
+  "palavras_chave": "schuster sobre sexo",
+  "edicao_id": 2891,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 349,
+  "peso": 300,
+  "isbn": "9788529301396",
+  "editora": "De Cultura",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Quando os filhos começam a demonstrar curiosidade sobre sexo, muitos pais se sentem inseguros e sem saber como abordar o tema. Com uma linguagem acessível e sem tabus, o livro oferece orientações claras para que os adultos possam educar seus filhos sobre sexualidade de maneira saudável. Ele explora as dúvidas mais comuns dos adolescentes e ajuda os pais a responderem com honestidade e confiança, preparando-os para lidar com as questões que inevitavelmente surgem durante essa fase da vida.",
+  "exemplar_id": 2890,
+  "sku": "LI01UV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sobre-sexo-justin-richardson-e-mark-a-schuster-capa_rev2047.jpg",
+  "contracapa": "static/uploads/sobre-sexo-justin-richardson-e-mark-a-schuster-contracapa_rev1228.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:33:24",
+  "observacoes": null
+}

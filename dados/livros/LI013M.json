@@ -1,0 +1,68 @@
+{
+  "obra_id": 1928,
+  "autor": "João Batista de Almeida",
+  "titulo": "Manual de direito do consumidor",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Direito do consumidor. Resumo jurídico.",
+  "palavras_chave": "almeida manual direito consumidor",
+  "edicao_id": 1908,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 227,
+  "peso": 340,
+  "isbn": "9788502071063",
+  "editora": "Saraiva",
+  "numero_edicao": 3,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"(...) Nos dias de hoje, as pessoas devem racionalizar o uso do tempo e a quantidade de informações que diariamente recebem, de modo a assimilar o maior volume daquilo que lhes é verdadeiramente útil no menor tempo possível.<br><br>Pensando nisso, e atendo a algumas sugestões, lancei-me à tarefa de produzir um resumo de Direito do Consumidor, analisando o conteúdo essencial dessa disciplina, de forma dinâmica e descomplicada. Para atingir esse intento, evitei os longos debates doutrinários. Algumas transcrições foram mantidas porque são necessárias à compreensão do tema. A jurisprudência, a seu turno, foi citada com parcimônia\".</p><p>Trecho da Apresentação do Autor</p>",
+  "sinopse": "Este livro apresenta um resumo dinâmico e descomplicado de Direito do Consumidor, focando nos conteúdos essenciais da disciplina. O autor evita longos debates doutrinários e mantém apenas as transcrições essenciais à compreensão, utilizando a jurisprudência de forma parcimoniosa, para oferecer ao leitor um estudo útil e objetivo em pouco tempo.",
+  "exemplar_id": 1907,
+  "sku": "LI013M",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jo-o-batista-de-almeida--manual-de-direito-do-consumidor--capa--20250430--104302.jpg",
+  "contracapa": "static/uploads/jo-o-batista-de-almeida--manual-de-direito-do-consumidor--contracapa--20250430--104302.jpg",
+  "fotos": [
+    "static/uploads/jo-o-batista-de-almeida--manual-de-direito-do-consumidor--foto1--20250430--104302.jpg",
+    "static/uploads/jo-o-batista-de-almeida--manual-de-direito-do-consumidor--foto2--20250430--104302.jpg",
+    "static/uploads/jo-o-batista-de-almeida--manual-de-direito-do-consumidor--foto3--20250430--104302.jpg",
+    "static/uploads/jo-o-batista-de-almeida--manual-de-direito-do-consumidor--foto4--20250430--104302.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:38:11",
+  "observacoes": "procedencia_biblioteca"
+}

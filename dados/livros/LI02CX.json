@@ -1,0 +1,68 @@
+{
+  "obra_id": 3566,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá. Terror. Suspense.",
+  "palavras_chave": "oshimi happiness",
+  "edicao_id": 3543,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788583622000",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>Nora e Makoto são alvos de uma rajada de tiros. Qual será o destino dos dois que foram atacados por um grupo armado misterioso?</p> <p>Yukiko, junto com Masami, vai atrás do Yuuki que havia se desesperado por ter matado a Nao, mas...</p> <p>O cotidiano deles está prestes a enfrentar um novo caos.</p>",
+  "sinopse": "Nora e Makoto são surpreendidos por uma violenta rajada de tiros disparada por um grupo armado misterioso, colocando seus destinos em risco. Enquanto isso, Yukiko e Masami partem em busca de Yuuki, que está desesperado após ter matado Nao. Agora, o cotidiano de todos está ameaçado por um novo caos que se aproxima.",
+  "exemplar_id": 3542,
+  "sku": "LI02CX",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2025-11-05_16-16-43-480647.jpg",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2025-11-05_16-16-43-525513.jpg",
+  "fotos": [
+    "static/uploads/happiness__shuzo-oshimi__foto-01__2025-11-05_16-16-43-549048.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-02__2025-11-05_16-16-43-582603.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-03__2025-11-05_16-16-43-611624.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-04__2025-11-05_16-16-43-639394.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:45:50",
+  "observacoes": null
+}

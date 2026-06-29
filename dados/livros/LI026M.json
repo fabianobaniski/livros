@@ -1,0 +1,68 @@
+{
+  "obra_id": 3339,
+  "autor": "Junya Inoue",
+  "titulo": "Btooom!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Jogos de sobrevivência. Estratégia. Conflitos psicológicos.",
+  "palavras_chave": "inoue btooom",
+  "edicao_id": 3316,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 170,
+  "isbn": "9788545700463",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 17,
+  "transcricao_contracapa": "<p>Ryota Sakamoto é um jovem desempregado que passa o dia todo jogando online. Um dia, ele acorda em uma ilha deserta em uma versão real de “Btooom!”. Para sobreviver, deverá derrotar outros participantes nessa disputa mortal.</p><p>Uma alteração nas regras muda completamente o modo como os jogadores se comportam dentro da ilha. Nestas novas condições, Ryota e os outros terão que escolher em quem depositar sua fé... De qual lado virá o próximo ataque?</p>",
+  "sinopse": "Ryota Sakamoto é um jovem desempregado que se vê preso em uma ilha deserta, forçado a lutar por sua sobrevivência em uma versão real do jogo online Btooom!. Uma mudança drástica nas regras altera o comportamento dos jogadores, exigindo que Ryota e os demais escolham com cuidado em quem confiar. A cada momento, uma nova ameaça pode surgir e a lealdade é colocada à prova enquanto todos lutam para escapar com vida dessa disputa mortal.",
+  "exemplar_id": 3315,
+  "sku": "LI026M",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/btooom__junya-inoue__capa__2025-11-05_16-25-29-276688.jpg",
+  "contracapa": "static/uploads/btooom__junya-inoue__contracapa__2025-11-05_16-25-29-312123.jpg",
+  "fotos": [
+    "static/uploads/btooom__junya-inoue__foto-01__2025-11-05_16-25-29-344992.jpg",
+    "static/uploads/btooom__junya-inoue__foto-02__2025-11-05_16-25-29-370451.jpg",
+    "static/uploads/btooom__junya-inoue__foto-03__2025-11-05_16-25-29-399821.jpg",
+    "static/uploads/btooom__junya-inoue__foto-04__2025-11-05_16-25-29-455008.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 12:56:32",
+  "observacoes": null
+}

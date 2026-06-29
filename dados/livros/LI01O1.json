@@ -1,0 +1,63 @@
+{
+  "obra_id": 2665,
+  "autor": "M. Susan Roberts",
+  "titulo": "Living without procrastination",
+  "subtitulo": "How to stop postponing your life",
+  "idioma": "Inglês",
+  "categoria": "Comportamento",
+  "temas": "",
+  "palavras_chave": "roberts living without procrastination",
+  "edicao_id": 2645,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 152,
+  "peso": 300,
+  "isbn": "9781572240261",
+  "editora": "New Harbinger Publications",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Living Without Procrastination é um guia interativo que ajuda os leitores a entender por que procrastinam e como superar esse hábito. Com exemplos práticos, exercícios de autoavaliação e técnicas passo a passo, o livro ensina a identificar o estilo de procrastinação de cada pessoa e a reverter comportamentos improdutivos. Além disso, oferece estratégias específicas para lidar com a procrastinação no estudo, trabalho e vida doméstica, promovendo um novo senso de propósito. Baseado em técnicas comprovadas, é uma ferramenta valiosa para auto-motivação e mudança de hábitos.",
+  "exemplar_id": 2644,
+  "sku": "LI01O1",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/living-without-procrastination-m-susan-roberts-capa_rev19.jpg",
+  "contracapa": "static/uploads/living-without-procrastination-m-susan-roberts-contracapa_rev394.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:32:29",
+  "observacoes": null
+}

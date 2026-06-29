@@ -1,0 +1,68 @@
+{
+  "obra_id": 3413,
+  "autor": "Hiroya Oku",
+  "titulo": "Inuyashiki",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos japoneses. Drama. Ficção científica.",
+  "palavras_chave": "oku inuyashiki",
+  "edicao_id": 3390,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "9788542607390",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p><b>ICHIRO INUYASHIKI</b> tem apenas 58 anos, mas aparenta ser muito mais velho. Ele é constantemente desrespeitado por sua família e descobriu que tem câncer terminal. Não tem motivo algum para continuar vivendo. Esta é uma história que poderia se encerrar aqui, mas, na verdade, está só começando.</p>",
+  "sinopse": "Ichiro Inuyashiki, um homem de 58 anos que aparenta ser ainda mais velho, é constantemente desrespeitado pela própria família e descobre que tem câncer terminal. Sem motivação para continuar, sua história parecia estar no fim, mas, na verdade, está apenas começando.",
+  "exemplar_id": 3389,
+  "sku": "LI028O",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/inuyashiki__hiroya-oku__capa__2025-11-05_16-15-04-730477.jpg",
+  "contracapa": "static/uploads/inuyashiki__hiroya-oku__contracapa__2025-11-05_16-15-04-767463.jpg",
+  "fotos": [
+    "static/uploads/inuyashiki__hiroya-oku__foto-01__2025-11-05_16-15-04-853266.jpg",
+    "static/uploads/inuyashiki__hiroya-oku__foto-02__2025-11-05_16-15-04-923177.jpg",
+    "static/uploads/inuyashiki__hiroya-oku__foto-03__2025-11-05_16-15-05-108709.jpg",
+    "static/uploads/inuyashiki__hiroya-oku__foto-04__2025-11-05_16-15-05-219280.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:09:41",
+  "observacoes": null
+}

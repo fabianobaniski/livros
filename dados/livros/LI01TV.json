@@ -1,0 +1,63 @@
+{
+  "obra_id": 2875,
+  "autor": "M. Y. Han",
+  "titulo": "Quarks and gluons",
+  "subtitulo": "A century of particle charges",
+  "idioma": "Inglês",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "han quarks and gluons",
+  "edicao_id": 2855,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 158,
+  "peso": 300,
+  "isbn": "9789810237455",
+  "editora": "World Scientific",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora a busca pela origem da matéria e do universo, levando o leitor por uma jornada desde o nível atômico até os quarks e glúons, as menores partículas conhecidas. Ao longo de cem anos de descobertas em física, a obra aborda marcos como os elétrons, núcleos atômicos e forças fundamentais, explicando a importância dos cromofórons e cargas conservadas. Escrito de forma acessível tanto para leigos quanto para especialistas, o livro oferece uma visão profunda sobre os desenvolvimentos da física moderna, destacando as simetrias e princípios que regem as partículas subatômicas.",
+  "exemplar_id": 2854,
+  "sku": "LI01TV",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/quarks-and-gluons-m-y-han-capa_rev411.jpg",
+  "contracapa": "static/uploads/quarks-and-gluons-m-y-han-contracapa_rev35.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora levemente marcado pelo uso. Infelizmente possui grifos em cerca de 20 a 30 por cento das folhas (à lápis e caneta)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:22:34",
+  "observacoes": null
+}

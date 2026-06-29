@@ -1,0 +1,63 @@
+{
+  "obra_id": 5641,
+  "autor": "Makoto Raiku",
+  "titulo": "Gash Bell!!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Fantasia. Amizade. Superação.",
+  "palavras_chave": "raiku gash bell",
+  "edicao_id": 5616,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 380,
+  "peso": 530,
+  "isbn": "9786599866128",
+  "editora": "MPEG",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Com crianças Mamodos se unem em duplas com humanos para duelarem entre si e, assim, definirem quem será o rei do Makai, o Mundo dos Demônios. Kiyomaro, um jovem que sofre bullying por ter uma inteligência acima da média, se depara com Gash, que entra pelado pela janela de seu quarto. E é dessa forma que a jornada da amizade, luta e evolução dos dois começa!</p> <p><b>QUE COMECEM AS BATALHAS!!</b></p>",
+  "sinopse": "Crianças Mamodos se unem a humanos para duelar e definir quem será o rei do Makai. Kiyomaro, vítima de bullying por sua inteligência, encontra Gash, que invade seu quarto, iniciando uma jornada de amizade e batalhas.",
+  "exemplar_id": 5615,
+  "sku": "LI031U",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/gash-bell__makoto-raiku__capa__2026-02-24_13-36-44-512340-000.jpg",
+  "contracapa": "static/uploads/gash-bell__makoto-raiku__contracapa__2026-02-24_13-36-44-548635-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

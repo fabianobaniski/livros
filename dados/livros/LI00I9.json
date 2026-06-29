@@ -1,0 +1,68 @@
+{
+  "obra_id": 694,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "2 Coríntios",
+  "subtitulo": "O triunfo de um homem de Deus diante das dificuldades",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Liderança. Igreja. Aflições.",
+  "palavras_chave": "lopes 2corintios triunfo homem deus",
+  "edicao_id": 679,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 295,
+  "peso": 400,
+  "isbn": "9788577420438",
+  "editora": "Hagnos",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em segunda aos coríntios o apóstolo conta suas lutas mais renhidas e suas aflições mais agonicas. Nenhum outro livro do Novo Testamento retrata uma angústia emocional, física, e espiritual com tanta profundidade e amplitude.</p><p>Paulo escreveu essa carta para falar das suas aflições e da necessidade da igreja perdoar e restaurar o membro incestuoso que tumultuava a congregação e liderava a oposição ao seu ministério em Corinto. Ela está cheia, do começo ao fim, de sofrimento que se transforma em júbilo, fraqueza que se transforma em força e derrota que se transforma em triunfo.</p><p>2Coríntios nos dá coragem para vencer o desânimo. Dás-nos incentivo para repartir livremente com os outros e nos lembra que devemos buscar forças em Cristo. A fonte do consolo é esta gloriosa verdade: “A minha graça te basta, porque o poder se aperfeiçoa na fraqueza.”</p>",
+  "sinopse": "O livro de 2Coríntios revela as lutas do apóstolo Paulo, que compartilha suas aflições, desafios e a necessidade de restauração da igreja. Ele expõe a profundidade do sofrimento, que se transforma em júbilo, incentivando a coragem frente ao desânimo e lembrando que a força vem de Cristo. A obra destaca a ideia de que a graça é suficiente, mesmo nas fraquezas.",
+  "exemplar_id": 678,
+  "sku": "LI00I9",
+  "preco_estante_virtual": 32.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/hernandes-dias-lopes--2cor-ntios--capa--20250227--152858.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--2cor-ntios--contracapa--20250227--152858.jpg",
+  "fotos": [
+    "static/uploads/hernandes-dias-lopes--2corintios--foto1--20251020--203918.jpg",
+    "static/uploads/hernandes-dias-lopes--2corintios--foto2--20251020--203918.jpg",
+    "static/uploads/hernandes-dias-lopes--2corintios--foto3--20251020--203918.jpg",
+    "static/uploads/hernandes-dias-lopes--2corintios--foto4--20251020--203918.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:02:37",
+  "observacoes": null
+}

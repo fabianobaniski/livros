@@ -1,0 +1,63 @@
+{
+  "obra_id": 2399,
+  "autor": "Marcelo Rubens Paiva",
+  "titulo": "Bala na Agulha",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "paiva bala agulha",
+  "edicao_id": 2379,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 203,
+  "peso": 293,
+  "isbn": "9788526705241",
+  "editora": "Siciliano",
+  "numero_edicao": null,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2378,
+  "sku": "LI01GO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/marcelo-rubens-paiva--bala-na-agulha--capa--20260316--170858.jpg",
+  "contracapa": "static/uploads/marcelo-rubens-paiva--bala-na-agulha--contracapa--20260316--170905.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação, apesar do livro estar um pouco amarelado pela passagem dos anos. Texto à salvo de anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:53:09",
+  "observacoes": null
+}

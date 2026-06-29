@@ -1,0 +1,63 @@
+{
+  "obra_id": 791,
+  "autor": "Paulo Ferreira",
+  "titulo": "A Reforma em quatro tempos",
+  "subtitulo": "Desdobramentos na Europa e no Brasil",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. História da Igreja. Movimento Protestante.",
+  "palavras_chave": "ferreira reforma quatro tempos",
+  "edicao_id": 776,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 111,
+  "peso": 200,
+  "isbn": "9788526314597",
+  "editora": "CPAD",
+  "numero_edicao": 1,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Reforma Protestante foi o motor que conduziu a Alemanha e diversos países da Europa à liberdade religiosa, social, política, cultural e econômica, podendo, sua influência alcançou todo o globo, inclusive o Brasil. Esta obra, ao mesmo tempo sucinta e abrangente, traça uma linha direta entre a Reforma e a atualidade da igreja brasileira.</p> <p>Um trabalho literário digno de ser recomendado para quem deseja, em pouco tempo, conhecer o que foi a Reforma Protestante do século XVI. O autor aborda os antecedentes do movimento, sua explosão, reflexos, chegada ao Brasil, e o pentecostalismo e o ativismo cristão mostrando os inúmeros reflexos desse movimento de caráter religioso que teve impacto notável sobre o pensamento cristão.</p> <p>O livro é ainda enriquecido com apêndices com as 95 teses de Lutero, os perigos do extremismo ecológico, entre outros temas.</p>",
+  "sinopse": "A Reforma em Quatro Tempos oferece uma análise da influência da Reforma Protestante na liberdade religiosa e social na Europa e no Brasil. O autor, Paulo Ferreira, examina os antecedentes do movimento, seus reflexos ao chegar ao Brasil e a relação com o pentecostalismo contemporâneo. A obra, rica em referências históricas, proporciona uma visão abrangente do impacto da Reforma na atualidade da igreja brasileira.",
+  "exemplar_id": 775,
+  "sku": "LI00KY",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/paulo-ferreira--a-reforma-em-quatro-tempos--capa--20250227--152904.jpg",
+  "contracapa": "static/uploads/paulo-ferreira--a-reforma-em-quatro-tempos--contracapa--20250227--152904.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:38:55",
+  "observacoes": null
+}

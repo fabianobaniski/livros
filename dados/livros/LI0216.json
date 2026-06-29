@@ -1,0 +1,63 @@
+{
+  "obra_id": 3138,
+  "autor": "Norbert Elias",
+  "titulo": "Mozart, Sociologia de um Gênio",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": null,
+  "palavras_chave": "elias mozart sociologia genio",
+  "edicao_id": 3118,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 150,
+  "peso": 250,
+  "isbn": "9788571103023",
+  "editora": "Jorge Zahar Editor",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Norbert Elias, um dos maiores pensadores sociais, aplica sua análise sociológica à vida e obra de Wolfgang Amadeus Mozart. Neste estudo, Elias explora o conflito entre a criatividade e as pressões sociais que tentam controlá-la, oferecendo uma visão profunda sobre o contexto social em que Mozart viveu e produziu suas obras. A obra é uma valiosa contribuição para estudiosos de sociologia, história europeia e música, revelando as tensões entre genialidade artística e a sociedade de sua época.",
+  "exemplar_id": 3117,
+  "sku": "LI0216",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em boas condições de leitura e manuseio, embora bastante amarelado e com desgastes, principalmente na lombada, que também está um pouco inclinada à direita. Não possui anotações, sublinhados, marcas de umidade, mofo, traça ou exposição excessiva ao sol."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:10:12",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

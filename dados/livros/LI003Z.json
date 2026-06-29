@@ -1,0 +1,68 @@
+{
+  "obra_id": 161,
+  "autor": "Mario Sergio Cortella",
+  "titulo": "Não nascemos prontos!",
+  "subtitulo": "Provocações filosóficas",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Reflexões sobre a vida. Crítica social.",
+  "palavras_chave": "cortella nascemos prontos ",
+  "edicao_id": 157,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 134,
+  "peso": 250,
+  "isbn": "9788532632869",
+  "editora": "Vozes",
+  "numero_edicao": 19,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Sumário</h1> <ul><li>Não nascemos prontos!</li><li>Está faltando espanto!</li><li>Cuidado com a tacocracia...</li><li>O naufrágio de muitos internautas</li><li>Memória fugaz, história veloz</li><li>Nada do que é humano me é estranho?</li><li>Descanse em paz?</li><li>O futuro saqueado</li><li>Memórias de Marguerite...</li><li>A mídia como corpo docente</li><li>Saudável loucura</li><li>Antropolia arrogante</li><li>Dinheiro, pra que dinheiro?</li><li>Se você parar para pensar...</li><li>Enquanto há vida...</li><li>A ambígua solidão</li><li>O triunfo da morbidez?</li><li>Quem avisa amigo é...</li><li>A ameaçadora consciência letárgica</li><li>A resignação como cumplicidade</li><li>Os dentes do tempo</li><li>Janus à espreita</li><li>Saudar nostalgia</li><li>Quiproquó</li><li>Douradas pílulas</li><li>Vergonhas amargas</li><li>Humana armadilha</li><li>Sábia consciência</li><li>Destino, um confortável desejo</li><li>Alegria: as bruxas continuam soltas...</li><li>Um persistente cio</li></ul>",
+  "sinopse": "Neste livro, Mario Sergio Cortella propõe reflexões profundas sobre a condição humana e a sociedade contemporânea. Abordando temas como a falta de espanto diante da realidade, a influência da mídia e a questão do dinheiro, o autor nos convida a pensar sobre nossa existência e o que significa viver plenamente. Com uma narrativa instigante, Cortella nos leva a explorar memórias, sentimentos e questões filosóficas que nos provocam a uma busca interna e social.",
+  "exemplar_id": 156,
+  "sku": "LI003Z",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/mario-sergio-cortella--n-o-nascemos-prontos---capa--20250226--133800.jpg",
+  "contracapa": "static/uploads/mario-sergio-cortella--n-o-nascemos-prontos---contracapa--20250226--133800.jpg",
+  "fotos": [
+    "static/uploads/mario-sergio-cortella--n-o-nascemos-prontos---foto1--20250226--133800.jpg",
+    "static/uploads/mario-sergio-cortella--n-o-nascemos-prontos---foto2--20250226--133800.jpg",
+    "static/uploads/mario-sergio-cortella--n-o-nascemos-prontos---foto3--20250226--133800.jpg",
+    "static/uploads/mario-sergio-cortella--n-o-nascemos-prontos---foto4--20250226--133800.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:15:53",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 314,
+  "autor": "Rainbow Rowell",
+  "titulo": "Eleanor & Park ",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura romântica. Adolescência. Aceitação.",
+  "palavras_chave": "rowell eleanor park",
+  "edicao_id": 305,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 325,
+  "peso": 330,
+  "isbn": "9788542801255",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Uma linda e perturbadora história de amor.</p> <p>John Green, autor de A culpa é das estrelas</p> <p>Esse romance inteligente e sexy ressoa punk rock e amor verdadeiro.</p> <p>Gayle Forman, autora de Se eu ficar</p> <p>Uma leitura ótima e dolorosa sobre amor e outsiders.</p> <p>Stephanie Perkins, autora de Anna e o beijo francês</p> <p>Divertido, cheio de esperança, sexy e boca suja, esse romance cativará tanto jovens como adultos.</p> <p>Kirkus</p> <p>Rowell mantém um enredo surpreendente, e o final - imperfeito e verossímil - mantém o romance em um delicado equilíbrio entre a luz e a escuridão.</p> <p>Publishers Weekly</p> <p>A relação pura e madura que Eleanor e Park desenvolvem é de tirar o fôlego e despedaçar o coração.</p> <p>Booklist</p> <p>Um retrato sincero e emocionante de um amor imperfeito, mas inesquecível.</p> <p>The Horn Book</p>",
+  "sinopse": "eleanor & park é uma linda e perturbadora história de amor que explora a relação pura e madura entre os protagonistas, tocando em temas como amor e aceitação. A narrativa se destaca por seu enredo surpreendente e por se manter em um delicado equilíbrio entre a luz e a escuridão, cativando jovens e adultos com sua sinceridade e emoção.",
+  "exemplar_id": 304,
+  "sku": "LI0080",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/rainbow-rowell--eleanor---park--capa--20250226--133818.jpg",
+  "contracapa": "static/uploads/rainbow-rowell--eleanor---park--contracapa--20250226--133818.jpg",
+  "fotos": [
+    "static/uploads/rainbow-rowell--eleanor---park--foto1--20250226--133818.jpg",
+    "static/uploads/rainbow-rowell--eleanor---park--foto2--20250226--133818.jpg",
+    "static/uploads/rainbow-rowell--eleanor---park--foto3--20250226--133818.jpg",
+    "static/uploads/rainbow-rowell--eleanor---park--foto4--20250226--133818.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:04:02",
+  "observacoes": null
+}

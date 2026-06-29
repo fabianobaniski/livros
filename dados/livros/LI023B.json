@@ -1,0 +1,63 @@
+{
+  "obra_id": 3215,
+  "autor": "Daniel J. Weinfurter",
+  "titulo": "Startup",
+  "subtitulo": "Próximo Passo",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": null,
+  "palavras_chave": "weinfurter startup proximo passo",
+  "edicao_id": 3195,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 240,
+  "peso": 380,
+  "isbn": "9788576803119",
+  "editora": "M. Books",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Voltado para empreendedores que buscam superar os desafios do crescimento, este livro oferece um guia prático e completo para transformar empresas iniciantes em negócios bem-sucedidos. Com conselhos diretos, soluções reais e um modelo estruturado, a obra ensina como enfrentar a competitividade, explorar recursos estratégicos e alcançar resultados significativos em meio à incerteza econômica. Ideal para líderes que desejam expandir e consolidar suas empresas, é uma leitura essencial para atingir novos patamares de sucesso.",
+  "exemplar_id": 3194,
+  "sku": "LI023B",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:37:08",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

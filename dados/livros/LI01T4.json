@@ -1,0 +1,63 @@
+{
+  "obra_id": 2848,
+  "autor": "Norbert Dufourcq",
+  "titulo": "Pequena história da Música",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Música",
+  "temas": "",
+  "palavras_chave": "dufourcq pequena historia musica",
+  "edicao_id": 2828,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 231,
+  "peso": 300,
+  "isbn": "9789724408774",
+  "editora": "Edições 70",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra oferece uma visão abrangente da evolução da música na Europa, desde a Antiguidade até a contemporaneidade, abordando as transformações ocorridas ao longo dos séculos. O autor busca explicar as principais correntes musicais, destacando compositores e movimentos que moldaram a história da música ocidental. Com uma linguagem acessível, a obra é ideal tanto para estudantes quanto para apreciadores que desejam entender o desenvolvimento dessa arte, sem deixar de lado as contribuições mais significativas da música clássica e moderna.",
+  "exemplar_id": 2827,
+  "sku": "LI01T4",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/pequena-historia-da-musica-norbert-dufourcq-capa_rev457.jpg",
+  "contracapa": "static/uploads/pequena-historia-da-musica-norbert-dufourcq-contracapa_rev2190.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel um pouco amarelado pelo tempo e com dois furinhos de traça que vão da contracapa à página 197."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:58:20",
+  "observacoes": null
+}

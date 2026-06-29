@@ -1,0 +1,68 @@
+{
+  "obra_id": 28,
+  "autor": "Felipe Miranda; Ricardo Mioto",
+  "titulo": "Princípios do estrategista",
+  "subtitulo": "O bom investidor e o caminho para a riqueza",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Finanças. Investimentos. Mercado financeiro. Estratégia",
+  "palavras_chave": "miranda mioto principios estrategista",
+  "edicao_id": 28,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 305,
+  "peso": 800,
+  "isbn": "9786555600810",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“O tipo de leitura de que eu gosto. Está na fronteira do que é discutido internacionalmente em finanças, em linguagem compreensível, divertida e direta, com uma visão ajustada às particularidades brasileiras.”</p><p><b>— ANDRÉ ESTEVES,</b> sócio sênior do BTG Pactual</p><p>“Ao mostrar as limitações no funcionamento dos mercados e no resultado dos investimentos que fazemos, e ao reconhecer o peso do que é imprevisível e que sempre há aquilo que simplesmente não sabemos, este livro ensina a usar ferramentas e conceitos que guiam uma nova geração de investidores.”</p><p><b>— GILSON FINKELSZTAIN,</b> presidente da B3</p>",
+  "sinopse": "O livro apresenta princípios e estratégias para investidores, explorando conceitos essenciais sobre mercados financeiros e tomada de decisão inteligente.",
+  "exemplar_id": 27,
+  "sku": "LI000P",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/felipe-miranda--princ-pios-do-estrategista--capa--20250225--164400.jpg",
+  "contracapa": "static/uploads/felipe-miranda--princ-pios-do-estrategista--contracapa--20250225--164400.jpg",
+  "fotos": [
+    "static/uploads/felipe-miranda--princ-pios-do-estrategista--foto1--20250225--164400.jpg",
+    "static/uploads/felipe-miranda--princ-pios-do-estrategista--foto2--20250225--164400.jpg",
+    "static/uploads/felipe-miranda--princ-pios-do-estrategista--foto3--20250225--164400.jpg",
+    "static/uploads/felipe-miranda--princ-pios-do-estrategista--foto4--20250225--164400.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:17:04",
+  "observacoes": null
+}

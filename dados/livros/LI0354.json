@@ -1,0 +1,68 @@
+{
+  "obra_id": 5759,
+  "autor": "RBC Ministries",
+  "titulo": "Nosso andar diário",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Meditação bíblica. Espiritualidade.",
+  "palavras_chave": "andar diario",
+  "edicao_id": 5734,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 403,
+  "peso": 490,
+  "isbn": "9781604851250",
+  "editora": "Publicações RBC",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As meditações do <i>Nosso Andar Diário</i> ajudam os seus leitores a entender a Palavra de Deus de maneira clara, a enxergar Seus poderosos atos de misericórdia, e toca-os elevando seus corações e mentes a Deus, em fé e confiança, motivando-os a falar do Seu amor e a testemunhar de Suas obras em suas vidas. Se as meditações cumprirem o seu propósito, a verdade contida no texto permanecerá na mente dos leitores, tempos após as páginas terem desaparecido de seus olhos.</p><p>Deus em Sua graça tudo conhece. Ele coloca a Sua Palavra no momento e local adequado para ser lida pela pessoa a quem estas palavras oferecem o conforto, o encorajamento ou orientação.</p>",
+  "sinopse": "A coletânea 'Nosso Andar Diário – Edição Especial' apresenta meditações que auxiliam o leitor a compreender a Palavra de Deus com clareza e a reconhecer Seus atos de misericórdia, promovendo fé, confiança e o testemunho do amor divino no cotidiano. Mesmo após a leitura, as reflexões buscam permanecer na mente dos leitores, proporcionando conforto, encorajamento e orientação adequados a cada momento da vida.",
+  "exemplar_id": 5733,
+  "sku": "LI0354",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/nosso-andar-diario__none__none__capa__2026-01-18_14-11-26-970445-000.png",
+  "contracapa": "static/uploads/nosso-andar-diario__none__none__contracapa__2026-01-18_14-11-27-019695-001.png",
+  "fotos": [
+    "static/uploads/nosso-andar-diario__none__none__foto-01__2026-01-18_14-11-27-111145-002.jpg",
+    "static/uploads/nosso-andar-diario__none__none__foto-02__2026-01-18_14-11-27-164257-003.jpg",
+    "static/uploads/nosso-andar-diario__none__none__foto-03__2026-01-18_14-11-27-292562-004.jpg",
+    "static/uploads/nosso-andar-diario__none__none__foto-04__2026-01-18_14-11-27-323586-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:21:48",
+  "observacoes": null
+}

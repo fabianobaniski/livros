@@ -1,0 +1,68 @@
+{
+  "obra_id": 186,
+  "autor": "J.K. Rowling; John Tiffany; Jack Thorne",
+  "titulo": "Harry Potter and the cursed child",
+  "subtitulo": "Parts one and two",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção fantástica. Aventura.",
+  "palavras_chave": "rowling harry potter cursed child",
+  "edicao_id": 182,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 327,
+  "peso": 800,
+  "isbn": "9781338099133",
+  "editora": "Arthur A. Levine Books",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>The eighth story. Nineteen years later.</p>",
+  "sinopse": "Harry Potter and the cursed child, baseado em uma nova história original, explora os desafios enfrentados por Harry, agora um funcionário do Ministério da Magia, enquanto lida com os fantasmas do passado e as ameaças que surgem do legado familiar. Com um enredo repleto de magia e reviravoltas, é uma emocionante continuação da saga de Harry Potter.",
+  "exemplar_id": 181,
+  "sku": "LI004M",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/j-k--rowling--harry-potter-and-the-cursed-child--capa--20250226--133803.jpg",
+  "contracapa": "static/uploads/j-k--rowling--harry-potter-and-the-cursed-child--contracapa--20250226--133803.jpg",
+  "fotos": [
+    "static/uploads/j-k--rowling--harry-potter-and-the-cursed-child--foto1--20250226--133803.jpg",
+    "static/uploads/j-k--rowling--harry-potter-and-the-cursed-child--foto2--20250226--133803.jpg",
+    "static/uploads/j-k--rowling--harry-potter-and-the-cursed-child--foto3--20250226--133803.jpg",
+    "static/uploads/j-k--rowling--harry-potter-and-the-cursed-child--foto4--20250226--133803.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:29:22",
+  "observacoes": null
+}

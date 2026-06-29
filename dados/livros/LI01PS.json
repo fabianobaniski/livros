@@ -1,0 +1,63 @@
+{
+  "obra_id": 2728,
+  "autor": "Anna Erelle",
+  "titulo": "Na pele de uma jihadista",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "erelle pele uma jihadista",
+  "edicao_id": 2708,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 205,
+  "peso": 350,
+  "isbn": "9788565530965",
+  "editora": "Paralela",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O uso das redes sociais pelo Estado Islâmico, conhecido como Jihad 2.0, tem se mostrado uma poderosa ferramenta de recrutamento, atraindo jovens de países ocidentais para a guerra santa. Em busca de entender esse fenômeno, a jornalista Anna Erelle cria um perfil falso no Facebook e se passa por Mélodie, uma jovem vulnerável que é seduzida por Bilel, um jihadista francês. Ele a convence a se juntar a ele na Síria, prometendo tratá-la como uma rainha. Conforme se aprofunda na investigação, Anna expõe o poder do terrorismo digital e os perigos da radicalização online.",
+  "exemplar_id": 2707,
+  "sku": "LI01PS",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/na-pele-de-uma-jihadista-anna-erelle-capa_rev688.jpg",
+  "contracapa": "static/uploads/na-pele-de-uma-jihadista-anna-erelle-contracapa_rev641.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Não apresenta anotações nem sublinhados. Leves vestígios de uso e marcas da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:13:29",
+  "observacoes": null
+}

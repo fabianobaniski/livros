@@ -1,0 +1,63 @@
+{
+  "obra_id": 2663,
+  "autor": "Jean Chalon",
+  "titulo": "Liane de Pougy",
+  "subtitulo": "Cortesã, princesa e santa",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "chalon liane pougy cortesa",
+  "edicao_id": 2643,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 292,
+  "peso": 400,
+  "isbn": "9788573200010",
+  "editora": "Scritta",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Liane de Pougy, considerada a mais bela mulher de seu século, viveu uma vida de contrastes. De cortesã a princesa, e mais tarde santa, ela conquistou corações e gerou paixões por toda a Europa. Autora de romances como Idylle Saphique e Mes cahiers bleus, suas obras refletem sua bissexualidade e sua complexa personalidade. Após casar-se com o príncipe romeno Georges Ghika, envolveu-se em círculos artísticos com figuras como Colette e Marcel Proust. Nos últimos anos de vida, encontrou a espiritualidade, dedicando-se à fé e buscando a santidade.",
+  "exemplar_id": 2642,
+  "sku": "LI01NZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/liane-de-pougy-jean-chalon-capa_rev1476.jpg",
+  "contracapa": "static/uploads/liane-de-pougy-jean-chalon-contracapa_rev178.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:30:55",
+  "observacoes": null
+}

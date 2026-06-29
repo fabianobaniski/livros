@@ -1,0 +1,68 @@
+{
+  "obra_id": 1580,
+  "autor": "Erik Pigani",
+  "titulo": "Caderno de exercícios para desacelerar quando tudo vai rápido demais",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Bem-Estar. Autoconhecimento.",
+  "palavras_chave": "pigani caderno exercicios desacelerar",
+  "edicao_id": 1561,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 64,
+  "peso": 150,
+  "isbn": "9788532644961",
+  "editora": "Vozes",
+  "numero_edicao": 2,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Eu não vejo mais o tempo passar.”</p> <p>“Eu não tenho mais tempo para nada.”</p> <p>“Eu não tenho mais nenhum minuto para mim.”</p> <p>Será que você precisa ir mais devagar?</p> <p>Talvez, como milhões de outras pessoas, você sofra de falta de tempo. Uma doença que realmente parece ter se generalizado, a ponto de podermos considerá-la como pandemia! Uma “doença do tempo”, tem certeza? Sim! O tempo é o nosso contexto de vida, da mesma forma que o ambiente ao nosso redor. E, visto que ele faz parte de nós tanto quanto nós fazemos parte dele, uma má qualidade de tempo causa um impacto tão negativo quanto a má qualidade do ar à alimentação desequilibrada.</p> <p>É exatamente a isso que assistimos: uma perturbação do tempo, e não somente do “tempo que está fazendo”! A aceleração, fragmentação e, sobretudo, compressão do tempo fazem com que não seja mais possível administrar a agenda de nossa vida à maneira do coaching triunfalista dos anos 1980-1990. Nós devemos enfrentar um novo desafio: rever a nossa percepção do tempo e aprender a ir mais devagar para, novamente, sermos capazes de levar a vida com mais serenidade e lucidez.</p> <p>(Excerto deste caderno.)</p> <p>Mais do que fazer reflexões e desenvolver teorias, este caderno de exercícios diferencia-se por lhe oferecer dicas e sugestões práticas, simples e viáveis para você aprimorar seu autoconhecimento e aperfeiçoar-se na conquista de seu bem-estar!</p>",
+  "sinopse": "Neste caderno, o autor discute a necessidade de desacelerar em um mundo que parece acelerar constantemente. Ele explora a relação entre o tempo e a qualidade de vida, sugerindo que uma percepção mais equilibrada do tempo pode levar a uma vida mais serena e lucida. Com dicas práticas, o livro oferece ferramentas para aprimorar o autoconhecimento e o bem-estar.",
+  "exemplar_id": 1560,
+  "sku": "LI00X0",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/erik-pigani--caderno-de-exerc-cios--capa--20250401--115751.jpg",
+  "contracapa": "static/uploads/erik-pigani--caderno-de-exerc-cios--contracapa--20250401--115751.jpg",
+  "fotos": [
+    "static/uploads/erik-pigani--caderno-de-exerc-cios--foto1--20250401--115752.jpg",
+    "static/uploads/erik-pigani--caderno-de-exerc-cios--foto2--20250401--115752.jpg",
+    "static/uploads/erik-pigani--caderno-de-exerc-cios--foto3--20250401--115752.jpg",
+    "static/uploads/erik-pigani--caderno-de-exerc-cios--foto4--20250401--115752.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:09:54",
+  "observacoes": null
+}

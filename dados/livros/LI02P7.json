@@ -1,0 +1,63 @@
+{
+  "obra_id": 4953,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Platinum End",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Drama. Fantasia. Sobrenatural.",
+  "palavras_chave": "ohba platinum end",
+  "edicao_id": 4928,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 195,
+  "peso": 180,
+  "isbn": "9786555940671",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "Platinum End",
+  "volume": 12,
+  "transcricao_contracapa": "<p>Acabarei com tudo.</p> <p>A conversa entre os candidatos a Deus foi brutalmente interrompida com um acontecimento inesperado. “Deus não existe”. Depois que Yoneda proferiu sua teoria, que foi se alastrando pelo mundo todo, um próximo encontro entre eles parecia difícil...</p> <p>Afinal, que tipo de pessoa o professor é?! E qual o fim que ele deseja?!</p> <p>As “escolhas” de cada um começam a se entrelaçar...</p>",
+  "sinopse": "Os candidatos a Deus têm sua reunião interrompida por um acontecimento inesperado. A declaração de Yoneda, \"Deus não existe\", se espalha pelo mundo. Agora, um novo encontro entre eles parece cada vez mais distante. Que tipo de pessoa é Yoneda e qual é seu real objetivo? As escolhas de cada um começam a se entrelaçar.",
+  "exemplar_id": 4927,
+  "sku": "LI02P7",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__capa__2026-02-20_10-31-22-795868-000.png",
+  "contracapa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__contracapa__2026-02-20_10-31-22-846061-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

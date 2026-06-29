@@ -1,0 +1,68 @@
+{
+  "obra_id": 3086,
+  "autor": "Tai Hsuan-an",
+  "titulo": "Design",
+  "subtitulo": "Conceitos e métodos",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "hsuanan design conceitos metodos",
+  "edicao_id": 3066,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 318,
+  "peso": 1375,
+  "isbn": "9788521210108",
+  "editora": "Blucher",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro Design: Conceitos e Métodos foi escrito para os leitores que estudam, pensam, discutem, lecionam e praticam design, quaisquer que sejam suas áreas específicas. Ele reúne grande variedade de informações sobre questões muito abrangentes a respeito do design, com conceitos, fundamentos, teorias, ideias, sugestões e métodos apresentados e explicados com exemplos, imagens e linguagem acessível.",
+  "exemplar_id": 3065,
+  "sku": "LI01ZQ",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/tai-hsuan-an--design--foto1--20251121--185722.jpg",
+    "static/uploads/tai-hsuan-an--design--foto2--20251121--185722.jpg",
+    "static/uploads/tai-hsuan-an--design--foto3--20251121--185722.jpg",
+    "static/uploads/tai-hsuan-an--design--foto4--20251121--185722.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:25:49",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

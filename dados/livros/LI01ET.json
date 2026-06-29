@@ -1,0 +1,63 @@
+{
+  "obra_id": 2332,
+  "autor": "Carlos Eduardo Sarmento",
+  "titulo": "A história institucional da CBF",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "sarmento historia institucional cbf",
+  "edicao_id": 2312,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 183,
+  "peso": 800,
+  "isbn": "9788574063430",
+  "editora": "Cbf",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra detalha a trajetória da Confederação Brasileira de Futebol (CBF), desde suas origens como Confederação Brasileira de Desportos (CBD) até sua consolidação como a principal entidade do futebol no Brasil. Destaca a unificação das federações estaduais e a criação da CBF em 1979, além do papel fundamental de líderes como Álvaro Zamith e João Havelange. Ressalta a importância histórica das conquistas da Seleção Brasileira e o prestígio global da instituição.",
+  "exemplar_id": 2311,
+  "sku": "LI01ET",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/carlos-eduardo-sarmento--a-historia-institucional-da-cbf--capa--20260316--100144.jpg",
+  "contracapa": "static/uploads/carlos-eduardo-sarmento--a-historia-institucional-da-cbf--contracapa--20260316--100151.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Capa dura com sobrecapa.,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:38:26",
+  "observacoes": null
+}

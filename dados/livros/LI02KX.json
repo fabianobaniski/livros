@@ -1,0 +1,63 @@
+{
+  "obra_id": 4799,
+  "autor": "Hiro Mashima",
+  "titulo": "Fairy Tail",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Conflito. Amizade.",
+  "palavras_chave": "mashima fairy tail",
+  "edicao_id": 4774,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 171,
+  "peso": 230,
+  "isbn": "9788545702924",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 59,
+  "transcricao_contracapa": "<p>www.mangasjbc.com.br</p>",
+  "sinopse": "Fairy Tail, de Hiro Mashima, é um mangá de fantasia shonen que acompanha Natsu Dragneel, um mago Dragon Slayer de fogo em busca de seu pai adotivo, o dragão Igneel. Ele integra a guilda de magos Fairy Tail, no Reino de Fiore, onde conhece Lucy Heartfilia, uma maga celestial que se junta à guilda e forma equipe com Natsu e o gato falante Happy. Junto a aliados como Gray Fullbuster (mago de gelo), Erza Scarlet (cavaleira mágica) e outros membros, o grupo enfrenta missões perigosas, guildas rivais, conspirações e batalhas épicas, enfatizando temas de amizade, família encontrada, superação e o poder da união em um mundo repleto de magia e aventura.",
+  "exemplar_id": 4773,
+  "sku": "LI02KX",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/fairy-tail__hiro-mashima__capa__2026-02-20_10-30-38-406336-000.png",
+  "contracapa": "static/uploads/fairy-tail__hiro-mashima__contracapa__2026-02-20_10-30-38-468322-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em boas condições de manuseio e leitura, contudo a conservação ficou um pouco prejudicada em função da existência de marcas de dobra na contracapa. Papel amarelado pelo tempo. Miolo em ótimo estado. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

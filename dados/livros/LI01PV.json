@@ -1,0 +1,63 @@
+{
+  "obra_id": 2731,
+  "autor": "Jean Bergerot",
+  "titulo": "Nada é o que parece",
+  "subtitulo": "Um vôo na consciência",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "bergerot nada que parece",
+  "edicao_id": 2711,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 277,
+  "peso": 300,
+  "isbn": "9788531609275",
+  "editora": "Cultrix",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra explora as nuances da consciência em meio a situações inesperadas. Com uma linguagem leve e quase metafórica, a história acompanha um físico nuclear que, apesar de sua vasta bagagem intelectual, sente-se vazio e perdido. Seus conhecimentos são constantemente desafiados, colocando-o em xeque. Jean Bergerot propõe uma reflexão sobre o posicionamento do indivíduo diante de circunstâncias que rompem fronteiras mentais, sugerindo que a ruptura é necessária para evitar que a estagnação leve ao colapso.",
+  "exemplar_id": 2710,
+  "sku": "LI01PV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/nada-e-o-que-parece-jean-bergerot-capa_rev804.jpg",
+  "contracapa": "static/uploads/nada-e-o-que-parece-jean-bergerot-contracapa_rev1491.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:13:40",
+  "observacoes": null
+}

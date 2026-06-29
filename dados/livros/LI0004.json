@@ -1,0 +1,68 @@
+{
+  "obra_id": 5,
+  "autor": "Colleen Houck",
+  "titulo": "A viagem do tigre",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção. Fantasia. Romance. Aventura",
+  "palavras_chave": "houck viagem tigre",
+  "edicao_id": 5,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 494,
+  "peso": 500,
+  "isbn": "9788580411133",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "A maldição do tigre (Livro 3)",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Perigo. Desolação. Escolhas.</b></p><p><i>A eternidade é tempo demais para esperar pelo verdadeiro amor?</i></p><p>Em sua terceira busca, a jovem Kelsey Hayes e seus tigres precisam vencer desafios incríveis propostos por cinco dragões míticos. O elemento comum é a água, e o cenário de mar aberto obriga Kelsey a enfrentar seus piores temores.</p><p>Dessa vez, sua missão é encontrar o Colar de Pérolas Negras de Durga e tentar libertar seu amado Ren tanto da maldição do tigre quanto de sua repentina amnésia. No entanto o irmão dele, Kishan, tem outros planos, e os dois competem por sua afeição, além de afastarem aqueles que planejam frustrar seus objetivos.</p><p>Em <i>A viagem do tigre</i>, terceiro volume da série <i>A maldição do tigre</i>, Kelsey, Ren e Kishan retomam a jornada em direção ao seu verdadeiro destino numa história com muito suspense, criaturas encantadas, corações partidos e ação de primeira.</p><p>A épica saga dos tigres já foi lançada em 18 países e ocupou os primeiros lugares na lista dos mais vendidos do <i>The New York Times</i>.</p><p><i>“A viagem do tigre alterna com maestria uma aventura extraordinária e um romance delicado. A história vai agradar a todos os fãs da série, que irão aguardar ansiosos pelo quarto livro.”</i> – Booklist</p>",
+  "sinopse": "Kelsey Hayes e seus tigres enfrentam cinco dragões míticos em uma jornada perigosa pelo mar. Sua missão é encontrar o Colar de Pérolas Negras de Durga e libertar Ren de sua maldição e amnésia. Kishan também disputa seu amor, enquanto forças sombrias tentam frustrar seus objetivos.",
+  "exemplar_id": 5,
+  "sku": "LI0004",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/colleen-houck--a-viagem-do-tigre--capa--20250225--162815.jpg",
+  "contracapa": "static/uploads/colleen-houck--a-viagem-do-tigre--contracapa--20250225--162815.jpg",
+  "fotos": [
+    "static/uploads/colleen-houck--a-viagem-do-tigre--foto1--20250225--162815.jpg",
+    "static/uploads/colleen-houck--a-viagem-do-tigre--foto2--20250225--162815.jpg",
+    "static/uploads/colleen-houck--a-viagem-do-tigre--foto3--20250225--162815.jpg",
+    "static/uploads/colleen-houck--a-viagem-do-tigre--foto4--20250225--162815.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:47:05",
+  "observacoes": null
+}

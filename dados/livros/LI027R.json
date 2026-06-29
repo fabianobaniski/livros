@@ -1,0 +1,68 @@
+{
+  "obra_id": 3380,
+  "autor": "Ransuke Kuroi; Eri Haruno",
+  "titulo": "Savanna game",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Jogos mortais. Sobrevivência.",
+  "palavras_chave": "kuroi savanna game",
+  "edicao_id": 3357,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "9788569212041",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "The Comic",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Agora é <b>VENCER OU MORRER!</b> Essa é a única regra a seguir no Savanna Game, um jogo mortal onde tudo é possível: desde enfrentar lendárias criaturas a hábeis samurais. Em busca de uma fortuna em prêmio, os competidores terão de se enfrentar até que reste apenas um vivo!</p>",
+  "sinopse": "Savanna Game é um jogo mortal em que a única regra é vencer ou morrer. Os competidores precisam enfrentar criaturas lendárias e samurais habilidosos, e lutar pela sobrevivência em busca de uma fortuna como prêmio. Tudo é permitido nesse perigoso desafio, onde ao final apenas um pode restar vivo.",
+  "exemplar_id": 3356,
+  "sku": "LI027R",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/savanna-game__ransuke-kuroi-eri-haruno__capa__2025-11-05_16-14-47-059554.jpg",
+  "contracapa": "static/uploads/savanna-game__ransuke-kuroi-eri-haruno__contracapa__2025-11-05_16-14-47-099371.jpg",
+  "fotos": [
+    "static/uploads/savanna-game__ransuke-kuroi-eri-haruno__foto-01__2025-11-05_16-14-47-134044.jpg",
+    "static/uploads/savanna-game__ransuke-kuroi-eri-haruno__foto-02__2025-11-05_16-14-47-158013.jpg",
+    "static/uploads/savanna-game__ransuke-kuroi-eri-haruno__foto-03__2025-11-05_16-14-47-186595.jpg",
+    "static/uploads/savanna-game__ransuke-kuroi-eri-haruno__foto-04__2025-11-05_16-14-47-208761.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Capa com marquinha de dobra."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:37:37",
+  "observacoes": null
+}

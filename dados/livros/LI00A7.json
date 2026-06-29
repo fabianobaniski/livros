@@ -1,0 +1,68 @@
+{
+  "obra_id": 401,
+  "autor": "Píndaro; Roosevelt Rocha (tradução)",
+  "titulo": "Epinícios e fragmentos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura clássica. Poesia. Tradução.",
+  "palavras_chave": "rocha pindaro epinicios fragmentos",
+  "edicao_id": 389,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 492,
+  "peso": 1200,
+  "isbn": "9788568462904",
+  "editora": "Kotter",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "Obra Completa",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em suas mãos a primeira tradução completa de todos os epinícios e de todos os fragmentos de Píndaro. Aqui está a obra do maior poeta mélcio (isto é, um poeta que compôs poemas para serem cantados, seja por um coro, seja por um único cantor) da Antiguidade. Estamos tentando cobrir aqui uma lacuna enorme na tradição dos Estudos Clássicos em Língua Portuguesa. Desde modo, será necessário ao leitor habituar-se à leitura do nosso autor. Desde a Antiguidade, Píndaro foi considerado um poeta obscuro, difícil. Talvez, seja mesmo, mais principalmente numa primeira leitura. É preciso conviver, ler e reler seus poemas para, com o tempo e a repetição, compreender pelo menos em parte, as suas composições. É preciso sempre lembrar que esses poemas eram canções feitas para serem cantadas e não lidas, como fazemos hoje em dia. O fato de não termos as melodias é lamentável. Mas temos as ‘letras’ das canções, digamos, e o que temos já é arrebatador. Por isso, nas traduções o leitor encontrará metáforas surpreendentes, aparentes mudanças repentinas de assunto e máximas que resumem boa parte da sabedoria grega antiga. Sendo assim, convidamos o leitor a aceitar o desafio de conhecer os píncaros e os vales da poesia pindárica.</p>",
+  "sinopse": "Esta obra apresenta a primeira tradução completa dos epinícios e fragmentos de Píndaro, um dos maiores poetas da Antiguidade. O livro busca preencher uma lacuna na literatura clássica em língua portuguesa, desafiando o leitor a se familiarizar com a complexidade e a beleza das composições que eram originalmente destinadas a serem cantadas, não lidas. Com notáveis metáforas e mudanças de assunto, a obra reflete a rica sabedoria grega antiga.",
+  "exemplar_id": 388,
+  "sku": "LI00A7",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": 110.0,
+  "capa": "static/uploads/p-ndaro--epin-cios-e-fragmentos--capa--20250226--133826.jpg",
+  "contracapa": "static/uploads/p-ndaro--epin-cios-e-fragmentos--contracapa--20250226--133826.jpg",
+  "fotos": [
+    "static/uploads/p-ndaro--epin-cios-e-fragmentos--foto1--20250226--133826.jpg",
+    "static/uploads/p-ndaro--epin-cios-e-fragmentos--foto2--20250226--133826.jpg",
+    "static/uploads/p-ndaro--epin-cios-e-fragmentos--foto3--20250226--133826.jpg",
+    "static/uploads/p-ndaro--epin-cios-e-fragmentos--foto4--20250226--133826.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. O texto, contudo, possui marcações à lápis em cerca de 20 a 30 por cento das páginas. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:21:54",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 255,
+  "autor": "Marion Zimmer Bradley",
+  "titulo": "Cidade da magia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Literatura fantástica.",
+  "palavras_chave": "bradley cidade magia",
+  "edicao_id": 249,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 380,
+  "peso": 350,
+  "isbn": "8533204558",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 248,
+  "sku": "LI006G",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/marion-zimmer-bradley--cidade-da-magia--capa--20250226--133811.jpg",
+  "contracapa": "static/uploads/marion-zimmer-bradley--cidade-da-magia--contracapa--20250226--133811.jpg",
+  "fotos": [
+    "static/uploads/marion-zimmer-bradley--cidade-da-magia--foto1--20250226--133811.jpg",
+    "static/uploads/marion-zimmer-bradley--cidade-da-magia--foto2--20250226--133811.jpg",
+    "static/uploads/marion-zimmer-bradley--cidade-da-magia--foto3--20250226--133811.jpg",
+    "static/uploads/marion-zimmer-bradley--cidade-da-magia--foto4--20250226--133811.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:09:29",
+  "observacoes": null
+}

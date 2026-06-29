@@ -1,0 +1,63 @@
+{
+  "obra_id": 2419,
+  "autor": "Disney",
+  "titulo": "Camp Rock",
+  "subtitulo": "o Livro",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "disney camp rock livro",
+  "edicao_id": 2399,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 144,
+  "peso": 250,
+  "isbn": "9788506055212",
+  "editora": "Melhoramentos",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Mitchie, uma garota de 14 anos que adora cantar, tem o sonho de participar do famoso acampamento de verão Camp Rock, destinado a aspirantes a estrelas da música. Quando sua mãe consegue um emprego lá, Mitchie fica animada, mas insegura por medo de se apresentar em público. Logo ao chegar, ela chama a atenção de Tess, a garota mais popular, e de Shane, um astro da música em busca de inspiração. Para impressionar Tess, Mitchie finge ser filha de uma poderosa executiva da música. No entanto, essa mentira pode colocar tudo a perder, inclusive sua chance com Shane. Mitchie precisará decidir se encontra sua própria voz ou arrisca estragar seu verão.",
+  "exemplar_id": 2398,
+  "sku": "LI01H8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/disney--camp-rock--capa--20260316--180548.jpg",
+  "contracapa": "static/uploads/disney--camp-rock--contracapa--20260316--180548.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado. Sem anotações ou grifos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:11:55",
+  "observacoes": null
+}

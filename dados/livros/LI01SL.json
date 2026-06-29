@@ -1,0 +1,63 @@
+{
+  "obra_id": 2829,
+  "autor": "Samael Aun Weor",
+  "titulo": "Os mistérios do fogo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "weor misterios fogo",
+  "edicao_id": 2809,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 113,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Gnose",
+  "numero_edicao": null,
+  "ano": 1989,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Os mistérios do fogo estão intimamente ligados ao estudo do Kundalini Yoga, que revela os sete graus de poder da energia espiritual dentro de nós. Nosso corpo físico e espiritual é composto por sete corpos, sendo que quatro estão relacionados ao pecado e devem ser libertados para atingir a plenitude da alma. Através do despertar das serpentes de luz, elevamos nossa consciência e nos conectamos com a Vontade, a Consciência e o Espírito. Esse processo é visto como a chave para acessar o conhecimento profundo da criação e alcançar a iluminação espiritual.",
+  "exemplar_id": 2808,
+  "sku": "LI01SL",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/os-misterios-do-fogo-samael-aun-weor-capa_rev768.jpg",
+  "contracapa": "static/uploads/os-misterios-do-fogo-samael-aun-weor-contracapa_rev2071.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:21:32",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 859,
+  "autor": "Stuart Olyott",
+  "titulo": "Jonas",
+  "subtitulo": "O missionário bem-sucedido que fracassou",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Bíblia. Profetas. Salvação.",
+  "palavras_chave": "olymott jonas missionario fracassou",
+  "edicao_id": 844,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 77,
+  "peso": 100,
+  "isbn": "9788581320137",
+  "editora": "Fiel",
+  "numero_edicao": 1,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Stuart Olyott contou a história de Jonas de um modo especial, com ricas e instrutivas ilustrações, exortações práticas e aplicações que haverão de provarem-se muito úteis a todo leitor. Sua ênfase em toda narrativa é na graça e misericórdia de Deus, que oferece a salvação a um povo ímpio pelos lábios de um pregador que nem desejava ver a conversão deles. Ao mesmo tempo, trabalha o coração deste pregador, ensinando-lhe lições muito preciosas na medida em que conduz por esta aventura fascinante, que envolve um chamado extraordinário, uma fuga alucinada, um encontro com a morte, uma oração sincera, uma aparição impressionante, e um final aparentemente sem conclusão. Sua história nos ensina muitas coisas.</p> <p>Stuart Olyott, nascido em 1942, é o diretor pastoral do Movimento Evangélico do País de Gales. É autor de diversos livros, três deles publicados em português pela Editora Fiel. Olyott pastoreou igrejas em Londres, Lausanne e Liverpool; viaja com frequência para vários países, servindo como preletor e professor convidado.</p>",
+  "sinopse": "A história de Jonas é apresentada de forma intrigante, destacando a graça e misericórdia de Deus em contrasto com o relutante pregador que recebe um chamado divino. Ao longo da narrativa, Olyott explora temas de salvação, arrependimento e a luta interna de um profeta avesso à sua missão, enquanto eventos dramáticos e transformadores moldam o enredo.",
+  "exemplar_id": 843,
+  "sku": "LI00MT",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/stuart-olyott--jonas--capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/stuart-olyott--jonas--contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:53:22",
+  "observacoes": null
+}

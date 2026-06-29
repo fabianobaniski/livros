@@ -1,0 +1,68 @@
+{
+  "obra_id": 2309,
+  "autor": "Penny Lernoux",
+  "titulo": "A barca de Pedro",
+  "subtitulo": "Nos bastidores da igreja",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "lernoux barca pedro nos",
+  "edicao_id": 2289,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 479,
+  "peso": 632,
+  "isbn": "8508040660",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro A Barca de Pedro chega em um momento oportuno para o Brasil, onde a democracia está em foco no debate político. A obra questiona se a Igreja, com sua estrutura hierárquica e verticalizada, reflete os princípios do Evangelho ou apenas as conveniências do poder. Frei Betto aborda a tensão entre a democratização e a tentação da papalatria, mostrando por que a Igreja é vista como a instituição mais confiável no país.",
+  "exemplar_id": 2288,
+  "sku": "LI01E6",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/penny-lernoux--a-barca-de-pedro--capa--20251021--103227.png",
+  "contracapa": "static/uploads/penny-lernoux--a-barca-de-pedro--contracapa--20251021--103235.png",
+  "fotos": [
+    "static/uploads/penny-lernoux--a-barca-de-pedro--foto1--20251021--103217.jpg",
+    "static/uploads/penny-lernoux--a-barca-de-pedro--foto2--20251021--103217.jpg",
+    "static/uploads/penny-lernoux--a-barca-de-pedro--foto3--20251021--103217.jpg",
+    "static/uploads/penny-lernoux--a-barca-de-pedro--foto4--20251021--103217.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Lombada bastante inclinada à direita. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos.  Foi feito um pequeno reparo na parte interna da capa. Texto sem grifos e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:09:20",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3183,
+  "autor": "Ellen G. White",
+  "titulo": "Beneficência Social",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "white beneficencia social",
+  "edicao_id": 3163,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 349,
+  "peso": 400,
+  "isbn": "9788534507332",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "O ministério da beneficência social é apresentado como um chamado divino para alcançar corações e salvar almas por meio do cuidado amoroso com o próximo. Inspirado em orientações de Ellen G. White, o livro reúne conselhos práticos e relatos de sua vida dedicada ao serviço cristão, enfatizando que atos de bondade são a mais elevada expressão do evangelismo. Com uma seleção de escritos cuidadosamente compilados, a obra incentiva um trabalho altruísta e consciente, promovendo uma vida de fé ativa e compassiva em prol da salvação e do bem-estar.",
+  "exemplar_id": 3162,
+  "sku": "LI022F",
+  "preco_estante_virtual": 110.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Possui , todas livres de anotações e sublinhados. Capa dura com o nome da autora e o título em letras douradas, sem desgastes. Papel bem branco, quase sem marcas de amarelamento e oxidação."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:54:23",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 582,
+  "autor": "Joseph R. Farinaccio",
+  "titulo": "Fé com razão",
+  "subtitulo": "Por que o Cristianismo é verdadeiro",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Filosofia. Cristianismo.",
+  "palavras_chave": "farinaccio fe razao cristianismo",
+  "edicao_id": 567,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 151,
+  "peso": 280,
+  "isbn": "",
+  "editora": "Publicações Monergismo",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este é um livro que trata de cosmovisões. Todas as pessoas possuem uma. Mas, em sua maioria, elas nunca dispensam muita atenção à filosofia de vida pessoal. Isso é trágico, pois não há estado de conscientização mais fundamental para o viver diário. Tendo em vista a existência de inúmeras cosmovisões mundo afora, este livro foi escrito para ajudar as pessoas a entenderem por que o Cristianismo bíblico é tão importante, não apenas para o nosso entendimento a respeito de Deus, mas também sobre nós mesmos e o mundo a nossa volta.</p><p>Joseph Farinaccio (Bacharel em História) é um escritor cristão e orador público de Nova Jérsei. Seus outros escritos incluem artigos publicados sobre teologia, história e política a partir de uma perspectiva cristã.</p>",
+  "sinopse": "Este livro oferece uma reflexão sobre cosmovisões e a importância do Cristianismo. A obra busca conscientizar os leitores sobre como a compreensão correta do Cristianismo pode impactar não apenas sua relação com Deus, mas também sua visão sobre o mundo e sobre si mesmos.",
+  "exemplar_id": 566,
+  "sku": "LI00F5",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/joseph-r--farinaccio--f--com-raz-o--capa--20250227--152851.jpg",
+  "contracapa": "static/uploads/joseph-r--farinaccio--f--com-raz-o--contracapa--20250227--152851.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:49:51",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1945,
+  "autor": "John B. Thompson",
+  "titulo": "A mídia e a modernidade",
+  "subtitulo": "Uma teoria social da mídia",
+  "idioma": "Português",
+  "categoria": "Comunicação",
+  "temas": "Comunicação. Mídia. Teoria social. Modernidade.",
+  "palavras_chave": "thompson midia modernidade teoria social",
+  "edicao_id": 1925,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 359,
+  "peso": 495,
+  "isbn": "9788532620798",
+  "editora": "Vozes",
+  "numero_edicao": 12,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Este livro é abrangente e magistral, e ao mesmo tempo fácil de ler. Há de se tornar, sem dúvida, um dos poucos textos definitivos no campo, em crescente expansão, da mídia e dos estudos culturais, oferecendo uma decisiva contribuição para a teoria crítica e social como um todo.”<br><i>William Outhwaite, University of Sussex</i></p><p>“Thompson é o primeiro entre os sociólogos a compreender e a avaliar a importância da mídia na vida social moderna. Neste seu novo e estimulante livro ele se movimenta sistematicamente entre desenvolvimentos históricos e discussões de teoria social, de modo a nos oferecer uma competente e atualizada história da modernidade. Como sempre, Thompson escreve com tremenda objetividade, penetração e precisão. Suas ponderadas explicações históricas e seus argumentos teóricos são marcados por um insistente otimismo que reconhece que, embora o poder simbólico tenha estruturado suas origens institucionais, as consequências sociais da mídia não são nem automáticas nem apocalípticas.”<br><i>James Lull, San José State University</i></p>",
+  "sinopse": "Esta obra abrangente de John B. Thompson é considerada um dos textos definitivos sobre mídia e estudos culturais, oferecendo uma decisiva contribuição para a teoria crítica e social. O autor avalia, com objetividade e precisão, a importância da mídia na vida social moderna, integrando o desenvolvimento histórico com discussões de teoria social para apresentar uma análise atualizada da modernidade. Thompson sustenta que o poder simbólico da mídia influencia a sociedade, mas suas consequências sociais não são automáticas nem apocalípticas.",
+  "exemplar_id": 1924,
+  "sku": "LI0143",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/john-b--thompson--a-m-dia-e-a-modernidade--capa--20250430--104305.jpg",
+  "contracapa": "static/uploads/john-b--thompson--a-m-dia-e-a-modernidade--contracapa--20250430--104305.jpg",
+  "fotos": [
+    "static/uploads/john-b--thompson--a-m-dia-e-a-modernidade--foto1--20250430--104305.jpg",
+    "static/uploads/john-b--thompson--a-m-dia-e-a-modernidade--foto2--20250430--104305.jpg",
+    "static/uploads/john-b--thompson--a-m-dia-e-a-modernidade--foto3--20250430--104305.jpg",
+    "static/uploads/john-b--thompson--a-m-dia-e-a-modernidade--foto4--20250430--104305.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:32:52",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2941,
+  "autor": "Gaston Saint-pierre; Debbie Boater",
+  "titulo": "The metamorphic technique",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "the metamorphic technique",
+  "edicao_id": 2921,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 124,
+  "peso": 280,
+  "isbn": "9780906540206",
+  "editora": "Element Books",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A Técnica Metamórfica apresenta uma abordagem revolucionária de enxergar a vida e transformá-la. Focada nos nove meses de gestação, quando os potenciais humanos são estabelecidos, essa prática trabalha nos reflexos da coluna nos pés, mãos e cabeça, liberando energias bloqueadas durante esse período. O livro explica, de forma acessível e com diagramas, como essa técnica pode promover a cura do corpo, mente e espírito. É uma leitura essencial para profissionais de medicina holística, pais e todos que buscam transformação pessoal.",
+  "exemplar_id": 2920,
+  "sku": "LI01VP",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/the-metamorphic-technique-gaston-saintpierre-capa_rev769.jpg",
+  "contracapa": "static/uploads/the-metamorphic-technique-gaston-saintpierre-contracapa_rev870.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel bastante amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:27",
+  "observacoes": null
+}

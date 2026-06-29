@@ -1,0 +1,68 @@
+{
+  "obra_id": 3389,
+  "autor": "Keiko Suenobu",
+  "titulo": "Limit",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Suspense. Sobrevivência. Dinâmica de grupo. Adolescência.",
+  "palavras_chave": "suenobu limit",
+  "edicao_id": 3366,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788545700852",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>O mundo perfeito ruiu! Após o inesperado acidente, cinco garotas se veem presas em um ambiente selvagem e hostil. Quando o corpo de Usui aparece na floresta, as tensões dentro do grupo se elevam, sobretudo entre o recém-chegado Hinata e a rancorosa Morishige. Quem será o responsável pelo assassinato?!</p><p>Completo em 6 edições</p>",
+  "sinopse": "Após um acidente inesperado, cinco garotas ficam presas em um ambiente selvagem e hostil. Quando o corpo de Usui é encontrado na floresta, as tensões entre o grupo aumentam, especialmente entre Hinata e Morishige, tornando-se fundamental descobrir quem é o responsável pelo assassinato. Limit é uma série completa em 6 edições.",
+  "exemplar_id": 3365,
+  "sku": "LI0280",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/limit__keiko-suenobu__capa__2025-11-05_16-14-49-691845.jpg",
+  "contracapa": "static/uploads/limit__keiko-suenobu__contracapa__2025-11-05_16-14-49-715345.jpg",
+  "fotos": [
+    "static/uploads/limit__keiko-suenobu__foto-01__2025-11-05_16-14-49-747487.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-02__2025-11-05_16-14-49-771745.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-03__2025-11-05_16-14-49-878809.jpg",
+    "static/uploads/limit__keiko-suenobu__foto-04__2025-11-05_16-14-49-901262.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:35:22",
+  "observacoes": null
+}

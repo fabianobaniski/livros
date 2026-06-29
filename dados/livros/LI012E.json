@@ -1,0 +1,68 @@
+{
+  "obra_id": 1884,
+  "autor": "Douglas Downing; Jeffrey Clark",
+  "titulo": "Estatística aplicada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Estatística. Ensino de exatas. Aplicações práticas.",
+  "palavras_chave": "downing estatistica aplicada",
+  "edicao_id": 1864,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 351,
+  "peso": 300,
+  "isbn": "9788502052022",
+  "editora": "Saraiva",
+  "numero_edicao": 2,
+  "ano": null,
+  "serie": "Série Essencial",
+  "volume": null,
+  "transcricao_contracapa": "<b>ESTATÍSTICA APLICADA</b> vai direto ao ponto: explica aos estudantes desta disciplina métodos estatísticos para a análise de dados. Escrito por PhDs formados pela Yale University, nos Estados Unidos, o livro se utiliza de exemplos diversos para contextualizar as situações em que a estatística é aplicada, facilitando assim o entendimento da matéria.<br><br>Afinal, o aprendizado de estatística ocorre de uma única forma – através da prática. Exercícios propostos, temas para discussão e palavras-chave estão presentes em todos os 19 capítulos da obra. Há ainda um glossário com novos termos, símbolos e abreviaturas.<br><br>Didático, o livro usa de poderosas ferramentas tanto em seu conteúdo quanto diagramação, além de uma linguagem fácil e descomplicada. Os autores discutem ainda a importância da tecnologia no estudo e aplicação da estatística, abordando os principais softwares.<br><br><b>APLICAÇÃO:</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Estatística, Estatística Aplicada.",
+  "sinopse": "O livro apresenta métodos estatísticos para análise de dados de forma direta e descomplicada, com exemplos práticos, exercícios, temas para discussão e glossário. Destinado a estudantes, destaca a importância da tecnologia na estatística e pode ser utilizado nas disciplinas Estatística e Estatística Aplicada.",
+  "exemplar_id": 1863,
+  "sku": "LI012E",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/douglas-downing--estat-stica-aplicada--capa--20250430--104254.jpg",
+  "contracapa": "static/uploads/douglas-downing--estat-stica-aplicada--contracapa--20250430--104254.jpg",
+  "fotos": [
+    "static/uploads/douglas-downing--estat-stica-aplicada--foto1--20250430--104254.jpg",
+    "static/uploads/douglas-downing--estat-stica-aplicada--foto2--20250430--104254.jpg",
+    "static/uploads/douglas-downing--estat-stica-aplicada--foto3--20250430--104254.jpg",
+    "static/uploads/douglas-downing--estat-stica-aplicada--foto4--20250430--104254.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:31:58",
+  "observacoes": "procedencia_biblioteca"
+}

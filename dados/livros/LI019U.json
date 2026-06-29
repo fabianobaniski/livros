@@ -1,0 +1,68 @@
+{
+  "obra_id": 2153,
+  "autor": "Gilberto Luiz Alves",
+  "titulo": "A produção da escola pública contemporânea",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "História da educação. Escola pública. Transformações sociais. Organização didática.",
+  "palavras_chave": "alves producao escola publica contemporanea",
+  "edicao_id": 2133,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 276,
+  "peso": 365,
+  "isbn": "9788574960340",
+  "editora": "Autores Associados",
+  "numero_edicao": 4,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro discute momentos importantes do processo de produção material da escola pública contemporânea. Examina o seu surgimento no interior da Reforma protestante; o incremento que recebeu por força das influências da economia política, do enciclopedismo e da Revolução Francesa. Revela, também, aspectos importantes das trajetórias de desenvolvimento dessa instituição social na Alemanha, na Inglaterra, na França e nos Estados Unidos da América. Por fim, procura detectar o seu movimento no interior da sociedade capitalista, em nosso tempo, destacando as funções que vêm sendo incorporadas ao seu dia-a-dia. Tanto pela necessidade de revolucionar a superada organização do trabalho didático, quanto pela agregação dessas novas funções sociais ao seu fazer, pode-se dizer que está emergindo uma nova instituição educacional, de tempo integral, que precisará preparar-se para exercer o trabalho educativo segundo uma concepção mais ampliada e plena.</p>",
+  "sinopse": "O livro discute os principais momentos históricos da produção material da escola pública contemporânea, analisando sua origem na Reforma protestante e as influências da economia política, enciclopedismo e Revolução Francesa. Analisa o desenvolvimento da escola pública na Alemanha, Inglaterra, França e Estados Unidos, além de destacar novas funções sociais e a necessidade de transformação no trabalho didático no contexto capitalista atual. Aponta o surgimento de uma nova instituição educacional de tempo integral, voltada para uma concepção ampliada do trabalho educativo.",
+  "exemplar_id": 2132,
+  "sku": "LI019U",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/gilberto-luiz-alves--a-produ--o-da-escola-p-blica-contempor-nea--capa--20250430--104638.jpg",
+  "contracapa": "static/uploads/gilberto-luiz-alves--a-produ--o-da-escola-p-blica-contempor-nea--contracapa--20250430--104638.jpg",
+  "fotos": [
+    "static/uploads/gilberto-luiz-alves--a-produ--o-da-escola-p-blica-contempor-nea--foto1--20250430--104638.jpg",
+    "static/uploads/gilberto-luiz-alves--a-produ--o-da-escola-p-blica-contempor-nea--foto2--20250430--104638.jpg",
+    "static/uploads/gilberto-luiz-alves--a-produ--o-da-escola-p-blica-contempor-nea--foto3--20250430--104638.jpg",
+    "static/uploads/gilberto-luiz-alves--a-produ--o-da-escola-p-blica-contempor-nea--foto4--20250430--104638.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:39:42",
+  "observacoes": "procedencia_biblioteca"
+}

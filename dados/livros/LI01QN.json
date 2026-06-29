@@ -1,0 +1,63 @@
+{
+  "obra_id": 2759,
+  "autor": "Leonardo Boff",
+  "titulo": "O despertar da águia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "boff despertar aguia",
+  "edicao_id": 2739,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 174,
+  "peso": 300,
+  "isbn": "9788532619778",
+  "editora": "Vozes",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro questiona o tipo de globalização que desejamos: uma baseada no mercado neoliberal, competitivo e desprovido de cooperação, ou uma nova forma de globalização, onde tudo se conecta com cordialidade e respeito à Terra, à ética e à espiritualidade? Continuando o pensamento de *A Águia e a Galinha*, a obra explora as dimensões simbólicas e diabológicas da existência humana, propondo uma reflexão sobre a história, o universo e a condição humana. Um convite à busca por ser plenamente humano, em harmonia com o mundo.",
+  "exemplar_id": 2738,
+  "sku": "LI01QN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-despertar-da-aguia-leonardo-boff-capa_rev1285.jpg",
+  "contracapa": "static/uploads/o-despertar-da-aguia-leonardo-boff-contracapa_rev282.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Papel um pouco amarelado pelo tempo, sobretudo nas bordas. Há furinhos de traça nas últimas páginas, à margem do texto."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:02:33",
+  "observacoes": null
+}

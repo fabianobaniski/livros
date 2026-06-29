@@ -1,0 +1,68 @@
+{
+  "obra_id": 1373,
+  "autor": "Manuel Antônio de Almeida",
+  "titulo": "Memórias de um sargento de milícias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura. Humor. Personalidade.",
+  "palavras_chave": "almeida memorias sargento milicias",
+  "edicao_id": 1356,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 195,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Objetivo",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As primeiras qualidades deste livro que chamam a atenção são o dinamismo da narrativa e o humor. A história, muito divertida, é contada de forma ágil, os acontecimentos fluem com animação e graça, a linguagem é próxima do coloquial da época. O leitor é levado pelo fluxo envolvente das peripécias de Leonardinho, personagem que constituiu o mais antigo exemplo literário de um tipo nacional de primeira importância: o malandro. E aqui, no que diz respeito à malandragem, encontra-se uma outra grande qualidade do livro: a originalidade.</p>",
+  "sinopse": "Memórias de um Sargento de Milícias é uma narrativa cativante e divertida que traz à tona as peripécias de Leonardinho, um malandro que representa um marco na literatura nacional. Através de uma história ágil e um humor contagiante, o leitor é transportado para a época, explorando a cultura e as vivências da sociedade, enquanto acompanha os desafios e as aventuras do protagonista.",
+  "exemplar_id": 1355,
+  "sku": "LI00SZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/manuel-ant-nio-de-almeida--mem-rias-de-um-sargento-de-mil-cias--capa--20250401--115336.jpg",
+  "contracapa": "static/uploads/manuel-ant-nio-de-almeida--mem-rias-de-um-sargento-de-mil-cias--contracapa--20250401--115336.jpg",
+  "fotos": [
+    "static/uploads/manuel-ant-nio-de-almeida--mem-rias-de-um-sargento-de-mil-cias--foto1--20250401--115336.jpg",
+    "static/uploads/manuel-ant-nio-de-almeida--mem-rias-de-um-sargento-de-mil-cias--foto2--20250401--115336.jpg",
+    "static/uploads/manuel-ant-nio-de-almeida--mem-rias-de-um-sargento-de-mil-cias--foto3--20250401--115336.jpg",
+    "static/uploads/manuel-ant-nio-de-almeida--mem-rias-de-um-sargento-de-mil-cias--foto4--20250401--115336.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora com marcas de uso. Algumas páginas com vinco de dobra nas extremidades. Bordas um pouco amareladas. Sem grifos e anotações. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 18:42:33",
+  "observacoes": null
+}

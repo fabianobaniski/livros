@@ -1,0 +1,68 @@
+{
+  "obra_id": 1804,
+  "autor": "Simone de Castro Tavares Coelho",
+  "titulo": "Terceiro setor",
+  "subtitulo": "Um estudo comparado entre Brasil e Estados Unidos",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Sociologia. Terceiro setor. Cidadania. Sociedade civil. Comparação internacional.",
+  "palavras_chave": "coelho terceiro setor estudo comparado entre brasil estados unidos",
+  "edicao_id": 1784,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 223,
+  "peso": 340,
+  "isbn": "9788573591163",
+  "editora": "Senac São Paulo",
+  "numero_edicao": 2,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O SENAC de São Paulo, através de seu Centro de Educação Comunitária para o Trabalho, mantém uma programação voltada prioritariamente para a promoção da cidadania e a melhoria da qualidade de vida das comunidades, realizando ações socioeducativas que possam ser incorporadas e ampliadas pela sociedade civil.</p><p>A publicação, por sua Editora, de <i>Terceiro setor — um estudo comparado entre Brasil e Estados Unidos</i> vem somar-se a esse esforço, acrescentando à bibliografia da área um livro que, dada a sua relevância, com certeza irá inspirar muitos outros trabalhos sobre um setor presente em nossa sociedade há muito tempo, mas que só recentemente se tornou objeto da atenção da opinião pública.</p>",
+  "sinopse": "O livro 'Terceiro setor — um estudo comparado entre Brasil e Estados Unidos' aprofunda a discussão sobre o papel das organizações sociais na promoção da cidadania e melhoria da qualidade de vida. A obra serve como referência para pesquisadores e profissionais, inspirando novos trabalhos sobre esse setor que, embora presente há muito tempo, só recentemente passou a atrair maior atenção da sociedade e da opinião pública.",
+  "exemplar_id": 1783,
+  "sku": "LI0107",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/simone-de-castro-tavares-coelho--terceiro-setor--capa--20250430--102949.jpg",
+  "contracapa": "static/uploads/simone-de-castro-tavares-coelho--terceiro-setor--contracapa--20250430--102949.jpg",
+  "fotos": [
+    "static/uploads/simone-de-castro-tavares-coelho--terceiro-setor--foto1--20250430--102949.jpg",
+    "static/uploads/simone-de-castro-tavares-coelho--terceiro-setor--foto2--20250430--102949.jpg",
+    "static/uploads/simone-de-castro-tavares-coelho--terceiro-setor--foto3--20250430--102949.jpg",
+    "static/uploads/simone-de-castro-tavares-coelho--terceiro-setor--foto4--20250430--102949.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:05:36",
+  "observacoes": "procedencia_biblioteca"
+}

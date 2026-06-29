@@ -1,0 +1,63 @@
+{
+  "obra_id": 2947,
+  "autor": "Robert Kirkman; Jay Bonansinga",
+  "titulo": "The walking dead",
+  "subtitulo": "A ascensão do governador",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "kirkman the walking dead",
+  "edicao_id": 2927,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 331,
+  "peso": 400,
+  "isbn": "9788501097156",
+  "editora": "Galera Record",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "No universo de The Walking Dead, o Governador é o vilão mais temido, um líder tirânico da cidade de Woodbury. Com uma justiça distorcida, ele força prisioneiros a lutar contra zumbis em arenas e brutaliza qualquer um em seu caminho. Em The Walking Dead: A ascensão do Governador, descobrimos como Phillip Blake se tornou essa figura sombria. Acompanhado por seu irmão e amigos, ele cruza a devastada Geórgia em busca de segurança, enfrentando hordas de zumbis e uma sociedade em colapso. Phillip fará qualquer coisa para proteger sua família, mesmo que isso custe sua alma.",
+  "exemplar_id": 2926,
+  "sku": "LI01VV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/the-walking-dead-robert-kirkman-jay-bonansinga-capa_rev94.jpg",
+  "contracapa": "static/uploads/the-walking-dead-robert-kirkman-jay-bonansinga-contracapa_rev621.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, embora amarelado, sobretudo nas bordas, e um pouco marcado pelo uso. Texto livre de anotações, sublinhados, marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:16:42",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1435,
+  "autor": "Octávio Tarquínio de Sousa",
+  "titulo": "A vida de D. Pedro I",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "História. Império. Brasil.",
+  "palavras_chave": "octavio sousa vida pedro",
+  "edicao_id": 1416,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 326,
+  "peso": 600,
+  "isbn": "",
+  "editora": "José Olympio",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "História dos Fundadores do Império do Brasil",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1415,
+  "sku": "LI00UL",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--capa--20250401--115346.png",
+  "contracapa": "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--contracapa--20250401--115346.png",
+  "fotos": [
+    "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--foto1--20250401--115346.jpg",
+    "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--foto2--20250401--115346.jpg",
+    "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--foto3--20250401--115346.jpg",
+    "static/uploads/oct-vio-tarqu-nio-de-sousa--a-vida-de-d--pedro-i--foto4--20250401--115346.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, sem danos na capa, lombada e contracapa, porém fortemente amarelado pelo tempo, sobretudo nas bordas. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:46:07",
+  "observacoes": null
+}

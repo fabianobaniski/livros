@@ -1,0 +1,68 @@
+{
+  "obra_id": 1458,
+  "autor": "Fábio de Melo",
+  "titulo": "Mulheres de aço e de flores",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura. Feminilidade. Natureza.",
+  "palavras_chave": "melo mulheres aço flores",
+  "edicao_id": 1439,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 214,
+  "peso": 250,
+  "isbn": "9788573126105",
+  "editora": "Gente",
+  "numero_edicao": 7,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>De aço e de flores. O aprimorado da vida ainda insiste em nascer dos contrários. As mulheres sabem mais sobre isso. Elas experimentam na carne o destino de serem como Deus, em pequenas partes. Geram o mundo; embalam os destinos e entrelaçam num mesmo tecido as cores da fragilidade e da força. Elas são de aço. Elas são de flores.</p><p>Recordo-me. A jabuticabeira florida era epifania de uma felicidade de época. Alegrias com cores de novembro. Chuvas torrenciais que nos permitiam prazeres delicados. Observar a metamorfose das flores em frutos era satisfação sem preço. A natureza costurada de regras consumava diante de nossos olhos o ditado bíblico, de que debaixo do céu há um tempo para cada coisa. Era o tempo alinhavando os destinos das floradas, enquanto no silêncio do coração uma primavera fora de hora insistia em lançar pequenos brotos.</p>",
+  "sinopse": "Este livro reflete sobre a dualidade da vida que habita as mulheres, destacando a força e a fragilidade que coabitam em suas experiências. Através de metáforas que relacionam as mulheres com a natureza e a metamorfose das flores, o autor convida a uma reflexão sobre a beleza e a complexidade do viver.",
+  "exemplar_id": 1438,
+  "sku": "LI00V8",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/f-bio-de-melo--mulheres--capa--20250401--115735.jpg",
+  "contracapa": "static/uploads/f-bio-de-melo--mulheres--contracapa--20250401--115735.jpg",
+  "fotos": [
+    "static/uploads/f-bio-de-melo--mulheres--foto1--20250401--115735.jpg",
+    "static/uploads/f-bio-de-melo--mulheres--foto2--20250401--115735.jpg",
+    "static/uploads/f-bio-de-melo--mulheres--foto3--20250401--115735.jpg",
+    "static/uploads/f-bio-de-melo--mulheres--foto4--20250401--115735.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:10:50",
+  "observacoes": null
+}

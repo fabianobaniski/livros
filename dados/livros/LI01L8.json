@@ -1,0 +1,63 @@
+{
+  "obra_id": 2564,
+  "autor": "Heiz J. Nowarra",
+  "titulo": "German tanks 1914-1968",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "nowarra german tanks 19141968",
+  "edicao_id": 2544,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 96,
+  "peso": 552,
+  "isbn": "",
+  "editora": "Arco",
+  "numero_edicao": 0,
+  "ano": 1968,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2543,
+  "sku": "LI01L8",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/heiz-j-nowarra--german-tanks-1914-1968--capa--20260316--202704.jpg",
+  "contracapa": "static/uploads/heiz-j-nowarra--german-tanks-1914-1968--contracapa--20260316--202704.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:24:27",
+  "observacoes": null
+}

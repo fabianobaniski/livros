@@ -1,0 +1,63 @@
+{
+  "obra_id": 2966,
+  "autor": "Diane Tillman; Diana Hsu",
+  "titulo": "Valores para vivir",
+  "subtitulo": "Actividades para niños de 3 a 7 años",
+  "idioma": "Espanhol",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "tillman valores para vivir",
+  "edicao_id": 2946,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 234,
+  "peso": 380,
+  "isbn": "9789875504349",
+  "editora": "Longseller S. A.",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este guia prático foi criado para educadores e adultos preocupados com o aumento da violência e a falta de respeito na sociedade atual. Valores Para Vivir oferece atividades para que crianças de 3 a 7 anos desenvolvam autoestima, inteligência emocional e expressão criativa. Com lições sobre paz, respeito, responsabilidade, cooperação e mais, o programa promove habilidades sociais e morais, ajudando as crianças a se integrarem positivamente em uma sociedade em constante mudança, preparando-as para um futuro melhor.",
+  "exemplar_id": 2945,
+  "sku": "LI01WE",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/valores-para-vivir-diane-tillman-capa_rev532.jpg",
+  "contracapa": "static/uploads/valores-para-vivir-diane-tillman-contracapa_rev36.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:30",
+  "observacoes": null
+}

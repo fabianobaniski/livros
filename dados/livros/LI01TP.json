@@ -1,0 +1,63 @@
+{
+  "obra_id": 2869,
+  "autor": "Hans Kung",
+  "titulo": "Projecto para uma ética mundial",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "kung projecto para uma",
+  "edicao_id": 2849,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 280,
+  "peso": 300,
+  "isbn": "9789728329020",
+  "editora": "Instituto Piaget",
+  "numero_edicao": null,
+  "ano": 1990,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro defende a liberdade religiosa e a harmonia entre as religiões mundiais, com base nos valores humanos, propondo um ethos global como essencial para a sobrevivência da humanidade no novo milênio. A obra combina teoria e prática, explorando os fundamentos dessa tese e propondo a paz e o diálogo entre as religiões como caminho para um futuro sustentável. Hans Küng advoga pela diversidade religiosa e apresenta uma análise acessível e profunda, ideal para leigos e especialistas interessados na busca por um entendimento ecumênico global.",
+  "exemplar_id": 2848,
+  "sku": "LI01TP",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/projecto-para-uma-etica-mundial-hans-kung-capa_rev2057.jpg",
+  "contracapa": "static/uploads/projecto-para-uma-etica-mundial-hans-kung-contracapa_rev1760.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Papel um pouco amarelado. Há selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:17:38",
+  "observacoes": null
+}

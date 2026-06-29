@@ -1,0 +1,63 @@
+{
+  "obra_id": 4985,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Aventura.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4960,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 180,
+  "isbn": "9788545702429",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>Do mesmo autor de <b>LOVE HINA</b> e <b>Negima</b></p> <h1>A luta suprema! Eva versus Fate!!</h1> <p>Os \"Numbers\" da <b>UQ Holder</b> têm um confronto direto com Fate Averruncus, o maior mago do Sistema Solar e inimigo jurado da organização! No começo, parecia que os nossos imortais não teriam nenhuma chance, mas graças ao poder único de Kirie, eles conseguem \"capturar\" Fate com muito sufoco! E agora, cara a cara com Evangeline depois de 20 anos, a batalha mais épica de todas está para começar!</p>",
+  "sinopse": "Os 'Numbers' da UQ Holder enfrentam Fate Averruncus, o maior mago do Sistema Solar, em uma batalha épica. Inicialmente sem chances, eles utilizam o poder de Kirie para conseguir 'capturar' Fate. A ação culmina em um confronto grandioso com Evangeline após 20 anos.",
+  "exemplar_id": 4959,
+  "sku": "LI02Q3",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-29-701147-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-31-016862-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

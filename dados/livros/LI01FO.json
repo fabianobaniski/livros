@@ -1,0 +1,63 @@
+{
+  "obra_id": 2363,
+  "autor": "Raquel Gandini",
+  "titulo": "Almeida Júnior",
+  "subtitulo": "Coleção Educadores (mec)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "gandini almeida junior colecao",
+  "edicao_id": 2343,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 147,
+  "peso": 394,
+  "isbn": "9788570195029",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2342,
+  "sku": "LI01FO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/raquel-gandini--almeida-junior--capa--20260316--153921.jpg",
+  "contracapa": "static/uploads/raquel-gandini--almeida-junior--contracapa--20260316--153935.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:12:49",
+  "observacoes": null
+}

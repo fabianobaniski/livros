@@ -1,0 +1,68 @@
+{
+  "obra_id": 2216,
+  "autor": "A. A. Groppelli; Ehsan Nikbakht",
+  "titulo": "Administração Financeira",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Finanças. Mercado financeiro. Investimentos. Educação superior.",
+  "palavras_chave": "groppelli administracao financeira",
+  "edicao_id": 2196,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 496,
+  "peso": 840,
+  "isbn": "9788502039025",
+  "editora": "Saraiva",
+  "numero_edicao": 2,
+  "ano": 2006,
+  "serie": "Série Essencial",
+  "volume": null,
+  "transcricao_contracapa": "<p>Para atuar no mundo dos negócios, conhecer finanças é essencial. A combinação entre teoria e prática tornou-se instrumento importante de aprimoramento de tecnologias cada vez mais complexas, comuns e essenciais em uma área em constante mudança e evolução. Escrito por professores de Finanças da Hofstra University, a sua segunda edição de <b>Administração Financeira</b> oferece um moderno guia sobre a disciplina acadêmica mais popular do mundo.</p><p>O livro combina a profundidade característica do tema com a didática necessária ao entendimento dos conceitos por alunos e profissionais. Em seus 21 capítulos, esclarece conceitos, explica como funciona o mercado financeiro e os tipos de empresas que o compõem, aborda cálculo de riscos e retorno, discute o mercado de ações, analisa demonstrativos financeiros e apresenta os softwares mais usados, entre outros temas.</p><p>É indicado para estudantes e profissionais de Administração, Economia e áreas afins. Traz ainda um apêndice com tabelas financeiras e glossário dos termos mais utilizados em finanças.</p><b>APLICAÇÃO:</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Administração Financeira, Análise de Investimentos, Mercado de Capitais.",
+  "sinopse": "Esta obra oferece um guia moderno sobre finanças, combinando teoria e prática para atender à demanda de uma área em constante evolução. Escrita por professores da Hofstra University, apresenta 21 capítulos que explicam conceitos fundamentais, funcionamento do mercado financeiro, tipos de empresas, cálculo de riscos, mercado de ações e análise de demonstrativos financeiros, além de abordar os softwares mais usados. Recomendado para estudantes e profissionais de Administração, Economia e áreas afins, o livro inclui apêndices com tabelas financeiras e glossário.",
+  "exemplar_id": 2195,
+  "sku": "LI01BL",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/a--a--groppelli--administra--o-financeira--capa--20250430--105059.jpg",
+  "contracapa": "static/uploads/a--a--groppelli--administra--o-financeira--contracapa--20250430--105059.jpg",
+  "fotos": [
+    "static/uploads/a--a--groppelli--administra--o-financeira--foto1--20250430--105059.jpg",
+    "static/uploads/a--a--groppelli--administra--o-financeira--foto2--20250430--105059.jpg",
+    "static/uploads/a--a--groppelli--administra--o-financeira--foto3--20250430--105059.jpg",
+    "static/uploads/a--a--groppelli--administra--o-financeira--foto4--20250430--105059.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:03:43",
+  "observacoes": "procedencia_biblioteca"
+}

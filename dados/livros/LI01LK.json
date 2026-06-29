@@ -1,0 +1,63 @@
+{
+  "obra_id": 2576,
+  "autor": "Flávio Faria",
+  "titulo": "Guia de vinícolas do Chile",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Turismo",
+  "temas": "",
+  "palavras_chave": "faria guia vinicolas chile",
+  "edicao_id": 2556,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Casa da Palavra",
+  "numero_edicao": 0,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2555,
+  "sku": "LI01LK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/flavio-faria--guia-de-vinicolas-do-chile--capa--20260316--211808.jpg",
+  "contracapa": "static/uploads/flavio-faria--guia-de-vinicolas-do-chile--contracapa--20260316--211808.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ranking com Mais de 60 Vinícolas para Você Visitar // Livro em perfeita conservação. Nada de danos ou rabiscos; capas em ótimo estado; bordas limpas. Composto em papel especial e totalmente ilustrado. Belíssimo livro! // Este guia apresenta dicas para você conhecer o melhor das vinícolas da região central do Chile. Aqui você vai encontrar tudo o que precisa saber sobre os vales de Aconcagua, Casablanca, San Antonio, Maipo, Cachapoal, Cochagua, Curicó e Maule: dicas de onde comer e ficar; a história e o que vale conferir em cada vinícola; coordenadas GPS e mapas; os destaques nas categorias vocação turística, visita técnica, degustação, wine shop e valor; Chile Chic - um roteiro de cinco dias com o melhor do Chile; Vinho por um dia - 50 roteiros de um dia que se encaixam em qualquer viagem."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:22:14",
+  "observacoes": null
+}

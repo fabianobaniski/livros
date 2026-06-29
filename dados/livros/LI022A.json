@@ -1,0 +1,63 @@
+{
+  "obra_id": 3178,
+  "autor": "Isabel de Maria Mourão; Miguel Maria Brito",
+  "titulo": "Uma Horta Em Casa",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Biologia",
+  "temas": null,
+  "palavras_chave": "mourao uma horta casa",
+  "edicao_id": 3158,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 247,
+  "peso": 700,
+  "isbn": "9789896920791",
+  "editora": "Arte Plural",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3157,
+  "sku": "LI022A",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Hortas urbanas e comunitárias têm se tornado parte da paisagem das cidades modernas, e trazer essa prática para dentro de casa é um passo natural e desejável. Uma pequena horta em casa, seja em um terraço, varanda ou janela, utiliza de forma criativa o espaço disponível, ajudando a combater mudanças climáticas, melhorando a qualidade da alimentação e reduzindo despesas. Além de proporcionar alimentos mais saudáveis, a horta também oferece um ambiente de convivência agradável para a família. O livro explora como criar e manter uma horta em casa, adaptando-se a diferentes espaços e necessidades. / Ótima conservação! Ilustrado em cores. Sem anotações, sublinhados, marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:38:08",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 4710,
+  "autor": "Tadahiro Miura",
+  "titulo": "Yuuna e a pensão assombrada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Sobrenatural. Vida escolar.",
+  "palavras_chave": "miura yuuna pensao assombrada",
+  "edicao_id": 4685,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 210,
+  "isbn": "9786559609239",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 21,
+  "transcricao_contracapa": "<p>Eu, Harumu Yumesaki... Sou uma meia-youkai que tem sangue de súcubo nas veias.</p> <p>Yuuna começa a se preocupar por todos estarem muito estranhos e distantes, até descobrir que o pessoal está planejando uma festa surpresa de aniversário para ela...! Além disso, um professor estagiário chega ao Colégio Yukemuri! Seu nome é Naruishi, um jovem cheio de confiança que na verdade é um Incubo e vai, a pedido da própria professora Yumesaki... Selar os poderes dela pra sempre?!</p>",
+  "sinopse": "Yuuna descobre que seus amigos estão estranhamente distantes apenas para preparar uma festa surpresa de aniversário. Entretanto, a chegada de Naruishi, um professor estagiário e Incubo, ao Colégio Yukemuri traz a possibilidade de selar os poderes de Harumu Yumesaki, uma meia-youkai com sangue de súcubo.",
+  "exemplar_id": 4684,
+  "sku": "LI02IG",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__capa__2026-02-20_10-30-13-335803-000.png",
+  "contracapa": "static/uploads/yuuna-e-a-pensao-assombrada__tadahiro-miura__contracapa__2026-02-20_10-30-13-533384-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com sobrecapa e capas sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

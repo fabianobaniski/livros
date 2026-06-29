@@ -1,0 +1,68 @@
+{
+  "obra_id": 1680,
+  "autor": "Jean Galot",
+  "titulo": "Maria e a fé",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Fé. Vida de Maria.",
+  "palavras_chave": "galot maria fé",
+  "edicao_id": 1661,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 78,
+  "peso": 150,
+  "isbn": "9788574651545",
+  "editora": "Quadrante",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>De 11 de outubro de 2012 a 24 de novembro de 2013, celebraremos na Igreja Católica, por decisão do Sumo Pontífice Bento XVI, um “Ano da Fé”. Disse o Papa que será um tempo “de graça e de compromisso para uma conversão a Deus cada vez mais completa, a fim de fortalecermos a nossa fé nEle e O anunciarmos com alegria ao homem do nosso tempo”.</p> <p>Não há melhor maneira de preparar-nos para esse ano do que contemplar Maria, modelo de fé para todos os cristãos. Bem-aventurada és tu que creste, pois se hão de cumprir as coisas que da parte do Senhor te foram ditas! (Lc 1, 45), diz Santa Isabel à Virgem na Visitação. A partir dessas palavras, o Autor tece toda a sua reflexão sobre a centralidade da fé ao longo do itinerário terreno de Maria, desde a Anunciação até Crucifixão e o Pentecostes. É nessa mesma linha que se situam as palavras do Papa João Paulo II na Encíclica Redemptoris Mater, da qual incluímos aqui alguns trechos.</p> <p>A vida de Maria foi uma vida de fé, de uma fé ardente, inteiramente dedicada a cumprir os desígnios de Deus: Eis a serva do Senhor, faça-se em mim segundo a tua palavra (Lc 1, 38). Por sua fé, Maria tornou-se Mãe de Deus e Mãe da Igreja, colaborando especialissimamente com o seu Filho para a redenção dos homens. Esforçando-nos por seguir as suas pegadas, saberemos ser cristãos de verdade, generosos e fecundos.</p>",
+  "sinopse": "O livro reflete sobre a vida de Maria como um modelo de fé, abordando sua importância na Igreja e no contexto da fé cristã, a partir de passagens bíblicas e de reflexões do Papa. Nele, destaca-se a centralidade da fé de Maria desde a Anunciação até a Crucifixão e o Pentecostes, inspirando os leitores a seguir seus exemplos de fé genuína e generosidade.",
+  "exemplar_id": 1660,
+  "sku": "LI00XM",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jean-galot--maria-e-a-f---capa--20250401--115805.jpg",
+  "contracapa": "static/uploads/jean-galot--maria-e-a-f---contracapa--20250401--115805.jpg",
+  "fotos": [
+    "static/uploads/jean-galot--maria-e-a-f---foto1--20250401--115805.jpg",
+    "static/uploads/jean-galot--maria-e-a-f---foto2--20250401--115805.jpg",
+    "static/uploads/jean-galot--maria-e-a-f---foto3--20250401--115805.jpg",
+    "static/uploads/jean-galot--maria-e-a-f---foto4--20250401--115805.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:59:50",
+  "observacoes": null
+}

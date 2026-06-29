@@ -1,0 +1,68 @@
+{
+  "obra_id": 5761,
+  "autor": "Ellen White",
+  "titulo": "A grande controvérsia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Cristianismo. Profecias bíblicas. História das religiões. Batalha espiritual.",
+  "palavras_chave": "white grande controversia",
+  "edicao_id": 5736,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 648,
+  "peso": 690,
+  "isbn": "9788560006007",
+  "editora": "IAGE",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Partindo do alvorecer da era cristã, este livro retrata a ascensão e queda de nações e poderes religiosos, até os nossos dias, então avança futuro adentro, baseando-se numa fonte que nunca falhou em suas profecias: as Escrituras Sagradas. Anime-se, a guerra está no fim, e você ainda pode escolher de que lado estará quando tudo terminar.</p>",
+  "sinopse": "O livro narra a ascensão e queda de nações e poderes religiosos a partir do início da era cristã até os dias atuais. Ele projeta o futuro, baseando-se nas profecias das Escrituras Sagradas, e incentiva o leitor a tomar uma decisão sobre de que lado estará quando a guerra final chegar.",
+  "exemplar_id": 5735,
+  "sku": "LI0356",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/a-grande-controversia__none__ellen-white__capa__2026-01-18_14-11-28-440690-000.png",
+  "contracapa": "static/uploads/a-grande-controversia__none__ellen-white__contracapa__2026-01-18_14-11-28-596461-001.png",
+  "fotos": [
+    "static/uploads/a-grande-controversia__none__ellen-white__foto-01__2026-01-18_14-11-28-725240-002.jpg",
+    "static/uploads/a-grande-controversia__none__ellen-white__foto-02__2026-01-18_14-11-28-765388-003.jpg",
+    "static/uploads/a-grande-controversia__none__ellen-white__foto-03__2026-01-18_14-11-28-795841-004.jpg",
+    "static/uploads/a-grande-controversia__none__ellen-white__foto-04__2026-01-18_14-11-28-828411-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:22:44",
+  "observacoes": null
+}

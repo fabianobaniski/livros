@@ -1,0 +1,68 @@
+{
+  "obra_id": 3646,
+  "autor": "Nikos Kazantzakis",
+  "titulo": "O Cristo recrucificado",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "kazantzakis cristo recrucificado",
+  "edicao_id": 3623,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 519,
+  "peso": 630,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em uma aldeia grega sob ocupação turca, os habitantes decidem encenar a Paixão de Cristo, mas os conflitos reais entre os moradores abastados e refugiados famintos acabam transformando a encenação em uma repetição da tragédia bíblica, onde o sacrifício e a hipocrisia religiosa entram em colisão.",
+  "exemplar_id": 3622,
+  "sku": "LI02F5",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/nikos-kazantzakis--o-cristo-recrucificado--capa--20251114--184649.png",
+  "contracapa": "static/uploads/nikos-kazantzakis--o-cristo-recrucificado--contracapa--20251114--184657.png",
+  "fotos": [
+    "static/uploads/nikos-kazantzakis--o-cristo-recrucificado--foto1--20251113--204720.jpg",
+    "static/uploads/nikos-kazantzakis--o-cristo-recrucificado--foto2--20251113--204720.jpg",
+    "static/uploads/nikos-kazantzakis--o-cristo-recrucificado--foto3--20251113--204720.jpg",
+    "static/uploads/nikos-kazantzakis--o-cristo-recrucificado--foto4--20251113--204720.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:58:36",
+  "observacoes": null
+}

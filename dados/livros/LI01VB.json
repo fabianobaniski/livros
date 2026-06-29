@@ -1,0 +1,63 @@
+{
+  "obra_id": 2927,
+  "autor": "Daniel Sekulich",
+  "titulo": "Terror nos mares",
+  "subtitulo": "Os piratas do século 21",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "sekulich terror nos mares",
+  "edicao_id": 2907,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 253,
+  "peso": 350,
+  "isbn": "9788577750795",
+  "editora": "Landscape",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2906,
+  "sku": "LI01VB",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/terror-nos-mares-daniel-sekulich-capa_rev1588.jpg",
+  "contracapa": "static/uploads/terror-nos-mares-daniel-sekulich-contracapa_rev2098.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Piratas modernos ainda existem e representam uma ameaça global, como revela o jornalista Daniel Sekulich. Ele expõe como esses criminosos, atuando em alto mar, impactam a economia global e colaboram com o terrorismo. Em uma jornada reveladora, Sekulich percorre algumas das áreas mais perigosas do mundo, documentando histórias sobre gangues e máfias que dominam o comércio ilícito e ameaçam a segurança internacional. Conversando com vítimas e autoridades, ele traz à tona os perigos enfrentados e os esforços para combater essa forma contemporânea de pirataria. / Ótima conservação. Nada de grifos ou anotações. Capa, lombada e contracapa sem danos. Discretos sinais de manuseio e/ou da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:05:53",
+  "observacoes": null
+}

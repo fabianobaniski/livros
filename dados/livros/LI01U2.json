@@ -1,0 +1,63 @@
+{
+  "obra_id": 2882,
+  "autor": "José Pedro Sucena Paiva",
+  "titulo": "Redes de energia eléctrica",
+  "subtitulo": "Uma análise sistêmica",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "paiva redes energia electrica",
+  "edicao_id": 2862,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 793,
+  "peso": 1500,
+  "isbn": "9789898481061",
+  "editora": "Inst. Superior Técnico",
+  "numero_edicao": 3,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro oferece uma análise abrangente e aprofundada das redes de energia elétrica, abordando temas essenciais como análise, planejamento e exploração de redes. Com um enfoque sistêmico, a obra inclui terminologia técnica, conceitos avançados e exemplos práticos, sendo um valioso manual de consulta para engenheiros e técnicos do setor elétrico. Além disso, discute políticas de organização e gestão do sistema elétrico, preenchendo uma lacuna na bibliografia técnica em língua portuguesa, com relevância tanto acadêmica quanto profissional.",
+  "exemplar_id": 2861,
+  "sku": "LI01U2",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/redes-eletricas-de-energia-eletrica-jose-pedro-sucena-paiva-capa_rev1704.jpg",
+  "contracapa": "static/uploads/redes-eletricas-de-energia-eletrica-jose-pedro-sucena-paiva-contracapa_rev1114.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:40:00",
+  "observacoes": null
+}

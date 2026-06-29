@@ -1,0 +1,68 @@
+{
+  "obra_id": 78,
+  "autor": "Daphne Du Maurier",
+  "titulo": "Rebecca",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Mistério. Suspense psicológico. Segredos. Morte",
+  "palavras_chave": "maurier rebecca",
+  "edicao_id": 78,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 396,
+  "peso": 350,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "Grandes Sucessos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quando a neblina se eleva do mar e invade os parques e terraços da mansão de Manderley, <b>ela</b> parece ressuscitar. Seu espírito se esconde no intenso perfume das azáleas, no sanguíneo colorido dos rododendros, atravessa as paredes da mansão, enquanto a brisa que vem da praia sussurra insistentemente: Rebecca, Rebecca...</p><p>Um romance comovente, que empolga pela atmosfera de expectativa brilhantemente engendrada.</p>",
+  "sinopse": "Uma jovem ingênua se casa com o enigmático viúvo Maxim de Winter e se muda para a imponente mansão de Manderley. Lá, ela se vê assombrada pela memória da falecida esposa de Maxim, Rebecca, cuja presença parece impregnar a casa e os moradores. Entre mistérios e revelações sombrias, a nova Sra. de Winter precisa enfrentar segredos do passado e encontrar seu lugar em um mundo dominado pela sombra de sua predecessora.",
+  "exemplar_id": 77,
+  "sku": "LI0022",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/daphne-du-maurier--rebecca--capa--20250225--233541.jpg",
+  "contracapa": "static/uploads/daphne-du-maurier--rebecca--contracapa--20250225--233541.jpg",
+  "fotos": [
+    "static/uploads/daphne-du-maurier--rebecca--foto1--20250225--233541.jpg",
+    "static/uploads/daphne-du-maurier--rebecca--foto2--20250225--233541.jpg",
+    "static/uploads/daphne-du-maurier--rebecca--foto3--20250225--233541.jpg",
+    "static/uploads/daphne-du-maurier--rebecca--foto4--20250225--233541.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:39:29",
+  "observacoes": null
+}

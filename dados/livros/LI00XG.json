@@ -1,0 +1,68 @@
+{
+  "obra_id": 1647,
+  "autor": "Miguel Sanches Neto",
+  "titulo": "Cidades alugadas",
+  "subtitulo": "Crônicas reunidas",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura. Crônicas. Cotidiano.",
+  "palavras_chave": "sanches neto cidades alugadas crônicas",
+  "edicao_id": 1628,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 300,
+  "isbn": "9788568411025",
+  "editora": "Container",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Mas a prova definitiva de que adotei a cidade é que, há pouco mais de um ano, tenho também outro endereço. Sou o mais feliz proprietário de uma caixa postal na agência dos Correios do centro.</p> <p>Há o ritual de sair de casa, deixar o carro na vaga destinada aos clientes, ligar o alerta (isso dá um pequeno prazer, como se nossa vida tivesse alguma urgência), seguir ansioso ao prédio dos Correios e abrir a caixa como quem rasga o embrulho de um presente para recolher pacotes com livros, a carta de um amigo distante, um aviso de encomenda.</p> <p>É muito bom carregar no bolso mais esta chave, a chave que pode abrir ou fechar um duto entre mim e o mundo.</p> <p>Miguel Sanches Neto</p>",
+  "sinopse": "Neste livro, Miguel Sanches Neto compartilha suas experiências e sentimentos sobre a cidade, a relação com o espaço urbano e a importância de objetos e rituais do cotidiano. Através de crônicas, o autor explora como a relação com a cidade e suas nuances refletem suas vivências pessoais, trazendo à tona reflexões sobre identidade e pertença.",
+  "exemplar_id": 1627,
+  "sku": "LI00XG",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/miguel-sanches-neto--cidades-alugadas--capa--20250401--115800.jpg",
+  "contracapa": "static/uploads/miguel-sanches-neto--cidades-alugadas--contracapa--20250401--115800.jpg",
+  "fotos": [
+    "static/uploads/miguel-sanches-neto--cidades-alugadas--foto1--20250401--115800.jpg",
+    "static/uploads/miguel-sanches-neto--cidades-alugadas--foto2--20250401--115800.jpg",
+    "static/uploads/miguel-sanches-neto--cidades-alugadas--foto3--20250401--115800.jpg",
+    "static/uploads/miguel-sanches-neto--cidades-alugadas--foto4--20250401--115800.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:35:23",
+  "observacoes": null
+}

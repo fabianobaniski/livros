@@ -1,0 +1,63 @@
+{
+  "obra_id": 917,
+  "autor": "C. Jeanne Orjala Serrão",
+  "titulo": "Novo comentário bíblico Beacon",
+  "subtitulo": "Tiago",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura Bíblica. Teologia.",
+  "palavras_chave": "serrao novo comentario biblico beacon tiago",
+  "edicao_id": 902,
+  "encadernacao": null,
+  "quantidade_paginas": 238,
+  "peso": 350,
+  "isbn": "9788576894957",
+  "editora": "Central Gospel",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Envolvente, perceptivo e, academicamente, minucioso e completo, o Novo Comentário Bíblico Beacon expandirá sua compreensão e aprofundará seu apreço pelo significado e pela mensagem de cada livro da Bíblia.</p><p>Indispensável, esse comentário fornece a pastores, estudiosos profissionais, professores e estudantes da Bíblia uma interpretação crítica, relevante e inspiradora da Palavra de Deus no século 21.</p><p>CADA VOLUME APRESENTA:</p><ul><li> TEXTO CONTEMPORÂNEO de notáveis especialistas e PhDs.</li><li> MATERIAL INTRODUTÓRIO PRÁTICO, incluindo informações sobre autoria, data, história, público, questões sociológicas e culturais, propósito, recursos literários, temas teológicos e questões hermenêuticas.</li><li> EXPLICAÇÕES CLARAS, versículo por versículo, que oferecem uma compreensão contemporânea e derivada do texto bíblico em sua língua original.</li><li> ANOTAÇÕES ABRANGENTE dividida em três seções, as quais exploram elementos por trás do texto, sentidos encontrados no texto e significado, importância, intertextualidade e aplicação a partir do texto.</li><li> ANOTAÇÕES COMPLEMENTARES que fornecem uma visão mais aprofundada de questões teológicas, significado das palavras, conexões arqueológicas, relevância histórica e costumes culturais.</li><li> BIBLIOGRAFIA EXPANDIDA para um estudo mais abrangente de elementos históricos, interpretações adicionais e temas teológicos.</li></ul><p>C. Jeanne Orjala Serrão é Professora de Literatura Bíblica da School of Theology and Philosophy, em Mount Vernon Nazarene University. Ela ensinou na European Nazarene College e tem servido como professora adjunta em instituições como Trevecca Nazarene University, Azusa Pacific University, entre outras. Obteve bacharelado em Literatura Bíblica pela Mid-America Nazarene University, um M.Div. e um M.A. em Missões pela Nazarene Theological Seminary e diploma em Ph.D. pela Claremont Graduate University. É presbítera ordenada na Church of the Nazarene.</p>",
+  "sinopse": "O Novo Comentário Bíblico Beacon oferece uma análise profunda e crítica de cada livro da Bíblia, com foco especial no livro de Tiago. Este recurso é projetado para pastores, estudantes e estudiosos, oferecendo explicações claras, material introdutório prático, e anotações complementares que facilitam a compreensão e aplicação do texto sagrado. Cada volume apresenta contribuições de especialistas e uma bibliografia expandida para estudo adicional.",
+  "exemplar_id": 901,
+  "sku": "LI00OB",
+  "preco_estante_virtual": 68.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/c--jeanne-orjala-serr-o--novo-coment-rio-b-blico-beacon--capa--20250227--152913.jpg",
+  "contracapa": "static/uploads/c--jeanne-orjala-serr-o--novo-coment-rio-b-blico-beacon--contracapa--20250227--152913.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:24:19",
+  "observacoes": null
+}

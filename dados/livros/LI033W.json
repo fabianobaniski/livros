@@ -1,0 +1,63 @@
+{
+  "obra_id": 5715,
+  "autor": "Kenta Shinohara",
+  "titulo": "Astra",
+  "subtitulo": "Lost in Space",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Aventura espacial.",
+  "palavras_chave": "shinohara astra lost space",
+  "edicao_id": 5690,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 230,
+  "isbn": "9786555140491",
+  "editora": "Devir",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Nove adolescentes perdidos no espaço a mais de 5000 anos-luz vão conseguir voltar para casa sozinhos?</p> <p>Depois do acidente no Planeta Icriss a tripulação da Astra parece ter perdido as esperanças de voltar para casa. A situação muda de figura quando eles encontram uma outra nave Astra, aparentemente abandonada nesse planeta. Será essa espaçonave a arca que salvará a equipe B-5 dessa situação desesperadora?</p>",
+  "sinopse": "Nove adolescentes estão perdidos no espaço a mais de 5000 anos-luz e enfrentam desafios para voltar para casa. Após um acidente no Planeta Icriss, a esperança parece perdida até que descobrem outra nave Astra. Será essa nave a salvação para a equipe B-5?",
+  "exemplar_id": 5689,
+  "sku": "LI033W",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/astra__lost-in-space__kenta-shinohara__capa__2026-02-24_13-36-59-266357-000.jpg",
+  "contracapa": "static/uploads/astra__lost-in-space__kenta-shinohara__contracapa__2026-02-24_13-36-59-299993-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Sobrecapa, capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

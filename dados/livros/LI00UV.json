@@ -1,0 +1,68 @@
+{
+  "obra_id": 1445,
+  "autor": "Phil Sutcliffe",
+  "titulo": "Queen",
+  "subtitulo": "História ilustrada da maior banda de rock de todos os tempos",
+  "idioma": "Português",
+  "categoria": "Música",
+  "temas": "Música. Rock.",
+  "palavras_chave": "sutcliffe queen",
+  "edicao_id": 1426,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 287,
+  "peso": 2500,
+  "isbn": "9788525049933",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Famosos por suas eletrizantes performances e amados por sua música, os integrantes do Queen criaram um dos mais atraentes catálogos e um dos mais duradouros legados do rock. Este livro, o primeiro à altura da maior banda de rock de todos os tempos, apresenta:</p>\r\n<ul>\r\n<li>Mais de 500 imagens de várias partes do mundo, entre as quais impressionantes fotos da banda no palco e fora dele (dezenas delas nunca publicadas), folhetos, pôsteres, passes para os camarins, ingressos, camisetas, LPs e compactos.</li>\r\n<li>Uma história especialmente encomendada e uma extensa discografia. Ambas da autoria de Phil Sutcliffe, experiente escritor britânico especializado em música.</li>\r\n<li>Matérias adicionais e imagens dos mais respeitados escritores e fotógrafos do rock, como Jon Bream, Jim Derogatis, Harry Doherty, Greg Kot, Daniel Nester, Denis O'Regan, Michael Putland, Mick Rock, Sylvie Simmons e muitos outros.</li>\r\n<li>Informações exclusivas, objetos pessoais e fotografias raras, tudo fornecido por Peter Hince. Por muitos anos chefe da equipe de viagens do Queen, e por Reinhold Mack, produtor e amigo pessoal dos integrantes da banda.</li>\r\n<li>E mais: reflexões e comentários especialmente selecionados de Billy Squier, por muito tempo amigo e colaborador do grupo Queen. Assim como de Slash, Tommy Lee do Mötley Crüe, Chris Squire do Yes, Rob Halford do Judas Priest, Geddy Lee do Rush, Neil Diamond, Tom Morello do Rage Against the Machine, Adele, Kid Rock e outros!</li>\r\n</ul>",
+  "sinopse": "Este livro explora a trajetória da banda Queen, destacando suas eletrizantes performances e o legado duradouro que criaram no mundo do rock. Com mais de 500 imagens inéditas e uma extensa discografia, a obra também traz matérias de respeitados escritores e fotógrafos, além de informações exclusivas que oferecem um olhar íntimo sobre os integrantes e a história da banda.",
+  "exemplar_id": 1425,
+  "sku": "LI00UV",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": 150.0,
+  "capa": "static/uploads/phil-sutcliffe--queen--capa--20250401--115348.png",
+  "contracapa": "static/uploads/phil-sutcliffe--queen--contracapa--20250401--115348.png",
+  "fotos": [
+    "static/uploads/phil-sutcliffe--queen--foto1--20250401--115348.jpg",
+    "static/uploads/phil-sutcliffe--queen--foto2--20250401--115348.jpg",
+    "static/uploads/phil-sutcliffe--queen--foto3--20250401--115348.jpg",
+    "static/uploads/phil-sutcliffe--queen--foto4--20250401--115348.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro grande, com sobrecapa, em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Ricamente ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:40:21",
+  "observacoes": null
+}

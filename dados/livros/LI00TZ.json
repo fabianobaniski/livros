@@ -1,0 +1,68 @@
+{
+  "obra_id": 1411,
+  "autor": "Allen Ginsberg",
+  "titulo": "Uivo",
+  "subtitulo": "Graphic novel",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura. Poesia. Sociedade.",
+  "palavras_chave": "ginsberg uivo graphic novel",
+  "edicao_id": 1393,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 222,
+  "peso": 350,
+  "isbn": "9788525051417",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Publicado pela primeira vez em 1956, Uivo é uma obra-prima profética – um épico irado contra a sociedade desumanizante, que venceu ações de censura e acusações de obscenidade para se tornar um dos poemas mais lidos do século.</p> <p>“Ginsberg é ao mesmo tempo trágico e enérgico, um gênio lírico e um antagonista extraordinário, provavelmente a maior influência individual na dicção poética norte-americana desde Whitman.”<br> – Bob Dylan</p> <p>“Ginsberg é responsável por tirar o fôlego da poesia norte-americana da metade do século XX... Acima de tudo, ele demonstrou não haver nada na realidade social e sexual americana que não possa encontrar seu lugar ali...”<br> – Helen Vendler</p>",
+  "sinopse": "Uivo, publicado pela primeira vez em 1956, é uma obra-prima de Allen Ginsberg que critica uma sociedade desumanizante. Este épico, que enfrentou censura e polêmicas, se tornou um dos poemas mais influentes do século. Ginsberg é reconhecido por sua influência na poesia norte-americana contemporânea, sendo considerado por Bob Dylan uma figura trágica e enérgica. Helen Vendler ressalta seu impacto na discussão social e sexual americana.",
+  "exemplar_id": 1392,
+  "sku": "LI00TZ",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/allen-ginsberg--uivo--capa--20250401--115342.png",
+  "contracapa": "static/uploads/allen-ginsberg--uivo--contracapa--20250401--115342.png",
+  "fotos": [
+    "static/uploads/allen-ginsberg--uivo--foto1--20250401--115342.jpg",
+    "static/uploads/allen-ginsberg--uivo--foto2--20250401--115342.jpg",
+    "static/uploads/allen-ginsberg--uivo--foto3--20250401--115342.jpg",
+    "static/uploads/allen-ginsberg--uivo--foto4--20250401--115342.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:41:23",
+  "observacoes": null
+}

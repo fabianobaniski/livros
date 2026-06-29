@@ -1,0 +1,68 @@
+{
+  "obra_id": 2112,
+  "autor": "Elisabete Matallo Marchesini de Pádua",
+  "titulo": "Metodologia da pesquisa",
+  "subtitulo": "Abordagem teórico-prática",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Metodologia científica. Pesquisa acadêmica. Ensino superior.",
+  "palavras_chave": "padua metodologia pesquisa abordagem teorico pratica",
+  "edicao_id": 2092,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 124,
+  "peso": 180,
+  "isbn": "9788530806071",
+  "editora": "Papirus",
+  "numero_edicao": 14,
+  "ano": 2004,
+  "serie": "Magistério Formação e Trabalho Pedagógico",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Metodologia da pesquisa</h1><p>Baseada em sua experiência como docente, neste livro, Elisabete M.M. de Pádua oferece diretrizes básicas para o desenvolvimento de pesquisas com caráter científico.</p><p>Com esse objetivo, a obra foi dividida em duas partes: a primeira apresenta uma abordagem histórico-filosófica sobre a questão da ciência e do método, e a segunda contém orientações básicas para o desenvolvimento de pesquisas.</p><p>A autora procura demonstrar que os procedimentos e as técnicas — que dão suporte ao processo da pesquisa — podem se constituir em meios para o desenvolvimento de uma formação intelectual rigorosa, crítica e sintonizada com nosso tempo, em especial nos cursos de graduação.</p>",
+  "sinopse": "O livro apresenta diretrizes fundamentais para o desenvolvimento de pesquisas científicas, dividindo-se em uma parte histórico-filosófica sobre ciência e método, e outra com orientações práticas para pesquisas. A autora destaca como procedimentos e técnicas de pesquisa colaboram para uma formação intelectual crítica e rigorosa, especialmente útil em cursos de graduação.",
+  "exemplar_id": 2091,
+  "sku": "LI018P",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/elisabete-matallo-marchesini-de-p-dua--metodologia-da-pesquisa--capa--20250430--104534.jpg",
+  "contracapa": "static/uploads/elisabete-matallo-marchesini-de-p-dua--metodologia-da-pesquisa--contracapa--20250430--104534.jpg",
+  "fotos": [
+    "static/uploads/elisabete-matallo-marchesini-de-p-dua--metodologia-da-pesquisa--foto1--20250430--104534.jpg",
+    "static/uploads/elisabete-matallo-marchesini-de-p-dua--metodologia-da-pesquisa--foto2--20250430--104534.jpg",
+    "static/uploads/elisabete-matallo-marchesini-de-p-dua--metodologia-da-pesquisa--foto3--20250430--104534.jpg",
+    "static/uploads/elisabete-matallo-marchesini-de-p-dua--metodologia-da-pesquisa--foto4--20250430--104534.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:51:48",
+  "observacoes": "procedencia_biblioteca"
+}

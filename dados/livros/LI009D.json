@@ -1,0 +1,68 @@
+{
+  "obra_id": 367,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Avivamento urgente",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Avivamento.",
+  "palavras_chave": "lopes avivamento urgente",
+  "edicao_id": 357,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 108,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Betânia",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>No avivamento, a igreja passa a ter sede de Deus mais do que das bênçãos de Deus. No avivamento, os crentes buscam a intimidade de Deus com sofriguedo e se empenham por alcançá-la. No avivamento, os crentes não se contentam com coisas; eles querem Deus! As Escrituras dizem que as torrentes de Deus só caem sobre a terra seca. O Espírito Santo só é derramado sobre os sedentos. Só os que anseiam por Deus conhecem a intimidade de Deus. Só os sedentos serão saciados!</p> <p>Rev. Hernandes Dias Lopes</p> <p>Aqui encaramos o despertamento autêntico que muda a espiritualidade superficial e transforma a sociedade. Ainda não experimentamos o avivamento seguro o coração de Deus, porque na palavra infalível. Mas as marcas desse reconhecimento estão em nosso antigo arista famoso. Um avivamento autêntico deve trazer a ética e a moralidade. Deve trazer a bênção de Deus sobre a pátria.</p> <p>Dr. Russell P. Shed</p>",
+  "sinopse": "O livro aborda a busca por um avivamento autêntico e a intensa sede de intimidade com Deus que os crentes sentem, enfatizando que somente através de um coração sedento é possível experimentar o verdadeiro derramamento do Espírito Santo e a transformação da sociedade.",
+  "exemplar_id": 356,
+  "sku": "LI009D",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/hernandes-dias-lopes--avivamento--capa--20250226--133823.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--avivamento--contracapa--20250226--133823.jpg",
+  "fotos": [
+    "static/uploads/hernandes-dias-lopes--avivamento--foto1--20250226--133823.jpg",
+    "static/uploads/hernandes-dias-lopes--avivamento--foto2--20250226--133823.jpg",
+    "static/uploads/hernandes-dias-lopes--avivamento--foto3--20250226--133823.jpg",
+    "static/uploads/hernandes-dias-lopes--avivamento--foto4--20250226--133823.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro pocket, bem conservado, sem danos na capa, lombada e contracapa, levemente amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:30:57",
+  "observacoes": null
+}

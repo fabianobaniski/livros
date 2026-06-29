@@ -1,0 +1,63 @@
+{
+  "obra_id": 2623,
+  "autor": "M. A. Shaban",
+  "titulo": "Islamic History",
+  "subtitulo": "A new interpretation - Volume 2 - AD 750-1055 (AH 132-448)",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "shaban islamic history new",
+  "edicao_id": 2603,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 221,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Cambridge University Press",
+  "numero_edicao": 0,
+  "ano": 1978,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2602,
+  "sku": "LI01MV",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/m-a-shaban--islamic-history--capa--20260316--213612.jpg",
+  "contracapa": "static/uploads/m-a-shaban--islamic-history--contracapa--20260316--213612.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora bastante amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto grifado à caneta em cerca de 10 a 20% das folhas. Primeira página teve uma pequena parte recortada.  This book is a sequel to the authors Islamic History A.D. 600-750 (A.H. 132). A New Interpretation. It presents for the first time a clear narrative analysis of the central events in the Islamic domains between the rise of the Abbasids and the Saljuq invasion (A.D. 750-1055/ A.H. 132-448). This period witnessed the establishment of a new regime, its failure to live up to its revolutionary ideals and the gradual dissolution of a vast empire into lesser political entitles. The task of creating a political structure supported by viable institutions to rule their territories proved beyond the Abbasids. Nor were they able to accomplish the economic integration of the empire, largely expanding urban centres with those of the rural communities. The result was endemic revolts in rural areas, notably those of Babak, the Zanj and the Qaramita. The wealth of the Abbasid empire attracted vast volumes of international trade. Each region in the empire wished to pursue its own interest in this trade, and competition for an ever-larger share soon developed into uncontrollable interregional strife. Lacking political and economic organization to maintain the integrity of their empire, the Abbasids resorted to military power. Consequently military leaders established their own rule in the regions and became powerful adversaries to central government. On the other hand the local populations in the outer provinces rose under their chiefs and also became aggressive opponents. It is these developments that explain the rise of the Tahirids, Samanids, Saffarids, Buyids, Ghaznavids, Tulunids, Hamdanids, and other regional power groups. Dr Shaban also studies the rise to power in Tunisia and later in Egypt, replacing the crumbling rule of military dynasties in both provinces. The revolutionary idealism of the Fatimids, however, failed to win the support of their subject populations, and their economic policies led to the ruination of their regime. The arrival of the Saljuqs on the scene marks the beginning of a new epoch in Islamic history. Dr Shaban has based his book on a fresh study of the original sources, and he offers many new and challenging insights into the historical account of the period. He has kept in view the needs of the reader who might be bewildered by the mass of proper names involved and has deliberately concentrated on the main outlines of the period as a whole."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:49:07",
+  "observacoes": null
+}

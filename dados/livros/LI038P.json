@@ -1,0 +1,67 @@
+{
+  "obra_id": 5889,
+  "autor": "Ellen G. White",
+  "titulo": "Testemunhos para ministros",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white testemunhos ministros",
+  "edicao_id": 5864,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 553,
+  "peso": 600,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5863,
+  "sku": "LI038P",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": 150.0,
+  "capa": "static/uploads/ellen-g-white--testemunhos-para-ministros--capa--20260306--094522.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--testemunhos-para-ministros--foto1--20260306--094536.jpg",
+    "static/uploads/ellen-g-white--testemunhos-para-ministros--foto2--20260306--094536.jpg",
+    "static/uploads/ellen-g-white--testemunhos-para-ministros--foto3--20260306--094536.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Texto livre de anotações, sublinhados, carimbos, etc. Sem marcas de umidade, mofo, traça. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:09:49",
+  "observacoes": null
+}

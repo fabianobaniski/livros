@@ -1,0 +1,63 @@
+{
+  "obra_id": 2519,
+  "autor": "Fulton John Sheen",
+  "titulo": "Eleva tu corazon",
+  "subtitulo": "Un guía para la paz espiritual",
+  "idioma": "Espanhol",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "sheen eleva corazon guia",
+  "edicao_id": 2499,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 288,
+  "peso": 400,
+  "isbn": "9789870003670",
+  "editora": "Lumen",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2498,
+  "sku": "LI01JZ",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/fulton-john-sheen--eleva-tu-corazon--capa--20260316--193754.jpg",
+  "contracapa": "static/uploads/fulton-john-sheen--eleva-tu-corazon--contracapa--20260316--193754.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso.  / Eleva tu corazón, de Fulton J. Sheen, é uma obra clássica que explora a busca por sentido e paz interior em meio às tensões do mundo moderno. O autor oferece orientações práticas e espirituais para superar o estresse e os conflitos causados pelas falsas crenças e prazeres superficiais que muitas vezes nos afastam do verdadeiro propósito de vida. Com clareza e profundidade, Sheen convida os leitores a encontrar a autenticidade espiritual e a união com Deus, destacando a importância da fé e da sabedoria no caminho para a santificação pessoal. / Em espanhol."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:07:44",
+  "observacoes": null
+}

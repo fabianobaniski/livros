@@ -1,0 +1,63 @@
+{
+  "obra_id": 5515,
+  "autor": "Kohei Horikoshi",
+  "titulo": "My Hero Academia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Superação. Amizade.",
+  "palavras_chave": "horikoshi hero academia",
+  "edicao_id": 5490,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 186,
+  "peso": 200,
+  "isbn": "9788545702764",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "Boku No Hero Academia",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Deku foi o primeiro na corrida de <b>obstáculos</b>, só que isso vai fazer com que ele tenha muito <b>trabalho</b> no <b>cavalo de guerra</b>! Só que também significa que todo mundo vai ficar de olho nele, mas tenho certeza de que o Deku vai ficar bem! Eu também não posso ficar atrás! Papai, mamãe, olhem por mim!</p> <p><b>&ldquo;Plus Ultra&rdquo;!!</b></p>",
+  "sinopse": "Deku enfrenta novos desafios após vencer a corrida de obstáculos, sendo agora o centro das atenções no 'cavalo de guerra'. Determinado a mostrar seu valor, ele lida com a pressão e busca superar-se, incentivado por pensamentos em sua família. Uma história de perseverança e superação na busca por se tornar um herói.",
+  "exemplar_id": 5489,
+  "sku": "LI02YC",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/my-hero-academia__kohei-horikoshi__capa__2026-02-24_13-36-22-048579-000.png",
+  "contracapa": "static/uploads/my-hero-academia__kohei-horikoshi__contracapa__2026-02-24_13-36-22-097566-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

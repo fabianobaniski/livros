@@ -1,0 +1,68 @@
+{
+  "obra_id": 147,
+  "autor": "André Maurois",
+  "titulo": "Lafayette na América",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "História. Biografias. Revolução Americana.",
+  "palavras_chave": "maurois lafayette america",
+  "edicao_id": 143,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 105,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Distribuidora Record",
+  "numero_edicao": null,
+  "ano": 1965,
+  "serie": "Enciclopédia Histórica (Livro 16)",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta é a biografia do marquês de Lafayette, que, muito jovem, rico e de alto prestígio na aristocracia francesa, deixou sua vida confortável para cruzar o Atlântico e juntar-se ao aguerrido, embora pequeno exército de George Washington. Foi ferido na batalha de Brandywine, amargou o terrível inverno em Valley Forge e participou da vitória dos americanos sobre os ingleses em Yorktown.</p> <p>Casou-se aos dezessete anos com sua adorada Adrienne, que ainda a completar quinze. Aos dezenove era major-general do exército americano – onde carinhosamente era chamado “O Menino”.</p> <p>Nesta obra acompanhamos Lafayette desde a infância, no castelo de Chavaniac, na província francesa de Auvergne, os anos escolares, o tempo de militar, o noivado, até a grande decisão – tomada sob o risco de desagradar seu rei e seu país – de se incorporar ao exército americano. A narrativa prossegue, levando o leitor até à terra americana, às muitas batalhas da Revolução em que ele se portou bravamente.</p> <p>Meio século depois, Lafayette volta aos Estados Unidos para receber um acolhida que aquele país raramente dispensa a qualquer amigo estrangeiro. O que ele fizera por aquela jovem nação, quando ela enfrentava grandes perigos, conquistou a gratidão imorredoura do seu povo.</p> <p>André Maurois é amplamente conhecido como um dos melhores biógrafos de nosso tempo. Membro da Academia Francesa, oficial da Legião de Honra, detentor da mais alta condecoração do Império Britânico, contam-se entre suas muitas excelentes biografias para adultos as vidas de Shelley, Byron, Disraeli e Proust. Conta-se a literatura inglesa e americana têm bem quanto a francesa, eis tão a vontade em Nova Iorque como em sua querida Paris. Neste livro transparece a admiração do biógrafo pelo seu eminente conhecido, Lafayette.</p> <p>Quando Lafayette foi ferido na batalha de Brandywine, durante a Revolução Americana, o general Washington recomendou ao cirurgião: “Trate-o como se fosse meu próprio filho”. De fato, conservaram vida e for aquela grande amizade, que muito se assemelhou à afeição de pai para filho.</p>",
+  "sinopse": "A obra apresenta a biografia de Lafayette, um jovem marquês de alto prestígio na França que, ao deixar sua vida confortável, se junta ao exército de George Washington na luta pela independência americana. Desde sua infância até as batalhas em que se destacou, a narrativa revela suas conquistas e a profunda amizade que desenvolveu com Washington, além do impacto de sua jornada na história dos Estados Unidos.",
+  "exemplar_id": 142,
+  "sku": "LI003L",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/andr--maurois--lafayette-na-am-rica--capa--20250226--133758.jpg",
+  "contracapa": "static/uploads/andr--maurois--lafayette-na-am-rica--contracapa--20250226--133758.jpg",
+  "fotos": [
+    "static/uploads/andr--maurois--lafayette-na-am-rica--foto1--20250226--133758.jpg",
+    "static/uploads/andr--maurois--lafayette-na-am-rica--foto2--20250226--133758.jpg",
+    "static/uploads/andr--maurois--lafayette-na-am-rica--foto3--20250226--133758.jpg",
+    "static/uploads/andr--maurois--lafayette-na-am-rica--foto4--20250226--133758.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:21:26",
+  "observacoes": null
+}

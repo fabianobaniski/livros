@@ -1,0 +1,68 @@
+{
+  "obra_id": 2270,
+  "autor": "Luciano Crocco; Erik Guttmann",
+  "titulo": "Consultoria empresarial",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Consultoria empresarial. Gestão de negócios.",
+  "palavras_chave": "crocco consultoria empresarial",
+  "edicao_id": 2250,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 134,
+  "peso": 260,
+  "isbn": "9788502051355",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Leitura obrigatória para estudantes e profissionais das áreas de gestão e negócios, <i>Consultoria Empresarial</i> discute os diferentes aspectos que compõem a profissão de consultor empresarial. Oferecendo uma visão coordenada entre teoria e vivência prática, permite que cada capítulo possa ser lido separadamente, abordando cada assunto de forma aprofundada.</p><p>Traz temas como o contexto e o profissional da consultoria, discussão sobre produto ou serviço, tipos de consultoria, métodos de administração e avaliação dos serviços e princípios éticos nas relações de consultoria.</p><p>De leitura agradável e leve, a obra é de grande valia para os profissionais que já atuam na área ou para aqueles que pretendem ingressar nessa carreira extremamente envolvente.</p><b>Aplicação:</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Consultoria empresarial e Gestão empresarial.",
+  "sinopse": "Consultoria Empresarial é uma leitura essencial para estudantes e profissionais de gestão e negócios. O livro discute os principais aspectos da profissão de consultor empresarial, integrando teoria e prática. Entre os temas apresentados estão o contexto e o papel do consultor, tipos de consultoria, métodos de administração, avaliação dos serviços e princípios éticos. A obra é indicada tanto para quem já atua na área quanto para quem deseja iniciar nesta carreira dinâmica e envolvente, podendo ser utilizada em disciplinas como Consultoria empresarial e Gestão empresarial.",
+  "exemplar_id": 2249,
+  "sku": "LI01D3",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/luciano-crocco--consultoria-empresarial--capa--20250430--105107.jpg",
+  "contracapa": "static/uploads/luciano-crocco--consultoria-empresarial--contracapa--20250430--105107.jpg",
+  "fotos": [
+    "static/uploads/luciano-crocco--consultoria-empresarial--foto1--20250430--105107.jpg",
+    "static/uploads/luciano-crocco--consultoria-empresarial--foto2--20250430--105107.jpg",
+    "static/uploads/luciano-crocco--consultoria-empresarial--foto3--20250430--105107.jpg",
+    "static/uploads/luciano-crocco--consultoria-empresarial--foto4--20250430--105107.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:58:25",
+  "observacoes": "procedencia_biblioteca"
+}

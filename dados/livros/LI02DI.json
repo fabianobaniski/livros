@@ -1,0 +1,68 @@
+{
+  "obra_id": 3587,
+  "autor": "Akira Toriyama",
+  "titulo": "Dragon Ball",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Manga. Aventura. Artes marciais.",
+  "palavras_chave": "toriyama dragon ball",
+  "edicao_id": 3564,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 160,
+  "isbn": "",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": 13,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3563,
+  "sku": "LI02DI",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/dragon-ball__akira-toriyama__capa__2025-11-05_16-16-55-306276.jpg",
+  "contracapa": "static/uploads/dragon-ball__akira-toriyama__contracapa__2025-11-05_16-16-55-333337.jpg",
+  "fotos": [
+    "static/uploads/dragon-ball__akira-toriyama__foto-01__2025-11-05_16-16-55-357684.jpg",
+    "static/uploads/dragon-ball__akira-toriyama__foto-02__2025-11-05_16-16-55-377918.jpg",
+    "static/uploads/dragon-ball__akira-toriyama__foto-03__2025-11-05_16-16-55-403062.jpg",
+    "static/uploads/dragon-ball__akira-toriyama__foto-04__2025-11-05_16-16-55-430518.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:39:34",
+  "observacoes": null
+}

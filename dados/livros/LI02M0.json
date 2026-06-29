@@ -1,0 +1,63 @@
+{
+  "obra_id": 4838,
+  "autor": "Tatsuki Fujimoto",
+  "titulo": "Chainsaw man",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Sobrenatural.",
+  "palavras_chave": "fujimoto chainsaw man",
+  "edicao_id": 4813,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 220,
+  "isbn": "9786559606191",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "Chainsaw Man",
+  "volume": 6,
+  "transcricao_contracapa": "<p>O pedido inesperado de Reze para que ambos fujam juntos abala o coração de Denji... qual será o destino de sua inocência...?! Desse partir muito puro e singelo, a história passa por uma reviravolta e uma tempestade explosiva começa a soprar seus ventos mortais! Em meio a uma batalha sangrenta que envolve amor e desejo, humanos e demônios, o que será de Denji e Reze...?!</p>",
+  "sinopse": "O pedido inesperado de Reze para fugir com Denji abala profundamente seu coração. A história se transforma em uma reviravolta tempestuosa e explosiva. Em meio a uma batalha sangrenta cheia de amor e desejo, envolvendo humanos e demônios, o destino de Denji e Reze está em jogo.",
+  "exemplar_id": 4812,
+  "sku": "LI02M0",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/chainsaw-man__tatsuki-fujimoto__capa__2026-02-20_10-30-48-509147-000.png",
+  "contracapa": "static/uploads/chainsaw-man__tatsuki-fujimoto__contracapa__2026-02-20_10-30-48-563011-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

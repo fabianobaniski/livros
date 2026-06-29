@@ -1,0 +1,68 @@
+{
+  "obra_id": 5871,
+  "autor": "Mateus Zillig",
+  "titulo": "Bíblia do pescador 2013",
+  "subtitulo": "O maior guia de pesca esportiva do Brasil",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "Pesca esportiva. Guias práticos. Ambiente aquático.",
+  "palavras_chave": "biblia pescador 2013",
+  "edicao_id": 5846,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 338,
+  "peso": 1105,
+  "isbn": "7898002080358",
+  "editora": " Não identificada",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>FLÓRIDA 270 OCEAN<br>A melhor e mais completa lancha de pesca da categoria.</p><p>Banheiro fechado&nbsp;&nbsp;&nbsp;Hard Top&nbsp;&nbsp;&nbsp;Porta-varas&nbsp;&nbsp;&nbsp;Sofá em “U” na proa</p><p>FLÓRIDA 330 OCEAN<br>A cabinda UB para pesca ou passeios em família</p><p>Ampla Praça de Pesca - Cama e Sofa - Cozinha - Banheiro - Motor Popa ou Centro</p><p>FLÓRIDA MARINE<br>Unindo espaço e conforto ao prazer da pesca</p><p>comercial@floridamarine.com.br<br>www.floridamarine.com.br</p>",
+  "sinopse": "A 'Bíblia do Pescador' é um anuário de consulta permanente, considerado o maior guia de pesca esportiva do Brasil. Com 340 páginas, aborda variados ambientes de pesca, do mangue ao mar azul, oferecendo dicas, informações e técnicas para pescadores esportivos. É uma referência indispensável com conteúdo amplo e comemorativo pelos 25 anos de publicação.",
+  "exemplar_id": 5845,
+  "sku": "LI0387",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/biblia-do-pescador__o-maior-guia-de-pesca-esportiva-do-brasil__none__capa__2026-01-18_14-12-48-990383-000.png",
+  "contracapa": "static/uploads/biblia-do-pescador__o-maior-guia-de-pesca-esportiva-do-brasil__none__contracapa__2026-01-18_14-12-49-220229-001.png",
+  "fotos": [
+    "static/uploads/biblia-do-pescador__o-maior-guia-de-pesca-esportiva-do-brasil__none__foto-01__2026-01-18_14-12-49-306267-002.jpg",
+    "static/uploads/biblia-do-pescador__o-maior-guia-de-pesca-esportiva-do-brasil__none__foto-02__2026-01-18_14-12-49-344344-003.jpg",
+    "static/uploads/biblia-do-pescador__o-maior-guia-de-pesca-esportiva-do-brasil__none__foto-03__2026-01-18_14-12-49-666633-004.jpg",
+    "static/uploads/biblia-do-pescador__o-maior-guia-de-pesca-esportiva-do-brasil__none__foto-04__2026-01-18_14-12-49-738144-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:55:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 957,
+  "autor": "Alcione Emerich",
+  "titulo": "Contaminação espiritual",
+  "subtitulo": "A ação do espírito da religiosidade na vida da igreja e as trágicas consequências",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Religiosidade. Crítica ao Cristianismo.",
+  "palavras_chave": "emerich contaminacao espiritual",
+  "edicao_id": 942,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 290,
+  "peso": 380,
+  "isbn": "9788524304064",
+  "editora": "Voxliteris",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O objetivo deste livro é denunciar como o espírito da religiosidade tem agido em nosso meio, trazendo contaminação, e como o mesmo tem provocado as mais profundas mudanças no pensamento e no comportamento dos cristãos de modo geral. Sem querer ser simplista, o autor aponta um fator de grande relevância que pode explicar tantas anomalias no meio do povo de Deus, é a ação deste espírito.</p> <p>A “Contaminação Espiritual” é tão real e mais sutil que a contaminação natural, pois a espiritual nunca aparece como um mal, por estar camuflada em um espírito de religiosidade e práticas tradicionais que foram agregadas por séculos à igreja.</p> <p>Em Contaminação espiritual o autor deseja advertir e desafiar cristãos evangélicos sobre a religiosidade não cristã que contamina grande número de igrejas evangélicas brasileiras. O leitor receberá um desafio bíblico para um autoexame que somente poderá lhe fazer bem se for aceito humildemente.</p>",
+  "sinopse": "O livro explora como o espírito da religiosidade afeta a vida da igreja, introduzindo contaminações que provocam mudanças profundas no pensamento e comportamento dos cristãos. O autor alerta para a presença de práticas tradicionais camufladas que desviam a verdadeira essência da fé cristã e convida o leitor a um autoexame crítico sobre suas crenças.",
+  "exemplar_id": 941,
+  "sku": "LI00PF",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/alcione-emerich--contamina--o-espiritual--capa--20250227--152916.jpg",
+  "contracapa": "static/uploads/alcione-emerich--contamina--o-espiritual--contracapa--20250227--152916.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém amarelado. Contém muitas páginas grifadas à caneta. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:12:47",
+  "observacoes": null
+}

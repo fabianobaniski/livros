@@ -1,0 +1,63 @@
+{
+  "obra_id": 5721,
+  "autor": "Kyoutarou Azuma",
+  "titulo": "The king of fighters",
+  "subtitulo": "A new beginning",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ação. Luta. Adaptação de jogo. Mangá.",
+  "palavras_chave": "azuma king fighters new beginning",
+  "edicao_id": 5696,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 270,
+  "isbn": "9786586799842",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>SEJAM BEM-VINDOS, OS MAIS FORTES!</p> <p>Kyo Kusanagi, Iori Yagami, K', Ash e, por fim, Shun'ei! Uma história de lutadores que desejam ardentemente alcançar o topo! Esse é \"THE KING OF FIGHTERS\"! O famoso jogo de luta \"KOF\" junta um novo \"poder\" e se torna um novo mangá! A luta reunindo os famosos personagens está prestes a começar!!</p>",
+  "sinopse": "Kyo Kusanagi, Iori Yagami, K', Ash e Shun'ei estrelam uma história épica de lutadores em busca do topo no famoso jogo de luta \"KOF\", agora adaptado em um mangá. A ação promete reunir os mais icônicos personagens neste novo confronto.",
+  "exemplar_id": 5695,
+  "sku": "LI0342",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/the-king-of-fighters__a-new-beginning__kyoutarou-azuma__capa__2026-02-28_10-59-58-838762-000.jpg",
+  "contracapa": "static/uploads/the-king-of-fighters__a-new-beginning__kyoutarou-azuma__contracapa__2026-02-28_10-59-58-840443-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

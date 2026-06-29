@@ -1,0 +1,63 @@
+{
+  "obra_id": 566,
+  "autor": "Walter Brunelli",
+  "titulo": "Em busca do que se perdeu",
+  "subtitulo": "As parábolas sobre perdas contadas por Jesus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Perdas. Reencontros.",
+  "palavras_chave": "brunelli busca perdido",
+  "edicao_id": 551,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 58,
+  "peso": 150,
+  "isbn": "9788598172811",
+  "editora": "Arte Editorial",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Não há maior lamento para a alma humana do que a dor de uma perda. No Antigo Testamento lemos a triste história de Jó, o homem que sofreu a perda dos bens, da família e da saúde.</p><p>Jesus conta uma parábola de perdas consecutivas: uma moeda; uma ovelha e um filho para ilustrar o sentimento de Deus em relação a pessoas que se perdem espiritualmente e que, felizmente, são reencontradas.</p><p>Nesta obra o pastor Walter Brunelli discorre sobre cada figura que se perdeu: a peculiaridade de cada caso, o modo como foram reencontradas, o contentamento da mulher que achou a moeda, a alegria do pastor que localizou a ovelha e a festa do pai que recebeu o filho de volta ao lar. Depois de ler este livro, certamente o seu amor e a sua gratidão pelo Senhor, aumentarão!</p>",
+  "sinopse": "Nesta obra, o pastor Walter Brunelli explora as parábolas de Jesus sobre perdas, refletindo sobre o sentimento de perda e reencontro. Ele discorre sobre casos como a moeda, a ovelha e o filho, enfatizando a alegria e o contentamento ao reaver o que foi perdido, trazendo conforto e entendimento espiritual ao leitor.",
+  "exemplar_id": 550,
+  "sku": "LI00EP",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/walter-brunelli--em-busca-do-que-se-perdeu--capa--20250227--152850.jpg",
+  "contracapa": "static/uploads/walter-brunelli--em-busca-do-que-se-perdeu--contracapa--20250227--152850.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente em bom estado, com as seguintes ressalvas: consta dedicatória na parte interna da contracapa e umas poucas páginas com sublinhado feito com caneta destaca-texto."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:08:15",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2702,
+  "autor": "Sandra Sassaroli; Roberto Lorenzini",
+  "titulo": "Miedos y fobias",
+  "subtitulo": "Causas, características y terapias",
+  "idioma": "Espanhol",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "sassaroli miedos fobias causas",
+  "edicao_id": 2682,
+  "encadernacao": null,
+  "quantidade_paginas": 124,
+  "peso": 250,
+  "isbn": "9788449308222",
+  "editora": "Paidós",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro aborda o medo e seus impactos em nossas vidas, explorando como ele pode se transformar em fobias e ataques de pânico, cada vez mais comuns. Os autores, Sandra Sassaroli e Roberto Lorenzini, explicam como quebrar o ciclo vicioso do pânico, o medo do medo, e propõem uma abordagem mais ampla para redimensionar os problemas ampliados pela ansiedade. Com base em suas pesquisas, eles oferecem soluções práticas para entender e tratar esses transtornos, fornecendo uma nova perspectiva para superar o medo e a ansiedade na vida cotidiana.",
+  "exemplar_id": 2681,
+  "sku": "LI01P2",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/miedos-y-fobias-sandra-sassaroli-roberto-lorenzini-capa_rev2021.jpg",
+  "contracapa": "static/uploads/miedos-y-fobias-sandra-sassaroli-roberto-lorenzini-contracapa_rev696.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro um pouco amarelado e com leves sinais de uso, mas bem conservado. Texto livre de grifos e anotações. Há selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:59:57",
+  "observacoes": null
+}

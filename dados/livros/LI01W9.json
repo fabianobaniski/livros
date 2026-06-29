@@ -1,0 +1,63 @@
+{
+  "obra_id": 2961,
+  "autor": "Assis Brasil",
+  "titulo": "Um preço pela vida",
+  "subtitulo": "Aventura amazônica",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "brasil preco pela vida",
+  "edicao_id": 2941,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 72,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Salamandra",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Um preço pela vida é uma emocionante história sobre a dignidade humana, narrada pelo escritor Assis Brasil. A trama se desenrola nos confins da Amazônia, onde dois jovens, um branco e um índio, superam inimizades para se tornarem amigos e irmãos. Com aventura e emoção, o livro explora o valor da vida e das relações humanas em um cenário selvagem e desafiador. Assis Brasil, conhecido por sua vasta obra e premiado com mais de 20 prêmios literários, apresenta um de seus melhores textos, indicado para leitores de todas as idades.",
+  "exemplar_id": 2940,
+  "sku": "LI01W9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/um-preco-pela-vida-assis-brasil-capa_rev183.jpg",
+  "contracapa": "static/uploads/um-preco-pela-vida-assis-brasil-contracapa_rev44.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:36:30",
+  "observacoes": null
+}

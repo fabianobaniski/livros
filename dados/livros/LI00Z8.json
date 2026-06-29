@@ -1,0 +1,68 @@
+{
+  "obra_id": 1769,
+  "autor": "Denis Alcides Rezende; Aline França de Abreu",
+  "titulo": "Tecnologia da informação",
+  "subtitulo": "Aplicada a sistemas de informação empresariais",
+  "idioma": "Português",
+  "categoria": "Informática",
+  "temas": "Informática. Tecnologia da informação. Sistemas de informação empresariais. Gestão da informação. Estratégia organizacional.",
+  "palavras_chave": "rezende tecnologia informacao aplicada sistemas empresariais",
+  "edicao_id": 1749,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 303,
+  "peso": 580,
+  "isbn": "9788522450039",
+  "editora": "Atlas",
+  "numero_edicao": 5,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>TECNOLOGIA DA INFORMAÇÃO<br>Aplicada a Sistemas de Informação Empresariais</b><p>Relata conceitos, metodologias e modelos aplicados a sistemas de informação (nos níveis operacional, gerencial e estratégico) que contribuem com as organizações (privadas e públicas) nas atividades de concepção, desenvolvimento e implantação de projetos de sistemas, gestão de informações e gestão de informática.</p><p>O objetivo principal do livro é descrever como as informações e os conhecimentos podem contribuir nos processos decisórios dos gestores e clientes (usuários de informática), que, para realizar suas atividades, utilizam as emergentes tecnologias disponíveis no mercado, tais como softwares ERP, BI, SAD e EIS, Banco de Dados, <i>Data Warehouse</i>, Inteligência Artificial, <i>Data Mining</i>, Sistemas de Telecomunicação, Internet e outras.</p><p>Está transcrita nesta obra grande parte da experiência em informática e em gestão da tecnologia da informação dos autores, adquirida desde 1980 nas pesquisas acadêmicas, em sala de aula e nos trabalhos de consultoria em diferentes empresas.</p><p>O livro está dividido em cinco partes: Empresa e sistemas; Tecnologia da informação; Papel estratégico da informação e dos sistemas de informação nas empresas; Processo de desenvolvimento e de implantação de sistemas de informação empresariais; Integração, alinhamento, qualidade e divulgação da informação, do conhecimento e da inteligência nas organizações.</p><p>Esta edição contemplou as contribuições recebidas dos leitores, principalmente dos professores e profissionais que adotaram esta obra em diversas escolas e organizações. As principais atualizações desta edição estão relacionadas com os conceitos e com as aplicações do alinhamento entre estratégias e tecnologias, da inteligência empresarial (ou organizacional), das informações oportunas e dos conhecimentos personalizados nas organizações privadas e públicas.</p><b>APLICAÇÃO</b><p>Livro destinado às organizações privadas e públicas, às <i>software-houses</i>, aos profissionais e aos acadêmicos envolvidos com sistemas de informação, sistemas de conhecimentos, tecnologia da informação e seus recursos.</p><p>No meio acadêmico pode ser utilizado nos cursos de graduação e pós-graduação, como componente de planos de aulas das disciplinas de Administração de Sistemas de Informação, Sistemas de Informação Gerencial e Estratégico, Gestão de Informações, Gerência de Informática, Gestão da Tecnologia da Informação, Planejamento Estratégico Empresarial, Planejamento Estratégico de Informações, Plano Diretor de Informática, Administração aplicada à Informática e Teoria Geral de Sistemas.</p>",
+  "sinopse": "O livro apresenta conceitos, metodologias e modelos aplicados a sistemas de informação, abordando desde a concepção até a implantação de projetos e a gestão de informações nas organizações privadas e públicas. Destaca o papel estratégico das tecnologias como ERP, BI, Data Warehouse e Inteligência Artificial, além de discutir a experiência dos autores em informática e consultoria. Dividido em cinco partes, aborda temas como empresa e sistemas, papel da informação, desenvolvimento de sistemas e alinhamento estratégico. Indicado para profissionais e acadêmicos das áreas de administração, tecnologia e sistemas de informação.",
+  "exemplar_id": 1748,
+  "sku": "LI00Z8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/denis-alcides-rezende--tecnologia-da-informa--o--capa--20250430--102944.jpg",
+  "contracapa": "static/uploads/denis-alcides-rezende--tecnologia-da-informa--o--contracapa--20250430--102944.jpg",
+  "fotos": [
+    "static/uploads/denis-alcides-rezende--tecnologia-da-informa--o--foto1--20250430--102944.jpg",
+    "static/uploads/denis-alcides-rezende--tecnologia-da-informa--o--foto2--20250430--102944.jpg",
+    "static/uploads/denis-alcides-rezende--tecnologia-da-informa--o--foto3--20250430--102944.jpg",
+    "static/uploads/denis-alcides-rezende--tecnologia-da-informa--o--foto4--20250430--102944.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:53:44",
+  "observacoes": "procedencia_biblioteca"
+}

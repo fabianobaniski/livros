@@ -1,0 +1,63 @@
+{
+  "obra_id": 3193,
+  "autor": "Ellen G. White",
+  "titulo": "Fundamentos da Educação Cristã",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white fundamentos educacao crista",
+  "edicao_id": 3173,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": null,
+  "peso": 600,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3172,
+  "sku": "LI022P",
+  "preco_estante_virtual": 125.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeitas condições! Encadernação em capa dura. Sem uso, lacrado. Autoria e título em detalhe dourado. Papel sem oxidação ou amarelamento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:21:26",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1946,
+  "autor": "Paulo Roberto Motta; Roberto Pimenta; Elaine Tavares",
+  "titulo": "Novas idéias em administração",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Gestão pública. Organizações sociais. Competitividade. Tecnologia. Teletrabalho. Ação social. Governança corporativa. Negociação internacional. Políticas públicas.",
+  "palavras_chave": "motta novas ideias administracao",
+  "edicao_id": 1926,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 220,
+  "peso": 345,
+  "isbn": "9788522505777",
+  "editora": "FGV",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Numa iniciativa inovadora, que busca eliminar a distância entre a academia e a sociedade, este livro traz o resultado de seis pesquisas em administração. Os profissionais de administração pública, de empresas e de organizações sociais e do terceiro setor encontram aqui os avanços recentes em áreas de grande interesse: competitividade e tecnologia, teletrabalho, ação social, governança corporativa, negociação e implementação de acordos internacionais, e as causas da fragmentação de políticas públicas.</p>",
+  "sinopse": "O livro apresenta o resultado de seis pesquisas em administração, com foco em aproximar academia e sociedade. Aborda temas atuais e relevantes para profissionais da administração pública, empresas e organizações do terceiro setor, como competitividade e tecnologia, teletrabalho, ação social, governança corporativa, negociação internacional e fragmentação de políticas públicas.",
+  "exemplar_id": 1925,
+  "sku": "LI0144",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/paulo-roberto-motta--novas-id-ias-em-administra--o--capa--20250430--104305.jpg",
+  "contracapa": "static/uploads/paulo-roberto-motta--novas-id-ias-em-administra--o--contracapa--20250430--104305.jpg",
+  "fotos": [
+    "static/uploads/paulo-roberto-motta--novas-id-ias-em-administra--o--foto1--20250430--104305.jpg",
+    "static/uploads/paulo-roberto-motta--novas-id-ias-em-administra--o--foto2--20250430--104305.jpg",
+    "static/uploads/paulo-roberto-motta--novas-id-ias-em-administra--o--foto3--20250430--104305.jpg",
+    "static/uploads/paulo-roberto-motta--novas-id-ias-em-administra--o--foto4--20250430--104305.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:23:10",
+  "observacoes": "procedencia_biblioteca"
+}

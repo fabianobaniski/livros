@@ -1,0 +1,63 @@
+{
+  "obra_id": 603,
+  "autor": "Elienai Cabral Jr.",
+  "titulo": "Salvos da perfeição",
+  "subtitulo": "Mais humanos e mais perto de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Humanidade. Espiritualidade.",
+  "palavras_chave": "cabral salvos perfeicao",
+  "edicao_id": 588,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 166,
+  "peso": 280,
+  "isbn": "978857770289",
+  "editora": "Ultimato",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Não é difícil perceber, entre cristãos, um jeito “angelical” de ser. Em nome de Deus insinuamos um ideal de santidade e nos impomos uma agenda “divina”: uma vida sem contradições, dúvidas, aflições. E, pior, sem pequenos prazeres, sem alegrias banais.</p> <p>Porém, o Deus bíblico insiste em se encontrar conosco não em ‘outra vida’, mas na vida mesma que temos. Ele quer nos ajudar a vencer a pretensão venenosa, insinuada pela Serpente, de uma vida perfeita. Salvos da Perfeição foi escrito para nos livrar deste veneno.</p> <p>Elienai Junior é um dos mais argutos pensadores brasileiros. Seu estilo é leve, mas profundo: poético, mas acadêmico. Salvos da Perfeição é um convite para celebrarmos nossa humanidade como um dom divino.</p> <p>Ricardo Gondim</p> <p>Sempre acreditei que a teologia não está pronta. É preciso fazerteologia — com os pés no chão, no meio das gentes, nas ruas das cidades, sem perder de vista as aves do céu e os lírios do campo. Elienai Junior é assim: a busca por Deus exige sua teologia, a piedade inspira sua reflexão e o coração puro faz leve sua palavra.</p> <p>Ed René Kivitz</p>",
+  "sinopse": "Salvos da Perfeição explora a busca por uma vida mais humana e próxima de Deus, questionando a imposição de ideais perfeitos entre os cristãos. A obra convida a refletir sobre a realidade da vida cotidiana, rechazando a ideia de uma existência sem alegrias ou contradições. Elienai Cabral Jr. busca uma teologia acessível e inspiradora, celebrando a humanidade como um dom divino.",
+  "exemplar_id": 587,
+  "sku": "LI00FQ",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/elienai-cabral-jr---salvos-da-perfei--o--capa--20250227--152852.jpg",
+  "contracapa": "static/uploads/elienai-cabral-jr---salvos-da-perfei--o--contracapa--20250227--152852.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:50:49",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3039,
+  "autor": "S. Descamps-lequime; D. Vernerey",
+  "titulo": "No País dos Deuses, os Gregos",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": null,
+  "palavras_chave": "descampslequime pais dos deuses",
+  "edicao_id": 3019,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 69,
+  "peso": 300,
+  "isbn": "9788585497040",
+  "editora": "Augustus",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro nos transporta para a Grécia do século V a.C., revelando o cotidiano dos gregos além dos esplendores da idade clássica. A obra responde de forma envolvente a perguntas sobre a vida dos cidadãos, seus costumes e curiosidades, desde a participação em maratonas até o rigor da educação espartana. Através de documentos históricos, somos convidados a explorar o modo de vida simples, mas fascinante, de uma civilização que moldou a cultura ocidental. No país dos deuses, a Grécia antiga se revela em toda sua grandiosidade e sutileza.",
+  "exemplar_id": 3018,
+  "sku": "LI01YF",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Ilustrado em cores. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:17:16",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

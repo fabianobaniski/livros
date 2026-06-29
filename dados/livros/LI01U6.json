@@ -1,0 +1,63 @@
+{
+  "obra_id": 2886,
+  "autor": "Margot Grey; Foreword: Kenneth Ring",
+  "titulo": "Return from death",
+  "subtitulo": "An exploration of the near-death experience",
+  "idioma": "Inglês",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "grey return from death",
+  "edicao_id": 2866,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 300,
+  "isbn": "9781850630197",
+  "editora": "Arkana",
+  "numero_edicao": null,
+  "ano": 1985,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Margot Grey explora as experiências de quase-morte, relatando como aqueles que estiveram próximos da morte passam por sensações de euforia, saem de seus corpos, atravessam túneis escuros e encontram uma luz brilhante, vivenciando uma revisão panorâmica de suas vidas. Essas experiências podem provocar uma transformação profunda, levando a um despertar espiritual e ao desenvolvimento psíquico. O medo da morte tende a diminuir, muitas vezes resultando em uma transformação total da personalidade.",
+  "exemplar_id": 2865,
+  "sku": "LI01U6",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/return-from-death-margot-grey-capa_rev493.jpg",
+  "contracapa": "static/uploads/return-from-death-margot-grey-contracapa_rev428.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:17",
+  "observacoes": null
+}

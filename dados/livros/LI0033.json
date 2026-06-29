@@ -1,0 +1,68 @@
+{
+  "obra_id": 127,
+  "autor": "Sarah Addison Allen",
+  "titulo": "O pessegueiro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura contemporânea. Relações familiares. Amizade.",
+  "palavras_chave": "allen pessegueiro",
+  "edicao_id": 125,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 350,
+  "isbn": "9788542201253",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Bem-vindo a Walls of Water, um lugar onde o aroma das flores envolve o ar e os pássaros parecem ter algo a dizer.</h1><p>Essa é a cidade onde vive Willa Jackson, uma jovem descendente de uma família falida que luta para esquecer a imagem da garota inconsequente que já foi um dia. Quando sua ex-companheira de colégio e socialite perfeita Paxton Osgood a convida para a festa de 75 anos do Clube Social Feminino, ela fica receosa em comparecer por sentir que não faz parte daquele mundo... No entanto, a ocasião acabará se revelando uma excelente oportunidade para Willa desenterrar fatos surpreendentes que reverberam até hoje em sua própria história.</p><p>Qual é o segredo que une as famílias Jackson e Osgood? Será que a verdadeira amizade consegue transpor as barreiras do tempo? Deixe-se inebriar por esse romance que une realismo e magia de forma envolvente, e descubra quão delicado e importante é o papel dos amigos em nossa vida.</p>",
+  "sinopse": "Walls of Water é uma cidade envolvente onde Willa Jackson, descendente de uma família falida, tenta superar seu passado. Ao receber um convite da ex-companheira de colégio Paxton Osgood para uma festa, Willa hesita em comparecer, mas a ocasião promete revelar segredos sobre suas famílias que transcendem o tempo. Este romance é uma jornada pelos laços da amizade e histórias que moldam nossas vidas.",
+  "exemplar_id": 124,
+  "sku": "LI0033",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 19.0,
+  "capa": "static/uploads/sarah-addison-allen--o-pessegueiro--capa--20250226--133755.jpg",
+  "contracapa": "static/uploads/sarah-addison-allen--o-pessegueiro--contracapa--20250226--133755.jpg",
+  "fotos": [
+    "static/uploads/sarah-addison-allen--o-pessegueiro--foto1--20250226--133756.jpg",
+    "static/uploads/sarah-addison-allen--o-pessegueiro--foto2--20250226--133756.jpg",
+    "static/uploads/sarah-addison-allen--o-pessegueiro--foto3--20250226--133756.jpg",
+    "static/uploads/sarah-addison-allen--o-pessegueiro--foto4--20250226--133756.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, sem danos, ainda lacrado!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:34:47",
+  "observacoes": null
+}

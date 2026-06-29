@@ -1,0 +1,68 @@
+{
+  "obra_id": 2040,
+  "autor": "Walter J. Wessels",
+  "titulo": "Economia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Economia",
+  "temas": "Economia. Conceitos econômicos. Teoria econômica. Modelos econômicos. Mercados financeiros.",
+  "palavras_chave": "wessels economia",
+  "edicao_id": 2020,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 528,
+  "peso": 830,
+  "isbn": "9788502037342",
+  "editora": "Saraiva",
+  "numero_edicao": 2,
+  "ano": 2003,
+  "serie": "Série Essencial",
+  "volume": null,
+  "transcricao_contracapa": "<p>Com linguagem fácil e dinâmica, este livro aborda os principais aspectos da economia, como oferta e demanda, produto nacional, inflação e desemprego, modelo keynesiano, entre outros, visando desmistificar conceitos e teorias por meio de gráficos e problemas que representam a prática de suas aplicações.</p><p>A obra também apresenta tópicos sobre teoria dos jogos, modelos de ciclos reais de negócios, mercados internacionais de capitais, modelo de passeio aleatório do mercado de ações e papel econômico dos mercados financeiros.</p><p>Os capítulos trazem termos-chave, resumo e exemplos que facilitam a compreensão do conteúdo, permitindo que o leitor entenda tanto a teoria quanto os modelos econômicos e, consequentemente, o ambiente competitivo no qual estamos inseridos.</p><b>APLICAÇÃO:</b> Este livro pode ser utilizado nas seguintes disciplinas: Economia, Economia Internacional, Introdução à Economia, Economia Política, Economia do Setor Público e Econometria.",
+  "sinopse": "Este livro apresenta, de maneira fácil e dinâmica, os principais conceitos da economia, abordando temas como oferta e demanda, produto nacional, inflação, desemprego e modelo keynesiano, além de incluir tópicos sobre teoria dos jogos, ciclos econômicos, mercados internacionais de capitais e papel dos mercados financeiros. Com gráficos, resumos e exemplos, a obra facilita a compreensão dos conteúdos, sendo indicada para diversas disciplinas da área econômica.",
+  "exemplar_id": 2019,
+  "sku": "LI016P",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/walter-j--wessels--economia--capa--20250430--104524.jpg",
+  "contracapa": "static/uploads/walter-j--wessels--economia--contracapa--20250430--104524.jpg",
+  "fotos": [
+    "static/uploads/walter-j--wessels--economia--foto1--20250430--104524.jpg",
+    "static/uploads/walter-j--wessels--economia--foto2--20250430--104524.jpg",
+    "static/uploads/walter-j--wessels--economia--foto3--20250430--104524.jpg",
+    "static/uploads/walter-j--wessels--economia--foto4--20250430--104524.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:47:58",
+  "observacoes": "procedencia_biblioteca"
+}

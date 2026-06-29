@@ -1,0 +1,68 @@
+{
+  "obra_id": 2155,
+  "autor": "François Laplantine",
+  "titulo": "Aprender antropologia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Antropologia",
+  "temas": "Ciências humanas. Antropologia. História da antropologia. Teorias antropológicas.",
+  "palavras_chave": "laplantine aprender antropologia",
+  "edicao_id": 2135,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 265,
+  "isbn": "9788511001501",
+  "editora": "Brasiliense",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Disciplina fundamental entre as Ciências Humanas, a Antropologia há muito se ressente em nosso país da falta de textos básicos que, partindo da estaca zero, apresentem clara e didaticamente ao estudante a sua história, suas diversas correntes e termos específicos. <b>Aprender Antropologia</b> faz tudo isso: partindo de uma análise de textos escritos pelos exploradores europeus do século XVI — cujas observações constituem a pré-história da Antropologia —, o leitor entra em contato com as ideias de Durkheim e Mauss. A seguir é a vez de conhecer as principais tendências teóricas contemporâneas, que são detalhadas uma a uma, para enfim desvendar a especificidade da prática antropológica.</p><p>Por tudo isso e muito mais, <b>Aprender Antropologia</b> é um livro indispensável para quem estuda, para quem simplesmente quer conhecer, e também para quem leciona e tem o dever de se fazer entender.</p><p>Prefácio de Maria Isaura Pereira de Queiróz.</p>",
+  "sinopse": "Aprender antropologia apresenta de maneira clara e didática a história da Antropologia, suas correntes e termos específicos. O livro parte da análise dos textos de exploradores europeus do século XVI e do contato com ideias de Durkheim e Mauss, avançando para as principais tendências teóricas contemporâneas. Indispensável para estudantes, interessados e professores, ajuda a desvendar a especificidade da prática antropológica.",
+  "exemplar_id": 2134,
+  "sku": "LI019W",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/fran-ois-laplantine--aprender-antropologia--capa--20250430--104650.jpg",
+  "contracapa": "static/uploads/fran-ois-laplantine--aprender-antropologia--contracapa--20250430--104650.jpg",
+  "fotos": [
+    "static/uploads/fran-ois-laplantine--aprender-antropologia--foto1--20250430--104650.jpg",
+    "static/uploads/fran-ois-laplantine--aprender-antropologia--foto2--20250430--104650.jpg",
+    "static/uploads/fran-ois-laplantine--aprender-antropologia--foto3--20250430--104650.jpg",
+    "static/uploads/fran-ois-laplantine--aprender-antropologia--foto4--20250430--104650.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 20:11:06",
+  "observacoes": "procedencia_biblioteca"
+}

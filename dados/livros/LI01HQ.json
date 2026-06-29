@@ -1,0 +1,63 @@
+{
+  "obra_id": 2438,
+  "autor": "José de Alencar",
+  "titulo": "Como e porque sou romancista",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "alencar como porque sou",
+  "edicao_id": 2418,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 76,
+  "peso": 145,
+  "isbn": "9788571130364",
+  "editora": "Pontes / Ufpr",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta obra apresenta reflexões de José de Alencar sobre sua carreira literária e vida pessoal, onde o autor faz uma espécie de autobiografia. Alencar relembra suas criações, as inspirações por trás de suas obras, como O Guarani, e a jornada de sua vida através das histórias que escreveu. Ele reflete sobre os 44 anos de sua vida, mencionando os desafios e as conquistas, bem como a sua predileção pela forma romanesca, atribuindo a essa paixão literária uma parte essencial de seu espírito criativo.",
+  "exemplar_id": 2417,
+  "sku": "LI01HQ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jose-de-alencar--como-e-porque-sou-romancista--capa--20260316--185122.jpg",
+  "contracapa": "static/uploads/jose-de-alencar--como-e-porque-sou-romancista--contracapa--20260316--185122.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:49:03",
+  "observacoes": null
+}

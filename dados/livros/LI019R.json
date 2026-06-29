@@ -1,0 +1,68 @@
+{
+  "obra_id": 2150,
+  "autor": "Bruno Henrique Rocha Fernandes; Luiz Hamilton Berton",
+  "titulo": "Administração estratégica",
+  "subtitulo": "Da competência empreendedora à avaliação de desempenho",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Estratégia organizacional. Planejamento estratégico. Avaliação de desempenho.",
+  "palavras_chave": "fernandes administracao estrategica competencia empreendedora avaliacao desempenho",
+  "edicao_id": 2130,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 264,
+  "peso": 440,
+  "isbn": "9788502051140",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta obra apresenta os principais conceitos referentes à administração e ao planejamento estratégico em organizações.</p> <p>Sua estrutura está baseada no processo estratégico, representado em três etapas: análise, formulação e implantação das estratégias.</p> <p>Com uma linguagem clara, aborda importantes aspectos: exame do negócio, análises de cenário e diagnóstico da organização; definição de objetivos; ferramentas para avaliar o desempenho do plano e, por extensão, da organização; e implantação da estratégia.</p> <p>Dessa forma, apresenta parâmetros para a compreensão da administração estratégica, podendo ser utilizada pelas organizações governamentais, por empresas privadas e pelo terceiro setor.</p> <p><b>Aplicação:</b><br> Este livro pode ser utilizado nas seguintes disciplinas: Administração Geral. Estratégia. Planejamento Estratégico.</p>",
+  "sinopse": "Este livro aborda os principais conceitos de administração e planejamento estratégico em organizações. Estruturado em três etapas — análise, formulação e implantação de estratégias —, utiliza linguagem clara para tratar de temas como análise do negócio, diagnóstico organizacional, definição de objetivos e avaliação de desempenho de planos e estratégias. É indicado tanto para organizações governamentais quanto privadas e pode ser utilizado em disciplinas como Administração Geral, Estratégia e Planejamento Estratégico.",
+  "exemplar_id": 2129,
+  "sku": "LI019R",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/bruno-henrique-rocha-fernandes--administra--o-estrat-gica--capa--20250430--104632.jpg",
+  "contracapa": "static/uploads/bruno-henrique-rocha-fernandes--administra--o-estrat-gica--contracapa--20250430--104632.jpg",
+  "fotos": [
+    "static/uploads/bruno-henrique-rocha-fernandes--administra--o-estrat-gica--foto1--20250430--104632.jpg",
+    "static/uploads/bruno-henrique-rocha-fernandes--administra--o-estrat-gica--foto2--20250430--104632.jpg",
+    "static/uploads/bruno-henrique-rocha-fernandes--administra--o-estrat-gica--foto3--20250430--104632.jpg",
+    "static/uploads/bruno-henrique-rocha-fernandes--administra--o-estrat-gica--foto4--20250430--104632.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:03:01",
+  "observacoes": "procedencia_biblioteca"
+}

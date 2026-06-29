@@ -1,0 +1,68 @@
+{
+  "obra_id": 1934,
+  "autor": "Daniel Alberto Bernard",
+  "titulo": "Marketing internacional",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Marketing. Negócios internacionais.",
+  "palavras_chave": "bernard marketing internacional",
+  "edicao_id": 1914,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 270,
+  "isbn": "9788576490579",
+  "editora": "IBPEX",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>UNINTER Grupo Educacional</p><p>GRADUAÇÃO E PÓS-GRADUAÇÃO (Presencial e a Distância)<br>FORMAÇÃO CONTINUADA<br>IDIOMAS<br>LIVROS TÉCNICOS<br>MATERIAL DIDÁTICO<br>TURISMO EDUCACIONAL E CULTURAL</p><p>FACINTER | FATEC INTERNACIONAL | IBPEX | INFOCO | EDSAT | CBED | EDITORA IBPEX</p>",
+  "sinopse": "O livro 'Marketing internacional' de Daniel Alberto Bernard, publicado pela Editora IBPEX e ligado ao Grupo Educacional UNINTER, apresenta conteúdos voltados à formação em graduação e pós-graduação, formação continuada, idiomas e livros técnicos. A obra se insere em um contexto educacional, fornecendo material didático para quem busca conhecimentos técnicos e aplicados nas áreas de marketing global e internacional.",
+  "exemplar_id": 1913,
+  "sku": "LI013S",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/daniel-alberto-bernard--marketing-internacional--capa--20250430--104303.jpg",
+  "contracapa": "static/uploads/daniel-alberto-bernard--marketing-internacional--contracapa--20250430--104303.jpg",
+  "fotos": [
+    "static/uploads/daniel-alberto-bernard--marketing-internacional--foto1--20250430--104303.jpg",
+    "static/uploads/daniel-alberto-bernard--marketing-internacional--foto2--20250430--104303.jpg",
+    "static/uploads/daniel-alberto-bernard--marketing-internacional--foto3--20250430--104303.jpg",
+    "static/uploads/daniel-alberto-bernard--marketing-internacional--foto4--20250430--104303.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:18:43",
+  "observacoes": "procedencia_biblioteca"
+}

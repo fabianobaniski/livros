@@ -1,0 +1,68 @@
+{
+  "obra_id": 1975,
+  "autor": "José Luiz dos Santos; Paulo Schmidt; Luciane Alves Fernandes; José Mário Matsumura Gomes",
+  "titulo": "Manual de práticas contábeis",
+  "subtitulo": "Aspectos societários e tributários",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Práticas empresariais. Legislação societária. Tributação.",
+  "palavras_chave": "santos manual praticas contabeis",
+  "edicao_id": 1955,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 358,
+  "peso": 1080,
+  "isbn": "9788522448807",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Manual de Práticas Contábeis</h1><h2>Aspectos Societários e Tributários</h2><p>Este livro apresenta uma síntese dos principais temas relacionados às práticas contábeis das empresas em geral, tendo em vista a escrituração das operações, elaboração das demonstrações financeiras individuais e consolidadas. Para atingir tal objetivo, aborda questões controvertidas, como a retenção de reservas, a distribuição de dividendos, a avaliação de investimentos pelo método de equivalência patrimonial, a consolidação das demonstrações financeiras e as combinações de negócios, de acordo com a nova Lei das Sociedades por Ações, a Lei no 10.303/01, bem como a Deliberação CVM no 488/05, as quais alteram significativamente a legislação societária brasileira.</p><p>A principal característica desta obra, que a diferencia das demais, é a de vincular conceitos contábeis com leis e normatizações vigentes, tornando-a muito útil para consultas de profissionais do dia-a-dia, sem se descuidar de seu cunho didático.</p><p>Além disso, possui muito bom material prático, que não só elucida pontos mais difíceis, como também fixa melhor a visualização e o entendimento de diversas situações. Em alguns casos, os exemplos são inestimáveis, pois abrangem praticamente todas as hipóteses possíveis; o leitor deverá sempre encontrar o seu caso ali exposto.</p><h3>Aplicação</h3><p>Manual de consulta profissional destinado a contadores e tributaristas. Leitura complementar para as disciplinas Contabilidade Comercial, Contabilidade Intermediária, Contabilidade Aplicada, Contabilidade Financeira, Contabilidade Societária e Contabilidade Avançada do curso de Ciências Contábeis.</p>",
+  "sinopse": "O 'Manual de práticas contábeis: Aspectos societários e tributários' apresenta uma síntese dos principais temas ligados à contabilidade empresarial, desde a escrituração e elaboração das demonstrações financeiras até questões práticas e controvertidas como distribuição de dividendos e consolidação de demonstrações. Destaca-se por vincular conceitos contábeis à legislação vigente, tornando-se referência para profissionais e estudantes das áreas contábil e tributária, além de oferecer exemplos práticos para melhor compreensão das situações do cotidiano.",
+  "exemplar_id": 1954,
+  "sku": "LI014W",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--luiz-dos-santos--manual-de-pr-ticas-cont-beis--capa--20250430--104311.jpg",
+  "contracapa": "static/uploads/jos--luiz-dos-santos--manual-de-pr-ticas-cont-beis--contracapa--20250430--104311.jpg",
+  "fotos": [
+    "static/uploads/jos--luiz-dos-santos--manual-de-pr-ticas-cont-beis--foto1--20250430--104311.jpg",
+    "static/uploads/jos--luiz-dos-santos--manual-de-pr-ticas-cont-beis--foto2--20250430--104311.jpg",
+    "static/uploads/jos--luiz-dos-santos--manual-de-pr-ticas-cont-beis--foto3--20250430--104311.jpg",
+    "static/uploads/jos--luiz-dos-santos--manual-de-pr-ticas-cont-beis--foto4--20250430--104311.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:20:11",
+  "observacoes": "procedencia_biblioteca"
+}

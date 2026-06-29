@@ -1,0 +1,68 @@
+{
+  "obra_id": 1839,
+  "autor": "Clóvis Luís Padoveze",
+  "titulo": "Sistemas de informações contábeis",
+  "subtitulo": "Fundamentos e análise",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Sistemas de informação. Contabilidade. Tecnologia da informação. Gestão empresarial.",
+  "palavras_chave": "padoveze sistemas informacoes contabeis",
+  "edicao_id": 1819,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 331,
+  "peso": 600,
+  "isbn": "9788522449118",
+  "editora": "Atlas",
+  "numero_edicao": 5,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>SISTEMAS DE INFORMAÇÕES CONTÁBEIS<br>Fundamentos e Análise</h1><p>A tecnologia da informação tem possibilitado enorme avanço na estruturação dos Sistemas de Informações Contábeis à disposição das empresas. Para que os profissionais e acadêmicos da área consigam o desempenho máximo dos sistemas de contabilidade, é necessário profundo conhecimento tanto da ciência contábil quanto das possibilidades abertas pela tecnologia de informação.</p><p>O objetivo deste livro é apresentar os fundamentos para a estruturação do Sistema de Informação Contábil e seus subsistemas, com ênfase em sua integração na empresa dentro de um Sistema Integrado de Gestão Empresarial. O foco central é o processo de análise para a decisão de implantação de um Sistema de Informação Contábil que atenda todas as necessidades informacionais da empresa, tanto para os aspectos societários e legais, como para os aspectos gerenciais.</p><p>Partindo da adoção de enfoque sistêmico e dos fundamentos da tecnologia da informação, o livro é apresentado em quatro partes:</p><ul><li>I – Sistema de Informação.</li><li>II – Ciência Contábil e Sistema de Informação Contábil.</li><li>III – Subsistemas do Sistema de Informação Contábil.</li><li>IV – Decisão e Implantação.</li></ul><h2>APLICAÇÃO</h2><p>Livro-texto para a disciplina SISTEMAS DE INFORMAÇÕES CONTÁBEIS do curso de Ciências Contábeis. Leitura complementar para as disciplinas CONTROLADORIA, CONTABILIDADE GERENCIAL, PROCESSAMENTO DE DADOS e ANÁLISE DE SISTEMAS voltados à Contabilidade. Recomendado para profissionais de Contabilidade e Finanças envolvidos em projetos de implantação e reformulação dos sistemas de informações contábeis das empresas.</p>",
+  "sinopse": "Este livro apresenta os fundamentos para a estruturação do Sistema de Informação Contábil e seus subsistemas, com foco na integração com o Sistema Integrado de Gestão Empresarial. Aborda o processo de análise para a decisão e implantação de sistemas de informações contábeis voltados para atender necessidades informacionais em aspectos legais, societários e gerenciais. É dividido em quatro partes que abrangem desde conceitos sistêmicos e tecnologia da informação até a implantação prática. Indicado para estudantes e profissionais de contabilidade e finanças, assim como material complementar para diversas disciplinas da área.",
+  "exemplar_id": 1818,
+  "sku": "LI0115",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/cl-vis-lu-s-padoveze--sistemas-de-informa--es-cont-beis--capa--20250430--102954.jpg",
+  "contracapa": "static/uploads/cl-vis-lu-s-padoveze--sistemas-de-informa--es-cont-beis--contracapa--20250430--102954.jpg",
+  "fotos": [
+    "static/uploads/cl-vis-lu-s-padoveze--sistemas-de-informa--es-cont-beis--foto1--20250430--102954.jpg",
+    "static/uploads/cl-vis-lu-s-padoveze--sistemas-de-informa--es-cont-beis--foto2--20250430--102954.jpg",
+    "static/uploads/cl-vis-lu-s-padoveze--sistemas-de-informa--es-cont-beis--foto3--20250430--102954.jpg",
+    "static/uploads/cl-vis-lu-s-padoveze--sistemas-de-informa--es-cont-beis--foto4--20250430--102955.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:30:34",
+  "observacoes": "procedencia_biblioteca"
+}

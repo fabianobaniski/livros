@@ -1,0 +1,68 @@
+{
+  "obra_id": 1771,
+  "autor": "Alessandro Marco Rosini",
+  "titulo": "As novas tecnologias da informação e a educação a distância",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Tecnologias da informação. Educação a distância. Gestão do conhecimento.",
+  "palavras_chave": "rosini novas tecnologias informacao educacao distancia",
+  "edicao_id": 1751,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 131,
+  "peso": 250,
+  "isbn": "9788522105427",
+  "editora": "Cengage Learning",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro tem por objetivo discutir o contexto de implementação das tecnologias da informação e comunicação nas organizações, bem como a educação a distância, com a proposta de agregar valor tanto aos indivíduos como às empresas por meio da geração de conhecimento.</p> <p>Valendo-se de uma discussão interdisciplinar, o autor reflete sobre o desenvolvimento da organização, da educação e do próprio indivíduo, ancorado por farta bibliografia.</p> <p>Nessa discussão, indica-se que o processo de adaptação a esse novo, avançado e complexo cenário das novas tecnologias necessita ser conduzido de forma a transcender questões puramente técnicas existentes no cenário da organização, precisando contar com a adesão de todos, independentemente do grau hierárquico; para tanto, é importante ampliar a visão do indivíduo, dando mais sentido a tudo aquilo que ele faz.</p> <p>Na página do livro, no site da Thomson, alunos e professores terão acesso à legislação brasileira sobre educação a distância.</p> <b>APLICAÇÕES</b> <p>Leitura complementar para as disciplinas administração, sistemas de informação, gestão de processos e tomada de decisão, tecnologia da informação, seminários avançados em cursos de graduação e pós-graduação em Administração, Ciências da Informação e Comunicação, Gestão do Conhecimento, Educação e Mídias Digitais, Marketing e Produção.</p>",
+  "sinopse": "Este livro discute o contexto de implementação das tecnologias da informação e comunicação nas organizações e na educação a distância, com o objetivo de agregar valor a indivíduos e empresas por meio do conhecimento. Com abordagem interdisciplinar e fundamentação bibliográfica, o autor reflete sobre o desenvolvimento organizacional, educacional e pessoal. Destaca-se a necessidade de adaptação coletiva a esse novo cenário, que exige uma visão ampliada do indivíduo para além das questões técnicas. O livro também oferece aplicações práticas para diversas áreas do conhecimento e acesso a conteúdos complementares sobre legislação em educação a distância.",
+  "exemplar_id": 1750,
+  "sku": "LI00ZA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/alessandro-marco-rosini--as-novas-tecnologias-da-informa--o-e-a-educa--o-a-dist-ncia--capa--20250430--102944.jpg",
+  "contracapa": "static/uploads/alessandro-marco-rosini--as-novas-tecnologias-da-informa--o-e-a-educa--o-a-dist-ncia--contracapa--20250430--102944.jpg",
+  "fotos": [
+    "static/uploads/alessandro-marco-rosini--as-novas-tecnologias-da-informa--o-e-a-educa--o-a-dist-ncia--foto1--20250430--102944.jpg",
+    "static/uploads/alessandro-marco-rosini--as-novas-tecnologias-da-informa--o-e-a-educa--o-a-dist-ncia--foto2--20250430--102944.jpg",
+    "static/uploads/alessandro-marco-rosini--as-novas-tecnologias-da-informa--o-e-a-educa--o-a-dist-ncia--foto3--20250430--102944.jpg",
+    "static/uploads/alessandro-marco-rosini--as-novas-tecnologias-da-informa--o-e-a-educa--o-a-dist-ncia--foto4--20250430--102944.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:51:10",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2844,
+  "autor": "Zaia Brandão",
+  "titulo": "Paschoal Lemme",
+  "subtitulo": "Coleção Educadores",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "brandao paschoal lemme colecao",
+  "edicao_id": 2824,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 169,
+  "peso": 250,
+  "isbn": "9788570195128",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2823,
+  "sku": "LI01T0",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/paschoal-lemme-zaia-brandao-capa_rev1098.jpg",
+  "contracapa": "static/uploads/paschoal-lemme-zaia-brandao-contracapa_rev1297.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:35:48",
+  "observacoes": null
+}

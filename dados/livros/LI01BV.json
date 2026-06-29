@@ -1,0 +1,68 @@
+{
+  "obra_id": 2226,
+  "autor": "Maria Luiza Belloni",
+  "titulo": "O que é mídia-educação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Mídia-educação. Tecnologias da informação. Comunicação. Práticas pedagógicas.",
+  "palavras_chave": "belloni que midia educacao",
+  "edicao_id": 2206,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 100,
+  "peso": 100,
+  "isbn": "9788574960159",
+  "editora": "Autores Associados",
+  "numero_edicao": 2,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta coletânea de trabalhos tem o objetivo de disponibilizar textos que são, em sua maioria, baseados em resultados de pesquisas empíricas sobre duas vertentes do mesmo tema: de um lado, a pesquisa sobre os públicos jovens, buscando compreender como as novas gerações se apropriam das técnicas de informação e comunicação; de outro lado, o estudo sobre os modos como a instituição escolar e especialmente os professores vão se apropriando destes instrumentos e integrando-os (ou não) a seu cotidiano.</p><p>Este trabalho tem o objetivo e a pretensão de tentar contribuir, ainda que modestamente, para que o Estatuto da Criança e do Adolescente saia do papel e ganhe realidade no Brasil, assegurando que todas as crianças brasileiras tenham acesso efetivo a uma educação de qualidade com todas as tecnologias disponíveis e a uma comunicação livre e sem preconceitos. É com esta intenção que convidamos os leitores a visitá-lo.</p>",
+  "sinopse": "Esta coletânea reúne textos baseados em pesquisas sobre mídia-educação, enfocando tanto o entendimento de como os jovens se apropriam das técnicas de informação e comunicação quanto o papel da escola e dos professores na integração desses instrumentos ao cotidiano escolar. O livro busca contribuir para a efetivação do Estatuto da Criança e do Adolescente, defendendo o acesso de todas as crianças brasileiras a uma educação de qualidade, mediada por tecnologias disponíveis e uma comunicação livre de preconceitos.",
+  "exemplar_id": 2205,
+  "sku": "LI01BV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maria-luiza-belloni--o-que---m-dia-educa--o--capa--20250430--105100.jpg",
+  "contracapa": "static/uploads/maria-luiza-belloni--o-que---m-dia-educa--o--contracapa--20250430--105100.jpg",
+  "fotos": [
+    "static/uploads/maria-luiza-belloni--o-que---m-dia-educa--o--foto1--20250430--105100.jpg",
+    "static/uploads/maria-luiza-belloni--o-que---m-dia-educa--o--foto2--20250430--105100.jpg",
+    "static/uploads/maria-luiza-belloni--o-que---m-dia-educa--o--foto3--20250430--105100.jpg",
+    "static/uploads/maria-luiza-belloni--o-que---m-dia-educa--o--foto4--20250430--105100.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:40:32",
+  "observacoes": "procedencia_biblioteca"
+}

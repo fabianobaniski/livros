@@ -1,0 +1,68 @@
+{
+  "obra_id": 137,
+  "autor": "Susan Stokes-Chapman",
+  "titulo": "Pandora",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Mistério. História.",
+  "palavras_chave": "stokes chapman pandora ",
+  "edicao_id": 134,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 405,
+  "peso": 450,
+  "isbn": "9786559241507",
+  "editora": "Verus",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Repleto de mistério e rico em imaginação, Pandora é um emocionante romance histórico ambientado na Londres georgiana, onde a descoberta de um misterioso vaso grego desencadeia conspirações, revelações e romance.</p><p>Londres, 1799. Dora Blake, uma aspirante a joalheira, vive com o odioso tio no andar de cima da outra famosa loja de antiguidades de seus falecidos pais. Depois que uma encomenda misteriosa é entregue, seu tio começa a agir de forma suspeita, mantendo o vaso trancado no porão da loja, longe de olhares curiosos — inclusive dos de Dora.</p><p>Intrigada com o estranho comportamento do tio, Dora procura o jovem estudioso de antiguidades Edward Lawrence, que prontamente concorda em ajudar. Edward acredita que o vaso seja a chave que vai abrir as portas de seu futuro acadêmico. Dora vê o vaso como uma chance de estabelecer o próprio nome, além de restaurar a loja à sua antiga glória e escapar de seu tio nefasto.</p><p>Mas o que Edward descobre a respeito do vaso faz Dora questionar tudo em que acredita sobre sua vida, sua família e sobre o mundo como ela o conhece. À medida que Dora descobre a verdade, ela entende que algumas portas estão trancadas e alguns mistérios estão enterrados por algum motivo, enquanto outros estão mais próximos da superfície do que parecem.</p><p>Uma história de mito e mistério, segredos e enganos, destino e esperança, Pandora é uma encantadora ficção histórica tão cativante e evocativa quanto A canção de Aquiles, A serpente de Essex e O miniaturista.</p>",
+  "sinopse": "Ambientado em Londres no final do século XVIII, 'Pandora' narra a história de Dora Blake, uma aspirante a joalheira que encontra um misterioso vaso grego que desencadeia uma série de eventos intrigantes. Juntamente com Edward Lawrence, um estudioso de antiguidades, Dora busca desvendar os segredos por trás do vaso, questionando as verdades sobre sua vida e seu futuro. À medida que os mistérios se revelam, ela descobre que algumas portas devem permanecer fechadas.",
+  "exemplar_id": 133,
+  "sku": "LI003C",
+  "preco_estante_virtual": 17.0,
+  "preco_amazon": 17.0,
+  "capa": "static/uploads/susan-stokes-chapman--pandora--capa--20250226--133757.jpg",
+  "contracapa": "static/uploads/susan-stokes-chapman--pandora--contracapa--20250226--133757.jpg",
+  "fotos": [
+    "static/uploads/susan-stokes-chapman--pandora--foto1--20250226--133757.jpg",
+    "static/uploads/susan-stokes-chapman--pandora--foto2--20250226--133757.jpg",
+    "static/uploads/susan-stokes-chapman--pandora--foto3--20250226--133757.jpg",
+    "static/uploads/susan-stokes-chapman--pandora--foto4--20250226--133757.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta carimbo de cortesia da editora / venda proibida."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:34:46",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3171,
+  "autor": "Brian L. Weiss",
+  "titulo": "Muitos Corpos, uma Só Alma",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": null,
+  "palavras_chave": "weiss muitos corpos uma",
+  "edicao_id": 3151,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 241,
+  "peso": 350,
+  "isbn": "9727116000",
+  "editora": "Pergaminho",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Brian Weiss, psiquiatra de renome internacional, explora o poder da regressão a vidas passadas e suas implicações terapêuticas em Muitos Corpos, Uma Só Alma. Utilizando exemplos de casos clínicos, Weiss demonstra como a regressão a vidas futuras pode curar feridas físicas e emocionais. O livro revela que nossas ações nesta vida influenciam nossas encarnações futuras, promovendo uma visão holística onde o contato com vidas passadas e futuras transforma o presente. A abordagem inovadora promete paz, harmonia e equilíbrio ao integrar estas descobertas na jornada evolutiva rumo à imortalidade.",
+  "exemplar_id": 3150,
+  "sku": "LI0223",
+  "preco_estante_virtual": 140.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Boa conservação geral. Há leves marcas de uso, e o papel amarelou um pouco. Mas não há grifos, anotações, rasgos, remendos, sinais de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:10:31",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

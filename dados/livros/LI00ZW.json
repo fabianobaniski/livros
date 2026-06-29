@@ -1,0 +1,68 @@
+{
+  "obra_id": 1793,
+  "autor": "Luciano Amaro",
+  "titulo": "Direito Tributário Brasileiro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Direito tributário. Sistema tributário brasileiro.",
+  "palavras_chave": "amaro direito tributario brasileiro",
+  "edicao_id": 1773,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 512,
+  "peso": 730,
+  "isbn": "9788502069039",
+  "editora": "Saraiva",
+  "numero_edicao": 14,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 1772,
+  "sku": "LI00ZW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--capa--20250430--102948.jpg",
+  "contracapa": "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--contracapa--20250430--102948.jpg",
+  "fotos": [
+    "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--foto1--20250430--102948.jpg",
+    "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--foto2--20250430--102948.jpg",
+    "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--foto3--20250430--102948.jpg",
+    "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--foto4--20250430--102948.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:48:13",
+  "observacoes": "procedencia_biblioteca"
+}

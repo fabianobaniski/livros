@@ -1,0 +1,63 @@
+{
+  "obra_id": 3042,
+  "autor": "Stella Carr",
+  "titulo": "O fantástico homem do metrô",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "carr fantastico homem metro",
+  "edicao_id": 3022,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 118,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Pioneira",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro narra as aventuras de Marco, Flávio e Isabel, três amigos que, ao encontrarem uma misteriosa maleta no metrô, são envolvidos em uma trama repleta de segredos e perseguições. À medida que investigam o conteúdo da maleta, eles se veem em situações perigosas, que os levam a enfrentar desafios inesperados nas ruas de São Paulo. Misturando suspense e humor, a história revela segredos ocultos do centro da cidade e desafia os jovens protagonistas a desvendar um enigma que pode mudar suas vidas para sempre.",
+  "exemplar_id": 3021,
+  "sku": "LI01YI",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, com leves sinais de uso, um tanto amarelados, mas em boas condições gerais. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:16:37",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

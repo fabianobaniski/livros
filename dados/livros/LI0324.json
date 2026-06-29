@@ -1,0 +1,63 @@
+{
+  "obra_id": 5651,
+  "autor": "Kaito",
+  "titulo": "Ao no Flag",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura. Mangá. Romance.",
+  "palavras_chave": "kaito ao flag",
+  "edicao_id": 5626,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 224,
+  "peso": 240,
+  "isbn": "9786559606276",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Com a aproximação do outono, as folhas das árvores vão ganhando cores...</p><p>Começa o Festival Cultural. Os sentimentos de Taichi e Touma se desencontram enquanto conversam sobre o futuro. Ao mesmo tempo, Touma volta a encarar Mami e dá uma resposta à sua declaração de amor, tornando uma importante decisão. O momento em que cada um deles terá que fazer escolhas decisivas se aproxima...!</p><p>Aconselhável para maiores de 16 anos.</p>",
+  "sinopse": "O Festival Cultural marca um ponto crucial para Taichi e Touma, cujos sentimentos se desencontram enquanto discutem o futuro. Touma também precisa lidar com Mami e sua declaração de amor, levando a uma decisão importante. O momento das escolhas decisivas está se aproximando.",
+  "exemplar_id": 5625,
+  "sku": "LI0324",
+  "preco_estante_virtual": 29.0,
+  "preco_amazon": 31.0,
+  "capa": "static/uploads/ao-no-flag__kaito__capa__2026-02-24_13-36-45-693681-000.jpg",
+  "contracapa": "static/uploads/ao-no-flag__kaito__contracapa__2026-02-24_13-36-45-727091-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá estaria em perfeitas condições, contudo apresenta furinho de traça na borda inferior. Não compromete a leitura. No mais, tudo OK."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

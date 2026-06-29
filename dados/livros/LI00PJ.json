@@ -1,0 +1,63 @@
+{
+  "obra_id": 961,
+  "autor": "Jonathan Edwards",
+  "titulo": "A Excelência de Cristo",
+  "subtitulo": "Os atributos únicos do Filho de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Cristianismo.",
+  "palavras_chave": "edwards excelencia cristo atributos",
+  "edicao_id": 946,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 76,
+  "peso": 250,
+  "isbn": "7450932508205",
+  "editora": "O Estandarte de Cristo",
+  "numero_edicao": 1,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>E disse-me um dos anciãos: Não chores; eis aqui o Leão da tribo de Judá, a raiz de Davi, que venceu, para abrir o livro e desatar os seus sete selos. E olhei, e eis que estava no meio do trono e dos quatro animais viventes e entre os anciãos um Cordeiro, como havendo sido morto (Apocalipse 5:5-6a).</p>",
+  "sinopse": "",
+  "exemplar_id": 945,
+  "sku": "LI00PJ",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/jonathan-edwards--a-excel-ncia-de-cristo--capa--20250227--152916.jpg",
+  "contracapa": "static/uploads/jonathan-edwards--a-excel-ncia-de-cristo--contracapa--20250227--152916.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:19:10",
+  "observacoes": null
+}

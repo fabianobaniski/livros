@@ -1,0 +1,68 @@
+{
+  "obra_id": 431,
+  "autor": "Patrick Rothfuss",
+  "titulo": "O nome do vento",
+  "subtitulo": "A crônica do matador do rei: Primeiro dia",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção fantástica. Aventura. Autodescoberta.",
+  "palavras_chave": "rothfuss nome vento cronica",
+  "edicao_id": 419,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 1200,
+  "isbn": "9788599296493",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "A Crônica do Matador do Rei",
+  "volume": null,
+  "transcricao_contracapa": "<p>Ninguém sabe ao certo quem é o herói ou o vilão desse fascinante universo criado por Patrick Rothfuss. Na realidade, essas duas figuras se concentram em Kote, um homem enigmático que se esconde sob a identidade de proprietário da hospedaria Marco do Percurso.</p> <p>Da infância numa trupe itinerante, passando pelos anos vividos numa cidade hostil e pelo esforço para ingressar na escola de magia, <i>O nome do vento</i> acompanha a trajetória de Kote e as duas forças que movem sua vida: o desejo de aprender a arte de nomear as coisas e a necessidade de reunir informações sobre o Chandrian – o lendário e misterioso grupo que assassinou sua família.</p> <p>Quando esses seres do mal reaparecem na cidade, um cronista suspeita que o misterioso Kote seja o personagem principal de diversas histórias que rondam a região e decide aproximar-se dele para descobrir a verdade.</p> <p>Pouco a pouco, o passado de Kote vai sendo revelado, assim como sua multifacetada personalidade – notório mago, esmaredo ladrão, amante viril, herói salvador, músico magistral, assassinó infame.</p> <p>Nesta envolvente narrativa, o leitor é transportado para um mundo fantástico, povoado por mitos e seres fabulosos, heróis e vilões, ladrões e trovadores, amor e ódio, paixão e vingança.</p> <p>Mais do que a trama bem construída e os personagens cativantes, o que torna <i>O nome do vento</i> uma obra tão especial – que levou Patrick Rothfuss ao topo da lista de mais vendidos do <i>The New York Times</i> – é a capacidade de encantar leitores de todas as idades.</p>",
+  "sinopse": "Ninguém sabe ao certo quem é o herói ou o vilão dessa narrativa criada por Patrick Rothfuss. A história centra-se em Kote, um homem enigmático que, ocultando-se sob a identidade de dono da hospedaria Marco do Percurso, carrega um passado repleto de aventuras e mistérios. Com o retorno de ameaças obscuras, a busca pela verdade sobre sua vida começa a se entrelaçar com o desejo de aprender a arte mágica, revelando uma multidão de facetas de sua personalidade. O leitor é envolvido em um mundo fantástico, repleto de mitos e personagens singulares, que oferece uma experiência rica e cativante.",
+  "exemplar_id": 418,
+  "sku": "LI00B1",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/patrick-rothfuss--o-nome-do-vento--capa--20250226--133828.jpg",
+  "contracapa": "static/uploads/patrick-rothfuss--o-nome-do-vento--contracapa--20250226--133828.jpg",
+  "fotos": [
+    "static/uploads/patrick-rothfuss--o-nome-do-vento--foto1--20250226--133828.jpg",
+    "static/uploads/patrick-rothfuss--o-nome-do-vento--foto2--20250226--133828.jpg",
+    "static/uploads/patrick-rothfuss--o-nome-do-vento--foto3--20250226--133828.jpg",
+    "static/uploads/patrick-rothfuss--o-nome-do-vento--foto4--20250226--133828.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:31:20",
+  "observacoes": null
+}

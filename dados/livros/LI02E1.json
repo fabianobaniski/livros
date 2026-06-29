@@ -1,0 +1,68 @@
+{
+  "obra_id": 3606,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance adolescente. Relacionamentos familiares. Comédia romântica.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 3583,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788542607529",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Enquanto Raku e Kosaki não percebem que se gostam, ele e Chitoge seguem fingindo um namoro apenas por conveniência de seus pais. Aos poucos, o “casal” começa a reconhecer as características positivas um do outro. O que Raku não esperava é que acabariam ficando sozinhos num armazém, por armação de seus amigos!</p>",
+  "sinopse": "Raku e Kosaki não percebem seus próprios sentimentos, enquanto Raku e Chitoge continuam fingindo um namoro por causa de seus pais. Gradualmente, o falso casal começa a enxergar qualidades um no outro, até que, por uma armadilha dos amigos, acabam ficando sozinhos em um armazém.",
+  "exemplar_id": 3582,
+  "sku": "LI02E1",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2025-11-05_16-17-08-086756.jpg",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2025-11-05_16-17-08-114410.jpg",
+  "fotos": [
+    "static/uploads/nisekoi__naoshi-komi__foto-01__2025-11-05_16-17-08-149148.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-02__2025-11-05_16-17-08-180446.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-03__2025-11-05_16-17-08-205605.jpg",
+    "static/uploads/nisekoi__naoshi-komi__foto-04__2025-11-05_16-17-08-242822.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:36:06",
+  "observacoes": null
+}

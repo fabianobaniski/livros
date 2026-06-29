@@ -1,0 +1,68 @@
+{
+  "obra_id": 1478,
+  "autor": "Ana Escobar",
+  "titulo": "Boas-vindas, bebê",
+  "subtitulo": "Dos três meses aos dois anos de idade",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "Saúde. Desenvolvimento infantil.",
+  "palavras_chave": "escobar boas-vindas bebê",
+  "edicao_id": 1459,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 213,
+  "peso": 250,
+  "isbn": "9788525058539",
+  "editora": "Globo",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Um livro para se ter sempre à mão. Este guia vai ajudar os pais a tomar decisões com mais segurança e aproveitar melhor cada momento com seu filho.</p> <p>Quando e como dar novos alimentos para o bebê? O que fazer quando a criança não come? Qual o momento certo de trocar o berço pela cama? Como estimular o desenvolvimento da fala? Quanto tempo as crianças devem dormir? O que fazer durante uma crise de birra? Quando uma febre justifica a ida ao pronto-socorro?</p> <p>Com a experiência e sensibilidade de quem cuida de mães e bebês há mais de trinta anos, a médica pediatra Dra Ana Escobar esclarece neste livro as dúvidas que afligem pais, avós e cuidadores durante uma fase importantíssima do desenvolvimento infantil: dos três meses aos dois anos de idade.</p>",
+  "sinopse": "Este guia prático é essencial para os pais, oferecendo orientações sobre a alimentação, desenvolvimento e saúde dos bebês de três meses a dois anos. A Dra. Ana Escobar, com mais de trinta anos de experiência, responde a perguntas comuns e fornece dicas para enfrentar os desafios dessa fase crítica do desenvolvimento infantil.",
+  "exemplar_id": 1458,
+  "sku": "LI00VS",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/ana-escobar--boas-vindas--beb---capa--20250401--115738.jpg",
+  "contracapa": "static/uploads/ana-escobar--boas-vindas--beb---contracapa--20250401--115738.jpg",
+  "fotos": [
+    "static/uploads/ana-escobar--boas-vindas--beb---foto1--20250401--115738.jpg",
+    "static/uploads/ana-escobar--boas-vindas--beb---foto2--20250401--115738.jpg",
+    "static/uploads/ana-escobar--boas-vindas--beb---foto3--20250401--115738.jpg",
+    "static/uploads/ana-escobar--boas-vindas--beb---foto4--20250401--115738.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:54:35",
+  "observacoes": null
+}

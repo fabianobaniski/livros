@@ -1,0 +1,63 @@
+{
+  "obra_id": 2607,
+  "autor": "Fanny Tabak",
+  "titulo": "Ideologias",
+  "subtitulo": "Populismo",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "tabak ideologias populismo",
+  "edicao_id": 2587,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 172,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Eldorado",
+  "numero_edicao": 0,
+  "ano": 1973,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2586,
+  "sku": "LI01MF",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/fanny-tabak--ideologias--capa--20260316--213034.jpg",
+  "contracapa": "static/uploads/fanny-tabak--ideologias--contracapa--20260316--213034.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa marcadas pelo manuseio e contato com outras superfícies, porém sem amassados, rasgos ou perdas. Texto livre de anotações e sublinhados. Sem anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:04:28",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2737,
+  "autor": "Erling Norrby (com dedicatória e autógrafo)",
+  "titulo": "Nobel prizes and life sciences",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "autografo nobel prizes and",
+  "edicao_id": 2717,
+  "encadernacao": null,
+  "quantidade_paginas": 317,
+  "peso": 450,
+  "isbn": "9814299375",
+  "editora": "World Scientific",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro explora o processo de seleção dos laureados com o Prêmio Nobel nas ciências naturais, destacando descobertas notáveis em áreas como genética e doenças infecciosas. A obra revela os bastidores desse prestigiado prêmio, analisando os critérios e o impacto das escolhas ao longo de 50 anos. Com uma visão única sobre a criatividade científica e os avanços na compreensão da condição humana, o livro destaca as histórias por trás dos grandes feitos que transformaram a ciência e continuam a moldar o futuro da humanidade.",
+  "exemplar_id": 2716,
+  "sku": "LI01Q1",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/nobel-prizes-and-life-sciences-erling-norrby-com-dedicatoria-e-autografo-capa_rev1329.jpg",
+  "contracapa": "static/uploads/nobel-prizes-and-life-sciences-erling-norrby-com-dedicatoria-e-autografo-contracapa_rev1906.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado. Sem sublinhados ou anotações. Consta dedicatória e assinatura do autor, Erling Norrby, da The Royal Swedish Academy of Sciences, Sweden."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:17:21",
+  "observacoes": null
+}

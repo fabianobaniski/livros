@@ -1,0 +1,68 @@
+{
+  "obra_id": 24,
+  "autor": "C. S. Lewis",
+  "titulo": "El sobrino del mago",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Fantasia. Aventura. Mitologia. Juvenil",
+  "palavras_chave": "lewis sobrino mago narnia",
+  "edicao_id": 24,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 251,
+  "peso": 380,
+  "isbn": "9788408057024",
+  "editora": "Destino",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "Las Crónicas de Narnia",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>El sobrino del mago</b></p><p>Narnia..., un lugar por el que deambulan Bestias Parlantes..., donde aguarda una bruja..., donde un nuevo mundo está a punto de nacer.</p><p>Dos amigos, víctimas del poder de unos anillos mágicos, son arrojados a otro mundo en el que una malvada hechicera intenta convertirlos en sus esclavos. Pero entonces aparece Aslan y con su canción va hilando el tejido de un nuevo mundo que recibirá el nombre de Narnia.</p><p>Narnia, la tierra donde todo puede suceder.</p><p><b>CLIVE STAPLES LEWIS (Gran Bretaña, 1898-1963).</b></p><p>Crítico, académico y novelista, es uno de los grandes escritores de literatura infantil y juvenil en lengua inglesa. Amigo y colega de Tolkien, ambos poseían un agudo intelecto, una sólida formación y una pasión por la mitología nórdica que marcaría sus obras capitales.</p><p>Con Narnia, una obra fantástica y alegórica sobre la eterna lucha entre el bien y el mal, Lewis inauguraba un género que le convertiría en fundador y referente inexcusable de la narrativa fantástica actual.</p><p><a href='http://www.narnia.com'>www.narnia.com</a><br><a href='http://www.destinojoven.com/narnia'>www.destinojoven.com/narnia</a></p><p>Ilustración de cubierta de Cliff Nielsen<br>Copyright © 2002 por C. S. Lewis Pte. Ltd.</p>",
+  "sinopse": "Dos amigos descubren anillos mágicos que los transportan a otros mundos, donde encuentran a la malvada hechicera Jadis y presencian la creación de Narnia por Aslan.",
+  "exemplar_id": 23,
+  "sku": "LI000L",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/c--s--lewis--el-sobrino-del-mago--capa--20250225--164122.jpg",
+  "contracapa": "static/uploads/c--s--lewis--el-sobrino-del-mago--contracapa--20250225--164122.jpg",
+  "fotos": [
+    "static/uploads/c--s--lewis--el-sobrino-del-mago--foto1--20250225--164122.jpg",
+    "static/uploads/c--s--lewis--el-sobrino-del-mago--foto2--20250225--164122.jpg",
+    "static/uploads/c--s--lewis--el-sobrino-del-mago--foto3--20250225--164122.jpg",
+    "static/uploads/c--s--lewis--el-sobrino-del-mago--foto4--20250225--164122.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Fisicamente o livro está em ótimo estado, contudo, algumas folhas iniciais estão soltas. Não possui anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:21:15",
+  "observacoes": null
+}

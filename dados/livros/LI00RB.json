@@ -1,0 +1,68 @@
+{
+  "obra_id": 1307,
+  "autor": "Sanmya Feitosa Tajra",
+  "titulo": "Gestão estratégica na saúde",
+  "subtitulo": "Reflexões e práticas para uma administração voltada para a excelência",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Gestão. Saúde. Qualidade.",
+  "palavras_chave": "tajra gestao estrategica saude",
+  "edicao_id": 1291,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 248,
+  "peso": 300,
+  "isbn": "9788576140375",
+  "editora": "Iátria",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O livro apresenta aos gestores da saúde técnicas para uma administração voltada para a excelência, tendo como suporte o pensar e o planejamento estratégicos, o Balanced Scorecard, planos de ação e de negócio e as ferramentas de gestão pela qualidade.</p> <p>Tendo o gestor da saúde a visão macro do seu negócio e a definição de técnicas para gestão estratégica, demonstra também os principais instrumentos organizacionais para a operacionalização de suas atividades cotidianas, tais como: Organograma, Manual de Organização, Manual de Cargos e Funções, Layout, Manual de Instrução de Trabalho, Fluxogramas, Formulários, Indicadores de Processo, Gestão à Vista.</p> <p>Como opções para atuar na área de gestão pela qualidade, destaca algumas modalidades para investigação e solução de problemas, tais como: o Programa dos 5'S, Ciclo do PDCA, Brainstorming, Folha de Verificação, Gráfico de Pareto, Diagrama de Causa e Efeito e 5W1H.</p> <p>As técnicas e metodologias apresentadas foram utilizadas para viabilizar a sua inclusão como ferramenta de trabalho no dia-a-dia. A utilização dessas técnicas oferece condições para desenvolver a gestão de forma mais organizada e eficaz.</p> <p>A partir da segunda edição foram implementados os estágios do ciclo de vida das organizações e as estratégias empresariais.</p>",
+  "sinopse": "Este livro é um guia prático para gestores da saúde, oferecendo técnicas para uma administração de excelência. Com foco no planejamento estratégico e ferramentas de gestão, o autor discute modelagens organizacionais, técnicas de qualidade e soluções para problemas, buscando aprimorar a eficácia no dia a dia das organizações de saúde.",
+  "exemplar_id": 1290,
+  "sku": "LI00RB",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/sanmya-feitosa-tajra--gest-o-estrat-gica-na-sa-de--capa--20250401--114909.png",
+  "contracapa": "static/uploads/sanmya-feitosa-tajra--gest-o-estrat-gica-na-sa-de--contracapa--20250401--114909.png",
+  "fotos": [
+    "static/uploads/sanmya-feitosa-tajra--gest-o-estrat-gica-na-sa-de--foto1--20250401--114909.jpg",
+    "static/uploads/sanmya-feitosa-tajra--gest-o-estrat-gica-na-sa-de--foto2--20250401--114909.jpg",
+    "static/uploads/sanmya-feitosa-tajra--gest-o-estrat-gica-na-sa-de--foto3--20250401--114909.jpg",
+    "static/uploads/sanmya-feitosa-tajra--gest-o-estrat-gica-na-sa-de--foto4--20250401--114909.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, porém com marcas deixadas por leve contato com umidade. Folhas levemente enrugadas. Texto livre de sublinhados e anotações. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:12:37",
+  "observacoes": "procedencia_biblioteca"
+}

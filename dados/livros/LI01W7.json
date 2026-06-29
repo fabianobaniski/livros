@@ -1,0 +1,63 @@
+{
+  "obra_id": 2959,
+  "autor": "Véronique Girard",
+  "titulo": "Um corpo para compreender e aprender",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "girard corpo para compreender",
+  "edicao_id": 2939,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 278,
+  "peso": 350,
+  "isbn": "9788515022182",
+  "editora": "Edições Loyola",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora a importância da linguagem corporal e da comunicação não-verbal no ambiente escolar, oferecendo insights sobre como gestos, expressões e emoções afetam as interações em sala de aula. As autoras destacam a ergonomia e o uso do espaço como elementos fundamentais no processo de aprendizagem, ajudando professores a reconhecer e interpretar melhor os sinais corporais de seus alunos. A obra visa reduzir dificuldades escolares e facilitar um aprendizado mais personalizado, proporcionando a cada aluno a oportunidade de descobrir sua forma única de aprender.",
+  "exemplar_id": 2938,
+  "sku": "LI01W7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/um-corpo-para-compreender-e-aprender-veronique-girard-capa_rev1644.jpg",
+  "contracapa": "static/uploads/um-corpo-para-compreender-e-aprender-veronique-girard-contracapa_rev940.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:35:42",
+  "observacoes": null
+}

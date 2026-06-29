@@ -1,0 +1,63 @@
+{
+  "obra_id": 5216,
+  "autor": "Chihiro Harumi",
+  "titulo": "Velvet kiss",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá erótico.",
+  "palavras_chave": "harumi velvet kiss",
+  "edicao_id": 5191,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 240,
+  "isbn": "9788583621911",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Nitta acaba tendo que se envolver sexualmente com a selvagem Kanoko devido a uma dívida. Mas ele se apaixona por uma moça que conheceu na cidade, Rumi, e começa a se afastar da Kanoko. Enquanto isso, Yoriko, tia da Kanoko, começa a arquitetar um plano silenciosamente... Desejos sexuais e intrigas se misturam nesse chocante volume 3!!</p>",
+  "sinopse": "Nitta se envolve com Kanoko devido a uma dívida, mas se apaixona por Rumi, afastando-se de Kanoko. Enquanto isso, Yoriko, a tia de Kanoko, planeja algo em segredo. Desejos e intrigas se misturam neste chocante volume.",
+  "exemplar_id": 5190,
+  "sku": "LI02W8",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/velvet-kiss__chihiro-harumi__capa__2026-02-20_10-32-42-567803-000.png",
+  "contracapa": "static/uploads/velvet-kiss__chihiro-harumi__contracapa__2026-02-20_10-32-42-604099-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5530,
+  "autor": "Kohei Horikoshi",
+  "titulo": "My Hero Academia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Super-heróis. Amizade. Competição.",
+  "palavras_chave": "horikoshi my hero academia",
+  "edicao_id": 5505,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 200,
+  "isbn": "9788545712961",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "Boku no Hero Academia",
+  "volume": 23,
+  "transcricao_contracapa": "<p>Ferrou, ferrou, esse golpe novo do Midoriya é muito animal! Depois que ele soltou uns <b>negócios pretos</b>, ficou meio estranho! Uoh?! Os outros caras começaram a reagir. Tá começando um <b>battle royale</b> misturando os dons de todo mundo! Qual classe vai vencer esse treino em conjunto?!</p> <p><b>\"Plus Ultra\"!!</b></p>",
+  "sinopse": "Midoriya surpreende a todos com um novo golpe, causando uma reação inesperada entre seus colegas. Enquanto poderes se misturam, um emocionante 'battle royale' começa. Qual classe sairá vitoriosa neste intensivo treino conjunto? Descubra a emoção e a surpresa deste volume 'Plus Ultra'!",
+  "exemplar_id": 5504,
+  "sku": "LI02YR",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/my-hero-academia__kohei-horikoshi__capa__2026-02-24_13-36-23-802602-000.png",
+  "contracapa": "static/uploads/my-hero-academia__kohei-horikoshi__contracapa__2026-02-24_13-36-23-855504-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

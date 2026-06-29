@@ -1,0 +1,68 @@
+{
+  "obra_id": 211,
+  "autor": "Platão",
+  "titulo": "A república",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Política. Justiça.",
+  "palavras_chave": "platao republica",
+  "edicao_id": 205,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 366,
+  "peso": 380,
+  "isbn": "9788520921555",
+  "editora": "Clube do Livro",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"É isso o que quero dizer quando afirmo que em todos os Estados rege o mesmo princípio de justiça: o interesse do governo. E, como devemos supor que o governo é quem tem o poder, a única conclusão razoável é que em toda parte só existe um princípio de justiça: o interesse do mais forte.\"</p>",
+  "sinopse": "A obra aborda a relação entre justiça e poder, discutindo como o interesse do governo está intrinsecamente ligado à definição de justiça. Platão analisa a dinâmica de poder nas sociedades e questiona o que realmente constitui um governo justo.",
+  "exemplar_id": 204,
+  "sku": "LI0058",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/plat-o--a-rep-blica--capa--20250226--133806.jpg",
+  "contracapa": "static/uploads/plat-o--a-rep-blica--contracapa--20250226--133806.jpg",
+  "fotos": [
+    "static/uploads/plat-o--a-rep-blica--foto1--20250226--133806.jpg",
+    "static/uploads/plat-o--a-rep-blica--foto2--20250226--133806.jpg",
+    "static/uploads/plat-o--a-rep-blica--foto3--20250226--133806.jpg",
+    "static/uploads/plat-o--a-rep-blica--foto4--20250226--133806.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:38:47",
+  "observacoes": null
+}

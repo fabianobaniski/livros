@@ -1,0 +1,68 @@
+{
+  "obra_id": 22,
+  "autor": "John Green",
+  "titulo": "Tartarugas até lá embaixo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura. Romance. Mistério. Saúde Mental",
+  "palavras_chave": "green tartarugas embaixo",
+  "edicao_id": 22,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 269,
+  "peso": 300,
+  "isbn": "9788551002001",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“É muito raro encontrar quem veja o mesmo mundo que o seu.”</p>",
+  "sinopse": "Aza Holmes, uma jovem de 16 anos, enfrenta sua batalha contra o transtorno obsessivo-compulsivo enquanto investiga o desaparecimento de um bilionário. Entre amizade, mistério e autodescoberta, ela tenta encontrar seu próprio caminho.",
+  "exemplar_id": 21,
+  "sku": "LI000J",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/john-green--tartarugas-at--l--embaixo--capa--20250225--163941.jpg",
+  "contracapa": "static/uploads/john-green--tartarugas-at--l--embaixo--contracapa--20250225--163941.jpg",
+  "fotos": [
+    "static/uploads/john-green--tartarugas-at--l--embaixo--foto1--20250225--163941.jpg",
+    "static/uploads/john-green--tartarugas-at--l--embaixo--foto2--20250225--163941.jpg",
+    "static/uploads/john-green--tartarugas-at--l--embaixo--foto3--20250225--163941.jpg",
+    "static/uploads/john-green--tartarugas-at--l--embaixo--foto4--20250225--163941.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:51:56",
+  "observacoes": null
+}

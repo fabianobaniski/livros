@@ -1,0 +1,68 @@
+{
+  "obra_id": 5874,
+  "autor": "Vários autores",
+  "titulo": "Guia turístico e cultural - Paraná",
+  "subtitulo": "Guide book",
+  "idioma": "Português",
+  "categoria": "Turismo",
+  "temas": "Turismo. Cultura do Paraná. Pontos turísticos.",
+  "palavras_chave": "parana guia turistico cultural",
+  "edicao_id": 5849,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 755,
+  "peso": 2280,
+  "isbn": "",
+  "editora": "EGCT",
+  "numero_edicao": 6,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Qualidade, eficiência... <br>...beleza e modernidade.</p><p>VERNON PALACE HOTEL</p><p>Av. Pres. Affonso Camargo, 455 - CEP 80060-090 - Curitiba - Paraná - Brasil<br>www.vernonhotel.com.br - Fone/Fax: (41) 362-1222 - vernonhotel@vernonhotel.com.br</p>",
+  "sinopse": "O 'Paraná: Guia turístico e cultural' reúne informações e imagens dos principais pontos turísticos do estado, destacando sua beleza natural, modernidade e riqueza cultural, servindo como referência para visitantes interessados em explorar diferentes regiões do Paraná.",
+  "exemplar_id": 5848,
+  "sku": "LI038A",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/parana__guia-turistico-e-cultural__none__capa__2026-01-18_14-12-50-828255-000.png",
+  "contracapa": "static/uploads/parana__guia-turistico-e-cultural__none__contracapa__2026-01-18_14-12-50-892496-001.png",
+  "fotos": [
+    "static/uploads/parana__guia-turistico-e-cultural__none__foto-01__2026-01-18_14-12-50-942584-002.jpg",
+    "static/uploads/parana__guia-turistico-e-cultural__none__foto-02__2026-01-18_14-12-50-981856-003.jpg",
+    "static/uploads/parana__guia-turistico-e-cultural__none__foto-03__2026-01-18_14-12-51-023702-004.jpg",
+    "static/uploads/parana__guia-turistico-e-cultural__none__foto-04__2026-01-18_14-12-51-061011-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:08:55",
+  "observacoes": null
+}

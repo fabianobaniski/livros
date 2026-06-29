@@ -1,0 +1,63 @@
+{
+  "obra_id": 2706,
+  "autor": "Mario Prata",
+  "titulo": "Minhas mulheres e meus homens",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "prata minhas mulheres meus",
+  "edicao_id": 2686,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 252,
+  "peso": 300,
+  "isbn": "9788573022506",
+  "editora": "Objetiva",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Minhas mulheres e meus homens é uma obra íntima e divertida de Mario Prata, onde o autor compartilha histórias deliciosas sobre pessoas que marcaram sua vida. Misturando autobiografia com crônicas, Prata retrata uma vasta gama de personagens, desde figuras famosas até amigos, familiares e amores. Com muito humor, ele explora as virtudes e os pecados da família brasileira, transformando sua agenda pessoal em um retrato cativante e humano, cheio de afeto e emoção, que certamente irá entreter e emocionar os leitores.",
+  "exemplar_id": 2685,
+  "sku": "LI01P6",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/minhas-mulheres-e-meus-homens-mario-prata-capa_rev279.jpg",
+  "contracapa": "static/uploads/minhas-mulheres-e-meus-homens-mario-prata-contracapa_rev470.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Nada de grifos ou anotações. Capa, lombada e contracapa sem danos. Discretos sinais de manuseio e/ou da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:01:02",
+  "observacoes": null
+}

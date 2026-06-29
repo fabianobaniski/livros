@@ -1,0 +1,63 @@
+{
+  "obra_id": 835,
+  "autor": "Ellen G. White",
+  "titulo": "Santificação",
+  "subtitulo": "O grande alvo da vida cristã",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Filosofia. Prática religiosa. Ensino bíblico.",
+  "palavras_chave": "white santificacao ",
+  "edicao_id": 820,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 64,
+  "peso": 200,
+  "isbn": "9788534514255",
+  "editora": "Casa",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>É necessário ter um alvo na vida. Não pode ser impossível de ser alcançado, mas tem que significar uma realização, um incentivo à conquista. Melhor ainda se, além de oferecer um prêmio final, esse alvo puder contribuir para o desenvolvimento da pessoa, antecipando resultados e vantagens da sua caminhada em direção ao grande objetivo.</p><p>Santificação é isso. Mais do que conceitos, é uma prática de vida. Neste livro, Ellen White destaca fatos e acontecimentos na vida de Daniel e do apóstolo João, os quais nos dão preciosas lições sobre a santificação.</p><p>Ellen G. White (1827-1915) escreveu mais de cem livros em diversas áreas, mas destacou-se por apresentar os conceitos bíblicos de forma simples e atraente ao leitor moderno.</p>",
+  "sinopse": "Este livro de Ellen White explora a importância de ter um alvo na vida, abordando conceitos de santificação como uma prática essencial. A autora destaca lições valiosas da vida de personagens bíblicos, como Daniel e o apóstolo João, que ilustram o caminho em direção a um objetivo espiritual significativo.",
+  "exemplar_id": 819,
+  "sku": "LI00M5",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/ellen-g--white--santifica--o--capa--20250227--152907.jpg",
+  "contracapa": "static/uploads/ellen-g--white--santifica--o--contracapa--20250227--152907.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, ainda lacrado! Sem danos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:53:15",
+  "observacoes": null
+}

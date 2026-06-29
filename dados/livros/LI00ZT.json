@@ -1,0 +1,68 @@
+{
+  "obra_id": 1790,
+  "autor": "Claudia Rosa Acevedo; Jouliana Jordan Nohara",
+  "titulo": "Monografia no curso de administração",
+  "subtitulo": "Guia completo de conteúdo e forma",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Metodologia científica. Normalização acadêmica. ABNT.",
+  "palavras_chave": "acevedo monografia curso administracao",
+  "edicao_id": 1770,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 430,
+  "isbn": "9788522447404",
+  "editora": "Atlas",
+  "numero_edicao": 3,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>MONOGRAFIA NO CURSO DE ADMINISTRAÇÃO<br>Guia Completo de Conteúdo e Forma</b><p>Elaborar um trabalho acadêmico, seja ele de conclusão de curso (TCC), monografia de <i>lato sensu</i>, dissertação ou tese, ficou mais fácil com esta obra, que aborda conteúdo, forma e pesquisa no ensino superior. Embora tenha o foco na área de Administração, o livro atende plenamente às demais áreas do saber.</p><p>O consulente encontrará a conceituação e forma exigidas para um trabalho científico. Todos os aspectos abordados são acompanhados de vários exemplos extraídos da realidade acadêmica. Como este manual incorpora a Internet como fonte de pesquisa, expõe os procedimentos para consultar as bibliotecas virtuais disponíveis.</p><p>O interessado ainda conta com as orientações atualizadas da Associação Brasileira de Normas Técnicas (ABNT). Por essas características, este guia torna-se importante ferramenta de trabalho não apenas para o estudante e o pesquisador, como também para profissionais de editoração, jornais e revistas.</p><b>APLICAÇÃO</b><p>Livro-texto para as disciplinas TRABALHO DE CONCLUSÃO DE CURSO (TCC) e METODOLOGIA DE PESQUISA CIENTÍFICA dos cursos de Administração de Empresas. Destinado essencialmente à elaboração de monografias, é recomendado como leitura para estudantes de mestrado e doutorado em fase de elaboração de dissertações e teses. Constitui valiosa fonte de consulta para pesquisadores acadêmicos e para todos os profissionais que necessitem adequar suas referências e citações bibliográficas às normas da Associação Brasileira de Normas Técnicas (ABNT).</p>",
+  "sinopse": "Este livro oferece um guia completo para a elaboração de trabalhos acadêmicos na área de Administração, incluindo TCC, monografias, dissertações e teses, com normas atualizadas da ABNT. Embora voltado para Administração, serve também a outras áreas do saber, abordando desde conceito e forma até pesquisa acadêmica e uso de bibliotecas virtuais. Contém exemplos práticos e orientações, sendo recomendado para estudantes de graduação, pós-graduação e profissionais que buscam referência em normas acadêmicas.",
+  "exemplar_id": 1769,
+  "sku": "LI00ZT",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/claudia-rosa-acevedo--monografia-no-curso-de-administra--o--capa--20250430--102947.jpg",
+  "contracapa": "static/uploads/claudia-rosa-acevedo--monografia-no-curso-de-administra--o--contracapa--20250430--102947.jpg",
+  "fotos": [
+    "static/uploads/claudia-rosa-acevedo--monografia-no-curso-de-administra--o--foto1--20250430--102947.jpg",
+    "static/uploads/claudia-rosa-acevedo--monografia-no-curso-de-administra--o--foto2--20250430--102947.jpg",
+    "static/uploads/claudia-rosa-acevedo--monografia-no-curso-de-administra--o--foto3--20250430--102947.jpg",
+    "static/uploads/claudia-rosa-acevedo--monografia-no-curso-de-administra--o--foto4--20250430--102947.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:05:26",
+  "observacoes": "procedencia_biblioteca"
+}

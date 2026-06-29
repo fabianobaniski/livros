@@ -1,0 +1,63 @@
+{
+  "obra_id": 5626,
+  "autor": "Rumiko Takahashi",
+  "titulo": "Mao",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Viagem no tempo. Mistérios.",
+  "palavras_chave": "takahashi mao",
+  "edicao_id": 5601,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 210,
+  "isbn": "9786559820153",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Aos sete anos de idade, Nanoka Kiba acabou envolvida em um acidente, do qual foi a única sobrevivente. Quando chega ao terceiro ano do ginasial, ela passa novamente diante do local do ocorrido e é inexplicavelmente transportada para o período Taisho! Lá, ela encontra o jovem onmyouji Mao e tentará desvendar o mistério sobre si mesma ao lado dele.</p><p>Ambos os predestinados estão aqui. Abrem-se as cortinas desta história de mistério ambientada no período Taisho, onde os dois enfrentarão o destino juntos!!</p>",
+  "sinopse": "Nanoka Kiba, única sobrevivente de um acidente na infância, volta ao local anos depois e é transportada para o período Taisho. Lá, ela conhece o onmyouji Mao e juntos desvendam mistérios. Uma história de mistério e destino.",
+  "exemplar_id": 5600,
+  "sku": "LI031F",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/mao__rumiko-takahashi__capa__2026-02-24_13-36-43-323477-000.jpg",
+  "contracapa": "static/uploads/mao__rumiko-takahashi__contracapa__2026-02-24_13-36-43-353508-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

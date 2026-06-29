@@ -1,0 +1,68 @@
+{
+  "obra_id": 1902,
+  "autor": "Edelvino Razzolini Filho",
+  "titulo": "Gerência de produtos para a gestão comercial",
+  "subtitulo": "Um enfoque prático",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Marketing. Gestão de produtos. Estratégias empresariais.",
+  "palavras_chave": "razzolini gerencia produtos para gestao comercial",
+  "edicao_id": 1882,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 154,
+  "peso": 355,
+  "isbn": "9788578386689",
+  "editora": "Ibpex",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "Gestão Comercial",
+  "volume": null,
+  "transcricao_contracapa": "<p>O papel de uma organização, no mundo dos negócios, é desenvolver produtos que possam conquistar consumidores e, assim, obter lucratividade. Mas, quando você visita uma loja, um supermercado, um <i>shopping center</i>, você consegue imaginar qual foi o processo pelo qual um determinado produto passou até chegar às gôndolas ou vitrines?</p> <p>Este é o objetivo desta obra: apresentar ao leitor os aspectos que envolvem esse processo, em uma análise completa e facilitada sobre o ciclo de vida de um produto. Aqui, você entenderá por que cada marca, rótulo, embalagem, preço, promoção e local de venda faz parte de uma ação planejada, que envolve diversos testes, projetos, ideias, estratégias e profissionais. Também compreenderá a importância da informação para a atividade de gerenciamento de produtos.</p> <p>Procurando oferecer uma visão diferenciada sobre <i>marketing</i>, este livro visa mostrar, de modo prático, como funcionam os mecanismos que envolvem a gestão de produtos, sendo leitura obrigatória para estudantes, gestores, empresários e administradores que desejam conquistar o sucesso no mundo dos negócios.</p>",
+  "sinopse": "Este livro apresenta, de forma prática, todo o processo de desenvolvimento e gestão de produtos no contexto comercial, desde a concepção até o ponto de venda. Aborda o ciclo de vida dos produtos, explicando o papel estratégico de marca, embalagem, preço, promoção e distribuição, além de destacar a importância da informação para a gerência de produtos. É leitura essencial para estudantes, gestores e administradores que buscam compreender e otimizar os mecanismos de sucesso no mercado.",
+  "exemplar_id": 1881,
+  "sku": "LI012W",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/edelvino-razzolini-filho--ger-ncia-de-produtos-para-a-gest-o-comercial--capa--20250430--104257.jpg",
+  "contracapa": "static/uploads/edelvino-razzolini-filho--ger-ncia-de-produtos-para-a-gest-o-comercial--contracapa--20250430--104257.jpg",
+  "fotos": [
+    "static/uploads/edelvino-razzolini-filho--ger-ncia-de-produtos-para-a-gest-o-comercial--foto1--20250430--104258.jpg",
+    "static/uploads/edelvino-razzolini-filho--ger-ncia-de-produtos-para-a-gest-o-comercial--foto2--20250430--104258.jpg",
+    "static/uploads/edelvino-razzolini-filho--ger-ncia-de-produtos-para-a-gest-o-comercial--foto3--20250430--104258.jpg",
+    "static/uploads/edelvino-razzolini-filho--ger-ncia-de-produtos-para-a-gest-o-comercial--foto4--20250430--104258.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:28:07",
+  "observacoes": "procedencia_biblioteca"
+}

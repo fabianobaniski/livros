@@ -1,0 +1,63 @@
+{
+  "obra_id": 2826,
+  "autor": "Germano Oscar Moehleck (autografado)",
+  "titulo": "Os imigrantes alemães e a Revolução Farroupilha",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "autografado imigrantes alemaes revolucao",
+  "edicao_id": 2806,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 239,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Edição do Autor",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Durante o Sesquicentenário da Revolução Farroupilha, surge a investigação sobre a participação dos colonos alemães nesse importante evento da história do Rio Grande do Sul. A pesquisa revela que, ao contrário do que se acreditava, esses imigrantes não se mantiveram alheios ao conflito, mas atuaram ativamente, tanto na capital quanto em outras regiões. Utilizando vasta documentação histórica, o livro oferece uma nova perspectiva sobre o envolvimento alemão no período de 1835-1845, contribuindo para uma compreensão mais detalhada e justa desse capítulo histórico.",
+  "exemplar_id": 2805,
+  "sku": "LI01SI",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/os-imigrantes-alemaes-e-a-revolucao-farroupilha-germano-oscar-moehleck-autografado-capa_rev814.jpg",
+  "contracapa": "static/uploads/os-imigrantes-alemaes-e-a-revolucao-farroupilha-germano-oscar-moehleck-autografado-contracapa_rev1108.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Há um furinho de traça que vai da capa até a página 31."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:11:52",
+  "observacoes": null
+}

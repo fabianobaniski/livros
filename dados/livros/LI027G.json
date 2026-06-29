@@ -1,0 +1,68 @@
+{
+  "obra_id": 3369,
+  "autor": "Hiroya Oku",
+  "titulo": "Gigant",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Ficção científica.",
+  "palavras_chave": "oku gigant",
+  "edicao_id": 3346,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 220,
+  "isbn": "9788542630404",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3345,
+  "sku": "LI027G",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/gigant__hiroya-oku__capa__2025-11-05_16-25-50-797059.jpg",
+  "contracapa": "static/uploads/gigant__hiroya-oku__contracapa__2025-11-05_16-25-50-821205.jpg",
+  "fotos": [
+    "static/uploads/gigant__hiroya-oku__foto-01__2025-11-05_16-25-50-848342.jpg",
+    "static/uploads/gigant__hiroya-oku__foto-02__2025-11-05_16-25-50-876593.jpg",
+    "static/uploads/gigant__hiroya-oku__foto-03__2025-11-05_16-25-50-896400.jpg",
+    "static/uploads/gigant__hiroya-oku__foto-04__2025-11-05_16-25-50-920242.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:46:20",
+  "observacoes": null
+}

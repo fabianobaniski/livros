@@ -1,0 +1,63 @@
+{
+  "obra_id": 3200,
+  "autor": "Edmund P. Clowney",
+  "titulo": "How Jesus Transforms the Ten Commandments",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "clowney how jesus transforms",
+  "edicao_id": 3180,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 200,
+  "isbn": "9781596380363",
+  "editora": "P & R Publishing",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro explora como Jesus intensifica e cumpre a Lei, revelando o caráter de Deus nos Dez Mandamentos e sua aplicação para a vida cristã atual. Clowney conduz os leitores a compreender como Cristo é o centro da Lei, evitando os extremos do legalismo e da libertinagem. Dividido em 11 capítulos com questões para reflexão e aplicação, é uma valiosa ferramenta para estudos em grupo ou crescimento pessoal, ajudando a conectar a graça do evangelho com os mandamentos de Deus.",
+  "exemplar_id": 3179,
+  "sku": "LI022W",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado (vide fotos), tendo, apenas, discretos sinais de uso e da passagem dos anos. Lombada levemente inclinada. O texto possui grifos à lápis em grande parte das folhas. Não possui marcas de umidade, mofo ou traça. Capa e contracapa bem preservados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:33:44",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1916,
+  "autor": "Agricola Bethlem",
+  "titulo": "Estratégia empresarial",
+  "subtitulo": "Conceitos, processo e administração estratégica",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Estratégia empresarial. Planejamento estratégico. Avaliação ambiental. Avaliação de recursos.",
+  "palavras_chave": "bethlem estrategia empresarial",
+  "edicao_id": 1896,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 396,
+  "peso": 690,
+  "isbn": "9788522455867",
+  "editora": "Atlas",
+  "numero_edicao": 6,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>ESTRATÉGIA EMPRESARIAL</h1><h2>Conceitos, processo e administração estratégica</h2><p>As mudanças econômicas, políticas e sociais ocorridas nos últimos anos têm exigido cada vez mais adoção de medidas decisivas adequadas a essa nova realidade, tornando-se vital aprender a formular e implantar novas estratégias e avaliar o ambiente ao qual estas novas estratégias vão-se adequar. A área de conhecimento que este livro aborda significa que o fenômeno abrange muitos elementos ou partes, que podem ser observados de muitos pontos de vista e que são relacionados entre si também de diversas maneiras.</p><p>Diante da complexidade do assunto, estruturalmente, o livro está dividido em três partes. Exponê na Parte I os conceitos e formulações básicas, começando pelo processo de aprendizagem e pelo processo de aprendizagem estratégica. Após a exposição desse arcabouço e desses modelos, foram acrescentados anexos com discussões acadêmicas sobre algumas formulações e conceitos que irão influir, eventualmente, sobre tal processo.</p><p>A Parte II – Avaliação ambiental – trata das variáveis externas à empresa, analisando temas, como ambiente das empresas, ambiente brasileiro, avaliação do ramo de negócio. A Parte III – Avaliação de recursos – preocupa-se com as variáveis internas à empresa, cujos capítulos enfocam a avaliação dos recursos humanos, análises da área de produção, financeira e de marketing.</p><h3>NOTA SOBRE O AUTOR</h3><p>AGRICOLA BETHLEM é doutor em Ciências pela Universidade Federal do Rio de Janeiro e <i>Visiting Scholar</i> da Universidade de Harvard. É professor titular de Estratégia do COPPEAD/UFRJ e consultor de empresas.</p><h3>APLICAÇÃO</h3><p>Livro-texto para as disciplinas PLANEJAMENTO ESTRATÉGICO e ESTRATÉGIA EMPRESARIAL dos cursos de graduação e pós-graduação em Administração de Empresas. Leitura relevante para profissionais das áreas estratégicas das empresas.</p>",
+  "sinopse": "O livro aborda estratégias empresariais à luz das mudanças econômicas, políticas e sociais recentes, ensinando como formular e implantar novas estratégias e avaliar o ambiente empresarial. Estruturado em três partes, traz fundamentos e modelos de estratégia, discute variáveis externas como ambientes de negócios e a realidade brasileira, e também avalia recursos internos como recursos humanos, produção, finanças e marketing. Indicado para disciplinas de Planejamento Estratégico e Estratégia Empresarial, é leitura relevante para estudantes de administração e profissionais da área.",
+  "exemplar_id": 1895,
+  "sku": "LI013A",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/agricola-bethlem--estrat-gia-empresarial--capa--20250430--104300.jpg",
+  "contracapa": "static/uploads/agricola-bethlem--estrat-gia-empresarial--contracapa--20250430--104300.jpg",
+  "fotos": [
+    "static/uploads/agricola-bethlem--estrat-gia-empresarial--foto1--20250430--104300.jpg",
+    "static/uploads/agricola-bethlem--estrat-gia-empresarial--foto2--20250430--104300.jpg",
+    "static/uploads/agricola-bethlem--estrat-gia-empresarial--foto3--20250430--104300.jpg",
+    "static/uploads/agricola-bethlem--estrat-gia-empresarial--foto4--20250430--104300.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:34:31",
+  "observacoes": "procedencia_biblioteca"
+}

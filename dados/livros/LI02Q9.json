@@ -1,0 +1,63 @@
+{
+  "obra_id": 4991,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Mangá. Sinceridade. Poderes especiais.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4966,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9788545703884",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "UQ Holder!",
+  "volume": 11,
+  "transcricao_contracapa": "<h1>Eu juro que vou trazer o meu avô de volta!!</h1> <p>A sinceridade é um perigo e Touta irá colocar isso à prova ao comer um doce que o faz dizer somente a verdade e acaba se declarando para todas as suas companheiras. Em meio à confusão, ele descobre um incrível poder de Kirie que poderá salvar o mundo. Também é chegada a hora do imortal testar todo seu treinamento no Torneio Ulimatora, no entanto, Fate, o dito 'maior mago do Sistema Solar' e antigo rival de seu avô, surge e lhe faz uma terrível revelação.</p>",
+  "sinopse": "Touta enfrenta o perigo de uma sinceridade incontrolável e acaba declarando seus sentimentos para suas companheiras. Em meio a isso, descobre um poder crucial de Kirie e se prepara para o Torneio Ulimatora. No entanto, seu desafiante é Fate, renomado mago e rival de seu avô, trazendo revelações impactantes.",
+  "exemplar_id": 4965,
+  "sku": "LI02Q9",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-33-442392-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-33-769556-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

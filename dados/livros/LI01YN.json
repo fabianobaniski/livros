@@ -1,0 +1,63 @@
+{
+  "obra_id": 3047,
+  "autor": "Homero; Recontado por Robin Lister",
+  "titulo": "Odisséia",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": null,
+  "palavras_chave": "homero homero odisseia",
+  "edicao_id": 3027,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 167,
+  "peso": 300,
+  "isbn": "9788506043653",
+  "editora": "Melhoramentos",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3026,
+  "sku": "LI01YN",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado. Livre de grifos e anotações. Ilustrado em preto e branco.  / Sinopses: A Odisseia, a grandiosa aventura de Odisseu, é uma das obras fundamentais da cultura ocidental. Após dez anos da Guerra de Troia, Ulisses enfrenta uma longa e árdua jornada de mais dez anos para retornar à sua casa em Ítaca. Durante sua travessia, ele enfrenta a oposição de deuses, monstros e criaturas fantásticas, navegando desde a atual Turquia até sua ilha na Grécia. Muito mais que uma simples aventura nos mares, a obra reflete sobre temas universais como a perseverança, o destino e a busca pelo lar."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:09",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 5865,
+  "autor": "José Matias-Pereira",
+  "titulo": "Manual de metodologia da pesquisa científica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Pesquisa. Metodologia. Educação.",
+  "palavras_chave": "pereira manual metodologia pesquisa",
+  "edicao_id": 5840,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 151,
+  "peso": 400,
+  "isbn": "9788522448517",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Manual de Metodologia da Pesquisa Científica</h1><p>A teoria e método devem ser entendidos como áreas interdependentes. Ambos – teoria e método – buscam realizar o objetivo da pesquisa, oferecendo resposta ao problema que suscitou investigação. Sem desconsiderar a relação teoria/método, este livro elege o método como prioridade neste trabalho, buscando colocá-lo à disposição do pesquisador.</p><p>Assim, o livro é um guia elaborado para fins didáticos, que, em sua forma e conteúdo, especialmente para os alunos dos cursos de educação a distância, apresenta os principais conceitos da metodologia da pesquisa, suas etapas e instruções para auxiliar os alunos, professores e pesquisadores na produção de um trabalho científico: monografia, dissertação e tese de doutoramento.</p><p>Sua elaboração baseou-se em obras reconhecidas sobre o assunto, respeitando as normas da Associação Brasileira de Normas Técnicas (ABNT) para publicações científicas. O autor preocupou-se, em especial, a partir dos principais elementos de um projeto de pesquisa, que o esforço do pesquisador resulte num trabalho de boa qualidade, agregando conhecimento no campo de estudo das Ciências Sociais, em especial em Administração, Economia e Contabilidade.</p><h2>APLICAÇÃO</h2><p>Livro-texto para a disciplina METODOLOGIA DA PESQUISA CIENTÍFICA dos cursos de Administração, Economia e Ciências Contábeis. Leitura complementar para os cursos de Sociologia, Ciências Políticas e Pedagogia.</p>",
+  "sinopse": "Este livro serve como um guia didático sobre metodologia da pesquisa, com foco nas principais etapas, conceitos e instruções para elaboração de trabalhos científicos como monografias, dissertações e teses, especialmente voltado para estudantes de cursos de Administração, Economia, Ciências Contábeis e áreas afins das Ciências Sociais. Aborda a importância do método na pesquisa e segue as normas da ABNT para publicações científicas, visando assegurar trabalhos de qualidade.",
+  "exemplar_id": 5839,
+  "sku": "LI0381",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/manual-de-metodologia-da-pesquisa-cientifica__none__jose-matias-pereira__capa__2026-01-18_14-12-44-753031-000.png",
+  "contracapa": "static/uploads/manual-de-metodologia-da-pesquisa-cientifica__none__jose-matias-pereira__contracapa__2026-01-18_14-12-44-951954-001.png",
+  "fotos": [
+    "static/uploads/manual-de-metodologia-da-pesquisa-cientifica__none__jose-matias-pereira__foto-01__2026-01-18_14-12-45-260367-002.jpg",
+    "static/uploads/manual-de-metodologia-da-pesquisa-cientifica__none__jose-matias-pereira__foto-02__2026-01-18_14-12-45-304625-003.jpg",
+    "static/uploads/manual-de-metodologia-da-pesquisa-cientifica__none__jose-matias-pereira__foto-03__2026-01-18_14-12-45-461813-004.jpg",
+    "static/uploads/manual-de-metodologia-da-pesquisa-cientifica__none__jose-matias-pereira__foto-04__2026-01-18_14-12-45-553426-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, contudo, com a contracapa e várias páginas com marca de dobra. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:40:38",
+  "observacoes": "procedencia_biblioteca"
+}

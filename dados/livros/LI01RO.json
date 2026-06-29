@@ -1,0 +1,63 @@
+{
+  "obra_id": 2796,
+  "autor": "Paulo Miceli",
+  "titulo": "O ponto onde estamos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "miceli ponto onde estamos",
+  "edicao_id": 2776,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 213,
+  "peso": 300,
+  "isbn": "9788526804012",
+  "editora": "Unicamp",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O Ponto Onde Estamos explora o lado obscuro das grandes navegações, revelando a miséria a bordo das caravelas, os riscos enfrentados pelos navegadores e a corrupção do período colonial. Ao contrário das narrativas que idealizam o mar e a aventura, o livro mergulha nas dificuldades e sofrimentos, como a peste, a fome e os naufrágios, oferecendo uma visão realista e rara desse período. A obra combina rigor científico com uma escrita envolvente, agradando tanto aos estudiosos quanto aos leitores em busca de uma leitura instigante e reflexiva.",
+  "exemplar_id": 2775,
+  "sku": "LI01RO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-ponto-onde-estamos-paulo-miceli-capa_rev1653.jpg",
+  "contracapa": "static/uploads/o-ponto-onde-estamos-paulo-miceli-contracapa_rev599.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, bastante amarelado, mas em boas condições de leitura e manuseio. Pequenos grifos localizados em pouquíssimas folhas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:37:37",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2504,
+  "autor": "Flávio Pansieri",
+  "titulo": "Eficácia e vinculação dos direitos sociais",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "",
+  "palavras_chave": "pansieri eficacia vinculacao dos",
+  "edicao_id": 2484,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 196,
+  "peso": 300,
+  "isbn": "9788502172906",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta obra realiza uma análise crítica sobre a efetividade e a vinculação dos direitos sociais, partindo de teorias jurídicas consagradas no Brasil e em Portugal. O estudo percorre o pensamento de importantes teóricos, como Jellinek, Alexy e Dworkin, e examina decisões judiciais do Supremo Tribunal Federal e do Tribunal Constitucional Português. A partir dessa investigação, busca-se esclarecer a complexa relação entre direitos sociais e sua efetivação, abordando as disputas e desafios enfrentados na garantia concreta desses direitos nas sociedades contemporâneas.",
+  "exemplar_id": 2483,
+  "sku": "LI01JK",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/flavio-pansieri--eficacia-e-vinculacao-dos-direitos-sociais--capa--20260316--193323.jpg",
+  "contracapa": "static/uploads/flavio-pansieri--eficacia-e-vinculacao-dos-direitos-sociais--contracapa--20260316--193323.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco pelo tempo. O texto, contudo, está grifado à caneta em cerca de 40 a 50 por cento das folhas. Também há algumas pequenas anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:58:22",
+  "observacoes": null
+}

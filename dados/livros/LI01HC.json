@@ -1,0 +1,63 @@
+{
+  "obra_id": 2423,
+  "autor": "Francisco Balthar Peixoto",
+  "titulo": "Carmen",
+  "subtitulo": "Prosper Merimee - Texto Integral",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "peixoto carmen prosper merimee",
+  "edicao_id": 2403,
+  "encadernacao": null,
+  "quantidade_paginas": 93,
+  "peso": 400,
+  "isbn": "9788532200037",
+  "editora": "Ftd",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A história explora o amor passional entre Carmen, uma cigana de espírito livre, e José, um jovem basco em busca de aventuras. Carmen, com sua beleza exótica e feitiços, é uma mulher que vive à margem da sociedade, rejeitando a vida doméstica e os códigos convencionais do amor. José, por outro lado, deseja estabilidade e se vê enredado pela paixão avassaladora que sente por ela. O romance traz à tona o conflito entre a liberdade e o desejo de posse, questionando se o amor pode sobreviver à liberdade ou se está destinado ao fracasso quando um tenta controlar o outro.",
+  "exemplar_id": 2402,
+  "sku": "LI01HC",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/francisco-balthar-peixoto--carmen--capa--20260316--180705.jpg",
+  "contracapa": "static/uploads/francisco-balthar-peixoto--carmen--contracapa--20260316--180705.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado. Sem anotações ou sublinhados. Um pouco amarelado e com leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:15:32",
+  "observacoes": null
+}

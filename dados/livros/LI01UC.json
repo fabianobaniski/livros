@@ -1,0 +1,63 @@
+{
+  "obra_id": 2892,
+  "autor": "Paulo de Castro",
+  "titulo": "Rosa Luxemburgo",
+  "subtitulo": "Socialismo e liberdade",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "castro rosa luxemburgo socialismo",
+  "edicao_id": 2872,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Forum",
+  "numero_edicao": 1,
+  "ano": 1968,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O mundo contemporâneo é marcado por convulsões sociais que, ao contrário do esperado, têm explodido com maior intensidade nas sociedades desenvolvidas. Nesse contexto, figuras históricas como Rosa Luxemburgo voltam a ganhar destaque, refletindo a necessidade de se retornar às fontes para buscar soluções autênticas e desvencilhadas de burocracias e oportunismos. Este livro é um tributo a Rosa, abordando suas ideias revolucionárias e sua luta incansável, essencial para compreender as complexidades do campo socialista e os dilemas atuais da sociedade.",
+  "exemplar_id": 2871,
+  "sku": "LI01UC",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/rosa-luxemburgo-paulo-de-castro-capa_rev1051.jpg",
+  "contracapa": "static/uploads/rosa-luxemburgo-paulo-de-castro-contracapa_rev1570.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro envelhecido, bastante amarelado pelo tempo. Conteúdo OK, sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:52",
+  "observacoes": null
+}

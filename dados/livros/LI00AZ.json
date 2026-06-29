@@ -1,0 +1,68 @@
+{
+  "obra_id": 429,
+  "autor": "John S. Marr; John Baldwin",
+  "titulo": "A décima primeira praga",
+  "subtitulo": "Suspense médico",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção. Terror.",
+  "palavras_chave": "marr praga",
+  "edicao_id": 417,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 425,
+  "peso": 500,
+  "isbn": "9788532512628",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As pragas bíblicas foram atos de Deus, desta vez, no entanto, elas estão sendo criadas pelo homem</p><p>I - ÁGUAS EM SANGUE<br>II - RÁS<br>III - PIOLHOS<br>IV - EXAMES<br>V - PESTE EM ANIMAIS<br>VI - TUMORES E PÚSTULAS<br>VII - SARAIVA<br>VIII - GAFANHOTOS<br>IX - TREVAS<br>X - A MORTE DOS PRIMOGÊNITOS</p><p>O pior ainda está por vir ...<br>A DÉCIMA PRIMEIRA PRAGA.<br>CONHEÇA DE PERTO O SENTIDO DA PALAVRA TERROR.</p>",
+  "sinopse": "Este livro aborda as dez pragas bíblicas e propõe que, desta vez, os fenômenos estão sendo criados pelo homem. A narrativa explora eventos catastróficos relacionados às pragas, que vão de águas em sangue a pestes em animais, culminando em um apelo sobre a decima primeira praga, sugerindo que o pior ainda está por vir.",
+  "exemplar_id": 416,
+  "sku": "LI00AZ",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/john-s--marr--m-d---a-d-cima-primeira-praga--capa--20250226--133828.jpg",
+  "contracapa": "static/uploads/john-s--marr--m-d---a-d-cima-primeira-praga--contracapa--20250226--133828.jpg",
+  "fotos": [
+    "static/uploads/john-s--marr--m-d---a-d-cima-primeira-praga--foto1--20250226--133828.jpg",
+    "static/uploads/john-s--marr--m-d---a-d-cima-primeira-praga--foto2--20250226--133828.jpg",
+    "static/uploads/john-s--marr--m-d---a-d-cima-primeira-praga--foto3--20250226--133828.jpg",
+    "static/uploads/john-s--marr--m-d---a-d-cima-primeira-praga--foto4--20250226--133828.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:17:35",
+  "observacoes": null
+}

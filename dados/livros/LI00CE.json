@@ -1,0 +1,63 @@
+{
+  "obra_id": 483,
+  "autor": "Marcelo Magalhães",
+  "titulo": "Capacidade relacional de jesus",
+  "subtitulo": "Uma verdadeira lição de atitude, amor, tolerância, humildade, respeito e espiritualidade",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Ensino. E espiritualidade.",
+  "palavras_chave": "magalhaes capacidade relacional jesus",
+  "edicao_id": 468,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 205,
+  "peso": 350,
+  "isbn": "9788565105606",
+  "editora": "Ágape",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Olhando para os Evangelhos, Jesus é chamado de mestre 45 vezes, e outras 16 vezes por títulos equivalentes. Jesus nunca foi chamado de pregador. Ainda, Jesus aparece 45 vezes ensinando e apenas 11 vezes pregando, das quais 9 estão acompanhadas do verbo ensinar. A mensagem de Jesus é chamada de ensino 39 vezes, e 6 vezes de sabedoria. Nunca Sua mensagem foi chamada de sermão. Jesus sempre ensinava em Seus encontros.</p> <p>Os Evangelhos apresentam 184 relatos de encontros de Jesus com pessoas, os quais sempre resultavam em ensino, desafio, exortação e consolo. O ministério de Jesus era marcado pela dinamicidade. Vários textos demonstram Jesus percorrendo incansavelmente as cidades e povoados no intuito de ensinar o Evangelho do Reino. Na Sua missão de ensinar, o fazia com autoridade, sendo reconhecido como Mestre por muitos dos Seus interlocutores.</p> <p>Antes crescei na graça e conhecimento de nosso Senhor e Salvador, Jesus Cristo. A ele seja dada a glória, assim agora, como no dia da eternidade. Amém.</p>",
+  "sinopse": "Este livro apresenta uma análise profunda da capacidade relacional de Jesus, destacando a importância dos ensinamentos, exortações e da dinâmica em Seus encontros. Marcelo Magalhães explora como Jesus se relacionava com as pessoas e os efeitos transformadores de Sua mensagem na vida de seus interlocutores.",
+  "exemplar_id": 467,
+  "sku": "LI00CE",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/marcelo-magalh-es--capacidade-relacional-de-jesus--capa--20250227--111545.jpg",
+  "contracapa": "static/uploads/marcelo-magalh-es--capacidade-relacional-de-jesus--contracapa--20250227--111545.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:12:30",
+  "observacoes": null
+}

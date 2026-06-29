@@ -1,0 +1,63 @@
+{
+  "obra_id": 2543,
+  "autor": "Márcio Pugliesi; Wagner Veneziani Costa",
+  "titulo": "Filosofia americana",
+  "subtitulo": "Uma introdução",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "pugliesi filosofia americana uma",
+  "edicao_id": 2523,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 149,
+  "peso": 222,
+  "isbn": "9788573860269",
+  "editora": "WVC",
+  "numero_edicao": 0,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2522,
+  "sku": "LI01KN",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/marcio-pugliesi--filosofia-americana--capa--20260316--202038.jpg",
+  "contracapa": "static/uploads/marcio-pugliesi--filosofia-americana--contracapa--20260316--202038.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:02:56",
+  "observacoes": null
+}

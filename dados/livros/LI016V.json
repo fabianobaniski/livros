@@ -1,0 +1,68 @@
+{
+  "obra_id": 2046,
+  "autor": "Nelson Casarotto Filho; Bruno Hartmut Kopittke",
+  "titulo": "Análise de investimentos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Matemática financeira. Engenharia econômica. Tomada de decisão. Estratégia empresarial.",
+  "palavras_chave": "casarotto analise investimentos",
+  "edicao_id": 2026,
+  "encadernacao": null,
+  "quantidade_paginas": 411,
+  "peso": 620,
+  "isbn": "9788522457892",
+  "editora": "Atlas",
+  "numero_edicao": 11,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>ANÁLISE DE INVESTIMENTOS</b><br>Matemática Financeira<br>Engenharia Econômica<br>Tomada de Decisão<br>Estratégia Empresarial</p><p>Tendo em vista que a Análise de Investimentos é um problema com que se defrontam permanentemente os dirigentes empresariais, este livro apresenta a Matemática Financeira como ciência básica e a Engenharia Econômica como técnica, preenchendo uma lacuna importante na literatura da área.</p><p>Trata-se então de um manual básico para a solução de problemas de Análise de Investimentos. Capítulos sobre Técnicas de Tomada de Decisões, Estratégia Empresarial e Análise de Riscos complementam seu conteúdo e tornam a obra da maior importância para economistas, gerentes financeiros, administradores de empresas e engenheiros de produção.</p><p><b>NOTA SOBRE OS AUTORES</b></p><p><b>Nelson Casarotto Filho</b> é mestre e doutor em Engenharia de Produção pela Universidade Federal de Santa Catarina (UFSC), onde é professor dos cursos de mestrado e doutorado em Engenharia de Produção. É autor do livro <i>Elaboração de projetos empresariais</i> e coautor de <i>Gerência de projetos/Engenharia simultânea e Redes de pequenas e médias empresas e desenvolvimento local</i>, publicados pela Atlas.<br>casarotto@deps.ufsc.br</p><p><b>Bruno Hartmut Kopittke</b> é bacharel em Química pela Universidade Federal do Rio Grande do Sul (UFRGS) e mestre em Engenharia de Produção pela UFSC, onde é professor titular do Departamento de Engenharia de Produção e Sistemas. É doutor em Engenharia Industrial por L'Institut National Polytechnique, de Lorraine, França.</p><p><b>APLICAÇÃO</b></p><p>Livro-texto para as disciplinas <i>Matemática Financeira</i>, <i>Engenharia Econômica</i> e <i>Análise de Investimentos</i> dos cursos de Administração de Empresas, Ciências Contábeis e Engenharia de Produção. Leitura recomendada para as disciplinas <i>Administração Financeira</i> e <i>Elaboração e Análise de Projetos</i>. Recomendado para programas de desenvolvimento profissional.</p>",
+  "sinopse": "Análise de Investimentos apresenta a Matemática Financeira e a Engenharia Econômica como fundamentos essenciais para a tomada de decisão empresarial. O livro serve como manual básico para solucionar problemas de investimento, incluindo capítulos sobre técnicas de decisão, estratégia empresarial e análise de riscos. Indicado para estudantes e profissionais de Economia, Administração, Finanças e Engenharia de Produção, é recomendado também para disciplinas e programas de desenvolvimento profissional nessas áreas.",
+  "exemplar_id": 2025,
+  "sku": "LI016V",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/nelson-casarotto-filho--an-lise-de-investimentos--capa--20250430--104525.jpg",
+  "contracapa": "static/uploads/nelson-casarotto-filho--an-lise-de-investimentos--contracapa--20250430--104525.jpg",
+  "fotos": [
+    "static/uploads/nelson-casarotto-filho--an-lise-de-investimentos--foto1--20250430--104525.jpg",
+    "static/uploads/nelson-casarotto-filho--an-lise-de-investimentos--foto2--20250430--104525.jpg",
+    "static/uploads/nelson-casarotto-filho--an-lise-de-investimentos--foto3--20250430--104525.jpg",
+    "static/uploads/nelson-casarotto-filho--an-lise-de-investimentos--foto4--20250430--104525.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:25:49",
+  "observacoes": "procedencia_biblioteca"
+}

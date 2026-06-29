@@ -1,0 +1,68 @@
+{
+  "obra_id": 3571,
+  "autor": "Shuzo Oshimi",
+  "titulo": "Happiness",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá. Terror. Suspense. Vampirismo.",
+  "palavras_chave": "oshimi happiness volume 10",
+  "edicao_id": 3548,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 190,
+  "isbn": "9788583622680",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>Após dez anos de experimento, Okazaki finalmente consegue despertar. Durante esse tempo todo, ele ouvia a voz da Nora ecoar em sua mente, porém, a aparência dela tinha mudado por completo.</p><p>E agora, depois de conseguir fugir da instituição onde estava preso, ele ruma para resgatar o seu amigo Yuuki.</p><p>Já Sakurane, como esperado, não conseguiu se tornar \"Deus\" mesmo devorando até o cérebro do vampiro e perde o último pingo de juízo que ainda lhe restava, fazendo-o brandir a faca contra o meio do peito da Gosho. Conseguirá Okazaki chegar a tempo de resolver tudo?</p>",
+  "sinopse": "Após dez anos de experimentos, Okazaki desperta e, guiado pela voz de Nora, embarca em uma missão para resgatar seu amigo Yuuki após fugir da instituição onde estava preso. Enquanto isso, Sakurane perde a sanidade ao tentar se tornar 'Deus', cometendo atos extremos. Resta saber se Okazaki chegará a tempo para impedir uma tragédia e resolver tudo.",
+  "exemplar_id": 3547,
+  "sku": "LI02D2",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/happiness__shuzo-oshimi__capa__2025-11-05_16-16-44-797547.jpg",
+  "contracapa": "static/uploads/happiness__shuzo-oshimi__contracapa__2025-11-05_16-16-44-828240.jpg",
+  "fotos": [
+    "static/uploads/happiness__shuzo-oshimi__foto-01__2025-11-05_16-16-44-864490.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-02__2025-11-05_16-16-44-895555.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-03__2025-11-05_16-16-44-922722.jpg",
+    "static/uploads/happiness__shuzo-oshimi__foto-04__2025-11-05_16-16-44-940245.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:45:19",
+  "observacoes": null
+}

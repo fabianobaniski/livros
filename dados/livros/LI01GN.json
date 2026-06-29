@@ -1,0 +1,63 @@
+{
+  "obra_id": 2398,
+  "autor": "Pedro Rosa Mendes",
+  "titulo": "Baía dos Tigres",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "mendes baia dos tigres",
+  "edicao_id": 2378,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 388,
+  "peso": 450,
+  "isbn": "9788588193109",
+  "editora": "Sá / Rosari",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O autor relata uma experiência de viagem pela África, marcada pela tranquilidade do medo e a intensidade da morte. Em 1997, ele aterrissa em Luanda com o objetivo de chegar a Quelimane por terra, sem uma razão específica, movido apenas pelo desejo de explorar. As páginas do livro são como um atlas pessoal, descrevendo a rota através de uma África onde o espaço e o tempo se confundem, e as pessoas são a verdadeira face da geografia...",
+  "exemplar_id": 2377,
+  "sku": "LI01GN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/pedro-rosa-mendes--baia-dos-tigres--capa--20260316--155644.jpg",
+  "contracapa": "static/uploads/pedro-rosa-mendes--baia-dos-tigres--contracapa--20260316--155650.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel fortemente amarelado pela passagem dos anos. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados. Dedicatória na primeira página."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:53:05",
+  "observacoes": null
+}

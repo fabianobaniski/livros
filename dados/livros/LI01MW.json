@@ -1,0 +1,63 @@
+{
+  "obra_id": 2624,
+  "autor": "Marcos Margulies",
+  "titulo": "Iudaica brasiliensis",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "margulies iudaica brasiliensis",
+  "edicao_id": 2604,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 330,
+  "isbn": "",
+  "editora": "Documentário",
+  "numero_edicao": 0,
+  "ano": 1974,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2603,
+  "sku": "LI01MW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marcos-margulies--iudaica-brasiliensis--capa--20260316--213631.jpg",
+  "contracapa": "static/uploads/marcos-margulies--iudaica-brasiliensis--contracapa--20260316--213631.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados.  Repertório bibliográfico comentado dos livros relacionados com o judaísmo e questões afins, publicados no Brasil desde os primórdios até o presente momento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:49:25",
+  "observacoes": null
+}

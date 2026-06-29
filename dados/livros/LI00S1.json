@@ -1,0 +1,68 @@
+{
+  "obra_id": 1334,
+  "autor": "Carlos Alberto Orge Pinheiro",
+  "titulo": "Introdução a finanças e mercados de capitais",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Finanças. Mercados.",
+  "palavras_chave": "pinheiro introducao financas mercados",
+  "edicao_id": 1317,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 287,
+  "peso": 400,
+  "isbn": "9788539904136",
+  "editora": "Ciência Moderna",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O mercado financeiro atual acaba exigindo que o aluno da área de finanças esteja habilitado para desenvolver e usar estratégias e técnicas eficazes, devendo para isso, apresentar um bom conhecimento profissional do cenário financeiro para que possa tomar decisões que atendam às expectativas dos acionistas do negócio.</p><p>Assim, “Introdução a Finanças e Mercados de Capitais” alia os aspectos teóricos de finanças às aplicações práticas, trazendo uma série de informações que possibilita aos alunos, futuros gestores financeiros, entenderem as decisões tomadas. Tal decisões são pautadas nos aspectos do investimento, do financiamento, do pagamento dos dividendos, como também do relacionamento com o mercado financeiro e, em especial, com o mercado de capitais.</p>",
+  "sinopse": "O livro aborda a necessidade de formação do aluno na área de finanças, preparando-o para desenvolver estratégias e usar técnicas eficazes. Ele apresenta uma visão profissional do cenário financeiro, garantindo que os futuros gestores administrativos entendam as decisões em relação a investimentos, financiamentos e o relacionamento com o mercado de capitais.",
+  "exemplar_id": 1316,
+  "sku": "LI00S1",
+  "preco_estante_virtual": 42.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/carlos-alberto-orge-pinheiro--introdu--o-a-finan-as-e-mercados-de-capitais--capa--20250401--114913.png",
+  "contracapa": "static/uploads/carlos-alberto-orge-pinheiro--introdu--o-a-finan-as-e-mercados-de-capitais--contracapa--20250401--114913.png",
+  "fotos": [
+    "static/uploads/carlos-alberto-orge-pinheiro--introdu--o-a-finan-as-e-mercados-de-capitais--foto1--20250401--114913.jpg",
+    "static/uploads/carlos-alberto-orge-pinheiro--introdu--o-a-finan-as-e-mercados-de-capitais--foto2--20250401--114913.jpg",
+    "static/uploads/carlos-alberto-orge-pinheiro--introdu--o-a-finan-as-e-mercados-de-capitais--foto3--20250401--114913.jpg",
+    "static/uploads/carlos-alberto-orge-pinheiro--introdu--o-a-finan-as-e-mercados-de-capitais--foto4--20250401--114913.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:20:33",
+  "observacoes": "procedencia_biblioteca"
+}

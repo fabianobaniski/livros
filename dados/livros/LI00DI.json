@@ -1,0 +1,63 @@
+{
+  "obra_id": 523,
+  "autor": "Russell P. Shedd",
+  "titulo": "Lei, graça e santificação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Legalismo. Graça.",
+  "palavras_chave": "shedd lei graça santificação",
+  "edicao_id": 508,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 105,
+  "peso": 280,
+  "isbn": "9788527500920",
+  "editora": "Vida Nova",
+  "numero_edicao": 2,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Num estilo claro, envolvente e atual, o Dr. Shedd expõe a perspectiva bíblica acerca de pontos fundamentais na experiência cristã individual: lei, graça e santificação.</p> <p>Ele nos ensina a evitar os perigos extremos do legalismo, do formalismo e do tradicionalismo, mostrando-nos, por outro lado, como fugir de um evangelho teórico, sem vida e até mesmo libertino.</p>",
+  "sinopse": "O livro apresenta uma análise sobre a experiência cristã, abordando temas centrais como a lei, a graça e a santificação, enquanto alerta para os extremos do legalismo e a superficialidade do tradicionalismo na prática da fé.",
+  "exemplar_id": 507,
+  "sku": "LI00DI",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/russell-p--shedd--lei--gra-a-e-santifica--o--capa--20250227--152847.jpg",
+  "contracapa": "static/uploads/russell-p--shedd--lei--gra-a-e-santifica--o--contracapa--20250227--152847.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:29:53",
+  "observacoes": null
+}

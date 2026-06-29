@@ -1,0 +1,68 @@
+{
+  "obra_id": 36,
+  "autor": "Stendhal",
+  "titulo": "Napoleão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Napoleão Bonaparte. História Militar. Revolução Francesa. Império Francês",
+  "palavras_chave": "stendhal napoleao",
+  "edicao_id": 36,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 194,
+  "peso": 380,
+  "isbn": "9788585934026",
+  "editora": "Boitempo Editorial",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Napoleão</b> é, para Stendhal, uma paixão sobretudo retrospectiva. Será apreciado à medida que deslizar para fora do horizonte: desterrado em Santa Helena, constitui-se em torno dele uma mitologia que realça seus traços revolucionários, apocalípticos mesmo, em detrimento de seus compromissos, de seu conservadorismo ou do espírito autoritário.</p><p><i>Renato Janine Ribeiro</i></p><p>Toda a obra de Stendhal situa-se sob o signo napoleônico. Não há livro, romance, relato de viagem, ensaio ou panfleto que deixe de fazer referência direta ou indireta ao imperador. Elimine-se <b>Napoleão</b>, Stendhal se torna inexpressivo.</p><p><i>Victor del Litto</i></p>",
+  "sinopse": "Obra de Stendhal sobre Napoleão Bonaparte, explorando sua trajetória, impacto e legado histórico, além de sua influência na mitologia política e cultural.",
+  "exemplar_id": 35,
+  "sku": "LI000X",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/stendhal--napole-o--capa--20250225--164905.jpg",
+  "contracapa": "static/uploads/stendhal--napole-o--contracapa--20250225--164905.jpg",
+  "fotos": [
+    "static/uploads/stendhal--napole-o--foto1--20250225--164905.jpg",
+    "static/uploads/stendhal--napole-o--foto2--20250225--164905.jpg",
+    "static/uploads/stendhal--napole-o--foto3--20250225--164905.jpg",
+    "static/uploads/stendhal--napole-o--foto4--20250225--164905.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado geral, porém amarelado pela passagem dos anos. Possui sobrecapa, com marcas de uso e desgastes. Capa, lombada e contracapa sem danos. Texto livre de sublinhados e anotações. "
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:16:03",
+  "observacoes": null
+}

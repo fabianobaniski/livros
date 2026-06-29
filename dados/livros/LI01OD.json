@@ -1,0 +1,63 @@
+{
+  "obra_id": 2677,
+  "autor": "Rodrigo Arantes Cavalcante; Renata do Val",
+  "titulo": "Manual de iniciação do advogado trabalhista",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "",
+  "palavras_chave": "cavalcante manual iniciacao advogado",
+  "edicao_id": 2657,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 350,
+  "peso": 600,
+  "isbn": "9788536190815",
+  "editora": "LTR",
+  "numero_edicao": 4,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2656,
+  "sku": "LI01OD",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/manual-de-iniciacao-do-advogado-trabalhista-rodrigo-arantes-cavalcante-capa_rev1100.jpg",
+  "contracapa": "static/uploads/manual-de-iniciacao-do-advogado-trabalhista-rodrigo-arantes-cavalcante-contracapa_rev1271.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, selo de livraria.  4ª edição: Contém PJe e novo CPC."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:40:27",
+  "observacoes": null
+}

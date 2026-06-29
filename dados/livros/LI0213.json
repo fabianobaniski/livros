@@ -1,0 +1,63 @@
+{
+  "obra_id": 3135,
+  "autor": "Eduardo Yázigi",
+  "titulo": "O Mundo das Calçadas",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Geografia",
+  "temas": null,
+  "palavras_chave": "yazigi mundo das calcadas",
+  "edicao_id": 3115,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 546,
+  "peso": 800,
+  "isbn": "8586087998",
+  "editora": "Humanitas / Imprensa Oficial",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "A rua é ao mesmo tempo espaço da discriminação e da comunicação-integração. Como adjetivo ela discrimina criança de rua, povo de rua, mulher de rua, comerciante de rua. Como território de cidadania a rua expõe, publiciza, circula, traz o convívio. O antigo hábito de colocar cadeira à porta ao anoitecer para conversa entre vizinhos foi substituído pela novela - das seis, sete, oito - na TV da sala...",
+  "exemplar_id": 3114,
+  "sku": "LI0213",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Subtítulo: Por uma política democrática dos espaços públicos. / Obra volumosa, com 546 páginas, em capa brochura. Fisicamente muito conservado, com as seguintes ressalvas: Papel um pouco amarelado, sobretudo nas laterais; Capa com leve marca de dobra na parte superior esquerda; Grifos pequenos, à caneta e lápis, feitos com régua, até a página 71.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Subtítulo: Por uma política democrática dos espaços públicos. / Obra volumosa, com , em capa brochura. Fisicamente muito conservado, com as seguintes ressalvas: Papel um pouco amarelado, sobretudo nas laterais; Capa com leve marca de dobra na parte superior esquerda; Grifos pequenos, à caneta e lápis, feitos com régua, até a página 71."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:31:12",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2481,
+  "autor": "Mario Prata",
+  "titulo": "Diário de um magro (15 dias num SPA)",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "prata diario magro dias",
+  "edicao_id": 2461,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 280,
+  "isbn": "9788525019806",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Um relato divertido e bem-humorado sobre a experiência de passar dias em um spa. Com sua escrita leve e envolvente, o autor narra as situações engraçadas e inusitadas que ocorrem nesse ambiente, desde as dificuldades para emagrecer até as peculiaridades dos frequentadores. O livro mistura humor e crítica social, convidando o leitor a rir das situações absurdas e a refletir sobre o culto ao corpo. É uma leitura leve e relaxante, ideal para quem quer se divertir.",
+  "exemplar_id": 2460,
+  "sku": "LI01IX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/mario-prata--diario-de-um-magro-15-dias-num-spa--capa--20260316--192456.jpg",
+  "contracapa": "static/uploads/mario-prata--diario-de-um-magro-15-dias-num-spa--contracapa--20260316--192456.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação, apesar do livro estar um pouco amarelado pela passagem dos anos. Texto à salvo de anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:45:53",
+  "observacoes": null
+}

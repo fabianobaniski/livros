@@ -1,0 +1,63 @@
+{
+  "obra_id": 2815,
+  "autor": "Dante Alighieri",
+  "titulo": "Obras completas",
+  "subtitulo": "Volume IV",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "alighieri obras completas volume",
+  "edicao_id": 2795,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 479,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Edit. das Américas",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2794,
+  "sku": "LI01S7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/obras-completas-dante-alighieri-capa_rev810.jpg",
+  "contracapa": "static/uploads/obras-completas-dante-alighieri-contracapa_rev855.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:50:25",
+  "observacoes": null
+}

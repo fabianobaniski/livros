@@ -1,0 +1,63 @@
+{
+  "obra_id": 3000,
+  "autor": "Jean Claude Chesnais",
+  "titulo": "A Vingança do Terceiro Mundo",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": null,
+  "palavras_chave": "chesnais vinganca terceiro mundo",
+  "edicao_id": 2980,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 500,
+  "isbn": null,
+  "editora": "Espaço e Tempo",
+  "numero_edicao": null,
+  "ano": 1989,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 2979,
+  "sku": "LI01XC",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "ATENÇÃO: Os detalhes sobre a conservação deste livro serão cadastrados em breve. Se tiver interesse na obra e urgência na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual e eu lhe passo as informações. Obrigado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:45:37",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

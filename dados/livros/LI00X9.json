@@ -1,0 +1,68 @@
+{
+  "obra_id": 1604,
+  "autor": "Steve Biddulph",
+  "titulo": "Momentos mágicos com seus filhos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Educação. Criação de filhos.",
+  "palavras_chave": "biddulph momentos magicos",
+  "edicao_id": 1585,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 133,
+  "peso": 250,
+  "isbn": "9788588350335",
+  "editora": "Fundamento",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este é um livro para você colocar o Amor em ação. Prático e inteligente.</p> <p>Steve Biddulph é mundialmente reconhecido pela honestidade e carinho com que aconselha os pais a educarem melhor os seus filhos.</p> <ul> <li>Criando os adultos de amanhã</li> <li>Chegou a hora de planejar outro tipo de homem</li> <li>Travessura ou apenas excesso de energia?</li> <li>Os três truques para conseguir cooperação</li> <li>Criando meninas autoconfiantes</li> </ul> <p>Para pais e mães ocupados, mas comprometidos com o futuro de seus filhos.</p>",
+  "sinopse": "Momentos Mágicos é uma obra que visa ajudar os pais a colocarem o amor em ação, oferecendo conselhos práticos sobre como criar filhos mais felizes e equilibrados. O autor, Steve Biddulph, compartilha sua experiência e sabedoria, abordando temas como a educação de meninos e meninas autoconfiantes e a importância de planejar a formação do futuro dos filhos.",
+  "exemplar_id": 1584,
+  "sku": "LI00X9",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/steve-biddulph--momentos-m-gicos--capa--20250401--115755.jpg",
+  "contracapa": "static/uploads/steve-biddulph--momentos-m-gicos--contracapa--20250401--115755.jpg",
+  "fotos": [
+    "static/uploads/steve-biddulph--momentos-m-gicos--foto1--20250401--115755.jpg",
+    "static/uploads/steve-biddulph--momentos-m-gicos--foto2--20250401--115755.jpg",
+    "static/uploads/steve-biddulph--momentos-m-gicos--foto3--20250401--115755.jpg",
+    "static/uploads/steve-biddulph--momentos-m-gicos--foto4--20250401--115755.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:54",
+  "observacoes": null
+}

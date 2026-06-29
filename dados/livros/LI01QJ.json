@@ -1,0 +1,63 @@
+{
+  "obra_id": 2755,
+  "autor": "J. Mallorqui",
+  "titulo": "O coyote",
+  "subtitulo": "A outra luta ",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "mallorqui coyote outra luta",
+  "edicao_id": 2735,
+  "encadernacao": null,
+  "quantidade_paginas": 128,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Bruguera",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 16,
+  "transcricao_contracapa": "",
+  "sinopse": "A cada passo, o perigo aumenta; a cada instante, a traição espreita. As armadilhas se multiplicam, exigindo que o Coyote use toda sua astúcia e coragem. Ele está prestes a enfrentar a mais difícil batalha de sua vida, onde precisará de todos os seus recursos para vencer. O desfecho dessa luta promete ser inesquecível.",
+  "exemplar_id": 2734,
+  "sku": "LI01QJ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/j-mallorqui--o-coyote--capa--20260317--203327.jpg",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso. Fortemente amarelado pelo tempo. Miolo íntegro, sem folhas soltas. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:58:00",
+  "observacoes": null
+}

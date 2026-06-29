@@ -1,0 +1,63 @@
+{
+  "obra_id": 5571,
+  "autor": "Masakazu Katsura",
+  "titulo": "Zetman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Música. Transformação pessoal. Decisões corporativas.",
+  "palavras_chave": "katsura zetman",
+  "edicao_id": 5546,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 215,
+  "peso": 170,
+  "isbn": "9788545701033",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Kouga se recupera dos incidentes da \"festa\" para as suas fãs, enquanto seu pai e os executivos da Corporação Amagi decidem seu futuro. Agora, voltamos a acompanhar Jin, que tem de lidar com sua transformação em ZET! Que perigos o aguardam?</p>",
+  "sinopse": "Kouga está se recuperando dos eventos traumáticos de uma \"festa\", enquanto seu pai e executivos da Corporação Amagi fazem planos para o futuro. Jin enfrenta novos desafios com sua transformação em ZET, e perigos inesperados o aguardam.",
+  "exemplar_id": 5545,
+  "sku": "LI02ZW",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/zetman__masakazu-katsura__capa__2026-02-24_13-36-32-469527-000.jpg",
+  "contracapa": "static/uploads/zetman__masakazu-katsura__contracapa__2026-02-24_13-36-32-494296-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

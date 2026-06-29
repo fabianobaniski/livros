@@ -1,0 +1,63 @@
+{
+  "obra_id": 2799,
+  "autor": "Jair Ferreira dos Santos",
+  "titulo": "O que é pós-moderno",
+  "subtitulo": "Coleção Primeiros Passos Nº 165",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "santos que posmoderno colecao",
+  "edicao_id": 2779,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 111,
+  "peso": 150,
+  "isbn": "9788511011654",
+  "editora": "Brasiliense",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O que conecta o microcomputador ao sex-shop? E por que a sociedade de consumo exibe um misto de fascínio e melancolia? O livro investiga o impacto do fim das vanguardas artísticas, o retorno do niilismo e a complexidade do pós-modernismo, que mistura tecnologia e a libertação de costumes com o pós-industrialismo. Cabeças sensíveis a essas mudanças percebem uma nova era, indefinível, onde o futuro é incerto. Seria um avanço ou retrocesso? O tempo dirá. Áreas de interesse incluem arte e comunicações.",
+  "exemplar_id": 2778,
+  "sku": "LI01RR",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-que-e-posmoderno-jair-ferreira-dos-santos-capa_rev1219.jpg",
+  "contracapa": "static/uploads/o-que-e-posmoderno-jair-ferreira-dos-santos-contracapa_rev18.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso. Ótima conservação. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:40:36",
+  "observacoes": null
+}

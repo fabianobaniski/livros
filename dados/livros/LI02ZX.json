@@ -1,0 +1,63 @@
+{
+  "obra_id": 5572,
+  "autor": "Masakazu Katsura",
+  "titulo": "Zetman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Justiça. Aventura.",
+  "palavras_chave": "katsura zetman",
+  "edicao_id": 5547,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 197,
+  "peso": 170,
+  "isbn": "9788545700883",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>Após os conturbados acontecimentos da festa misteriosa organizada para as fãs de Kouga, o jovem finalmente se vê frente à dura realidade que permeia sua família. Essas revelações serão o suficiente para abalar sua luta pela verdadeira justiça?</p>",
+  "sinopse": "Após eventos conturbados de uma festa misteriosa para fãs de Kouga, o jovem confronta a dura realidade em torno de sua família. As revelações ameaçam suas convicções em busca da verdadeira justiça.",
+  "exemplar_id": 5546,
+  "sku": "LI02ZX",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/zetman__masakazu-katsura__capa__2026-02-24_13-36-32-533045-000.jpg",
+  "contracapa": "static/uploads/zetman__masakazu-katsura__contracapa__2026-02-24_13-36-32-562788-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

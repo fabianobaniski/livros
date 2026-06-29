@@ -1,0 +1,68 @@
+{
+  "obra_id": 2317,
+  "autor": "Yves S. Arnaud",
+  "titulo": "A dinâmica do amor",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "arnaud dinamica amor",
+  "edicao_id": 2297,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 95,
+  "peso": 125,
+  "isbn": "8505001419",
+  "editora": "Paulinas",
+  "numero_edicao": null,
+  "ano": 1984,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Explora o significado de dizer Eu amo e as experiências associadas a essas palavras. Analisa a diferença entre amor-desejo e amor-tendência, além de investigar os caminhos do amor. Utilizando sua vasta experiência clínica, o autor busca responder a essas questões de maneira simples, ajudando os leitores a entender e expressar melhor seus sentimentos de amor com mais clareza e intensidade.",
+  "exemplar_id": 2296,
+  "sku": "LI01EE",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/yves-s-arnaud--a-dinamica-do-amor--capa--20251020--184757.png",
+  "contracapa": "static/uploads/yves-s-arnaud--a-dinamica-do-amor--contracapa--20251020--184807.png",
+  "fotos": [
+    "static/uploads/yves-s-arnaud--a-dinamica-do-amor--foto1--20251020--184819.jpg",
+    "static/uploads/yves-s-arnaud--a-dinamica-do-amor--foto2--20251020--184819.jpg",
+    "static/uploads/yves-s-arnaud--a-dinamica-do-amor--foto3--20251020--184819.jpg",
+    "static/uploads/yves-s-arnaud--a-dinamica-do-amor--foto4--20251020--184819.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:17:21",
+  "observacoes": null
+}

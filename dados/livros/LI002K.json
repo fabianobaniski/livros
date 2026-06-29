@@ -1,0 +1,68 @@
+{
+  "obra_id": 107,
+  "autor": "Douglas Adams",
+  "titulo": "O restaurante no fim do universo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção científica. Humor. Aventuras.",
+  "palavras_chave": "adams restaurante fim universo",
+  "edicao_id": 105,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 280,
+  "isbn": "9788599296950",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "O Mochileiro das Galáxias (Livro 2)",
+  "volume": null,
+  "transcricao_contracapa": "<p>Trinta anos celebrando a genialidade cômica de Douglas Adams...</p><p>O que você pretende fazer quando chegar ao Restaurante no Fim do Universo? Devorar o suculento bife de um boi que se oferece como jantar ou apenas se embriagar com a poderosa Dinamite Pangaláctica, assistindo de camarote ao momento em que tudo se acaba numa explosão fatal?</p><p>A continuação das incríveis aventuras de Arthur Dent e seus quatro amigos através da Galáxia começa a bordo da nave Coração de Ouro, rumo ao restaurante mais próximo. Mal sabem eles que farão uma viagem no tempo, cujo desfecho será simplesmente incrível.</p><p>O segundo livro da série de Douglas Adams, que começou com o surpreendente O Guia do Mochileiro das Galáxias, mostra os cinco amigos vivendo as mais inesperadas confusões numa história cheia de sátira, ironia e bom humor.</p><p>Com seu estilo inteligente e sagaz, Douglas Adams prende o leitor a cada página numa maravilhosa aventura de ficção científica combinada ao mais fino humor britânico, que conquistou fãs no mundo inteiro. Uma verdadeira viagem, em qualquer um dos mais improváveis sentidos.</p>",
+  "sinopse": "O Restaurante no Fim do Universo apresenta as inusitadas aventuras de Arthur Dent e seus amigos enquanto eles navegam pela Galáxia a bordo da nave Coração de Ouro. Com a proposta de desfrutar de um jantar exótico, eles se encontram envolvidos em situações inesperadas e cheias de humor britânico, vivenciando uma jornada que desafia as leis do tempo e da lógica.",
+  "exemplar_id": 104,
+  "sku": "LI002K",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/douglas-adams--o-restaurante-no-fim-do-universo--capa--20250226--114601.jpg",
+  "contracapa": "static/uploads/douglas-adams--o-restaurante-no-fim-do-universo--contracapa--20250226--114601.jpg",
+  "fotos": [
+    "static/uploads/douglas-adams--o-restaurante-no-fim-do-universo--foto1--20250226--114601.jpg",
+    "static/uploads/douglas-adams--o-restaurante-no-fim-do-universo--foto2--20250226--114601.jpg",
+    "static/uploads/douglas-adams--o-restaurante-no-fim-do-universo--foto3--20250226--114601.jpg",
+    "static/uploads/douglas-adams--o-restaurante-no-fim-do-universo--foto4--20250226--114601.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:41:49",
+  "observacoes": null
+}

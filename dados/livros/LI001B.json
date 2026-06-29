@@ -1,0 +1,68 @@
+{
+  "obra_id": 51,
+  "autor": "J.K. Rowling",
+  "titulo": "Harry Potter i la cambra secreta",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Fantasia. Magia. Aventura. Amizade.",
+  "palavras_chave": "rowling harry potter cambra secreta",
+  "edicao_id": 51,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 302,
+  "peso": 450,
+  "isbn": "9788575968345",
+  "editora": "Editorial Empúries",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "Harry Potter",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 50,
+  "sku": "LI001B",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/j-k--rowling--harry-potter-i-la-cambra-secreta--capa--20250225--225606.jpg",
+  "contracapa": "static/uploads/j-k--rowling--harry-potter-i-la-cambra-secreta--contracapa--20250225--225606.jpg",
+  "fotos": [
+    "static/uploads/j-k--rowling--harry-potter-i-la-cambra-secreta--foto1--20250225--225606.jpg",
+    "static/uploads/j-k--rowling--harry-potter-i-la-cambra-secreta--foto2--20250225--225606.jpg",
+    "static/uploads/j-k--rowling--harry-potter-i-la-cambra-secreta--foto3--20250225--225606.jpg",
+    "static/uploads/j-k--rowling--harry-potter-i-la-cambra-secreta--foto4--20250225--225606.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Atenção: Em idioma catalão. / Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:29:23",
+  "observacoes": null
+}

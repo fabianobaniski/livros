@@ -1,0 +1,63 @@
+{
+  "obra_id": 3211,
+  "autor": "Marinice Natal Justino",
+  "titulo": "Pesquisa e Recursos Didáticos na Formação e Prática Docentes",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "justino pesquisa recursos didaticos",
+  "edicao_id": 3191,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 150,
+  "isbn": "9788582126035",
+  "editora": "Intersaberes",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Voltado para estudantes e profissionais da Pedagogia, este livro aborda a relação entre prática docente e pesquisa, destacando sua importância para a formação e o desenvolvimento da carreira educacional. Com reflexões sobre a integração entre teoria e prática, oferece recursos didáticos que enriquecem a atuação dos educadores, promovendo um ensino mais eficaz. Uma ferramenta essencial para quem busca aprimorar a qualidade do trabalho em sala de aula, unindo conhecimento acadêmico à realidade do dia a dia escolar.",
+  "exemplar_id": 3190,
+  "sku": "LI0237",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:03:12",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5720,
+  "autor": "Kyoutarou Azuma",
+  "titulo": "The king of fighters",
+  "subtitulo": "A new beginning",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Artes marciais. Torneios.",
+  "palavras_chave": "azuma king fighters new beginning",
+  "edicao_id": 5695,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 270,
+  "isbn": "9786586799514",
+  "editora": "Newpop",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p><b>Por trás da batalha, a conspiração avança...</b></p> <p>O “The King of Fighters” continua quente! A primeira luta da segunda rodada foi uma disputa entre Ryo Sakazaki, o instrutor do karatê Kyokugenryu, e Shun’ei, do Punho Ilusório Hakkyokugen’eiken. Foi um confronto ardente entre veterano e novato!<br> Agora a segunda luta será entre Robert Garcia e Tung Fu Rue! O “Tigre Supremo” ou o “Punho Santo”, quem será o vencedor?! O torneio continua esquentando!</p>",
+  "sinopse": "No torneio 'The King of Fighters', a competição se intensifica com a luta entre Ryo Sakazaki e Shun’ei, e uma nova disputa entre Robert Garcia e Tung Fu Rue está prestes a começar. Enquanto veteranos e novatos se enfrentam, a conspiração por trás da batalha continua a se desenrolar.",
+  "exemplar_id": 5694,
+  "sku": "LI0341",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/the-king-of-fighters__a-new-beginning__kyoutarou-azuma__capa__2026-02-28_10-59-58-834733-000.jpg",
+  "contracapa": "static/uploads/the-king-of-fighters__a-new-beginning__kyoutarou-azuma__contracapa__2026-02-28_10-59-58-836176-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

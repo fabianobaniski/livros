@@ -1,0 +1,68 @@
+{
+  "obra_id": 453,
+  "autor": "Auriphebo Berrance Simões",
+  "titulo": "Michaelis",
+  "subtitulo": "Dicionário executivo - Administração - Economia - Marketing",
+  "idioma": "Português",
+  "categoria": "Dicionários",
+  "temas": "Dicionários. Linguística. Negócios.",
+  "palavras_chave": "simoes michaelis dicionario executivo",
+  "edicao_id": 438,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 514,
+  "peso": 1800,
+  "isbn": "8506012260",
+  "editora": "Melhoramentos",
+  "numero_edicao": null,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O dicionário completo de Business English ao alcance do consulente de língua portuguesa. A obra esclarece todos os termos técnicos de administração, economia, marketing, contabilidade, propaganda, comércio exterior e áreas afins.</p><p>• MAIS DE 6.800 VERBETES</p><p>• GLOSSÁRIO PORTUGUÊS-INGLÊS</p><p>• DEFINIÇÕES CLARAS E PRECISAS</p><p>• BIBLIOGRAFIA ESPECIALIZADA</p><p>528 PÁGINAS</p>",
+  "sinopse": "Este dicionário fornece uma abrangente referência sobre termos de Business English, oferecendo definições claras e um glossário entre os idiomas português e inglês. É uma ferramenta essencial para profissionais em administração, economia e marketing que procuram esclarecer dúvidas sobre terminologias técnicas.",
+  "exemplar_id": 437,
+  "sku": "LI00BK",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/auriphebo-berrance-sim-es--michaelis--capa--20250226--133830.jpg",
+  "contracapa": "static/uploads/auriphebo-berrance-sim-es--michaelis--contracapa--20250226--133830.jpg",
+  "fotos": [
+    "static/uploads/auriphebo-berrance-sim-es--michaelis--foto1--20250226--133830.jpg",
+    "static/uploads/auriphebo-berrance-sim-es--michaelis--foto2--20250226--133830.jpg",
+    "static/uploads/auriphebo-berrance-sim-es--michaelis--foto3--20250226--133830.jpg",
+    "static/uploads/auriphebo-berrance-sim-es--michaelis--foto4--20250226--133830.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:59:36",
+  "observacoes": null
+}

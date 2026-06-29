@@ -1,0 +1,63 @@
+{
+  "obra_id": 5667,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Relações familiares. Escola. Romance.",
+  "palavras_chave": "saburouta citrus",
+  "edicao_id": 5642,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 164,
+  "peso": 220,
+  "isbn": "9788583622413",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Yuzu, apesar da sua aparência descolada, é uma menina pura e ingênua que não sabe como lidar com a sua irmã Mei, com quem passou a morar sob o mesmo teto depois do segundo casamento da mãe.</p> <p>Isso porque a Yuzu vem percebendo as expressões de solidão que a Mei mostra de vez em quando, mesmo ela sendo a indefectível presidente do Conselho Estudantil.</p> <p>Contudo, agora quem entra em cena é a Himeko, a amiga de infância da Mei e vice-presidente do Conselho, no intuito único de afastar a Yuzu da irmã!</p>",
+  "sinopse": "Yuzu, uma menina ingênua, vive com sua irmã Mei após o segundo casamento de sua mãe. Embora Mei seja a presidente do Conselho Estudantil, Yuzu nota sua solidão. A história se complica com a entrada de Himeko, amiga de infância de Mei, que quer afastar Yuzu de sua irmã.",
+  "exemplar_id": 5641,
+  "sku": "LI032K",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2026-02-24_13-36-49-714534-000.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2026-02-24_13-36-49-742128-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

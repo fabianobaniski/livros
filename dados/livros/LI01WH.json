@@ -1,0 +1,63 @@
+{
+  "obra_id": 2969,
+  "autor": "Vinícius de Moraes; Sergio Cohn; Simone Campos",
+  "titulo": "Vinícius de Moraes",
+  "subtitulo": "Encontros",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "moraes vinicius moraes encontros",
+  "edicao_id": 2949,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 237,
+  "peso": 300,
+  "isbn": "9788588338814",
+  "editora": "Beco do Azougue",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora a vida e o pensamento de Vinicius de Moraes, mais do que um poeta e compositor, um homem profundamente envolvido com a cultura e as transformações do século XX. Convivendo de perto com figuras centrais da época, sua trajetória é narrada através de suas próprias palavras e memórias. Vinicius reflete sobre a criação artística, a dor e a alegria, revelando uma visão única e apaixonada da vida, onde a calma e a paixão coexistem em harmonia, iluminando a profundidade de sua sensibilidade humana.",
+  "exemplar_id": 2948,
+  "sku": "LI01WH",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/vinicius-de-moraes-vinicius-de-moraes-capa_rev981.jpg",
+  "contracapa": "static/uploads/vinicius-de-moraes-vinicius-de-moraes-contracapa_rev17.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Nada de grifos ou anotações. Capa, lombada e contracapa sem danos. Discretos sinais de manuseio e/ou da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:44:52",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1546,
+  "autor": "Toni de la Torre",
+  "titulo": "Dr House - Um guia para a vida",
+  "subtitulo": "Como triunfar com humor e ironia",
+  "idioma": "Português",
+  "categoria": "Comportamento",
+  "temas": "Auto-Ajuda. Humor. Filosofia.",
+  "palavras_chave": "torre guia vida humor",
+  "edicao_id": 1527,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 149,
+  "peso": 200,
+  "isbn": "9788563066299",
+  "editora": "Lua de papel",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Lembre-se... A busca da felicidade não o levará a conseguir a felicidade.</p><p>O Dr. House é um indivíduo mal-educado, antipático, arrogante e solitário que acha que é o dono da razão e sempre tem um comentário ácido a fazer sobre tudo. Mesmo assim, possui uma grande quantidade de admiradores. As mulheres não conseguem resistir ao seu encanto, enquanto os homens tentam se parecer com o médico.</p><p>Será que isso ocorre por causa de suas frases provocantes? Será o seu caráter antissocial? Ou talvez o caráter transgressor do personagem, seus comentários? Provavelmente é tudo isso somado e mais o efeito de admiração e respeito (quem sabe até carinho) que inspira nos que o cercam.</p><p>Mas se é verdade que qualquer um pode ser antipático, ter uma vida mal-humorada é uma arte para a qual só alguns estão preparados. Só vivendo uma vida cheia de amargura e de mau humor é que alguém conseguirá se parecer (ainda que de longe) com o genial Dr. House. E é isto que este livro ensina, uma filosofia divertida e vencedora para que sua vida nunca mais seja como antes.</p><ul><li>Desconfie sempre dos outros. Se não tiver argumentos para isso, invente algo.</li><li>O mundo conspira contra você, faça o possível para encontrar os culpados.</li><li>Em vez de averiguar a verdade, faça suposições e imagine o pior.</li><li>Imponha-se metas impossíveis, pois dessa forma nunca as conseguirá alcançar.</li></ul><p>DRA. CUDDY: Roubar o teste de outra pessoa? Não acredito que tenha autorizado isso!</p><p>DR. HOUSE: Sério? Me parece o tipo de coisa que eu faria.</p>",
+  "sinopse": "O Dr. House, conhecido por seu caráter provocador e mal-humorado, cativa muitos com seu jeito ímpar. Este livro explora como a filosofia de vida do Dr. House pode ser aplicada para transformar a percepção do cotidiano, desafiando convenções e impulsionando reflexões sobre a busca da felicidade. Entrando numa narrativa divertida, o autor apresenta conselhos práticos, com um toque de ironia, para encarar a vida de forma mais leve e autêntica.",
+  "exemplar_id": 1526,
+  "sku": "LI00WX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/toni-de-la-torre--um-guia-para-a-vida--capa--20250401--115747.jpg",
+  "contracapa": "static/uploads/toni-de-la-torre--um-guia-para-a-vida--contracapa--20250401--115747.jpg",
+  "fotos": [
+    "static/uploads/toni-de-la-torre--um-guia-para-a-vida--foto1--20250401--115747.jpg",
+    "static/uploads/toni-de-la-torre--um-guia-para-a-vida--foto2--20250401--115747.jpg",
+    "static/uploads/toni-de-la-torre--um-guia-para-a-vida--foto3--20250401--115747.jpg",
+    "static/uploads/toni-de-la-torre--um-guia-para-a-vida--foto4--20250401--115747.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém bastante amarelado pelo tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:36:28",
+  "observacoes": null
+}

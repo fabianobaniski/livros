@@ -1,0 +1,63 @@
+{
+  "obra_id": 2469,
+  "autor": "Claire Gordon",
+  "titulo": "Decifre sua personalidade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "gordon decifre sua personalidade",
+  "edicao_id": 2449,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 578,
+  "isbn": "9788531514388",
+  "editora": "Pensamento",
+  "numero_edicao": 0,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2448,
+  "sku": "LI01IL",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/claire-gordon--decifre-sua-personalidade--capa--20260316--191903.jpg",
+  "contracapa": "static/uploads/claire-gordon--decifre-sua-personalidade--contracapa--20260316--191903.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:22:12",
+  "observacoes": null
+}

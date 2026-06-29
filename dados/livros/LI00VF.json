@@ -1,0 +1,68 @@
+{
+  "obra_id": 1465,
+  "autor": "Içami Tiba",
+  "titulo": "Adolescentes",
+  "subtitulo": "Quem ama, educa!",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Educação. Adolescência. Relações familiares.",
+  "palavras_chave": "tiba adolescentes ama educa",
+  "edicao_id": 1446,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 301,
+  "peso": 350,
+  "isbn": "8599362011",
+  "editora": "Integrare",
+  "numero_edicao": 3,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Não está nada fácil para os pais e educadores lidarem com os adolescentes de hoje, muito mais informatizados, globalizados e independentes que os do passado, mesmo recente. Adolescentes precoces (tweens) e tardios (caronas) são produtos dessa galopante evolução tecnológica e social. A educação dos filhos é um projeto de vida com a finalidade de prepará-los para a ética e a felicidade, a autonomia comportamental e a independência financeira.</p> <p>Neste livro, o reconhecido mestre em Educação Içami Tiba apresenta toda a sua experiência clínica – mais de 74 mil atendimentos feitos – de maneira organizada, clara e objetiva, para ajudar todos aqueles que convivem e/ou lidam com adolescentes.</p> <p>Aqueles que acham que fizeram tudo errado com seus filhos, agora adolescentes, vejam em ADOLESCENTES: QUEM AMA, EDUCA! que sempre há tempo.</p>",
+  "sinopse": "O livro aborda os desafios modernos que pais e educadores enfrentam com adolescentes, destacando a necessidade de uma educação que prepare os jovens para a ética, felicidade e autonomia. Com base em sua vasta experiência clínica, Içami Tiba oferece orientações práticas e reflexões sobre como lidar com as dificuldades da adolescência.",
+  "exemplar_id": 1445,
+  "sku": "LI00VF",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/i-ami-tiba--adolescentes--quem-ama--educa---capa--20250401--115736.jpg",
+  "contracapa": "static/uploads/i-ami-tiba--adolescentes--quem-ama--educa---contracapa--20250401--115736.jpg",
+  "fotos": [
+    "static/uploads/i-ami-tiba--adolescentes--quem-ama--educa---foto1--20250401--115736.jpg",
+    "static/uploads/i-ami-tiba--adolescentes--quem-ama--educa---foto2--20250401--115736.jpg",
+    "static/uploads/i-ami-tiba--adolescentes--quem-ama--educa---foto3--20250401--115736.jpg",
+    "static/uploads/i-ami-tiba--adolescentes--quem-ama--educa---foto4--20250401--115736.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Há marquinhas de dobra na ponta das primeiras folhas. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 19:00:52",
+  "observacoes": null
+}

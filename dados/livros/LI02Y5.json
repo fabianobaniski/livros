@@ -1,0 +1,63 @@
+{
+  "obra_id": 5508,
+  "autor": "Garon Tsuchiya; Nobuaki Minegishi",
+  "titulo": "Old Boy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira",
+  "palavras_chave": "tsuchiya old boy",
+  "edicao_id": 5483,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 214,
+  "peso": 200,
+  "isbn": "7897780169033",
+  "editora": "Sampa",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "",
+  "sinopse": "Old Boy narra a sombria jornada de Shinichi Goto, um homem que foi subitamente sequestrado e mantido em uma cela privada por dez longos anos, sem jamais saber o motivo. Ao ser libertado de forma tão misteriosa quanto sua captura, ele mergulha em uma busca obsessiva e violenta por vingança, tentando descobrir a identidade e as motivações de seu captor em um complexo jogo psicológico onde a verdade é mais perturbadora do que o próprio isolamento.",
+  "exemplar_id": 5482,
+  "sku": "LI02Y5",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/old-boy__garon-tsuchiya-nobuaki-minegishi__capa__2026-02-24_13-36-21-271388-000.png",
+  "contracapa": "static/uploads/old-boy__garon-tsuchiya-nobuaki-minegishi__contracapa__2026-02-24_13-36-21-310988-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em bom estado de conservação. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel amarelou um pouco com a passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

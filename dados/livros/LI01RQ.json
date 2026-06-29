@@ -1,0 +1,63 @@
+{
+  "obra_id": 2798,
+  "autor": "Nicolau Maquiavel",
+  "titulo": "O príncipe",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "nicolau maquiavel o principe",
+  "edicao_id": 2778,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 198,
+  "peso": 300,
+  "isbn": "9788525426000",
+  "editora": "L&pm Pocket",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Nicolau Maquiavel nasceu em Florença em 1469 e teve uma juventude marcada pela política da república florentina. Historiador, poeta, diplomata e filósofo, aos 29 anos tornou-se secretário da segunda chancelaria de Florença. Sua experiência no governo influenciou profundamente suas obras, especialmente seus escritos sobre política. Em 1513, após ser preso e torturado pelos Médicis, escreveu O Príncipe e outras obras. Contratado posteriormente como historiador, dedicou seus últimos anos à escrita. Morreu em 1527, deixando um legado que transformou o pensamento político.",
+  "exemplar_id": 2777,
+  "sku": "LI01RQ",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/o-principe-nicolau-maquiavel-capa_rev1899.jpg",
+  "contracapa": "static/uploads/o-principe-nicolau-maquiavel-contracapa_rev860.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro com excelente conservação. Apresenta, apenas, levíssimos sinais de uso e deixados pela ação do tempo. Texto livre de sublinhados e anotações. Formato livro de bolso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:38:03",
+  "observacoes": null
+}

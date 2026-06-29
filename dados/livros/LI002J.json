@@ -1,0 +1,68 @@
+{
+  "obra_id": 106,
+  "autor": "Douglas Adams",
+  "titulo": "A vida, o universo e tudo mais",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Literatura de ficção científica. Humor. Crítica social.",
+  "palavras_chave": "adams vida universo tudo",
+  "edicao_id": 104,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 160,
+  "peso": 280,
+  "isbn": "9788599296967",
+  "editora": "Sextante",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "O mochileiro das galáxias (Livro 3)",
+  "volume": null,
+  "transcricao_contracapa": "<p>Após as loucas aventuras vividas com seus estranhos amigos em <i>O Guia do Mochileiro das Galáxias</i> e <i>O Restaurante no Fim do Universo</i>, Arthur Dent ficou cinco anos abandonado na Terra Pré-Histórica. Mesmo depois de tanto tempo, ele ainda acordava todas as manhãs com um grito de horror por estar preso àquela monótona e assustadora rotina.</p> <p>Talvez Arthur até preferisse continuar isolado em sua caverna escura, úmida e fedoreta a encarar a próxima aventura para a qual seria forçadamente arrastado: salvar o Universo dos temíveis robôs xenófobos do planeta Krikkit.</p> <p>Este é o terceiro volume da \"trilogia de cinco\" de Douglas Adams, um dos mais cultuados escritores de ficção científica de todos os tempos. Seu humor corrosivo e sua habilidade em criar situações improváveis tornam seus livros fundamentais para qualquer um que tenha capacidade de debochar de si mesmo.</p> <p>Usando o planeta Krikkit como paródia da nossa sociedade e das guerras raciais, Adams cria uma história divertida, inteligente e repleta dos mais inusitados significados sobre a vida, o Universo e tudo mais.</p>",
+  "sinopse": "Arthur Dent, após cinco anos em uma Terra Pré-Histórica, se vê obrigado a encarar a próxima aventura, que consiste em salvar o Universo dos temíveis robôs xenófobos do planeta Krikkit. Este é o terceiro volume da famosa trilogia de cinco de Douglas Adams, onde ele combina humor corrosivo e reflexões profundas sobre a vida e o Universo.",
+  "exemplar_id": 103,
+  "sku": "LI002J",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/douglas-adams--a-vida--o-universo-e-tudo-mais--capa--20250226--114601.jpg",
+  "contracapa": "static/uploads/douglas-adams--a-vida--o-universo-e-tudo-mais--contracapa--20250226--114601.jpg",
+  "fotos": [
+    "static/uploads/douglas-adams--a-vida--o-universo-e-tudo-mais--foto1--20250226--114601.jpg",
+    "static/uploads/douglas-adams--a-vida--o-universo-e-tudo-mais--foto2--20250226--114601.jpg",
+    "static/uploads/douglas-adams--a-vida--o-universo-e-tudo-mais--foto3--20250226--114601.jpg",
+    "static/uploads/douglas-adams--a-vida--o-universo-e-tudo-mais--foto4--20250226--114601.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:45:45",
+  "observacoes": null
+}

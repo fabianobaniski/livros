@@ -1,0 +1,63 @@
+{
+  "obra_id": 4997,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Aventura. Ameaças globais.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4972,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9788545711483",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 17,
+  "transcricao_contracapa": "<p>\"Assista tudo daí! Não vou ser derrotado por este plano ridículo dela.\"</p> <p>A UQ Holder consegue evitar o ataque súbito de Cutlass, mas uma nova ameaça surge no mundo!! Uma bomba nuclear arma<br> no trem do elevador orbital. Salvar a vida de mil pessoas? A<br> vida de um milhão? Ou o espírito de Kirie?! Enquanto Touta é obrigado a decidir entre opções extremas, o agravante plano de Cutlass explode!!</p> <p>Do mesmo autor de <b>Love Hina</b> e <b>Negima!</b></p>",
+  "sinopse": "A UQ Holder consegue evitar o ataque súbito de Cutlass, mas nova ameaça surge: uma bomba nuclear no trem do elevador orbital. Touta enfrenta escolhas extremas enquanto o plano de Cutlass se desdobra.",
+  "exemplar_id": 4971,
+  "sku": "LI02QF",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-34-748734-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-34-806208-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

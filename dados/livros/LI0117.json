@@ -1,0 +1,68 @@
+{
+  "obra_id": 1841,
+  "autor": "Djalma de Pinho Rebouças de Oliveira",
+  "titulo": "Manual de consultoria empresarial",
+  "subtitulo": "Conceitos, metodologia, práticas",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Consultoria empresarial. Prática profissional.",
+  "palavras_chave": "oliveira manual consultoria empresarial",
+  "edicao_id": 1821,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 209,
+  "peso": 480,
+  "isbn": "9788522447565",
+  "editora": "Atlas",
+  "numero_edicao": 7,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>MANUAL DE CONSULTORIA EMPRESARIAL</b><br><b>Conceitos, Metodologia e Práticas</b><p>A consultoria empresarial representa uma das atividades que mais têm evoluído nos últimos anos em todo o mundo e, particularmente, no Brasil. Com base em experiência em mais de 40 anos e 300 empresas-clientes em serviços de consultoria do autor, surgiu a oportunidade de apresentar uma obra sobre a otimizada atuação e utilização da consultoria empresarial.</p><p>Dividido em seis capítulos, este livro trata da evolução do negócio consultoria, da consolidação do profissional como consultor, dos diferentes tipos de consultoria, da contratação e administração dos serviços da consultoria pelas empresas-clientes, bem como da vocação, das características e da ética do consultor.</p><p>A aplicação do conteúdo deste livro considera os dois lados interessados no assunto: de um lado, o consultor ou empresa de consultoria que realiza os serviços e, de outro lado, a empresa-cliente que contrata os serviços de consultoria. A partir dessa abordagem dupla, o autor procura colocar esses dois lados trabalhando conjuntamente em parceria profissional, visando à alavancagem dos resultados da empresa-cliente e à perpetuação do negócio do consultor.</p><b>APLICAÇÃO</b><p>Livro-texto para a disciplina CONSULTORIA EMPRESARIAL, bem como leitura de atualização e reciclagem profissional para consultores e empresas que utilizam os serviços de consultoria.</p>",
+  "sinopse": "Voltado para profissionais e estudantes, este livro aborda a atuação otimizada da consultoria empresarial no Brasil e no mundo, com base na ampla experiência do autor. Em seis capítulos, discute-se desde a evolução do setor e os diferentes tipos de consultoria até contratação, administração, ética e vocação do consultor. A obra busca integrar consultores e clientes em uma parceria estratégica, visando melhores resultados e a perpetuação do negócio, servindo tanto como livro-texto quanto como leitura de atualização para consultores e empresas.",
+  "exemplar_id": 1820,
+  "sku": "LI0117",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--manual-de-consultoria-empresarial--capa--20250430--102955.jpg",
+  "contracapa": "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--manual-de-consultoria-empresarial--contracapa--20250430--102955.jpg",
+  "fotos": [
+    "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--manual-de-consultoria-empresarial--foto1--20250430--102955.jpg",
+    "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--manual-de-consultoria-empresarial--foto2--20250430--102955.jpg",
+    "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--manual-de-consultoria-empresarial--foto3--20250430--102955.jpg",
+    "static/uploads/djalma-de-pinho-rebou-as-de-oliveira--manual-de-consultoria-empresarial--foto4--20250430--102955.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:38:05",
+  "observacoes": "procedencia_biblioteca"
+}

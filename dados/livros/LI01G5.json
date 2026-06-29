@@ -1,0 +1,63 @@
+{
+  "obra_id": 2380,
+  "autor": "Lara Braun; Silvia Penteado",
+  "titulo": "Arquitetura e construção de grandes obras",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Arquitetura",
+  "temas": "",
+  "palavras_chave": "braun arquitetura construcao grandes",
+  "edicao_id": 2360,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 176,
+  "peso": 1417,
+  "isbn": "9788598954011",
+  "editora": "Ação",
+  "numero_edicao": 0,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2359,
+  "sku": "LI01G5",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/lara-braun--arquitetura-e-construcao-de-grandes-obras--capa--20260316--154820.jpg",
+  "contracapa": "static/uploads/lara-braun--arquitetura-e-construcao-de-grandes-obras--contracapa--20260316--154826.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro grande, muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:54:09",
+  "observacoes": null
+}

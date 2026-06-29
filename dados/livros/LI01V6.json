@@ -1,0 +1,63 @@
+{
+  "obra_id": 2922,
+  "autor": "Helena Machado; Bárbara Prainsack",
+  "titulo": "Tecnologias que incriminam",
+  "subtitulo": "Olhares de reclusos na era do CSI",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "",
+  "palavras_chave": "machado tecnologias que incriminam",
+  "edicao_id": 2902,
+  "encadernacao": null,
+  "quantidade_paginas": 286,
+  "peso": 300,
+  "isbn": "9789724055350",
+  "editora": "Univ. de Coimbra; Almedina",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora o impacto das tecnologias forenses, como DNA e bases de dados policiais, que são frequentemente retratadas em séries como CSI como infalíveis na solução de crimes. A obra investiga como essas tecnologias são percebidas por presos em Portugal e na Áustria, examinando suas implicações sociais e culturais. Através de entrevistas, discute-se o papel da vigilância e do controle social, destacando os processos de estigmatização e exclusão que podem emergir dessas ferramentas, além de questionar a infalibilidade e os efeitos dessas tecnologias no sistema de justiça.",
+  "exemplar_id": 2901,
+  "sku": "LI01V6",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/tecnologias-que-incriminam-helena-machado-capa_rev1677.jpg",
+  "contracapa": "static/uploads/tecnologias-que-incriminam-helena-machado-contracapa_rev1561.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado. Capa, lombada e contracapa sem danos, apenas leves sinais de manuseio. Texto livre de grifos ou anotações. Papel sem manchas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:54:02",
+  "observacoes": null
+}

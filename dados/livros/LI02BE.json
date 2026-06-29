@@ -1,0 +1,68 @@
+{
+  "obra_id": 3511,
+  "autor": "Masashi Kishimoto",
+  "titulo": "Naruto",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Treinamento ninja.",
+  "palavras_chave": "kishimoto naruto gold",
+  "edicao_id": 3488,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "9788542602623",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Gold",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Zabuza, o demônio que deveria ter sido liquidado pelo sharingan de Kakashi, está vivo! Naruto e seus companheiros, que foram ao País das Ondas escoltando Tazuna, são acometidos por uma imensa sensação de insegurança. Mas não é hora para fraquejar! Sob a supervisão de Kakashi-sensei, um intenso treinamento tem início!</p>",
+  "sinopse": "Naruto e seus companheiros, após serem surpreendidos pela sobrevivência de Zabuza, o temido demônio, enfrentam um clima de insegurança enquanto escoltam Tazuna no País das Ondas. Apesar do perigo, precisam superar o medo e continuar, iniciando um intenso treinamento sob a supervisão do experiente Kakashi-sensei.",
+  "exemplar_id": 3487,
+  "sku": "LI02BE",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/naruto__masashi-kishimoto__capa__2025-11-05_16-16-05-321540.jpg",
+  "contracapa": "static/uploads/naruto__masashi-kishimoto__contracapa__2025-11-05_16-16-05-909687.jpg",
+  "fotos": [
+    "static/uploads/naruto__masashi-kishimoto__foto-01__2025-11-05_16-16-05-988333.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-02__2025-11-05_16-16-06-044058.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-03__2025-11-05_16-16-06-061442.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-04__2025-11-05_16-16-06-079711.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:58:17",
+  "observacoes": null
+}

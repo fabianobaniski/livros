@@ -1,0 +1,68 @@
+{
+  "obra_id": 27,
+  "autor": "Jonathan Swift",
+  "titulo": "Viagens de Gulliver",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção. Aventura. Sátira. Clássicos",
+  "palavras_chave": "swift viagens gulliver",
+  "edicao_id": 27,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 366,
+  "peso": 350,
+  "isbn": "9788574020464",
+  "editora": "Folha de S.Paulo",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "Biblioteca Folha - Clássicos da Literatura Universal",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra narra as aventuras de Gulliver, um viajante que explora terras exóticas e encontra sociedades fantásticas, incluindo os diminutos liliputianos e os gigantes de Brobdingnag. Uma sátira à sociedade e à política da época.",
+  "exemplar_id": 26,
+  "sku": "LI000O",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/jonathan-swift--viagens-de-gulliver--capa--20250225--164301.jpg",
+  "contracapa": "static/uploads/jonathan-swift--viagens-de-gulliver--contracapa--20250225--164301.jpg",
+  "fotos": [
+    "static/uploads/jonathan-swift--viagens-de-gulliver--foto1--20250225--164301.jpg",
+    "static/uploads/jonathan-swift--viagens-de-gulliver--foto2--20250225--164301.jpg",
+    "static/uploads/jonathan-swift--viagens-de-gulliver--foto3--20250225--164301.jpg",
+    "static/uploads/jonathan-swift--viagens-de-gulliver--foto4--20250225--164301.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:41:07",
+  "observacoes": null
+}

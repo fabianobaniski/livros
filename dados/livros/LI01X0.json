@@ -1,0 +1,63 @@
+{
+  "obra_id": 2988,
+  "autor": "António José Gomes Machado",
+  "titulo": "O Amor é Mais Forte",
+  "subtitulo": "Rezar Com Santa Teresa dos Andes",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "machado amor mais forte",
+  "edicao_id": 2968,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 227,
+  "peso": 400,
+  "isbn": "9789726401766",
+  "editora": "Edições Carmelo",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro é uma excelente ajuda para conhecer a vida e a alma de Santa Teresa de Jesus dos Andes, a primeira santa chilena. Aos dez anos fez a sua primeira comunhão (11 de Setembro de 1910) e, a partir desse dia, viveu uma amizade com Jesus cada vez mais intensa. «A minha vida é uma oração contínua, pois tudo o que faço, faço-o por amor ao meu Jesus» (Carta 52). O encontro com Jesus encheu-lhe o coração de amor e de alegria. A ela podem aplicar-se verdadeiramente as palavras do Papa Francisco: «A alegria do Evangelho enche o coração e a vida inteira daqueles que se encontram com Jesus»",
+  "exemplar_id": 2967,
+  "sku": "LI01X0",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado, apenas com levíssimos sinais de uso. Texto sem anotações e sublinhados.  Imagens fotográficas em preto e branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:50:55",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

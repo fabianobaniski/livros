@@ -1,0 +1,63 @@
+{
+  "obra_id": 4755,
+  "autor": "Hiro Mashima",
+  "titulo": "Edens Zero",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Aventuras. Mangá.",
+  "palavras_chave": "mashima edens zero",
+  "edicao_id": 4730,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 177,
+  "peso": 230,
+  "isbn": "9788545712350",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>Shiki e os seus amigos submergem (digitalizam) em Digitaliz, o superplaneta virtual em que não se pode interagir com corpos físicos, para resgatarem Hermit, a terceira das Quatro Estrelas Cintilantes. Mas o local tinha se transformado em um planeta perigoso, onde um maníaco assassino anda à solta! Além disso, a traição de uma amiga (?!) e uma nova inimiga (?!) deixam a situação ainda mais perigosa...</p><p>Em meio a tantos obstáculos, será que os nossos heróis conseguirão resgatar o coração de Hermit, despedaçado pela maldade inumana?</p><p>EDENS ZERO é o novo mangá de sucesso de Hiro Mashima, autor de Fairy Tail.</p>",
+  "sinopse": "Shiki e seus amigos entram em Digitaliz, um superplaneta virtual perigoso para resgatar Hermit. Enfrentam um maníaco assassino, traições e uma nova inimiga, enquanto buscam salvar o coração de Hermit destroçado pela maldade.",
+  "exemplar_id": 4729,
+  "sku": "LI02JP",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 75.0,
+  "capa": "static/uploads/edens-zero__hiro-mashima__capa__2026-02-20_10-30-24-394496-000.png",
+  "contracapa": "static/uploads/edens-zero__hiro-mashima__contracapa__2026-02-20_10-30-24-573120-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, mas extremamente bem preservado: livre de marcações, assinaturas ou carimbos; sem qualquer dano físico; papel sem sinais de envelhecimento. Apresenta apenas mínimos vestígios de manuseio leve."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

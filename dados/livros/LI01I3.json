@@ -1,0 +1,63 @@
+{
+  "obra_id": 2451,
+  "autor": "Gervase Shorter",
+  "titulo": "Crime fiction for beginners",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Crítica Literária",
+  "temas": "",
+  "palavras_chave": "shorter crime fiction for",
+  "edicao_id": 2431,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 342,
+  "peso": 466,
+  "isbn": "9781477479360",
+  "editora": "Amazon Edition",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Quando o renomado editor Laurence Barlow é encontrado brutalmente estrangulado em um beco no East End, a detetive Harriet Ware é encarregada da investigação. Barlow tinha muitos inimigos, especialmente autores cujos manuscritos ele rejeitara de forma rude. Na busca pelo assassino, Harriet é levada aos becos obscuros de Chinatown e ao mundo literário repleto de autores ressentidos. Com eventos rápidos e reviravoltas inesperadas, ela finalmente chega a uma conclusão surpreendente. Neste primeiro romance, Gervase Shorter cativa o leitor com uma trama envolvente e original.",
+  "exemplar_id": 2430,
+  "sku": "LI01I3",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/gervase-shorter--crime-fiction-for-beginners--capa--20260316--185818.jpg",
+  "contracapa": "static/uploads/gervase-shorter--crime-fiction-for-beginners--contracapa--20260316--185818.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:16:52",
+  "observacoes": null
+}

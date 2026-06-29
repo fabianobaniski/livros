@@ -1,0 +1,63 @@
+{
+  "obra_id": 748,
+  "autor": "D. A. Carson; Douglas J. Moo; Leon Morris",
+  "titulo": "Introdução ao Novo Testamento",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. História. Literatura.",
+  "palavras_chave": "carson introducao testamento",
+  "edicao_id": 733,
+  "encadernacao": null,
+  "quantidade_paginas": 556,
+  "peso": 900,
+  "isbn": "9788527502344",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quando alguém se dispõe a estudar o Novo Testamento deseja ter, acima de tudo, melhor conhecimento da Palavra de Deus. Afinal, estamos falando da porção mais lida e mais estudada das Escrituras.</p><p>Mas, por onde começar? Por questões históricas como autoria, data, fontes, propósito e destinatários ou pelas formas literárias, crítica da retórica e paralelos históricos? <i>Introdução ao Novo Testamento</i> oferece uma saída estratégica: concentra-se no que é denominado \"introdução especial\", ou seja, em questões históricas, sem desprezar a importância das demais para o estudo do Novo Testamento. Ao contrário, sempre que este método é aplicado a um tema em pauta, os estudos das formas literárias, da crítica da retórica e dos paralelos históricos entram em cena. É uma combinação perfeita.</p><p><i>Introdução ao Novo Testamento</i> já nasce com uma missão: levar estudantes de teologia a alcançar melhor compreensão da Palavra de Deus. Não é uma tarefa fácil para um livro introdutório. Para atingir esse objetivo, algumas escolhas precisam ser feitas com relação ao tratamento que será dado ao estudo do Novo Testamento. Os autores fizeram sua escolha: concentraram a atenção nas questões históricas acerca da autoria, data, fontes, propósito, destinatários e temas afins. Quanto mais precisa a análise, melhor. Uma introdução preza a concisão. É isso os autores souberam fazer com absoluta maestria.</p><p>O estudioso do Novo Testamento encontrará nesta obra uma ajuda de inestimável valor para suas pesquisas acadêmicas. Livro a livro, o leitor será conduzido a uma análise segura, clara e equilibrada.</p>",
+  "sinopse": "O livro busca oferecer um panorama abrangente sobre o Novo Testamento, abordando questões fundamentais como autoria, data e propósito dos textos, e sua importância para um melhor entendimento das Escrituras. Os autores se concentram em análises históricas e críticas, propondo uma introdução direta e esclarecedora.",
+  "exemplar_id": 732,
+  "sku": "LI00JR",
+  "preco_estante_virtual": 80.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/d--a--carson--introdu--o-ao-novo-testamento--capa--20250227--152902.jpg",
+  "contracapa": "static/uploads/d--a--carson--introdu--o-ao-novo-testamento--contracapa--20250227--152902.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém bastante amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:21:28",
+  "observacoes": null
+}

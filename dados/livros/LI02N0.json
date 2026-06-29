@@ -1,0 +1,63 @@
+{
+  "obra_id": 4874,
+  "autor": "Hiroyuki Takei",
+  "titulo": "Shaman King",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangás.",
+  "palavras_chave": "takei shaman king",
+  "edicao_id": 4849,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 371,
+  "peso": 620,
+  "isbn": "9786555942187",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "Shaman King acompanha a jornada de Yoh Asakura, um adolescente relaxado que possui a habilidade de ver e se comunicar com espíritos, enquanto ele treina para participar do Torneio Shaman, um evento realizado a cada 500 anos. O vencedor da competição ganha o direito de se unir ao Grande Espírito e se tornar o Rei Shaman, obtendo o poder de moldar o mundo conforme sua vontade. Ao lado de seu espírito guardião, o samurai Amidamaru, e de um grupo de aliados excêntricos, Yoh deve enfrentar rivais impiedosos e confrontar o passado sombrio de sua própria linhagem para impedir que o destino da humanidade caia em mãos erradas.",
+  "exemplar_id": 4848,
+  "sku": "LI02N0",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/shaman-king__hiroyuki-takei__capa__2026-02-20_10-30-58-796992-000.png",
+  "contracapa": "static/uploads/shaman-king__hiroyuki-takei__contracapa__2026-02-20_10-30-58-856064-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador, seminovo! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

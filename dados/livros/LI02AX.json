@@ -1,0 +1,68 @@
+{
+  "obra_id": 3494,
+  "autor": "Hajime Isayama",
+  "titulo": "Ataque dos Titãs",
+  "subtitulo": "Shingeki no kyojin",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Ação. Fantasia. Titãs.",
+  "palavras_chave": "isayama ataque dos titas shingeki kyojin",
+  "edicao_id": 3471,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3470,
+  "sku": "LI02AX",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/ataque-dos-titas__shingeki-no-kyojin__hajime-isayama__capa__2025-11-05_16-15-54-290586.jpg",
+  "contracapa": "static/uploads/ataque-dos-titas__shingeki-no-kyojin__hajime-isayama__contracapa__2025-11-05_16-15-54-328617.jpg",
+  "fotos": [
+    "static/uploads/ataque-dos-titas__shingeki-no-kyojin__hajime-isayama__foto-01__2025-11-05_16-15-54-363556.jpg",
+    "static/uploads/ataque-dos-titas__shingeki-no-kyojin__hajime-isayama__foto-02__2025-11-05_16-15-54-749148.jpg",
+    "static/uploads/ataque-dos-titas__shingeki-no-kyojin__hajime-isayama__foto-03__2025-11-05_16-15-54-808424.jpg",
+    "static/uploads/ataque-dos-titas__shingeki-no-kyojin__hajime-isayama__foto-04__2025-11-05_16-15-55-023857.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:24:59",
+  "observacoes": null
+}

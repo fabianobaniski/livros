@@ -1,0 +1,63 @@
+{
+  "obra_id": 2339,
+  "autor": "Frédéric Nef",
+  "titulo": "A linguagem",
+  "subtitulo": "Uma abordagem filosófica",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "nef linguagem uma abordagem",
+  "edicao_id": 2319,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 172,
+  "peso": 314,
+  "isbn": "8571103143",
+  "editora": "Jorge Zahar",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro traça a evolução da filosofia da linguagem dos pré-socráticos a Wittgenstein. Aborda pensadores clássicos e recém-redescobertos, explorando temas como gramática, lógica e a relação linguagem-realidade. Apresenta a história da linguagem como uma narrativa filosófica interpretável.",
+  "exemplar_id": 2318,
+  "sku": "LI01F0",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/frederic-nef--a-linguagem--capa--20260316--100624.jpg",
+  "contracapa": "static/uploads/frederic-nef--a-linguagem--contracapa--20260316--100634.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel um pouco pigmentado pela ação do tempo, principalmente nas bordas. Lombada alinhada. Capa e contracapa sem danos. Texto sublinhado à lápis em cerca de 5 a 10 por cento das páginas. Há anotações à lápis em poucas páginas. Selo com dedicatória na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:30:20",
+  "observacoes": null
+}

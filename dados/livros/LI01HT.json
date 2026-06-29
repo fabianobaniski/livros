@@ -1,0 +1,63 @@
+{
+  "obra_id": 2441,
+  "autor": "Lawrence Leshan",
+  "titulo": "Cómo meditar",
+  "subtitulo": "Guía para el descubrimiento de sí mismo",
+  "idioma": "Espanhol",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "leshan como meditar guia",
+  "edicao_id": 2421,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 221,
+  "peso": 300,
+  "isbn": "9788472451599",
+  "editora": "Karios Editorial",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro de Lawrence LeShan responde de forma clara e prática às perguntas O que é meditar?, Por que meditar? e Como meditar?. Com um tom simples e pedagógico, oferece uma valiosa orientação para quem deseja uma vida mais saudável e plena. A obra inclui programas, exercícios e técnicas acessíveis a qualquer pessoa, independentemente de suas crenças ou ocupações, permitindo que cada leitor inicie sua própria jornada de meditação. LeShan, pioneiro na investigação terapêutica da meditação, apresenta as implicações éticas e psicológicas dessa prática.",
+  "exemplar_id": 2420,
+  "sku": "LI01HT",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/lawrence-leshan--como-meditar--capa--20260316--185240.jpg",
+  "contracapa": "static/uploads/lawrence-leshan--como-meditar--contracapa--20260316--185240.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Grifos à caneta em menos de 5 por cento das folhas. Papel amarelado pelo tempo. Com carimbo de antiga livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:50:07",
+  "observacoes": null
+}

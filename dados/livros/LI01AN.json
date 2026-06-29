@@ -1,0 +1,68 @@
+{
+  "obra_id": 2182,
+  "autor": "Luciano Guerra",
+  "titulo": "Contabilidade descomplicada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Educação. Introdução à contabilidade. Visualização de conceitos.",
+  "palavras_chave": "guerra contabilidade descomplicada",
+  "edicao_id": 2162,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 254,
+  "peso": 480,
+  "isbn": "9788502060418",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Contabilidade é um sistema de geração de informações muito simples e eficiente. No entanto, a maneira como é usada e transmitida a faz parecer uma ciência para poucos. Para quebrar este paradigma, este livro propõe uma abordagem visual da Contabilidade, apresentando seus conceitos em formas gráficas e numa linguagem simples, facilitando seu entendimento a qualquer pessoa, de qualquer área.</p> <p>Escrito e idealizado por Luciano Guerra, mestre em Contabilidade Gerencial pela Fundação Getúlio Vargas, do Rio de Janeiro e especialista em Avaliação Socioeconômica de Projetos pela Pontifícia Universidade Católica de Santiago do Chile, a obra busca tornar o estudo desta área de atuação atrativo para seus leitores. Estudantes de Ciências Contábeis e profissionais de outras áreas que em algum momento da vida sintam necessidade de ter conhecimentos no assunto encontram em <i>Contabilidade Descomplicada</i> um grande aliado.</p>",
+  "sinopse": "O livro propõe uma abordagem visual da Contabilidade, apresentando conceitos de forma gráfica e em linguagem simples para facilitar o entendimento por pessoas de qualquer área. Escrito por Luciano Guerra, mestre em Contabilidade Gerencial, a obra busca tornar o estudo da área contábil atrativo para estudantes e profissionais que necessitem de conhecimentos contábeis em algum momento da vida.",
+  "exemplar_id": 2161,
+  "sku": "LI01AN",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/luciano-guerra--contabilidade-descomplicada--capa--20250430--105025.jpg",
+  "contracapa": "static/uploads/luciano-guerra--contabilidade-descomplicada--contracapa--20250430--105025.jpg",
+  "fotos": [
+    "static/uploads/luciano-guerra--contabilidade-descomplicada--foto1--20250430--105025.jpg",
+    "static/uploads/luciano-guerra--contabilidade-descomplicada--foto2--20250430--105025.jpg",
+    "static/uploads/luciano-guerra--contabilidade-descomplicada--foto3--20250430--105025.jpg",
+    "static/uploads/luciano-guerra--contabilidade-descomplicada--foto4--20250430--105025.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:03:47",
+  "observacoes": "procedencia_biblioteca"
+}

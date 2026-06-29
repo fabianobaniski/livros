@@ -1,0 +1,63 @@
+{
+  "obra_id": 2674,
+  "autor": "Christopher Dobson; John Miller; Ronald Payne",
+  "titulo": "Malvinas Contra Falklands",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "dobson malvinas contra falklands",
+  "edicao_id": 2654,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 350,
+  "isbn": "",
+  "editora": "Europress",
+  "numero_edicao": null,
+  "ano": 1982,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Malvinas contra Falklands aborda o conflito entre Argentina e Reino Unido pela posse das Ilhas Malvinas (Falklands), destacando os acontecimentos militares e políticos que cercaram a guerra. O livro apresenta declarações e documentos oficiais, incluindo a rendição argentina em 14 de junho de 1982. A obra oferece uma visão detalhada dos movimentos estratégicos de ambos os lados, ilustrando as tensões geopolíticas e o impacto do conflito para as nações envolvidas, além de documentar momentos decisivos da batalha pela soberania das ilhas.",
+  "exemplar_id": 2653,
+  "sku": "LI01OA",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/malvinas-contra-falklands-christopher-dobson-capa_rev344.jpg",
+  "contracapa": "static/uploads/malvinas-contra-falklands-christopher-dobson-contracapa_rev138.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:37:25",
+  "observacoes": null
+}

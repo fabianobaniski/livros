@@ -1,0 +1,63 @@
+{
+  "obra_id": 686,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Gálatas",
+  "subtitulo": "A carta da liberdade cristã",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Liberdade. Apostolado.",
+  "palavras_chave": "lopes galatas carta liberdade",
+  "edicao_id": 671,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 287,
+  "peso": 380,
+  "isbn": "9788577420803",
+  "editora": "Hagnos",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Carta aos Gálatas foi escrita com dois principais propósitos em vista: o primeiro foi a defesa do apostolado de Paulo, e o segundo, a defesa do evangelho anunciado por Paulo. Os judaizantes minimizavam a autoridade de Paulo afirmando que ele era inferior aos apóstolos de Jerusalém. Paulo, porém, afirma que seu apostolado e sua mensagem não tinham procedência humana, mas divina. Ao mesmo tempo a Carta aos Gálatas contém tanto uma advertência séria contra o legalismo como também um combate veemente à libertinagem. Paulo não confundia liberdade com libertinagem. Ao invés de afrouxar os padrões, o apóstolo ensina exatamente o inverso. Gálatas é carta magna da liberdade cristã. A liberdade que nos toma pela mão e nos conduz à prática do amor.</p><p>Hernandes Dias Lopes, casado com Udemilta Pimentel Lopes, pai de Thiago e Mariana. Bacharel em teologia pelo Seminário Presbiteriano do Sul, Campinas, SP e Doutor em Ministério pelo Reformed Theological Seminary de Jackson, Mississippi, Estados Unidos. Pastor da Primeira Igreja Presbiteriana de Vitória, Espírito Santo, desde 1985. Conferencista e escritor, com mais de 100 livros publicados. É diretor executivo da LPC.</p>",
+  "sinopse": "A Carta aos Gálatas aborda a defesa do apostolado de Paulo e do evangelho que ele anunciou, contrastando a sua mensagem divina com a tentativa de desconstrução de sua autoridade por judaizantes. O texto também discorre sobre a verdadeira liberdade cristã, alertando contra o legalismo e a libertinagem, e enfatiza a prática do amor como decorrência dessa liberdade.",
+  "exemplar_id": 670,
+  "sku": "LI00I1",
+  "preco_estante_virtual": 26.0,
+  "preco_amazon": 26.0,
+  "capa": "static/uploads/hernandes-dias-lopes--g-latas--capa--20250227--152858.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--g-latas--contracapa--20250227--152858.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:43:38",
+  "observacoes": null
+}

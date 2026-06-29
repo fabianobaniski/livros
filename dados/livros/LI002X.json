@@ -1,0 +1,68 @@
+{
+  "obra_id": 121,
+  "autor": "Charlaine Harris",
+  "titulo": "Dead until dark",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção fantástica. Mistério.",
+  "palavras_chave": "harris dead dark",
+  "edicao_id": 119,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 292,
+  "peso": 250,
+  "isbn": "9780441016990",
+  "editora": "Penguin",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "Sookie Stackhouse Novels",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Dead until dark</h1> <p>Sookie Stackhouse is a small-time cocktail waitress in small-town Louisiana. She's quiet, keeps to herself, and doesn't get out much. Not because she's not pretty. She is. It's just that, well, Sookie has this sort of \"disability.\" She can read minds. And that doesn't make her too dateable. And then along comes Bill. He's tall, dark, handsome—and Sookie can't hear a word he's thinking. He's exactly the type of guy she's been waiting for all her life.</p> <p>But Bill has a disability of his own: He's a vampire with a bad reputation. He hangs with a seriously creepy crowd, all suspected of—big surprise—murder. And when one of Sookie's coworkers is killed, she fears she's next....</p>",
+  "sinopse": "Em uma pequena cidade da Louisiana, Sookie Stackhouse, uma garçonete, leva uma vida tranquila até conhecer Bill, um vampiro que a intriga e atrai. Enquanto ela enfrenta a complexidade de suas habilidades de ler mentes, uma série de eventos sombrios se desenrolam quando colegas de trabalho começam a ser mortos, levando-a a temer por sua segurança e vida.",
+  "exemplar_id": 118,
+  "sku": "LI002X",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/charlaine-harris--dead-until-dark--capa--20250226--133755.jpg",
+  "contracapa": "static/uploads/charlaine-harris--dead-until-dark--contracapa--20250226--133755.jpg",
+  "fotos": [
+    "static/uploads/charlaine-harris--dead-until-dark--foto1--20250226--133755.jpg",
+    "static/uploads/charlaine-harris--dead-until-dark--foto2--20250226--133755.jpg",
+    "static/uploads/charlaine-harris--dead-until-dark--foto3--20250226--133755.jpg",
+    "static/uploads/charlaine-harris--dead-until-dark--foto4--20250226--133755.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:35:52",
+  "observacoes": null
+}

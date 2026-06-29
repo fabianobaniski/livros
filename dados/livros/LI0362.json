@@ -1,0 +1,68 @@
+{
+  "obra_id": 5793,
+  "autor": "Otávio J. Oliveira",
+  "titulo": "Gestão da qualidade",
+  "subtitulo": "Tópicos avançados",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Gestão da qualidade. Setores produtivos. Educação superior.",
+  "palavras_chave": "oliveira gestao qualidade topicos avancados",
+  "edicao_id": 5768,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 470,
+  "isbn": "9788522103867",
+  "editora": "Cengage Learning",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Gestão da Qualidade: Tópicos Avançados</h1><p>A globalização da economia provocou mudanças drásticas nas empresas, que vão desde a necessidade de qualificação de mão-de-obra até a gestão da qualidade dos produtos e serviços oferecidos a consumidores cada vez mais exigentes. Excelência em qualidade é a nova arma contra a concorrência.</p><p>Considerando esse novo cenário econômico, especialmente o da economia brasileira, o livro reúne a visão de vários autores sobre o tema gestão da qualidade. Esses especialistas apresentam conceitos e instrumentos que podem ser utilizados tanto no ambiente de manufatura como no de serviços, bem como nas diversas áreas e funções da administração; analisam o estágio de evolução de alguns setores produtivos quanto às potencialidades e dificuldades de aplicação da teoria e dos instrumentos da qualidade; e discutem as relações existentes entre a prática dos conceitos da gestão da qualidade e o desempenho da produção de bens e serviços e da própria empresa.</p><h2>Aplicações</h2><p>Destina-se às disciplinas administração da produção, administração de materiais, teoria geral da administração, gestão da qualidade, planejamento estratégico, gestão de projetos, e boas práticas de laboratórios, ministradas nos cursos de graduação e pós-graduação, especialmente nas áreas de administração, economia, contabilidade, arquitetura, farmácia e engenharias (produção, civil, elétrica, mecânica, mecatrônica, naval, química, dentre outras).</p>",
+  "sinopse": "Com a globalização e aumento da exigência dos consumidores, a gestão da qualidade tornou-se uma vantagem competitiva essencial. Este livro reúne a visão de diversos autores sobre conceitos e instrumentos aplicáveis tanto em manufatura quanto em serviços, abordando diferentes áreas administrativas, analisando setores produtivos e discutindo a relação entre teoria e prática. É indicado para cursos de graduação e pós-graduação em administração, economia, contabilidade, arquitetura, farmácia e diversas engenharias.",
+  "exemplar_id": 5767,
+  "sku": "LI0362",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/gestao-da-qualidade__topicos-avancados__otavio-j-oliveira-org-angelo-palmisano-antonio-vico-manas-esther-cabado-modia-marcio-cardoso-machado-marcio-minto-fabricio-mariluci-alv__capa__2026-01-18_14-11-46-939779-000.png",
+  "contracapa": "static/uploads/gestao-da-qualidade__topicos-avancados__otavio-j-oliveira-org-angelo-palmisano-antonio-vico-manas-esther-cabado-modia-marcio-cardoso-machado-marcio-minto-fabricio-mariluci-alv__contracapa__2026-01-18_14-11-46-957295-001.png",
+  "fotos": [
+    "static/uploads/gestao-da-qualidade__topicos-avancados__otavio-j-oliveira-org-angelo-palmisano-antonio-vico-manas-esther-cabado-modia-marcio-cardoso-machado-marcio-minto-fabricio-mariluci-alv__foto-01__2026-01-18_14-11-46-975517-002.jpg",
+    "static/uploads/gestao-da-qualidade__topicos-avancados__otavio-j-oliveira-org-angelo-palmisano-antonio-vico-manas-esther-cabado-modia-marcio-cardoso-machado-marcio-minto-fabricio-mariluci-alv__foto-02__2026-01-18_14-11-47-020322-003.jpg",
+    "static/uploads/gestao-da-qualidade__topicos-avancados__otavio-j-oliveira-org-angelo-palmisano-antonio-vico-manas-esther-cabado-modia-marcio-cardoso-machado-marcio-minto-fabricio-mariluci-alv__foto-03__2026-01-18_14-11-47-054582-004.jpg",
+    "static/uploads/gestao-da-qualidade__topicos-avancados__otavio-j-oliveira-org-angelo-palmisano-antonio-vico-manas-esther-cabado-modia-marcio-cardoso-machado-marcio-minto-fabricio-mariluci-alv__foto-04__2026-01-18_14-11-47-120164-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Com a globalização e aumento da exigência dos consumidores, a gestão da qualidade tornou-se uma vantagem competitiva essencial. Este livro reúne a visão de diversos autores sobre conceitos e instrumentos aplicáveis tanto em manufatura quanto em serviços, abordando diferentes áreas administrativas, analisando setores produtivos e discutindo a relação entre teoria e prática. É indicado para cursos de graduação e pós-graduação em administração, economia, contabilidade, arquitetura, farmácia e diversas engenharias."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:41:17",
+  "observacoes": "procedencia_biblioteca"
+}

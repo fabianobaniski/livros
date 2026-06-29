@@ -1,0 +1,63 @@
+{
+  "obra_id": 2870,
+  "autor": "Frederik Pohl",
+  "titulo": "Projecto Vulcão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "pohl projecto vulcao",
+  "edicao_id": 2850,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 181,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Europa América",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Um projeto militar secreto, codinome Vulcão, está em andamento nas profundezas do oceano, próximo às costas do Havaí, onde um vulcão inativo esconde uma ameaça mortal. Um grupo de terroristas toma controle da ilha, pronto para liberar a imensa força do vulcão, transformando o paraíso em caos. O mundo está à beira de um desastre global, e o pesadelo está apenas começando. Uma história de ação e suspense, onde forças colossais ameaçam mudar o curso da história.",
+  "exemplar_id": 2849,
+  "sku": "LI01TQ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/projecto-vulcao-frederik-pohl-capa_rev415.jpg",
+  "contracapa": "static/uploads/projecto-vulcao-frederik-pohl-contracapa_rev609.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão. Estado geral bom para leitura, regular esteticamente. Papel muito amarelado. Lombada alinhada. Capa e contracapa com leves marcas de uso. Sem anotações ou grifos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:17:40",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 245,
+  "autor": "E. L. James",
+  "titulo": "Cinquenta tons de cinza",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Relações humanas. Desejo.",
+  "palavras_chave": "james cinquenta tons cinza",
+  "edicao_id": 239,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 2012,
+  "peso": 500,
+  "isbn": "9788580572186",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quando a estudante de literatura Anastasia Steele entrevista o jovem bilionário Christian Grey, descobre nele um homem atraente, brilhante e profundamente dominador. Ingênua e inocente, Ana se surpreende ao perceber que o deseja e que, a despeito da enigmática reserva de Grey, está desesperadamente atraída por ele.</p><p>Incapaz de resistir à beleza discreta, à timidez e ao espírito independente de Ana, Christian admite que também deseja — mas em seus próprios termos.</p><p>Chocada e ao mesmo tempo seduzida pelas estranhas preferências de Grey, Ana hesita. Por trás da fachada de sucesso — os negócios multinacionais, a vasta fortuna, a amada família — ele é um homem atormentado por demônios do passado e consumido pela necessidade de controle. Ao embarcar num apaixonado e sensual caso de amor, Ana não só descobre mais sobre seus próprios desejos, como também sobre os segredos obscuros que Grey tenta manter escondidos.</p>",
+  "sinopse": "A história acompanha Anastasia Steele, uma estudante que se vê em um intrigante e dominador relacionamento com o jovem milionário Christian Grey. Enquanto ela descobre suas próprias emoções e desejos, também se depara com os segredos perturbadores do passado de Grey, que ameaça o controle de sua vida e felicidade. O romance traz uma atmosfera sedutora e um misto de amor e conflitos internos.",
+  "exemplar_id": 238,
+  "sku": "LI0066",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/e-l-james--cinquenta-tons-de-cinza--capa--20250226--133810.jpg",
+  "contracapa": "static/uploads/e-l-james--cinquenta-tons-de-cinza--contracapa--20250226--133810.jpg",
+  "fotos": [
+    "static/uploads/e-l-james--cinquenta-tons-de-cinza--foto1--20250226--133810.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-de-cinza--foto2--20250226--133810.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-de-cinza--foto3--20250226--133810.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-de-cinza--foto4--20250226--133810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:36:37",
+  "observacoes": null
+}

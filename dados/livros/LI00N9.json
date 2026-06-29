@@ -1,0 +1,63 @@
+{
+  "obra_id": 877,
+  "autor": "John Fox",
+  "titulo": "O livro dos mártires",
+  "subtitulo": "A história dos sofrimentos e morte dos cristãos primitivos e dos mártires protestantes",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Literatura religiosa. História dos mártires.",
+  "palavras_chave": "fox livro mártires",
+  "edicao_id": 862,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 449,
+  "peso": 500,
+  "isbn": "9788526306059",
+  "editora": "CPAD",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O Livro dos Mártires é uma obra monumental que narra a história dos mártires cristãos, destacando as atrocidades sofridas por cristãos primitivos e protestantes ao longo da história. Escrita por John Foxe, autor perseguidos no século XVI, a obra influenciou profundamente o protestantismo na Europa e permanece uma importante fonte de edificação para cristãos através dos tempos.\r\n",
+  "exemplar_id": 861,
+  "sku": "LI00N9",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/john-fox--o-livro-dos-m-rtires--capa--20250228--150137.jpg",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos à capa, lombada e contracapa. Bordas quase sem marcas. Texto livre de anotações e sublinhados. Apresenta, apenas, discreta marquinha de umidade na parte superior de algumas folhas, sem comprometer a estética do exemplar e muito menos o manuseio e leitura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:29:53",
+  "observacoes": null
+}

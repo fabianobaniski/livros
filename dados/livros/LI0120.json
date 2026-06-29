@@ -1,0 +1,68 @@
+{
+  "obra_id": 1870,
+  "autor": "Maria Elizabeth Bianconcini de Almeida; Myriam Alonso",
+  "titulo": "Tecnologias na formação e na gestão escolar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Tecnologias educacionais. Gestão escolar. Formação de gestores. TICs.",
+  "palavras_chave": "bianconcini tecnologias formacao gestao escolar",
+  "edicao_id": 1850,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 131,
+  "peso": 230,
+  "isbn": "9788589311410",
+  "editora": "Avercamp",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro se destina a educadores interessados no tema: integração de tecnologias na escola e na gestão escolar. Tem, como proposta, auxiliar os gestores no processo de utilização das Tecnologias de Informação e Comunicação (TICs) no cotidiano, valendo-se da experiência realizada no projeto <b>Gestão Escolar e Tecnologias</b>, cujo objetivo consistiu na formação de equipes gestoras das escolas com o intuito de proporcionar a incorporação das TICs na rotina da escola e na gestão escolar.</p><p>A intenção é trazer ao leitor muito mais do que o conhecimento teórico compilado sobre o assunto ou o simples relato de experiências cujos resultados se mostraram bastante satisfatórios. Queremos ir além, oferecendo o produto da reflexão e da análise dos resultados obtidos, de modo a extrair ideias e sugestões que poderão enriquecer o conhecimento existente e subsidiar ações de formação correlatas, voltadas à integração de tecnologias nas atividades escolares e à articulação entre a dimensão pedagógica e a técnico-administrativa.</p><p>Trata-se, portanto, de uma obra que vem trazer novas luzes sobre a questão da apropriação, pelos educadores, das tecnologias, ao mesmo tempo que dá um destaque especial a aspectos da gestão escolar relacionados com as contribuições das tecnologias a esse trabalho.</p>",
+  "sinopse": "Destinado a educadores, este livro aborda a integração das tecnologias na escola e na gestão escolar, trazendo reflexões e resultados do projeto Gestão Escolar e Tecnologias. A obra busca auxiliar gestores no uso das TICs no cotidiano escolar, indo além do conhecimento teórico e relatos de experiências bem-sucedidas. Propõe ideias e sugestões para enriquecer práticas educativas e administrativas, destacando desafios e contribuições das tecnologias para a formação e o trabalho nas escolas.",
+  "exemplar_id": 1849,
+  "sku": "LI0120",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maria-elizabeth-bianconcini-de-almeida--tecnologias-na-forma--o-e-na-gest-o-escolar--capa--20250430--104252.jpg",
+  "contracapa": "static/uploads/maria-elizabeth-bianconcini-de-almeida--tecnologias-na-forma--o-e-na-gest-o-escolar--contracapa--20250430--104252.jpg",
+  "fotos": [
+    "static/uploads/maria-elizabeth-bianconcini-de-almeida--tecnologias-na-forma--o-e-na-gest-o-escolar--foto1--20250430--104252.jpg",
+    "static/uploads/maria-elizabeth-bianconcini-de-almeida--tecnologias-na-forma--o-e-na-gest-o-escolar--foto2--20250430--104252.jpg",
+    "static/uploads/maria-elizabeth-bianconcini-de-almeida--tecnologias-na-forma--o-e-na-gest-o-escolar--foto3--20250430--104252.jpg",
+    "static/uploads/maria-elizabeth-bianconcini-de-almeida--tecnologias-na-forma--o-e-na-gest-o-escolar--foto4--20250430--104252.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:53:58",
+  "observacoes": "procedencia_biblioteca"
+}

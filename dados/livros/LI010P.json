@@ -1,0 +1,68 @@
+{
+  "obra_id": 1823,
+  "autor": "Pedro Carlos de Carvalho",
+  "titulo": "Empregabilidade",
+  "subtitulo": "A competência necessária para o sucesso no novo milênio",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Multidisciplinaridade. Gestão organizacional.",
+  "palavras_chave": "carvalho empregabilidade competencia necessaria para sucesso novo milenio",
+  "edicao_id": 1803,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 145,
+  "peso": 230,
+  "isbn": "9788575164457",
+  "editora": "Alínea",
+  "numero_edicao": 7,
+  "ano": 2011,
+  "serie": "Administração & Sociedade",
+  "volume": null,
+  "transcricao_contracapa": "<p>O conhecimento administrativo contemporâneo apresenta-se diversificado em sua multidisciplinaridade. Novas preocupações como ética, meio ambiente e humanização do ímpeto capitalista devem acompanhar as modernas administrações.</p> <p>Basta olharmos para algumas das diferentes organizações: as financeiras, industriais, comerciais, governamentais, educacionais, de saúde pública, imobiliárias, esportivas, de turismo, para percebermos a amplitude dessa diversidade.</p> <p>Um dos aspectos mais importantes desse conhecimento é considerar as necessidades, as singularidades, a cultura de cada país. Não basta que se façam traduções de teorias e de procedimentos administrativos, às vezes inadequados até em seu país de origem, repetindo termos e expressões da moda. É preciso adequá-los à nossa realidade, não somente em seu conteúdo, mas também em sua forma de apresentação: linguagem clara, objetiva e, principalmente, didática.</p> <p>São com essas convicções que a coleção <i>Administração & Sociedade</i> inaugura mais um espaço para que nossos pesquisadores, professores e profissionais da área sejam estimulados à produção de trabalhos voltados para as necessidades de nossas organizações e, sobretudo, dos nossos estudantes.</p> <p><i>O editor</i></p>",
+  "sinopse": "O livro aborda a multidisciplinaridade e a complexidade do conhecimento administrativo contemporâneo, ressaltando a necessidade de considerar as particularidades culturais e organizacionais em diferentes contextos, como finanças, saúde, educação e turismo. A obra integra a coleção Administração & Sociedade, que visa estimular professores, pesquisadores e profissionais a produzirem conteúdos claros, objetivos e didáticos, adequados à realidade brasileira.",
+  "exemplar_id": 1802,
+  "sku": "LI010P",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/pedro-carlos-de-carvalho--empregabilidade--capa--20250430--102952.jpg",
+  "contracapa": "static/uploads/pedro-carlos-de-carvalho--empregabilidade--contracapa--20250430--102952.jpg",
+  "fotos": [
+    "static/uploads/pedro-carlos-de-carvalho--empregabilidade--foto1--20250430--102952.jpg",
+    "static/uploads/pedro-carlos-de-carvalho--empregabilidade--foto2--20250430--102952.jpg",
+    "static/uploads/pedro-carlos-de-carvalho--empregabilidade--foto3--20250430--102952.jpg",
+    "static/uploads/pedro-carlos-de-carvalho--empregabilidade--foto4--20250430--102952.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:18:09",
+  "observacoes": "procedencia_biblioteca"
+}

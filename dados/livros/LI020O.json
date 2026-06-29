@@ -1,0 +1,63 @@
+{
+  "obra_id": 3120,
+  "autor": "Brenda Walpole",
+  "titulo": "Ciência Divertida",
+  "subtitulo": "Ar",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "walpole ciencia divertida",
+  "edicao_id": 3100,
+  "encadernacao": null,
+  "quantidade_paginas": 40,
+  "peso": 150,
+  "isbn": "9788506014578",
+  "editora": "Melhoramentos",
+  "numero_edicao": null,
+  "ano": 1991,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Ciência Divertida é uma série prática projetada para possibilitar que as crianças se divirtam descobrindo como as coisas funcionam e por que acontecem no mundo ao seu redor. Executando experiências simples, fazendo brinquedos e aprendendo como os truques funcionam, os leitores compreenderão as ideias científicas que desempenham um importante papel em sua vida diária.",
+  "exemplar_id": 3099,
+  "sku": "LI020O",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livreto com , ricamente ilustrado em cores, para uso em contexto pedagógico. Bem conservado, embora um pouco amarelado pela passagem dos anos. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:14:00",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

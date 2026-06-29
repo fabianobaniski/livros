@@ -1,0 +1,68 @@
+{
+  "obra_id": 1959,
+  "autor": "Iria Brzezinski",
+  "titulo": "LDB dez anos depois",
+  "subtitulo": "Reinterpretação sob diversos olhares",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Políticas públicas. Legislação educacional. Formação de professores. Análise crítica.",
+  "palavras_chave": "severino ldb dez anos depois",
+  "edicao_id": 1939,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 309,
+  "peso": 495,
+  "isbn": "9788524913969",
+  "editora": "Cortez",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nesta obra os autores explicitam em suas críticas os pontos fortes e fracos decorrentes dos desdobramentos da LDB/1996, que em grande parte não correspondem às expectativas e às ações do poder instituído. Contraditoriamente, o Estado, ao não destinar recursos do Fundef à Educação Infantil, à Educação de Pessoas Jovens e Adultas (EJA) e ao Ensino Médio, privou uma boa parcela da população menos privilegiada de ter direito à gratuidade do ensino público.</p> <p>Outro ponto frágil da aplicação da LDB foi o privilégio concedido ao Curso Normal Superior de se transformar em lócus preferencial de formação do professor dos Anos Iniciais do Ensino Fundamental e Educação Infantil. Esse curso foi beneficiado por assumir um projeto de formação radicado na praticidade, iluminada pela \"pedagogia das competências\", ao passo que, o curso de Pedagogia das Faculdades e Centros de Educação Públicos foi secundarizado, apesar de acumular experiências exitosas, desde os anos 1980, na formação desses docentes.</p> <p>Outro ponto dissonante entre os autores e as expectativas do poder instituído foi a instalação do processo de reforma na universidade, sem reforma universitária. Os governos FHC e Lula preferiram pôr em prática mecanismos do Estado avaliador e regulador do desempenho de estudantes, cursos e instituições de Ensino Superior, sem proceder a uma ampla reforma, balizada por princípios da qualidade social da educação, ensejados pela comunidade acadêmica e científica universitária.</p> <p>Os autores desta coletânea convidam os leitores para realizar suas próprias descobertas, debruçando-se sobre os textos que a compõem, concordando ou não com os avanços apontados e as fragilidades denunciadas na desafiadora tarefa coletiva de, <i>sob diversos olhares</i>, fazer a <i>reinterpretação da LDB dez anos depois</i>.</p> <p>Iria Brzezinski</p>",
+  "sinopse": "A coletânea apresenta críticas e análises sobre os pontos fortes e fracos dos desdobramentos da LDB/1996, mostrando como as expectativas da sociedade não foram totalmente atendidas pelas ações do poder público. A obra discute temas como o financiamento da educação pública, a formação de professores e a ausência de reformas universitárias profundas, convidando o leitor a refletir, sob diferentes perspectivas, sobre dez anos de implantação da LDB.",
+  "exemplar_id": 1938,
+  "sku": "LI014H",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ant-nio-joaquim-severino--ldb-dez-anos-depois--capa--20250430--104308.jpg",
+  "contracapa": "static/uploads/ant-nio-joaquim-severino--ldb-dez-anos-depois--contracapa--20250430--104308.jpg",
+  "fotos": [
+    "static/uploads/ant-nio-joaquim-severino--ldb-dez-anos-depois--foto1--20250430--104308.jpg",
+    "static/uploads/ant-nio-joaquim-severino--ldb-dez-anos-depois--foto2--20250430--104308.jpg",
+    "static/uploads/ant-nio-joaquim-severino--ldb-dez-anos-depois--foto3--20250430--104308.jpg",
+    "static/uploads/ant-nio-joaquim-severino--ldb-dez-anos-depois--foto4--20250430--104308.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:17:39",
+  "observacoes": "procedencia_biblioteca"
+}

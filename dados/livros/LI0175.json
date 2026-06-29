@@ -1,0 +1,68 @@
+{
+  "obra_id": 2056,
+  "autor": "Samuel Hazzan; José Nicolau Pompeo",
+  "titulo": "Matemática financeira",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Economia. Ciências Contábeis. Atuária. Matemática financeira. Mercado financeiro brasileiro. Juros. Descontos. Investimentos.",
+  "palavras_chave": "hazzan matematica financeira",
+  "edicao_id": 2036,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 314,
+  "peso": 530,
+  "isbn": "9788502055315",
+  "editora": "Saraiva",
+  "numero_edicao": 6,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta edição de <i>Matemática financeira</i>, dos autores Samuel Hazzan e José Nicolau Pompeo, fornece, de maneira lógica e com encadeamento entre teoria e exercícios, os instrumentos para o cálculo financeiro dentro da realidade brasileira.</p><p>O livro aborda os conceitos de juros simples e compostos, descontos, análise de pagamentos e investimentos, financiamento em prestações iguais, juros em contexto inflacionário e pagamentos de longo prazo, oferecendo formas de aplicação atualizadas do mercado financeiro brasileiro. Destacam-se as operações com <i>hot money</i>, descontos de duplicatas, CDB, CDI, títulos públicos, debêntures, crédito ao consumidor, <i>leasing</i>, entre outros.</p><p>A teoria, os exemplos e os exercícios, colocados em ordem crescente de dificuldade, bem como os apêndices explicando o uso da calculadora HP12C e a planilha Excel, visam a dar ao leitor os elementos para uma aprendizagem eficiente e para a fixação dos conceitos.</p><p><i>Matemática financeira</i> é indicado como livro-texto para cursos de graduação e especialização em Administração, Economia, Ciências Contábeis e Atuariais e também como referência para profissionais que atuam nas áreas financeira e comercial.</p><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço: <b>www.saraivauni.com.br</b></p>",
+  "sinopse": "Esta edição de Matemática financeira, de Samuel Hazzan e José Nicolau Pompeo, apresenta de forma lógica e encadeada os fundamentos da matemática financeira para a realidade brasileira. O livro abrange desde os conceitos básicos de juros simples e compostos, descontos e financiamentos, até operações com hot money, títulos públicos, debêntures e leasing. Inclui exemplos, exercícios progressivos e apêndices sobre o uso da HP12C e Excel, servindo tanto como referência para estudantes de Administração, Economia, Contábeis e Atuariais, como para profissionais das áreas financeira e comercial.",
+  "exemplar_id": 2035,
+  "sku": "LI0175",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/samuel-hazzan--matem-tica-financeira--capa--20250430--104526.jpg",
+  "contracapa": "static/uploads/samuel-hazzan--matem-tica-financeira--contracapa--20250430--104526.jpg",
+  "fotos": [
+    "static/uploads/samuel-hazzan--matem-tica-financeira--foto1--20250430--104526.jpg",
+    "static/uploads/samuel-hazzan--matem-tica-financeira--foto2--20250430--104526.jpg",
+    "static/uploads/samuel-hazzan--matem-tica-financeira--foto3--20250430--104526.jpg",
+    "static/uploads/samuel-hazzan--matem-tica-financeira--foto4--20250430--104526.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:17:51",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2743,
+  "autor": "Manuel Forjaz",
+  "titulo": "Nunca te distraias da vida",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "forjaz nunca distraias vida",
+  "edicao_id": 2723,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 168,
+  "peso": 300,
+  "isbn": "9789897411267",
+  "editora": "Oficina do Livro",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Nunca te distraias da vida é um relato sobre a experiência de viver com câncer, escrito por um homem que luta há anos sem perder a fé em Deus e a esperança na ciência. Ele busca soluções que integram medicina tradicional e alternativa, enfrentando o câncer com coragem e determinação. Mais do que uma biografia ou um manual de autoajuda, o livro oferece um testemunho inspirador de força, mostrando que, mesmo diante da doença, a vida continua a ser vivida plenamente e com propósito.",
+  "exemplar_id": 2722,
+  "sku": "LI01Q7",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/nunca-te-distraias-da-vida-manuel-forjaz-capa_rev1077.jpg",
+  "contracapa": "static/uploads/nunca-te-distraias-da-vida-manuel-forjaz-contracapa_rev1785.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:24:55",
+  "observacoes": null
+}

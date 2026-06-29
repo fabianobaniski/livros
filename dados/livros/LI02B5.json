@@ -1,0 +1,68 @@
+{
+  "obra_id": 3502,
+  "autor": "Akihito Tsukushi",
+  "titulo": "Made in Abyss",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Fantasia. Mistério. Relações humanas.",
+  "palavras_chave": "tsukushi made abyss",
+  "edicao_id": 3479,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 270,
+  "isbn": "9788583622307",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p><b>ESTE É O SÉTIMO VOLUME DESTA GRANDE AVENTURA DRAMÁTICA QUE MISTURA MISTÉRIO E COTIDIANO!!</b></p><p>Riko, Reg e Nanachi chegam à sexta camada de profundidade e logo se deparam com uma “vila de sequelas”.</p><p>Cada um de seus moradores possui um valor e a vila se mantém com as trocas desses valores.</p><p>Os três exploram a vila e tentam interagir com os moradores. Em meio a isso, Riko acaba se envolvendo em uma situação desesperadora e sem volta devido a uma atitude tomada por Nanachi…</p>",
+  "sinopse": "Neste sétimo volume da série, Riko, Reg e Nanachi alcançam a sexta camada do Abismo e encontram uma misteriosa 'vila de sequelas', onde valores são trocados entre os moradores. Enquanto tentam interagir e desvendar os segredos do local, Riko se enreda em uma situação desesperadora e aparentemente sem retorno, resultado de uma decisão tomada por Nanachi.",
+  "exemplar_id": 3478,
+  "sku": "LI02B5",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/made-in-abyss__akihito-tsukushi__capa__2025-11-05_16-16-01-290939.jpg",
+  "contracapa": "static/uploads/made-in-abyss__akihito-tsukushi__contracapa__2025-11-05_16-16-01-338689.jpg",
+  "fotos": [
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-01__2025-11-05_16-16-01-372467.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-02__2025-11-05_16-16-01-398474.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-03__2025-11-05_16-16-01-413980.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-04__2025-11-05_16-16-01-433822.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:53:42",
+  "observacoes": null
+}

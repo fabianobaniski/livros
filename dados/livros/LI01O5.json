@@ -1,0 +1,63 @@
+{
+  "obra_id": 2669,
+  "autor": "T. Buron; P. Gauchon",
+  "titulo": "Los fascismos",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "buron los fascismos",
+  "edicao_id": 2649,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 200,
+  "isbn": "9681613953",
+  "editora": "Fce",
+  "numero_edicao": null,
+  "ano": 1973,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Los Fascismos, de T. Buron e P. Gauchon, oferece uma análise pioneira sobre o fascismo, revisitando o fenômeno sob uma nova perspectiva. O livro destaca a diversidade de formas que o fascismo assumiu, considerando suas características locais, evolução e impacto. Os autores focam no estudo detalhado dos documentos da época, permitindo que surjam novos significados e compreensões sobre o movimento fascista.",
+  "exemplar_id": 2648,
+  "sku": "LI01O5",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/los-fascismos-t-buron-p-gauchon-capa_rev2.jpg",
+  "contracapa": "static/uploads/los-fascismos-t-buron-p-gauchon-contracapa_rev534.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato pocket, em boas condições. Papel um pouco pigmentado pela ação do tempo, principalmente nas bordas. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados. Sem anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:34:12",
+  "observacoes": null
+}

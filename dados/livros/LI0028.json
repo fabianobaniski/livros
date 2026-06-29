@@ -1,0 +1,68 @@
+{
+  "obra_id": 86,
+  "autor": "John Fowles",
+  "titulo": "O colecionador",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Psicologia. Ficção. Romance",
+  "palavras_chave": "fowles colecionador",
+  "edicao_id": 86,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 234,
+  "peso": 280,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A irresistível obsessão de um modesto e apagado funcionário municipal, cuja única alegria era colecionar borboletas: seqüestrar e aprisionar a bela Miranda, objeto de contemplativo e sófreo amor platônico. Um romance admirável, principalmente na descrição que faz de duas personagens antagônicas, impossibilitadas de se unirem num mundo repleto de mitos e deformações sociais. Frederick Clegg e Miranda são protótipos de uma classe social que não consegue perceber nem muito menos viver sua própria verdade.</p>",
+  "sinopse": "A história gira em torno da obsessão de um funcionário municipal que coleciona borboletas. Ele sequestra Miranda, sua amada platônica, revelando um enredo de personagens antagônicas e suas impossibilidades em se unir em um mundo cheio de mitos sociais.",
+  "exemplar_id": 85,
+  "sku": "LI0028",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/john-fowles--o-colecionador--capa--20250226--110156.jpg",
+  "contracapa": "static/uploads/john-fowles--o-colecionador--contracapa--20250226--110156.jpg",
+  "fotos": [
+    "static/uploads/john-fowles--o-colecionador--foto1--20250226--110156.jpg",
+    "static/uploads/john-fowles--o-colecionador--foto2--20250226--110156.jpg",
+    "static/uploads/john-fowles--o-colecionador--foto3--20250226--110156.jpg",
+    "static/uploads/john-fowles--o-colecionador--foto4--20250226--110156.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "Ótimo",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:57:41",
+  "observacoes": null
+}

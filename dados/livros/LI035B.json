@@ -1,0 +1,68 @@
+{
+  "obra_id": 5766,
+  "autor": "Thieleman J. van Bracht",
+  "titulo": "O espelho dos mártires",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Perseguição religiosa. Mártires.",
+  "palavras_chave": "espelho martires",
+  "edicao_id": 5741,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 353,
+  "peso": 390,
+  "isbn": "9788564791084",
+  "editora": "LMSB",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Durante mais de 16 séculos, começando com Jesus e os apóstolos, o povo de Deus foi perseguido pelos inimigos da cruz. Centenas de milhares de cristãos perderam suas vidas durante este período.</p><p>Em <i>O Espelho dos Mártires</i> conheceremos uns poucos destes irmãos que tiveram suas propriedades confiscadas, foram presos, torturados e finalmente deram suas vidas para não negarem o nome daquele que os salvou da perdição eterna.</p><p>Esta obra condensada ajudará o leitor a compreender como os tempos atuais são perigosos.</p><p>O cristão moderno tem substituído o verdadeiro fervor no Espírito por um espírito de fervor que se manifesta com muito barulho e agitação.</p><p><i>Vem mesmo a hora em que qualquer que vos matar cuidará fazer um serviço a Deus.<br>—João 16:2</i></p>",
+  "sinopse": "Durante mais de 16 séculos, cristãos foram perseguidos e muitos deram suas vidas por sua fé. Neste livro, conhecemos relatos de irmãos que tiveram bens confiscados, foram presos, torturados e morreram por não negarem sua crença em Cristo. A obra busca alertar sobre os perigos dos tempos atuais, mostrando como o fervor espiritual verdadeiro se diferencia de manifestações superficiais, e encoraja o leitor a refletir sobre a própria fé diante das adversidades.",
+  "exemplar_id": 5740,
+  "sku": "LI035B",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/o-espelho-dos-martires__none__none__capa__2026-01-18_14-11-33-795312-000.png",
+  "contracapa": "static/uploads/o-espelho-dos-martires__none__none__contracapa__2026-01-18_14-11-33-812349-001.png",
+  "fotos": [
+    "static/uploads/o-espelho-dos-martires__none__none__foto-01__2026-01-18_14-11-33-832803-002.jpg",
+    "static/uploads/o-espelho-dos-martires__none__none__foto-02__2026-01-18_14-11-33-864840-003.jpg",
+    "static/uploads/o-espelho-dos-martires__none__none__foto-03__2026-01-18_14-11-33-895086-004.jpg",
+    "static/uploads/o-espelho-dos-martires__none__none__foto-04__2026-01-18_14-11-33-930098-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:06:13",
+  "observacoes": null
+}

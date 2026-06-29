@@ -1,0 +1,63 @@
+{
+  "obra_id": 3068,
+  "autor": "Vários Autores",
+  "titulo": "Medicina Natural",
+  "subtitulo": "a Cura Está na Natureza",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": null,
+  "palavras_chave": "autores medicina natural cura",
+  "edicao_id": 3048,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 3000,
+  "isbn": "9788573681864",
+  "editora": "IstoÉ",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3047,
+  "sku": "LI01Z8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "TENÇÃO: A descrição da conservação do produto será incluída em breve. Se tiver interesse e pressa na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual. Obrigado.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "TENÇÃO: A descrição da conservação do produto será incluída em breve. Se tiver interesse e pressa na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual. Obrigado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:16:43",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

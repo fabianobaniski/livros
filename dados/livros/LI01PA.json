@@ -1,0 +1,63 @@
+{
+  "obra_id": 2710,
+  "autor": "Carlos Drummond de Andrade",
+  "titulo": "Moça deitada na grama",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Poesia",
+  "temas": "",
+  "palavras_chave": "andrade moca deitada grama",
+  "edicao_id": 2690,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 218,
+  "peso": 300,
+  "isbn": "9788510316668",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 1987,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro reúne crônicas de Carlos Drummond de Andrade, publicadas pouco antes de seu falecimento, oferecendo uma visão íntima e reflexiva dos seus últimos meses de vida. Com um estilo afiado e, ao mesmo tempo, melancólico, Drummond aborda temas cotidianos como política, futebol, morte e natureza, sempre com sua característica mistura de ironia, humor e sensibilidade. As crônicas revelam sua habilidade em transformar o banal em poesia, e sua visão crítica da sociedade permanece presente em cada texto, trazendo ao leitor uma reflexão sobre a vida e o tempo.",
+  "exemplar_id": 2689,
+  "sku": "LI01PA",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/moca-deitada-na-grama-carlos-drummond-de-andrade-capa_rev2116.jpg",
+  "contracapa": "static/uploads/moca-deitada-na-grama-carlos-drummond-de-andrade-contracapa_rev2131.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um tanto marcado pela passagem dos anos e pelo manuseio ao longo do tempo. Papel pigmentado. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:32",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 5809,
+  "autor": "Leon Uris",
+  "titulo": "Exodus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance histórico. Imigração judaica. Conflitos no Oriente Médio. Fundação do Estado de Israel.",
+  "palavras_chave": "uris exodus 2",
+  "edicao_id": 5784,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 333,
+  "peso": 290,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "Grandes Sucessos",
+  "volume": 2,
+  "transcricao_contracapa": "<p><b>Exodus</b></p><p>A heróica luta de um povo pela conquista de um lugar no mundo. Uma comovente história de amor entre uma enfermeira norte-americana e um soldado judeu. A imigração judaica para a Palestina e o esforço do povo judeu para estabelecer o Estado de Israel. O maior sucesso literário de Leon Uris. Um romance que já foi traduzido para mais de 40 línguas e vendeu mais de 20 milhões de exemplares.</p>",
+  "sinopse": "Exodus narra a luta heroica de um povo em busca de seu lugar no mundo, focando na imigração judaica para a Palestina e no esforço para a criação do Estado de Israel. A obra acompanha a emocionante história de amor entre uma enfermeira norte-americana e um soldado judeu, sendo reconhecida como o maior sucesso literário de Leon Uris, traduzido para mais de 40 línguas e com mais de 20 milhões de exemplares vendidos.",
+  "exemplar_id": 5783,
+  "sku": "LI036I",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/exodus__none__leon-uris__capa__2026-01-18_14-11-56-271119-000.png",
+  "contracapa": "static/uploads/exodus__none__leon-uris__contracapa__2026-01-18_14-11-56-281460-001.png",
+  "fotos": [
+    "static/uploads/exodus__none__leon-uris__foto-01__2026-01-18_14-11-56-293545-002.jpg",
+    "static/uploads/exodus__none__leon-uris__foto-02__2026-01-18_14-11-56-322961-003.jpg",
+    "static/uploads/exodus__none__leon-uris__foto-03__2026-01-18_14-11-56-353484-004.jpg",
+    "static/uploads/exodus__none__leon-uris__foto-04__2026-01-18_14-11-56-399090-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:45:00",
+  "observacoes": null
+}

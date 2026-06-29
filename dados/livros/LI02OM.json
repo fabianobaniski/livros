@@ -1,0 +1,63 @@
+{
+  "obra_id": 4932,
+  "autor": "Kentaro Yabuki; Saki Hasemi",
+  "titulo": "To Love-Ru",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Mangá. Romance.",
+  "palavras_chave": "yabuki to love ru",
+  "edicao_id": 4907,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 175,
+  "peso": 180,
+  "isbn": "9788569212249",
+  "editora": "Ink",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "",
+  "sinopse": "A vida do estudante Rito Yuuki vira de cabeça para baixo quando a princesa alienígena Lala Deviluke surge em sua banheira. Para fugir de pretendentes espaciais, ela o declara seu noivo. O que era um dilema amoroso comum entre Rito e sua paixão, Haruna, transforma-se em uma comédia caótica repleta de tecnologias alienígenas, garotas de diversos planetas e situações picantes acidentais.",
+  "exemplar_id": 4906,
+  "sku": "LI02OM",
+  "preco_estante_virtual": 33.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__capa__2026-02-20_10-31-13-633993-000.png",
+  "contracapa": "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__contracapa__2026-02-20_10-31-13-687764-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel discretamente amarelado pelo passar do tempo."
+  },
+  "disponivel": 0,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 16:57:02",
+  "observacoes": null
+}

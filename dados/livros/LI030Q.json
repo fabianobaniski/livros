@@ -1,0 +1,63 @@
+{
+  "obra_id": 5601,
+  "autor": "Toru Fujisawa",
+  "titulo": "Great Teacher Onizuka (GTO)",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Comédia. Ensino.",
+  "palavras_chave": "fujisawa great teacher onizuka",
+  "edicao_id": 5576,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 220,
+  "isbn": "9788583622512",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "GTO",
+  "volume": 11,
+  "transcricao_contracapa": "<p>O jovem Eikichi Onizuka de 22 anos decide se tornar um professor. Embora tenha tomado tal decisão pelos motivos errados, ele logo descobre que essa é sua vocação e decide transformar a escola num lugar divertido pelo bem dos alunos. O problema é que os planos de Onizuka estão sempre dando errado, para piorar ele sempre se mete em confusões e polêmicas e acaba responsável pelos alunos mais problemáticos do colégio. O resultado são as palhaçadas mais absurdas, para cada boa ação de Onizuka, ele consegue cometer o dobro de erros e se enfiar nas situações mais ridículas por pura falta de noção.</p>",
+  "sinopse": "Eikichi Onizuka, aos 22 anos, decide ser professor, descobrindo sua vocação. Contudo, seus planos frequentemente falham, levando a confusões e controvérsias no colégio. Apesar das boas intenções, Onizuka se mete em situações absurdas e hilárias com os alunos mais problemáticos.",
+  "exemplar_id": 5575,
+  "sku": "LI030Q",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 19.0,
+  "capa": "static/uploads/great-teacher-onizuka__toru-fujisawa__capa__2026-02-24_13-36-40-542912-000.jpg",
+  "contracapa": "static/uploads/great-teacher-onizuka__toru-fujisawa__contracapa__2026-02-24_13-36-40-566101-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 724,
+  "autor": "Philip Yancey; Paul Brand",
+  "titulo": "Feito de modo especial e admirável",
+  "subtitulo": "A harmonia entre o mundo natural e o espiritual",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Natureza. Comunidade.",
+  "palavras_chave": "yancey feito modo especial admiravel",
+  "edicao_id": 709,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 250,
+  "isbn": "9788573679892",
+  "editora": "Vida",
+  "numero_edicao": 2,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O corpo humano reúne segredos infinitamente fascinantes. Em <i>Feito de modo especial e admirável</i>, o conhecido escritor Philip Yancey e o renomado cirurgião dr. Paul Brand fazem uma viagem fantástica ao interior do corpo.</p><p>Com notável habilidade, os autores fazem um paralelo entre o corpo humano e o Corpo de Cristo: nós somos o que Jesus deixou na terra. Ele não deixou um livro, ou uma declaração doutrinai, ou um sistema de pensamento. O Senhor deixou uma comunidade visível para incorporar -lo e representá-lo perante o mundo.</p><p>Leia e descubra como a admirável cooperação dos membros de nosso corpo é capaz de nos instigar a funcionar melhor no Corpo de Cristo!</p><p>Philip Yancey foi editor da revista <i>Christianity Today</i>. Escritor reconhecido por obras premiadas como: <i>O Jesus que eu nunca conheci</i>, <i>Maravilhosa graça</i>, <i>A Bíblia que Jesus lia</i> e <i>O Deus invisível</i>, todas publicadas pela Editora Vida.</p><p>Paul Brand foi conhecido como cirurgião de mãos e especialista em hanseníase. Foi professor emérito no Departamento de Ortopedia da Universidade de Washington. Co-autor com Philip Yancey de <i>A imagem e semelhança de Deus</i>, publicado pela Editora Vida.</p>",
+  "sinopse": "O livro propõe uma exploração do corpo humano e suas complexidades, traçando paralelos com o Corpo de Cristo. Os autores, Philip Yancey e Paul Brand, discutem como a harmonia entre o mundo natural e o espiritual pode ser entendida através da cooperação dos membros do corpo, enfatizando a importância da comunidade visível deixada por Jesus na terra.",
+  "exemplar_id": 708,
+  "sku": "LI00J3",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/philip-yancey--feito-de-modo-especial-e-admir-vel--capa--20250227--152900.jpg",
+  "contracapa": "static/uploads/philip-yancey--feito-de-modo-especial-e-admir-vel--contracapa--20250227--152900.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:00:16",
+  "observacoes": null
+}

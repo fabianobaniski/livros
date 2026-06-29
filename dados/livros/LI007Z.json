@@ -1,0 +1,68 @@
+{
+  "obra_id": 312,
+  "autor": "Daniel Gaio Seroiska",
+  "titulo": "Jonas no mundo das ideias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura infantil. Liberdade. Amizade.",
+  "palavras_chave": "seroiska jonas mundo ideias",
+  "edicao_id": 304,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 377,
+  "peso": 400,
+  "isbn": "9788542806557",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Jonas no Mundo das Ideias é uma história de ficção que faz referências a personagens históricos, religiosos e mitológicos. Todo o enredo se desenrola em cenários fantásticos e busca transmitir preciosos valores para pessoas de todas as idades.</p> <p>A obra narra a história de um pré-adolescente questionador que não aceita ter sua liberdade controlada e anseia ser visto como um adulto. Por isso, foge de casa para viver suas próprias aventuras. Durante a fuga, faz amizade com um estranho sujeito, o Menestrel Errante, que o leva ao fabuloso Mundo das Ideias.</p> <p>Nesse mundo, Jonas encontra novos amigos, embarca num balão colorido e desvenda enigmas.</p> <p>Jonas no Mundo das Ideias apresenta uma mensagem secreta, codificada, a ser decifrada pelo leitor.</p> <p>APRECIE CADA PALAVRA E ACEITE ESTE DESAFIO!</p>",
+  "sinopse": "A história de 'Jonas no Mundo das Ideias' segue um pré-adolescente que, insatisfeito com as limitações da sua vida, decide fugir de casa em busca de liberdade. Durante sua jornada, ele cruza caminhos com o Menestrel Errante, que o introduz ao intrigante Mundo das Ideias. Este mundo oferece novas amizades e desafios enigmáticos, prometendo uma experiência rica em aventuras e descobertas.",
+  "exemplar_id": 303,
+  "sku": "LI007Z",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/daniel-gaio-seroiska--jonas--capa--20250226--133818.jpg",
+  "contracapa": "static/uploads/daniel-gaio-seroiska--jonas--contracapa--20250226--133818.jpg",
+  "fotos": [
+    "static/uploads/daniel-gaio-seroiska--jonas--foto1--20250226--133818.jpg",
+    "static/uploads/daniel-gaio-seroiska--jonas--foto2--20250226--133818.jpg",
+    "static/uploads/daniel-gaio-seroiska--jonas--foto3--20250226--133818.jpg",
+    "static/uploads/daniel-gaio-seroiska--jonas--foto4--20250226--133818.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém bastante amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:53:13",
+  "observacoes": null
+}

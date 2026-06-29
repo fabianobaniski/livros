@@ -1,0 +1,63 @@
+{
+  "obra_id": 2774,
+  "autor": "Fernando Sabino",
+  "titulo": "O homem feito",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "sabino homem feito",
+  "edicao_id": 2754,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 80,
+  "peso": 150,
+  "isbn": "9788508069095",
+  "editora": "Ática",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O que leva alguém a se isolar completamente do mundo? Um homem cansado da vida decide abandonar tudo e refugiar-se em uma cabana isolada na montanha, onde sua única companhia é um menino cuja presença simboliza o reencontro com a própria infância. Em uma narrativa simbólica e ambígua, Fernando Sabino explora as angústias humanas, revelando que, para se tornar um homem completo, é preciso libertar a criança interior que carregamos. Com lirismo e sensibilidade, o autor desvenda o conflito entre solidão e autodescoberta.",
+  "exemplar_id": 2753,
+  "sku": "LI01R2",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-homem-feito-fernando-sabino-capa_rev1566.jpg",
+  "contracapa": "static/uploads/o-homem-feito-fernando-sabino-contracapa_rev1458.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado. Sem anotações ou sublinhados. Um pouco amarelado e com leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:18:45",
+  "observacoes": null
+}

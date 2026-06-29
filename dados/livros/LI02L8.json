@@ -1,0 +1,63 @@
+{
+  "obra_id": 4810,
+  "autor": "Koyoharu Gotouge",
+  "titulo": "Demon Slayer",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Fantasia.",
+  "palavras_chave": "gotouge demon slayer",
+  "edicao_id": 4785,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 230,
+  "isbn": "9786555122770",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p>Com a ajuda de Shinobu Kochou, um dos Hashiras, Tanjiro e os outros se recuperaram de suas feridas e aprenderam o Foco Absoluto Constante. E então, em uma nova missão, eles embarcam com o Hashira das Chamas no 'Trem Infinito' para exterminar um oni! Porém, o oni prende Tanjiro e seus amigos dentro do mundo dos sonhos!! Como sair dessa situação?!</p>",
+  "sinopse": "Tanjiro e seus amigos se recuperam das feridas e embarcam em uma nova missão com o Hashira das Chamas. No 'Trem Infinito', eles enfrentam o desafio de exterminar um oni que os aprisiona no mundo dos sonhos. Será que conseguirão escapar dessa ameaça?",
+  "exemplar_id": 4784,
+  "sku": "LI02L8",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/demon-slayer__koyoharu-gotouge__capa__2026-02-20_10-30-44-559564-000.png",
+  "contracapa": "static/uploads/demon-slayer__koyoharu-gotouge__contracapa__2026-02-20_10-30-44-710116-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com capa, sobrecapa e contracapa sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

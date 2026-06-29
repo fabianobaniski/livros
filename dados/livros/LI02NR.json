@@ -1,0 +1,63 @@
+{
+  "obra_id": 4901,
+  "autor": "Buronson; Tetsuo Hara",
+  "titulo": "Hokuto No Ken",
+  "subtitulo": "Fist of the North Star",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Artes marciais. Ficção pós-apocalíptica.",
+  "palavras_chave": "buronson hokuto ken",
+  "edicao_id": 4876,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 292,
+  "peso": 340,
+  "isbn": "9786555942606",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 13,
+  "transcricao_contracapa": "<p>Dizem que ninguém nunca voltou com vida desse mar da morte. Além dele, existe apenas o país em que nascem demônios que sabem apenas lutar. Para resgatar Lin que foi raptada por Jask, Kenshiro decide ir até o país dos demônios. Está para começar o maior embate contra demônios e seus Generais!</p> <p>\"Para aquele que suja o orgulho de um homem, só lhe resta a morte!\"</p>",
+  "sinopse": "Kenshiro parte em uma jornada perigosa para resgatar Lin, sequestrada por Jask. Ele deve enfrentar demônios e seus Generais no lendário mar da morte, de onde ninguém jamais retornou. A aventura se torna um embate épico contra poderes sombrios.",
+  "exemplar_id": 4875,
+  "sku": "LI02NR",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/hokuto-no-ken__fist-of-the-north-star__buronson-tetsuo-hara__capa__2026-02-20_10-31-04-251310-000.png",
+  "contracapa": "static/uploads/hokuto-no-ken__fist-of-the-north-star__buronson-tetsuo-hara__contracapa__2026-02-20_10-31-04-476057-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

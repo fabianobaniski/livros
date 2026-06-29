@@ -1,0 +1,63 @@
+{
+  "obra_id": 4924,
+  "autor": "Yu Sasuga; Ken-Ichi Tachibana",
+  "titulo": "Terra Formars",
+  "subtitulo": "20ª Missão Criaturas Sem Ego",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Conflitos interplanetários. Mistérios governamentais.",
+  "palavras_chave": "sasuga terra formars",
+  "edicao_id": 4899,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 250,
+  "isbn": "9788545703723",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 20,
+  "transcricao_contracapa": "<p>A missão na ilha artificial parece ser bem-sucedida, mas os desafios estão apenas começando. Que tipo de artimanhas os terraformers e o governo chinês têm planejadas?! Quais são seus objetivos?! E ainda: o reencontro inesperado com um antigo companheiro de batalhas, em uma situação delicada!</p>",
+  "sinopse": "A missão na ilha artificial parece estar indo bem, mas novos desafios surgem. Os terraformers e o governo chinês têm planos misteriosos em mente. Em meio a isso, ocorre um surpreendente reencontro com um antigo aliado em uma situação complicada.",
+  "exemplar_id": 4898,
+  "sku": "LI02OE",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/terra-formars__20a-missao-criaturas-sem-ego__yu-sasuga-ken-ichi-tachibana__capa__2026-02-20_10-31-12-090773-000.png",
+  "contracapa": "static/uploads/terra-formars__20a-missao-criaturas-sem-ego__yu-sasuga-ken-ichi-tachibana__contracapa__2026-02-20_10-31-12-143120-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

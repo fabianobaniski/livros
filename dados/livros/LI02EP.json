@@ -1,0 +1,68 @@
+{
+  "obra_id": 3630,
+  "autor": "Gabrielle S. Colette",
+  "titulo": "A vagabunda",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "gabrielle colette a vagabunda",
+  "edicao_id": 3607,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 225,
+  "peso": 340,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Renée Néré, uma escritora divorciada que se torna artista de music-hall para sobreviver, enfrenta o conflito entre o desejo de se entregar a um novo amor persistente e a necessidade vital de preservar sua independência e solidão conquistadas a duras penas na Paris do início do século XX.",
+  "exemplar_id": 3606,
+  "sku": "LI02EP",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/gabrielle-s-colette--a-vagabunda--capa--20251114--181313.png",
+  "contracapa": "static/uploads/gabrielle-s-colette--a-vagabunda--contracapa--20251114--181319.png",
+  "fotos": [
+    "static/uploads/gabrielle-s-colette--a-vagabunda--foto1--20251113--195449.jpg",
+    "static/uploads/gabrielle-s-colette--a-vagabunda--foto2--20251113--195449.jpg",
+    "static/uploads/gabrielle-s-colette--a-vagabunda--foto3--20251113--195449.jpg",
+    "static/uploads/gabrielle-s-colette--a-vagabunda--foto4--20251113--195449.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:18:58",
+  "observacoes": null
+}

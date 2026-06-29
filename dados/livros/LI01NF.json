@@ -1,0 +1,63 @@
+{
+  "obra_id": 2643,
+  "autor": "Nancy Etcoff",
+  "titulo": "La supervivencia de los más guapos",
+  "subtitulo": "La ciencia de la belleza",
+  "idioma": "Espanhol",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "etcoff supervivencia los mas",
+  "edicao_id": 2623,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 319,
+  "peso": 800,
+  "isbn": "9788483062920",
+  "editora": "Debate Pensamiento",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A beleza faz parte essencial e misteriosa da natureza humana, influenciando tanto a percepção quanto o comportamento. Este livro investiga por que todas as civilizações veneram a beleza, explorando suas consequências trágicas e cômicas. Com uma análise provocadora, revela por que preferimos certos atributos físicos, como cabelos loiros, e por que os bebês atraentes recebem mais atenção. A obra combina ciência evolutiva e psicologia para explicar como nossos instintos de atração estão ligados à sobrevivência e à reprodução.",
+  "exemplar_id": 2622,
+  "sku": "LI01NF",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/nancy-etcoff--la-supervivencia-de-los-mas-guapos--capa--20260316--214234.jpg",
+  "contracapa": "static/uploads/nancy-etcoff--la-supervivencia-de-los-mas-guapos--contracapa--20260316--214234.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, sobrecapa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados. Capa dura com sobrecapa.,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:13:03",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2627,
+  "autor": "Michel Soëtard",
+  "titulo": "Jean-Jacques Rousseau",
+  "subtitulo": "Coleção Educadores (MEC)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "soetard jeanjacques rousseau colecao",
+  "edicao_id": 2607,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788570195449",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2606,
+  "sku": "LI01MZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/michel-soetard--jean-jacques-rousseau--capa--20260316--213839.jpg",
+  "contracapa": "static/uploads/michel-soetard--jean-jacques-rousseau--contracapa--20260316--213839.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:49:44",
+  "observacoes": null
+}

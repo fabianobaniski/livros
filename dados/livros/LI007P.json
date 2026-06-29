@@ -1,0 +1,68 @@
+{
+  "obra_id": 302,
+  "autor": "Leonardo Rásica",
+  "titulo": "Fantasmas do tempo",
+  "subtitulo": "Eles voltaram para contar",
+  "idioma": "Português",
+  "categoria": "Outros Assuntos",
+  "temas": "Espiritualidade. Revelações. Vida após a morte.",
+  "palavras_chave": "rasica fantasmas tempo",
+  "edicao_id": 294,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 242,
+  "peso": 300,
+  "isbn": "8585872918",
+  "editora": "Vida e Consciência",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Inteligência Divina fala conosco de diversas maneiras, fazendo revelações surpreendentes que quando compreendidas nos dão a certeza de que a vida vai muito além dos limites do mundo material, onde passado, presente e futuro se confundem nas tramas da evolução.</p> <p>Aconteceu com Leonardo através de sonhos que no início ele chamou de 'estranhas coincidências' e mais tarde descobriu que eram recados que a vida lhe mandava, como uma forma de iniciação espiritual.</p> <p>Essas revelações foram tão extraordinárias, oferecendo fabulosas respostas a suas indagações enigmáticas, que ele resolveu dividir conosco este livro.</p> <p>E, à medida que acompanhamos sua interessante narrativa, vamos viajando com ele através do tempo.</p> <p>Venha então conosco nessa interessante viagem e participe do diálogo entre um homem e os FANTASMAS DO TEMPO.</p>",
+  "sinopse": "O livro apresenta as experiências de Leonardo, que teve revelações extraordinárias através de sonhos, levando-o a descobertas sobre a vida e a evolução espiritual. A narrativa convida o leitor a viajar pelo tempo e participar desse diálogo profundo e significativo.",
+  "exemplar_id": 293,
+  "sku": "LI007P",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/leonardo-r-sica--fantasmas-do-tempo--capa--20250226--133817.jpg",
+  "contracapa": "static/uploads/leonardo-r-sica--fantasmas-do-tempo--contracapa--20250226--133817.jpg",
+  "fotos": [
+    "static/uploads/leonardo-r-sica--fantasmas-do-tempo--foto1--20250226--133817.jpg",
+    "static/uploads/leonardo-r-sica--fantasmas-do-tempo--foto2--20250226--133817.jpg",
+    "static/uploads/leonardo-r-sica--fantasmas-do-tempo--foto3--20250226--133817.jpg",
+    "static/uploads/leonardo-r-sica--fantasmas-do-tempo--foto4--20250226--133817.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:45:41",
+  "observacoes": null
+}

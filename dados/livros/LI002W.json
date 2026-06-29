@@ -1,0 +1,68 @@
+{
+  "obra_id": 120,
+  "autor": "Lindsey Fitzharris",
+  "titulo": "O restaurador de rostos",
+  "subtitulo": "A aterrorizante batalha de um cirurgião para recuperar soldados desfigurados na Primeira Guerra Mundial",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "História. Medicina. Guerra.",
+  "palavras_chave": "fitzharris restaurador rostos",
+  "edicao_id": 118,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 400,
+  "isbn": "9786555608380",
+  "editora": "intrínseca",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Lindsey Fitzharris, a premiada autora de <i>Medicina dos Horrores</i>, conta em detalhes a incrível história de um homem que, em meio à guerra, ajudou a fundar a era moderna da cirurgia plástica.</p> <p>“Emocionante e inspirador, <b>O restaurador de rostos</b> conta uma história profunda de sobrevivência, ressurreição e redenção.”</p> <p>- The Wall Street Journal</p> <p>“Um relato comovente e cativante sobre um médico extraordinário e os homens que ele reconstruiu.”</p> <p>- The Guardian</p>",
+  "sinopse": "Em meio à Primeira Guerra Mundial, um cirurgião se destaca na batalha para recuperar rostos de soldados desfigurados, ajudando a fundar a moderna cirurgia plástica. A obra narra histórias de sobrevivência e redenção num cenário aterrador.",
+  "exemplar_id": 117,
+  "sku": "LI002W",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/lindsey-fitzharris--o-restaurador-de-rostos--capa--20250226--133755.jpg",
+  "contracapa": "static/uploads/lindsey-fitzharris--o-restaurador-de-rostos--contracapa--20250226--133755.jpg",
+  "fotos": [
+    "static/uploads/lindsey-fitzharris--o-restaurador-de-rostos--foto1--20250226--133755.jpg",
+    "static/uploads/lindsey-fitzharris--o-restaurador-de-rostos--foto2--20250226--133755.jpg",
+    "static/uploads/lindsey-fitzharris--o-restaurador-de-rostos--foto3--20250226--133755.jpg",
+    "static/uploads/lindsey-fitzharris--o-restaurador-de-rostos--foto4--20250226--133755.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, sem danos, ainda parcialmente lacrado!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:41:30",
+  "observacoes": null
+}

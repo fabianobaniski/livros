@@ -1,0 +1,68 @@
+{
+  "obra_id": 3381,
+  "autor": "Ransuke Kuroi; Eri Haruno",
+  "titulo": "Savanna game",
+  "subtitulo": "The comic",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Jogos mortais. Sobrevivência.",
+  "palavras_chave": "kuroi savanna game comic",
+  "edicao_id": 3358,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "9788569212058",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Agora é <b>VENCER OU MORRER!</b> Essa é a única regra a seguir no Savanna Game, um jogo mortal onde tudo é possível: desde enfrentar lendárias criaturas a hábeis samurais. Em busca de uma fortuna em prêmio, os competidores terão de se enfrentar até que reste apenas um vivo!</p>",
+  "sinopse": "No Savanna Game, só há uma regra: vencer ou morrer. Este jogo mortal desafia os participantes a enfrentar criaturas lendárias e hábeis samurais, em busca de uma fortuna como prêmio. Para sobreviver, os competidores precisarão se enfrentar até que apenas um permaneça vivo.",
+  "exemplar_id": 3357,
+  "sku": "LI027S",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/savanna-game__the-comic__ransuke-kuroi-eri-haruno__capa__2025-11-05_16-14-47-323027.jpg",
+  "contracapa": "static/uploads/savanna-game__the-comic__ransuke-kuroi-eri-haruno__contracapa__2025-11-05_16-14-47-353354.jpg",
+  "fotos": [
+    "static/uploads/savanna-game__the-comic__ransuke-kuroi-eri-haruno__foto-01__2025-11-05_16-14-47-383082.jpg",
+    "static/uploads/savanna-game__the-comic__ransuke-kuroi-eri-haruno__foto-02__2025-11-05_16-14-47-417715.jpg",
+    "static/uploads/savanna-game__the-comic__ransuke-kuroi-eri-haruno__foto-03__2025-11-05_16-14-47-441209.jpg",
+    "static/uploads/savanna-game__the-comic__ransuke-kuroi-eri-haruno__foto-04__2025-11-05_16-14-47-467352.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:37:43",
+  "observacoes": null
+}

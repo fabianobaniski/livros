@@ -1,0 +1,63 @@
+{
+  "obra_id": 2877,
+  "autor": "Ryo Sanada; Suridh Hassan",
+  "titulo": "Rackgaki",
+  "subtitulo": "Japanese Graffiti / Livro + DVD",
+  "idioma": "Inglês",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "sanada rackgaki japanese graffiti",
+  "edicao_id": 2857,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 111,
+  "peso": 450,
+  "isbn": "9781856695046",
+  "editora": "Laurence King Pub",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora o fenômeno do grafite, desde suas origens nas ruas de Nova York até sua expansão global, especialmente na Ásia. Com foco na cena japonesa, que mescla influências locais com técnicas ocidentais, ele captura a energia criativa que emerge das cidades de Osaka, Nagoya e Tóquio. O grafite é celebrado como uma das formas de arte mais autênticas, acessível a todos que estão dispostos a se expressar. A obra oferece uma perspectiva única sobre o desenvolvimento do grafite no Japão e seu impacto cultural crescente.",
+  "exemplar_id": 2856,
+  "sku": "LI01TX",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/rackgaki-ryo-sanada-capa_rev1050.jpg",
+  "contracapa": "static/uploads/rackgaki-ryo-sanada-contracapa_rev1999.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:26:30",
+  "observacoes": null
+}

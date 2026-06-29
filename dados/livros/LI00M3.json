@@ -1,0 +1,63 @@
+{
+  "obra_id": 833,
+  "autor": "James Houston",
+  "titulo": "O discípulo",
+  "subtitulo": "O aprendizado é uma longa caminhada com o verdadeiro mestre",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Mentoria. Aprendizado. Filosofia.",
+  "palavras_chave": "houston discipulo aprendizado",
+  "edicao_id": 818,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 248,
+  "peso": 380,
+  "isbn": "9788560387595",
+  "editora": "Palavras",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Do alto de sua erudição e prática de mais de cinquenta anos como mentor espiritual, o Dr. Houston nos conduz a um mergulho investigativo pela história, filosofia e psicanálise revelando-nos onde estão as pedras preciosas que muito ajudarão (na condição de mentores, mentorados, ou simplesmente como cristãos) a nos reconstruirmos — não mais sobre a areia, mas sobre a rocha, como Jesus ensinou.</p> <p>O Dr. James Houston vem atuando como mentor há mais de cinquenta anos. Formado pelas Universidades de Edimburgo e de Oxford, ele lecionou na Universidade de Oxford por 25 anos.</p><p>“Ser ‘alguém’ ou ‘o outro’ sugere que a existência de alguém pressupõe a existência de um outro; que não é possível se pensar em um indivíduo sem que se pense em outro.”</p><p>Paul Ricoeur</p>",
+  "sinopse": "O livro 'O Discípulo' apresenta um convite em forma de mergulho investigativo sobre a essência do aprendizado sob a orientação do Dr. James Houston, que compartilha sua vasta experiência de mais de cinquenta anos como mentor. O autor destaca a importância de se reconstruir sobre fundamentos sólidos, inspirado nos ensinamentos de Jesus, ao passo que explora as travas de mentores e mentorados no caminho do conhecimento.",
+  "exemplar_id": 817,
+  "sku": "LI00M3",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/james-houston--o-disc-pulo--capa--20250227--152907.jpg",
+  "contracapa": "static/uploads/james-houston--o-disc-pulo--contracapa--20250227--152907.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:03:12",
+  "observacoes": null
+}

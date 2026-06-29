@@ -1,0 +1,68 @@
+{
+  "obra_id": 3508,
+  "autor": "Atsushi Ohkubo",
+  "titulo": "Fire Force",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Ação. Fantasia.",
+  "palavras_chave": "ohkubo fire force",
+  "edicao_id": 3485,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788542618273",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3484,
+  "sku": "LI02BB",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/fire-force__atsushi-ohkubo__capa__2025-11-05_16-16-03-376578.jpg",
+  "contracapa": "static/uploads/fire-force__atsushi-ohkubo__contracapa__2025-11-05_16-16-03-406715.jpg",
+  "fotos": [
+    "static/uploads/fire-force__atsushi-ohkubo__foto-01__2025-11-05_16-16-03-438011.jpg",
+    "static/uploads/fire-force__atsushi-ohkubo__foto-02__2025-11-05_16-16-03-464408.jpg",
+    "static/uploads/fire-force__atsushi-ohkubo__foto-03__2025-11-05_16-16-03-483068.jpg",
+    "static/uploads/fire-force__atsushi-ohkubo__foto-04__2025-11-05_16-16-03-506551.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:36:58",
+  "observacoes": null
+}

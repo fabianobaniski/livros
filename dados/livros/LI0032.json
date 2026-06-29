@@ -1,0 +1,68 @@
+{
+  "obra_id": 126,
+  "autor": "John Green; Maureen Johnson; Lauren Myracle",
+  "titulo": "Deixe a neve cair",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura juvenil. Amor. Natal.",
+  "palavras_chave": "green deixe neve cair",
+  "edicao_id": 124,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 335,
+  "peso": 350,
+  "isbn": "9788579801754",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Na noite de natal, uma inesperada tempestade de neve transforma uma pequena cidade num inusitado refúgio romântico, do tipo que se vê apenas em filmes. Bem, mais ou menos. Porque ficar presa a noite dentro de um trem retido pela nevasca no meio do nada, apostar corrida com os amigos no frio congelante até a lanchonete mais próxima ou lidar sozinha com a tristeza da perda do namorado ideal não seriam momentos considerados românticos para quem espera encontrar o verdadeiro amor. Mas os autores bestsellers John Green, Maureen Johnson e Lauren Myracle revelam a surpreendente magia do Natal nestes três hilários e encantadores contos de amor, interligados, com direito a romances, aventuras e beijos de tirar o fôlego.</p>",
+  "sinopse": "Na noite de Natal, uma tempestade de neve surpreende os jovens de uma pequena cidade, transformando suas rotinas e criando situações inusitadas. Entre correrias, desentendimentos e reflexões sobre o amor, eles buscam momentos românticos em meio ao caos. Os autores John Green, Maureen Johnson e Lauren Myracle apresentam contos interligados que capturam a magia do Natal com humor e emoção.",
+  "exemplar_id": 123,
+  "sku": "LI0032",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/john-green--deixe-a-neve-cair--capa--20250226--133755.jpg",
+  "contracapa": "static/uploads/john-green--deixe-a-neve-cair--contracapa--20250226--133755.jpg",
+  "fotos": [
+    "static/uploads/john-green--deixe-a-neve-cair--foto1--20250226--133755.jpg",
+    "static/uploads/john-green--deixe-a-neve-cair--foto2--20250226--133755.jpg",
+    "static/uploads/john-green--deixe-a-neve-cair--foto3--20250226--133755.jpg",
+    "static/uploads/john-green--deixe-a-neve-cair--foto4--20250226--133755.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:36:40",
+  "observacoes": null
+}

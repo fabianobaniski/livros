@@ -1,0 +1,67 @@
+{
+  "obra_id": 5901,
+  "autor": "Ellen G. White",
+  "titulo": "Conselhos sobre educação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white conselhos sobre educacao",
+  "edicao_id": 5876,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 283,
+  "peso": 365,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 3,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5875,
+  "sku": "LI0391",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/ellen-g-white--conselhos-sobre-educacao--capa--20260306--095005.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--conselhos-sobre-educacao--foto1--20260306--095012.jpg",
+    "static/uploads/ellen-g-white--conselhos-sobre-educacao--foto2--20260306--095012.jpg",
+    "static/uploads/ellen-g-white--conselhos-sobre-educacao--foto3--20260306--095116.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Texto livre de anotações, sublinhados, carimbos, etc. Sem marcas de umidade, mofo, traça. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:00:59",
+  "observacoes": null
+}

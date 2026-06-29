@@ -1,0 +1,63 @@
+{
+  "obra_id": 971,
+  "autor": "Daisy Mutti; Lizete Chaves",
+  "titulo": "Casa de Axé",
+  "subtitulo": "Lições da Umbanda",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Umbanda. Abuso religioso.",
+  "palavras_chave": "mutti casa axé umbanda",
+  "edicao_id": 956,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 136,
+  "peso": 280,
+  "isbn": "9788552706111",
+  "editora": "Legião",
+  "numero_edicao": 2,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro é um grito de alerta a todos que queiram se integrar na religião, traz à luz fatos e situações que ocorrem nos terreiros por este Brasil afora, cujos representantes desonram e mancham a bandeira da Umbanda. Em cada capítulo, o leitor encontrará uma história real de percalços na forma de contos. Os nomes são fictícios, mas o abuso religioso e as dificuldades experimentadas pelos médiuns na busca de um terreiro para trabalhar, esbarrando em dirigentes que não exercitam os bons costumes, não são fantasia e acontecem com mais frequência do que imaginamos. Numa segunda parte de cada trama, compartilharemos nossa visão dos fatos, na forma de perguntas e respostas. Seguimos a vertente do Caboclo das Sete Encruzilhadas e por hipótese nenhuma queremos passar por donas da verdade, mas sim repassar o conhecimento adquirido em estudos, leituras e vivências de terreiro, com o pé no chão que completa uma década. Nosso intuito neste segundo livro é clarear as mentes e adverti-las quanto à esperteza de muitos sacerdotes que se dizem umbandistas, mas que na verdade são aéticos, e induzir o leitor a confrontar, indagar e não aceitar situações que ponham em risco sua pessoa e seu caráter, ajudando-o a percorrer caminhos mais saudáveis e harmônicos.</p>",
+  "sinopse": "O livro 'Casa de Axé' é um alerta para quem deseja se integrar à religião da Umbanda, expondo fatos reais e desafios enfrentados nos terreiros. Com uma narrativa que combina contos fictícios e histórias verdadeiras, as autoras abordam o abuso religioso e as dificuldades na busca por um espaço espiritual adequado. O texto também inclui uma seção de perguntas e respostas, oferecendo uma visão crítica ao leitor, promovendo a reflexão e a necessidade de discernimento nas práticas umbandistas.",
+  "exemplar_id": 955,
+  "sku": "LI00PT",
+  "preco_estante_virtual": 29.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/daisy-mutti--casa-de--ax---capa--20250227--152917.jpg",
+  "contracapa": "static/uploads/daisy-mutti--casa-de--ax---contracapa--20250227--152917.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:16:25",
+  "observacoes": null
+}

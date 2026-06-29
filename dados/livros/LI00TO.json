@@ -1,0 +1,68 @@
+{
+  "obra_id": 1400,
+  "autor": "Mary Shelley",
+  "titulo": "Frankenstein",
+  "subtitulo": "Deluxe edition",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "shelley frankenstein",
+  "edicao_id": 1382,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 299,
+  "peso": 450,
+  "isbn": "9788594540188",
+  "editora": "Darkside",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "Medo Clássico",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra narra a história de Victor Frankenstein, um cientista obcecado que desafia as leis da natureza ao criar uma criatura quase humana. Esta, por sua vez, busca aceitação, mas encontra apenas medo, ódio e morte em seu caminho. Esta edição especial da DarkSide Books comemora os duzentos anos da obra, apresentando capa dura, tradução primorosa, ilustrações inéditas do artista brasileiro Pedro Franz e quatro contos extras que exploram temas semelhantes aos do romance. ",
+  "exemplar_id": 1381,
+  "sku": "LI00TO",
+  "preco_estante_virtual": 65.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/mary-shelley--frankenstein--capa--20250401--115340.jpg",
+  "contracapa": "static/uploads/mary-shelley--frankenstein--contracapa--20250401--115340.jpg",
+  "fotos": [
+    "static/uploads/mary-shelley--frankenstein--foto1--20250401--115340.jpg",
+    "static/uploads/mary-shelley--frankenstein--foto2--20250401--115340.jpg",
+    "static/uploads/mary-shelley--frankenstein--foto3--20250401--115340.jpg",
+    "static/uploads/mary-shelley--frankenstein--foto4--20250401--115340.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:13:25",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 285,
+  "autor": "Geneen Roth",
+  "titulo": "Mulheres comida & deus",
+  "subtitulo": "Uma estratégia inspiradora para quase tudo na vida",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Comportamento. Emocional. Alimentação.",
+  "palavras_chave": "roth mulheres comida deus",
+  "edicao_id": 279,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 280,
+  "isbn": "9788563066183",
+  "editora": "Lua de Papel",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Por que todas as nossas emoções se relacionam com o que comemos?</h1><p>Ansiedade, alegria, tristeza, excitação, hesitação, amor ou a falta dele. A comida não é apenas uma consequência; é também a origem de nossas emoções.</p><p>Esta obra mostra como aquilo que comemos e como nos relacionamos com a comida estão intrinsecamente ligadas à maneira como nos sentimos e vemos a nós mesmos. De maneira inédite, a autora traça a relação entre nossos sentimentos não ditos e situações mal resolvidas no passado, com a comida. Afinal, só deveríamos comer o que temos vontade e quando estamos com fome, de mesma maneira que, quando não estamos com fome, devemos apenas nos permitir sentir o que realmente estamos sentindo, ao invés de atacar a geladeira.</p><p>Esconder nossos sentimentos na comida não é a solução dos nossos problemas.</p><p>A proposta de Geneen Roth nesta obra é mostrar às leitoras que as mudanças que ocorreram em nossos corpos, causadas pelo efeito de engordar-emagrecer, não simbolizam as mudanças reais em nossas vidas. Muito pelo contrário, a compulsão por comer ou a simples falta de vontade de comer escondem problemas que precisamos resolver. Terminar isso é assumir o controle desses sentimentos e tanto libertador quanto capaz de harmonizar cada pessoa com seus próprios sentimentos e elevar sua autoestima.</p><p>Com um texto envolvente, objetivo e muitas vezes divertido, Mulheres, Comida e Deus baseia-se em casos reais e mostra que a comida está longe de ser o único prazer verdadeiro em nossas vidas.</p>",
+  "sinopse": "Mulheres, Comida & Deus oferece uma visão expandida sobre a relação intrínseca entre nossas emoções e o que comemos. Com base em casos reais, Geneen Roth revela como nossos sentimentos não ditos podem levar a comportamentos alimentares compulsivos, mostrando que esconder esses sentimentos na comida não é a solução. Ao invés disso, a autora propõe um caminho para entender e lidar com essas emoções, permitindo aos leitores harmonizar sua relação com a comida e elevar sua autoestima.",
+  "exemplar_id": 278,
+  "sku": "LI007A",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/geneen-roth--mulheres-comida---deus--capa--20250226--133815.jpg",
+  "contracapa": "static/uploads/geneen-roth--mulheres-comida---deus--contracapa--20250226--133815.jpg",
+  "fotos": [
+    "static/uploads/geneen-roth--mulheres-comida---deus--foto1--20250226--133815.jpg",
+    "static/uploads/geneen-roth--mulheres-comida---deus--foto2--20250226--133815.jpg",
+    "static/uploads/geneen-roth--mulheres-comida---deus--foto3--20250226--133815.jpg",
+    "static/uploads/geneen-roth--mulheres-comida---deus--foto4--20250226--133815.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto com alguns grifos à lápis, sobretudo nas primeiras folhas. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:10:45",
+  "observacoes": null
+}

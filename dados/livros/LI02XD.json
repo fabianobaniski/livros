@@ -1,0 +1,63 @@
+{
+  "obra_id": 5257,
+  "autor": "Satoru Noda",
+  "titulo": "Golden Kamuy",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Tesouro. Sobrevivência.",
+  "palavras_chave": "noda golden kamuy",
+  "edicao_id": 5232,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 230,
+  "isbn": "9788542622546",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Sugimoto, o Imortal, e a menina ainu, Ashirpa, estão em busca de um tesouro roubado. Ambos vão enfrentar a natureza hostil e selvagem de Hokkaido, os fugitivos tatuados do Presídio de Abashiri, e a experiente Sétima Divisão de Infantaria do Exército Imperial – além dos poderosos e temíveis ursos pardos!!! A chama da vida queima em meio ao inverno gélido! Eis o segundo volume: o embate pela sobrevivência e a perseguição implacável pelo ouro escondido continua!</p>",
+  "sinopse": "Sugimoto, conhecido como o Imortal, e a jovem ainu Ashirpa estão em busca de um tesouro escondido. Enfrentando a natureza selvagem de Hokkaido, os fugitivos de Abashiri, a Sétima Divisão do Exército Imperial e ursos temíveis, eles lutam pela sobrevivência enquanto perseguem incansavelmente o ouro roubado.",
+  "exemplar_id": 5231,
+  "sku": "LI02XD",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/golden-kamuy__satoru-noda__capa__2026-02-20_10-32-57-906454-000.png",
+  "contracapa": "static/uploads/golden-kamuy__satoru-noda__contracapa__2026-02-20_10-32-58-035250-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. / OBS.: Exemplar saiu da editora com a lombada um pouco rígida, o que dificulta um pouquinho folhear as páginas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

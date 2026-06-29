@@ -1,0 +1,63 @@
+{
+  "obra_id": 2983,
+  "autor": "Alison Blair; Jane Cadwallader",
+  "titulo": "Zig-zag magic",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "cadwallader zigzag magic",
+  "edicao_id": 2963,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 80,
+  "peso": 150,
+  "isbn": "9780194328760",
+  "editora": "Oxford University Press",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A starter course for the very young that introduces English through play.",
+  "exemplar_id": 2962,
+  "sku": "LI01WV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/zigzag-magic-alison-blair--jane-cadwallader-capa_rev109.jpg",
+  "contracapa": "static/uploads/zigzag-magic-alison-blair--jane-cadwallader-contracapa_rev356.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso. Ilustrações em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 17:16:26",
+  "observacoes": null
+}

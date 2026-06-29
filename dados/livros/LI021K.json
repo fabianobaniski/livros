@@ -1,0 +1,68 @@
+{
+  "obra_id": 3152,
+  "autor": "Edward Lasker",
+  "titulo": "Xeque-mate: O raciocínio em xeque",
+  "subtitulo": "A aventura do xadrez",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "lasker xequemate raciocinio xeque",
+  "edicao_id": 3132,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 320,
+  "peso": 500,
+  "isbn": "",
+  "editora": "Theor",
+  "numero_edicao": null,
+  "ano": 1973,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro é uma obra abrangente sobre a história e a evolução do xadrez. A primeira parte cobre desde suas origens na Índia e sua disseminação pelo Oriente e Europa, até seu desenvolvimento sob domínio muçulmano. Discute figuras importantes como Alexandre Alekhine, Emanuel Lasker e José Raul Capablanca, além de explorar o impacto do xadrez na literatura e nas artes. A segunda parte detalha técnicas, estratégias e momentos notáveis do jogo, com análises de partidas célebres e contribuições de mestres renomados.",
+  "exemplar_id": 3131,
+  "sku": "LI021K",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/edward-lasker--a-aventura-do-xadrez--capa--20251021--103356.png",
+  "contracapa": "static/uploads/edward-lasker--a-aventura-do-xadrez--contracapa--20251021--103403.png",
+  "fotos": [
+    "static/uploads/edward-lasker--a-aventura-do-xadrez--foto1--20251021--103412.jpg",
+    "static/uploads/edward-lasker--a-aventura-do-xadrez--foto2--20251021--103412.jpg",
+    "static/uploads/edward-lasker--a-aventura-do-xadrez--foto3--20251021--103412.jpg",
+    "static/uploads/edward-lasker--a-aventura-do-xadrez--foto4--20251021--103412.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição capa dura. Bastante amarelado pela passagem das décadas, mas, no geral, em bom estado. Lombada levemente inclinada à direita. Dourado das letras da capa desgastado. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:07:27",
+  "observacoes": null
+}

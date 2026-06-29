@@ -1,0 +1,63 @@
+{
+  "obra_id": 487,
+  "autor": "N. Lawrence Olson",
+  "titulo": "O plano divino através dos séculos",
+  "subtitulo": "As dispensações que Deus estabeleceu para Israel, à Igreja e para o mundo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Cristianismo.",
+  "palavras_chave": "olson plano divino",
+  "edicao_id": 472,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 231,
+  "peso": 350,
+  "isbn": "8526301306",
+  "editora": "CPAD",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conhecendo o plano divino através dos séculos, você jamais será surpreendido pelas coisas tremendas que estão prestes a acontecer. Veja como você pode inserir-se neste maravilhoso plano.</p> <p>O Autor</p> <p>O missionário N. Lawrence Olson, que já descansa no Senhor, prestou relevantes serviços à obra de Deus no Brasil. Além da igreja que fundou na cidade de Lavras (MG), dirigiu por quase três décadas o programa radiofônico A Voz das Assembléias de Deus, e foi o fundador do Instituto Bíblico Pentecostal, no Rio de Janeiro. Deixou também muitos artigos e livros escritos, e não poucas lições bíblicas comentadas.</p>",
+  "sinopse": "O livro explora o plano divino ao longo da história, oferecendo uma visão abrangente das dispensações que Deus estabeleceu para Israel, a Igreja e o mundo. Ao se aprofundar nesse conhecimento, o leitor será preparado para não ser surpreendido pelos eventos futuros, além de aprender como participar deste plano maravilhoso.",
+  "exemplar_id": 471,
+  "sku": "LI00CI",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/n--lawrence-olson--o-plano-divino--capa--20250227--111545.jpg",
+  "contracapa": "static/uploads/n--lawrence-olson--o-plano-divino--contracapa--20250227--111545.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:35:11",
+  "observacoes": null
+}

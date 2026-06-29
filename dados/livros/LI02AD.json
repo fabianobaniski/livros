@@ -1,0 +1,68 @@
+{
+  "obra_id": 3474,
+  "autor": "Nakaba Suzuki",
+  "titulo": "The Seven Deadly Sins",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Fantasia. Aventura.",
+  "palavras_chave": "suzuki seven deadly sins",
+  "edicao_id": 3451,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 170,
+  "isbn": "9788545700265",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Nanatsu no Taizai",
+  "volume": 4,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3450,
+  "sku": "LI02AD",
+  "preco_estante_virtual": 90.0,
+  "preco_amazon": 90.0,
+  "capa": "static/uploads/the-seven-deadly-sins__nakaba-suzuki__capa__2025-11-05_16-15-41-691984.jpg",
+  "contracapa": "static/uploads/the-seven-deadly-sins__nakaba-suzuki__contracapa__2025-11-05_16-15-41-919721.jpg",
+  "fotos": [
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-01__2025-11-05_16-15-41-955201.jpg",
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-02__2025-11-05_16-15-41-982465.jpg",
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-03__2025-11-05_16-15-42-002394.jpg",
+    "static/uploads/the-seven-deadly-sins__nakaba-suzuki__foto-04__2025-11-05_16-15-42-025885.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:04:22",
+  "observacoes": null
+}

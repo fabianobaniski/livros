@@ -1,0 +1,63 @@
+{
+  "obra_id": 2793,
+  "autor": "Jacob Needleman",
+  "titulo": "O pequeno livro do tempo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "needleman pequeno livro tempo",
+  "edicao_id": 2773,
+  "encadernacao": null,
+  "quantidade_paginas": 155,
+  "peso": 300,
+  "isbn": "9789725300459",
+  "editora": "Bizâncio",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O tempo, cada vez mais escasso na modernidade, é o foco desta obra que nos convida a repensar nossa relação com ele. Jacob Needleman explora como podemos nos libertar das ilusões sobre o tempo, revelando que é possível vivê-lo de maneira consciente e plena. Inspirado em sabedorias poéticas, filosóficas e religiosas, o livro propõe práticas para reconhecer nosso relógio interior, desvendar o passado emocional e viver sem a obsessão pelo futuro.",
+  "exemplar_id": 2772,
+  "sku": "LI01RL",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/o-pequeno-livro-do-tempo-jacob-needleman-capa_rev1911.jpg",
+  "contracapa": "static/uploads/o-pequeno-livro-do-tempo-jacob-needleman-contracapa_rev1538.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora com leves sinais deixados pelo uso. Miolo firme, sem folhas soltas; texto livre de anotações e sublinhados. Há pequeno carimbo de livraria na primeira folha e assinatura à caneta deixado por ex-dono na parte interna da capa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:35:47",
+  "observacoes": null
+}

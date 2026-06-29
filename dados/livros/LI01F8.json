@@ -1,0 +1,63 @@
+{
+  "obra_id": 2347,
+  "autor": "Alcioly Therezinha Gruber de Abreu",
+  "titulo": "A Posse e o Uso da Terra",
+  "subtitulo": "Modernização Agropecuária de Guarapuava",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "abreu posse uso terra",
+  "edicao_id": 2327,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 282,
+  "peso": 580,
+  "isbn": "",
+  "editora": "Estado do Paraná",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Foca na história e no desenvolvimento da região de Guarapuava, uma das áreas mais representativas do estado. A autora explora as continuidades e descontinuidades da evolução regional desde a conquista da terra até sua integração na modernidade brasileira. O trabalho se concentra nas relações sociais e culturais da comunidade guarapuavana, enfatizando a posse e o uso da terra como elementos fundamentais. A pesquisa também destaca o Paraná como um estado composto por múltiplas regiões humanas, que foram moldadas não apenas por suas características geográficas, mas principalmente pelas atividades e modos de vida estabelecido.",
+  "exemplar_id": 2326,
+  "sku": "LI01F8",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/alcioly-therezinha-gruber-de-abreu--a-posse-e-o-uso-da-terra--capa--20260316--152847.jpg",
+  "contracapa": "static/uploads/alcioly-therezinha-gruber-de-abreu--a-posse-e-o-uso-da-terra--contracapa--20260316--152853.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:40:13",
+  "observacoes": null
+}

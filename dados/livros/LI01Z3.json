@@ -1,0 +1,68 @@
+{
+  "obra_id": 3063,
+  "autor": "Maurício Cardoso",
+  "titulo": "100 anos de olimpíadas",
+  "subtitulo": "De Atenas a Atlanta",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "100 anos de olimpiadas cardoso",
+  "edicao_id": 3043,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 376,
+  "peso": 400,
+  "isbn": "9788573200362",
+  "editora": "Scritta",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3042,
+  "sku": "LI01Z3",
+  "preco_estante_virtual": 11.0,
+  "preco_amazon": 11.0,
+  "capa": "static/uploads/mauricio-cardoso--100-anos-de-olimpiadas--capa--20251020--203209.png",
+  "contracapa": "static/uploads/mauricio-cardoso--100-anos-de-olimpiadas--contracapa--20251020--203217.png",
+  "fotos": [
+    "static/uploads/mauricio-cardoso--100-anos-de-olimpiadas--foto1--20251020--202622.jpg",
+    "static/uploads/mauricio-cardoso--100-anos-de-olimpiadas--foto2--20251020--202622.jpg",
+    "static/uploads/mauricio-cardoso--100-anos-de-olimpiadas--foto3--20251020--202622.jpg",
+    "static/uploads/mauricio-cardoso--100-anos-de-olimpiadas--foto4--20251020--202622.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro grande, ilustrado, em bom estado, embora um pouco amarelado pelo tempo. Livre de anotações, sublinhados, marcas de umidade, mofo e traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:34:06",
+  "observacoes": null
+}

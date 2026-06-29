@@ -1,0 +1,68 @@
+{
+  "obra_id": 2188,
+  "autor": "Nelson Palaia",
+  "titulo": "Noções essenciais de Direito",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Conceitos jurídicos. Direito Civil. Direito Comercial. Direito do Trabalho. Direito Tributário. Direitos Autorais. Comércio Eletrônico.",
+  "palavras_chave": "palaia nocoes essenciais direito",
+  "edicao_id": 2168,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 297,
+  "peso": 515,
+  "isbn": "9788502044050",
+  "editora": "Saraiva",
+  "numero_edicao": 3,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Direito resguarda, defende, ampara, protege e serve o indivíduo em todos os momentos. Ele regula as relações dos indivíduos em sociedade, se apossando do sujeito e o mantém sob proteção, mas o considera parte da sociedade, até porque Direito e sociedade se pressupõem.</p><p>É com essa abordagem que a obra <b>Noções Essenciais de Direito</b> apresenta os principais fundamentos da área jurídica. Apresentado em uma linguagem simples e de fácil entendimento, o livro traz os principais conceitos de doutrina das áreas de Direito Civil, Comercial, do Trabalho e Tributário, além de temas recentes como Direitos Autorais e Comércio Eletrônico.</p><p>Seu texto objetivo faz com que mesmo os assuntos mais complexos sejam facilmente compreendidos.</p><p>A grande quantidade de exemplos que ilustram o que foi estudado torna-se uma importante ferramenta para o entendimento da doutrina, possibilitando sua aplicação prática.</p><p><b>Aplicação:</b> Este livro pode ser utilizado nos cursos de Direito, Administração, Economia, Contabilidade, Comunicação, entre outros, nas disciplinas de Introdução ao Direito, Instituições de Direito e Lei das S.A.</p>",
+  "sinopse": "Noções Essenciais de Direito apresenta os principais fundamentos da área jurídica de maneira clara e acessível. Abrange conceitos doutrinários de Direito Civil, Comercial, do Trabalho e Tributário, além de temas atuais como Direitos Autorais e Comércio Eletrônico. Com grande quantidade de exemplos e linguagem simples, o livro facilita o entendimento mesmo dos assuntos mais complexos e possibilita aplicação prática, sendo recomendado para cursos de Direito, Administração, Economia, Comunicação e áreas afins.",
+  "exemplar_id": 2167,
+  "sku": "LI01AT",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/nelson-palaia--no--es-essenciais-de-direito--capa--20250430--105054.jpg",
+  "contracapa": "static/uploads/nelson-palaia--no--es-essenciais-de-direito--contracapa--20250430--105054.jpg",
+  "fotos": [
+    "static/uploads/nelson-palaia--no--es-essenciais-de-direito--foto1--20250430--105054.jpg",
+    "static/uploads/nelson-palaia--no--es-essenciais-de-direito--foto2--20250430--105054.jpg",
+    "static/uploads/nelson-palaia--no--es-essenciais-de-direito--foto3--20250430--105054.jpg",
+    "static/uploads/nelson-palaia--no--es-essenciais-de-direito--foto4--20250430--105054.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:21:14",
+  "observacoes": "procedencia_biblioteca"
+}

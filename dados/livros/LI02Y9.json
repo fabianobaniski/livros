@@ -1,0 +1,63 @@
+{
+  "obra_id": 5512,
+  "autor": "Kohei Horikoshi",
+  "titulo": "My Hero Academia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Superpoderes. Justiça.",
+  "palavras_chave": "horikoshi hero academia",
+  "edicao_id": 5487,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 182,
+  "peso": 200,
+  "isbn": "9788545701958",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>\"Dons\"—nome para os superpoderes que muitos humanos possuem. Mas nem sempre esses poderes são usados em prol da justiça... E se existe o mal que não pode ser ignorado, nós, heróis, estamos aqui para combatê-lo! </p><p>Hum? Quer saber quem eu sou? <b>Ha, ha, ha, ha, ha, ha!</b> Muito bem, jovem! O seu sonho, e só o seu, começa aqui! Corra em linha reta e a todo vapor em direção a ele! \"Plus Ultra\"!!</p>",
+  "sinopse": "Dons são os superpoderes que muitos humanos possuem, mas nem sempre são usados pela justiça. Quando o mal não pode ser ignorado, os heróis aparecem para combatê-lo. Um chamado vibrante para seguir seus sonhos e correr em direção a eles com determinação: Plus Ultra!",
+  "exemplar_id": 5486,
+  "sku": "LI02Y9",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/my-hero-academia__kohei-horikoshi__capa__2026-02-24_13-36-21-690231-000.png",
+  "contracapa": "static/uploads/my-hero-academia__kohei-horikoshi__contracapa__2026-02-24_13-36-21-739760-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

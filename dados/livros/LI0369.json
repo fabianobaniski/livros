@@ -1,0 +1,68 @@
+{
+  "obra_id": 5800,
+  "autor": "União Marista do Brasil",
+  "titulo": "Caminho da educação e amadurecimento na fé",
+  "subtitulo": "A mística da Pastoral Juvenil Marista",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Educação religiosa. Pastoral Juvenil Marista.",
+  "palavras_chave": "macaneiro caminho educacao amadurecimento",
+  "edicao_id": 5775,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 280,
+  "isbn": "9788532268297",
+  "editora": "União Marista do Brasil",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O documento é acima de tudo evangélico. A redação revela anos de experiência, reflexão e zelo. Soube acolher o Evangelho em campo pedagógico. <br>É um texto de sensibilidade antropológica: respeita os sujeitos, comunica valores, acolhe a pluralidade, admite crises – e o que é muito importante – traduz o sentido que toda vida humana tem. Outro valor é o traço pedagógico, quando conduz, acompanha o jovem nos passos de Jesus e de Marcelino: a leitura lado a lado dos lugares evangélicos com aqueles maristas não é paralelo forçado, nem artificial, mas uma interface providencial – histórica e carismática – que a Providência lhes deu e vocês descobriram. Que este projeto inspire muitas vidas.</p><p><b>Pe. Marcial Maçaneiro, SCJ</b></p><p>O jovem vive a epopeia do êxodo. Da saída de si. Um dos desafios que se apresenta, e não só, é também a descoberta da fé, porque ela não é só dom. Ela se reveste da busca de sentido. Por isso, se educador precisa lançar perspectivas maiores do que as realidades fragmentadas. Este texto sobre educação na fé lança para a descoberta do que realmente somos quando formos capazes de respeitar, em nós, o mistério. Vamos ver que se trata da mística de um processo que nos alegra de modo inexplicável.</p><p><b>Pe. Hilário Dick, SJ</b></p><p><i>Obra editada segundo as regras do novo acordo ortográfico da Língua Portuguesa</i></p>",
+  "sinopse": "Esta obra reúne reflexões sobre o amadurecimento da fé e a pedagogia evangélica, fundamentada em anos de experiência pastoral e sensibilidade antropológica. O texto propõe um caminho de acompanhamento juvenil inspirado por valores éticos e pelo exemplo de Jesus e Marcelino, acolhendo pluralidade, crises e a busca de sentido. Convida educadores e jovens à descoberta da fé autêntica como processo vital, celebrando a mística e o mistério presentes na caminhada da Pastoral Juvenil Marista.",
+  "exemplar_id": 5774,
+  "sku": "LI0369",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/caminho-da-educacao-e-amadurecimento-na-fe__a-mistica-da-pastoral-juvenil-marista__pe-marcial-macaneiro-pe-hilario-dick__capa__2026-01-18_14-11-53-959717-000.png",
+  "contracapa": "static/uploads/caminho-da-educacao-e-amadurecimento-na-fe__a-mistica-da-pastoral-juvenil-marista__pe-marcial-macaneiro-pe-hilario-dick__contracapa__2026-01-18_14-11-53-979795-001.png",
+  "fotos": [
+    "static/uploads/caminho-da-educacao-e-amadurecimento-na-fe__a-mistica-da-pastoral-juvenil-marista__pe-marcial-macaneiro-pe-hilario-dick__foto-01__2026-01-18_14-11-53-993215-002.jpg",
+    "static/uploads/caminho-da-educacao-e-amadurecimento-na-fe__a-mistica-da-pastoral-juvenil-marista__pe-marcial-macaneiro-pe-hilario-dick__foto-02__2026-01-18_14-11-54-026052-003.jpg",
+    "static/uploads/caminho-da-educacao-e-amadurecimento-na-fe__a-mistica-da-pastoral-juvenil-marista__pe-marcial-macaneiro-pe-hilario-dick__foto-03__2026-01-18_14-11-54-060029-004.jpg",
+    "static/uploads/caminho-da-educacao-e-amadurecimento-na-fe__a-mistica-da-pastoral-juvenil-marista__pe-marcial-macaneiro-pe-hilario-dick__foto-04__2026-01-18_14-11-54-100132-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:01:48",
+  "observacoes": "procedencia_biblioteca"
+}

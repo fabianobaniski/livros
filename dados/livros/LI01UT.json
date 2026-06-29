@@ -1,0 +1,63 @@
+{
+  "obra_id": 2909,
+  "autor": "Rafael Ferreira Vianna",
+  "titulo": "Sobre crime, processo, pena e desculpa",
+  "subtitulo": "Ensaios reunidos",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "",
+  "palavras_chave": "vianna sobre crime processo",
+  "edicao_id": 2889,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 300,
+  "isbn": "9788565271271",
+  "editora": "Blanche",
+  "numero_edicao": 1,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Os ensaios presentes neste livro trazem reflexões sobre temas fundamentais do direito criminal e sua aplicação prática. O autor explora questões como a responsabilidade penal, a criminologia experimental, o papel do juiz no processo penal e as nuances na aplicação de penas. A segurança pública também é abordada, oferecendo soluções para o combate à criminalidade. Além disso, há uma análise crítica sobre o conceito de terrorismo e seu impacto no Direito Internacional, convidando o leitor a refletir sobre os desafios jurídicos contemporâneos.",
+  "exemplar_id": 2888,
+  "sku": "LI01UT",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/sobre-crime-processo-pena-e-desculpa-rafael-ferreira-vianna-capa_rev1737.jpg",
+  "contracapa": "static/uploads/sobre-crime-processo-pena-e-desculpa-rafael-ferreira-vianna-contracapa_rev1134.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:33:10",
+  "observacoes": null
+}

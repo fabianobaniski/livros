@@ -1,0 +1,63 @@
+{
+  "obra_id": 3080,
+  "autor": "Monteiro Lobato",
+  "titulo": "Aritmética da Emília",
+  "subtitulo": "Edição Comentada",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": null,
+  "palavras_chave": "lobato aritmetica emilia edicao",
+  "edicao_id": 3060,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 126,
+  "peso": 400,
+  "isbn": "9788525045942",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Depois da viagem para o País da Gramática, agora a Turma do Sítio do Picapau Amarelo recebe a visita dos artistas do País da Aritmética que desembarcam no Sítio e se apresentam num circo organizado pelo Visconde. O escritor Monteiro Lobato transforma de modo inteligente temas como divisão, subtração, frações e outras operações, em pura diversão. O livro, escrito em 1935, ganha sua edição comentada, pois apesar da matemática continuar a mesma, o método ensinado nas escolas sofreu mudanças. Esta nova edição da Aritmética da Emília está de acordo com a nova ortografia da Língua Portuguesa.",
+  "exemplar_id": 3059,
+  "sku": "LI01ZK",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, sem anotações ou sublinhados. Miolo em excelentes condições. Houve, contudo, colagem das orelhas à parte interna da capa e contracapa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:53:56",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

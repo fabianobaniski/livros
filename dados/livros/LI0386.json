@@ -1,0 +1,68 @@
+{
+  "obra_id": 5870,
+  "autor": "Yolanda Lôbo",
+  "titulo": "Cecília Meireles",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Biografia. Educação. Literatura brasileira.",
+  "palavras_chave": "lobo cecilia meireles",
+  "edicao_id": 5845,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 220,
+  "isbn": "9788570194763",
+  "editora": "Massangana",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "Coleção Educadores MEC",
+  "volume": null,
+  "transcricao_contracapa": "<p>Coleção EDUCADORES MEC</p><p>Alceu Amoroso Lima | Almeida Júnior | Anísio Teixeira<br>Aparecida Joly Gouveia | Armanda Álvaro Alberto | Azeredo Coutinho<br>Bertha Lutz | Cecília Meireles | Celso Suckow da Fonseca | Darcy Ribeiro<br>Durmeval Trigueiro Mendes | Fernando de Azevedo<br>Florestan Fernandes | Frota Pessoa | Gilberto Freyre<br>Gustavo Capanema | Heitor Villa-Lobos<br>Helena Antipoff | Humberto Mauro | José Mário Pires Azanha<br>Julio de Mesquita Filho | Lourenço Filho | Manoel Bomfim<br>Manuel da Nóbrega | Nísia Floresta | Paschoal Lemme | Paulo Freire<br>Roquette-Pinto | Rui Barbosa | Sampaio Dória | Valnir Chagas</p><p>Alfred Binet | Andrés Bello<br>Anton Makarenko | Antonio Gramsci<br>Bogdan Suchodolski | Carl Rogers | Célestin Freinet<br>Domingo Sarmiento | Édouard Claparède | Émile Durkheim<br>Frederic Skinner | Friedrich Fröbel | Friedrich Hegel<br>Georg Kerschensteiner | Henri Wallon | Ivan Illich<br>Jan Amos Comênio | Jean Piaget | Jean-Jacques Rousseau<br>Jean-Ovide Decroly | Johann Herbart<br>Johann Pestalozzi | John Dewey | José Martí | Lev Vygotsky<br>Maria Montessori | Ortega y Gasset<br>Pedro Varela | Roger Cousinet | Sigmund Freud</p>",
+  "sinopse": "Esta obra faz parte da Coleção Educadores MEC e apresenta o perfil e a trajetória de Cecília Meireles, destacando sua relevância no cenário educacional e cultural brasileiro. O livro integra uma coletânea que homenageia nomes de destaque na educação e no pensamento pedagógico, tanto no Brasil quanto internacionalmente.",
+  "exemplar_id": 5844,
+  "sku": "LI0386",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/cecilia-meireles__none__yolanda-lobo__capa__2026-01-18_14-12-48-642973-000.png",
+  "contracapa": "static/uploads/cecilia-meireles__none__yolanda-lobo__contracapa__2026-01-18_14-12-48-670616-001.png",
+  "fotos": [
+    "static/uploads/cecilia-meireles__none__yolanda-lobo__foto-01__2026-01-18_14-12-48-759177-002.jpg",
+    "static/uploads/cecilia-meireles__none__yolanda-lobo__foto-02__2026-01-18_14-12-48-797616-003.jpg",
+    "static/uploads/cecilia-meireles__none__yolanda-lobo__foto-03__2026-01-18_14-12-48-826469-004.jpg",
+    "static/uploads/cecilia-meireles__none__yolanda-lobo__foto-04__2026-01-18_14-12-48-862003-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:32:56",
+  "observacoes": null
+}

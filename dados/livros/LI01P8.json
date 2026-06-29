@@ -1,0 +1,63 @@
+{
+  "obra_id": 2708,
+  "autor": "Marce Rodríguez; Mariola Cubells",
+  "titulo": "Mis padres no lo saben",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Sexualidade",
+  "temas": "",
+  "palavras_chave": "rodriguez mis padres saben",
+  "edicao_id": 2688,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 244,
+  "peso": 300,
+  "isbn": "9788401379994",
+  "editora": "Plaza & Janes Editories Sa",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Marce Rodríguez e Mariola Cubells reúnem mais de trinta depoimentos reais, retratando a luta de muitos gays na Espanha em busca de reconhecimento e igualdade, especialmente no contexto da aprovação do casamento homossexual em 2005. Os relatos, carregados de emoção, revelam histórias de vida e morte, aceitação e rejeição, oferecendo um olhar profundo sobre as barreiras ainda enfrentadas por essas pessoas. Com uma narrativa jornalística e tocante, a obra é uma celebração da tolerância e uma reflexão sobre os desafios de uma sociedade que, embora pareça aberta, ainda tem muito a avançar.",
+  "exemplar_id": 2687,
+  "sku": "LI01P8",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/mis-padres-no-lo-saben-marce-rodriguez-capa_rev2133.jpg",
+  "contracapa": "static/uploads/mis-padres-no-lo-saben-marce-rodriguez-contracapa_rev1322.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:03:53",
+  "observacoes": null
+}

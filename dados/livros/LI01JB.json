@@ -1,0 +1,63 @@
+{
+  "obra_id": 2495,
+  "autor": "Madlyn Millner Kahr",
+  "titulo": "Dutch painting in the seventeenth century",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "kahr dutch painting the",
+  "edicao_id": 2475,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 326,
+  "peso": 600,
+  "isbn": "9780367094928",
+  "editora": "Icon Edition",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Kahr oferece uma análise abrangente da era dourada da pintura holandesa. Esta nova edição revisada explora o contexto histórico e artístico da época, destacando o desenvolvimento dos estilos e gêneros particulares, como retratos, paisagens e naturezas-mortas. Com foco em mestres como Rembrandt, Vermeer, Hals e Ruisdael, a autora apresenta uma leitura acessível e bem fundamentada. O livro conta com 220 ilustrações.",
+  "exemplar_id": 2474,
+  "sku": "LI01JB",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/madlyn-millner-kahr--dutch-painting-in-the-seventeenth-century--capa--20260316--192908.jpg",
+  "contracapa": "static/uploads/madlyn-millner-kahr--dutch-painting-in-the-seventeenth-century--contracapa--20260316--192908.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa com marcas de enrugamento da fina película transparente que as recobre, mas sem perdas, rasgos ou manchas. Texto livre de anotações e sublinhados.  Ilustrado em preto e branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:37:22",
+  "observacoes": null
+}

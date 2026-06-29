@@ -1,0 +1,67 @@
+{
+  "obra_id": 5903,
+  "autor": "Ellen G. White",
+  "titulo": "Conselhos aos professores, pais e estudantes",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white conselhos professores pais",
+  "edicao_id": 5878,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 572,
+  "peso": 600,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro apresenta princípios e métodos para uma educação que não apenas promove a disciplina mental, mas também cultiva valores morais e espirituais, preparando homens e mulheres para o serviço por meio do pleno desenvolvimento de suas faculdades. Reunindo conselhos dirigidos a pais, professores e jovens, a obra oferece orientações práticas para a formação de um caráter sólido e uma vida de serviço em harmonia com Deus. Inclui referências a outros textos de Ellen G. White, ampliando o entendimento sobre educação cristã.\r\n",
+  "exemplar_id": 5877,
+  "sku": "LI0393",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": 100.0,
+  "capa": "static/uploads/ellen-g-white--conselhos-aos-professores-pais-e-estudantes--capa--20260306--095246.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--conselhos-aos-professores-pais-e-estudantes--foto1--20260306--095253.jpg",
+    "static/uploads/ellen-g-white--conselhos-aos-professores-pais-e-estudantes--foto2--20260306--095253.jpg",
+    "static/uploads/ellen-g-white--conselhos-aos-professores-pais-e-estudantes--foto3--20260306--095253.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Possui , todas livres de anotações e sublinhados. Capa dura com o nome da autora e o título em letras douradas, sem desgastes. Papel bem branco, quase sem marcas de amarelamento e oxidação."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:00:24",
+  "observacoes": null
+}

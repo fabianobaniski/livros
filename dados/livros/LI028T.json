@@ -1,0 +1,68 @@
+{
+  "obra_id": 3418,
+  "autor": "Inio Asano",
+  "titulo": "Solanin",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos. Mangá. Juventude. Sonhos. Música. Liberdade.",
+  "palavras_chave": "asano solanin",
+  "edicao_id": 3395,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788525424662",
+  "editora": "L&PM",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "L&PM Pocket Mangá",
+  "volume": 1,
+  "transcricao_contracapa": "<p>man•gá ou 漫画, em japonês (<i>man</i>, involuntário + <i>gá</i>, imagem), é um gênero de história em quadrinhos herdeiro das gravuras japonesas clássicas e das HQs ocidentais.</p><p>A série <b>L&PM POCKET MANGÁ</b> traz ao leitor brasileiro as melhores histórias e autores de quadrinhos do Oriente, com opções para todas as idades. Em <b>Solanin 1</b>, do premiado quadrinista japonês Inio Asano (1980-), o jovem casal de namorados Meiko e Taneda decide dar uma virada em suas vidas e ir atrás de seus sonhos de música e liberdade.</p>",
+  "sinopse": "Solanin 1, do premiado quadrinista japonês Inio Asano, acompanha o jovem casal Meiko e Taneda enquanto eles decidem mudar suas vidas para buscar seus sonhos de música e liberdade. Inserido na coleção L&PM Pocket Mangá, o volume traz ao público brasileiro uma das melhores histórias orientais em quadrinhos.",
+  "exemplar_id": 3394,
+  "sku": "LI028T",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/solanin__inio-asano__capa__2025-11-05_16-15-11-389219.jpg",
+  "contracapa": "static/uploads/solanin__inio-asano__contracapa__2025-11-05_16-15-11-560784.jpg",
+  "fotos": [
+    "static/uploads/solanin__inio-asano__foto-01__2025-11-05_16-15-11-626384.jpg",
+    "static/uploads/solanin__inio-asano__foto-02__2025-11-05_16-15-11-650817.jpg",
+    "static/uploads/solanin__inio-asano__foto-03__2025-11-05_16-15-11-667650.jpg",
+    "static/uploads/solanin__inio-asano__foto-04__2025-11-05_16-15-11-687059.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:02:22",
+  "observacoes": null
+}

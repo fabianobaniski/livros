@@ -1,0 +1,68 @@
+{
+  "obra_id": 3320,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance. Relações familiares. Adolescência.",
+  "palavras_chave": "saburouta citrus",
+  "edicao_id": 3300,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788583622826",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "<p>A cada dia, <b>Yuzu</b> e <b>Mei</b> estreitam os laços como namoradas, ainda que em segredo. Durante as férias de verão, <b>Matsuri</b> tem a ideia de fazer uma viagem, e <b>Yuzu</b> fica com receio de que as outras descubram sobre o seu namoro com a irmã, mas no fundo, também anseia pela viagem...</p><p>Os dias de verão das duas irmãs completamente opostas não poderiam ficar sem emoção!</p>",
+  "sinopse": "Yuzu e Mei continuam aprofundando seu relacionamento em segredo, enquanto enfrentam as emoções das férias de verão. Matsuri sugere uma viagem, despertando em Yuzu tanto receio de ser descoberta quanto o desejo de aproveitar a experiência ao lado de Mei. O verão das duas irmãs, tão diferentes entre si, promete ser cheio de emoção.",
+  "exemplar_id": 3299,
+  "sku": "LI0266",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2025-11-05_16-25-14-327825.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2025-11-05_16-25-14-433462.jpg",
+  "fotos": [
+    "static/uploads/citrus__saburouta__foto-01__2025-11-05_16-25-14-986209.jpg",
+    "static/uploads/citrus__saburouta__foto-02__2025-11-05_16-25-15-033789.jpg",
+    "static/uploads/citrus__saburouta__foto-03__2025-11-05_16-25-15-132144.jpg",
+    "static/uploads/citrus__saburouta__foto-04__2025-11-05_16-25-15-187799.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:11:16",
+  "observacoes": null
+}

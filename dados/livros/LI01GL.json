@@ -1,0 +1,63 @@
+{
+  "obra_id": 2396,
+  "autor": "Gilberto Luiz Alves",
+  "titulo": "Azeredo Coutinho",
+  "subtitulo": "Coleção Educadores (mec)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "alves azeredo coutinho",
+  "edicao_id": 2376,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 254,
+  "isbn": "9788570195074",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2375,
+  "sku": "LI01GL",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/gilberto-luiz-alves--azeredo-coutinho--capa--20260316--155602.jpg",
+  "contracapa": "static/uploads/gilberto-luiz-alves--azeredo-coutinho--contracapa--20260316--155609.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações. Capa brochura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:30:46",
+  "observacoes": null
+}

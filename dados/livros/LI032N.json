@@ -1,0 +1,63 @@
+{
+  "obra_id": 5670,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Romance. Relações pessoais.",
+  "palavras_chave": "saburouta citrus",
+  "edicao_id": 5645,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 165,
+  "peso": 220,
+  "isbn": "9788583622444",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p><b>Yuzu</b> e <b>Mei</b>, finalmente, começam a namorar. Enquanto isso, <b>Nene</b>, uma fã de <b>Yuzu</b>, causa tumulto ao tingir o cabelo de castanho como sua ídola. <b>Yuzu</b> a defende e <b>Mitsuko</b>, a ex-presidente do Conselho Estudantil e irmã mais velha de <b>Harumi</b>, faz uma proposta para resolver a situação...</p>",
+  "sinopse": "Yuzu e Mei iniciam um relacionamento, mas enfrentam desafios quando Nene, uma fã de Yuzu, causa um alvoroço ao imitar sua ídola. A situação se complica até que Mitsuko, ex-presidente do Conselho Estudantil, intervém com uma solução inesperada.",
+  "exemplar_id": 5644,
+  "sku": "LI032N",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2026-02-24_13-36-50-315191-000.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2026-02-24_13-36-50-349916-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

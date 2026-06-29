@@ -1,0 +1,63 @@
+{
+  "obra_id": 2653,
+  "autor": "John Gribbin",
+  "titulo": "Le chat de Schrödinger",
+  "subtitulo": "Physique quantique et réalité",
+  "idioma": "Francês",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "gribbin chat schrodinger physique",
+  "edicao_id": 2633,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 330,
+  "peso": 250,
+  "isbn": "9782080813121",
+  "editora": "Flammarion",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A mecânica quântica traz respostas intrigantes à pergunta o que é a realidade?. Erwin Schrödinger, um dos criadores dessa teoria, formulou o famoso experimento mental do gato, uma criatura que estaria simultaneamente viva e morta sob certas condições. Esse paradoxo continua a desafiar os físicos até hoje. John Gribbin narra a evolução dessa questão, destacando o papel crucial da mecânica quântica na ciência moderna e sua capacidade de transformar nossa compreensão do universo, tudo com uma notável clareza expositiva.",
+  "exemplar_id": 2632,
+  "sku": "LI01NP",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/john-gribbin--le-chat-de-schrodinger--capa--20260316--220913.jpg",
+  "contracapa": "static/uploads/john-gribbin--le-chat-de-schrodinger--contracapa--20260316--220913.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. O corte está um pouco sujo pelo manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:18:06",
+  "observacoes": null
+}

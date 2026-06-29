@@ -1,0 +1,63 @@
+{
+  "obra_id": 780,
+  "autor": "John MacArthur",
+  "titulo": "Escravo",
+  "subtitulo": "A Verdade Sobre Nossa Identidade em Cristo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Identidade Cristã.",
+  "palavras_chave": "macarthur escravo verdade",
+  "edicao_id": 765,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 235,
+  "peso": 350,
+  "isbn": "9788581320274",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>O que significa ser um cristão?</h1> <p>Séculos atrás, as traduções do Novo Testamento omitiram uma expressão bíblica da maior importância. Neste livro, John MacArthur apresenta esta verdade essencial das Escrituras, que ajuda o cristão a ter um relacionamento apropriado com Deus. É um ensino poderoso e controverso, mas que ajuda-nos a enxergarmos as riquezas da salvação de um modo radicalmente novo. O que significa ser um cristão do modo como Jesus definiu? MacArthur o revela pelo uso dessa importante palavra do Novo Testamento: ESCRAVO. \"Nós fomos comprados por um preço. Pertencemos a Cristo. Somos sua possessão\".</p> <p>\"O Dr. Johń MacArthur nunca tem medo de dizer a verdade e este livro é mais uma prova disto. O maior privilégio do cristão é ser escravo de Cristo. E o Dr. MacArthur esclarece que este termo é usado pela Bíblia para descrever a vida de discipulado. Temos neste livro uma poderosa exposição das Escrituras, uma correção persuasiva do erro de um cristianismo raso e uma obra prima do encorajamento pastoral. Um clássico da devoção cristã.\" <br> Dr. R. Albert Mohler, <br> Presidente, The Southern Baptist Theological Seminary</p> <p>\"John MacArthur explica de modo erudito e lúcido que Jesus nos liberta da escravidão do pecado para a escravidão real e majestosa de sua possessão. Aqueles que são filhos de Deus devem, de modo paradoxal, desejar ser escravos de Cristo.\" <br> Dr. R. C. Sproul, <br> Presidente, Ligonier Ministries</p>",
+  "sinopse": "Neste livro, John MacArthur aborda a verdadeira identidade do cristão em relação a Cristo, explorando o significado profundo de ser escravo de Jesus. A obra oferece uma perspectiva clara e desafiadora sobre a relação do cristão com Deus, enfatizando a riqueza da salvação e a importância do discipulado. O autor também responde questões fundamentais sobre a definição de ser um verdadeiro cristão e os mistérios da fé.",
+  "exemplar_id": 764,
+  "sku": "LI00KN",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/john-macarthur--escravo--capa--20250227--152904.jpg",
+  "contracapa": "static/uploads/john-macarthur--escravo--contracapa--20250227--152904.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro novo, ainda lacrado, sem qualquer dano!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:23:39",
+  "observacoes": null
+}

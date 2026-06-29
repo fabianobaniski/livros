@@ -1,0 +1,63 @@
+{
+  "obra_id": 2816,
+  "autor": "Lucília Junqueira de Almeida Prado",
+  "titulo": "Obrigado por você existir",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "prado obrigado por voce",
+  "edicao_id": 2796,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 111,
+  "peso": 200,
+  "isbn": "9788516006396",
+  "editora": "Moderna",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O amor entre Virgínia e Marcos é abruptamente interrompido pela Segunda Guerra Mundial. Marcos, piloto voluntário, é enviado à Itália para lutar contra os nazistas, mas seu avião é abatido e ele é dado como morto. Virgínia, devastada pela perda, tenta seguir em frente, mas não consegue esquecê-lo. Enquanto isso, Ronaldo, um pretendente insistente, pressiona-a pelo casamento, e Virgínia se vê sem mais argumentos para recusar, mesmo com seu coração ainda preso ao amor por Marcos.",
+  "exemplar_id": 2795,
+  "sku": "LI01S8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/obrigado-por-voce-existir-lucilia-junqueira-de-almeida-prado-capa_rev1392.jpg",
+  "contracapa": "static/uploads/obrigado-por-voce-existir-lucilia-junqueira-de-almeida-prado-contracapa_rev1471.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:07",
+  "observacoes": null
+}

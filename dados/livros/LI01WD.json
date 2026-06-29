@@ -1,0 +1,63 @@
+{
+  "obra_id": 2965,
+  "autor": "Aloylson Gregório de Toledo Pinto",
+  "titulo": "Valnir Chagas",
+  "subtitulo": "Coleção Educadores",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "pinto valnir chagas colecao",
+  "edicao_id": 2945,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 165,
+  "peso": 200,
+  "isbn": "9788570195043",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2944,
+  "sku": "LI01WD",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/valnir-chagas-aloylson-gregorio-de-toledo-pinto-capa_rev1193.jpg",
+  "contracapa": "static/uploads/valnir-chagas-aloylson-gregorio-de-toledo-pinto-contracapa_rev1916.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:28",
+  "observacoes": null
+}

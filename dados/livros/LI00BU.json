@@ -1,0 +1,63 @@
+{
+  "obra_id": 463,
+  "autor": "Douglas Bond",
+  "titulo": "O encanto poético de Isaac Watts",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Música cristã. Biografias.",
+  "palavras_chave": "bond encanto poético isaac watts",
+  "edicao_id": 448,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 183,
+  "peso": 250,
+  "isbn": "9788581321868",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Um Perfil de Homens Piedosos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Em tempos de cânticos de adoração antropocêntricos e repetitivos, a igreja cristã deve lembrar-se de homens como Isaac Watts, um dos grandes mestres da hinódia cristã. Neste perfil do grande compositor de hinos, o autor Douglas Bond mostra-nos como a vida e as belas composições de Watts podem edificar o leitor hoje.</p><p>\"Todos nós encontraremos uma grande riqueza de encorajamento ao conhecer mais sobre o encanto poético de Isaac Watts\" — Douglas Bond</p><p>Os livros desta coleção \"Um Perfil de Homens Piedosos\", concebidos pelo editor Steven Lawson, foram designados para introduzir verdadeiros gigantes da fé cristã a uma nova geração de leitores, e mostrar como esses campeões de Deus usaram seus dons espirituais, habilidades ministeriais e mesmo os traços de suas personalidades no serviço a Deus. O alvo desta série é fomentar seguidores de Cristo que venham a ser dignos de serem igualmente seguidos.</p>",
+  "sinopse": "Em tempos de cânticos de adoração repetitivos, a obra destaca a importância de Isaac Watts, um grande mestre da hinos cristãos. O autor Douglas Bond apresenta um perfil que ilustra como a vida e as composições de Watts podem edificar os leitores contemporâneos. A obra também busca introduzir gigantes da fé cristã a uma nova geração, mostrando suas contribuições espirituais e ministeriais.",
+  "exemplar_id": 447,
+  "sku": "LI00BU",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/douglas-bond--o-encanto-po-tico-de-isaac-watts--capa--20250227--111544.jpg",
+  "contracapa": "static/uploads/douglas-bond--o-encanto-po-tico-de-isaac-watts--contracapa--20250227--111544.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:05:04",
+  "observacoes": null
+}

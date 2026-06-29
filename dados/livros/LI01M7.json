@@ -1,0 +1,63 @@
+{
+  "obra_id": 2599,
+  "autor": "John G. Gabriel",
+  "titulo": "How to thrive as a teacher leader",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "gabriel how thrive teacher",
+  "edicao_id": 2579,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 220,
+  "peso": 394,
+  "isbn": "9781416600312",
+  "editora": "Ascd",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "John G. Gabriel, aborda a importância da liderança dinâmica em tempos desafiadores, especialmente para professores que assumem papéis de liderança em escolas. O livro fornece conselhos práticos sobre identificar qualidades de liderança, construir equipes, melhorar a comunicação, ganhar respeito, superar obstáculos, implementar mudanças, energizar colegas, fortalecer o moral e melhorar o desempenho de alunos e professores.",
+  "exemplar_id": 2578,
+  "sku": "LI01M7",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/john-g-gabriel--how-to-thrive-as-a-teacher-leader--capa--20260316--212604.jpg",
+  "contracapa": "static/uploads/john-g-gabriel--how-to-thrive-as-a-teacher-leader--contracapa--20260316--212604.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:34:07",
+  "observacoes": null
+}

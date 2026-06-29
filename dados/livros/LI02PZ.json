@@ -1,0 +1,63 @@
+{
+  "obra_id": 4981,
+  "autor": "Ken Akamatsu",
+  "titulo": "UQ Holder!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Fantasia. Aventura. Superação.",
+  "palavras_chave": "akamatsu uq holder",
+  "edicao_id": 4956,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9788545701644",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>\"Ir para a capital e vencer na vida!\"</p> <p>É o grande sonho do garoto interiorano Touta Konoe. Para poder partir, o chefe da vila impõe um desafio ao jovem: derrotar Yukihime, sua mãe de criação e exímia manipuladora de magia.</p> <p>Touta passa os dias tentando superar Yukihime, mas as vidas sofrem uma grande reviravolta quando dois caçadores de recompensa aparecem!</p>",
+  "sinopse": "Touta Konoe sonha em ir para a capital e vencer na vida. Para isso, ele precisa superar Yukihime, sua mãe de criação e manipuladora de magia. A vida de Touta muda quando dois caçadores de recompensa aparecem.",
+  "exemplar_id": 4955,
+  "sku": "LI02PZ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/uq-holder__ken-akamatsu__capa__2026-02-20_10-31-28-443910-000.png",
+  "contracapa": "static/uploads/uq-holder__ken-akamatsu__contracapa__2026-02-20_10-31-28-600245-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em bom estado de conservação. Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel levemente amarelado pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

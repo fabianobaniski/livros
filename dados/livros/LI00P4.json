@@ -1,0 +1,68 @@
+{
+  "obra_id": 946,
+  "autor": "Steven J. Lawson",
+  "titulo": "A difícil missão de William Tyndale",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "História. Teologia. Tradução das Escrituras.",
+  "palavras_chave": "lawson dificil mission tyndale",
+  "edicao_id": 931,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 158,
+  "peso": 300,
+  "isbn": "9788581323138",
+  "editora": "FIEL",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Um Perfil de Homens Piedosos",
+  "volume": null,
+  "transcricao_contracapa": "<p>WILLIAM TYNDLE, erudito, gênio linguista e teólogo, desejou dar aos homens de sua terra as Escrituras em seu próprio idioma. Esta era uma missão muito difícil, mas nada poderia dissuadi-lo, e ele deu sua própria vida para que esta missão fosse cumprida.</p><p>“A tradução das Escrituras realizada por Tyndale revelou a luz divina da verdade bíblica que resplandeceria no mundo todo, anunciando o raiar de um novo dia” — STEVEN J. LAWSON</p><p>No começo do século XVI, a legislação inglesa controlava o acesso das pessoas às Escrituras e proibia a sua tradução do latim para outro idioma. Mas o teólogo e linguista William Tyndale estava decidido a tornar a Bíblia conhecida entre seus conterrâneos e abraçou esta difícil missão, que acabou custando sua vida.</p><p>Em mais um volume da série “Um Perfil de Homens Piedosos”, somos desafiados a amar as Escrituras e a abraçar a missão de torná-la conhecida em todo o mundo.</p>",
+  "sinopse": "William Tyndale, um erudito e gênio linguista, enfrentou enormes desafios para traduzir as Escrituras para seu próprio idioma, uma missão que lhe custou a vida. Sua coragem e determinação em levar a verdade bíblica ao seu povo são exploradas nesta obra inspiradora.",
+  "exemplar_id": 930,
+  "sku": "LI00P4",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/steven-j--lawson--a-dif-cil-miss-o-de-william-tyndale--capa--20250227--152915.jpg",
+  "contracapa": "static/uploads/steven-j--lawson--a-dif-cil-miss-o-de-william-tyndale--contracapa--20250227--152915.jpg",
+  "fotos": [
+    "static/uploads/steven-j-lawson--a-dificil-missao-de-william-tyndale--foto1--20251020--185143.jpg",
+    "static/uploads/steven-j-lawson--a-dificil-missao-de-william-tyndale--foto2--20251020--185143.jpg",
+    "static/uploads/steven-j-lawson--a-dificil-missao-de-william-tyndale--foto3--20251020--185143.jpg",
+    "static/uploads/steven-j-lawson--a-dificil-missao-de-william-tyndale--foto4--20251020--185143.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Constam alguns grifos à lápis no texto. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:17:28",
+  "observacoes": null
+}

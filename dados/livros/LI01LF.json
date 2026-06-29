@@ -1,0 +1,63 @@
+{
+  "obra_id": 2571,
+  "autor": "Abril Coleções",
+  "titulo": "Grandes mestres",
+  "subtitulo": "Leonardo da Vinci",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "colecoes grandes mestres leonardo",
+  "edicao_id": 2551,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 157,
+  "peso": 632,
+  "isbn": "9788579711831",
+  "editora": "Abril",
+  "numero_edicao": 0,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2550,
+  "sku": "LI01LF",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/grandes-mestres-abril-colecoes-capa_rev2002.jpg",
+  "contracapa": "static/uploads/grandes-mestres-abril-colecoes-contracapa_rev1214.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro com excelente conservação. Apresenta, apenas, levíssimos sinais de uso e deixados pela ação do tempo. Texto livre de sublinhados e anotações. Capa brochura, com box,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:16:22",
+  "observacoes": null
+}

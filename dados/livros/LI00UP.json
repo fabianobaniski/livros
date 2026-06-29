@@ -1,0 +1,68 @@
+{
+  "obra_id": 1439,
+  "autor": "Neil Gaiman; Terry Pratchett",
+  "titulo": "Good omens",
+  "subtitulo": "Belas maldições",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "gaiman pratchett good omens ",
+  "edicao_id": 1420,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 362,
+  "peso": 400,
+  "isbn": "9788528624021",
+  "editora": "Bertrand Brasil",
+  "numero_edicao": 19,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“O fim do mundo nunca foi tão engraçado.”<br>Clive Barker, autor de Hellraiser</p><p>“É como o livro do apocalipse reescrito pelo Monty Python.”<br>San Francisco Chronicle</p><p>“Um descendente direto d’o guia do mochileiro das galáxias.”<br>The New York Times</p>",
+  "sinopse": "",
+  "exemplar_id": 1419,
+  "sku": "LI00UP",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/neil-gaiman--good-omens--capa--20250401--115347.png",
+  "contracapa": "static/uploads/neil-gaiman--good-omens--contracapa--20250401--115347.png",
+  "fotos": [
+    "static/uploads/neil-gaiman--good-omens--foto1--20250401--115347.jpg",
+    "static/uploads/neil-gaiman--good-omens--foto2--20250401--115347.jpg",
+    "static/uploads/neil-gaiman--good-omens--foto3--20250401--115347.jpg",
+    "static/uploads/neil-gaiman--good-omens--foto4--20250401--115347.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um pouco amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:15:11",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 795,
+  "autor": "Alessandro Rocha",
+  "titulo": "Uma introdução à filosofia da religião",
+  "subtitulo": "Um olhar da fé cristã sobre a relação entre a filosofia e a religião",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Filosofia. Religião. Teologia.",
+  "palavras_chave": "rocha introducao filosofia religiao",
+  "edicao_id": 780,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 181,
+  "peso": 280,
+  "isbn": "9788538301431",
+  "editora": "Vida Acadêmica",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Quando uma ciência busca questionar-se por sua essência, dimensão teológica e papel no mundo atual, então podemos dialogar com a filosofia. O texto que você tem em mãos procura fazer exatamente isso. O autor não “utiliza” a filosofia ou a religião para doutrinar interessados no assunto. Trata-se de uma busca questionadora. O texto tem a coragem de mostrar aspectos que nem sempre teólogos e religiosos estão interessados em destacar.”</p> <p>— Luiz Longuini Neto, professor de Filosofia na Universidade Presbiteriana Mackenzie, Rio de Janeiro</p> <p>“Ir além do senso comum, da leitura leiga e preconceituosa da religião, é cada vez mais um desafio para nós brasileiros, sejamos religiosos ou não. E é isso que Alessandro Rocha faz em <i>Uma Introdução à Filosofia da Religião</i>, ao apresentar como objetivo a dimensão espiritual do ser humano desde a perspectiva filosófica, o que abrange a antropologia, a ética e a metafísica. Mas a questão fundante desta sua Introdução é a pergunta: afinal, o que é a religião? [...]. Alessandro faz aqui uma adequada conjugação de métodos na busca de uma compreensão mais contemporânea e filosófica da essência da religião.”</p> <p>— Jorge Pinheiro, autor de <i>História e religião de Israel</i> (Vida), professor na Faculdade Teológica Batista de São Paulo e pensador cristão</p> <p>Alessandro Rocha é pastor, escritor e conferencista. Mestre em Teologia Sistemática pelo Seminário Teológico Batista do Sul do Brasil (RJ) e doutorando em Teologia Sistemática pela PUC-RJ. É também membro da Sociedade de Teologia e Ciências da Religião (SOTER) e da Fraternidade Teológica Latino-americana do Brasil (FTL-Brasil).</p>",
+  "sinopse": "Este livro apresenta um olhar da fé cristã sobre a relação entre filosofia e religião, questionando a essência e a dimensão teológica no contexto atual. O autor busca uma compreensão contemporânea da religião, abordando temas como antropologia, ética e metafísica, enquanto se propõe a dialogar com a filosofia de maneira investigativa.",
+  "exemplar_id": 779,
+  "sku": "LI00L2",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/alessandro-rocha--uma-introdu--o---filosofia-da-religi-o--capa--20250227--152905.jpg",
+  "contracapa": "static/uploads/alessandro-rocha--uma-introdu--o---filosofia-da-religi-o--contracapa--20250227--152905.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:38:12",
+  "observacoes": null
+}

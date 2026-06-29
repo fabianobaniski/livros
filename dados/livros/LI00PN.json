@@ -1,0 +1,63 @@
+{
+  "obra_id": 965,
+  "autor": "Allan Kardec",
+  "titulo": "O livro dos espíritos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Filosofia. Ciência.",
+  "palavras_chave": "kardec livro espiritos",
+  "edicao_id": 950,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 352,
+  "peso": 400,
+  "isbn": "9786586112061",
+  "editora": "ide",
+  "numero_edicao": 183,
+  "ano": 2021,
+  "serie": "Espiritismo",
+  "volume": null,
+  "transcricao_contracapa": "Na forma de perguntas e respostas, os Espíritos explicaram tudo o que a Humanidade já se encontrava preparada para receber e compreender, esclarecendo-a quanto aos enigmas de sabermos de onde viemos, por que aqui estamos, e para onde vamos, facilitando, assim, ao homem, a compreensão dos mais difíceis problemas que o envolvem. É um livro de revelações e explicações que os Espíritos nos legaram como apoio para o desenvolvimento de nossa vida.",
+  "sinopse": "Na forma de perguntas e respostas, os Espíritos explicaram tudo o que a Humanidade já se encontrava preparada para receber e compreender, esclarecendo-a quanto aos enigmas de sabermos de onde viemos, por que aqui estamos, e para onde vamos, facilitando, assim, ao homem, a compreensão dos mais difíceis problemas que o envolvem. É um livro de revelações e explicações que os Espíritos nos legaram como apoio para o desenvolvimento de nossa vida.",
+  "exemplar_id": 949,
+  "sku": "LI00PN",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/allan-kardec--o-livro-dos-esp-ritos--capa--20250227--152916.jpg",
+  "contracapa": "static/uploads/allan-kardec--o-livro-dos-esp-ritos--contracapa--20250227--152916.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Acompanha sobrecapa plástica (que pode ser retirada)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:25:00",
+  "observacoes": null
+}

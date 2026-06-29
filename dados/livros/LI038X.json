@@ -1,0 +1,67 @@
+{
+  "obra_id": 5897,
+  "autor": "Ellen G. White",
+  "titulo": "Evangelismo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "ellen white evangelismo",
+  "edicao_id": 5872,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 754,
+  "peso": 765,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 3,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O evangelismo, como essência do cristianismo, é explorado neste volume que reúne orientações práticas sobre métodos de pregação, estratégias de alcance e formação espiritual para disseminar a mensagem de salvação. Com base em escritos de Ellen G. White, o livro aborda o preparo de missionários, a importância do testemunho pessoal e as melhores abordagens para ganhar almas. As instruções visam capacitar cristãos a compartilhar a fé de maneira eficaz, promovendo a transformação espiritual e o fortalecimento da obra de Deus.",
+  "exemplar_id": 5871,
+  "sku": "LI038X",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/ellen-g-white--evangelismo--capa--20260306--094031.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--evangelismo--foto1--20260306--094039.jpg",
+    "static/uploads/ellen-g-white--evangelismo--foto2--20260306--094039.jpg",
+    "static/uploads/ellen-g-white--evangelismo--foto3--20260306--094039.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Sem marcas de umidade, mofo, traça. Única ressalva é que há alguns grifos feitos usando caneta azul e régua em um número mínimo de folhas. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:42:07",
+  "observacoes": null
+}

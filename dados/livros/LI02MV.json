@@ -1,0 +1,63 @@
+{
+  "obra_id": 4869,
+  "autor": "Hiromu Arakawa",
+  "titulo": "Fullmetal alchemist",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Aventura. Alquimia.",
+  "palavras_chave": "arakawa fullmetal alchemist",
+  "edicao_id": 4844,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 183,
+  "peso": 240,
+  "isbn": "9788545707516",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 24,
+  "transcricao_contracapa": "<p>Fullmetal Alchemist, obra máxima de Hiromu Arakawa, está de volta em uma Edição Especial de Colecionador! Edward e Alphonse Elric são jovens alquimistas que estão em busca da lendária Pedra Filosofal para recuperarem os seus corpos.</p> <p>Hohenheim está diante do \"homenzinho do frasco\", aquele que também já foi chamado de homúnculo, e ambos começam uma batalha que vai além da compreensão humana! O combate do QG Central continua, e quem aparece de reforço é...?!</p>",
+  "sinopse": "Fullmetal Alchemist, a obra de Hiromu Arakawa, retorna como Edição Especial de Colecionador! Edward e Alphonse Elric, jovens alquimistas, buscam a lendária Pedra Filosofal para recuperar seus corpos. Hohenheim enfrenta o \"homenzinho do frasco\", em uma batalha além da compreensão humana. O combate no QG Central continua, com um reforço surpresa.",
+  "exemplar_id": 4843,
+  "sku": "LI02MV",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/fullmetal-alchemist__hiromu-arakawa__capa__2026-02-20_10-30-58-237085-000.png",
+  "contracapa": "static/uploads/fullmetal-alchemist__hiromu-arakawa__contracapa__2026-02-20_10-30-58-287909-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

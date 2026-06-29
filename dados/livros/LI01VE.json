@@ -1,0 +1,63 @@
+{
+  "obra_id": 2930,
+  "autor": "Martin Middlebrook",
+  "titulo": "The battle of Hamburg",
+  "subtitulo": "The firestorm raid",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "middlebrook the battle hamburg",
+  "edicao_id": 2910,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 424,
+  "peso": 380,
+  "isbn": "9780304353453",
+  "editora": "Cassell & Co",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2909,
+  "sku": "LI01VE",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/the-battle-of-hamburg-martin-middlebrook-capa_rev404.jpg",
+  "contracapa": "static/uploads/the-battle-of-hamburg-martin-middlebrook-contracapa_rev1936.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: The Battle of Hamburg narra um dos mais devastadores bombardeios da Segunda Guerra Mundial. Em julho de 1943, sob ordens de Sir Arthur Harris, a cidade alemã de Hamburgo foi alvo de ataques aéreos em massa pela RAF e USAAF, resultando em uma destruição catastrófica e incêndios devastadores. Martin Middlebrook, em sua obra, traz à vida esse evento trágico por meio de relatos de sobreviventes, pilotos e civis. O livro oferece um relato detalhado e comovente, mostrando o impacto profundo do ataque, que ainda alimenta debates e controvérsias sobre sua necessidade e consequências. / Livro bastante amarelado. As últimas folhas e a contracapa mostram sinais de exposição à umidade. Miolo em bom estado. Conteúdo livre de anotações e sublinhados. Lombada alinhada."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:12:26",
+  "observacoes": null
+}

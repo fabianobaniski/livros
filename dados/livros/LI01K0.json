@@ -1,0 +1,63 @@
+{
+  "obra_id": 2520,
+  "autor": "Jean-Claude Filloux",
+  "titulo": "Émile Durkheim",
+  "subtitulo": "Coleção Educadores",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "filloux emile durkheim",
+  "edicao_id": 2500,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 146,
+  "peso": 280,
+  "isbn": "9788570195579",
+  "editora": "Massangana / Mec",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2499,
+  "sku": "LI01K0",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jean-claude-filloux--emile-durkheim--capa--20260316--193811.jpg",
+  "contracapa": "static/uploads/jean-claude-filloux--emile-durkheim--contracapa--20260316--193811.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:17:34",
+  "observacoes": null
+}

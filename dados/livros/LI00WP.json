@@ -1,0 +1,68 @@
+{
+  "obra_id": 1523,
+  "autor": "Sarah J. Maas",
+  "titulo": "Casa de céu e sopro",
+  "subtitulo": "Cidade da lua crescente - Casa de céu e sopro - Volume 2",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "maas casa ceu sopro",
+  "edicao_id": 1504,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 922,
+  "peso": 1500,
+  "isbn": "9786559810918",
+  "editora": "Galera",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Um redemoinho vertiginoso e cheio de suspense, que surpreende a cada virada.</p> <p>- Entertainment Weekly</p> <p>A construção maestral de um universo fantástico. Não perca.</p> <p>Charlaine Harris, autora best-seller #1 do New York Times</p>",
+  "sinopse": "",
+  "exemplar_id": 1503,
+  "sku": "LI00WP",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 38.0,
+  "capa": "static/uploads/sarah-j--maas--casa-de-c-u-e-sopro--capa--20250401--115744.jpg",
+  "contracapa": "static/uploads/sarah-j--maas--casa-de-c-u-e-sopro--contracapa--20250401--115744.jpg",
+  "fotos": [
+    "static/uploads/sarah-j--maas--casa-de-c-u-e-sopro--foto1--20250401--115744.jpg",
+    "static/uploads/sarah-j--maas--casa-de-c-u-e-sopro--foto2--20250401--115744.jpg",
+    "static/uploads/sarah-j--maas--casa-de-c-u-e-sopro--foto3--20250401--115744.jpg",
+    "static/uploads/sarah-j--maas--casa-de-c-u-e-sopro--foto4--20250401--115744.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:33:33",
+  "observacoes": null
+}

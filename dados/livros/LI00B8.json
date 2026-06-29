@@ -1,0 +1,68 @@
+{
+  "obra_id": 441,
+  "autor": "Stephanie Perkins",
+  "titulo": "Isla e o final feliz",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Crescimento pessoal. Descoberta.",
+  "palavras_chave": "perkins isla final feliz",
+  "edicao_id": 426,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 302,
+  "peso": 380,
+  "isbn": "9788580577396",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A maioria das histórias de amor não começa de forma grandiosa, com música romântica ao fundo e fogos de artifício no céu. Um encontro inusitado com o garoto dos seus sonhos logo depois que você arrancou os sisos e está dopada de analgésicos pode ser o início de uma bela história com final feliz.</p> <p>Será que vai ser assim com Isla e Josh?</p> <p>Juntos, eles vão acabar descobrindo que nem a paixão nem os momentos inseguintes conseguirão adiar as decisões importantes que cada um precisará tomar quanto ao próprio futuro.</p> <p>“Um belo exemplo do fenômeno físico e emocional que é se apaixonar pela primeira vez.”</p> <p>Kirkus Reviews</p>",
+  "sinopse": "As histórias de amor costumam começar de forma grandiosa, mas, para Isla e Josh, um encontro inesperado pode ser o início de uma bela história. Eles descobrirão que nem a paixão nem os momentos inseguros poderão adiar decisões importantes sobre o futuro que cada um deve tomar.",
+  "exemplar_id": 425,
+  "sku": "LI00B8",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/stephanie-perkins--isla-e-o-final-feliz--capa--20250226--133829.jpg",
+  "contracapa": "static/uploads/stephanie-perkins--isla-e-o-final-feliz--contracapa--20250226--133829.jpg",
+  "fotos": [
+    "static/uploads/stephanie-perkins--isla-e-o-final-feliz--foto1--20250226--133829.jpg",
+    "static/uploads/stephanie-perkins--isla-e-o-final-feliz--foto2--20250226--133829.jpg",
+    "static/uploads/stephanie-perkins--isla-e-o-final-feliz--foto3--20250226--133829.jpg",
+    "static/uploads/stephanie-perkins--isla-e-o-final-feliz--foto4--20250226--133829.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:49:05",
+  "observacoes": null
+}

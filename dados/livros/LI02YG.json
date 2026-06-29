@@ -1,0 +1,63 @@
+{
+  "obra_id": 5519,
+  "autor": "Kohei Horikoshi",
+  "titulo": "My Hero Academia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Heróis.",
+  "palavras_chave": "horikoshi my hero academia",
+  "edicao_id": 5494,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 204,
+  "peso": 200,
+  "isbn": "9788545707356",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "Boku no Hero Academia",
+  "volume": 11,
+  "transcricao_contracapa": "<p>Um poderoso vilão mascarado apareceu do nada e praticamente detonou os heróis. O All Might enfim chegou, mas... será que ele vai conseguir superar um dom f*@ como o desse inimigo?! Mas não é hora de amarelá! Eu tenho que salvar um amigo!! 'Plus Ultra'!!</p>",
+  "sinopse": "Um vilão mascarado surge e detona os heróis. All Might chega, mas precisará superar um inimigo poderoso para salvar um amigo. 'Plus Ultra'!",
+  "exemplar_id": 5493,
+  "sku": "LI02YG",
+  "preco_estante_virtual": 80.0,
+  "preco_amazon": 110.0,
+  "capa": "static/uploads/my-hero-academia__kohei-horikoshi__capa__2026-02-24_13-36-22-508893-000.png",
+  "contracapa": "static/uploads/my-hero-academia__kohei-horikoshi__contracapa__2026-02-24_13-36-22-551515-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

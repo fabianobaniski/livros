@@ -1,0 +1,63 @@
+{
+  "obra_id": 2375,
+  "autor": "José Martinez Sarandeses",
+  "titulo": "Árboles en la ciudad",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Outros Assuntos",
+  "temas": "",
+  "palavras_chave": "sarandeses arboles ciudad",
+  "edicao_id": 2355,
+  "encadernacao": null,
+  "quantidade_paginas": 314,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Não Identificada",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O índice do livro apresenta uma análise detalhada sobre espaços arborizados e a qualidade ambiental nas cidades. Entre os principais temas abordados estão a importância dos parques, jardins, alamedas, e avenidas arborizadas, bem como os problemas relacionados ao mau estado dos plantios devido à falta de manutenção ou abandono. Também são discutidos problemas de plantação causados pela escolha inadequada de espécies e locais, além de lições e deformações no tratamento de áreas verdes urbanas...",
+  "exemplar_id": 2354,
+  "sku": "LI01G0",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jose-martinez-sarandeses--arboles-en-la-ciudad--capa--20260316--154613.jpg",
+  "contracapa": "static/uploads/jose-martinez-sarandeses--arboles-en-la-ciudad--contracapa--20260316--154618.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Fundamentos de una política ambiental baseada en el arbolado urbano. Livro fisicamente bem conservado, embora apresente leves sinais de uso. Texto sem anotações ou sublinhados. Há pequeno selo de livraria na primeira folha.  Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 20:18:39",
+  "observacoes": null
+}

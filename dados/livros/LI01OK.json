@@ -1,0 +1,63 @@
+{
+  "obra_id": 2684,
+  "autor": "Karl Marx",
+  "titulo": "Marx",
+  "subtitulo": "Volume II - Coleção os Pensadores",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "marx marx volume colecao",
+  "edicao_id": 2664,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Nova Cultural",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este volume reúne textos fundamentais de Karl Marx, incluindo O 18 Brumário de Luís Bonaparte, onde ele analisa o golpe de Estado de Napoleão III, aplicando sua concepção marxista da história como luta entre classes sociais. Salário, Preço e Lucro aborda a dinâmica econômica de sua época, expondo as contradições do sistema capitalista. Já em O Rendimento e Suas Fontes – A Economia Vulgar, Marx investiga a mais-valia, fonte de acumulação de capital, e suas manifestações ideológicas, fornecendo uma análise crítica da economia política.",
+  "exemplar_id": 2663,
+  "sku": "LI01OK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 18:33:15",
+  "observacoes": null
+}

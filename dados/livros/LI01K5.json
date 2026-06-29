@@ -1,0 +1,63 @@
+{
+  "obra_id": 2525,
+  "autor": "Wilton Borges",
+  "titulo": "Entroncamento do Xingu",
+  "subtitulo": "Nos tempos da colonização",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "borges entroncamento xingu nos",
+  "edicao_id": 2505,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 319,
+  "peso": 500,
+  "isbn": "9788591263400",
+  "editora": "Xinguara-pa",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2504,
+  "sku": "LI01K5",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/wilton-borges--entroncamento-do-xingu--capa--20260316--194016.jpg",
+  "contracapa": "static/uploads/wilton-borges--entroncamento-do-xingu--contracapa--20260316--194016.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Consta dedicatória na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:21:47",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2974,
+  "autor": "Steve Dublanica",
+  "titulo": "Waiter rant",
+  "subtitulo": "Thanks for the tip - Confessions of a cynical waiter",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "dublanica waiter rant thanks",
+  "edicao_id": 2954,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 302,
+  "peso": 400,
+  "isbn": "9780061256684",
+  "editora": "Ecco",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Waiter Rant oferece um olhar irreverente e engraçado sobre a vida de um garçom em um restaurante de alto nível em Nova York. Com histórias hilárias sobre clientes irritantes, equipes difíceis e as situações absurdas do dia a dia, o autor revela os segredos para garantir um bom atendimento, como dar gorjeta corretamente e, claro, como evitar que seu garçom cuspa na sua comida. Além das aventuras no salão, ele compartilha sua jornada pessoal e o dilema de abandonar ou não o primeiro emprego em que realmente prosperou.",
+  "exemplar_id": 2953,
+  "sku": "LI01WM",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/waiter-rant-steve-dublanica-capa_rev1673.jpg",
+  "contracapa": "static/uploads/waiter-rant-steve-dublanica-contracapa_rev1927.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Capa dura com sobrecapa.,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:59:20",
+  "observacoes": null
+}

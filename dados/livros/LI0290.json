@@ -1,0 +1,68 @@
+{
+  "obra_id": 3425,
+  "autor": "Clamp",
+  "titulo": "xxxHolic",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Manga. Fantasia. Sobrenatural.",
+  "palavras_chave": "clamp xxxholic",
+  "edicao_id": 3402,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 80,
+  "isbn": "9771809106002",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3401,
+  "sku": "LI0290",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/xxxholic__clamp__capa__2025-11-05_16-15-13-260412.jpg",
+  "contracapa": "static/uploads/xxxholic__clamp__contracapa__2025-11-05_16-15-13-293380.jpg",
+  "fotos": [
+    "static/uploads/xxxholic__clamp__foto-01__2025-11-05_16-15-13-327357.jpg",
+    "static/uploads/xxxholic__clamp__foto-02__2025-11-05_16-15-13-352761.jpg",
+    "static/uploads/xxxholic__clamp__foto-03__2025-11-05_16-15-13-371586.jpg",
+    "static/uploads/xxxholic__clamp__foto-04__2025-11-05_16-15-13-390996.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Bordas amareladas pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:07:37",
+  "observacoes": null
+}

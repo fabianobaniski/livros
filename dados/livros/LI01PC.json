@@ -1,0 +1,63 @@
+{
+  "obra_id": 2712,
+  "autor": "Stephen Arroyo",
+  "titulo": "Modernas dimensiones de la Astrología",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "arroyo modernas dimensiones astrologia",
+  "edicao_id": 2692,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 302,
+  "peso": 400,
+  "isbn": "9788486221737",
+  "editora": "Sirio",
+  "numero_edicao": 1,
+  "ano": 1987,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Neste livro, Stephen Arroyo explora pontos fundamentais da astrologia moderna, abordando temas como a determinação da capacidade de relacionamento a partir do mapa natal, a compreensão das relações concretas e o uso prático dos trânsitos e ciclos planetários. A obra se destaca pela clareza e profundidade com que trata questões importantes, oferecendo uma perspectiva prática e acessível. A espontaneidade das palestras de Arroyo, combinada com seu conhecimento profundo, torna este livro uma referência valiosa e única no campo da astrologia contemporânea.",
+  "exemplar_id": 2691,
+  "sku": "LI01PC",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/modernas-dimensiones-de-la-astrologia-stephen-arroyo-capa_rev398.jpg",
+  "contracapa": "static/uploads/modernas-dimensiones-de-la-astrologia-stephen-arroyo-contracapa_rev2054.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Lombada levemente inclinada. Contém em algumas páginas carimbo de antiga locadora de livros, de quem o livro foi negociado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:04:36",
+  "observacoes": null
+}

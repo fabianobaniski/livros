@@ -1,0 +1,63 @@
+{
+  "obra_id": 2578,
+  "autor": "Atenas",
+  "titulo": "Guia turistica",
+  "subtitulo": "Atenas",
+  "idioma": "Espanhol",
+  "categoria": "Turismo",
+  "temas": "",
+  "palavras_chave": "atenas guia turistica atenas",
+  "edicao_id": 2558,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 144,
+  "peso": 549,
+  "isbn": "9789607310088",
+  "editora": "Não identificada",
+  "numero_edicao": 0,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2557,
+  "sku": "LI01LM",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/atenas--guia-turistica--capa--20260316--211843.jpg",
+  "contracapa": "static/uploads/atenas--guia-turistica--contracapa--20260316--211843.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, embora com leves desgastes decorrentes do passar dos anos. Texto livre de anotações e sublinhados. Papel um pouco pigmentado pelo tempo. Infelizmente algo foi escrito na capa, à caneta, deixando uma marca fraca mas perceptível."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:22:34",
+  "observacoes": null
+}

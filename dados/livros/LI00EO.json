@@ -1,0 +1,63 @@
+{
+  "obra_id": 565,
+  "autor": "Gerard Van Groningen",
+  "titulo": "O progresso da Revelação no Antigo Testamento",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Revelação. Crítica Bíblica.",
+  "palavras_chave": "groningen progresso revelacao",
+  "edicao_id": 550,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 111,
+  "peso": 280,
+  "isbn": "8576221578",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Deus, o Senhor soberano da Aliança, comu-nicou-se de fato com os homens na língua destes? E Deus, na realidade, capacitou os homens para registrar infalivelmente em escrito o que ele havia lhes revelado?\" Essas perguntas desafiavam o Dr. Van Groningen quando ele era um estudante de Teologia. Passaram-se cinco décadas de estudo e pesquisa profunda das Escrituras que resultaram em várias obras sobre a Teologia da Aliança.</p> <p>Este livro é a resposta às perguntas que incomodaram o autor quando começou a ser confrontado pela chamada \"alta crítica\". A resposta é positiva e bíblica.</p> <p>Gerard Van Groningen, mestre em Teologia pelo Westminster Seminary e Ph.D. pela University of Melbourne, agora aposentado, ensinou Antigo Testamento por mais de trinta anos tanto em universidades como em seminários, ocupando cargos no Reformed Theological College, na Austrália; no Dordt College, no Reformed Theological Seminary e no Covenant Theological Seminary, nos Estados Unidos; e no Centro de Pós-graduação Andrew Jumper, em São Paulo. É autor dos livros Revelação Messiânica no Antigo Testamento, Criação e Consumoção (3 volumes) e Família da Aliança, todos desta editora.</p>",
+  "sinopse": "Este livro oferece uma resposta às questões que desafiaram Gerard Van Groningen em sua jornada teológica, abordando temas de revelação divina e as respostas da alta crítica à luz das Escrituras. É uma reflexão profunda sobre a Teologia da Aliança, fundamentada em mais de trinta anos de ensino e pesquisa sobre o Antigo Testamento.",
+  "exemplar_id": 549,
+  "sku": "LI00EO",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/gerard-van-groningen--o-progresso-da-revela--o--capa--20250227--152850.jpg",
+  "contracapa": "static/uploads/gerard-van-groningen--o-progresso-da-revela--o--contracapa--20250227--152850.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:39:57",
+  "observacoes": null
+}

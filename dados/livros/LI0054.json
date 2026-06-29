@@ -1,0 +1,68 @@
+{
+  "obra_id": 207,
+  "autor": "Lewis Carroll; John Tenniel; Martin Gardner",
+  "titulo": "Alice",
+  "subtitulo": "Aventuras de Alice no País das Maravilhas & Através do espelho",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Literatura infantil. Fantasia. Aventuras.",
+  "palavras_chave": "carroll alice maravilhas espelho",
+  "edicao_id": 201,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 387,
+  "peso": 800,
+  "isbn": "9788537808269",
+  "editora": "Zahar",
+  "numero_edicao": 2,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Aventuras de Alice no País das Maravilhas e Através do Espelho, obras-primas de Lewis Carroll, têm aqui uma edição definitiva, indispensável na sua prateleira, nas bibliotecas e escolas.</p><ul><li>Primorosa tradução, vencedora do Prêmio Jabuti</li><li>Centenas de notas esclarecendo passagens antes nebulosas, trocadilhos de época, enigmas lógicos e referências à vida pessoal do autor, elaboradas por Martin Gardner, um dos maiores especialistas em Carroll</li><li>Todas as incríveis ilustrações originais de John Tenniel, além de esboços recém-descobertos</li><li>Introdução situando estes clássicos no contexto da Inglaterra vitoriana</li><li>Bibliografia da obra de Lewis Carroll, enriquecida com edições em português</li><li>Filmografia elencando adaptações de Alice para o cinema, a televisão e desenhos animados</li><li>E um episódio inédito de Através do Espelho: \"O Marimbondo de Peruca\"</li></ul><p>Cortem a cabeça de quem ficar de fora desta!</p><blockquote><p>\"A melhor Alice em português,\"</p><footer>Folha de S. Paulo</footer></blockquote><blockquote><p>\"Ótima e completa edição.\" </p><footer>Jornal do Comércio</footer></blockquote><blockquote><p>\"Gardner foi pioneiro ao decifrar os trocadilhos e charadas de Carroll.\"</p><footer>O Estado de S. Paulo</footer></blockquote>",
+  "sinopse": "Nesta edição comentada e ilustrada das aventuras de Alice, a obra-prima de Lewis Carroll é apresentada com uma tradução primorosa, notas esclarecedoras, ilustrações originais de John Tenniel e uma introdução que a situa na Inglaterra vitoriana. Inclui uma bibliografia enriquecida e uma filmografia das adaptações da história, tornando-se indispensável para bibliotecas e escolas.",
+  "exemplar_id": 200,
+  "sku": "LI0054",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/lewis-carroll--alice--capa--20250226--133805.jpg",
+  "contracapa": "static/uploads/lewis-carroll--alice--contracapa--20250226--133805.jpg",
+  "fotos": [
+    "static/uploads/lewis-carroll--alice--foto1--20250226--133806.jpg",
+    "static/uploads/lewis-carroll--alice--foto2--20250226--133806.jpg",
+    "static/uploads/lewis-carroll--alice--foto3--20250226--133806.jpg",
+    "static/uploads/lewis-carroll--alice--foto4--20250226--133806.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:12:39",
+  "observacoes": null
+}

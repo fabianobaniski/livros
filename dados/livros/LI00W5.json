@@ -1,0 +1,68 @@
+{
+  "obra_id": 1492,
+  "autor": "A. C. Bhaktivedanta Swami Prabhupáda",
+  "titulo": "Em busca do verdadeiro eu ",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Autoconhecimento. Espiritualidade.",
+  "palavras_chave": "bhaktivedanta busca verdadeiro eu",
+  "edicao_id": 1473,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 298,
+  "peso": 250,
+  "isbn": "9788570151360",
+  "editora": "The Bhaktivedanta Book Trust",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Não dizemos que o conhecimento científico é inútil. Mecânica, eletrônica e outras áreas do saber também constituem o conhecimento, mas o ponto principal é <i>atma-jñana</i>, o autoconhecimento, o conhecimento da alma”.</p> <p>Nestas dezenas de ensaios, palestras e conversas informais, é revelado o ponto central do autoconhecimento – uma sabedoria que dá sentido a todos os outros saberes.</p> <p>Com este livro, esclareça sua vida com a luz do autoconhecimento e ganhe uma perspectiva de mundo comumente reservada exclusivamente aos santos e ascetas.</p>",
+  "sinopse": "Em 'Em Busca do Verdadeiro Eu', A.C. Bhaktivedanta Swami Prabhupāda explora o autoconhecimento, destacando sua importância sobre o conhecimento científico. A obra reúne ensaios e palestras que revelam uma sabedoria fundamental, proporcionando uma nova perspectiva sobre a vida e o entendimento da alma.",
+  "exemplar_id": 1472,
+  "sku": "LI00W5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/a-c--bhaktivedanta-swami-prabhup-da--em-busca-do-verdadeiro-eu--capa--20250401--115740.jpg",
+  "contracapa": "static/uploads/a-c--bhaktivedanta-swami-prabhup-da--em-busca-do-verdadeiro-eu--contracapa--20250401--115740.jpg",
+  "fotos": [
+    "static/uploads/a-c--bhaktivedanta-swami-prabhup-da--em-busca-do-verdadeiro-eu--foto1--20250401--115740.jpg",
+    "static/uploads/a-c--bhaktivedanta-swami-prabhup-da--em-busca-do-verdadeiro-eu--foto2--20250401--115740.jpg",
+    "static/uploads/a-c--bhaktivedanta-swami-prabhup-da--em-busca-do-verdadeiro-eu--foto3--20250401--115740.jpg",
+    "static/uploads/a-c--bhaktivedanta-swami-prabhup-da--em-busca-do-verdadeiro-eu--foto4--20250401--115740.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:08:12",
+  "observacoes": null
+}

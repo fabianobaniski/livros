@@ -1,0 +1,68 @@
+{
+  "obra_id": 2134,
+  "autor": "Paulo Sertek",
+  "titulo": "Empreendedorismo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Empreendedorismo. Desenvolvimento organizacional.",
+  "palavras_chave": "sertek empreendedorismo",
+  "edicao_id": 2114,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 237,
+  "peso": 395,
+  "isbn": "9788565704700",
+  "editora": "IBPEX",
+  "numero_edicao": 5,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Neste livro</b>, Paulo Sertek, educador e consultor de desenvolvimento organizacional, aborda passos e habilidades relacionados ao <i>empreendedorismo</i>.</p><p>Com o conhecimento adquirido de anos de vivência e pesquisa sobre o tema, o autor tem como objetivo <b>divulgar e facilitar o desenvolvimento de novas capacidades</b>. Assim, Sertek estabelece um diálogo centrado em dez pontos fundamentais para a gestão e o gerenciamento de uma empresa:</p><p>&gt;&gt; a análise e a discussão do fenômeno da globalização e as mudanças nas organizações;<br>&gt;&gt; a identificação do ambiente empresarial dentro do processo de globalização;<br>&gt;&gt; a relação dos diversos fatores que influenciam na escolha de negócios;<br>&gt;&gt; a compreensão das bases da atividade empreendedora;<br>&gt;&gt; a compreensão dos elementos da dinâmica dos negócios;<br>&gt;&gt; a compreensão da importância da elaboração de um plano de negócio;<br>&gt;&gt; como verificar quais são os elementos para identificar as oportunidades;<br>&gt;&gt; como identificar os fatores inibidores do potencial empreendedor;<br>&gt;&gt; como avaliar o potencial de lucro e crescimento do empreendimento;<br>&gt;&gt; como identificar os requisitos para o início de um empreendimento.</p><p>Você tem em suas mãos um <b>guia descritivo, analítico e prático</b> de <b>competências necessárias</b> ao empreendedor no âmbito empresarial.</p>",
+  "sinopse": "Neste livro, Paulo Sertek compartilha sua experiência e pesquisa no campo do empreendedorismo, visando divulgar e facilitar o desenvolvimento de novas capacidades empresariais. O autor apresenta um guia prático, analítico e descritivo, abordando temas como globalização, identificação de oportunidades, elaboração de plano de negócios, fatores inibidores e requisitos para empreender, oferecendo ao leitor as competências essenciais para a atuação no ambiente empresarial.",
+  "exemplar_id": 2113,
+  "sku": "LI019B",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/paulo-sertek--empreendedorismo--capa--20250430--104556.jpg",
+  "contracapa": "static/uploads/paulo-sertek--empreendedorismo--contracapa--20250430--104557.jpg",
+  "fotos": [
+    "static/uploads/paulo-sertek--empreendedorismo--foto1--20250430--104557.jpg",
+    "static/uploads/paulo-sertek--empreendedorismo--foto2--20250430--104557.jpg",
+    "static/uploads/paulo-sertek--empreendedorismo--foto3--20250430--104557.jpg",
+    "static/uploads/paulo-sertek--empreendedorismo--foto4--20250430--104557.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:17:48",
+  "observacoes": "procedencia_biblioteca"
+}

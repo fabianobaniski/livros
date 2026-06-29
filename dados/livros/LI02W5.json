@@ -1,0 +1,63 @@
+{
+  "obra_id": 5213,
+  "autor": "Kengo Hanazawa",
+  "titulo": "I am a hero",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Horror.",
+  "palavras_chave": "hanazawa hero",
+  "edicao_id": 5188,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 234,
+  "peso": 320,
+  "isbn": "9788542619379",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p>Impróprio para menores de 18 anos.</p>",
+  "sinopse": "Ele conheceu Hiromi Hayakari... uma estudante que havia fugido de sua excursão escolar. Eles sobreviveram juntos e decidiram subir até um mirante no Monte Fuji. No caminho, ao passarem por um santuário lotado de pessoas, Hiromi acabou mordida por um bebê infectado. Hideo se juntou a um fotógrafo e eles decidiram seguir rumores da internet e se refugiarem em um shopping center com outros sobreviventes. Porém, logo na estrada, encontraram corpos carbonizados com o 'anel de fogo', um método de execução como em guerrilhas. Por ter uma arma de verdade, Hideo foi bem recebido, mas já notou que os jovens líderes do lugar não são exatamente 'boas pessoas'...\r\n",
+  "exemplar_id": 5187,
+  "sku": "LI02W5",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/i-am-a-hero__kengo-hanazawa__capa__2026-02-20_10-32-41-434656-000.png",
+  "contracapa": "static/uploads/i-am-a-hero__kengo-hanazawa__contracapa__2026-02-20_10-32-41-563278-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

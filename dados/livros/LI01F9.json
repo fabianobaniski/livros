@@ -1,0 +1,63 @@
+{
+  "obra_id": 2348,
+  "autor": "Richard D. Weber",
+  "titulo": "A Profecia Voynich",
+  "subtitulo": "Criança índigo",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "weber profecia voynich crianca",
+  "edicao_id": 2328,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 335,
+  "peso": 634,
+  "isbn": "9788576792079",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Uma história que mescla busca espiritual e loucura, crueldade e compaixão, combinando elementos como nazismo, psicologia, alquimia e fantasia em uma trama intrigante. No centro da narrativa está um manuscrito enigmático que guarda o segredo da riqueza e da juventude eterna, além de um espelho negro que amplifica a pureza ou a crueldade de quem ousa explorá-lo. A trama envolve um grupo de crianças com poderes especiais, e personagens como Blair Kelly, arqueóloga e sacerdotisa celta; Heinrich Gant, um impiedoso negociante de armas; Margot, uma misteriosa assassina sadomasoquista; ...",
+  "exemplar_id": 2327,
+  "sku": "LI01F9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/richard-d-weber--a-profecia-voynich--capa--20260316--153119.jpg",
+  "contracapa": "static/uploads/richard-d-weber--a-profecia-voynich--contracapa--20260316--153126.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "O livro está em ótimo estado de conservação. Apresenta mínimos vestígios de uso. O texto encontra-se livre de sublinhados e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:39:35",
+  "observacoes": null
+}

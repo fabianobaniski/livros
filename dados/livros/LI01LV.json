@@ -1,0 +1,63 @@
+{
+  "obra_id": 2587,
+  "autor": "Cássio Leite Vieira; Antonio Augusto Passos Videira",
+  "titulo": "História da Física",
+  "subtitulo": "Artigos, ensaios e resenhas",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "vieira historia fisica artigos",
+  "edicao_id": 2567,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 220,
+  "peso": 300,
+  "isbn": "",
+  "editora": "CBPF",
+  "numero_edicao": 2,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2566,
+  "sku": "LI01LV",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/cassio-leite-vieira--historia-da-fisica--capa--20260316--212352.jpg",
+  "contracapa": "static/uploads/cassio-leite-vieira--historia-da-fisica--contracapa--20260316--212352.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:51:44",
+  "observacoes": null
+}

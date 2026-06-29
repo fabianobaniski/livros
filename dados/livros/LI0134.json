@@ -1,0 +1,68 @@
+{
+  "obra_id": 1910,
+  "autor": "Arnaldo Reis",
+  "titulo": "Demonstrações contábeis",
+  "subtitulo": "Estrutura e análise",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Demonstrações contábeis. Análise financeira. Educação.",
+  "palavras_chave": "reis demostracoes contabeis",
+  "edicao_id": 1890,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 305,
+  "peso": 545,
+  "isbn": "9788502055988",
+  "editora": "Saraiva",
+  "numero_edicao": 2,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>Demonstrações Contábeis - Estrutura e Análise</i> apresenta os principais fundamentos para a análise e estrutura de balanços e demonstrativos contábeis/financeiros.</p><p>Dentro de uma sequência lógica e racional, procurando explicar e justificar os principais conceitos técnicos e as determinações legais fundamentais, a obra alia a necessária profundidade com o prazer e a facilidade de aprender.</p><p>Com este livro, o leitor perceberá que os conceitos contábeis – desde o lançamento até os demonstrativos – são lógicos, intuitivos e facilmente assimiláveis, e fazem parte, inclusive, da experiência cotidiana de cada um de nós.</p><p>A grande preocupação é o aspecto didático, com a apresentação da matéria de forma clara e concisa, com linguagem simples e objetiva, acessível até mesmo para os leigos em contabilidade.</p><b>Aplicação:</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Demonstrações Contábeis, Demonstrações Financeiras.",
+  "sinopse": "O livro apresenta os principais fundamentos para a análise e estrutura de balanços e demonstrativos contábeis e financeiros, explicando conceitos técnicos e determinações legais de forma lógica e didática. Destaca-se pela clareza, objetividade e linguagem acessível, tornando-se útil até mesmo para leigos em contabilidade. Pode ser utilizado nas disciplinas de Demonstrações Contábeis e Demonstrações Financeiras.",
+  "exemplar_id": 1889,
+  "sku": "LI0134",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/arnaldo-reis--demonstra--es-cont-beis--capa--20250430--104259.jpg",
+  "contracapa": "static/uploads/arnaldo-reis--demonstra--es-cont-beis--contracapa--20250430--104259.jpg",
+  "fotos": [
+    "static/uploads/arnaldo-reis--demonstra--es-cont-beis--foto1--20250430--104259.jpg",
+    "static/uploads/arnaldo-reis--demonstra--es-cont-beis--foto2--20250430--104259.jpg",
+    "static/uploads/arnaldo-reis--demonstra--es-cont-beis--foto3--20250430--104259.jpg",
+    "static/uploads/arnaldo-reis--demonstra--es-cont-beis--foto4--20250430--104259.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:39:11",
+  "observacoes": "procedencia_biblioteca"
+}

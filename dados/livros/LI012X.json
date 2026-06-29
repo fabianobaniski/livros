@@ -1,0 +1,68 @@
+{
+  "obra_id": 1903,
+  "autor": "Dante Carmine Matarazzo",
+  "titulo": "Análise financeira de balanços",
+  "subtitulo": "Abordagem gerencial",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Finanças. Contabilidade. Demonstrações financeiras. Administração empresarial.",
+  "palavras_chave": "matarazzo analise financeira balancos",
+  "edicao_id": 1883,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 372,
+  "peso": 655,
+  "isbn": "9788522456925",
+  "editora": "Atlas",
+  "numero_edicao": 7,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Análise financeira de balanços</h1><h2>Abordagem Gerencial</h2><p>Uma característica deste livro é apresentar técnicas de Análise das Demonstrações Financeiras capazes de gerar amplas e profundas informações sobre o desempenho, a situação econômico-financeira e a gerência das empresas.</p><p>Este livro diferencia-se dos tradicionais textos de Análise de Balanços, mostrando, analisando e avaliando várias noções avançadas de finanças.</p><p>Com esse novo instrumental, a Análise das Demonstrações Financeiras, que anteriormente era usada quase que exclusivamente de fora da empresa, passa a se inserir entre as técnicas de gerência financeira. Por outro lado, vem propiciar ao público externo muito mais conhecimento a respeito da empresa.</p><p>Destaca-se na obra a originalidade de alguns tópicos, como:</p><ul><li>Modelo de avaliação de empresas, evidenciando pontos fortes e fracos da empresa, com apoio de técnicas estatísticas.</li><li>Análise das Demonstrações dos Fluxos de Caixa, revelando a qualidade dos vários segmentos da geração de caixa, a adequação entre os investimentos e os financiamentos e a autossustentação de crescimento empresarial.</li><li>Conceitos avançados e inéditos de Capital Circulante Líquido, Capital Circulante Próprio e Necessidade de Capital de Giro, evidenciando e enfatizando a importância de suas movimentações – dentro do Fluxo de Caixa – para avaliação da Administração Financeira.</li><li>Análise aprofundada da Rentabilidade Empresarial, através do desdobro da taxa de retorno e da Alavancagem Financeira, identificando as vantagens e desvantagens do endividamento e os fatores que afetam a rentabilidade.</li></ul><p>É importante ressaltar que todos os ensinamentos contidos no livro foram testados na prática, durante o período de cerca de 15 anos em que o autor atuou como consultor financeiro de empresas.</p><h3>APLICAÇÃO</h3><p>Livro-texto para as disciplinas <i>Análise de Balanços</i> e <i>Análise das Demonstrações Financeiras</i> dos cursos de graduação em Ciências Contábeis, Administração de Empresas e Economia. Leitura complementar para a disciplina <i>Administração Financeira</i>. Leitura de atualização profissional. Obra de referência para cursos especiais.</p>",
+  "sinopse": "Este livro apresenta técnicas de análise das demonstrações financeiras que geram informações aprofundadas sobre o desempenho, situação econômico-financeira e a gestão das empresas. Diferenciando-se dos textos tradicionais, ele traz noções avançadas de finanças e oferece tópicos originais, como modelos de avaliação de empresas, análise dos fluxos de caixa, conceitos inéditos de capital circulante e aprofundamento da rentabilidade empresarial. Utilizado como livro-texto e referência para cursos em Ciências Contábeis, Administração e Economia, seu conteúdo foi testado pelo autor em mais de 15 anos como consultor.",
+  "exemplar_id": 1882,
+  "sku": "LI012X",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/dante-carmine-matarazzo--an-lise-financeira-de-balan-os--capa--20250430--104258.jpg",
+  "contracapa": "static/uploads/dante-carmine-matarazzo--an-lise-financeira-de-balan-os--contracapa--20250430--104258.jpg",
+  "fotos": [
+    "static/uploads/dante-carmine-matarazzo--an-lise-financeira-de-balan-os--foto1--20250430--104258.jpg",
+    "static/uploads/dante-carmine-matarazzo--an-lise-financeira-de-balan-os--foto2--20250430--104258.jpg",
+    "static/uploads/dante-carmine-matarazzo--an-lise-financeira-de-balan-os--foto3--20250430--104258.jpg",
+    "static/uploads/dante-carmine-matarazzo--an-lise-financeira-de-balan-os--foto4--20250430--104258.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 19:15:37",
+  "observacoes": "procedencia_biblioteca"
+}

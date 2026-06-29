@@ -1,0 +1,68 @@
+{
+  "obra_id": 5756,
+  "autor": "Pablo Yoder",
+  "titulo": "Um mês com os sábios",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Estudo bíblico. Sabedoria. Provérbios. Vida cristã.",
+  "palavras_chave": "mes com sabios",
+  "edicao_id": 5731,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 128,
+  "peso": 160,
+  "isbn": "9788564737143",
+  "editora": "LMS",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Um mês com os sábios</h1><p>Provérbios 3.13 diz:<br><i>\"Bem-aventurado o homem que acha a sabedoria.\"</i></p><p>Este estudo do livro de Provérbios, dividido em 28 lições, ajudará o leitor a aplicar a sabedoria dos Provérbios de uma maneira prática em sua vida diária e assim ter uma vida marcada pela sabedoria divina e abençoada por Deus.</p><p><b>Nossa oração para você é que, ao passar um mês com os sábios, ficará preparado para passar uma eternidade com Deus.</b></p>",
+  "sinopse": "Este livro oferece um estudo do livro de Provérbios, dividido em 28 lições, para ajudar o leitor a aplicar a sabedoria bíblica de forma prática em sua vida cotidiana. O objetivo é conduzir o leitor a uma existência marcada pela sabedoria divina e pelas bênçãos de Deus, preparando-o para uma eternidade ao lado do Criador.",
+  "exemplar_id": 5730,
+  "sku": "LI0351",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/um-mes-com-os-sabios__none__none__capa__2026-01-18_14-11-24-785871-000.png",
+  "contracapa": "static/uploads/um-mes-com-os-sabios__none__none__contracapa__2026-01-18_14-11-24-855129-001.png",
+  "fotos": [
+    "static/uploads/um-mes-com-os-sabios__none__none__foto-01__2026-01-18_14-11-24-920736-002.jpg",
+    "static/uploads/um-mes-com-os-sabios__none__none__foto-02__2026-01-18_14-11-24-964787-003.jpg",
+    "static/uploads/um-mes-com-os-sabios__none__none__foto-03__2026-01-18_14-11-24-997419-004.jpg",
+    "static/uploads/um-mes-com-os-sabios__none__none__foto-04__2026-01-18_14-11-25-026603-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:36:15",
+  "observacoes": null
+}

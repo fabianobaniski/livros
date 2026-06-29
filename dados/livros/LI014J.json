@@ -1,0 +1,68 @@
+{
+  "obra_id": 1961,
+  "autor": "Mario Sergio Cunha Alencastro",
+  "titulo": "Ética empresarial na prática",
+  "subtitulo": "Liderança, gestão e responsabilidade corporativa",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Ética empresarial. Responsabilidade corporativa.",
+  "palavras_chave": "alencastro etica empresarial pratica",
+  "edicao_id": 1941,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 160,
+  "peso": 315,
+  "isbn": "9788578386337",
+  "editora": "IBPEX",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A ética faz a diferença no mundo dos negócios?</p><p>O que é correto?</p><p>O que é ético?</p><p>Estas questões são algumas das provocações que esta obra traz ao leitor, contextualizando situações reais do mundo corporativo, em uma abordagem que busca evidenciar o compromisso ético das empresas com a sociedade e, de forma mais direta, com as pessoas que nela trabalham.</p><p>Precisamos, mais do que nunca, de uma nova mentalidade produtiva, capaz de oferecer à sociedade mais do que subtrai dela e, em contrapartida, voltada ao entendimento de que o lucro, o reconhecimento e o sucesso podem ser consequência de ações focadas na preservação do meio ambiente, da vida, da cultura dos povos e, sobretudo, de seus valores éticos.</p><p>É possível uma empresa ética?</p><p>O que é humano?</p><p>O que é moral?</p>",
+  "sinopse": "A obra levanta reflexões sobre a importância da ética no mundo corporativo, contextualizando situações reais para mostrar o compromisso das empresas com a sociedade e seus colaboradores. Destaca a necessidade de uma nova mentalidade produtiva que priorize ações éticas voltadas ao bem-estar social, à preservação do meio ambiente e à valorização dos valores culturais e humanos, além do lucro e reconhecimento.",
+  "exemplar_id": 1940,
+  "sku": "LI014J",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mario-sergio-cunha-alencastro---tica-empresarial--capa--20250430--104308.jpg",
+  "contracapa": "static/uploads/mario-sergio-cunha-alencastro---tica-empresarial--contracapa--20250430--104308.jpg",
+  "fotos": [
+    "static/uploads/mario-sergio-cunha-alencastro---tica-empresarial--foto1--20250430--104308.jpg",
+    "static/uploads/mario-sergio-cunha-alencastro---tica-empresarial--foto2--20250430--104308.jpg",
+    "static/uploads/mario-sergio-cunha-alencastro---tica-empresarial--foto3--20250430--104308.jpg",
+    "static/uploads/mario-sergio-cunha-alencastro---tica-empresarial--foto4--20250430--104308.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:40:49",
+  "observacoes": "procedencia_biblioteca"
+}

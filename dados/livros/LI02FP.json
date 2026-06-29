@@ -1,0 +1,68 @@
+{
+  "obra_id": 3666,
+  "autor": "Edward Lasker",
+  "titulo": "Xeque-Mate: O raciocínio em xeque",
+  "subtitulo": "A aventura do xadrez",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "Edward Lasker xeque mate",
+  "edicao_id": 3643,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 320,
+  "peso": 645,
+  "isbn": "",
+  "editora": "Theor S/A",
+  "numero_edicao": null,
+  "ano": 1973,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3642,
+  "sku": "LI02FP",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/edward-lasker--xeque-mate-o-raciocinio-em-xeque--capa--20251113--232717.png",
+  "contracapa": "static/uploads/edward-lasker--xeque-mate-o-raciocinio-em-xeque--contracapa--20251113--232729.png",
+  "fotos": [
+    "static/uploads/edward-lasker--xeque-mate-o-raciocinio-em-xeque--foto1--20251121--190931.jpg",
+    "static/uploads/edward-lasker--xeque-mate-o-raciocinio-em-xeque--foto2--20251121--190931.jpg",
+    "static/uploads/edward-lasker--xeque-mate-o-raciocinio-em-xeque--foto3--20251121--190931.jpg",
+    "static/uploads/edward-lasker--xeque-mate-o-raciocinio-em-xeque--foto4--20251121--190931.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel fortemente amarelado. Texto em bom estado, sem grifos ou anotações. Lombada necessita ser colada à parte interna da capa com cola apropriada."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:05:46",
+  "observacoes": null
+}

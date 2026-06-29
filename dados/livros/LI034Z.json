@@ -1,0 +1,68 @@
+{
+  "obra_id": 5754,
+  "autor": "Abril Coleções",
+  "titulo": "Cozinha regional brasileira",
+  "subtitulo": "Minas Gerais",
+  "idioma": "Português",
+  "categoria": "Culinária",
+  "temas": "Culinária brasileira. Gastronomia mineira. Tradições regionais.",
+  "palavras_chave": "minas gerais cozinha regional brasileira",
+  "edicao_id": 5729,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 129,
+  "peso": 390,
+  "isbn": "9788579715570",
+  "editora": "Abril Coleções",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "Cozinha Regional Brasileira",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Os pratos típicos da cozinha de Minas Gerais estão entre os mais conhecidos e apreciados do País. Não há quem resista ao aroma do pão de queijo assando ou à delícia de um tutu de feijão temperadinho. A combinação dos ingredientes de uso local – como o ora-pro-nóbis – e tradicionais resulta em pratos de sabor único, que são unanimidade nacional.</p><p>Este volume da COZINHA REGIONAL BRASILEIRA reúne receitas mineiras selecionadas, com os bocadinhos e pitadas traduzidos em medidas que você pode adotar sem erro. Aproveite, porque é danado de bão!</p>",
+  "sinopse": "Os pratos típicos da cozinha de Minas Gerais estão entre os mais conhecidos e apreciados do Brasil, como o pão de queijo e o tutu de feijão. Este volume da coleção Cozinha Regional Brasileira reúne receitas mineiras autênticas, adaptadas para o leitor com medidas precisas, trazendo a combinação de ingredientes locais e tradicionais que resultam em sabores únicos. Uma seleção para quem quer experimentar o melhor da culinária mineira em casa.",
+  "exemplar_id": 5728,
+  "sku": "LI034Z",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/minas-gerais__none__none__capa__2026-01-18_14-11-23-879438-000.png",
+  "contracapa": "static/uploads/minas-gerais__none__none__contracapa__2026-01-18_14-11-23-965013-001.png",
+  "fotos": [
+    "static/uploads/minas-gerais__none__none__foto-01__2026-01-18_14-11-24-053749-002.jpg",
+    "static/uploads/minas-gerais__none__none__foto-02__2026-01-18_14-11-24-090326-003.jpg",
+    "static/uploads/minas-gerais__none__none__foto-03__2026-01-18_14-11-24-121868-004.jpg",
+    "static/uploads/minas-gerais__none__none__foto-04__2026-01-18_14-11-24-153840-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. / OBS.: Consta dedicatória na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:03:25",
+  "observacoes": null
+}

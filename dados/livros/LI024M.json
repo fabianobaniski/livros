@@ -1,0 +1,68 @@
+{
+  "obra_id": 3264,
+  "autor": "Keiko Suenobu",
+  "titulo": "Vitamin",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Adolescência. Bullying. Vida escolar.",
+  "palavras_chave": "suenobu vitamin",
+  "edicao_id": 3244,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 230,
+  "isbn": "9788545701064",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Sawako, uma estudante de 15 anos, levava uma vida escolar como muitas outras, sem maiores problemas. Até que certo dia, ela é flagrada com o namorado numa sala de aula por um colega de classe, e isso transformará a vida dela no verdadeiro inferno que é sofrer bullying! As amigas de ontem, são as vilãs de hoje... Qual é a \"vitamina\" necessária para ela suportar a dor e o desespero de ser maltratada pelos próprios colegas de escola?</p>",
+  "sinopse": "Sawako, uma jovem de 15 anos, vive uma rotina escolar comum até ser flagrada com seu namorado em uma sala de aula. A partir desse momento, sua vida se transforma num inferno marcado pelo bullying, tornando antigas amigas em verdadeiras inimigas. Sozinha, ela precisa encontrar forças para enfrentar a dor e o desespero causados pelo preconceito e pelo sofrimento imposto pelos próprios colegas de escola.",
+  "exemplar_id": 3243,
+  "sku": "LI024M",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/vitamin__keiko-suenobu__capa__2025-11-05_16-24-44-338781.jpg",
+  "contracapa": "static/uploads/vitamin__keiko-suenobu__contracapa__2025-11-05_16-24-44-359577.jpg",
+  "fotos": [
+    "static/uploads/vitamin__keiko-suenobu__foto-01__2025-11-05_16-24-44-398348.jpg",
+    "static/uploads/vitamin__keiko-suenobu__foto-02__2025-11-05_16-24-44-427097.jpg",
+    "static/uploads/vitamin__keiko-suenobu__foto-03__2025-11-05_16-24-44-446745.jpg",
+    "static/uploads/vitamin__keiko-suenobu__foto-04__2025-11-05_16-24-44-474091.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:50:01",
+  "observacoes": null
+}

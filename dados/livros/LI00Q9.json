@@ -1,0 +1,63 @@
+{
+  "obra_id": 987,
+  "autor": "Mafalda Pereira Böing",
+  "titulo": "Lourdes, fonte de graças",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Milagres. Culto.",
+  "palavras_chave": "boing lourdes fonte gracas",
+  "edicao_id": 972,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 67,
+  "peso": 100,
+  "isbn": "8515010283",
+  "editora": "Edições Loyola",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A leitura de Lourdes, fonte de graças, além de nos introduzir nas maravilhas que continuam sendo operadas no grande santuário mariano, nos dá uma certeza: Lourdes tem as dimensões do mundo porque tem as dimensões do coração de uma mãe — da Mãe de Jesus, de nossa Mãe, Maria Santíssima.</p> <p>Ir a Lourdes é uma graça; trazer Lourdes para perto de si é uma possibilidade ao alcance de todos os filhos daquela que se apresentou a Bernadete, dizendo: \"Eu sou a Imaculada Conceição\".</p> <p>\"Senhor, aquele que amas está doente.\" Este recado de pessoas amigas conseguiram fazer com que Jesus mudasse seu programa e ressuscitasse seu amigo Lázaro. Dito hoje por sua mãe, que decisões não fará nascer no Coração de Jesus?</p>",
+  "sinopse": "A leitura de 'Lourdes, fonte de graças' nos apresenta as dimensões do santuário e do coração materno da Mãe de Jesus. Explora como a visita a Lourdes oferece a todos a graça de se aproximar dessa figura espiritual, que representa esperança e cura.",
+  "exemplar_id": 971,
+  "sku": "LI00Q9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mafalda-pereira-b-ing--lourdes--capa--20250305--153421.jpg",
+  "contracapa": "static/uploads/mafalda-pereira-b-ing--lourdes--contracapa--20250305--153421.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:36:25",
+  "observacoes": null
+}

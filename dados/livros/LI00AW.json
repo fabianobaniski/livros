@@ -1,0 +1,68 @@
+{
+  "obra_id": 426,
+  "autor": "Euclides da Cunha",
+  "titulo": "Os sertões",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura brasileira. História. Conflitos sociais.",
+  "palavras_chave": "cunha sertoes",
+  "edicao_id": 414,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 596,
+  "peso": 450,
+  "isbn": "8501055913",
+  "editora": "Record",
+  "numero_edicao": 5,
+  "ano": 2002,
+  "serie": "Coleção Descobrindo os Clássicos",
+  "volume": null,
+  "transcricao_contracapa": "<p>Euclides da Cunha</p> <p>Euclides Rodrigues Pimenta da Cunha</p> <p>Romancista. Iniciou o curso de engenharia na Escola Central Politécnica no Rio de Janeiro, transferindo-se depois para a Escola Militar, da qual foi expulso em 1888 por motivo de rebeldia. Positivista, antimonárquico e abolicionista, com a proclamação da República foi readmitido no Exército. Cursou engenharia militar na Escola Superior de Guerra e bacharelou-se em matemática e ciências naturais, dedicando-se à engenharia civil e ao jornalismo. Foi enviado pelo jornal O Estado de S. Paulo, em 1897, para cobrir a guerra de Canudos, causada pela rebelião de fanáticos religiosos na Bahia. Autor de Os sertões, obra \"precursora para o desenvolvimento das ciências sociais nos 30 e 40\" (Antônio Cândido), que trouxe \"para a linha de frente do pensamento nacional a indignação das razões do atraso do interior do país e deste país em relação aos outros\" (Walnice Nogueira Galvão). Foi membro da Academia Brasileira de Letras e do Instituto Histórico e Geográfico.</p>",
+  "sinopse": "Os Sertões é uma obra fundamental que explora a guerra de Canudos e suas implicações sociais e culturais. Escrito por Euclides da Cunha, o livro analisa a resistência dos habitantes da região e as razões históricas por trás de suas lutas. O autor busca entender a complexidade do sertão e suas gentes, apresentando uma crítica ao preconceito e à desigualdade.",
+  "exemplar_id": 413,
+  "sku": "LI00AW",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/euclides-da-cunha--os-sert-es--capa--20250226--133828.jpg",
+  "contracapa": "static/uploads/euclides-da-cunha--os-sert-es--contracapa--20250226--133828.jpg",
+  "fotos": [
+    "static/uploads/euclides-da-cunha--os-sert-es--foto1--20250226--133828.jpg",
+    "static/uploads/euclides-da-cunha--os-sert-es--foto2--20250226--133828.jpg",
+    "static/uploads/euclides-da-cunha--os-sert-es--foto3--20250226--133828.jpg",
+    "static/uploads/euclides-da-cunha--os-sert-es--foto4--20250226--133828.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Há, porém,  marca de dobra na capa. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:26:25",
+  "observacoes": null
+}

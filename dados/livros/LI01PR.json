@@ -1,0 +1,63 @@
+{
+  "obra_id": 2727,
+  "autor": "Regina Navarro Lins",
+  "titulo": "Na cabeceira da cama",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "lins cabeceira cama",
+  "edicao_id": 2707,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 232,
+  "peso": 350,
+  "isbn": "9788532509550",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Regina Navarro Lins desafia as convenções tradicionais de casamento e relacionamento em seu novo livro, propondo alternativas para viver de forma livre e satisfatória. A autora aborda temas como fidelidade, ciúme e prazer sexual, desmascarando o mito do amor romântico como fonte única de felicidade. Ela defende que a unanimidade nas interpretações das relações pode sufocar a liberdade individual, oferecendo novas perspectivas sobre casamento e sexualidade. Com uma abordagem crítica, explora a inveja, a decepção e o uso do sexo como arma nos relacionamentos.",
+  "exemplar_id": 2706,
+  "sku": "LI01PR",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/na-cabeceira-da-cama-regina-navarro-lins-capa_rev399.jpg",
+  "contracapa": "static/uploads/na-cabeceira-da-cama-regina-navarro-lins-contracapa_rev1938.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:13:19",
+  "observacoes": null
+}

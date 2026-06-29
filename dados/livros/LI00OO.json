@@ -1,0 +1,63 @@
+{
+  "obra_id": 930,
+  "autor": "Leland Ryken",
+  "titulo": "Santos no mundo",
+  "subtitulo": "Os puritanos como realmente eram",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. História da Igreja.",
+  "palavras_chave": "ryken santos mundo puritanos",
+  "edicao_id": 915,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 377,
+  "peso": 450,
+  "isbn": "9788581321271",
+  "editora": "FIEL",
+  "numero_edicao": 2,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Estude com muita atenção este livro, para aprender com os puritanos – inclusive evitar seus erros – mas, acima de tudo, para com eles glorificar a Deus e a desfrutá-lo para sempre por meio da voz de Deus nas Escrituras.</p><p>Franklin Ferreira, Diretor do Seminário Martin Bucer; Coautor de “Teologia Sistematica - Uma análise histórica, bíblica e apologética para o contexto atual”</p><p>Apesar de sua relevância e importância para a teologia reformada, os puritanos têm sido pouco lidos e muito mal compreendidos. A leitura deste clássico de Leland Ryken sobre os puritanos e como eles de fato foram o que creram, ajuda a corrigir muitas distorções. Recomendo com alegria.</p><p>Augustus Nicodemus, Vice-Presidente do Supremo Concílio da Igreja Presbiteriana do Brasil; autor de “Apóstolos”.</p><p>Lembro-me, como se fosse hoje, da sensação que tive quando terminei de ler “Santos no mundo”: uma mistura de vergonha e esperança. Ryken me fez enxergar com clareza o verdadeiro desafio do discípulo de Cristo: “viver no mundo sem pertencer ao mundo”!</p><p>Jonas Madureira, Membro do Conselho Editorial de Edições Vida Nova; autor de “Curso Vida Nova de Teologia Básica - Filosofia”</p>",
+  "sinopse": "Este livro é um estudo profundo sobre os puritanos, buscando ensinar e explorar a relevância de suas crenças e práticas para a vida cristã contemporânea. O autor enfatiza a importância de aprender com os erros dos puritanos, mas destacando principalmente sua capacidade de glorificar a Deus através das Escrituras.",
+  "exemplar_id": 914,
+  "sku": "LI00OO",
+  "preco_estante_virtual": 42.0,
+  "preco_amazon": 42.0,
+  "capa": "static/uploads/leland-ryken--santos-no-mundo--capa--20250227--152914.jpg",
+  "contracapa": "static/uploads/leland-ryken--santos-no-mundo--contracapa--20250227--152914.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:53:35",
+  "observacoes": null
+}

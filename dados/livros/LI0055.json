@@ -1,0 +1,68 @@
+{
+  "obra_id": 208,
+  "autor": "Susanna Tamaro",
+  "titulo": "Para sempre",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura contemporânea. Tragédia. Amor.",
+  "palavras_chave": "tamaro para sempre",
+  "edicao_id": 202,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 350,
+  "isbn": "9788576861577",
+  "editora": "Verus",
+  "numero_edicao": 1,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Para sempre é um livro profundo e comovente sobre dor e perda... mas também sobre a capacidade de se reerguer e confrontar a vida com coragem.</p> <p>Vivendo há muitos anos isolado em sua casa na floresta, Matteo rememora um passado que surge sem cessar e se alterna com o presente, por meio de um fluxo de recordações que vão revelando os personagens e os acontecimentos que o conduziram até ali. Buscando respostas a perguntas intermitentes, Matteo conta sua história numa voz dolorida, poética e profunda.</p> <p>Sua mulher e seu filho se foram há quinze anos, e todos os dias desde então Matteo se pergunta qual é o caminho a seguir. Sem conseguir reagir à tragédia, ele se afunda cada vez mais no álcool, nas mentiras e em relacionamentos sem futuro. Mas, nesse cenário de extrema desolação, eis que surge uma luz: o amor incondicional de um pai por seu filho; uma mulher apaixonada que oferece ao seu homem a última possibilidade de redenção. Naufragado nas vastas e escuras águas às quais se rendeu, Matteo conseguirá agarrar-se à sua única salvação?</p> <p>Em Para sempre, Susanna Tamaro nos brinda com uma história emocionante sobre o amor, a fragilidade humana e o espanto diante da vida. Por meio da voz de um único homem, este livro conta a história de todos aqueles que, mesmo feridos pela vida, procuram uma maneira de continuar a amá-la e vivê-la plenamente.</p>",
+  "sinopse": "O livro 'Para sempre' narra a história de Matteo, um homem isolado em sua casa na floresta e atormentado por seu passado e a perda de sua família. Ele luta contra a autodestruição, mas encontra esperança através do amor por seu filho e de uma mulher que pode oferecer redenção. Em meio a suas batalhas internas, Matteo busca respostas e uma razão para recomeçar.",
+  "exemplar_id": 201,
+  "sku": "LI0055",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/susanna-tamaro--para-sempre--capa--20250226--133806.jpg",
+  "contracapa": "static/uploads/susanna-tamaro--para-sempre--contracapa--20250226--133806.jpg",
+  "fotos": [
+    "static/uploads/susanna-tamaro--para-sempre--foto1--20250226--133806.jpg",
+    "static/uploads/susanna-tamaro--para-sempre--foto2--20250226--133806.jpg",
+    "static/uploads/susanna-tamaro--para-sempre--foto3--20250226--133806.jpg",
+    "static/uploads/susanna-tamaro--para-sempre--foto4--20250226--133806.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:35:25",
+  "observacoes": null
+}

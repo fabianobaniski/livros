@@ -1,0 +1,63 @@
+{
+  "obra_id": 2881,
+  "autor": "Melquíades Pinto Paiva",
+  "titulo": "Recursos pesqueiros estuarinos e marinhos do Brasil",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ecologia",
+  "temas": "",
+  "palavras_chave": "paiva recursos pesqueiros estuarinos",
+  "edicao_id": 2861,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 286,
+  "peso": 300,
+  "isbn": "9788576842842",
+  "editora": "Ufc",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "este livro, produzido no âmbito do programa revizee, faz um levantamento detalhado sobre os recursos pesqueiros estuarinos e marinhos do brasil. a obra analisa a legislação e políticas referentes à zona econômica exclusiva, discorrendo sobre os principais estoques pesqueiros e suas características de exploração. com dados sobre produção e estimativas de potencial de pesca, o estudo oferece uma visão abrangente da pesca no brasil, essencial para pesquisadores e profissionais do setor, preenchendo uma lacuna na literatura técnico-científica das ciências pesqueiras.",
+  "exemplar_id": 2860,
+  "sku": "LI01U1",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/recursos-pesqueiros-estuarinos-e-marinhos-do-brasil-melquiades-pinto-paiva-capa_rev648.jpg",
+  "contracapa": "static/uploads/recursos-pesqueiros-estuarinos-e-marinhos-do-brasil-melquiades-pinto-paiva-contracapa_rev115.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "livro muito bem conservado. capa e contracapa sem danos. lombada alinhada. papel sem manchas. constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:39:58",
+  "observacoes": null
+}

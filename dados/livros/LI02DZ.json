@@ -1,0 +1,68 @@
+{
+  "obra_id": 3604,
+  "autor": "Clamp",
+  "titulo": "Chobits",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Ficção científica. Robôs humanóides. Relações humanas.",
+  "palavras_chave": "clamp chobits",
+  "edicao_id": 3581,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 215,
+  "isbn": "9788545701118",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "<p>A verdadeira razão por trás da criação das irmãs persocoms, Freya e Elda, é revelada. Enquanto a misteriosa dupla composta por Dita e Ziemma se aproxima da localização de Chii, Hideki terá que admitir para si seus verdadeiros sentimentos pela sua persocom. Será que ele é a pessoa só para Chii? Mais um clássico do grupo CLAMP chega ao seu último volume, republicado em coleção especial.</p>",
+  "sinopse": "Neste volume final de Chobits, a razão por trás da criação das irmãs persocoms Freya e Elda é finalmente revelada. Com Dita e Ziemma se aproximando de Chii, Hideki precisa enfrentar seus sentimentos pela sua persocom, enquanto o destino de Chii é decidido. Uma trama emocionante conclui este clássico do grupo CLAMP, agora republicado em edição especial.",
+  "exemplar_id": 3580,
+  "sku": "LI02DZ",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/chobits__clamp__capa__2025-11-05_16-17-07-563312.jpg",
+  "contracapa": "static/uploads/chobits__clamp__contracapa__2025-11-05_16-17-07-606009.jpg",
+  "fotos": [
+    "static/uploads/chobits__clamp__foto-01__2025-11-05_16-17-07-635255.jpg",
+    "static/uploads/chobits__clamp__foto-02__2025-11-05_16-17-07-662227.jpg",
+    "static/uploads/chobits__clamp__foto-03__2025-11-05_16-17-07-697372.jpg",
+    "static/uploads/chobits__clamp__foto-04__2025-11-05_16-17-07-734063.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:00:46",
+  "observacoes": null
+}

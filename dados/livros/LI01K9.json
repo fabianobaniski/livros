@@ -1,0 +1,63 @@
+{
+  "obra_id": 2529,
+  "autor": "James Morrison",
+  "titulo": "Essential public affairs for journalists",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Comunicação",
+  "temas": "",
+  "palavras_chave": "morrison essential public affairs",
+  "edicao_id": 2509,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 646,
+  "peso": 1500,
+  "isbn": "9780199592005",
+  "editora": "Oxford University Press",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Essential Public Affairs for Journalists é uma obra indispensável para jornalistas que cobrem assuntos públicos. O livro oferece uma visão abrangente sobre o funcionamento do governo, tanto em nível local quanto nacional, abordando questões políticas, sociais e econômicas. Ele está alinhado ao currículo do NCTJ, garantindo que os leitores adquiram o conhecimento necessário para reportar com precisão e confiança. Além disso, inclui recursos online complementares que aprimoram a compreensão dos temas discutidos, tornando-o uma ferramenta completa para estudantes e profissionais da área.",
+  "exemplar_id": 2508,
+  "sku": "LI01K9",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/james-morrison--essential-public-affairs-for-journalists--capa--20260316--194135.jpg",
+  "contracapa": "static/uploads/james-morrison--essential-public-affairs-for-journalists--contracapa--20260316--194135.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso, com pequenos desgastes nas bordas. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:28:57",
+  "observacoes": null
+}

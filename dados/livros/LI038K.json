@@ -1,0 +1,67 @@
+{
+  "obra_id": 5884,
+  "autor": "Ellen G. White",
+  "titulo": "Obreiros evangélicos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white obreiros evangelicos",
+  "edicao_id": 5859,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 533,
+  "peso": 575,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 5,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Destinado a ministros e missionários, este manual oferece orientações valiosas para a edificação espiritual e o fortalecimento do trabalho cristão. Com base nos escritos de uma autora reconhecida por sua dedicação e inspiração divina, a obra reúne conselhos práticos e mensagens profundas que visam glorificar a Deus e guiar os leitores em sua missão. Uma leitura indispensável para aqueles que buscam crescer na fé e servir ao próximo com sabedoria...",
+  "exemplar_id": 5858,
+  "sku": "LI038K",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": 150.0,
+  "capa": "static/uploads/ellen-g-white--obreiros-evangelicos--capa--20260306--093620.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--obreiros-evangelicos--foto1--20260306--093628.jpg",
+    "static/uploads/ellen-g-white--obreiros-evangelicos--foto2--20260306--093628.jpg",
+    "static/uploads/ellen-g-white--obreiros-evangelicos--foto3--20260306--093628.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Sem marcas de umidade, mofo, traça. Única ressalva é que há alguns grifos feitos usando caneta e régua em pouquíssimas folhas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:57:58",
+  "observacoes": null
+}

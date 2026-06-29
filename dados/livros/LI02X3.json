@@ -1,0 +1,63 @@
+{
+  "obra_id": 5247,
+  "autor": "Eiichi Shimizu; Tomohiro Shimoguchi",
+  "titulo": "Ultraman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Batalhas. Mistérios.",
+  "palavras_chave": "shimizu ultraman",
+  "edicao_id": 5222,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 230,
+  "peso": 180,
+  "isbn": "9788545701460",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>O palco do empolgante show de Rena Sayama dá lugar a uma batalha fervorosa! Shinjiro e os outros entram num confronto direto contra Adad, e até Bemular faz uma aparição! Os fogos se cruzam e os sentimentos se entrelaçam. Que desfecho terá esse \"show da insanidade\"...?!</p> <p>E como se não bastasse, um misterioso rapaz chamado \"Hokuto\" aparece diante de Shinjiro, mas não se sabe ao certo suas reais intenções...</p>",
+  "sinopse": "Durante o emocionante show de Rena Sayama, uma intensa batalha acontece entre Shinjiro e seus inimigos, com intervenções inesperadas e sentimentos à flor da pele. No meio do caos, o enigmático Hokuto surge, trazendo incertezas sobre suas verdadeiras intenções.",
+  "exemplar_id": 5221,
+  "sku": "LI02X3",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/ultraman__eiichi-shimizu-tomohiro-shimoguchi__capa__2026-02-20_10-32-53-607481-000.png",
+  "contracapa": "static/uploads/ultraman__eiichi-shimizu-tomohiro-shimoguchi__contracapa__2026-02-20_10-32-53-958818-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

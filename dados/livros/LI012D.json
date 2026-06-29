@@ -1,0 +1,68 @@
+{
+  "obra_id": 1883,
+  "autor": "Abelardo de Lima Puccini",
+  "titulo": "Matemática financeira",
+  "subtitulo": "Objetiva e aplicada",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Matemática financeira. Educação financeira. Aplicações práticas.",
+  "palavras_chave": "puccini matematica financeira objetiva aplicada",
+  "edicao_id": 1863,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 419,
+  "peso": 690,
+  "isbn": "9788502042537",
+  "editora": "Saraiva",
+  "numero_edicao": 7,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>MATEMÁTICA FINANCEIRA<br>OBJETIVA E APLICADA</b><br><br>Conheça o site do livro e as demais novidades do nosso catálogo no endereço:<br><b>www.saraivauni.com.br</b>",
+  "sinopse": "O livro 'Matemática financeira: objetiva e aplicada', de Abelardo de Lima Puccini, apresenta os principais conceitos e aplicações da matemática financeira de maneira prática, abordando recursos e exercícios que miram a objetividade e a utilidade no dia a dia profissional. Com aplicação em Excel e HP, o livro é indicado tanto para alunos quanto para profissionais que buscam melhor entendimento e domínio das ferramentas financeiras.",
+  "exemplar_id": 1862,
+  "sku": "LI012D",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--capa--20250430--104254.jpg",
+  "contracapa": "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--contracapa--20250430--104254.jpg",
+  "fotos": [
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto1--20250430--104254.jpg",
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto2--20250430--104254.jpg",
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto3--20250430--104254.jpg",
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto4--20250430--104254.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:17:23",
+  "observacoes": "procedencia_biblioteca"
+}

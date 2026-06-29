@@ -1,0 +1,68 @@
+{
+  "obra_id": 2300,
+  "autor": "Darcy Mitiko Mori Hanashiro; Maria Luisa Mendes Teixeira; Laura Menegon Zaccarelli",
+  "titulo": "Gestão do fator humano",
+  "subtitulo": "Uma visão baseada em stakeholders",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Gestão de pessoas. Stakeholders. Cultura organizacional. Diversidade. Responsabilidade social.",
+  "palavras_chave": "hanashiro gestao fator humano",
+  "edicao_id": 2280,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 386,
+  "peso": 990,
+  "isbn": "9788502067707",
+  "editora": "Saraiva",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>Este livro oferece ao leitor uma abordagem integrada da Gestão do Fator Humano nas organizações. Parte de uma visão mais ampla da ambiência competitiva, refletindo sobre aspectos como a cultura organizacional, a diversidade e a gestão socialmente responsável, para finalmente introduzir de forma contextualizada os principais sistemas voltados à gestão de pessoas e com pessoas.</i></p><p>A abordagem transcende o escopo usual da gestão de pessoas, mostrando as implicações dessas ações para os diferentes grupos de interesse da organização (stakeholders). A capacidade de integrar e sustentar os diferentes interesses poderá ser considerada uma fonte de vantagem competitiva sustentável para empresas que atuam em contextos de negócios cada vez mais diversificados.</p><p>Além desses aspectos, a realidade brasileira encontra-se contemplada neste livro, mediante pesquisas científicas que ilustram os diversos temas abordados, ao mesmo tempo em que o leitor é introduzido ao trabalho científico.</p><p>Espera-se poder contribuir com esta obra para a reflexão sobre as implicações da Gestão do Fator Humano para a competitividade das empresas brasileiras, considerando os diversos interesses dos stakeholders.</p>",
+  "sinopse": "O livro apresenta uma abordagem integrada da Gestão do Fator Humano nas organizações, indo além do gerenciamento convencional de pessoas ao focar nos diversos interesses dos stakeholders. Inclui reflexões sobre cultura organizacional, diversidade e gestão socialmente responsável, além de abordar sistemas de gestão de pessoas em contextos competitivos e diversificados. Destaca pesquisas científicas e contempla a realidade brasileira, buscando contribuir para a competitividade das empresas ao considerar os interesses múltiplos dos stakeholders.",
+  "exemplar_id": 2279,
+  "sku": "LI01DX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/darcy-mitiko-mori-hanashiro--gest-o-do-fator-humano--capa--20250430--105111.jpg",
+  "contracapa": "static/uploads/darcy-mitiko-mori-hanashiro--gest-o-do-fator-humano--contracapa--20250430--105111.jpg",
+  "fotos": [
+    "static/uploads/darcy-mitiko-mori-hanashiro--gest-o-do-fator-humano--foto1--20250430--105111.jpg",
+    "static/uploads/darcy-mitiko-mori-hanashiro--gest-o-do-fator-humano--foto2--20250430--105111.jpg",
+    "static/uploads/darcy-mitiko-mori-hanashiro--gest-o-do-fator-humano--foto3--20250430--105111.jpg",
+    "static/uploads/darcy-mitiko-mori-hanashiro--gest-o-do-fator-humano--foto4--20250430--105111.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:38:05",
+  "observacoes": "procedencia_biblioteca"
+}

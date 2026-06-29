@@ -1,0 +1,68 @@
+{
+  "obra_id": 2301,
+  "autor": "Marie Bertherat",
+  "titulo": "100 ans de mode",
+  "subtitulo": "",
+  "idioma": "Francês",
+  "categoria": "Moda",
+  "temas": "",
+  "palavras_chave": "100 ans de mode",
+  "edicao_id": 2281,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 127,
+  "peso": 1250,
+  "isbn": "9782731217988",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Diz-me como te vestes, direi quem és. A moda é o reflexo dos nossos estados de espírito. O comprimento dos vestidos ou a largura das gravatas dizem muito sobre a nossa sociedade. Nos últimos 100 anos, a moda passou por uma verdadeira revolução. Tornou-se democrática, industrializada, libertada. Ousou provocar, divertir, mas também perturbar. Este é um livro documentado, cheio de anedotas e referências sobre os momentos marcantes da moda dos últimos 100 anos. / Em francês.",
+  "exemplar_id": 2280,
+  "sku": "LI01DY",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": 100.0,
+  "capa": "static/uploads/marie-bertherat--100-ans-de-mode--capa--20251020--203414.png",
+  "contracapa": "static/uploads/marie-bertherat--100-ans-de-mode--contracapa--20251020--203421.png",
+  "fotos": [
+    "static/uploads/marie-bertherat--100-ans-de-mode--foto1--20251020--203432.jpg",
+    "static/uploads/marie-bertherat--100-ans-de-mode--foto2--20251020--203432.jpg",
+    "static/uploads/marie-bertherat--100-ans-de-mode--foto3--20251020--203432.jpg",
+    "static/uploads/marie-bertherat--100-ans-de-mode--foto4--20251020--203432.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:34:08",
+  "observacoes": null
+}

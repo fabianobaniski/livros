@@ -1,0 +1,63 @@
+{
+  "obra_id": 2473,
+  "autor": "José Arrabal",
+  "titulo": "Deméter, a senhora dos trigais",
+  "subtitulo": "Aventuras mitológicas",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "arrabal demeter senhora dos",
+  "edicao_id": 2453,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 91,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Ftd",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Deméter, deusa da agricultura, recebe de Zeus a missão de garantir abundância e alimento para todos os povos. Ela deve devolver a alegria às famílias, purificar o mel, transformar o trigo em pão e entregar a terra mais fértil. Contudo, para alcançar sua promessa de grande fertilidade, Deméter enfrenta o desafio de conciliar sua pureza com a força de suas emoções, lutando contra medos e obstáculos que se interpõem em seu caminho. Será ela capaz de vencer as dificuldades e cumprir sua missão divina?",
+  "exemplar_id": 2452,
+  "sku": "LI01IP",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jose-arrabal--demeter-a-senhora-dos-trigais--capa--20260316--192227.jpg",
+  "contracapa": "static/uploads/jose-arrabal--demeter-a-senhora-dos-trigais--contracapa--20260316--192227.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, apesar de um tanto amarelado e com leves sinais de uso. Texto livre de sublinhados e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:37:12",
+  "observacoes": null
+}

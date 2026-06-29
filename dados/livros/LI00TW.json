@@ -1,0 +1,68 @@
+{
+  "obra_id": 1408,
+  "autor": "Harlan Coben",
+  "titulo": "Volta para casa",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Suspense. Mistério. Amizade. Família.",
+  "palavras_chave": "coben volta casa",
+  "edicao_id": 1390,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 299,
+  "peso": 350,
+  "isbn": "9788580418347",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "Myron Bolitar",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Em Volta para casa, Harlan Coben combina um drama familiar com uma trama ardilosa. Seus fãs não vão conseguir largar o livro.” - Publishers Weekly</p> <p>Dez anos atrás, dois meninos de 6 anos foram sequestrados enquanto brincavam na casa de um deles, uma mansão em um bairro elegante de Nova Jersey. Mas, após o pedido de resgate, as famílias nunca mais tiveram notícias dos sequestradores nem de seus filhos.</p> <p>Agora, Myron Bolitar e seu amigo Win acreditam ter localizado um deles, o adolescente Patrick, e farão de tudo para resgatá-lo e obter as respostas pelas quais todos anseiam:</p> <p>O que aconteceu no dia em que foram raptados?</p> <p>Onde ele esteve durante todo esse tempo?</p> <p>E, o mais importante, onde está Rhys, seu amigo ainda desaparecido?</p> <p>Após cinco anos sem escrever nenhum livro da série Myron Bolitar, Harlan Coben brinda os leitores com Volta para casa, um suspense explosivo, como só o seu talento pode criar. Um thriller profundamente comovente sobre amizade, família e o verdadeiro significado da palavra lar.</p>",
+  "sinopse": "Dez anos após o sequestro de duas crianças, a busca por respostas leva Myron Bolitar e seu amigo Win a acreditarem que um dos meninos, Patrick, pode ter sido localizado. Enquanto tentam entender o que aconteceu durante todo esse tempo, eles também procuram por Rhys, outro amigo desaparecido. O que é revelado desfechará segredos e mistérios que mudaram a vida de todos.",
+  "exemplar_id": 1389,
+  "sku": "LI00TW",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/harlan-coben--volta-para-casa--capa--20250401--115341.png",
+  "contracapa": "static/uploads/harlan-coben--volta-para-casa--contracapa--20250401--115341.png",
+  "fotos": [
+    "static/uploads/harlan-coben--volta-para-casa--foto1--20250401--115341.jpg",
+    "static/uploads/harlan-coben--volta-para-casa--foto2--20250401--115341.jpg",
+    "static/uploads/harlan-coben--volta-para-casa--foto3--20250401--115341.jpg",
+    "static/uploads/harlan-coben--volta-para-casa--foto4--20250401--115341.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:45:41",
+  "observacoes": null
+}

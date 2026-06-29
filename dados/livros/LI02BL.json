@@ -1,0 +1,68 @@
+{
+  "obra_id": 3518,
+  "autor": "Masashi Kishimoto",
+  "titulo": "Naruto",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos japoneses. Aventura. Amizade. Ninjas.",
+  "palavras_chave": "kishimoto naruto",
+  "edicao_id": 3495,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 150,
+  "isbn": "9788573519396",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": 56,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3494,
+  "sku": "LI02BL",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/naruto__masashi-kishimoto__capa__2025-11-05_16-16-11-638408.jpg",
+  "contracapa": "static/uploads/naruto__masashi-kishimoto__contracapa__2025-11-05_16-16-11-679003.jpg",
+  "fotos": [
+    "static/uploads/naruto__masashi-kishimoto__foto-01__2025-11-05_16-16-11-714130.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-02__2025-11-05_16-16-11-739856.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-03__2025-11-05_16-16-11-765129.jpg",
+    "static/uploads/naruto__masashi-kishimoto__foto-04__2025-11-05_16-16-11-784640.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:29:55",
+  "observacoes": null
+}

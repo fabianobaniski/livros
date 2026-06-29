@@ -1,0 +1,68 @@
+{
+  "obra_id": 1973,
+  "autor": "Ross; Westerfield; Jaffe",
+  "titulo": "Administração financeira",
+  "subtitulo": "Corporate finance",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Finanças. Teoria de finanças. Ensino superior.",
+  "palavras_chave": "ross administracao financeira corporate",
+  "edicao_id": 1953,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 776,
+  "peso": 1700,
+  "isbn": "9788522429424",
+  "editora": "Atlas",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>ADMINISTRAÇÃO FINANCEIRA<br>Corporate Finance</b><p>A prática e o ensino de gestão financeira muito progrediram com o desenvolvimento da chamada “moderna teoria de finanças”, nas últimas décadas. Este livro-texto apresenta como ponto forte o fato de explicar, de maneira didática e abrangente, todas as idéias fundamentais contidas nessa teoria. Além disso, expõe as principais aplicações práticas da teoria. Com isso, permite que o professor seja capaz de distinguir, para o aluno, o que é fundamental e permanente do que é modismo transitório.</p><p>Foi escrito para utilização nos cursos introdutórios de Finanças no nível de pós-graduação, bem como para cursos intermediários em muitos programas de graduação.<br>A experiência de empresas reais e as pesquisas já publicadas são utilizadas para ilustrar os pontos mais importantes. Com forte preocupação didática, o texto oferece (1) grande quantidade de exemplos, questões conceituais e problemas; (2) uniformidade no nível de dificuldade; e (3) coerência conceitual ao longo de todos os capítulos.</p><b>NOTA SOBRE OS AUTORES</b><p><b>STEPHEN A. ROSS</b> é professor da Yale University. Um dos mais produtivos autores em Finanças e Economia, é bastante conhecido por seu trabalho no desenvolvimento da Arbitrage Pricing Theory. Fez contribuições fundamentais nas áreas de signalling, teoria de agency, opções e teoria da estrutura das taxas de juros. É co-autor de Princípios de administração financeira: essentials of corporate finance, publicado pela Atlas.<br><b>RANDOLPH W. WESTERFIELD</b> é chefe do departamento de Finanças e Economia de Empresas da University of Southern California. Seus interesses de pesquisa envolvem política de gestão financeira, fusões e aquisições e gestão de fundos de pensão. É co-autor de Princípios de administração financeira: essentials of corporate finance, publicado pela Atlas.<br><b>JEFFREY F. JAFFE</b> é professor da Wharton School, University of Pennsylvania. Tem feito contribuições freqüentes à literatura de Finanças e Economia. Sua obra mais conhecida trata de insider trading e sua regulamentação. Também tem escrito nas áreas de ofertas públicas iniciais, regulamentação de empresas de serviços de utilidade pública, comportamento de intermediários financeiros, flutuação de preços do ouro, efeito teórico da inflação sobre a taxa de juros e os preços nos mercados de capitais.</p><b>NOTA SOBRE O TRADUTOR</b><p>ANTONIO ZORATTO SANVICENTE é consultor de instituições financeiras e do Instituto Brasileiro de Mercado de Capitais. Professor titular em Teoria da Administração Financeira da Universidade de São Paulo, obteve seu doutorado em Finanças na Stanford University. Possui cinco livros publicados nas áreas de Finanças e Mercado de Capitais.</p><b>APLICAÇÃO</b><p>Livro-texto para a disciplina ADMINISTRAÇÃO FINANCEIRA dos cursos de graduação e pós-graduação em Administração de Empresas. Livro de referência para profissionais de Finanças e Mercado de Capitais.</p>",
+  "sinopse": "Este livro apresenta de forma didática e abrangente as ideias fundamentais da moderna teoria de finanças, destacando suas principais aplicações práticas. Voltado para cursos de graduação e pós-graduação em Administração de Empresas, além de ser referência para profissionais de finanças e mercado de capitais, o texto oferece muitos exemplos, questões, uniformidade de dificuldade e coerência conceitual. É fruto da experiência e pesquisa de renomados professores das áreas de finanças e economia.",
+  "exemplar_id": 1952,
+  "sku": "LI014V",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ross--administra--o-financeira--capa--20250430--104311.jpg",
+  "contracapa": "static/uploads/ross--administra--o-financeira--contracapa--20250430--104311.jpg",
+  "fotos": [
+    "static/uploads/ross--administra--o-financeira--foto1--20250430--104311.jpg",
+    "static/uploads/ross--administra--o-financeira--foto2--20250430--104311.jpg",
+    "static/uploads/ross--administra--o-financeira--foto3--20250430--104311.jpg",
+    "static/uploads/ross--administra--o-financeira--foto4--20250430--104311.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:44:22",
+  "observacoes": "procedencia_biblioteca"
+}

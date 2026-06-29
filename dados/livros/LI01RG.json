@@ -1,0 +1,63 @@
+{
+  "obra_id": 2788,
+  "autor": "Laércio Torres de Góes",
+  "titulo": "O mito cristão no cinema",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Cinema",
+  "temas": "",
+  "palavras_chave": "goes mito cristao cinema",
+  "edicao_id": 2768,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Edusc",
+  "numero_edicao": 0,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2767,
+  "sku": "LI01RG",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-mito-cristao-no-cinema-laercio-torres-de-goes-capa_rev167.jpg",
+  "contracapa": "static/uploads/o-mito-cristao-no-cinema-laercio-torres-de-goes-contracapa_rev1286.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados.  (A)"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:30:55",
+  "observacoes": null
+}

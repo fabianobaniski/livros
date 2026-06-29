@@ -1,0 +1,63 @@
+{
+  "obra_id": 4974,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Romance. Comédia.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 4949,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 170,
+  "isbn": "9788542614312",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 19,
+  "transcricao_contracapa": "<p>A continuação do livro é encontrada no quarto de Haru e, ao que tudo indica, Kosaki é a menina da promessa! Na romântica véspera de Natal, Haru decide arranjar um encontro entre sua irmã e Raku para que eles falem sobre isso, mas um imprevisto faz com que o dia não corra como esperado!</p>",
+  "sinopse": "Haru encontra a continuação do livro em seu quarto, sugerindo que Kosaki é a menina da promessa. Na véspera de Natal, ela tenta organizar um encontro entre sua irmã e Raku, mas imprevistos ameaçam o dia.",
+  "exemplar_id": 4948,
+  "sku": "LI02PS",
+  "preco_estante_virtual": 22.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2026-02-20_10-31-26-479675-000.png",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2026-02-20_10-31-26-662546-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

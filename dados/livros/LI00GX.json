@@ -1,0 +1,63 @@
+{
+  "obra_id": 646,
+  "autor": "Alan Brizotti",
+  "titulo": "Deus está na sua casa?",
+  "subtitulo": "Casamento, sexo e espiritualidade",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Famílias. Adoração.",
+  "palavras_chave": "brizotti deus casa",
+  "edicao_id": 631,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 108,
+  "peso": 280,
+  "isbn": "",
+  "editora": "Primícias",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Deus se revela através de uma família feliz e abençoada. O mundo clama por famílias cristãs que possam redefinir palavras esvaziadas como: carinho, amor, alegria, paz, verdade, liberdade, justiça. A celebração de Deus no lar é a base do fortalecimento dos laços familiares e, principalmente, da manutenção de uma espiritualidade do equilíbrio e da celebração do outro. Numa sociedade que ama o individualismo patológico, a celebração na família nos aproxima e abençoa.</p><p>É a dádiva da unidade. Famílias onde a unidade é negligenciada correm o sério risco de se tornarem um espaço impessoal, onde um grupo de estranhos mora sob o mesmo teto. Uma vez que batalhamos pela unidade, Deus nos ajuda, pois a verdadeira unidade tem sua base no que Deus é: Trindade, uma unidade de ser, numa amorosa pluralidade de pessoas.</p><p>Não faltam inimigos querendo a destruição da família na atualidade. Inimigos como a indiferença, o aborto, as drogas, as más companhias, o consumismo, o erotismo desvirtuado tentam a todo o momento aniquilar nossas famílias. Quando a família mantém a adoração a Deus em primeiro lugar, vence esses inimigos, porque Deus honra aqueles que o adoram, aqueles que, no meio das confusões desse tempo, o celebram como Senhor supremo da vida. Nenhum inimigo da família pode prevalecer quando nossas casas são marcadas pelo precioso sangue de Jesus. Quando estamos firmados em seu amor, enraizados em sua misericórdia e embasados em sua Palavra, temos forças suficientes para 'destruir fortalezas' (II Co. 10.4) e para dizer ao mundo que nossa casa é lugar de vida.</p>",
+  "sinopse": "O livro discute a importância da presença de Deus em lares familiares, ressaltando a necessidade de fortalecer os laços familiares e a espiritualidade. O autor explica como a unidade nas famílias pode ser ameaçada por diversas influências negativas e apresenta a adoração a Deus como a chave para superar esses desafios. Enfatiza que famílias que mantêm seu foco em Deus conseguem celebrar a vida e enfrentar os inimigos da unidade e da fé.",
+  "exemplar_id": 630,
+  "sku": "LI00GX",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/alan-brizotti--deus-est--na-sua-casa---capa--20250227--152855.jpg",
+  "contracapa": "static/uploads/alan-brizotti--deus-est--na-sua-casa---contracapa--20250227--152855.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:44:20",
+  "observacoes": null
+}

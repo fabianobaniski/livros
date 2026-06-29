@@ -1,0 +1,68 @@
+{
+  "obra_id": 1855,
+  "autor": "Mary Stela Müller; Julce Mary Cornelsen",
+  "titulo": "Normas e padrões para teses, dissertações e monografias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Trabalhos acadêmicos. Metodologia científica. Normalização.",
+  "palavras_chave": "muller normas padroes para teses dissertacoes monografias",
+  "edicao_id": 1835,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 126,
+  "peso": 190,
+  "isbn": "9788572162777",
+  "editora": "UEL",
+  "numero_edicao": 3,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Um trabalho científico, embora consistente por seu conteúdo, pode cair no esquecimento quando não apresentado numa \"moldura\" adequada, que facilite a comunicação e a compreensão e ressalte a qualidade do texto.</p><p>Em \"Normas e Padrões para Teses, Dissertações e Monografias\", Mary Stela Müller e Julce Mary Cornelsen, com a colaboração de Rogério Paulo Müller Fernandes apresentam essa nova \"moldura\" que irá valorizar o trabalho científico.</p>",
+  "sinopse": "A obra apresenta normas e padrões essenciais para elaboração de teses, dissertações e monografias, oferecendo uma 'moldura' adequada que facilita a comunicação, a compreensão e valoriza o trabalho científico. Com contribuições de especialistas, este livro visa ressaltar a qualidade dos textos acadêmicos.",
+  "exemplar_id": 1834,
+  "sku": "LI011L",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mary-stela-m-ller--normas-e-padr-es-para-teses--disserta--es-e-monografias--capa--20250430--104249.jpg",
+  "contracapa": "static/uploads/mary-stela-m-ller--normas-e-padr-es-para-teses--disserta--es-e-monografias--contracapa--20250430--104249.jpg",
+  "fotos": [
+    "static/uploads/mary-stela-m-ller--normas-e-padr-es-para-teses--disserta--es-e-monografias--foto1--20250430--104249.jpg",
+    "static/uploads/mary-stela-m-ller--normas-e-padr-es-para-teses--disserta--es-e-monografias--foto2--20250430--104249.jpg",
+    "static/uploads/mary-stela-m-ller--normas-e-padr-es-para-teses--disserta--es-e-monografias--foto3--20250430--104249.jpg",
+    "static/uploads/mary-stela-m-ller--normas-e-padr-es-para-teses--disserta--es-e-monografias--foto4--20250430--104249.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Recoberto com película transparente. Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:21:21",
+  "observacoes": "procedencia_biblioteca"
+}

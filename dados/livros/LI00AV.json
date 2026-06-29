@@ -1,0 +1,68 @@
+{
+  "obra_id": 425,
+  "autor": "William Shakespeare",
+  "titulo": "The sonnets",
+  "subtitulo": "(Em inglês)",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "shakespeare sonnets",
+  "edicao_id": 413,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 87,
+  "peso": 100,
+  "isbn": "9788592852184",
+  "editora": "Livre",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 412,
+  "sku": "LI00AV",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/william-shakespeare--the-sonnets--capa--20250226--133828.jpg",
+  "contracapa": "static/uploads/william-shakespeare--the-sonnets--contracapa--20250226--133828.jpg",
+  "fotos": [
+    "static/uploads/william-shakespeare--the-sonnets--foto1--20250226--133828.jpg",
+    "static/uploads/william-shakespeare--the-sonnets--foto2--20250226--133828.jpg",
+    "static/uploads/william-shakespeare--the-sonnets--foto3--20250226--133828.jpg",
+    "static/uploads/william-shakespeare--the-sonnets--foto4--20250226--133828.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:16:08",
+  "observacoes": null
+}

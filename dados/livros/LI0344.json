@@ -1,0 +1,63 @@
+{
+  "obra_id": 5723,
+  "autor": "Yuji Shiozaki",
+  "titulo": "Godeath",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "",
+  "palavras_chave": "shiozaki godeath",
+  "edicao_id": 5698,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 155,
+  "isbn": "9788584720361",
+  "editora": "Sampa",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "Situada na Itália do século XVIII, a história acompanha Godeath, uma jovem de visual gótico e força descomunal que caça os \"Deuses\" - seres poderosos e cruéis que manipulam a humanidade. Com o estilo visual característico de Shiozaki (conhecido por Ikkitousen), a obra mistura ação frenética, elementos sobrenaturais e generosas doses de fanservice, focando na jornada violenta da protagonista para derrubar as divindades que se escondem nas sombras da Igreja e da aristocracia.",
+  "exemplar_id": 5697,
+  "sku": "LI0344",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/godeath__yuji-shiozaki__capa__2026-02-28_10-59-58-847628-000.jpg",
+  "contracapa": "static/uploads/godeath__yuji-shiozaki__contracapa__2026-02-28_10-59-58-849579-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

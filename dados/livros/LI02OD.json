@@ -1,0 +1,63 @@
+{
+  "obra_id": 4923,
+  "autor": "Yu Sasuga; Ken-Ichi Tachibana",
+  "titulo": "Terra Formars",
+  "subtitulo": "19ª missão: os contornos da justiça",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Experiências humanas. Desaparecimentos misteriosos.",
+  "palavras_chave": "sasuga terra formars",
+  "edicao_id": 4898,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 250,
+  "isbn": "9788545703273",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 19,
+  "transcricao_contracapa": "<p>Uma equipe de combatentes especialmente selecionados se prepara para invadir uma base secreta onde podem estar ocorrendo experiências com seres humanos, administrada por terraformers! Tudo indica que é lá que estão as pessoas que sumiram no Japão... Que tipo de desafios serão encontrados nessa instalação?!</p>",
+  "sinopse": "Uma equipe de combatentes se prepara para invadir uma base secreta onde experiências com humanos, administrada por terraformers, podem estar ocorrendo. Pessoas que desapareceram no Japão têm ligação com este local. Será que o mistério será desvendado?",
+  "exemplar_id": 4897,
+  "sku": "LI02OD",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/terra-formars__19a-missao-os-contornos-da-justica__yu-sasuga-ken-ichi-tachibana__capa__2026-02-20_10-31-11-979805-000.png",
+  "contracapa": "static/uploads/terra-formars__19a-missao-os-contornos-da-justica__yu-sasuga-ken-ichi-tachibana__contracapa__2026-02-20_10-31-12-026966-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "O mangá estaria em perfeito estado, contudo, apresenta um corte feito provavelmente com estilete na contracapa. Não houve perda de material, contudo foi necessário utilizar fita adesiva transparente para evitar problemas maiores. No mais, tudo OK."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

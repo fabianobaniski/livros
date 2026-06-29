@@ -1,0 +1,63 @@
+{
+  "obra_id": 2986,
+  "autor": "Ernst Fischer",
+  "titulo": "How to read Karl Marx",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "fischer how read karl",
+  "edicao_id": 2966,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 400,
+  "isbn": "9780853459743",
+  "editora": "Monthly Review Press",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Como Ler Karl Marx de Ernst Fischer, em colaboração com Franz Marek e traduzido por Anna Bostock, oferece uma exploração clara e concisa das principais ideias de Marx. A edição inclui uma introdução e notas históricas de John Bellamy Foster, bem como comentários de Paul M. Sweezy. O livro aborda a complexidade e o contexto histórico do pensamento de Marx, apresentando trechos de suas principais obras e um ensaio sobre o método de Marx, destacando sua influência duradoura na ciência social moderna.",
+  "exemplar_id": 2965,
+  "sku": "LI01WY",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 40.0,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado. Sem danos significativos na capa, lombada e contracapa. Lombada reta, miolo firme, sem folhas soltas. Constam em poucas páginas algumas anotações à lápis."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:34:03",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 381,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Fome de Deus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Teologia.",
+  "palavras_chave": "lopes fome deus",
+  "edicao_id": 371,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 94,
+  "peso": 150,
+  "isbn": "8589320596",
+  "editora": "United Press",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conta-se um fato ocorrido com São Tomás de Aquino, no século 13, ao visitar o papa Inocêncio 3o. O papa, ocupado em contar grande soma de dinheiro, disse sorrindo: \"Olha Tomás, a Igreja não precisa mais dizer: não temos prata nem ouro\". Respondeu-lhe imediatamente, o ilustre visitante: \"É verdade, mas também nada pode dizer: ‘Em nome de Jesus, o Nazareno, levante e ande!’\". O papa referia-se ao que considerava grande vitória da Igreja, a riqueza material; Tomás de Aquino, por sua vez, referia-se ao grande declínio espiritual da Igreja.</p><p>Fome de Deus é algo real nos nossos dias. Deus deseja matar essa fome na vida dos homens, por intermédio de homens que se atrevam a dizer: \"Ó Deus, a minha alma está sedenta e o meu coração anseia por ti como terra seca\". Homens que queiram assumir essa atitude são os candidatos preferidos por Deus para saciar a fome espiritual que assola a humanidade.</p><p>Hernandes Dias Lopes, é escritor, com mais de noventa obras escritas. É conferencista e pastor da Igreja Presbiteriana de Vitória - ES, desde 1985. É bacharel em teologia pelo seminário Presbiteriano do Sul (Campinas - SP) e doutor em ministério pelo Reformed Theological Seminary (EUA).</p>",
+  "sinopse": "Neste livro, Hernandes Dias Lopes aborda um evento com São Tomás de Aquino no século 13 que destaca a importância da espiritualidade sobre a riqueza material. Ele enfatiza a necessidade contemporânea de saciar a fome espiritual da humanidade, convidando homens e mulheres a buscar a Deus com um coração sedento. O autor também compartilha sua trajetória como pastor e escritor, refletindo sobre o papel crucial da fé na vida das pessoas.",
+  "exemplar_id": 370,
+  "sku": "LI009P",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/hernandes-dias-lopes--fome-de-deus--capa--20250226--133824.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--fome-de-deus--contracapa--20250226--133824.jpg",
+  "fotos": [
+    "static/uploads/hernandes-dias-lopes--fome-de-deus--foto1--20250226--133824.jpg",
+    "static/uploads/hernandes-dias-lopes--fome-de-deus--foto2--20250226--133824.jpg",
+    "static/uploads/hernandes-dias-lopes--fome-de-deus--foto3--20250226--133824.jpg",
+    "static/uploads/hernandes-dias-lopes--fome-de-deus--foto4--20250226--133824.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:04:27",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1742,
+  "autor": "José Claudinei Lombardi (org.)",
+  "titulo": "Globalização, pós-modernidade e educação",
+  "subtitulo": "História, filosofia e temas transversais",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Globalização. Pós-modernidade. Filosofia da educação. História da educação.",
+  "palavras_chave": "lombardi globalizacao pos-modernidade educacao",
+  "edicao_id": 1722,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 234,
+  "peso": 350,
+  "isbn": "9788574960166",
+  "editora": "Autores Associados",
+  "numero_edicao": 2,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A publicação da coletânea <i>Globalização, pós-modernidade e educação</i> resulta de uma parceria entre a UNICAMP e a Universidade do Contestado – UnC. Além da assessoria e docência no programa de pós-graduação em educação da UnC, a ação interinstitucional tem se voltado para a implementação da pesquisa e para o incentivo ao debate acadêmico.</p><p>Dando oportunidade aos educadores, em especial àqueles da área de abrangência da Universidade do Contestado, no centro-oeste catarinense, periodicamente essa instituição tem realizado congressos de educação, sendo que no VII Congresso de Educação, contou a UnC com a parceria da UNICAMP. O tema geral da última versão desse evento foi globalização e pós-modernidade.</p><p>A presente publicação é um resultado direto de parte das conferências, acrescida de contribuições de docentes vinculados aos Grupos de Estudos e Pesquisa HISTEDBR e PAIDEIA.</p>",
+  "sinopse": "Esta coletânea resulta de uma parceria entre a UNICAMP e a Universidade do Contestado, reunindo discussões promovidas em congressos e grupos de pesquisa sobre educação, globalização e pós-modernidade. A publicação apresenta conferências e contribuições de docentes, com foco no debate acadêmico e no incentivo à pesquisa, especialmente voltada para educadores do centro-oeste catarinense.",
+  "exemplar_id": 1721,
+  "sku": "LI00YI",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--claudinei-lombardi--org----globaliza--o--p-s-modernidade-e-educa--o--capa--20250430--102940.jpg",
+  "contracapa": "static/uploads/jos--claudinei-lombardi--org----globaliza--o--p-s-modernidade-e-educa--o--contracapa--20250430--102940.jpg",
+  "fotos": [
+    "static/uploads/jos--claudinei-lombardi--org----globaliza--o--p-s-modernidade-e-educa--o--foto1--20250430--102940.jpg",
+    "static/uploads/jos--claudinei-lombardi--org----globaliza--o--p-s-modernidade-e-educa--o--foto2--20250430--102940.jpg",
+    "static/uploads/jos--claudinei-lombardi--org----globaliza--o--p-s-modernidade-e-educa--o--foto3--20250430--102940.jpg",
+    "static/uploads/jos--claudinei-lombardi--org----globaliza--o--p-s-modernidade-e-educa--o--foto4--20250430--102940.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, apresenta leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:14:54",
+  "observacoes": "procedencia_biblioteca"
+}

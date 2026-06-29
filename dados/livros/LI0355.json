@@ -1,0 +1,68 @@
+{
+  "obra_id": 5760,
+  "autor": "Stephen Kendrick; Alex Kendrick",
+  "titulo": "O desafio de amar dia a dia",
+  "subtitulo": "Um ano de devoção para casais",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Cristianismo. Casamento. Devocional para casais.",
+  "palavras_chave": "desafio amar dia",
+  "edicao_id": 5735,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 380,
+  "peso": 460,
+  "isbn": "9788561411213",
+  "editora": "BV Books",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Um presente para a vida toda</h1><p>Quando um casal se casa, seus sentimentos românticos devem se transformar em um amor que dura por toda a vida. Mas quais são as chaves para dar e receber este amor? Como ter a melhor experiência de amor e romance e expressar isto em meio às mudanças e pressões?</p><p><b>O Desafio de Amar Dia a Dia</b> é um devocional de um ano criado para desafiar novos maridos e esposas a entenderem e praticarem o amor incondicional. Esta jornada de 365 dias contém os princípios fundamentais do livro original <b>O Desafio de Amar</b> acrescidos de um conteúdo novo e estudos mais profundos, essenciais para recém-casados.</p><p>Este é mais do que um guia para um novo começo. É um passo diário de coragem em um caminho de amor para toda a vida.</p><ul><li>365 Leituras Devocionais</li><li>52 Desafios Semanais</li><li>Orações Semanais, Perguntas e Estudos Bíblicos</li></ul><p><b>Ouse amar. Dia a dia.</b></p>",
+  "sinopse": "O Desafio de Amar Dia a Dia é um devocional para casais, elaborado para inspirar maridos e esposas a praticarem o amor incondicional ao longo de um ano. Com 365 leituras devocionais, 52 desafios semanais e estudos bíblicos, o livro oferece um passo diário de coragem para quem busca fortalecer o casamento, superar os desafios e vivenciar um relacionamento pleno e duradouro.",
+  "exemplar_id": 5734,
+  "sku": "LI0355",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/o-desafio-de-amar__dia-a-dia__none__capa__2026-01-18_14-11-27-769889-000.png",
+  "contracapa": "static/uploads/o-desafio-de-amar__dia-a-dia__none__contracapa__2026-01-18_14-11-27-828596-001.png",
+  "fotos": [
+    "static/uploads/o-desafio-de-amar__dia-a-dia__none__foto-01__2026-01-18_14-11-27-885377-002.jpg",
+    "static/uploads/o-desafio-de-amar__dia-a-dia__none__foto-02__2026-01-18_14-11-28-209191-003.jpg",
+    "static/uploads/o-desafio-de-amar__dia-a-dia__none__foto-03__2026-01-18_14-11-28-236769-004.jpg",
+    "static/uploads/o-desafio-de-amar__dia-a-dia__none__foto-04__2026-01-18_14-11-28-271566-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. (veja fotos neste anúncio). Também apresenta alguns trechos grifados, na minoria das páginas. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:02:02",
+  "observacoes": null
+}

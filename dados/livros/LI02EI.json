@@ -1,0 +1,68 @@
+{
+  "obra_id": 3623,
+  "autor": "Giovanni Boccaccio",
+  "titulo": "Decamerão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "giovanni boccaccio decamerao",
+  "edicao_id": 3600,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 582,
+  "peso": 650,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Durante a Peste Negra em Florença, dez jovens refugiam-se no campo e decidem contar cem histórias ao longo de dez dias, abordando com inteligência, sensualidade e ironia temas como a fortuna, a sagacidade, a hipocrisia religiosa e as diversas facetas do amor humano em uma obra fundadora da prosa moderna.",
+  "exemplar_id": 3599,
+  "sku": "LI02EI",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/giovanni-boccaccio--decamerao--capa--20251114--180858.png",
+  "contracapa": "static/uploads/giovanni-boccaccio--decamerao--contracapa--20251114--180909.png",
+  "fotos": [
+    "static/uploads/giovanni-boccaccio--decamerao--foto1--20251113--193526.jpg",
+    "static/uploads/giovanni-boccaccio--decamerao--foto2--20251113--193526.jpg",
+    "static/uploads/giovanni-boccaccio--decamerao--foto3--20251113--193526.jpg",
+    "static/uploads/giovanni-boccaccio--decamerao--foto4--20251113--193526.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada (que, neste exemplar, estão levemente desbotados). Conservação geral muito boa (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:36:09",
+  "observacoes": null
+}

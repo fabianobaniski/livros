@@ -1,0 +1,68 @@
+{
+  "obra_id": 1901,
+  "autor": "Eliezer Arantes da Costa",
+  "titulo": "Gestão estratégica",
+  "subtitulo": "Da empresa que temos para a empresa que queremos",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Gestão estratégica. Inovação organizacional.",
+  "palavras_chave": "costa gestao estrategica empresa temos para queremos",
+  "edicao_id": 1881,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 424,
+  "peso": 770,
+  "isbn": "9788502061880",
+  "editora": "Saraiva",
+  "numero_edicao": 2,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro amplia a aplicabilidade e alcança uma ampla variedade de tipos de entidade e organizações, de empresas a escolas, de cooperativas a hospitais, do setor público ao terceiro setor. Nesse sentido, a presente obra pode ser de grande utilidade para os que exercem responsabilidades gerenciais e de chefia, aos professores das áreas de administração, de economia e de outras carreiras, a consultores e aos jovens que se preparam para ingressar no mercado de trabalho.</p><p><b>PROF. DR. JOSÉ TADEU JORGE</b>, reitor da Universidade Estadual de Campinas (Unicamp) para o período 2005-2009 e professor titular na Faculdade de Engenharia Agrícola (Feagri).</p><p>Como empresários ou dirigentes, por vezes, oscilamos entre o pragmatismo da administração orientada para resultados e um conceito abstrato chamado estratégia, que nos confronta e nos coloca em xeque perante o futuro. Entretanto, na gestão estratégica, o futuro não é visto como uma mera extrapolação do passado, mas por meio da análise de vários conceitos fundamentais: o propósito, o ambiente externo e a capacitação, conforme demonstrado pelo autor neste livro.</p><p>Ao nos conduzir nos meandros da Gestão Estratégica, o consultor Eliezer Costa, professor do Instituto Trevisan, inicia sua reflexão pelos desafios e obstáculos à introdução de processos de inovação e mudanças tanto nas empresas como nas entidades do terceiro setor. Este livro, com uma abordagem bastante objetiva e didática, ensina como <i>pôr a mão na massa.</i></p><p><b>ANTONINHO MARMO TREVISAN</b>, presidente da Trevisan Consultores, fundador da Trevisan Escola de Negócios e membro da Academia Brasileira de Ciências Contábeis.</p><p>Acima dos modismos e dos rótulos de mercado, o livro oferece uma visão do que comprovadamente funciona e de por que funciona. Outra qualidade importante do livro é que a personalidade prática do autor o leva não apenas a apresentar os conceitos e técnicas, mas a explicar como qualquer organização pode efetivamente utilizá-los para construir o seu sucesso. Assim, sem se propor a oferecer uma nova panaceia, o autor fornece roteiros, formatos, listas de verificação e dicas importantes para passar dos conceitos à prática imediata.</p><p><b>DANIEL DRUWE ARAÚJO</b>, consultor internacional da Oliver Wight Américas, professor em cursos de pós-graduação, diretor da Associação Brasileira de Administração Industrial (Abai), membro do Council of Logistics Management.</p>",
+  "sinopse": "Este livro aborda de maneira prática e objetiva a gestão estratégica em diferentes organizações, do setor público ao terceiro setor, proporcionando ferramentas e conceitos essenciais como propósito, ambiente externo e capacitação. Destinado a gestores, professores, consultores e jovens profissionais, oferece métodos aplicáveis à realidade, focando em inovação, processos e superação de desafios do cotidiano organizacional, sem recorrer a modismos, mas apresentando roteiros e listas práticas para implantação imediata.",
+  "exemplar_id": 1880,
+  "sku": "LI012V",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/eliezer-arantes-da-costa--gest-o-estrat-gica--capa--20250430--104257.jpg",
+  "contracapa": "static/uploads/eliezer-arantes-da-costa--gest-o-estrat-gica--contracapa--20250430--104257.jpg",
+  "fotos": [
+    "static/uploads/eliezer-arantes-da-costa--gest-o-estrat-gica--foto1--20250430--104257.jpg",
+    "static/uploads/eliezer-arantes-da-costa--gest-o-estrat-gica--foto2--20250430--104257.jpg",
+    "static/uploads/eliezer-arantes-da-costa--gest-o-estrat-gica--foto3--20250430--104257.jpg",
+    "static/uploads/eliezer-arantes-da-costa--gest-o-estrat-gica--foto4--20250430--104257.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:12:53",
+  "observacoes": "procedencia_biblioteca"
+}

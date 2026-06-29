@@ -1,0 +1,63 @@
+{
+  "obra_id": 2748,
+  "autor": "Ana Maria Machado",
+  "titulo": "O canto da praça",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "machado canto praca",
+  "edicao_id": 2728,
+  "encadernacao": null,
+  "quantidade_paginas": 95,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Salamandra",
+  "numero_edicao": null,
+  "ano": 1986,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O Canto da Praça é uma história atemporal que mescla amor, guerra, paz, aventura e reflexão. Com elementos de circo, teatro de bonecos, cavaleiros medievais e naves espaciais, a trama acompanha um velho mago e três crianças em sua tentativa de realizar algo que una todos, esperando que as barreiras desapareçam e o canto da praça seja finalmente ouvido. A narrativa evoca a liberdade e a esperança de um futuro melhor, onde a paz pode voar livremente por todos os tempos, cruzando fronteiras e gerações.",
+  "exemplar_id": 2727,
+  "sku": "LI01QC",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro amarelado pelo tempo, mas em boas condições. Texto sem grifos nem anotações. Ilustrações em preto e branco. Primeira folha colada à parte interna da capa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:55:36",
+  "observacoes": null
+}

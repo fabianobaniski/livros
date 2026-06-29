@@ -1,0 +1,68 @@
+{
+  "obra_id": 469,
+  "autor": "William Hendriksen",
+  "titulo": "1 e 2 Timóteo e Tito",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Literatura Cristã.",
+  "palavras_chave": "hendriksen timoteo tito",
+  "edicao_id": 454,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 496,
+  "peso": 540,
+  "isbn": "9788576223658",
+  "editora": "Cultura Cristã",
+  "numero_edicao": 2,
+  "ano": 2011,
+  "serie": "Comentário do Novo Testamento",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os escritos de William Hendriksen para a série de comentários do NT têm grande valor pela sua fidelidade às Escrituras e pelo seu caráter prático. Uma introdução bem feita localiza o pesquisador no contexto das cartas e a tradução do comentarista busca a fidelidade ao texto bíblico. As notas que se seguem ajudam o estudante a entender o sentido da passagem. O valor deste livro é inestimável.</p> <p>“Os escritos desse autor serão por muito tempo valorizados e utilizados pelos que amam a Palavra de Deus e buscam a sua mensagem viva para o mundo de hoje.”</p> <p>Douglas J. W. Milne, Reformed Theological Review</p> <p>William Hendriksen, Th.D., graduou-se pelo Princeton Theological Seminary e por dez anos foi professor de Novo Testamento no Calvin Seminary. Iniciou a sua série de comentários em 1953. Desde a sua morte, em 1982, seu trabalho foi continuado e completado pelo Dr. Simon Kistemaker, professor de Novo Testamento no Reformed Theological Seminary.</p>",
+  "sinopse": "Os escritos de William Hendriksen são reconhecidos por sua fidelidade às Escrituras e caráter prático. Este comentário apresenta uma análise aprofundada das cartas de Timóteo e Tito, oferecendo uma introdução contextual e traduzindo os textos para facilitar a compreensão. O trabalho é valorizado por estudiosos e fiéis que buscam entender melhor a Palavra de Deus.",
+  "exemplar_id": 453,
+  "sku": "LI00C0",
+  "preco_estante_virtual": 75.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/william-hendriksen--1-e-2-tim-teo-e-tito--capa--20250227--111544.jpg",
+  "contracapa": "static/uploads/william-hendriksen--1-e-2-tim-teo-e-tito--contracapa--20250227--111544.jpg",
+  "fotos": [
+    "static/uploads/william-hendriksen--1-e-2-timoteo-e-tito--foto1--20251020--202139.jpg",
+    "static/uploads/william-hendriksen--1-e-2-timoteo-e-tito--foto2--20251020--202139.jpg",
+    "static/uploads/william-hendriksen--1-e-2-timoteo-e-tito--foto3--20251020--202139.jpg",
+    "static/uploads/william-hendriksen--1-e-2-timoteo-e-tito--foto4--20251020--202139.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:04:43",
+  "observacoes": null
+}

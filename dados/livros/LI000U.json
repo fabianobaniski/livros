@@ -1,0 +1,68 @@
+{
+  "obra_id": 33,
+  "autor": "Charlotte Brontë",
+  "titulo": "Jane Eyre",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura Estrangeira. Romance. Clássico",
+  "palavras_chave": "bronte jane eyre",
+  "edicao_id": 33,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 160,
+  "peso": 250,
+  "isbn": "9780582096707",
+  "editora": "Longman",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": "Longman Fiction",
+  "volume": null,
+  "transcricao_contracapa": "<p>The <b>Longman Fiction</b> series offers a stimulating range of literature for intermediate to advanced level students of English. Every book contains an introduction, glossary and exercise material to help understanding and appreciation of the book.</p><p>This upper intermediate level title has been abridged and simplified to a <b>2000 word vocabulary</b> level.</p><p>Jane Eyre’s parents die when she is very young and she spends a loveless childhood in the care of her aunt and cousins. When she is ten she is sent away to school. Here life is not much better, with little food or warmth.</p><p>At last she is able to leave school, and she goes to work as a governess. Life in her new home is quiet until her employer, Mr Rochester, suddenly returns. At first Jane has little to do with him, but then their love develops – though threatened by Mr Rochester’s mysterious past.</p><p><i>Cover illustration by Roger Coleman</i></p>",
+  "sinopse": "Jane Eyre, órfã desde a infância, enfrenta uma vida difícil na casa de sua tia e depois em um internato rigoroso. Ao se tornar governanta, encontra o misterioso Sr. Rochester, por quem se apaixona, mas descobre segredos que desafiam seu amor e moralidade.",
+  "exemplar_id": 32,
+  "sku": "LI000U",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/charlotte-bront---jane-eyre--capa--20250225--164757.jpg",
+  "contracapa": "static/uploads/charlotte-bront---jane-eyre--contracapa--20250225--164757.jpg",
+  "fotos": [
+    "static/uploads/charlotte-bront---jane-eyre--foto1--20250225--164757.jpg",
+    "static/uploads/charlotte-bront---jane-eyre--foto2--20250225--164757.jpg",
+    "static/uploads/charlotte-bront---jane-eyre--foto3--20250225--164757.jpg",
+    "static/uploads/charlotte-bront---jane-eyre--foto4--20250225--164757.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém fortemente amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:49:30",
+  "observacoes": null
+}

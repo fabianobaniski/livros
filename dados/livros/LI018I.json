@@ -1,0 +1,68 @@
+{
+  "obra_id": 2105,
+  "autor": "Aristeu de Oliveira",
+  "titulo": "Manual de prática trabalhista",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Direito trabalhista. Direito previdenciário. Administração de pessoal. Legislação brasileira.",
+  "palavras_chave": "oliveira manual pratica trabalhista",
+  "edicao_id": 2085,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 783,
+  "peso": 1100,
+  "isbn": "9788522454846",
+  "editora": "Atlas",
+  "numero_edicao": 43,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>MANUAL DE PRÁTICA TRABALHISTA</h1><p>Este livro apresenta a prática necessária para a administração e elaboração das rotinas trabalhistas, orientando a empresa nas suas relações legais com empregados e órgãos da administração pública. O texto baseia-se, sobretudo, na interpretação dos direitos e obrigações e na observância dos preceitos legais consubstanciados na CLT e na Lei Orgânica da Seguridade Social. Combina leis trabalhistas e previdenciárias com suas práticas e ilustra-as com grande número de formulários.</p><p>Escrito em linguagem simples e acessível, seu objetivo é orientar com segurança os procedimentos rotineiros de profissionais da área. Além de sua característica de aplicar racionalmente a legislação do trabalho e previdenciária em vigor, oferece o instrumental necessário ao profissional no desempenho de suas funções de maneira completa e inequívoca. Apresenta também as inovações e as mudanças, procurando interpretar a norma jurídica, juntamente com as portarias, ordens e instruções de serviço, avisos, modelos e formulários. Eis um resumo do conteúdo:</p><p>Orientação trabalhista: admissão de pessoal; salários; 13º salário; horário de trabalho; jornada de trabalho; período de descanso; férias; FGTS; PIS; trabalho da mulher; trabalho do menor; contribuinte individual; rescisão de contrato de trabalho; Cipa; multas trabalhistas; justa causa; justiça do trabalho; trabalho temporário; programa de participação nos lucros ou resultados; professor – estabelecimento particular de ensino; contrato de trabalho por prazo determinado.</p><p>Orientação previdenciária: implantação do Plano de Custeio e de Benefícios da Previdência Social; beneficiários; segurados; contribuição; dependentes; prestações; seguros de acidentes do trabalho; multa previdenciária.</p><h2>APLICAÇÃO</h2><p>Manual de consulta indispensável para advogados e profissionais da área trabalhista e previdenciária, contadores, administradores de empresas, peritos trabalhistas e estudantes. Recomendado também para sindicatos e órgãos de classe.</p>",
+  "sinopse": "Este manual oferece a prática essencial para a administração e organização das rotinas trabalhistas, guiando empresas na aplicação das legislações trabalhista e previdenciária, com base na CLT e na Lei Orgânica da Seguridade Social. Aborda desde a admissão do empregado até questões como férias, FGTS, PIS, trabalho feminino e infantil, rescisão contratual e justiça do trabalho. O livro também traz orientações sobre contribuição ao INSS, benefícios previdenciários, e procedimentos de segurança. Escrito de forma simples e acessível, serve como uma referência fundamental para advogados, profissionais trabalhistas, contadores, administradores e estudantes.",
+  "exemplar_id": 2084,
+  "sku": "LI018I",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/aristeu-de-oliveira--manual-de-pr-tica-trabalhista--capa--20250430--104534.jpg",
+  "contracapa": "static/uploads/aristeu-de-oliveira--manual-de-pr-tica-trabalhista--contracapa--20250430--104534.jpg",
+  "fotos": [
+    "static/uploads/aristeu-de-oliveira--manual-de-pr-tica-trabalhista--foto1--20250430--104534.jpg",
+    "static/uploads/aristeu-de-oliveira--manual-de-pr-tica-trabalhista--foto2--20250430--104534.jpg",
+    "static/uploads/aristeu-de-oliveira--manual-de-pr-tica-trabalhista--foto3--20250430--104534.jpg",
+    "static/uploads/aristeu-de-oliveira--manual-de-pr-tica-trabalhista--foto4--20250430--104534.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:21:49",
+  "observacoes": "procedencia_biblioteca"
+}

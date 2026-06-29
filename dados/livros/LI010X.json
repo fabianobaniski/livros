@@ -1,0 +1,68 @@
+{
+  "obra_id": 1831,
+  "autor": "Martinho Maurício Gomes de Ornelas",
+  "titulo": "Perícia contábil",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Perícia contábil. Direito processual civil.",
+  "palavras_chave": "ornelas pericia contabil",
+  "edicao_id": 1811,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 169,
+  "peso": 370,
+  "isbn": "9788522434770",
+  "editora": "Atlas",
+  "numero_edicao": 4,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>PERÍCIA CONTÁBIL</b><br><p>Perícia contábil é um dos meios que as pessoas e as empresas têm à sua disposição, garantido constitucionalmente, de se defenderem ou exigirem direitos nas mais variadas situações. Seu estudo possibilita uma avaliação da própria ciência contábil, pois esta é um dos melhores instrumentos de prova de fatos econômico-financeiros quantificáveis monetariamente.</p><p>Três momentos são observados no livro. No primeiro, define-se o que é e a que se presta a perícia contábil. No segundo, cuida-se da elaboração do trabalho pericial contábil. No terceiro, é feito um diagnóstico positivo das possibilidades de desenvolvimento da perícia contábil no país.</p><p>O autor sistematiza aspectos relevantes sobre a perícia contábil, abordando Prova Pericial, Perícia Contábil, Exercício Profissional da Função Pericial Contábil, A Perícia no Código de Processo Civil, Técnicas do Trabalho Pericial Judicial, Quesitos, Laudo Pericial Contábil, Remuneração do Trabalho Pericial e Perspectivas da Perícia Contábil.</p><br><b>NOTA SOBRE O AUTOR</b><br><p>MARTINHO MAURÍCIO GOMES DE ORNELAS é mestre em Contabilidade e bacharel em Ciências Contábeis pela PUC-SP e professor da disciplina <i>Perícia Contábil</i>, desde 1978, integrante do Curso de Ciências Contábeis da Faculdade de Economia e Administração dessa instituição de ensino. É perito contábil, sendo nomeado perito judicial por juízes federais e cíveis da capital de São Paulo. Atua também como assistente técnico indicado por escritórios de advocacia de São Paulo. É sócio da <i>De Ornelas & Associados – Perícia Contábil e Arbitragem S/C Ltda.</i> – São Paulo.</p><br><b>APLICAÇÃO</b><br><p>Livro-texto para a disciplina PERÍCIA CONTÁBIL, integrante do currículo mínimo (Formação Profissional Específica) do curso de graduação em Ciências Contábeis. Leitura complementar para a disciplina DIREITO PROCESSUAL CIVIL, integrante do currículo do curso de graduação em Ciências Jurídicas. Leitura recomendada para profissionais de Perícia, Advocacia e Auditoria.</p>",
+  "sinopse": "O livro apresenta um estudo detalhado sobre a perícia contábil, mostrando-a como fundamental para defesa de direitos e avaliação da ciência contábil no contexto jurídico e financeiro. Estruturado em três partes, aborda desde a definição e funções da perícia, passando pela elaboração do trabalho pericial, até um diagnóstico das oportunidades e evolução da perícia contábil no Brasil. O autor ainda sistematiza temas como prova pericial, remuneração do trabalho e as perspectivas da área, sendo voltado tanto para estudantes de Ciências Contábeis e Direito quanto para profissionais da área.",
+  "exemplar_id": 1810,
+  "sku": "LI010X",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/martinho-maur-cio-gomes-de-ornelas--per-cia-cont-bil--capa--20250430--102953.jpg",
+  "contracapa": "static/uploads/martinho-maur-cio-gomes-de-ornelas--per-cia-cont-bil--contracapa--20250430--102953.jpg",
+  "fotos": [
+    "static/uploads/martinho-maur-cio-gomes-de-ornelas--per-cia-cont-bil--foto1--20250430--102953.jpg",
+    "static/uploads/martinho-maur-cio-gomes-de-ornelas--per-cia-cont-bil--foto2--20250430--102953.jpg",
+    "static/uploads/martinho-maur-cio-gomes-de-ornelas--per-cia-cont-bil--foto3--20250430--102953.jpg",
+    "static/uploads/martinho-maur-cio-gomes-de-ornelas--per-cia-cont-bil--foto4--20250430--102953.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:00:31",
+  "observacoes": "procedencia_biblioteca"
+}

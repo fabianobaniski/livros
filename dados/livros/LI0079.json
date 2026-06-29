@@ -1,0 +1,68 @@
+{
+  "obra_id": 284,
+  "autor": "Greg Ip",
+  "titulo": "Economia no mundo real",
+  "subtitulo": "Como as crises financeiras e o crescimento econômico influenciam a vida das pessoas",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Economia. Crises financeiras. Crescimento econômico.",
+  "palavras_chave": "ip economia mundo",
+  "edicao_id": 278,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 280,
+  "isbn": "9788568905142",
+  "editora": "Best Business",
+  "numero_edicao": 1,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Greg Ip é um dos melhores jornalistas econômicos do mundo. Este livro expõe as forças financeiras que conduzem nossas vidas.\"</p><p>N. Gregory Mankiw, professor de Economia da Universidade de Harvard e autor de <i>Principles of Economics</i></p><p>\"Os dados são muito bem apurados e o texto é enfático. O leitor vai aprender sobre história e ciclos econômicos como se fosse uma aula informal.\"</p><p>USA Today</p><p>\"Muito esclarecedor sobre crises, riscos e desafios econômicos.\"</p><p>Kirkus Reviews</p>",
+  "sinopse": "Neste livro, Greg Ip explora como crises financeiras e o crescimento econômico impactam diretamente a vida das pessoas. Com dados bem apurados e uma narrativa envolvente, o autor ensina sobre as forças econômicas que moldam a sociedade, proporcionando uma aprendizagem informal sobre a história e os ciclos econômicos.",
+  "exemplar_id": 277,
+  "sku": "LI0079",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/greg-ip--economia-no-mundo-real--capa--20250226--133815.jpg",
+  "contracapa": "static/uploads/greg-ip--economia-no-mundo-real--contracapa--20250226--133815.jpg",
+  "fotos": [
+    "static/uploads/greg-ip--economia-no-mundo-real--foto1--20250226--133815.jpg",
+    "static/uploads/greg-ip--economia-no-mundo-real--foto2--20250226--133815.jpg",
+    "static/uploads/greg-ip--economia-no-mundo-real--foto3--20250226--133815.jpg",
+    "static/uploads/greg-ip--economia-no-mundo-real--foto4--20250226--133815.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:48:37",
+  "observacoes": null
+}

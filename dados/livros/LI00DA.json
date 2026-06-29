@@ -1,0 +1,63 @@
+{
+  "obra_id": 515,
+  "autor": "Jean Carlos da Silva",
+  "titulo": "Comentário exegético da Carta aos Efésios versículo por versículo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "História do Cristianismo.",
+  "palavras_chave": "silva carta efesios",
+  "edicao_id": 500,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 350,
+  "isbn": "9788568485002",
+  "editora": "JCS Publicações",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "Síntese Exegética",
+  "volume": null,
+  "transcricao_contracapa": "<h1>CIDADE DE ÉFESO</h1> <p>A cidade de Éfeso era uma das mais importantes na época. Aparece na Nova Testamento em Atos 18:19,24; 19:17,26; 1 Coríntios 15:32; 2 Timóteo 1:3; 2 Timóteo 4:12; Apocalipse 2:1. A cidade estava localizada na Lídia, que, de acordo com os historiadores, era um Reino, além de antiga, muito poderosa, na Ásia Menor. Éfeso localizava-se no oeste do região da Ásia Menor.</p> <p>De acordo com alguns historiadores, a cidade na época de Paulo tinha uma população estimada entre 200.000 a 225.000 habitantes, se encontrando entre Mileto e Esmirna. Cidade importantíssima do Império Romano.</p>",
+  "sinopse": "",
+  "exemplar_id": 499,
+  "sku": "LI00DA",
+  "preco_estante_virtual": 75.0,
+  "preco_amazon": 75.0,
+  "capa": "static/uploads/jean-carlos-da-silva--carta-aos-ef-sios--capa--20250227--152846.jpg",
+  "contracapa": "static/uploads/jean-carlos-da-silva--carta-aos-ef-sios--contracapa--20250227--152847.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:16:12",
+  "observacoes": null
+}

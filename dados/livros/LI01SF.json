@@ -1,0 +1,63 @@
+{
+  "obra_id": 2823,
+  "autor": "Pierre Grimal",
+  "titulo": "Os erros da liberdade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "grimal erros liberdade",
+  "edicao_id": 2803,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 185,
+  "peso": 280,
+  "isbn": "9788530801106",
+  "editora": "Papirus",
+  "numero_edicao": null,
+  "ano": 1990,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2802,
+  "sku": "LI01SF",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/os-erros-da-liberdade-pierre-grimal-capa_rev913.jpg",
+  "contracapa": "static/uploads/os-erros-da-liberdade-pierre-grimal-contracapa_rev904.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Sinopse: Este livro investiga o mito da liberdade, desde seu surgimento nas sociedades primitivas até sua acepção metafísica, revelando como a noção de liberdade, associada muitas vezes à democracia ateniense, na verdade se aproxima mais do ideal romano. Através de uma análise histórica das estruturas gregas e romanas, Pierre Grimal expõe as diferenças de mentalidades e critica a visão idealizada da liberdade. A obra nos convida a compreender o verdadeiro significado da liberdade e o que podemos esperar dela nos dias atuais. / Livro brochura, formato padrão, em boas condições. Papel discretamente amarelado pela ação do tempo. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:11:15",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 926,
+  "autor": "Henri Nouwen",
+  "titulo": "Tudo se fez novo",
+  "subtitulo": "Um convite à vida espiritual",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Ansiedade. Vida contemporânea.",
+  "palavras_chave": "nouwen tudo fez novo ",
+  "edicao_id": 911,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 93,
+  "peso": 250,
+  "isbn": "9788560387328",
+  "editora": "Palavra",
+  "numero_edicao": 1,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A sensação de vazio, o cansaço, o tédio, a ansiedade, as pressões e preocupações desta vida são alguns dos principais temas abordados nesta obra de Henri Nouwen. De acordo com a sensibilidade apurada do famoso escritor holandês, estamos num tempo onde temos muito, mas não temos nada; temos casa, mas não temos um lar.</p><p>\"Preocupações fazem com que estejamos em todos os lugares, mas raramente em casa. Uma maneira de expressar a crise espiritual de nosso tempo é dizer que a maioria de nós tem um endereço, mas não pode ser encontrado lá. Sabemos a quem pertencemos, mas continuamos sendo empurrados em muitas direções diferentes, como se fôssemos uns sem-casa. Todas essas coisas continuam requerendo nossa atenção. Elas nos conduzem para tão longe de casa que eventualmente esquecemos nossos verdadeiros endereços, os lugares onde podemos ser encontrados.\"</p><p>Em Tudo se fez novo, Nouwen usa as palavras de Jesus no Sermão do Monte acerca das ansiedades da vida para ensinar como alguém ainda pode ser espiritual diante de uma sociedade tão materialista e, ao mesmo tempo, tão insatisfeita.</p><p>Este é um dos livros mais importantes já publicados sobre vida espiritual. Com milhões de livros vendidos em todo o mundo, Henri Nouwen é considerado por muitos um dos maiores escritores cristãos do século XX na área de espiritualidade.</p>",
+  "sinopse": "Em Tudo se fez novo, Henri Nouwen explora a questão do vazio e da ansiedade na vida contemporânea. Usando as palavras de Jesus no Sermão do Monte, ele ensina como ainda é possível manter uma vida espiritual em meio a uma sociedade materialista. O autor reflete sobre a importância de termos um lar espiritual e como as preocupações cotidianas nos afastam desse lar. Este livro é fundamental para aqueles que buscam um profundo entendimento da espiritualidade na atualidade.",
+  "exemplar_id": 910,
+  "sku": "LI00OK",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 44.0,
+  "capa": "static/uploads/henri-nouwen--tudo-se-fez-novo--capa--20250227--152914.jpg",
+  "contracapa": "static/uploads/henri-nouwen--tudo-se-fez-novo--contracapa--20250227--152914.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:30:57",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5250,
+  "autor": "Eiichi Shimizu; Tomohiro Shimoguchi",
+  "titulo": "Ultraman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Heróis. Batalha.",
+  "palavras_chave": "shimizu ultraman",
+  "edicao_id": 5225,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 200,
+  "isbn": "9788545702474",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "<p>Para proteger Yuko, Hokuto vai à luta. Porém, a força de Ace Killer é esmagadora. Jack, Red e Hayata (vestindo uma armadura Ultra) chegam para ajudar, mas o grupo inimigo parece sobrepujar as forças terráqueas. Quando Hokuto se dá conta da sua impotência diante de Ace Killer, chega a desistir da luta, mas é salvo pelas palavras de Shinjiro! E então, desperta o seu real poder em nome de Yuko...! É agora! É hora do contra-ataque de Ace e da Patrulha Científica!</p>",
+  "sinopse": "Hokuto enfrenta a força esmagadora de Ace Killer para proteger Yuko, mas as forças terráqueas são sobrepujadas. Com a ajuda de Jack, Red e Hayata, e as palavras de Shinjiro, Hokuto desperta seu verdadeiro poder e se prepara para o contra-ataque junto à Patrulha Científica.",
+  "exemplar_id": 5224,
+  "sku": "LI02X6",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/ultraman__eiichi-shimizu-tomohiro-shimoguchi__capa__2026-02-20_10-32-55-031336-000.png",
+  "contracapa": "static/uploads/ultraman__eiichi-shimizu-tomohiro-shimoguchi__contracapa__2026-02-20_10-32-55-064724-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

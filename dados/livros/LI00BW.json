@@ -1,0 +1,63 @@
+{
+  "obra_id": 465,
+  "autor": "Carl Trueman",
+  "titulo": "Reforma",
+  "subtitulo": "Ontem, Hoje e Amanhã",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Reforma. Cristianismo. Teologia.",
+  "palavras_chave": "trueman reforma ontem hoje amanha",
+  "edicao_id": 450,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 106,
+  "peso": 250,
+  "isbn": "9788562828218",
+  "editora": "Os Puritanos",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A leitura deste livro magnífico é obrigatória a todos os cristãos — e especialmente àqueles que duvidam que a Reforma Protestante tenha algo a dizer para nós hoje. Declarando que “a Reforma é a tentativa de colocar Deus, como ele se revelou em Cristo, no centro da vida e do pensamento da igreja”, Trueman recupera a teologia da cruz de Lutero, argumentando que, visto que a Reforma “foi, acima de tudo, um movimento da Palavra — encarnada em Cristo e escrita nas Escrituras”, e porque o Espírito opera através da Palavra, “a Palavra escrita e a Palavra pregada são ambas centrais para o cristianismo, e não são simples formas culturais que podem ser alteradas quando os movimentos culturais mudam para algo novo” e então termina com um capítulo sobre a certeza cristã, reconhecendo nossa certeza como o fundamento para nossa atitude cristã. Ao longo do caminho, ele espalha pepitas e mais pepitas de percepção vívida sobre qual é a essência do legado da Reforma, levando seus leitores a abraçar outra vez essa essência.</p><p>— Mark R. Talbot,</p><p>Professor Adjunto de Filosofia, Wheaton College, Wheaton, Illinois</p><p>O presente tem elos indissolúveis com o passado. Isso é óbvio, ainda que, possivelmente, não para algumas pessoas modernas que se julgam mais sábias do que realmente são. Felizmente, Trueman não é assim. Extraindo um rico lastro de conhecimento da Reforma, aqui ele mostra que esse grandioso evento da história ainda não acabou de forma alguma, mas possui aplicabilidade progressiva. Este livro é uma grande introdução ao significado atual desse evento transformador de alcance mundial.</p><p>— Michael Haykin,</p><p>Professor de História da Igreja e Espiritualidade Bíblica, The Southern Baptist Theological Seminary, Louisville, Kentucky</p>",
+  "sinopse": "A leitura de 'Reforma' é essencial para cristãos, especialmente aqueles em dúvida sobre a relevância da Reforma Protestante nos dias atuais. O autor, Carl Trueman, discute como a reforma busca colocar Deus em primeiro plano, à luz de Cristo. Ele destaca a importância da Palavra e do espírito na vida cristã e conclui com reflexões sobre a crença cristã e o legado da reforma, incentivando os leitores a redescobrir sua essência.",
+  "exemplar_id": 449,
+  "sku": "LI00BW",
+  "preco_estante_virtual": 75.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/carl-trueman--reforma--capa--20250227--111544.jpg",
+  "contracapa": "static/uploads/carl-trueman--reforma--contracapa--20250227--111544.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:41:03",
+  "observacoes": null
+}

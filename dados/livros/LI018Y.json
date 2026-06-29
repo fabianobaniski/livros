@@ -1,0 +1,68 @@
+{
+  "obra_id": 2121,
+  "autor": "Ivani Fazenda",
+  "titulo": "Práticas interdisciplinares na escola",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Prática pedagógica. Interdisciplinaridade.",
+  "palavras_chave": "fazenda praticas interdisciplinares escola",
+  "edicao_id": 2101,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 147,
+  "peso": 220,
+  "isbn": "9788524903229",
+  "editora": "Cortez",
+  "numero_edicao": 10,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Perplexo ante à falência da Educação nos diferentes graus de ensino, o <i>educador/pesquisador</i> recorre a novos caminhos para sua prática docente.</p><p>Foi essa perplexidade que moveu cada um dos autores dessa coletânea — alunos nossos, mestrandos e doutorandos em Educação. Há quatro anos participam conosco da aventura de estudar e pesquisar Interdisciplinaridade. O registro aqui coletado é o de uma <b>leitura interdisciplinar de algumas de suas práticas</b> — variadas na <b>origem</b> e na <b>forma</b> de apresentação.</p><p>Todos puderam <b>viver e exercer</b> a Interdisciplinaridade — <b>coletivamente</b>, em nossa sala de aula; por isso acreditam que ela possa ser também <b>vivida e exercida por outros</b>. Acreditam que ela possa ser assim, <b>ensinada</b>, porque, dessa forma, aprenderam.</p><p><i>Ivani Fazenda</i></p>",
+  "sinopse": "A coletânea, organizada por Ivani Fazenda, reúne experiências de alunos de pós-graduação em Educação que exploraram a aventura de estudar e pesquisar a Interdisciplinaridade. Os textos apresentam uma leitura interdisciplinar de diversas práticas pedagógicas, variando em sua origem e forma, e defendem que tais práticas podem ser vividas, exercidas e ensinadas de modo coletivo, promovendo novos caminhos para a atuação docente.",
+  "exemplar_id": 2100,
+  "sku": "LI018Y",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ivani-fazenda--pr-ticas-interdisciplinares-na-escola--capa--20250430--104535.jpg",
+  "contracapa": "static/uploads/ivani-fazenda--pr-ticas-interdisciplinares-na-escola--contracapa--20250430--104535.jpg",
+  "fotos": [
+    "static/uploads/ivani-fazenda--pr-ticas-interdisciplinares-na-escola--foto1--20250430--104535.jpg",
+    "static/uploads/ivani-fazenda--pr-ticas-interdisciplinares-na-escola--foto2--20250430--104535.jpg",
+    "static/uploads/ivani-fazenda--pr-ticas-interdisciplinares-na-escola--foto3--20250430--104535.jpg",
+    "static/uploads/ivani-fazenda--pr-ticas-interdisciplinares-na-escola--foto4--20250430--104536.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:09:19",
+  "observacoes": "procedencia_biblioteca"
+}

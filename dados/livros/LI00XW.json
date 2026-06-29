@@ -1,0 +1,68 @@
+{
+  "obra_id": 1708,
+  "autor": "Irmã Ivonete Kurten; Francisco Eduardo",
+  "titulo": "Um mês com a Rainha do céu",
+  "subtitulo": "Refletindo a Salve-Rainha",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Maria.",
+  "palavras_chave": "kurten mes rainha ceu",
+  "edicao_id": 1688,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 101,
+  "peso": 200,
+  "isbn": "9788535642612",
+  "editora": "Paulinas",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro aprofunda e atualiza o conteúdo da oração Salve-Rainha, nos seus aspectos bíblico, teológico e pastoral, e mostra o lugar de Maria no projeto de nossa salvação. Maio é celebrado na Igreja Católica como mês mariano e, por isso, é uma excelente oportunidade de missão para a Igreja. Maria é a Mãe que visita todas as comunidades e famílias, e é muito importante para a nossa espiritualidade saber que, em meio a tantos sofrimentos e crises de todo o tipo, podemos contar com o olhar materno e a proximidade de uma Mãe que nos enche de esperança e renova nossa fé naquele que é o Senhor de todas as coisas e conduz a nossa vida.</p>",
+  "sinopse": "Este livro aprofunda a oração Salve-Rainha, explorando seus aspectos bíblicos e teológicos, destacando o papel de Maria em nosso projeto de salvação. Durante o mês de maio, há uma reflexão sobre sua importância para a espiritualidade e a fé, trazendo esperança em tempos difíceis.",
+  "exemplar_id": 1687,
+  "sku": "LI00XW",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/irm--ivonete-kurten--um-m-s-com-a-rainha-do-c-u--capa--20250401--115808.jpg",
+  "contracapa": "static/uploads/irm--ivonete-kurten--um-m-s-com-a-rainha-do-c-u--contracapa--20250401--115808.jpg",
+  "fotos": [
+    "static/uploads/irm--ivonete-kurten--um-m-s-com-a-rainha-do-c-u--foto1--20250401--115808.jpg",
+    "static/uploads/irm--ivonete-kurten--um-m-s-com-a-rainha-do-c-u--foto2--20250401--115808.jpg",
+    "static/uploads/irm--ivonete-kurten--um-m-s-com-a-rainha-do-c-u--foto3--20250401--115808.jpg",
+    "static/uploads/irm--ivonete-kurten--um-m-s-com-a-rainha-do-c-u--foto4--20250401--115808.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:36:08",
+  "observacoes": null
+}

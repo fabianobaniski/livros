@@ -1,0 +1,63 @@
+{
+  "obra_id": 964,
+  "autor": "John Foxe",
+  "titulo": "O livro dos mártires",
+  "subtitulo": "A história dos sofrimentos e morte dos cristãos primitivos e dos mártires protestantes",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "História. Cristianismo. Mártires.",
+  "palavras_chave": "foxe livro martires",
+  "edicao_id": 949,
+  "encadernacao": null,
+  "quantidade_paginas": 449,
+  "peso": 800,
+  "isbn": "9788526317536",
+  "editora": "CPAD",
+  "numero_edicao": 2,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta é a maior história dos mártires cristãos. Depois da Biblia, nenhum outro livro influenciou de maneira tão profunda o protestantismo na Europa. Escrito primeiro em latim sob o título <i>História dos Atos e Monumentos da Igreja</i>, foi publicado em Basileia (Suíça) em 1554. Na Inglaterra, país onde John Foxe nasceu e viveu, a obra foi lançada a partir de 1563 com grande repercussão. Por ordem dos bispos, em cada catedral foi posto um exemplar do livro, num átrio onde o povo tivesse acesso, como se fazia com a própria Bíblia.</p> <p>Antes da morte do autor, houve quatro grandes edições. Através da história dos sofrimentos e morte de homens e mulheres cheios de fé e coragem, a obra serviu para modelar o caráter nacional do povo inglês.</p> <p>\"Os que podiam ler por si mesmos conheceram com detalhes todas as atrocidades cometidas contra os reformadores protestantes. Os analfabetos podiam ver as ilustrações dos vários instrumentos de tortura: os ferros em brasa, o óleo fervendo, e os santos expirando entre as chamas\" (Douglas Campbell, <i>Os Puritanos na Holanda, Inglaterra e América</i>).</p> <p>O Livro dos Mártires, com capítulos adicionais sobre as perseguições sofridas por cristãos até o século XIX, permanece uma força viva e uma fonte de edificação para os cristãos de todos os tempos.</p> <p>O AUTOR</p> <p>John Foxe viveu de 1517 a 1587. Foi alvo de perseguição religiosa durante o reinado da rainha Maria, a Sangrenta, na Inglaterra, que só terminou com o reinado da rainha Elizabeth I. Prestou grande serviço tanto à Igreja como ao mundo mediante o seu mistério e o brilho irretocável de sua vida útil e santa.</p>",
+  "sinopse": "O Livro dos Mártires é uma obra monumental que narra a história dos mártires cristãos, destacando as atrocidades sofridas por cristãos primitivos e protestantes ao longo da história. Escrita por John Foxe, autor perseguidos no século XVI, a obra influenciou profundamente o protestantismo na Europa e permanece uma importante fonte de edificação para cristãos através dos tempos.",
+  "exemplar_id": 948,
+  "sku": "LI00PM",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/john-foxe--o-livro-dos-m-rtires--capa--20250227--152916.jpg",
+  "contracapa": "static/uploads/john-foxe--o-livro-dos-m-rtires--contracapa--20250227--152916.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Há, contudo, algumas páginas grifadas com caneta destaca-texto. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:29:54",
+  "observacoes": null
+}

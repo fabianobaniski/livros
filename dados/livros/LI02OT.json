@@ -1,0 +1,63 @@
+{
+  "obra_id": 4939,
+  "autor": "Kentaro Yabuki; Saki Hasemi",
+  "titulo": "To Love-Ru",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá.",
+  "palavras_chave": "love-ru",
+  "edicao_id": 4914,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 180,
+  "isbn": "9788569212348",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 15,
+  "transcricao_contracapa": "",
+  "sinopse": "A vida do estudante Rito Yuuki vira de cabeça para baixo quando a princesa alienígena Lala Deviluke surge em sua banheira. Para fugir de pretendentes espaciais, ela o declara seu noivo. O que era um dilema amoroso comum entre Rito e sua paixão, Haruna, transforma-se em uma comédia caótica repleta de tecnologias alienígenas, garotas de diversos planetas e situações picantes acidentais.",
+  "exemplar_id": 4913,
+  "sku": "LI02OT",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__capa__2026-02-20_10-31-16-405229-000.png",
+  "contracapa": "static/uploads/to-love-ru__kentaro-yabuki-saki-hasemi__contracapa__2026-02-20_10-31-16-455101-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel discretamente amarelado pelo passar do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

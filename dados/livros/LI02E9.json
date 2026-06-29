@@ -1,0 +1,68 @@
+{
+  "obra_id": 3614,
+  "autor": "Minha Biblioteca Católica",
+  "titulo": "Guia Ad Maiorem Dei Gloriam",
+  "subtitulo": "Ano 1 - Nº 6 - Maio 2022",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "catolica guia maiorem dei",
+  "edicao_id": 3591,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 95,
+  "peso": 160,
+  "isbn": "",
+  "editora": "Minha Biblioteca Católica",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3590,
+  "sku": "LI02E9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/minha-biblioteca-catolica--guia-ad-maiorem-dei-gloriam--capa--20251114--175641.png",
+  "contracapa": "static/uploads/minha-biblioteca-catolica--guia-ad-maiorem-dei-gloriam--contracapa--20251114--175648.png",
+  "fotos": [
+    "static/uploads/minha-biblioteca-catolica--guia-ad-maiorem-dei-gloriam--foto1--20251121--185409.jpg",
+    "static/uploads/minha-biblioteca-catolica--guia-ad-maiorem-dei-gloriam--foto2--20251121--185409.jpg",
+    "static/uploads/minha-biblioteca-catolica--guia-ad-maiorem-dei-gloriam--foto3--20251121--185409.jpg",
+    "static/uploads/minha-biblioteca-catolica--guia-ad-maiorem-dei-gloriam--foto4--20251121--185409.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:20:24",
+  "observacoes": null
+}

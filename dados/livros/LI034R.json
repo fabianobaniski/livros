@@ -1,0 +1,68 @@
+{
+  "obra_id": 5746,
+  "autor": "Patty Pachas",
+  "titulo": "Sonhar e realizar, é só começar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Motivação. Realização pessoal. Animais.",
+  "palavras_chave": "pachas sonhar realizar comecar",
+  "edicao_id": 5721,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 67,
+  "peso": 270,
+  "isbn": "9788588948105",
+  "editora": "Original",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quem é que nunca fez listas com planos para a semana, o mês, o ano? Assim fica mais fácil estabelecer objetivos e prioridades. Claro que não adianta querer fazer tudo de uma vez. <b>SONHAR E REALIZAR, É SÓ COMEÇAR</b> traz fotos apaixonantes de animais e frases bastante divertidas que mostram como seus planos devem ser tocados para não ficarem abandonados no meio do caminho. Você vai ver que os primeiros passos é que dão o ritmo de tudo. Mas só eles não são suficientes para chegar ao fim da trilha. Neste livro-presente, você vai se motivar a driblar os problemas e, finalmente, realizar tudo o que você sempre sonhou.</p>",
+  "sinopse": "O livro traz fotos encantadoras de animais e frases motivacionais para ajudar o leitor a transformar sonhos em realidade. A obra propõe que os primeiros passos são essenciais, mas apenas eles não bastam para alcançar os objetivos. Com mensagens de incentivo, o leitor é motivado a superar obstáculos e a conquistar tudo aquilo que deseja, sem abandonar seus planos pelo caminho.",
+  "exemplar_id": 5720,
+  "sku": "LI034R",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sonhar-e-realizar-e-so-comecar__none__patty-pachas__capa__2026-01-18_14-11-18-930552-000.png",
+  "contracapa": "static/uploads/sonhar-e-realizar-e-so-comecar__none__patty-pachas__contracapa__2026-01-18_14-11-18-998574-001.png",
+  "fotos": [
+    "static/uploads/sonhar-e-realizar-e-so-comecar__none__patty-pachas__foto-01__2026-01-18_14-11-19-084580-002.jpg",
+    "static/uploads/sonhar-e-realizar-e-so-comecar__none__patty-pachas__foto-02__2026-01-18_14-11-19-115270-003.jpg",
+    "static/uploads/sonhar-e-realizar-e-so-comecar__none__patty-pachas__foto-03__2026-01-18_14-11-19-349343-004.jpg",
+    "static/uploads/sonhar-e-realizar-e-so-comecar__none__patty-pachas__foto-04__2026-01-18_14-11-19-665476-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:35:47",
+  "observacoes": null
+}

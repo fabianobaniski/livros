@@ -1,0 +1,68 @@
+{
+  "obra_id": 5860,
+  "autor": "Luiz J. Corrar; Carlos Renato Theóphilo",
+  "titulo": "Pesquisa operacional",
+  "subtitulo": "Para decisão em contabilidade e administração",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Ciências Contábeis. Métodos quantitativos. Pesquisa operacional. Estatística. Tomada de decisão.",
+  "palavras_chave": "corrar pesquisa operacional decisao contabilidade administracao",
+  "edicao_id": 5835,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 490,
+  "peso": 690,
+  "isbn": "9788522452163",
+  "editora": "Atlas",
+  "numero_edicao": 2,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Pesquisa Operacional</h1><h2>para decisão em contabilidade e administração</h2><h3>Contabilometria</h3><p>A tendência crescente de cursos de MBA na área de negócios e a ênfase em métodos quantitativos nos currículos dos cursos Ciências Contábeis e Administração motivaram a elaboração deste livro que, entre outras características, aborda tópicos de estatística e pesquisa operacional com enfoque gerencial, apresentando resolução de exemplos em contabilidade e finanças com utilização da planilha eletrônica MS Excel.</p><p>Especialmente desenvolvido para os estudantes de Contabilidade e de Administração, contém ainda as principais técnicas quantitativas, bem como suas aplicações computacionais, a serem utilizadas nas tomadas de decisões administrativas e contábeis.</p><p>A obra destaca o desenvolvimento de soluções aplicadas aos microcomputadores de técnicas, como: amostragem, regressões, análise discriminante, séries temporais, simulação, análise da decisão, programação linear, <i>Goal programming</i> (programação multiobjetiva), programação não linear.</p>",
+  "sinopse": "Este livro, motivado pela crescente importância dos métodos quantitativos em cursos de Ciências Contábeis e Administração, aborda tópicos de estatística e pesquisa operacional com enfoque gerencial. Traz exemplos resolvidos em contabilidade e finanças utilizando MS Excel, contemplando técnicas quantitativas e suas aplicações computacionais para decisões administrativas e contábeis. Destaca-se pela abordagem de soluções como amostragem, regressões, análise discriminante, séries temporais, simulação, decisão, e programação linear e não linear, voltado a estudantes e profissionais da área.",
+  "exemplar_id": 5834,
+  "sku": "LI037W",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/pesquisa-operacional__para-decisao-em-contabilidade-e-administracao__luiz-j-corrar-carlos-renato-theophilo-jeronimo-antunes-jeronymo-jose-libonati-jose-francisco-ribeiro-filho__capa__2026-01-18_14-12-38-995753-000.png",
+  "contracapa": "static/uploads/pesquisa-operacional__para-decisao-em-contabilidade-e-administracao__luiz-j-corrar-carlos-renato-theophilo-jeronimo-antunes-jeronymo-jose-libonati-jose-francisco-ribeiro-filho__contracapa__2026-01-18_14-12-39-034185-001.png",
+  "fotos": [
+    "static/uploads/pesquisa-operacional__para-decisao-em-contabilidade-e-administracao__luiz-j-corrar-carlos-renato-theophilo-jeronimo-antunes-jeronymo-jose-libonati-jose-francisco-ribeiro-filho__foto-01__2026-01-18_14-12-39-065919-002.jpg",
+    "static/uploads/pesquisa-operacional__para-decisao-em-contabilidade-e-administracao__luiz-j-corrar-carlos-renato-theophilo-jeronimo-antunes-jeronymo-jose-libonati-jose-francisco-ribeiro-filho__foto-02__2026-01-18_14-12-39-111758-003.jpg",
+    "static/uploads/pesquisa-operacional__para-decisao-em-contabilidade-e-administracao__luiz-j-corrar-carlos-renato-theophilo-jeronimo-antunes-jeronymo-jose-libonati-jose-francisco-ribeiro-filho__foto-03__2026-01-18_14-12-39-138039-004.jpg",
+    "static/uploads/pesquisa-operacional__para-decisao-em-contabilidade-e-administracao__luiz-j-corrar-carlos-renato-theophilo-jeronimo-antunes-jeronymo-jose-libonati-jose-francisco-ribeiro-filho__foto-04__2026-01-18_14-12-39-186743-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:03:44",
+  "observacoes": "procedencia_biblioteca"
+}

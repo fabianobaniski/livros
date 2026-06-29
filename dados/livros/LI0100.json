@@ -1,0 +1,68 @@
+{
+  "obra_id": 1797,
+  "autor": "Marcelo Cavalcanti Almeida",
+  "titulo": "Auditoria",
+  "subtitulo": "Um curso moderno e completo",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Auditoria. Princípios contábeis. Exercícios práticos.",
+  "palavras_chave": "almeida auditoria curso moderno completo",
+  "edicao_id": 1777,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 590,
+  "peso": 840,
+  "isbn": "9788522435036",
+  "editora": "Atlas",
+  "numero_edicao": 6,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>AUDITORIA<br>Um Curso Moderno e Completo</b><br><p>Esta obra foi escrita em linguagem didática e aborda os princípios de auditoria moderna. Está voltada para a realidade brasileira e de acordo com a Lei das Sociedades por Ações. O texto contém:</p><ul><li>Conceitos básicos de auditoria</li><li>Controle interno</li><li>Papéis de trabalho</li><li>Demonstrações financeiras a serem auditadas</li><li>Planejamento de auditoria</li><li>Caixa e bancos</li><li>Contas a receber</li><li>Estoques</li><li>Despesas antecipadas</li><li>Investimentos</li><li>Ativo imobilizado</li><li>Ativo diferido</li><li>Obrigações</li><li>Empréstimos</li><li>Resultado de exercícios futuros</li><li>Patrimônio líquido</li><li>Receitas, despesas e custos</li><li>Revisão analítica</li><li>Parecer</li><li>Relatório-comentário</li><li>Recrutamento, seleção, treinamento e avaliação de auditores</li></ul><p>O Autor deu um enfoque especial e pioneiro na direção dos testes em auditoria e enriqueceu a obra com exemplos práticos, princípios contábeis aplicáveis às áreas e exemplos profissionais de papéis de trabalho.</p><br><b>NOTA SOBRE O AUTOR</b><br><p>MARCELLO CAVALCANTI ALMEIDA é sócio da Deloitte Touche Tohmatsu e professor do curso de Ciências Contábeis da Universidade do Estado do Rio de Janeiro. Ex-professor do curso de mestrado em Contabilidade da Fundação Getulio Vargas (RJ). É autor dos livros <i>Contabilidade avançada: textos, exemplos e exercícios resolvidos</i>, <i>Contabilidade geral: para o exame de suficiência</i>, <i>Contabilidade intermediária</i>, <i>Curso básico de contabilidade</i> e <i>Princípios fundamentais de contabilidade e Normas Brasileiras de Contabilidade</i>, publicados pela Atlas.</p><br><b>APLICAÇÃO</b><br><p>Livro-texto para a disciplina AUDITORIA dos cursos de Ciências Contábeis e Administração de Empresas. Leitura recomendada para cursos de atualização e aprimoramento destinados a auditores, contadores, controladores, analistas financeiros e outros profissionais da área.</p>",
+  "sinopse": "Esta obra apresenta uma abordagem didática sobre os princípios modernos de auditoria, alinhada à legislação brasileira. O conteúdo abrange desde conceitos básicos, controle interno e papéis de trabalho até demonstrações financeiras, revisões analíticas e relatórios-comentários, incluindo tópicos como planejamento da auditoria, caixa, bancos, estoques, despesas e receitas. O autor destaca-se por trazer exemplos práticos, princípios contábeis aplicáveis e estudos de casos profissionais. O livro é recomendado para estudantes de Ciências Contábeis, Administração e profissionais como auditores, contadores e analistas financeiros.",
+  "exemplar_id": 1776,
+  "sku": "LI0100",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/marcelo-cavalcanti-almeida--auditoria--capa--20250430--102948.jpg",
+  "contracapa": "static/uploads/marcelo-cavalcanti-almeida--auditoria--contracapa--20250430--102948.jpg",
+  "fotos": [
+    "static/uploads/marcelo-cavalcanti-almeida--auditoria--foto1--20250430--102948.jpg",
+    "static/uploads/marcelo-cavalcanti-almeida--auditoria--foto2--20250430--102948.jpg",
+    "static/uploads/marcelo-cavalcanti-almeida--auditoria--foto3--20250430--102948.jpg",
+    "static/uploads/marcelo-cavalcanti-almeida--auditoria--foto4--20250430--102948.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:32:45",
+  "observacoes": "procedencia_biblioteca"
+}

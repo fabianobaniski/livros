@@ -1,0 +1,63 @@
+{
+  "obra_id": 2938,
+  "autor": "David Hume",
+  "titulo": "The history of England",
+  "subtitulo": "Volume I Part F - From Charles II to James II",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "hume the history england",
+  "edicao_id": 2918,
+  "encadernacao": null,
+  "quantidade_paginas": 452,
+  "peso": 500,
+  "isbn": "9781426496189",
+  "editora": "Bibliobazaar",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2917,
+  "sku": "LI01VM",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/the-history-of-england-david-hume-capa_rev573.jpg",
+  "contracapa": "static/uploads/the-history-of-england-david-hume-contracapa_rev595.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, livre de anotações ou sublinhados. Leves sinais deixados pelo uso.  Volume One: The History Of England from the invasion of Julius Cesar to the end of the reign of James The Second."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:15:07",
+  "observacoes": null
+}

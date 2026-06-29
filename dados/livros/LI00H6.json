@@ -1,0 +1,63 @@
+{
+  "obra_id": 655,
+  "autor": "Jay E. Adams",
+  "titulo": "A vida cristã no lar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Controvérsias. Família. Aconselhamento cristão.",
+  "palavras_chave": "adams vida cristã lar",
+  "edicao_id": 640,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 213,
+  "peso": 250,
+  "isbn": "9788599145975",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>A família está em perigo.</h1> <p>Edificar uma família sob bases cristãs, em nossos dias, é um enorme desafio. Lares cristãos estáveis têm se tornado cada vez mais incomuns. Vivemos tempos em que o casamento tem sido redefinido, a disciplina bíblica está sob pesado ataque e os valores familiares estão em cheque. O próprio conceito de família tem sido questionado.</p> <p>Neste livro, somos lembrados pelo experiente ministro e especialista em aconselhamento cristão, Jay E. Adams, que a família é a primeira instituição de Deus e que devemos seguir as orientações das Escrituras para estabelecermos famílias cristãs fortes, unidas e estáveis. Adams oferece nesta obra princípios bíblicos fundamentais sobre a família, além de diversos conselhos muito práticos sobre a dinâmica familiar. Um livro necessário para todo cristão!</p>",
+  "sinopse": "Neste livro, Jay E. Adams nos lembra da importância de edificar famílias cristãs em tempos desafiadores, onde valores familiares estão sob ataque. Ele enfatiza que a família é a primeira instituição de Deus e apresenta princípios e conselhos práticos das Escrituras para fortalecer a dinâmica familiar, tornando-a estável e unida.",
+  "exemplar_id": 639,
+  "sku": "LI00H6",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 19.0,
+  "capa": "static/uploads/jay-e--adams--a-vida-crist--no-lar--capa--20250227--152855.jpg",
+  "contracapa": "static/uploads/jay-e--adams--a-vida-crist--no-lar--contracapa--20250227--152855.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:46:59",
+  "observacoes": null
+}

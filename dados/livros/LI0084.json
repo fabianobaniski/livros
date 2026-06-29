@@ -1,0 +1,68 @@
+{
+  "obra_id": 318,
+  "autor": "John Grisham",
+  "titulo": "O dossiê pelicano",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção. Thriller. Justiça.",
+  "palavras_chave": "grisham dossie pelicano",
+  "edicao_id": 309,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 390,
+  "peso": 350,
+  "isbn": "853250388",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>O dossiê pelicano</h1><p>Dois juízes: Rosenberg, famoso por defender causas liberais, Jensen, suspeito de tendências homossexuais. Um único assassino: terrorista, procurado em nove países diferentes, impácel, a serviço de um mandatário insuspeitado. Quando a estudante de direito Darby Shaw começa a decifrar os dados de dois crimes que abalam a opinião pública americana, está apenas exercitando sua argüiça de primeira aluna. Depois do assassinato do professor Callahan, seu namorado, a questão adquire contornos de luta pela sobrevivência. Qual seria a relação das mortes com um lento processo envolvendo uma companhia petrolífera e uma pequena entidade ambiental, a Fundo Verde, interessada em impedir a extinção do pelicano marrom? Com a ajuda do jornalista Gray Grantham e tendo como pano de fundo a exótica Nova Orleans, Darby Shaw desmascara conexões capazes de derrubar um presidente. Com O dossiê pelicano, John Grisham se estabelece como autor de ritmo tenso e personagens convincentes a serviço de tramas sempre impecáveis.</p>",
+  "sinopse": "Dois juízes, Rosenberg e Jensen, estão envolvidos em uma complexa trama que envolve assassinatos e interesses políticos. A estudante de direito Darby Shaw se depara com um mistério ao investigar os crimes, que possuem ligação com uma empresa petrolífera e a proteção do pelicano marrom. Com a ajuda do jornalista Gray Grantham, ela mergulha em um mundo de conexões perigosas que poderiam derrubar um presidente.",
+  "exemplar_id": 308,
+  "sku": "LI0084",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/john-grisham--o-dossi--pelicano--capa--20250226--133819.jpg",
+  "contracapa": "static/uploads/john-grisham--o-dossi--pelicano--contracapa--20250226--133819.jpg",
+  "fotos": [
+    "static/uploads/john-grisham--o-dossi--pelicano--foto1--20250226--133819.jpg",
+    "static/uploads/john-grisham--o-dossi--pelicano--foto2--20250226--133819.jpg",
+    "static/uploads/john-grisham--o-dossi--pelicano--foto3--20250226--133819.jpg",
+    "static/uploads/john-grisham--o-dossi--pelicano--foto4--20250226--133819.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Com assinatura de ex-dono na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:05:00",
+  "observacoes": null
+}

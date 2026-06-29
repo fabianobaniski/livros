@@ -1,0 +1,68 @@
+{
+  "obra_id": 1505,
+  "autor": "Andressa Urach",
+  "titulo": "Morri para viver",
+  "subtitulo": "Meu submundo de fama, drogas e prostituição",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "Celebridades. Prostituição. Redenção.",
+  "palavras_chave": "urach morri viver submundo",
+  "edicao_id": 1486,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 238,
+  "peso": 300,
+  "isbn": "9788542205343",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As confissões surpreendentes de uma das personalidades da mídia mais conhecidas e polêmicas do Brasil. A verdadeira história de Andressa Urach em sua insana obsessão por dinheiro e sucesso. Um livro corajoso marcado por revelações inéditas.</p> <p>Como ela se tornou uma das prostitutas mais caras e desejadas do país. A rotina no bordel onde construiu seu nome de guerra: Ímola. O chocante e constrangedor diário de uma garota de programa.</p> <p>Um mergulho jamais feito, com tantos detalhes, no mercado da prostituição de luxo. Os casos secretos com clientes ricos e famosos. Empresários milionários, cantores, jogadores de futebol, artistas, bandidos, religiosos.</p> <p>O domínio das drogas em noitadas e festas particulares. Seu nome nos principais jornais do mundo em escândalos no Brasil e na Europa. Como se inventa a fama no universo das celebridades.</p> <p>O vício em cirurgias plásticas. A incrível experiência de quase morte no coma. Os dias de internação no limite da vida. A sobrevivência e sua jornada em busca de redenção.</p>",
+  "sinopse": "As confissões de Andressa Urach revelam sua trajetória desde a prostituição até a busca por redenção, passando por escândalos, vícios em drogas e cirurgias plásticas. O livro narra detalhes de sua vida pessoal e profissional, trazendo à tona experiências extremas e reflexões sobre fama e sucesso.",
+  "exemplar_id": 1485,
+  "sku": "LI00WG",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/andressa-urach--morri-para-viver--capa--20250401--115741.jpg",
+  "contracapa": "static/uploads/andressa-urach--morri-para-viver--contracapa--20250401--115741.jpg",
+  "fotos": [
+    "static/uploads/andressa-urach--morri-para-viver--foto1--20250401--115741.jpg",
+    "static/uploads/andressa-urach--morri-para-viver--foto2--20250401--115742.jpg",
+    "static/uploads/andressa-urach--morri-para-viver--foto3--20250401--115742.jpg",
+    "static/uploads/andressa-urach--morri-para-viver--foto4--20250401--115742.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:05:44",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1929,
+  "autor": "Ana Cristina de Faria; Ivan da Cunha; Yone Xavier Felipe",
+  "titulo": "Manual prático para elaboração de monografias",
+  "subtitulo": "Trabalhos de conclusão de curso, dissertações e teses",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Elaboração de monografias. Pesquisa científica. Metodologia de pesquisa acadêmica.",
+  "palavras_chave": "faria manual pratico para elaboracao monografias",
+  "edicao_id": 1909,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 87,
+  "peso": 125,
+  "isbn": "9788532634849",
+  "editora": "Vozes / Univ. São Judas Tadeu",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A monografia é a forma de representação escolhida para expressar os resultados da pesquisa de forma cientificamente sistematizada. Isso significa que um mínimo de especificações deve ser cumprido para que seus objetivos possam ser validados, ou seja, fundamentados em bases científicas.</p><p>Esta obra apresenta temas como a Pesquisa – <i>problema, objetivos, justificativas e metodologia</i> – os Tipos de Pesquisa – <i>bibliográfica, de campo, estudo de caso</i> – a Estrutura da Monografia, as Formas de Apresentação e Referências Bibliográficas, entre outros.</p>",
+  "sinopse": "Este manual apresenta os fundamentos essenciais para a elaboração de monografias, enfatizando a importância da sistematização científica na apresentação dos resultados de pesquisa. Traz orientações sobre problemas, objetivos, justificativas, metodologia, além de abordar diferentes tipos de pesquisa, como bibliográfica, de campo e estudo de caso. O livro também discute a estrutura das monografias, formatos de apresentação e referências bibliográficas, oferecendo um guia completo para trabalhos de conclusão de curso, dissertações e teses.",
+  "exemplar_id": 1908,
+  "sku": "LI013N",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ana-cristina-de-faria--manual-pr-tico-para-elabora--o-de-monografias--capa--20250430--104302.jpg",
+  "contracapa": "static/uploads/ana-cristina-de-faria--manual-pr-tico-para-elabora--o-de-monografias--contracapa--20250430--104302.jpg",
+  "fotos": [
+    "static/uploads/ana-cristina-de-faria--manual-pr-tico-para-elabora--o-de-monografias--foto1--20250430--104302.jpg",
+    "static/uploads/ana-cristina-de-faria--manual-pr-tico-para-elabora--o-de-monografias--foto2--20250430--104302.jpg",
+    "static/uploads/ana-cristina-de-faria--manual-pr-tico-para-elabora--o-de-monografias--foto3--20250430--104302.jpg",
+    "static/uploads/ana-cristina-de-faria--manual-pr-tico-para-elabora--o-de-monografias--foto4--20250430--104302.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:21:26",
+  "observacoes": "procedencia_biblioteca"
+}

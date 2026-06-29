@@ -1,0 +1,63 @@
+{
+  "obra_id": 3082,
+  "autor": "Russell P. Shedd",
+  "titulo": "Alegrai-vos no Senhor",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "shedd alegraivos senhor",
+  "edicao_id": 3062,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 128,
+  "peso": 280,
+  "isbn": null,
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 1984,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Para muitos cristãos, a Carta aos Filipenses encontra-se entre as suas epístolas prediletas. Paulo revela seu amor, gratidão, ternura e alegria no Senhor ao pensar naquela comunidade que iniciou-se à beira de um rio perto de Filipos. A igreja tomou novo impulso como consequência de um forte terremoto que, em vez de soltar os presos, levou o carcereiro e sua família à conversão. Em meio ao sofrimento, Paulo e Silas cantavam. O título deste livro destaca o tema desta carta alegre.",
+  "exemplar_id": 3061,
+  "sku": "LI01ZM",
+  "preco_estante_virtual": 42.5,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, apesar de um tanto amarelado. Não apresenta marcas de traça, umidade, mofo, exposição ao sol, nem anotações, sublinhados, rabiscos, rasgos ou amassados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:12:19",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 827,
+  "autor": "Stanley Gundry",
+  "titulo": "5 perspectivas sobre a santificação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Santificação.",
+  "palavras_chave": "gundry 5 perspectivas santificacao",
+  "edicao_id": 812,
+  "encadernacao": null,
+  "quantidade_paginas": 271,
+  "peso": 350,
+  "isbn": "9788573678154",
+  "editora": "Vida Acadêmica",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>É possível alcançar a santificação nesta vida?</h1> <p>A crise após a conversão é uma experiência normal, ou mesmo necessária?</p> <p>De maneira geral, os cristãos reconhecem a necessidade de viver de forma santa e consagrada. Discordam, porém, sobre o que é santificação e como ela pode ser obtida.</p> <p><b>5 perspectivas sobre a santificação</b> reúne em um único volume as principais perspectivas sobre o tema: wesleyana, reformada, pentecostal, de Keswick e agostiniano-dispensacionalista. Cada autor apresenta e defende sua posição, respondendo aos argumentos das outras linhas de pensamento. Todos os debatedores, no entanto, concordam que a santificação exige empenho do cristão para expressar o amor de Deus na prática.</p> <p>Ao contrapor argumentos de diferentes correntes do pensamento teológico, esta obra valiosa contribui para o livre debate de ideias, proporcionando aos leitores a oportunidade de aprofundar-se no conhecimento e na convicção de temas relevantes da teologia cristã.</p>",
+  "sinopse": "Este livro discute a possibilidade e a natureza da santificação na vida cristã, apresentando diferentes perspectivas sobre o tema. Os autores debatem a necessidade de viver uma vida santa, abordando questões teológicas diversas e defendendo suas posições, enquanto enfatizam o empenho necessário do cristão em demonstrar o amor de Deus através de sua prática.",
+  "exemplar_id": 811,
+  "sku": "LI00LX",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/stanley-gundry--5-perspectivas-sobre-a-santifica--o--capa--20250227--152907.jpg",
+  "contracapa": "static/uploads/stanley-gundry--5-perspectivas-sobre-a-santifica--o--contracapa--20250227--152907.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "LI00LX"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:01:30",
+  "observacoes": null
+}

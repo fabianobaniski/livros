@@ -1,0 +1,63 @@
+{
+  "obra_id": 775,
+  "autor": "John MacArthur",
+  "titulo": "João",
+  "subtitulo": "Jesus – O Verbo, Messias, Filho de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Teologia.",
+  "palavras_chave": "macarthur joao jesus verbo messias filho deus",
+  "edicao_id": 760,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 80,
+  "peso": 150,
+  "isbn": "9788576223702",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "Série Estudos Bíblicos John MacArthur",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Evangelho de João está repleto de profundas verdades e histórias de grande riqueza espiritual. Os relatos dos milagres inspiram seus seguidores, os relatos da ressurreição dão esperança de eterna glória. Cada milagre, ensinamento e reação que João registra tem um propósito específico: provar que Jesus é o Verbo, o Messias e o Filho de Deus. Os marcos do ministério de Jesus, tal como retratados por João, já convidaram milhões de pessoas ao longo dos séculos para a fé salvadora em Cristo. Esses mesmos marcos o conduzirão a um mais profundo entendimento da pessoa e da obra de Jesus.</p> <p>A Série Estudos Bíblicos John MacArthur oferece roteiros para exame do Novo Testamento com doze unidades semanais, incluindo comentário versículo por versículo e perguntas que estimulam o raciocínio.</p> <p>John MacArthur é conhecido pastor, professor e autor. Seus muitos títulos incluem Abaixo a ansiedade, A morte de Jesus, Como educar seus filhos segundo a Bíblia, Como obter o máximo da Palavra de Deus, Como ser crente em um mundo de descrentes, Crer é difícil, Criação ou evolução, Doze homens comuns, Doze mulheres notáveis, O Caminho da felicidade, O Poder da integridade, Princípios para uma cosmovisão bíblica, todos desta Editora.</p>",
+  "sinopse": "O Evangelho de João apresenta verdades profundas sobre Jesus, destacando seus milagres e ensinamentos. Este livro visa provar a divindade de Jesus como o Verbo, Messias e Filho de Deus, incluindo histórias inspiradoras ao longo dos séculos que convidam à fé. A obra serve como um guia para um entendimento mais profundo da vida e ministério de Jesus.",
+  "exemplar_id": 759,
+  "sku": "LI00KI",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/john-macarthur--jo-o--capa--20250227--152903.jpg",
+  "contracapa": "static/uploads/john-macarthur--jo-o--contracapa--20250227--152903.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:51:49",
+  "observacoes": null
+}

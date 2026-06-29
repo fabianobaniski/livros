@@ -1,0 +1,68 @@
+{
+  "obra_id": 213,
+  "autor": "Anne Frank",
+  "titulo": "O diário de Anne Frank",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "História. Holocausto. Literatura de testemunho.",
+  "palavras_chave": "frank diario anne",
+  "edicao_id": 207,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 2019,
+  "peso": 400,
+  "isbn": "9788501068200",
+  "editora": "Record",
+  "numero_edicao": 82,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>O retrato da menina - por trás do mito</h1> <p>O depoimento da pequena Anne Frank, morta pelos nazistas após passar anos escondida no sótão de uma casa em Amsterdã, ainda hoje emociona milhões de leitores. Seu diário narra os sentimentos, os medos e as pequenas alegrias de uma menina judia que, como sua família, lutou em vão para sobreviver ao Holocausto.</p> <p>Lançado em 1947, O diário de Anne Frank se tornou um dos livros mais lidos do mundo. O relato tocante e impressionante das atrocidades e dos horrores cometidos contra os judeus faz deste livro um precioso documento e uma das obras mais importantes do século XX.</p>",
+  "sinopse": "O diário de Anne Frank é um relato tocante da vida de uma jovem judia que se escondeu durante a ocupação nazista. Neste testemunho, Anne expressa suas emoções, medos e alegrias em um cotidiano marcado pela guerra. Seu diário não apenas narra a luta pela sobrevivência, mas também se torna um importante documento histórico, refletindo as atrocidades do Holocausto e a resiliência do espírito humano.",
+  "exemplar_id": 206,
+  "sku": "LI005A",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/anne-frank--o-di-rio-de-anne-frank--capa--20250226--133806.jpg",
+  "contracapa": "static/uploads/anne-frank--o-di-rio-de-anne-frank--contracapa--20250226--133806.jpg",
+  "fotos": [
+    "static/uploads/anne-frank--o-di-rio-de-anne-frank--foto1--20250226--133806.jpg",
+    "static/uploads/anne-frank--o-di-rio-de-anne-frank--foto2--20250226--133806.jpg",
+    "static/uploads/anne-frank--o-di-rio-de-anne-frank--foto3--20250226--133806.jpg",
+    "static/uploads/anne-frank--o-di-rio-de-anne-frank--foto4--20250226--133806.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:02:54",
+  "observacoes": null
+}

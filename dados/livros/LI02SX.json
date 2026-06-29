@@ -1,0 +1,63 @@
+{
+  "obra_id": 5097,
+  "autor": "Akira Toriyama",
+  "titulo": "Dragon Ball",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Aventura.",
+  "palavras_chave": "toriyama dragon ball",
+  "edicao_id": 5072,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 280,
+  "isbn": "9786555129489",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": 2,
+  "ano": 2021,
+  "serie": "",
+  "volume": 26,
+  "transcricao_contracapa": "",
+  "sinopse": "Dragon Ball, de Akira Toriyama, é um mangá shonen de ação e aventura que segue Son Goku, um garoto de força extraordinária, em sua busca pelas sete Esferas do Dragão. Inicialmente uma história de fantasia, evolui para batalhas épicas contra vilões como Piccolo, Freeza, Cell e Majin Boo, com torneios, treinamentos intensos, transformações e temas de amizade, superação e rivalidade.",
+  "exemplar_id": 5071,
+  "sku": "LI02SX",
+  "preco_estante_virtual": 78.0,
+  "preco_amazon": 78.0,
+  "capa": "static/uploads/dragon-ball__akira-toriyama__capa__2026-02-20_10-32-02-537037-000.png",
+  "contracapa": "static/uploads/dragon-ball__akira-toriyama__contracapa__2026-02-20_10-32-02-797114-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

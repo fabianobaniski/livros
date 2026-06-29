@@ -1,0 +1,68 @@
+{
+  "obra_id": 1500,
+  "autor": "Flávio Gikovate",
+  "titulo": "Ser livre",
+  "subtitulo": "Um roteiro claro e direto que mostra como alcançar a liberdade pessoal e a maior felicidade possível - na vida real.",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Liberdade. Felicidade. Psicologia.",
+  "palavras_chave": "gikovate ser livre",
+  "edicao_id": 1481,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 198,
+  "peso": 250,
+  "isbn": "",
+  "editora": "MG",
+  "numero_edicao": 9,
+  "ano": 1983,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Ser livre não é ser desta ou daquela maneira; ser livre não é agir desta ou daquela forma. Liberdade é a sensação íntima de alegria que deriva da coerência entre pensamento e conduta.</p><p>“Somos frágeis e nos deixamos seduzir por belas ideias, ainda que falsas.”</p><p>“O homem, a caminho da liberdade, não pode ser nem egoísta e nem generoso.”</p><p>“O amor, como uma necessidade, é escravizante e, desta forma, se opõe à liberdade.”</p><p>“O amor, como um desejo, é uma experiência rara e rica que em nada se opõe à liberdade.”</p><p>“A expressão maior da vaidade no ser livre reside na sua coerência.”</p><p>“A razão, propriedade humana por excelência, tem sido desprestigiada pela psicologia contemporânea.”</p><p>“Nascer, no sentido psicológico, é poder tolerar a dor do desamparo.”</p><p>“A insignificância da condição humana é a maior ofensa à nossa vaidade.”</p><p>“A busca do prazer é a tendência biológica essencial do homem.”</p><p>“O Bem e o Mal, uma classificação feita pelos homens ‘bons’.”</p><p>“Mais do que os fatores externos, são os conflitos interiores que nos impedem de sermos livres.”</p><p>“O meio social enfraquece os indivíduos hipervalorizando a sexualidade e relegando para o plano secundário o amor e a amizade.”</p><p>“Se somos todos diferentes, o respeito se impõe.”</p><p>“O medo da felicidade é o maior obstáculo para a liberdade deixar de ser apenas um sonho.”</p>",
+  "sinopse": "O livro 'Ser Livre' de Flávio Gikovate apresenta um guia prático para alcançar a liberdade pessoal e a felicidade. O autor discute a importância da coerência entre pensamento e ação, além de abordar os desafios internos e sociais que dificultam a verdadeira liberdade. A obra propõe reflexões profundas sobre amor, vaidade e a luta contra as limitações impostas pela sociedade.",
+  "exemplar_id": 1480,
+  "sku": "LI00WD",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/fl-vio-gikovate--ser-livre--capa--20250401--115741.jpg",
+  "contracapa": "static/uploads/fl-vio-gikovate--ser-livre--contracapa--20250401--115741.jpg",
+  "fotos": [
+    "static/uploads/fl-vio-gikovate--ser-livre--foto1--20250401--115741.jpg",
+    "static/uploads/fl-vio-gikovate--ser-livre--foto2--20250401--115741.jpg",
+    "static/uploads/fl-vio-gikovate--ser-livre--foto3--20250401--115741.jpg",
+    "static/uploads/fl-vio-gikovate--ser-livre--foto4--20250401--115741.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:56:28",
+  "observacoes": null
+}

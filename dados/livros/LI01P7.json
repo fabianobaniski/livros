@@ -1,0 +1,63 @@
+{
+  "obra_id": 2707,
+  "autor": "Mario Prata",
+  "titulo": "Minhas vidas passadas (a limpo)",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "prata minhas vidas passadas",
+  "edicao_id": 2687,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 171,
+  "peso": 300,
+  "isbn": "9788525028723",
+  "editora": "Globo",
+  "numero_edicao": 4,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2686,
+  "sku": "LI01P7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/minhas-vidas-passadas-a-limpo-mario-prata-capa_rev935.jpg",
+  "contracapa": "static/uploads/minhas-vidas-passadas-a-limpo-mario-prata-contracapa_rev2148.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Não apresenta anotações nem sublinhados. Leves vestígios de uso e marcas da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:03:37",
+  "observacoes": null
+}

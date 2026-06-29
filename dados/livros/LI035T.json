@@ -1,0 +1,68 @@
+{
+  "obra_id": 5784,
+  "autor": "Alberto Issao Sugo; Antônio Vico Mañas",
+  "titulo": "Profissão líder",
+  "subtitulo": "Desafios e perspectivas",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Liderança. Gestão de pessoas.",
+  "palavras_chave": "sugo profissao lider desafios perspectivas",
+  "edicao_id": 5759,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 346,
+  "peso": 570,
+  "isbn": "9788502057357",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Os líderes sabem que o caminho pela frente não será fácil. Este livro dá sugestões práticas baseadas em pesquisas e fatos, esclarecendo a necessidade para um novo estilo de liderança. A leitura desta obra torna-se obrigatória para os líderes do futuro no Brasil. Recomendo\"</p><p><b>James C. Hunter</b><br>Autor de <i>O monge e o executivo</i></p><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço <a href=\"http://www.saraivauni.com.br\">www.saraivauni.com.br</a></p>",
+  "sinopse": "Profissão Líder traz sugestões práticas fundamentadas em pesquisas e fatos, abordando a necessidade de um novo estilo de liderança no Brasil. Recomendado para líderes do futuro, o livro destaca caminhos e desafios para liderar de forma inovadora, servindo como leitura obrigatória para gestores e profissionais que buscam aprimorar habilidades de liderança.",
+  "exemplar_id": 5758,
+  "sku": "LI035T",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/profissao-lider__desafios-e-perspectivas__alberto-issao-sugo-antonio-vico-manas-denis-alcides-rezende-donald-nelson-edmir-kuazaqui-helton-de-oliveira-cruzio-joao-pinheiro-de-b__capa__2026-01-18_14-11-40-333142-000.png",
+  "contracapa": "static/uploads/profissao-lider__desafios-e-perspectivas__alberto-issao-sugo-antonio-vico-manas-denis-alcides-rezende-donald-nelson-edmir-kuazaqui-helton-de-oliveira-cruzio-joao-pinheiro-de-b__contracapa__2026-01-18_14-11-40-350891-001.png",
+  "fotos": [
+    "static/uploads/profissao-lider__desafios-e-perspectivas__alberto-issao-sugo-antonio-vico-manas-denis-alcides-rezende-donald-nelson-edmir-kuazaqui-helton-de-oliveira-cruzio-joao-pinheiro-de-b__foto-01__2026-01-18_14-11-40-365977-002.jpg",
+    "static/uploads/profissao-lider__desafios-e-perspectivas__alberto-issao-sugo-antonio-vico-manas-denis-alcides-rezende-donald-nelson-edmir-kuazaqui-helton-de-oliveira-cruzio-joao-pinheiro-de-b__foto-02__2026-01-18_14-11-40-396434-003.jpg",
+    "static/uploads/profissao-lider__desafios-e-perspectivas__alberto-issao-sugo-antonio-vico-manas-denis-alcides-rezende-donald-nelson-edmir-kuazaqui-helton-de-oliveira-cruzio-joao-pinheiro-de-b__foto-03__2026-01-18_14-11-40-466047-004.jpg",
+    "static/uploads/profissao-lider__desafios-e-perspectivas__alberto-issao-sugo-antonio-vico-manas-denis-alcides-rezende-donald-nelson-edmir-kuazaqui-helton-de-oliveira-cruzio-joao-pinheiro-de-b__foto-04__2026-01-18_14-11-40-538358-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:17:22",
+  "observacoes": "procedencia_biblioteca"
+}

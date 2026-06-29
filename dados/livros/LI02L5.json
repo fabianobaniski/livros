@@ -1,0 +1,63 @@
+{
+  "obra_id": 4807,
+  "autor": "Koyoharu Gotouge",
+  "titulo": "Demon Slayer",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Luta contra demônios. Amizade.",
+  "palavras_chave": "gotouge demon slayer",
+  "edicao_id": 4782,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 230,
+  "isbn": "9786555121124",
+  "editora": "Panini Comics; Planet Manga",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "Kimetsu No Yaiba",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Depois de ter saído da casa do oni que manipulava o tsuzumi, Tanjiro viu Zenitsu sofrer ataques sem revidar de um rapaz vestindo uma máscara de javali. Será que Tanjiro conseguirá impedi-lo?! E, após um breve período de descanso, o garoto e seus companheiros partem rumo a uma montanha sinistra em uma missão de emergência designada pelo Esquadrão de Exterminadores de Onis, o Kisatsutai! O que estará escondido lá...?!</p>",
+  "sinopse": "Após sair da casa do oni manipulador de tsuzumi, Tanjiro enfrenta o desafio de parar um rapaz com máscara de javali que ataca Zenitsu. Em seguida, parte com seus companheiros para uma missão perigosa em uma montanha sinistra, designada pelo Esquadrão de Exterminadores de Onis, o Kisatsutai.",
+  "exemplar_id": 4781,
+  "sku": "LI02L5",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/demon-slayer__koyoharu-gotouge__capa__2026-02-20_10-30-43-652180-000.png",
+  "contracapa": "static/uploads/demon-slayer__koyoharu-gotouge__contracapa__2026-02-20_10-30-43-943531-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com capa, sobrecapa e contracapa sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

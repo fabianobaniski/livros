@@ -1,0 +1,63 @@
+{
+  "obra_id": 5183,
+  "autor": "Kenji Sakaki",
+  "titulo": "Enigma",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Mistério. Super poderes.",
+  "palavras_chave": "sakaki enigma",
+  "edicao_id": 5158,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 190,
+  "isbn": "9788545700111",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>O e-test continua e Sumio Haiba e os outros já conseguiram encontrar duas senhas com a ajuda de seus “talentos”. Porém, o atual desafio é mais complexo: os estudantes terão que escolher entre a senha e a vida de seu colega, Jirou Matsurigi, o presidente do conselho estudantil. Será que os sete jovens conseguirão escapar juntos deste teste mortal?</p>",
+  "sinopse": "Sumio Haiba e seus colegas continuam o e-test, onde já encontraram duas senhas usando seus “talentos”. Agora, enfrentam um desafio mais complexo que põe em risco a vida de Jirou Matsurigi. Conseguirão escapar deste teste mortal juntos?",
+  "exemplar_id": 5157,
+  "sku": "LI02VB",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/enigma__kenji-sakaki__capa__2026-02-20_10-32-30-372680-000.png",
+  "contracapa": "static/uploads/enigma__kenji-sakaki__contracapa__2026-02-20_10-32-30-430751-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2454,
+  "autor": "Toni Brandão",
+  "titulo": "Cuidado: garotas apaixonadas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "brandao cuidado garotas apaixonadas",
+  "edicao_id": 2434,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 166,
+  "peso": 280,
+  "isbn": "",
+  "editora": "Melhoramentos",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "",
+  "sinopse": "Tina, a garota mais rica e popular do colégio, adora ser o centro das atenções, chegando de helicóptero para causar impacto. Tudo muda quando Camila, uma nova aluna, começa a agradar e ameaça tomar seu posto de rainha do colégio. Determinada a reconquistar seu lugar e o coração do garoto Ale, Tina entra em uma disputa acirrada com Camila, usando todas as armas, nem sempre de forma justa. Com o apoio das amigas Nanda e Gute, a situação se complica em uma festa de aniversário, onde Tina aprenderá valiosas lições sobre orgulho e amizade.",
+  "exemplar_id": 2433,
+  "sku": "LI01I6",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/toni-brandao--cuidado-garotas-apaixonadas--capa--20260316--190025.jpg",
+  "contracapa": "static/uploads/toni-brandao--cuidado-garotas-apaixonadas--contracapa--20260316--190025.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, apesar de um tanto amarelado e com leves sinais de uso. Texto livre de sublinhados e anotações.  Capa brochura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:17:45",
+  "observacoes": null
+}

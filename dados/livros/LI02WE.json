@@ -1,0 +1,63 @@
+{
+  "obra_id": 5222,
+  "autor": "Kyoutarou Azuma",
+  "titulo": "The king of fighters",
+  "subtitulo": "A new beginning",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Luta. Aventura. Ficção.",
+  "palavras_chave": "azuma king fighters new beginning",
+  "edicao_id": 5197,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 250,
+  "isbn": "9788583623182",
+  "editora": "NewPop",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<h1>AS SOMBRAS DO PASSADO COMEÇAM A SE MOVER.</h1> <p>Na quarta rodada, tanto o Time K' quanto o Time América do Sul enfrentam dificuldades graças à intervenção dos remanescentes da NESTS. Será que conseguirão trazer de volta Kula e Nelson que estão sendo manipulados?! Enquanto isso, diante do Time Psycho Soldiers, que invadiu o QG dos remanescentes, surge o maior dos reforços!!</p>",
+  "sinopse": "Na quarta rodada, tanto o Time K' quanto o Time América do Sul enfrentam dificuldades com a intervenção dos remanescentes da NESTS. Eles tentam trazer de volta Kula e Nelson, que estão sendo manipulados, enquanto o Time Psycho Soldiers invade o QG dos remanescentes.",
+  "exemplar_id": 5196,
+  "sku": "LI02WE",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/the-king-of-fighters__a-new-beginning__kyoutarou-azuma__capa__2026-02-20_10-32-44-423876-000.png",
+  "contracapa": "static/uploads/the-king-of-fighters__a-new-beginning__kyoutarou-azuma__contracapa__2026-02-20_10-32-44-474176-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

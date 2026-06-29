@@ -1,0 +1,63 @@
+{
+  "obra_id": 2897,
+  "autor": "Fray José Luis Salas",
+  "titulo": "Selección de documentos franciscanos",
+  "subtitulo": "Siglos XVI - XVII",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "salas seleccion documentos franciscanos",
+  "edicao_id": 2877,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 528,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Asunción, Paraguay",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este texto celebra a importância histórica dos franciscanos nos séculos XVI e XVII, especialmente no contexto da fundação de Caazapá e da Ordem dos Hermanos Menores. O livro apresenta uma coleção de documentos históricos sobre a missão franciscana no Paraguai e na região do Rio da Prata, abordando a escassez de registros escritos, algo que tem sido chamado de pobreza franciscana. A obra se propõe a preencher essa lacuna historiográfica, oferecendo novas perspectivas e materiais que podem marcar o início da recuperação dessa memória há muito tempo negligenciada.",
+  "exemplar_id": 2876,
+  "sku": "LI01UH",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/seleccion-de-documentos-franciscanos-fray-jose-luis-salas-capa_rev955.jpg",
+  "contracapa": "static/uploads/seleccion-de-documentos-franciscanos-fray-jose-luis-salas-contracapa_rev1747.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos.  Publicado em 2006."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:55:42",
+  "observacoes": null
+}

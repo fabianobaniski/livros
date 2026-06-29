@@ -1,0 +1,63 @@
+{
+  "obra_id": 836,
+  "autor": "César Moisés Carvalho",
+  "titulo": "O sermão do monte",
+  "subtitulo": "A justiça sob a ótica de Jesus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Aplicação bíblica. Sermões.",
+  "palavras_chave": "carvalho sermao monte justica",
+  "edicao_id": 821,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 160,
+  "peso": 250,
+  "isbn": "978526314375",
+  "editora": "CPAD",
+  "numero_edicao": 1,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Estudar o Sermão do Monte é um desafio, pois a familiaridade com o material e a aparente facilidade dos seus enunciados esconde o fato de que se trata de um texto de difícil interpretação e, ainda pior, aplicabilidade.</p> <p>Os capítulos da obra, apesar de terem sido organizados obedecendo a estrutura da revista Lições Bíblicas Jovens, foram desenvolvidos em forma de comentário bíblico valorizando, sobretudo, o aspecto teológico.</p> <p>Este livro foi escrito para todos aqueles que estão ávidos por atualidades e conhecimentos que façam sentido em sua realidade e que também os desafio a viver a radicalidade da vida proposta na perspectiva do Reino presente no mais popular e célebre dos sermões proferidos pelo Mestre.</p>",
+  "sinopse": "Este livro busca aprofundar a compreensão do Sermão do Monte, explorando suas dificuldades de interpretação e aplicabilidade. Organizado de acordo com a estrutura da revista Lições Bíblicas Jovens, oferece um comentário que valoriza o aspecto teológico do texto e se destina a todos que buscam um entendimento que faça sentido em suas vidas.",
+  "exemplar_id": 820,
+  "sku": "LI00M6",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/c-sar-mois-s-carvalho--o-serm-o-do-monte--capa--20250227--152907.jpg",
+  "contracapa": "static/uploads/c-sar-mois-s-carvalho--o-serm-o-do-monte--contracapa--20250227--152907.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:44:13",
+  "observacoes": null
+}

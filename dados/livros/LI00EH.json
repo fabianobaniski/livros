@@ -1,0 +1,63 @@
+{
+  "obra_id": 558,
+  "autor": "João Calvino",
+  "titulo": "Sermões Em Efésios",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Graça. Igreja.",
+  "palavras_chave": "calvino sermoes efesios",
+  "edicao_id": 543,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 380,
+  "isbn": "9788562478185",
+  "editora": "Monergismo",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quando lemos as epístolas que Paulo escreveu para uma variedade de lugares, devemos sempre levar em conta que Deus intentava que elas servissem não apenas para uma época ou para determinado povo; mas, para sempre, e para toda a igreja em geral. E, na verdade, caso alguém considere bem a doutrina que nelas está contida, ficará fácil discernir que a intenção de Deus era ser ouvido por meio das coisas que são ali faladas, até o fim do mundo; e, também, que ele possuí tal cuidado por nós que não ignorou nem se esqueceu de coisa alguma que pudesse contribuir para o progresso de nossa salvação.</p> <p>Paulo nos conta que os benefícios que nos são trazidos por nosso Senhor Jesus Cristo e dos quais somos feitos participantes por intermédio de seu evangelho são tão excelentes que seguramente seremos extremamente ingratos se corrermos para lá e para cá como as pessoas que jamais descansam ou se contentam. Depois, mostra-nos ainda o que temos em Cristo, para que nos apegamos a este de modo a não aceitar buscar em nenhum outro lugar, mas nos assegurarmos de que ele adquiriu tudo para nós.</p> <p>Por outro lado, ele nos revela que Cristo tão bem proveu por sua igreja que, se soubermos como utilizar os dons da graça que ele nos oferece, teremos plena e perfeita felicidade. Junto com isso, avisa aos que são instruídos na verdade do evangelho que levem uma vida santa, demonstrando que têm aproveitado devidamente a escola de Deus.</p>",
+  "sinopse": "Os sermões de João Calvino sobre a epístola de Paulo aos Efésios trazem reflexões profundas sobre a intenção divina, mostrando que as doutrinas contidas nas escrituras não são limitadas ao seu tempo, mas dirigidas a toda a igreja. Calvino destaca os benefícios trazidos por Cristo e a importância de permanecer fiel a essa graça, enfatizando que a verdadeira felicidade é alcançada através da plena utilização dos dons oferecidos por Deus.",
+  "exemplar_id": 542,
+  "sku": "LI00EH",
+  "preco_estante_virtual": 85.0,
+  "preco_amazon": 85.0,
+  "capa": "static/uploads/jo-o-calvino--serm-es-em-ef-sios--capa--20250227--152849.jpg",
+  "contracapa": "static/uploads/jo-o-calvino--serm-es-em-ef-sios--contracapa--20250227--152849.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:58:58",
+  "observacoes": null
+}

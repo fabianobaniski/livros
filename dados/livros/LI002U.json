@@ -1,0 +1,68 @@
+{
+  "obra_id": 118,
+  "autor": "Taylor Caldwell",
+  "titulo": "Médico de homens e de almas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "caldwell medico almas",
+  "edicao_id": 116,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 704,
+  "peso": 1200,
+  "isbn": "9786555875980",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Fruto de décadas de pesquisa, esta biografia romanceada narra a trajetória de Lucano, o médico grego que, mesmo sem ter conhecido Cristo pessoalmente, tornou-se um de seus maiores evangelistas. A obra detalha sua jornada intelectual e espiritual, desde a prática da medicina até sua aliança com Paulo de Tarso na missão de universalizar a fé cristã, simbolizando a peregrinação humana da dúvida e do desespero até o encontro com o divino.",
+  "exemplar_id": 115,
+  "sku": "LI002U",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/taylor-caldwell--m-dico-de-homens-e-de-almas--capa--20250226--114602.jpg",
+  "contracapa": "static/uploads/taylor-caldwell--m-dico-de-homens-e-de-almas--contracapa--20250226--114602.jpg",
+  "fotos": [
+    "static/uploads/taylor-caldwell--m-dico-de-homens-e-de-almas--foto1--20250226--114602.jpg",
+    "static/uploads/taylor-caldwell--m-dico-de-homens-e-de-almas--foto2--20250226--114602.jpg",
+    "static/uploads/taylor-caldwell--m-dico-de-homens-e-de-almas--foto3--20250226--114602.jpg",
+    "static/uploads/taylor-caldwell--m-dico-de-homens-e-de-almas--foto4--20250226--114602.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, sem danos, ainda parcialmente lacrado! (veja fotos neste anúncio)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:44:06",
+  "observacoes": null
+}

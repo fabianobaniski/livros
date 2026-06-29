@@ -1,0 +1,68 @@
+{
+  "obra_id": 1410,
+  "autor": "Henrique Subi (org)",
+  "titulo": "Como passar em concursos bancários",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Preparação para concursos. Concursos bancários.",
+  "palavras_chave": "como passar concursos bancarios",
+  "edicao_id": 1392,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 325,
+  "peso": 400,
+  "isbn": "9788562168239",
+  "editora": "Foco",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Sobre a Importância do Livro para Concursos Bancários:</h1> <p>O presente livro traz solução completa em matéria de preparação para os principais concursos da área bancária, com destaque para Técnico Bancário Novo da Caixa Econômica Federal e Escritário do Banco do Brasil. Primeiro porque traz questões das matérias mais relevantes dos últimos concursos para os dois maiores bancos estatais, totalizando 15 exames. Segundo porque traz em anexo os principais textos normativos cobrados pelas bancas examinadoras.</p> <p>Com isso, o candidato tem em mãos um material completo, que permite praticar através da resolução de questões diversas examinados que envolvem a prova e facilita a memorização dos artigos mais importantes, vez que podem ser consultados imediatamente ao final do livro.</p> <p>Entender o edital se prova o item importante, pelo que, a variância na escolha das bancas examinadoras (CESPE, FCC e CESGRANRIO), os conhecimentos são avaliados sempre com a mesma abordagem. Nessa obra, o candidato poderá preparar-se para: a) maneira de apresentar perguntas; b) técnicas utilizadas para dificultar a resolução das questões; e c) temas mais relevantes.</p> <p>É por isso que a presente obra é indispensável para você que deseja ser aprovado em Concursos Bancários. A partir da resolução de todas as questões presentes no livro e da leitura do material normativo anexo, você entrará em contato com os temas preferidos e recorrentes dos Concursos Bancários, o que, certamente, será decisivo para a sua aprovação.</p>",
+  "sinopse": "O livro oferece uma preparação completa para concursos bancários, incluindo questões das principais disciplinas e exames relevantes. Ele contém um material abrangente que ajuda os candidatos a praticar suas habilidades através de resoluções e destaca a importância de entender os editais das provas. Além disso, apresenta textos normativos essenciais que são frequentemente cobrados, tornando-se um guia indispensável para quem deseja ser aprovado nesta área competitiva.",
+  "exemplar_id": 1391,
+  "sku": "LI00TY",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/andr--fioravanti--como-passar-em-concursos-banc-rios--capa--20250401--115342.png",
+  "contracapa": "static/uploads/andr--fioravanti--como-passar-em-concursos-banc-rios--contracapa--20250401--115342.png",
+  "fotos": [
+    "static/uploads/andr--fioravanti--como-passar-em-concursos-banc-rios--foto1--20250401--115342.jpg",
+    "static/uploads/andr--fioravanti--como-passar-em-concursos-banc-rios--foto2--20250401--115342.jpg",
+    "static/uploads/andr--fioravanti--como-passar-em-concursos-banc-rios--foto3--20250401--115342.jpg",
+    "static/uploads/andr--fioravanti--como-passar-em-concursos-banc-rios--foto4--20250401--115342.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:50:14",
+  "observacoes": null
+}

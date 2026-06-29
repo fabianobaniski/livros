@@ -1,0 +1,63 @@
+{
+  "obra_id": 3137,
+  "autor": "Olavo Leonel Ferreira",
+  "titulo": "Brasil, uma História Documental",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": null,
+  "palavras_chave": "ferreira brasil uma historia",
+  "edicao_id": 3117,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 509,
+  "peso": 800,
+  "isbn": "9788570187536",
+  "editora": "Senado Federal",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "O livro reúne centenas de documentos históricos importantes e curiosos da história do Brasil, desde a Carta de Caminha até o século XX, incluindo cartas, sermões, relatos, testamentos, manifestos e decretos. Organizados de forma cronológica, esses documentos oferecem uma narrativa de fonte primária para pesquisadores e leitores interessados em conhecer a história do país. As notas explicativas ajudam a contextualizar cada documento, tornando o livro uma ferramenta valiosa para entender a história do Brasil.",
+  "exemplar_id": 3116,
+  "sku": "LI0215",
+  "preco_estante_virtual": 43.5,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeitas condições, praticamente sem uso! Nada de grifos, anotações ou outros danos.  / Envio fotos, se necessário."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:55:34",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 206,
+  "autor": "Jenny Lawson",
+  "titulo": "Vamos fazer de conta que isso nunca aconteceu...",
+  "subtitulo": "Histórias (quase) reais de uma vida surreal",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Humor. Vida cotidiana. Autobiografia.",
+  "palavras_chave": "lawson vamos conta isso nunca",
+  "edicao_id": 200,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 284,
+  "peso": 300,
+  "isbn": "9788582350676",
+  "editora": "Gutenberg",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Não existe vida perfeita e não há quem não passe por momentos difíceis. Mas existe uma boa maneira de enfrentar complicações: não se leve tão a sério. Essa, pelo menos, é a fórmula de Jenny Lawson.</p><p>Neste livro absolutamente engraçado e divertido, a autora, a famosa blogueira norte-americana, com milhares de seguidores na internet – narra sua hilariante e pouco provável vida. Com ela, vamos ao Texas, sua terra natal, para conhecer como cresceu a filha de um taxidermista obsessivo que a fez viver experiências bizarras, sua adolescência conturbada e o casamento tortuoso de 15 anos com Victor, que lhe deu uma linda filha, com a qual vários gatos disputam a atenção.</p><p>Tudo em seu cotidiano parece muito estranho e, como ela diz, “difícil de acreditar” (e por isso ela coloca fotos, para provar que é tudo, bem, verdade...), mas também superengraçado. Sua escrita é ligeira, descontraída e “blogueira” (no bom sentido), com alto teor de sarcasmo e ironia, muito bem dosados ao longo da narrativa.</p><p>Diversão à parte, fica a ideia do título: os momentos mais vergonhosos da nossa vida, aqueles que a gente quer fazer de conta que nunca aconteceram, são os que nos definem de verdade. Tudo o que precisamos, portanto, é aprender a rir da desgraça.</p>",
+  "sinopse": "Jenny Lawson escreve um relato hilário e provocativo sobre sua vida, cheia de eventos inusitados e complicações. Com um tom leve e irônico, ela compartilha histórias de sua infância no Texas, experiências com sua mãe taxidermista, e a realidade de sua vida familiar e cotidiana. O livro convida o leitor a rir das adversidades e a encarar momentos embaraçosos como parte da existência, revelando que a vida, apesar das desgraças, pode ser surpreendentemente divertida.",
+  "exemplar_id": 199,
+  "sku": "LI0053",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/jenny-lawson--vamos-fazer-de-conta-que-isso-nunca-aconteceu-----capa--20250226--133805.jpg",
+  "contracapa": "static/uploads/jenny-lawson--vamos-fazer-de-conta-que-isso-nunca-aconteceu-----contracapa--20250226--133805.jpg",
+  "fotos": [
+    "static/uploads/jenny-lawson--vamos-fazer-de-conta-que-isso-nunca-aconteceu-----foto1--20250226--133805.jpg",
+    "static/uploads/jenny-lawson--vamos-fazer-de-conta-que-isso-nunca-aconteceu-----foto2--20250226--133805.jpg",
+    "static/uploads/jenny-lawson--vamos-fazer-de-conta-que-isso-nunca-aconteceu-----foto3--20250226--133805.jpg",
+    "static/uploads/jenny-lawson--vamos-fazer-de-conta-que-isso-nunca-aconteceu-----foto4--20250226--133805.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:34",
+  "observacoes": null
+}

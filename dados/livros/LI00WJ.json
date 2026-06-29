@@ -1,0 +1,68 @@
+{
+  "obra_id": 1508,
+  "autor": "Rose Gribel",
+  "titulo": "Minha alma nos espaços divinos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Comunicação com Espíritos. Psicologia.",
+  "palavras_chave": "gribel alma espacos divinos",
+  "edicao_id": 1489,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 212,
+  "peso": 250,
+  "isbn": "9788531510809",
+  "editora": "Pensamento",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Guiada pelo espírito de Allan Kardec, Rose Gribel apresentou ao mundo, entre 1986 e 1994, uma série de previsões que, em grande parte, se realizaram.</p> <p>Os leitores guardam na lembrança <i>Minha Vida no Mundo dos Espíritos</i>, o primeiro livro dessa médium, psicóloga e agente de cura, pois dia após dia tudo o que ela nos comunicou mostrava ser um reflexo da realidade. Publicado o livro, Rose Gribel achava que sua missão com relação aos seres humanos estava encerrada. Enganou-se, pois Allan Kardec continuava junto dela pronto para anunciar acontecimentos de capital importância, que deveriam ser do conhecimento de toda a humanidade.</p> <p>Diante disso, ela retomou a pena para fazer, através desta nova obra - <i>Minha Alma nos Espaços Divinos</i> - o anúncio de eventos futuros ligados principalmente a esta época de transição entre um século e outro. Não podemos senão prestar nossa homenagem a essa inestimável servidora da humanidade, que continua a colocar seus dons a serviço dos que sofrem, salvando vidas e consolando as pessoas, como sempre fez no passado.</p> <p>Nesta obra <b>TESTEMUNHOS - PROFECIAS - MENSAGENS E PRECES DE ALLAN KARDEC</b></p>",
+  "sinopse": "Neste livro, Rose Gribel, guiada pelo espírito de Allan Kardec, retoma sua missão de compartilhar previsões e eventos futuros significativos, ligando seu trabalho ao bem-estar da humanidade e destacando a importância da comunicação espiritual na realidade cotidiana. A obra é uma continuação da sua dedicação à psicologia e à cura, refletindo sobre eventos que se entrelaçam entre séculos.",
+  "exemplar_id": 1488,
+  "sku": "LI00WJ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/rose-gribel--minha-alma-nos-espa-os-divinos--capa--20250401--115742.jpg",
+  "contracapa": "static/uploads/rose-gribel--minha-alma-nos-espa-os-divinos--contracapa--20250401--115742.jpg",
+  "fotos": [
+    "static/uploads/rose-gribel--minha-alma-nos-espa-os-divinos--foto1--20250401--115742.jpg",
+    "static/uploads/rose-gribel--minha-alma-nos-espa-os-divinos--foto2--20250401--115742.jpg",
+    "static/uploads/rose-gribel--minha-alma-nos-espa-os-divinos--foto3--20250401--115742.jpg",
+    "static/uploads/rose-gribel--minha-alma-nos-espa-os-divinos--foto4--20250401--115742.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Capa com uma manchinha amarela sobre o título."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:00:30",
+  "observacoes": null
+}

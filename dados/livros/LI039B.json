@@ -1,0 +1,67 @@
+{
+  "obra_id": 5911,
+  "autor": "Ellen G. White",
+  "titulo": "Testemunhos para a igreja",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white testemunhos para igreja 1",
+  "edicao_id": 5886,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 762,
+  "peso": 780,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 2,
+  "ano": 2006,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 5885,
+  "sku": "LI039B",
+  "preco_estante_virtual": 135.0,
+  "preco_amazon": 135.0,
+  "capa": "static/uploads/ellen-g-white--testemunhos-para-a-igreja--capa--20260306--095700.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--testemunhos-para-a-igreja--foto1--20260306--095707.jpg",
+    "static/uploads/ellen-g-white--testemunhos-para-a-igreja--foto2--20260306--095707.jpg",
+    "static/uploads/ellen-g-white--testemunhos-para-a-igreja--foto3--20260306--095707.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica e rara das obras de Ellen White, em capa dura e detalhes em dourado. Conservação excelente! Papel quase sem sinais de envelhecimento. Texto livre de anotações, sublinhados, carimbos, etc. Sem marcas de umidade, mofo, traça. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:07:50",
+  "observacoes": null
+}

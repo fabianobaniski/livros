@@ -1,0 +1,63 @@
+{
+  "obra_id": 672,
+  "autor": "Wayne Grudem",
+  "titulo": "Comentário bíblico de 1Pedro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Sofrimento. Soberania de Deus.",
+  "palavras_chave": "grudem comentario biblico pedro",
+  "edicao_id": 657,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 236,
+  "peso": 300,
+  "isbn": "9788527506410",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A carta de 1Pedro aos \"eleitos peregrinos da Dispensão\" trata de vários temas: santidade, os sofrimentos de Cristo, o sofrimento do cristão, a soberania de Deus na salvação, a graça de Deus, a obra do Espírito Santo, a igreja como novo povo de Deus, a realidade do mundo espiritual que não vemos e a confiança em Deus em meio às circunstâncias do dia a dia. É o sofrimento, como mostra Wayne Grudem, que costura esses temas aparentemente desconheços, sobretudo o sofrimento como forma de imitação de Cristo, o qual, ao levar nossos pecados na cruz, dá sentido e consolo aos cristãos em todos os aspectos da vida.</p> <p>O Comentário bíblico de 1Pedro é um recurso confiável para o estudo dessa importante carta do Novo Testamento e foi projetado para ajudar o leitor a entender o significado e o ensino de 1Pedro. Wayne Grudem oferece explicações claras, confiáveis e relevantes para o seu estudo. A introdução oferece dados sucintos mais completos sobre a autoria, a data e os antecedentes históricos da carta de Pedro. O comentário examina o texto seção por seção, extraindo seus temas principais. Além disso, comenta quase todos os versículos da carta separadamente e lida com problemas interpretativos. O objetivo geral é chegar ao verdadeiro sentido de 1Pedro e tornar sua mensagem clara aos leitores de hoje.</p>",
+  "sinopse": "O Comentário Bíblico de 1Pedro analisa temas fundamentais como santidade, sofrimento e a soberania de Deus. Apresenta uma abordagem clara e confiável para o estudo da carta, oferecendo contextos históricos e explicações detalhadas que visam esclarecer o significado profundo de 1Pedro e oferecer consolo aos cristãos frente às dificuldades da vida.",
+  "exemplar_id": 656,
+  "sku": "LI00HN",
+  "preco_estante_virtual": 60.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/wayne-grudem--coment-rio-b-blico-de-1pedro--capa--20250227--152856.jpg",
+  "contracapa": "static/uploads/wayne-grudem--coment-rio-b-blico-de-1pedro--contracapa--20250227--152856.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:46:41",
+  "observacoes": null
+}

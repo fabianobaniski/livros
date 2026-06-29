@@ -1,0 +1,63 @@
+{
+  "obra_id": 2936,
+  "autor": "Bogdan Szajkowski",
+  "titulo": "The establishment of marxist regimes",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "szajkowski the establishment marxist",
+  "edicao_id": 2916,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Butterworth-heinemann",
+  "numero_edicao": null,
+  "ano": 1982,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro de Bogdan Szajkowski oferece uma análise abrangente sobre a ascensão dos regimes marxistas, preenchendo uma lacuna importante na literatura. Definindo um regime marxista como aquele com reconhecimento internacional e princípios marxistas, Szajkowski examina a literatura existente e compara as diferentes formas de tomada de poder comunista. A obra detalha a formação desses regimes em três períodos históricos distintos: 1917-24, 1939-57 e 1959-79, destacando suas características e contextos geográficos. É um recurso valioso para estudantes de comunismo, marxismo e ciências políticas comparadas.",
+  "exemplar_id": 2915,
+  "sku": "LI01VK",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 75.0,
+  "capa": "static/uploads/the-establishment-of-marxist-regimes-bogdan-szajkowski-capa_rev1449.jpg",
+  "contracapa": "static/uploads/the-establishment-of-marxist-regimes-bogdan-szajkowski-contracapa_rev1154.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:13:04",
+  "observacoes": null
+}

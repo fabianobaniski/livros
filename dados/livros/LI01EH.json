@@ -1,0 +1,63 @@
+{
+  "obra_id": 2320,
+  "autor": "Maitreyi D. Piontek",
+  "titulo": "A Essência do Feminino",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "piontek essencia feminino",
+  "edicao_id": 2300,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 144,
+  "peso": 300,
+  "isbn": "9788531608742",
+  "editora": "Cultrix",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A autora compartilha sua experiência de mais de três décadas trabalhando com mulheres em diversas áreas terapêuticas, incluindo enfermagem psiquiátrica, sexologia e meditação. O livro oferece exercícios, dicas e técnicas para ajudar as mulheres a reconectar-se com suas raízes curadoras e a confiar em sua intuição. Baseados em ensinamentos tradicionais do Extremo Oriente, esses métodos são adaptados às necessidades femininas modernas. A autora enfatiza a importância de não negligenciar o cuidado próprio e de manter um equilíbrio saudável entre corpo e mente.",
+  "exemplar_id": 2299,
+  "sku": "LI01EH",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maitreyi-d-piontek--a-essencia-do-feminino--capa--20260315--095258.jpg",
+  "contracapa": "static/uploads/maitreyi-d-piontek--a-essencia-do-feminino--contracapa--20260315--095311.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:20:01",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3182,
+  "autor": "Alexis Daria",
+  "titulo": "Acho Que é um Adeus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "daria acho que adeus",
+  "edicao_id": 3162,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 398,
+  "peso": 450,
+  "isbn": "9786559701483",
+  "editora": "Harlequin",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Após anos dedicados a uma rotina exaustiva, Michelle construiu uma carreira como designer freelance, equilibrando expectativas familiares sufocantes. Quando Gabriel retorna de Nova York para resgatar laços e finalizar um projeto conjunto, velhos ressentimentos emergem, reacendendo tensões entre suas famílias e revelando sentimentos não resolvidos. Forçados a trabalhar juntos, enfrentam desafios pessoais e profissionais, mas a dúvida permanece: seria tarde demais para reescreverem suas histórias?",
+  "exemplar_id": 3161,
+  "sku": "LI022E",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:00:41",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

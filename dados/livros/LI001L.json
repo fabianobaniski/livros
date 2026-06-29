@@ -1,0 +1,68 @@
+{
+  "obra_id": 61,
+  "autor": "Anthony Doerr",
+  "titulo": "Toda luz que não podemos ver",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "doerr toda luz podemos",
+  "edicao_id": 61,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 526,
+  "peso": 1000,
+  "isbn": "9788580576979",
+  "editora": "Intrínseca",
+  "numero_edicao": 1,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Alguns livros têm o poder de inundar os sentidos. É o caso de <i>Toda luz que não podemos ver</i>.\"<br><b>The Huffington Post</b></p> <p>\"Totalmente arrebatador.\"<br><b>The New York Times</b></p> <p>\"Uma linda história, permeada de reflexões sobre o sentido da vida.\"<br><b>Los Angeles Times</b></p> <p>\"O leitor fica convencido de que ainda há novas histórias a se escrever sobre esse período e que nem a guerra – com toda a desesperança, a crueldade e as difíceis escolhas morais – pode impedir a beleza do mundo.\"<br><b>Publishers Weekly</b></p> <p>\"Um livro notável sobre o que existe além do mundo que vemos.\"<br><b>The Boston Globe</b></p> <p>\"Ao narrar as imagens e os sons da época da guerra, Doerr conta uma história sobre a bondade inata do ser humano.\"<br><b>Kirkus Reviews</b></p>",
+  "sinopse": "Durante a Segunda Guerra Mundial, os destinos de Marie-Laure, uma jovem cega francesa, e Werner, um soldado alemão, se cruzam em Saint-Malo. Em meio ao caos da guerra, suas histórias revelam a força da resiliência e da esperança.",
+  "exemplar_id": 60,
+  "sku": "LI001L",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/anthony-doerr--toda-luz-que-n-o-podemos-ver--capa--20250225--232052.jpg",
+  "contracapa": "static/uploads/anthony-doerr--toda-luz-que-n-o-podemos-ver--contracapa--20250225--232052.jpg",
+  "fotos": [
+    "static/uploads/anthony-doerr--toda-luz-que-n-o-podemos-ver--foto1--20250225--232052.jpg",
+    "static/uploads/anthony-doerr--toda-luz-que-n-o-podemos-ver--foto2--20250225--232052.jpg",
+    "static/uploads/anthony-doerr--toda-luz-que-n-o-podemos-ver--foto3--20250225--232052.jpg",
+    "static/uploads/anthony-doerr--toda-luz-que-n-o-podemos-ver--foto4--20250225--232052.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:26:30",
+  "observacoes": null
+}

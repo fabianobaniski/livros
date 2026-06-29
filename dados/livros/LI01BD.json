@@ -1,0 +1,68 @@
+{
+  "obra_id": 2208,
+  "autor": "Pedro Luiz Côrtes",
+  "titulo": "Administração de sistemas de informação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Sistemas de informação. Tecnologia da informação.",
+  "palavras_chave": "cortes administracao sistemas informacao",
+  "edicao_id": 2188,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 503,
+  "peso": 820,
+  "isbn": "9788502064508",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Nos últimos anos a competição entre as empresas tem crescido, impulsionada principalmente pelo surgimento de novas tecnologias. Proporcional ao aumento da competitividade, cresce também a necessidade das empresas serem mais eficientes. A exigência por excelência colocou os investimentos em tecnologia em patamar prioritário, uma vez que, quanto mais preparada para atender e responder rapidamente as demandas do mercado, maiores suas vantagens competitivas no mercado.</p><p>Administração de sistemas de informação analisa o papel dos sistemas de informação neste novo cenário mundial. A troca de informação e da presença de bancos de dados nunca foram tão importantes, assim como a figura do administrador desses sistemas. Dividido em dez capítulos, o livro traça um abrangente histórico do tema, desde a evolução dos computadores aos melhores métodos para manter as corporações organizadas e modernas nesse quesito, destacando as discussões mais recentes e as tecnologias mais adequadas. Nesta obra, alunos de Administração de Empresas, Sistemas de Informação, Computação e Ciências Contábeis, além de interessados em entender melhor esses procedimentos, encontram um grande aliado.</p><div><b>APLICABILIDADE:</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Administração de Sistemas de Informação, Gestão Estratégica da Informação, Sistemas de Informação Gerencial.</div>",
+  "sinopse": "Este livro analisa o papel dos sistemas de informação no contexto competitivo das empresas, abordando desde a evolução dos computadores até métodos modernos de administração. Com dez capítulos, destaca a importância da presença de bancos de dados e do administrador de sistemas, apresentando discussões atuais e tecnologias adequadas. Voltado para alunos de Administração, Sistemas de Informação, Computação e Ciências Contábeis, é um guia essencial para quem deseja compreender e aplicar os procedimentos de administração de sistemas de informação.",
+  "exemplar_id": 2187,
+  "sku": "LI01BD",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/pedro-luiz-c-rtes--administra--o-de-sistemas-de-informa--o--capa--20250430--105058.jpg",
+  "contracapa": "static/uploads/pedro-luiz-c-rtes--administra--o-de-sistemas-de-informa--o--contracapa--20250430--105058.jpg",
+  "fotos": [
+    "static/uploads/pedro-luiz-c-rtes--administra--o-de-sistemas-de-informa--o--foto1--20250430--105058.jpg",
+    "static/uploads/pedro-luiz-c-rtes--administra--o-de-sistemas-de-informa--o--foto2--20250430--105058.jpg",
+    "static/uploads/pedro-luiz-c-rtes--administra--o-de-sistemas-de-informa--o--foto3--20250430--105058.jpg",
+    "static/uploads/pedro-luiz-c-rtes--administra--o-de-sistemas-de-informa--o--foto4--20250430--105058.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:02:42",
+  "observacoes": "procedencia_biblioteca"
+}

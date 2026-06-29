@@ -1,0 +1,68 @@
+{
+  "obra_id": 2279,
+  "autor": "Osni Moura Ribeiro",
+  "titulo": "Estrutura e análise de balanços fácil",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Análise de balanços. Demonstrações financeiras. Ensino superior.",
+  "palavras_chave": "ribeiro estrutura analise balancos facil",
+  "edicao_id": 2259,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 254,
+  "peso": 450,
+  "isbn": "9788502125216",
+  "editora": "Saraiva",
+  "numero_edicao": 9,
+  "ano": 2011,
+  "serie": "Série Fácil",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>Estrutura e análise de balanços fácil</i> foi concebido de modo a tratar do tema de forma didática e gradual, característica comum a todos os livros da <b>Série Fácil</b>.</p><p>Os temas foram divididos em três partes: Parte I, que traz informações breves sobre o conceito e a finalidade da análise de balanços, além de revisar conhecimentos contábeis estudados anteriormente; Parte II, que apresenta o estudo dos componentes de cada uma das demonstrações financeiras, com orientações para a elaboração dessas demonstrações; e Parte III, que trata das técnicas de análise de balanços.</p><p>O livro ainda traz atividades teóricas e práticas com o objetivo de fixar os assuntos estudados, e já está atualizado com a Lei nº 11.638, de dezembro de 2007, e com a Medida Provisória nº 449, de dezembro de 2008, convertida na Lei nº 11.941/2009.</p><p>Obra essencial para os alunos do curso superior em Ciências Contábeis e para outros cursos de nível médio ou superior, também serve de fonte de pesquisa para os profissionais que atuam na área e para os que se preparam para concursos.</p><p><b>Aplicação</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Análise de balanços, Demonstrações contábeis e Demonstrações financeiras.</p>",
+  "sinopse": "Estrutura e análise de balanços fácil foi elaborado para abordar o tema de forma didática e gradual, dividindo-o em três partes: fundamentos e conceitos da análise de balanços, estudo das demonstrações financeiras, e técnicas específicas de análise. Traz atividades práticas para fixação do conteúdo e está atualizado conforme a legislação recente. Indicado para estudantes de Ciências Contábeis, cursos de nível médio ou superior, profissionais da área e candidatos a concursos.",
+  "exemplar_id": 2258,
+  "sku": "LI01DC",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/osni-moura-ribeiro--estrutura-e-an-lise-de-balan-os--capa--20250430--105108.jpg",
+  "contracapa": "static/uploads/osni-moura-ribeiro--estrutura-e-an-lise-de-balan-os--contracapa--20250430--105108.jpg",
+  "fotos": [
+    "static/uploads/osni-moura-ribeiro--estrutura-e-an-lise-de-balan-os--foto1--20250430--105108.jpg",
+    "static/uploads/osni-moura-ribeiro--estrutura-e-an-lise-de-balan-os--foto2--20250430--105108.jpg",
+    "static/uploads/osni-moura-ribeiro--estrutura-e-an-lise-de-balan-os--foto3--20250430--105108.jpg",
+    "static/uploads/osni-moura-ribeiro--estrutura-e-an-lise-de-balan-os--foto4--20250430--105108.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:35:06",
+  "observacoes": "procedencia_biblioteca"
+}

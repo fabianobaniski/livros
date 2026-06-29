@@ -1,0 +1,63 @@
+{
+  "obra_id": 2397,
+  "autor": "Zuca Sardan",
+  "titulo": "Babylon",
+  "subtitulo": "Mistérios de Ishtar",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "sardan babylon misterios ishtar",
+  "edicao_id": 2377,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 366,
+  "isbn": "9788535905397",
+  "editora": "Companhia das Letras",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Um enredo que mistura surrealismo e ironia, levando o leitor a uma viagem pelos mistérios da deusa Ishtar e a sabedoria do personagem Fumeegas. A história se desenrola através de cenários diversos, como Babilônia, Roma e Egito, com uma narrativa rica em figuras mitológicas, deuses, imperadores e personagens excêntricos, como o leão Pandomir e o vate psicopompo Zuca Sardan. Com linguagem irreverente e humor ácido, as alegorias divinas são transformadas em fábulas de moral duvidosa, tocando no cômico e na crítica à sociedade. O estilo, que remete a autores como Oswald de Andrade, brinca com trocadilhos e referências culturais...",
+  "exemplar_id": 2376,
+  "sku": "LI01GM",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/zuca-sardan--babylon--capa--20260316--155625.jpg",
+  "contracapa": "static/uploads/zuca-sardan--babylon--contracapa--20260316--155631.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:30:38",
+  "observacoes": null
+}

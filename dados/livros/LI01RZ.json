@@ -1,0 +1,63 @@
+{
+  "obra_id": 2807,
+  "autor": "Adolfo Bioy Casares",
+  "titulo": "O sonho dos heróis",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "casares sonho dos herois",
+  "edicao_id": 2787,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 156,
+  "peso": 200,
+  "isbn": "9788503003926",
+  "editora": "José Olympio",
+  "numero_edicao": null,
+  "ano": 1991,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O terceiro romance de Adolfo Bioy Casares, O sonho dos heróis, marca uma mudança em sua obra ao situar a trama em Buenos Aires com personagens locais. A história ocorre durante o carnaval de 1927 e 1930, quando uma Buenos Aires mitológica é redescoberta com precisão geográfica. O narrador revisita o passado em uma trama que funde o real e o irreal, revelando a essência da realidade. Inspirado por autores como Hawthorne e Poe, o romance explora o destino, que se cumpre inevitavelmente, como o protagonista Emilio Gauna descobre ao final.",
+  "exemplar_id": 2786,
+  "sku": "LI01RZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-sonho-dos-herois-adolfo-bioy-casares-capa_rev31.jpg",
+  "contracapa": "static/uploads/o-sonho-dos-herois-adolfo-bioy-casares-contracapa_rev1636.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Conservação prejudicada por conta de dois furos atravessando a capa e a primeira orelha. Há carimbos. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:45:02",
+  "observacoes": null
+}

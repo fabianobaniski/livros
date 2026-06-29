@@ -1,0 +1,63 @@
+{
+  "obra_id": 824,
+  "autor": "Deive Leonardo",
+  "titulo": "O amor mais louco da história",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Amor. Relacionamentos.",
+  "palavras_chave": "leonardo amor louco historia",
+  "edicao_id": 809,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 210,
+  "peso": 300,
+  "isbn": "9788554167059",
+  "editora": "Quatro Ventos",
+  "numero_edicao": 1,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>O amor mais louco da história</h1> <p>O amor é consenso. Não existe nada mais popular no mundo do que ele. Talvez porque ele seja o que mais buscamos na vida, afinal, todo mundo quer ser amado e ter alguém para amar. E a verdade é que não o queremos por acaso, mas porque fomos feitos para essa finalidade.</p> <p>O problema é que a maior parte das coisas que defendemos como amor não tem nada a ver com ele. Isso porque o amor humano ama “quando”, “se” e “porque”. Ele é carente, limitado, finito. Mas existe um amor eterno. Que não depende de reciprocidade, combustível ou razão. Jesus, o Amor redefiniu o significado do verbo amar. E contra fatos não há argumentos: este, certamente, é o amor mais louco da história.</p> <p>Nestas páginas, você conhecerá mais a respeito das multifacetadas desse amor, como podemos chegar mais perto dele e como, mesmo que não percebamos, ele é capaz de demonstrar o coração ansioso de Deus por um relacionamento de amor conosco.</p>",
+  "sinopse": "Neste livro, Deive Leonardo explora as diversas facetas do amor, desafiando a percepção comum e apresentando uma visão do amor como algo eterno e incondicional, diferente do amor humano. Com reflexões sobre a profundidade e a verdade do amor, ele busca mostrar como podemos nos aproximar desse amor de Deus e vivê-lo em nossas vidas.",
+  "exemplar_id": 808,
+  "sku": "LI00LU",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/deive-leonardo--o-amor-mais-louco-da-hist-ria--capa--20250227--152907.jpg",
+  "contracapa": "static/uploads/deive-leonardo--o-amor-mais-louco-da-hist-ria--contracapa--20250227--152907.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:50:58",
+  "observacoes": null
+}

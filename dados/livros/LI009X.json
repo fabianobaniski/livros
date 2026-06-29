@@ -1,0 +1,68 @@
+{
+  "obra_id": 389,
+  "autor": "Tariq Al-Salam",
+  "titulo": "Islamismo",
+  "subtitulo": "A grande batalha espiritual para evangelização nos fins dos tempos",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Islamismo. Tolerância.",
+  "palavras_chave": "salam islamismo batalha evangelizacao",
+  "edicao_id": 379,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 130,
+  "peso": 200,
+  "isbn": "",
+  "editora": "A. D. Santos",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A chamada \"Guerra Santa\" tem destruído famílias, povos e nações. Em nome de Deus milhares de pessoas são mortas em todo o mundo.</p> <p>Como acabar com a intolerância e o preconceito religioso?</p> <p>Você sabia qual a diferença entre Islamismo, árabes, turcos e muçulmanos?</p> <p>Quem são os Xiitas? O que é Hégira?</p> <p>Quais são os pilares do Islamismo?</p> <p>Por que os muçulmanos não aceitam Jesus como o Filho de Deus?</p> <p>Quais as principais diferenças entre os ensinos de Jesus e os de Maomé?</p> <p>Estas e muitas outras perguntas são respondidas de maneira didática profundamente esclarecedora. O autor compartilhará experiências, testemunhos e dados estatísticos relevantes.</p> <p>\"O deus deste século cegou os entendimentos dos incrédulos, para que lhes não resplandecesse a luz do evangelho da glória de Cristo, o qual é a imagem de Deus\". São Paulo em sua carta aos Coríntios.</p>",
+  "sinopse": "O livro aborda a chamada 'Guerra Santa', que tem causado mortes em nome de Deus, e propõe respostas a questões sobre intolerância religiosa e diferenças entre grupos muçulmanos. Explora temas como os pilares do Islamismo e as relações entre os ensinos de Jesus e Maomé, com a intenção de esclarecer preconceitos e promover um entendimento mais amplo.",
+  "exemplar_id": 378,
+  "sku": "LI009X",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/tariq-al-salam--islamismo--capa--20250226--133825.jpg",
+  "contracapa": "static/uploads/tariq-al-salam--islamismo--contracapa--20250226--133825.jpg",
+  "fotos": [
+    "static/uploads/tariq-al-salam--islamismo--foto1--20250226--133825.jpg",
+    "static/uploads/tariq-al-salam--islamismo--foto2--20250226--133825.jpg",
+    "static/uploads/tariq-al-salam--islamismo--foto3--20250226--133825.jpg",
+    "static/uploads/tariq-al-salam--islamismo--foto4--20250226--133825.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém apresenta marcações à caneta vermelha em várias páginas. Também consta carimbo de igreja. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:49:11",
+  "observacoes": null
+}

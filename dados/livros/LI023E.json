@@ -1,0 +1,63 @@
+{
+  "obra_id": 3218,
+  "autor": "Ian Doescher",
+  "titulo": "William Shakespeares Tragedy of the Siths Revenge",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": null,
+  "palavras_chave": "doescher william shakespeares tragedy",
+  "edicao_id": 3198,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 165,
+  "peso": 300,
+  "isbn": "9781594748080",
+  "editora": "Quirk",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Combinando o épico universo de Star Wars com a linguagem e o estilo de William Shakespeare, esta paródia reimagina a galáxia muito, muito distante como se tivesse sido criada pelo Bardo. Com diálogos em versos e um humor refinado, a obra encanta tanto os fãs de Star Wars quanto os amantes de Shakespeare, unindo ação, drama e poesia de forma única. Uma homenagem criativa e divertida que transforma uma saga icônica em um clássico teatral digno de aplausos.",
+  "exemplar_id": 3197,
+  "sku": "LI023E",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado (vide fotos), tendo, apenas, discretos sinais de uso e da passagem dos anos. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Papel levemente pigmentado. Capa dura com sobrecapa,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:01:14",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

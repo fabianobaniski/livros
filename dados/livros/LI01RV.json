@@ -1,0 +1,63 @@
+{
+  "obra_id": 2803,
+  "autor": "György Dragomán",
+  "titulo": "O rei branco",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "dragoman rei branco",
+  "edicao_id": 2783,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 300,
+  "isbn": "9788598078472",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Para o jovem Dzsáta, de 11 anos, os domingos são um compromisso sagrado, pois acredita que seu pai, levado pela Polícia do Estado, retornará nesse dia. Enquanto espera, ele vive uma infância marcada por aventuras, desde jogos de guerra nos campos de trigo até filmes proibidos no cinema. Contudo, a ausência prolongada do pai molda sua adolescência rebelde, enquanto ele lida com a dor da perda e a incerteza do futuro. Ao descobrir a verdade, Dzsáta corre o risco de perder para sempre sua juventude.",
+  "exemplar_id": 2782,
+  "sku": "LI01RV",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/o-rei-branco-gyorgy-dragoman-capa_rev407.jpg",
+  "contracapa": "static/uploads/o-rei-branco-gyorgy-dragoman-contracapa_rev1293.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:41:17",
+  "observacoes": null
+}

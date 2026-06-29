@@ -1,0 +1,63 @@
+{
+  "obra_id": 2749,
+  "autor": "Dan Hofstadter",
+  "titulo": "O caso de amor como obra de arte",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Psicologia",
+  "temas": "",
+  "palavras_chave": "hofstadter caso amor como",
+  "edicao_id": 2729,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 316,
+  "peso": 400,
+  "isbn": "9788501046680",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora o amor como uma verdadeira obra de arte, combinando elegância, ironia e sabedoria para revelar as contradições e as bobagens que fazemos quando estamos apaixonados. Com um estilo espirituoso e uma análise profunda das emoções humanas, o autor reflete sobre o amor de maneira única e universal. A narrativa leve, mas provocante, faz com que os leitores revisitem suas próprias experiências amorosas, ao mesmo tempo que são confrontados com novas perspectivas sobre este sentimento atemporal.",
+  "exemplar_id": 2728,
+  "sku": "LI01QD",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-caso-de-amor-como-obra-de-arte-dan-hofstadter-capa_rev514.jpg",
+  "contracapa": "static/uploads/o-caso-de-amor-como-obra-de-arte-dan-hofstadter-contracapa_rev629.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:55:45",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 337,
+  "autor": "William P. Young",
+  "titulo": "A travessia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Ficção espiritual. Redenção. Cura emocional.",
+  "palavras_chave": "young travessia cura",
+  "edicao_id": 328,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 197,
+  "peso": 250,
+  "isbn": "9788580412628",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Jesus pegou a mão de Tony.</p> <p>– Na jornada que está prestes a começar, você poderá escolher curar fisicamente uma pessoa, mas só uma. Assim que escolhê-la, a sua jornada chegará ao fim.</p> <p>– Posso curar uma pessoa? Estud me dizendo que sou capaz de curar quem eu quiser? – Na mesma hora, seus pensamentos se voltaram para seu próprio corpo em um quarto de UTI. – Deixe-me ver se entendi. Posso curar qualquer pessoa que quiser?</p> <p>Jesus se inclinou na direção dele.</p> <p>– Na verdade, você não pode curar ninguém, não sozinho. Mas estarei do seu lado, e a pessoa por quem você decidir orar, eu a curarei através de você.</p> <p>Um derrame cerebral deixa Anthony Spencer, um multimilionário egocêntrico, em coma. Quando \"acorda\", ele se vê em um mundo surreal habitado por um estranho, que descobre ser Jesus, e por uma idosa que é o Espírito Santo.</p> <p>A sua frente se descortina uma paisagem que revela toda a mágoa e a tristeza de sua vida terrena. Jamais poderia ter imaginado tamanho horror. Debatendo-se contra um sofrimento emocional insuportável, ele implora por uma segunda chance.</p> <p>Sua prece é ouvida e ele é enviado de volta à Terra, onde viverá uma experiência de profunda comunhão com uma série de pessoas e terá a oportunidade de reexaminar a própria vida. Nessa jornada, precisará “enxergar” através dos olhos dos outros e conhecer suas visões de mundo, suas esperanças, seus medos e seus desafios.</p> <p>Na busca de redenção, Tony deverá usar um poder que lhe foi concedido: o de curar uma pessoa. Será que ele terá coragem de fazer a escolha certa?</p>",
+  "sinopse": "Anthony Spencer, um multimilionário, enfrenta um derrame cerebral e 'acorda' em um mundo surreal, onde conhece Jesus e o Espírito Santo. Ele é enviado de volta à Terra para um novo propósito: curar as pessoas. Em sua jornada, ele deve enfrentar seus medos e desafios, enquanto se pergunta se terá a coragem de fazer as escolhas certas em busca de redenção.",
+  "exemplar_id": 327,
+  "sku": "LI008M",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/william-p--young--a-travessia--capa--20250226--133820.jpg",
+  "contracapa": "static/uploads/william-p--young--a-travessia--contracapa--20250226--133820.jpg",
+  "fotos": [
+    "static/uploads/william-p--young--a-travessia--foto1--20250226--133820.jpg",
+    "static/uploads/william-p--young--a-travessia--foto2--20250226--133820.jpg",
+    "static/uploads/william-p--young--a-travessia--foto3--20250226--133820.jpg",
+    "static/uploads/william-p--young--a-travessia--foto4--20250226--133820.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:42:31",
+  "observacoes": null
+}

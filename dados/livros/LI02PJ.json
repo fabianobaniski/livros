@@ -1,0 +1,63 @@
+{
+  "obra_id": 4965,
+  "autor": "Naoshi Komi",
+  "titulo": "Nisekoi",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura juvenil. Comédia romântica. Relações escolares.",
+  "palavras_chave": "komi nisekoi",
+  "edicao_id": 4940,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 170,
+  "isbn": "9788542610390",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>A professora Kyoko anuncia que vai se casar e parar de lecionar, o que deixa a turma agitada. Logo em seguida, Shu passa a se comportar de forma diferente. O que será que houve? Além de tudo isso, o aniversário de Chitoge está chegando, e ela quer que Raku comemore com ela!</p>",
+  "sinopse": "A professora Kyoko decide se casar e parar de lecionar, causando alvoroço na turma. Shu age de maneira estranha, e o aniversário de Chitoge se aproxima, levando a planejamentos de celebração com Raku.",
+  "exemplar_id": 4939,
+  "sku": "LI02PJ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/nisekoi__naoshi-komi__capa__2026-02-20_10-31-24-272476-000.png",
+  "contracapa": "static/uploads/nisekoi__naoshi-komi__contracapa__2026-02-20_10-31-24-327419-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

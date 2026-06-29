@@ -1,0 +1,68 @@
+{
+  "obra_id": 3582,
+  "autor": "Akira Toriyama",
+  "titulo": "Dragon Ball Super",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Artes marciais. Aventuras.",
+  "palavras_chave": "toriyama dragon ball super",
+  "edicao_id": 3559,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 220,
+  "isbn": "9788542612592",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "Dragon Ball Super",
+  "volume": 2,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3558,
+  "sku": "LI02DD",
+  "preco_estante_virtual": 24.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/dragon-ball-super__akira-toriyama__capa__2025-11-05_16-16-50-666772.jpg",
+  "contracapa": "static/uploads/dragon-ball-super__akira-toriyama__contracapa__2025-11-05_16-16-50-698190.jpg",
+  "fotos": [
+    "static/uploads/dragon-ball-super__akira-toriyama__foto-01__2025-11-05_16-16-50-720869.jpg",
+    "static/uploads/dragon-ball-super__akira-toriyama__foto-02__2025-11-05_16-16-50-745715.jpg",
+    "static/uploads/dragon-ball-super__akira-toriyama__foto-03__2025-11-05_16-16-50-777344.jpg",
+    "static/uploads/dragon-ball-super__akira-toriyama__foto-04__2025-11-05_16-16-51-873214.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:39:57",
+  "observacoes": null
+}

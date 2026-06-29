@@ -1,0 +1,63 @@
+{
+  "obra_id": 2802,
+  "autor": "Clóvis Rossi; W. Knapp; Jean-claude Bernardet",
+  "titulo": "O que é jornalismo, editora, cinema",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Comunicação",
+  "temas": "",
+  "palavras_chave": "rossi que jornalismo editora",
+  "edicao_id": 2782,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 190,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora três campos fundamentais da comunicação e cultura: jornalismo, edição de livros e cinema. No jornalismo, são analisadas as batalhas internas e externas da profissão, passando pela questão da propriedade e o papel da mídia no mundo. Na editoração, aborda-se a função social do editor, os desafios econômicos da profissão e o futuro das editoras. Já no cinema, discute-se a relação entre realidade e linguagem, a mercantilização da arte e a evolução do cinema, com ênfase nos novos autores e suas obras.",
+  "exemplar_id": 2781,
+  "sku": "LI01RU",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-que-e-clovis-rossi-w-knapp-jeanclaude-bernardet-capa_rev1369.jpg",
+  "contracapa": "static/uploads/o-que-e-clovis-rossi-w-knapp-jeanclaude-bernardet-contracapa_rev280.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Capa dura. Livro muito bem conservado. Sem anotações ou sublinhados. Um pouco amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:40:12",
+  "observacoes": null
+}

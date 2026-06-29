@@ -1,0 +1,63 @@
+{
+  "obra_id": 2989,
+  "autor": "Jacqueline Bergan; Marie Schwan",
+  "titulo": "Rezar Com Inácio de Loiola",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": null,
+  "palavras_chave": "bergan rezar com inacio",
+  "edicao_id": 2969,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 142,
+  "peso": 300,
+  "isbn": "9789723908978",
+  "editora": "Editorial A. O.",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Rezar com Inácio de Loiola é mais do que um simples livro sobre a espiritualidade de Inácio. Este livro procura introduzir o leitor na oração tal como Inácio orava sobre temas e problemas que eram centrais na sua experiência. Cada meditação pode iluminar a compreensão de cada um sobre a espiritualidade de Inácio e levar o leitor a refletir sobre a sua própria experiência. O objetivo de Rezar com Inácio de Loiola é ajudar o leitor a descobrir a profunda espiritualidade de Inácio para assim integrar esse espírito e sabedoria na sua própria relação com Deus.",
+  "exemplar_id": 2968,
+  "sku": "LI01X1",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado, apenas com levíssimos sinais de uso. Texto sem anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:45:31",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

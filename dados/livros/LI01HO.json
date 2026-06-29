@@ -1,0 +1,63 @@
+{
+  "obra_id": 2436,
+  "autor": "Vince Waldron",
+  "titulo": "Classic sitcoms",
+  "subtitulo": "A celebration of the best prime-time comedy",
+  "idioma": "Inglês",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "waldron classic sitcoms celebration",
+  "edicao_id": 2416,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 603,
+  "peso": 699,
+  "isbn": "9781879505254",
+  "editora": "Silman James Press",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "I Love Lucy, The Honeymooners, The Dick Van Dyke Show, The Mary Tyler Moore Show, All in the Family, M*A*S*H, The Bob Newhart Show, Barney Miller, Taxi e Cheers. O que esses programas têm em comum? São os dez seriados de comédia que 45 críticos de TV de toda a América votaram como os melhores de todos os tempos. Este guia fornece aos fãs de sitcoms, aficionados por curiosidades e estudiosos de TV, informações detalhadas sobre cada um desses programas clássicos.",
+  "exemplar_id": 2415,
+  "sku": "LI01HO",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/vince-waldron--classic-sitcoms--capa--20260316--184918.jpg",
+  "contracapa": "static/uploads/vince-waldron--classic-sitcoms--contracapa--20260316--184918.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "livro em bom estado, embora amarelado pelo tempo. capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:37:52",
+  "observacoes": null
+}

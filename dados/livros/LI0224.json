@@ -1,0 +1,63 @@
+{
+  "obra_id": 3172,
+  "autor": "Berilo de Castro",
+  "titulo": "No Consultório da Memória",
+  "subtitulo": "Relatos e Causos Médicos",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": null,
+  "palavras_chave": "castro consultorio memoria relatos",
+  "edicao_id": 3152,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 132,
+  "peso": 350,
+  "isbn": "9788568246641",
+  "editora": "Edit. 8",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Berilo de Castro narra sua trajetória na medicina, desde a entrada na universidade em 1964, passando por tempos políticos conturbados e reformas acadêmicas. Descreve momentos marcantes, como o aumento das vagas para medicina e sua colação de grau. Detalha a escolha da nefrologia, a criação do primeiro serviço de hemodiálise do estado e sua carreira docente na UFRN. Relata ainda situações do cotidiano no consultório, mesclando memórias pessoais com o desenvolvimento da nefrologia no Rio Grande do Norte.",
+  "exemplar_id": 3151,
+  "sku": "LI0224",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, possuindo, apenas, levíssimos sinais de manuseio. Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:17:11",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

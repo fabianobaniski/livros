@@ -1,0 +1,63 @@
+{
+  "obra_id": 578,
+  "autor": "Horatius Bonar",
+  "titulo": "A justiça eterna",
+  "subtitulo": "Como o homem será justo diante de Deus?",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Justificação. Graça.",
+  "palavras_chave": "bonar justicia eterna",
+  "edicao_id": 563,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 280,
+  "isbn": "9788581320366",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Você já foi Justificado?</h1> <p>Este clássico da literatura cristã, escrito pelo ministro escocês Horatius Bonar em 1872, lida com aquele artigo \"pelo qual a igreja cai, ou fica de pé\", que é a justificação pela graça, mediante a fé somente. Esse ensino das Escrituras é tão vital que sua redescoberta, por Martinho Lutero, desencadeou a reforma protestante do século XVI.</p> <p>Bonar trabalha este tema da Justiça de Deus com muita graça, clareza, precisão bíblica, profundidade e devoção, tornando esta uma das melhores obras já escritas sobre esta importante doutrina e oferecendo ao leitor uma leitura instrutiva, ricamente edificante e também necessária.</p> <p>Um livro que, definitivamente, todo cristão deveria ler, pois oferece respostas para questão mais importante que o homem terá de responder no tribunal de Deus: De onde vem nossa justiça?</p> <p>Horatius Bonar (1808-1889) foi ministro da Igreja da Escócia. Doutor em Divindade pela Universidade de Aberdeen (1853), Bonar é conhecido por seu rico e extenso trabalho poético, como compositor de dezenas de hinos que até os dias de hoje são cantados por igrejas cristãs do mundo todo; todavia, Bonar era, igualmente, um mestre da teologia, tendo escrito várias obras importantes em seu tempo.</p>",
+  "sinopse": "O livro 'A Justiça Eterna' de Horatius Bonar explora a justificação pela graça em profundidade, com clareza e precisão bíblica. Em uma abordagem que remete à reforma protestante, Bonar discute questões fundamentais sobre como o homem pode ser justo diante de Deus, oferecendo uma leitura rica e edificante sobre a importante doutrina da justificação. É uma obra essencial para qualquer cristão que busca entender o conceito de justiça divina.",
+  "exemplar_id": 562,
+  "sku": "LI00F1",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/horatius-bonar--a-justi-a-eterna--capa--20250227--152851.jpg",
+  "contracapa": "static/uploads/horatius-bonar--a-justi-a-eterna--contracapa--20250227--152851.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:28:58",
+  "observacoes": null
+}

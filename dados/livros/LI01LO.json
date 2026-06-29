@@ -1,0 +1,63 @@
+{
+  "obra_id": 2580,
+  "autor": "Marco Antonio Carvalho Santos",
+  "titulo": "Heitor Villa-Lobos",
+  "subtitulo": "Coleção Educadores (MEC)",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "santos heitor villalobos colecao",
+  "edicao_id": 2560,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 265,
+  "isbn": "9788570195210",
+  "editora": "Massangana / MEC",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2559,
+  "sku": "LI01LO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marco-antonio-carvalho-santos--heitor-villa-lobos--capa--20260316--212043.jpg",
+  "contracapa": "static/uploads/marco-antonio-carvalho-santos--heitor-villa-lobos--contracapa--20260316--212044.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:29:33",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 142,
+  "autor": "Lauren Oliver",
+  "titulo": "Delírio",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Distopia. Autodescoberta.",
+  "palavras_chave": "oliver delirio",
+  "edicao_id": 138,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 342,
+  "peso": 380,
+  "isbn": "9788580571646",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Achavam que amar era algo sublime, mas isso foi antes de encontrarem a cura.</p> <p>OUVI MUITAS VEZES que quando eu fosse curada do <b>amor</b> ficaria feliz e em segurança para sempre.</p> <p>Eu acreditava nisso! Antes. Agora tudo mudou, e posso dizer que hoje prefiro sofrer de amor por um único milésimo de segundo a viver cem anos reprimida por uma mentira.</p>",
+  "sinopse": "Em um mundo onde o amor é considerado uma doença, a história acompanha uma protagonista dividida entre a aceitação da cura e a busca pelas emoções humanas. Entre dúvidas e descobertas, ela reflete sobre a importância do amor em sua vida e as consequências de sua ausência.",
+  "exemplar_id": 137,
+  "sku": "LI003G",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/lauren-oliver--del-rio--capa--20250226--133757.jpg",
+  "contracapa": "static/uploads/lauren-oliver--del-rio--contracapa--20250226--133757.jpg",
+  "fotos": [
+    "static/uploads/lauren-oliver--del-rio--foto1--20250226--133757.jpg",
+    "static/uploads/lauren-oliver--del-rio--foto2--20250226--133757.jpg",
+    "static/uploads/lauren-oliver--del-rio--foto3--20250226--133757.jpg",
+    "static/uploads/lauren-oliver--del-rio--foto4--20250226--133757.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 23:05:48",
+  "observacoes": null
+}

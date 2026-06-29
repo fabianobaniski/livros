@@ -1,0 +1,68 @@
+{
+  "obra_id": 1717,
+  "autor": "Marcelo Rossi",
+  "titulo": "Metanoia",
+  "subtitulo": "Wi-Fé: descubra a senha que vai revolucionar a sua vida",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Renovação. Transformação.",
+  "palavras_chave": "rossi metanoia wi fe",
+  "edicao_id": 1697,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 132,
+  "peso": 200,
+  "isbn": "9788525064646",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Renovem o pensamento, abram o coração para a Palavra de Deus e Maria reconhecerá em vocês, assim como reconheceu em seu próprio Filho, pessoas que podem se transformar e promover a união entre aqueles que estão ao seu redor. Ela levará sua vontade de renovação até Jesus. A vontade de que uma Metanoia transforme a sua vida.\"</p>",
+  "sinopse": "Metanoia é um convite à transformação pessoal e espiritual. O livro propõe uma renovação da mente e do coração, através da conexão com a Palavra de Deus e de Maria. Com uma mensagem inspiradora, busca promover a mudança interior que levará o leitor a uma vivência mais plena de sua fé.",
+  "exemplar_id": 1696,
+  "sku": "LI00XZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/padre-marcelo-rossi--metanoia--capa--20250401--115809.jpg",
+  "contracapa": "static/uploads/padre-marcelo-rossi--metanoia--contracapa--20250401--115810.jpg",
+  "fotos": [
+    "static/uploads/padre-marcelo-rossi--metanoia--foto1--20250401--115810.jpg",
+    "static/uploads/padre-marcelo-rossi--metanoia--foto2--20250401--115810.jpg",
+    "static/uploads/padre-marcelo-rossi--metanoia--foto3--20250401--115810.jpg",
+    "static/uploads/padre-marcelo-rossi--metanoia--foto4--20250401--115810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:50:43",
+  "observacoes": null
+}

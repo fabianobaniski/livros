@@ -1,0 +1,68 @@
+{
+  "obra_id": 3330,
+  "autor": "Junya Inoue",
+  "titulo": "Btooom!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá. Sobrevivência. Jogos virtuais. Conflitos psicológicos.",
+  "palavras_chave": "inoue btooom",
+  "edicao_id": 3308,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 170,
+  "isbn": "9788577878833",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "<p>Ryota Sakamoto é um jovem desempregado que passa o dia todo jogando online. Um dia, ele acorda em uma ilha deserta em uma versão real de \"Btooom!\". Para sobreviver, deverá derrotar outros participantes nessa disputa mortal.</p><p>Depois de ficar frente a frente com um oponente que domina o \"Btooom!\" tão bem quanto ele, Ryota passa a compreender melhor suas próprias limitações. Agora, deve reunir forças para a enfrentar a traição de um de seus companheiros. E sobreviver.</p>",
+  "sinopse": "Ryota Sakamoto é um jovem desempregado viciado em jogos online que repentinamente se vê preso em uma ilha deserta, onde precisa lutar para sobreviver em uma versão real e mortal do jogo 'Btooom!'. Obrigado a enfrentar outros participantes, Ryota descobre suas limitações após lutar com um adversário tão habilidoso quanto ele e precisa se fortalecer para lidar com a traição dentro do grupo e sobreviver neste cenário implacável.",
+  "exemplar_id": 3307,
+  "sku": "LI026E",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/btooom__junya-inoue__capa__2025-11-05_16-25-21-028031.jpg",
+  "contracapa": "static/uploads/btooom__junya-inoue__contracapa__2025-11-05_16-25-21-147329.jpg",
+  "fotos": [
+    "static/uploads/btooom__junya-inoue__foto-01__2025-11-05_16-25-21-172087.jpg",
+    "static/uploads/btooom__junya-inoue__foto-02__2025-11-05_16-25-21-204363.jpg",
+    "static/uploads/btooom__junya-inoue__foto-03__2025-11-05_16-25-21-230860.jpg",
+    "static/uploads/btooom__junya-inoue__foto-04__2025-11-05_16-25-21-253533.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 12:55:43",
+  "observacoes": null
+}

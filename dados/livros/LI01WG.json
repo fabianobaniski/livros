@@ -1,0 +1,63 @@
+{
+  "obra_id": 2968,
+  "autor": "Kate Flint",
+  "titulo": "Victorian love stories",
+  "subtitulo": "An Oxford anthology",
+  "idioma": "Inglês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "flint victorian love stories",
+  "edicao_id": 2948,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 501,
+  "peso": 300,
+  "isbn": "9780192880406",
+  "editora": "Oxford University Press",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Victorian Love Stories é uma coletânea diversificada de contos que explora o amor na era vitoriana em todas as suas nuances, do triunfante ao trágico. Reunindo autores como Elizabeth Gaskell, Somerset Maugham, Anthony Trollope e Thomas Hardy, os contos variam do sentimental ao satírico, do realista ao místico. As histórias apresentam amantes de diferentes origens, incluindo uma governanta, um aristocrata, uma atriz e até um casal de garças. Esta coleção destaca a complexidade do amor, brilhantemente expressa pela inventividade da ficção vitoriana.",
+  "exemplar_id": 2947,
+  "sku": "LI01WG",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/victorian-love-stories-kate-flint-capa_rev1694.jpg",
+  "contracapa": "static/uploads/victorian-love-stories-kate-flint-contracapa_rev555.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Infelizmente as folhas estão soltando. Fortemente amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:44:36",
+  "observacoes": null
+}

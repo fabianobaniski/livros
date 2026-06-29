@@ -1,0 +1,63 @@
+{
+  "obra_id": 4651,
+  "autor": "Kentaro Miura",
+  "titulo": "Berserk",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica.",
+  "palavras_chave": "miura berserk",
+  "edicao_id": 4626,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 228,
+  "peso": 340,
+  "isbn": "9788542607406",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 18,
+  "transcricao_contracapa": "",
+  "sinopse": "Berserk, de Kentaro Miura, é um mangá de dark fantasy que segue Guts, o Espadachim Negro, um mercenário marcado por uma maldição que atrai demônios. Traído por Griffith, seu antigo líder carismático do Bando do Falcão, que sacrifica tudo por poder e ascende como entidade demoníaca, Guts embarca em uma vingança implacável. Enquanto protege Casca, devastada pelos horrores do Eclipse, a obra explora temas de destino, ambição, traição e humanidade em um mundo brutal de guerra, horror sobrenatural e arte excepcionalmente detalhada.",
+  "exemplar_id": 4625,
+  "sku": "LI02GT",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/berserk__kentaro-miura__capa__2026-02-20_10-30-01-425535-000.png",
+  "contracapa": "static/uploads/berserk__kentaro-miura__contracapa__2026-02-20_10-30-01-471679-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, mas extremamente bem preservado: livre de marcações, assinaturas ou carimbos; sem qualquer dano físico; papel em tom bem branco, sem sinais de envelhecimento. Apresenta apenas os mínimos e inevitáveis vestígios de manuseio leve."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

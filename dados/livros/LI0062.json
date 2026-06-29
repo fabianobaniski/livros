@@ -1,0 +1,68 @@
+{
+  "obra_id": 241,
+  "autor": "Tarryn Fisher",
+  "titulo": "As esposas",
+  "subtitulo": "Você não é a única",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Ficção. Suspense.",
+  "palavras_chave": "fisher as esposas",
+  "edicao_id": 235,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 334,
+  "peso": 400,
+  "isbn": "9786555874389",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>IMAGINE QUE SEU MARIDO TEM MAIS DUAS ESPOSAS.</p> <p>Você não as conhece. Elas não conhecem você.</p> <p>Você só vê seu marido uma vez por semana. Quarta-feira.</p> <p>Mas tudo muda quando você é vencida pela curiosidade.</p> <p>Ate onde você iria para descobrir quem seu marido realmente é?</p> <p>“Um presente para os fãs de suspense.” <b>PUBLISHERS WEEKLY</b></p> <p>“Os fãs de Garota exemplar vão amar As esposas.” <b>USA TODAY</b></p> <p>“Um thriller doméstico sobre a busca pela verdade com um enredo intrigante e reviravoltas inteligentes que você vai ler numa tacada só.” <b>BOOKLIST</b></p>",
+  "sinopse": "Imagine descobrir que seu marido tem mais duas esposas e que você só o vê uma vez por semana. Quando a curiosidade a vence, você se vê em uma busca para entender quem realmente é seu marido. O que você está disposta a fazer para descobrir a verdade?",
+  "exemplar_id": 234,
+  "sku": "LI0062",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 24.0,
+  "capa": "static/uploads/tarryn-fisher--as-esposas--capa--20250226--133809.jpg",
+  "contracapa": "static/uploads/tarryn-fisher--as-esposas--contracapa--20250226--133809.jpg",
+  "fotos": [
+    "static/uploads/tarryn-fisher--as-esposas--foto1--20250226--133809.jpg",
+    "static/uploads/tarryn-fisher--as-esposas--foto2--20250226--133809.jpg",
+    "static/uploads/tarryn-fisher--as-esposas--foto3--20250226--133809.jpg",
+    "static/uploads/tarryn-fisher--as-esposas--foto4--20250226--133810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta, porém, carimbo de cortesia da editora / venda proibida na segunda folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:18:58",
+  "observacoes": null
+}

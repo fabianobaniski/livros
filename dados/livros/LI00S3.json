@@ -1,0 +1,68 @@
+{
+  "obra_id": 1336,
+  "autor": "Alexandre Moreira Nascimento; Elson Garcia",
+  "titulo": "Coletânea de questões",
+  "subtitulo": "Engenharias",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Exames. Formação profissional.",
+  "palavras_chave": "nascimento coletanea questoes engenharias",
+  "edicao_id": 1319,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 568,
+  "peso": 2100,
+  "isbn": "9788582420973",
+  "editora": "Foco",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Alexandre Moreira Nascimento</p><p>Coordenador e Organizador da Obra</p><ul><li>Professor de diversas disciplinas na Faculdade Fundação Escola de Comércio Álvares Penteado – FECAP.</li><li>Participou na execução do PEDP – Programa de Educação Dinâmica Progressiva, resultando nos conceitos “A” no Exame Nacional de Cursos de 2000 a 2003 e conceito máximo no ENADE desde 2006, bem como no reconhecimento da instituição como “o melhor entre todos os Centros Universitários do país, entre privados e públicos” pelo IGC – Índice Geral de Cursos do MEC.</li><li>Palestrante no Programa de Qualificação de Docentes.</li><li>É um serial entrepreneur, tendo fundado três empresas onde desenvolveu produtos com tecnologias inovadoras.</li><li>Fundou a Coaster.io (www.coaster.io) no Vale do Silício (EUA), empresa que, com investimento da Samsung Eletronics, está desenvolvendo uma plataforma de software e hardware para o compartilhamento de mídias entre diferentes dispositivos audiovisuais. Atualmente exerce a função de COO (Chief Operating Officer) na empresa.</li><li>Graduado em Engenharia Mecatrônica pela Escola Politécnica da Universidade de São Paulo.</li><li>Mestre em Administração de Empresas pela FEA/USP.</li><li>Pós-graduado em Marketing pela FGV e em Medicina Comportamental pela Escola Paulista de Medicina da Universidade de São Paulo.</li><li>Possui um Master in Business Administration pelo MIT (Massachusetts Institute of Technology) e especializações pela FGV e Harvard.</li></ul><p>Elson Garcia</p><p>Organizador da Formação Geral</p><ul><li>Autor, coautor e organizador de diversas obras voltadas à preparação para Exames Oficiais e Concursos Públicos.</li><li>Consultor educacional.</li><li>Professor e Engenheiro graduado e pós-graduado pela UFRJ.</li></ul>",
+  "sinopse": "",
+  "exemplar_id": 1318,
+  "sku": "LI00S3",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/alexandre-moreira-nascimento--colet-nea-de-quest-es--capa--20250401--114913.png",
+  "contracapa": "static/uploads/alexandre-moreira-nascimento--colet-nea-de-quest-es--contracapa--20250401--114913.png",
+  "fotos": [
+    "static/uploads/alexandre-moreira-nascimento--colet-nea-de-quest-es--foto1--20250401--114913.jpg",
+    "static/uploads/alexandre-moreira-nascimento--colet-nea-de-quest-es--foto2--20250401--114913.jpg",
+    "static/uploads/alexandre-moreira-nascimento--colet-nea-de-quest-es--foto3--20250401--114913.jpg",
+    "static/uploads/alexandre-moreira-nascimento--colet-nea-de-quest-es--foto4--20250401--114913.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Algumas folhas com marquinha de dobra nas extremidades (\"orelhas de burro\"). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:14:31",
+  "observacoes": "procedencia_biblioteca"
+}

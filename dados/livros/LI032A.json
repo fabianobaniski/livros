@@ -1,0 +1,63 @@
+{
+  "obra_id": 5657,
+  "autor": "Ken Akamatsu",
+  "titulo": "Love Hina",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Comédia.",
+  "palavras_chave": "akamatsu love hina ",
+  "edicao_id": 5632,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 260,
+  "isbn": "9788577876990",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "",
+  "sinopse": "A trama segue Keitaro Urashima, um jovem persistente que falhou duas vezes no vestibular para a Universidade de Tóquio, mas decide se tornar gerente da pensão feminina de sua avó para cumprir uma promessa de infância. Em meio a confusões românticas e situações absurdas, ele precisa equilibrar os estudos com a convivência caótica com as moradoras da Pensão Hinata, especialmente a temperamental Naru Narusegawa.",
+  "exemplar_id": 5631,
+  "sku": "LI032A",
+  "preco_estante_virtual": 32.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/love-hina__ken-akamatsu__capa__2026-02-24_13-36-46-983932-000.jpg",
+  "contracapa": "static/uploads/love-hina__ken-akamatsu__contracapa__2026-02-24_13-36-47-015912-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

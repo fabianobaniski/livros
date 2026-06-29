@@ -1,0 +1,63 @@
+{
+  "obra_id": 912,
+  "autor": "Alan Brizotti",
+  "titulo": "Identidade cristã",
+  "subtitulo": "Resgatando a verdadeira identidade cristã",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Fé. Espiritualidade. Identidade.",
+  "palavras_chave": "brizotti identidade cristã",
+  "edicao_id": 897,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 237,
+  "peso": 350,
+  "isbn": "9788564649064",
+  "editora": "Primícias",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O mundo vive imerso em contradições. A atmosfera das perturbações está bastante conturbada. Em tempos assim, o resgate das certezas é fundamental. Construir (ou re-construir) nossa verdadeira identidade é o grande desafio da atualidade. Não é fácil viver num tempo onde as essências são constantemente distorcidas. O imperativo bíblico de Romanos 12.2, “não vos conformeis com este mundo”, precisa ser vivenciado em todo seu alcance.</p> <p>Se nossas convicções não estiverem firmadas na solidez das Escrituras Sagradas seremos presas fáceis das circunstâncias, tendo nosso “molde” à luz dos momentos (definidos pelo tempo em que vivemos). Quando as certezas não possuem a base necessária, “ventos de doutrina” (Ef. 4. 14) arrasam o terreno vulnerável dessa espiritualidade oscilante. A identidade restaurada nos propicia a segurança para transitarmos nesse mundo caótico sem perder o rumo, o foco, o horizonte da fé.</p> <p>A Bíblia é nossa base na construção da identidade cristã. Numa época marcada pela ausência dolorosa dos referenciais, ela é capaz de suprir nossas carências. Através do mergulho em suas verdades podemos mirar os excelentes alvos que a graça de Deus nos aponta. Uma identidade forjada à luz das Escrituras é capaz de enfrentar as turbulências e contradições desse século sem nenhum temor. Uma vez construída na segurança da Palavra de Deus, a fé triunfa.</p>",
+  "sinopse": "Em tempos de contradições, o autor aborda a construção da verdadeira identidade cristã. O desafio de viver em um mundo repleto de incertezas é apresentado, enfatizando a importância das Escrituras Sagradas como fundamento. O texto destaca como uma identidade forjada à luz da fé pode enfrentar as turbulências contemporâneas com segurança e confiança.",
+  "exemplar_id": 896,
+  "sku": "LI00O6",
+  "preco_estante_virtual": 95.0,
+  "preco_amazon": 98.0,
+  "capa": "static/uploads/alan-brizotti--identidade-crist---capa--20250227--152913.jpg",
+  "contracapa": "static/uploads/alan-brizotti--identidade-crist---contracapa--20250227--152913.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:04:20",
+  "observacoes": null
+}

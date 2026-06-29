@@ -1,0 +1,63 @@
+{
+  "obra_id": 2450,
+  "autor": "Asne Seierstad",
+  "titulo": "Crianças de Grozni",
+  "subtitulo": "Um retrato dos órfãos da Tchetchênia",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "seierstad criancas grozni retrato",
+  "edicao_id": 2430,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 440,
+  "peso": 350,
+  "isbn": "9788501082220",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Nas primeiras horas de 1994, tropas russas invadiram a Tchetchênia, levando o país a um prolongado e violento conflito. Como correspondente internacional em Moscou naquela época, Åsne Seierstad viajou regularmente à Tchetchênia para fazer reportagens sobre a guerra e descrever os seus efeitos sobre aqueles que tentavam viver normalmente, apesar das circunstâncias desfavoráveis. Na década seguinte, Seierstad tornou-se uma autora internacionalmente conhecida e viajou aos Bálcãs, ao Afeganistão, ao Iraque e a outras regiões devastadas pela guerra, sem jamais perder de vista o conflito que observou...",
+  "exemplar_id": 2429,
+  "sku": "LI01I2",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/asne-seierstad--criancas-de-grozni--capa--20260316--185746.jpg",
+  "contracapa": "static/uploads/asne-seierstad--criancas-de-grozni--contracapa--20260316--185746.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:16:45",
+  "observacoes": null
+}

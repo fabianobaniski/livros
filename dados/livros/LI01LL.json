@@ -1,0 +1,63 @@
+{
+  "obra_id": 2577,
+  "autor": "D. Jurriaanse",
+  "titulo": "Guia prático do pêndulo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": "",
+  "palavras_chave": "jurriaanse guia pratico pendulo",
+  "edicao_id": 2557,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 100,
+  "peso": 223,
+  "isbn": "9788526702301",
+  "editora": "Siciliano",
+  "numero_edicao": 0,
+  "ano": 1989,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2556,
+  "sku": "LI01LL",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/d-jurriaanse--guia-pratico-do-pendulo--capa--20260316--211828.jpg",
+  "contracapa": "static/uploads/d-jurriaanse--guia-pratico-do-pendulo--contracapa--20260316--211828.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados. Possui vário carimbo de antiga locadora de livros."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:22:24",
+  "observacoes": null
+}

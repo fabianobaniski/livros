@@ -1,0 +1,63 @@
+{
+  "obra_id": 3115,
+  "autor": "Carlos Páez Vilaró",
+  "titulo": "Entre Meu Filho e Eu, a Lua",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": null,
+  "palavras_chave": "vilaro entre meu filho",
+  "edicao_id": 3095,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 242,
+  "peso": 450,
+  "isbn": "8570550170",
+  "editora": "Casapueblo",
+  "numero_edicao": 7,
+  "ano": 2007,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3094,
+  "sku": "LI020J",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Raríssimo! Em português. / Livro bem conservado, possuindo apenas leves desgastes na capa, lombada e contracapa (solicite fotos para maior precisão quanto a este ponto). Miolo firme, sem folhas soltas. Papel bem branquinho. Não possui sublinhados, anotações, marcas de umidade ou sol excessivo, cheiro de mofo ou furo de traça.  / Sinopse completa aqui: https://pastebin.com/LsBLKVTk"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:21:18",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

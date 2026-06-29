@@ -1,0 +1,68 @@
+{
+  "obra_id": 3668,
+  "autor": "Fred Reinfeld",
+  "titulo": "Xeque-Mate: O raciocínio em xeque",
+  "subtitulo": "Manual completo de aberturas de xadrez",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "Reinfeld xeque mate",
+  "edicao_id": 3645,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 181,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Theor S/A",
+  "numero_edicao": null,
+  "ano": 1973,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3644,
+  "sku": "LI02FR",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/fred-reinfeld--xeque-mate-o-raciocinio-em-xeque--capa--20251113--233224.png",
+  "contracapa": "static/uploads/fred-reinfeld--xeque-mate-o-raciocinio-em-xeque--contracapa--20251113--233236.png",
+  "fotos": [
+    "static/uploads/fred-reinfeld--xeque-mate-o-raciocinio-em-xeque--foto1--20251121--190851.jpg",
+    "static/uploads/fred-reinfeld--xeque-mate-o-raciocinio-em-xeque--foto2--20251121--190851.jpg",
+    "static/uploads/fred-reinfeld--xeque-mate-o-raciocinio-em-xeque--foto3--20251121--190851.jpg",
+    "static/uploads/fred-reinfeld--xeque-mate-o-raciocinio-em-xeque--foto4--20251121--190851.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 11:04:39",
+  "observacoes": null
+}

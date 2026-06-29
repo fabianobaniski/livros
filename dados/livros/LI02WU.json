@@ -1,0 +1,63 @@
+{
+  "obra_id": 5238,
+  "autor": "Boichi",
+  "titulo": "Origin",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Tecnologia. Inteligência artificial. Conflitos humanos.",
+  "palavras_chave": "boichi origin",
+  "edicao_id": 5213,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 210,
+  "isbn": "9788542624854",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<h1>Por que eu luto pelos humanos?</h1> <p>Yamada, da Oku Eletrônicos, planeja se apropriar do robô militar da AEE com a menina Ri. No entanto, os delinquentes que ele contratou fazem uma mudança de planos e a operação toma um rumo inesperado. Origin testemunhou a crueldade provocada pelo desejo humano, mas, seguindo seus princípios, ele luta para tentar salvar o maior número de vidas que conseguir!</p>",
+  "sinopse": "Yamada, da Oku Eletrônicos, tem planos de se apropriar de um robô militar da AEE com a menina Ri. Porém, seus contratados alteram os planos, levando a operação a um rumo inesperado. Origin enfrenta a crueldade humana, mas luta para salvar o máximo de vidas possível.",
+  "exemplar_id": 5212,
+  "sku": "LI02WU",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/origin__boichi__capa__2026-02-20_10-32-52-335327-000.png",
+  "contracapa": "static/uploads/origin__boichi__contracapa__2026-02-20_10-32-52-381948-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

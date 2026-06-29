@@ -1,0 +1,68 @@
+{
+  "obra_id": 2066,
+  "autor": "Luis César G. de Araujo",
+  "titulo": "Organização, Sistemas e Métodos",
+  "subtitulo": "E as tecnologias de gestão organizacional",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Organização. Sistemas organizacionais. Métodos de gestão. Tecnologias de gestão.",
+  "palavras_chave": "araujo organizacao sistemas metodos",
+  "edicao_id": 2046,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 334,
+  "peso": 600,
+  "isbn": "9788522449989",
+  "editora": "Atlas",
+  "numero_edicao": 4,
+  "ano": 2008,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p><b>ORGANIZAÇÃO, SISTEMAS E MÉTODOS E AS TECNOLOGIAS DE GESTÃO ORGANIZACIONAL – 1</b></p><p>Soluções, velocidade, excelência, ser competitivo e crescimento contínuo. Essas são as palavras do momento e que ficarão em evidência nos próximos anos. As tecnologias existentes até os anos finais do século passado não estavam correspondendo integralmente a essas demandas. Se surge um problema, a solução é esperada em pouco espaço de tempo. Inclusive já existem posições de importância rotuladas gerência de soluções. A velocidade é um imperativo disseminado por toda a organização. Se um processo crítico demanda 25 horas e 32 minutos, a expectativa é de se reduzir o máximo possível para que a organização possa mais rapidamente atingir suas metas. Excelência, competitividade e crescimento contínuo serão alcançados na medida em que se alcança a velocidade desejada e as soluções surjam, muitas vezes, como num passe de mágica.</p><p>A gestão de processos chegou para permitir que as organizações alcancem a excelência e daí o crescimento. Tecnologias existentes têm condições para alcançar esses propósitos e, certamente, algumas não têm condições de impor a velocidade desejada, nem mesmo oferecer soluções no minuto seguinte à existência de um problema. Mas todas podem se valer dessa nova tecnologia que chegou e tem condições concretas de interagir com outras tecnologias bastante conhecidas e assim oferecer resultados de superior magnitude.</p><p>A atualização e revisão desta edição, com maior detalhamento da gestão de processos, não só em capítulo específico, mas também nos demais capítulos, oferece condições para que o alunado e os profissionais busquem e encontrem caminhos para o sucesso pessoal e profissional e, por via de consequência, benefícios para os negócios das organizações.</p><p><b>APLICAÇÃO</b></p><p>Livro-texto para a disciplina ORGANIZAÇÃO, SISTEMAS E MÉTODOS do curso de Administração de Empresas. Leitura complementar para as disciplinas TEORIA GERAL DE ADMINISTRAÇÃO, TEORIA DAS ORGANIZAÇÕES, INTRODUÇÃO À ADMINISTRAÇÃO e matérias eletivas (livre escolha) que tratam de temática ligada à gestão de processos, <i>benchmarking, empowerment</i>, gestão pela qualidade total, reengenharia e arquitetura organizacional. E está em conformidade com a Resolução CNE/CES nº 4, de 13-7-2005, do Conselho Nacional de Educação e da Câmara de Educação Superior. Também indicado para cursos <i>stricto</i> (principalmente mestrado) e <i>lato sensu</i> que envolvam a teoria e a prática organizacional como cenários essenciais.</p>",
+  "sinopse": "O livro aborda os principais conceitos e práticas de Organização, Sistemas e Métodos, destacando as tecnologias de gestão organizacional, excelência, competitividade e crescimento contínuo. Apresenta a importância da gestão de processos, velocidade nas soluções e integração entre tecnologias para alcançar resultados nas organizações. É recomendado como livro-texto e leitura complementar para cursos de Administração, englobando temas como reengenharia, benchmarking, empowerment e gestão pela qualidade total.",
+  "exemplar_id": 2045,
+  "sku": "LI017F",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luis-c-sar-g--de-araujo--organiza--o--sistemas-e-m-todos--capa--20250430--104528.jpg",
+  "contracapa": "static/uploads/luis-c-sar-g--de-araujo--organiza--o--sistemas-e-m-todos--contracapa--20250430--104528.jpg",
+  "fotos": [
+    "static/uploads/luis-c-sar-g--de-araujo--organiza--o--sistemas-e-m-todos--foto1--20250430--104528.jpg",
+    "static/uploads/luis-c-sar-g--de-araujo--organiza--o--sistemas-e-m-todos--foto2--20250430--104528.jpg",
+    "static/uploads/luis-c-sar-g--de-araujo--organiza--o--sistemas-e-m-todos--foto3--20250430--104528.jpg",
+    "static/uploads/luis-c-sar-g--de-araujo--organiza--o--sistemas-e-m-todos--foto4--20250430--104528.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:49",
+  "observacoes": "procedencia_biblioteca"
+}

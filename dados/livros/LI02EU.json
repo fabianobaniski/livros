@@ -1,0 +1,68 @@
+{
+  "obra_id": 3635,
+  "autor": "Thomas Mann",
+  "titulo": "Tonio Kroeger / A morte em Veneza",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "mann tonio kroeger morte",
+  "edicao_id": 3612,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 172,
+  "peso": 270,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 172,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Tonio Kroeger: A novela explora o conflito interno de um escritor dividido entre sua herança burguesa e sua natureza artística, sentindo-se um eterno estrangeiro em ambos os mundos enquanto busca reconciliar a disciplina da classe média com a sensibilidade atormentada do criador. / A morte em Veneza: O respeitado escritor Gustav von Aschenbach, em busca de renovação criativa, viaja para uma Veneza assolada pela peste, onde desenvolve uma obsessão silenciosa e fatal pela beleza juvenil de um adolescente polonês, resultando em sua completa degradação física e moral.",
+  "exemplar_id": 3611,
+  "sku": "LI02EU",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/thomas-mann--tonio-kroeger-a-morte-em-veneza--capa--20251114--181552.png",
+  "contracapa": "static/uploads/thomas-mann--tonio-kroeger-a-morte-em-veneza--contracapa--20251114--181559.png",
+  "fotos": [
+    "static/uploads/thomas-mann--tonio-kroeger-a-morte-em-veneza--foto1--20251113--202041.jpg",
+    "static/uploads/thomas-mann--tonio-kroeger-a-morte-em-veneza--foto2--20251113--202041.jpg",
+    "static/uploads/thomas-mann--tonio-kroeger-a-morte-em-veneza--foto3--20251113--202041.jpg",
+    "static/uploads/thomas-mann--tonio-kroeger-a-morte-em-veneza--foto4--20251113--202041.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:27:38",
+  "observacoes": null
+}

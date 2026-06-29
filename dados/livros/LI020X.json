@@ -1,0 +1,63 @@
+{
+  "obra_id": 3129,
+  "autor": "H. P. Lovecraft",
+  "titulo": "A Maldição de Sarnath",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "lovecraft maldicao sarnath",
+  "edicao_id": 3109,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 222,
+  "peso": 380,
+  "isbn": "9788573210804",
+  "editora": "Iluminuras",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Lovecraft desvia-se de dualidades binárias, explorando personagens em ambientes sombrios, sonhos e pesadelos. Suas narrativas misturam realidade com imaginário, mostrando deuses aterrorizantes e mundos subterrâneos. A inteligência humana é confrontada com o desconhecido e sua própria fraqueza. Ele incorpora influências antigas e histórias de Nova Inglaterra, como a caça às bruxas, em sua obra densa e assustadora.",
+  "exemplar_id": 3108,
+  "sku": "LI020X",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem preservado, embora as laterais tenham oxidado bastante durante passagem dos anos. Lombada reta, miolo firme, sem folhas soltas. Não possui anotações, sublinhados, rasgos, amassados nem marcas de umidade, sol excessivo, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:34:13",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

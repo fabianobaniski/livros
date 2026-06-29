@@ -1,0 +1,68 @@
+{
+  "obra_id": 1393,
+  "autor": "Iria Schnaider (autografado)",
+  "titulo": "Dois nomes, uma vida",
+  "subtitulo": "Uma história real",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "Biografias. Segunda Guerra Mundial. Identidade.",
+  "palavras_chave": "schnaider dois nomes vida",
+  "edicao_id": 1375,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 488,
+  "peso": 800,
+  "isbn": "9788576825906",
+  "editora": "Nova Letra",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Romance Biográfico</h1> <p>Áustria, 1934.<br>Tem início uma história real. Tendo como pano de fundo a Segunda Guerra Mundial e a Saga dos Imigrantes Europeus que aportaram em Santos, começa a história de uma jovem cujos sonhos foram soterrados pelas ambições de Hitler. Trazida pelo destino, ela passa a viver na \"cidade que nunca pára de crescer\" e dá luz um belo garotinho.</p> <p>São Paulo, 1945.<br>Dois nomes, uma vida.<br>Aqui começa a história de um garoto com duas identidades. Ele viverá uma vida que não é sua, sem saber que está sendo iludido pelo destino; até o dia em que lhe for permitido buscar a verdade. Uma história surpreendente, marcante, envolvente, que levará o leitor aos risos e às lágrimas! A luta de um homem em busca da verdade sobre sua história.</p>",
+  "sinopse": "A história começa na Áustria em 1934, apresentando uma jovem cujos sonhos são soterrados pelas ambições de Hitler. Trasladada pelo destino, transforma-se em mãe e, anos depois, em São Paulo, seu filho lida com a complexidade de ter duas identidades. A narrativa revela a luta por autoconhecimento e a busca da verdade em meio a desafios e ilusões.",
+  "exemplar_id": 1374,
+  "sku": "LI00TH",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/iria-schnaider--dois-nomes--uma-vida--capa--20250401--115339.jpg",
+  "contracapa": "static/uploads/iria-schnaider--dois-nomes--uma-vida--contracapa--20250401--115339.jpg",
+  "fotos": [
+    "static/uploads/iria-schnaider--dois-nomes--uma-vida--foto1--20250401--115339.jpg",
+    "static/uploads/iria-schnaider--dois-nomes--uma-vida--foto2--20250401--115339.jpg",
+    "static/uploads/iria-schnaider--dois-nomes--uma-vida--foto3--20250401--115339.jpg",
+    "static/uploads/iria-schnaider--dois-nomes--uma-vida--foto4--20250401--115339.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Com dedicatória autografada pela autora na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:33:16",
+  "observacoes": null
+}

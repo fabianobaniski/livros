@@ -1,0 +1,68 @@
+{
+  "obra_id": 1489,
+  "autor": "E L James",
+  "titulo": "Cinquenta tons de cinza",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Desejo. Relacionamentos.",
+  "palavras_chave": "james cinquenta tons",
+  "edicao_id": 1470,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 455,
+  "peso": 450,
+  "isbn": "9788580572186",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quando a estudante de literatura Anastasia Steele entrevista o jovem bilionário Christian Grey, descobre nele um homem atraente, brilhante e profundamente dominador. Ingênua e inocente, Ana se surpreende ao perceber que o deseja e que, a despeito da enigmática reserva de Grey, está desesperadamente atraída por ele.</p> <p>Incapa...</p>",
+  "sinopse": "No livro, Anastasia Steele entrevista Christian Grey, um bilionário dominante. Apaixonada e intrigada, ela enfrenta a resistência de seus próprios desejos e os segredos obscuros que Grey tenta manter escondidos.",
+  "exemplar_id": 1469,
+  "sku": "LI00W2",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/e-l-james--cinquenta-tons-de-cinza--capa--20250401--115739.jpg",
+  "contracapa": "static/uploads/e-l-james--cinquenta-tons-de-cinza--contracapa--20250401--115739.jpg",
+  "fotos": [
+    "static/uploads/e-l-james--cinquenta-tons-de-cinza--foto1--20250401--115739.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-de-cinza--foto2--20250401--115739.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-de-cinza--foto3--20250401--115739.jpg",
+    "static/uploads/e-l-james--cinquenta-tons-de-cinza--foto4--20250401--115739.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:36:44",
+  "observacoes": null
+}

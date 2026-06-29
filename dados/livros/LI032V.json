@@ -1,0 +1,63 @@
+{
+  "obra_id": 5678,
+  "autor": "Masashi Kishimoto",
+  "titulo": "Naruto",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Artes Marciais.",
+  "palavras_chave": "kishimoto naruto",
+  "edicao_id": 5653,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 230,
+  "isbn": "9788542602951",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>Indicados por Kakashi-sensei, Naruto e seus companheiros de equipe prestarão o Exame Chunin! Sasuke é desafiado para uma batalha antes mesmo de chegar ao local do exame, o que prenuncia um grande tumulto..!! Enfim começam as provas de seleção, reunindo indivíduos estranhos e poderosos..!!</p>",
+  "sinopse": "Naruto e sua equipe participam do Exame Chunin, enfrentando desafios e batalhas intensas, revelando uma seleção cheia de tumultos e indivíduos poderosos.",
+  "exemplar_id": 5652,
+  "sku": "LI032V",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/naruto__masashi-kishimoto__capa__2026-02-24_13-36-53-747109-000.jpg",
+  "contracapa": "static/uploads/naruto__masashi-kishimoto__contracapa__2026-02-24_13-36-53-789434-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

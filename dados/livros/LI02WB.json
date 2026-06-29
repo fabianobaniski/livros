@@ -1,0 +1,63 @@
+{
+  "obra_id": 5219,
+  "autor": "Yukito Kishiro",
+  "titulo": "Battle Angel Alita",
+  "subtitulo": "Gunnm hyper future vision",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Ciborgues. Memória.",
+  "palavras_chave": "kishiro battle angel alita gunnm hyper future vision",
+  "edicao_id": 5194,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 475,
+  "peso": 530,
+  "isbn": "9788545703860",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<b>ANJO MATADOR</b> <p>Acompanhe a ciborgue Alita em sua luta para sobreviver e recuperar sua memória na distópica Cidade da Sucata. Ao lado do engenheiro cibernético Daisuke Ido, ela se torna uma Guerreira Caçadora, mas sabe que a chave para desvendar o seu passado está na cidade flutuante de Zalem.</p> <p>Nesta edição, Ido vai em busca de Alita, que desapareceu depois do trágico incidente do garoto Yugo. O cientista terá a ajuda da jovem e inocente Shumira, cujo irmão é um grande jogador de Motor Ball. É nesse esporte sangrento que os destinos de Alita, Jashugan e Ido se cruzam...!</p> <p>COMPLETO EM 4 EDIÇÕES</p>",
+  "sinopse": "Acompanhe a ciborgue Alita em sua luta para sobreviver e recuperar sua memória na distópica Cidade da Sucata. Com o apoio do engenheiro Ido, ela se transforma em Guerreira Caçadora e busca desvendar seu passado em Zalem. Nesta edição, Ido procura Alita após o trágico incidente com Yugo, e um grande jogador de Motor Ball se torna peça chave na trama.",
+  "exemplar_id": 5193,
+  "sku": "LI02WB",
+  "preco_estante_virtual": 150.0,
+  "preco_amazon": 150.0,
+  "capa": "static/uploads/battle-angel-alita__gunnm-hyper-future-vision__yukito-kishiro__capa__2026-02-20_10-32-43-381473-000.png",
+  "contracapa": "static/uploads/battle-angel-alita__gunnm-hyper-future-vision__yukito-kishiro__contracapa__2026-02-20_10-32-43-437826-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel amarelou um pouco com a passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

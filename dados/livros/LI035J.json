@@ -1,0 +1,68 @@
+{
+  "obra_id": 5774,
+  "autor": "Delane Botelho; Deboráh Moraes Zouain",
+  "titulo": "Pesquisa quantitativa em administração",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Pesquisa quantitativa. Metodologia científica.",
+  "palavras_chave": "botelho pesquisa quantitativa administracao",
+  "edicao_id": 5749,
+  "encadernacao": null,
+  "quantidade_paginas": 229,
+  "peso": 500,
+  "isbn": "9788522444045",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>PESQUISA QUANTITATIVA EM ADMINISTRAÇÃO</b><br><p><b>Este livro apresenta diferentes métodos de pesquisa quantitativa</b> (coleta e análise), com sua descrição e aplicação em distintas áreas da administração. Preenche importante lacuna no ensino e pesquisa de administração, já que são raros os textos que explicam o método quantitativo com exemplos práticos e modernos.</p><p>O objetivo dos organizadores é tornar o leitor ciente de que diferentes métodos de coleta e análise de dados podem ser apropriadamente empregados em problemas específicos de administração. Sabemos que quanto mais limitado em métodos for um pesquisador (tanto o acadêmico quanto o profissional de mercado), maior a probabilidade de sua pesquisa ser restringida pelo método, e que a falta de domínio de métodos é um dos principais limitadores de boas pesquisas.</p><p>A obra aborda os seguintes tópicos: regressão linear, modelos de escolha discretos, análise discriminante, análise confirmatória e exploratória, equações estruturais, teoria dos jogos, equações dinâmicas, análise de redes e teoria das restrições, além das técnicas de coleta de dados, como uso de questionários estruturados e dados escaneados. As áreas de administração usadas para a aplicação destes tópicos incluem: marketing, estratégia, contabilidade e controladoria, finanças, administração pública e operações.</p><b>APLICAÇÃO</b><br><p>Livro-texto para disciplinas de METODOLOGIA DE PESQUISA e PESQUISA QUANTITATIVA dos cursos de mestrado profissional, mestrado acadêmico e doutorado em Administração. Leitura complementar para as disciplinas de MARKETING, ADMINISTRAÇÃO FINANCEIRA, CONTABILIDADE, ADMINISTRAÇÃO DA PRODUÇÃO, ESTRATÉGIA e ESTATÍSTICA dos cursos de graduação e pós-graduação em Administração de Empresas, Marketing e Ciências Contábeis. Livro de referência destinado a pesquisadores e a profissionais envolvidos com coleta e análise de dados nas diversas áreas da Administração.</p>",
+  "sinopse": "Este livro apresenta diversos métodos de pesquisa quantitativa, abordando desde coleta e análise de dados até técnicas como regressão, modelos de escolha, análise discriminante, equações e teoria dos jogos aplicadas à administração. Indicado para estudantes e profissionais, o texto destaca a importância do domínio de métodos para aplicações em marketing, estratégia, finanças, administração pública, entre outros. É referência para disciplinas de metodologia e pesquisa em cursos de graduação e pós-graduação em Administração e campos correlatos.",
+  "exemplar_id": 5748,
+  "sku": "LI035J",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/pesquisa-quantitativa-em-administracao__none__delane-botelho-deborah-moraes-zouain-alda-rosana-almeida-alexandre-linhares-andre-carlos-busanelli-de-aquino-fabio-renato-fukuda-__capa__2026-01-18_14-11-35-709166-000.png",
+  "contracapa": "static/uploads/pesquisa-quantitativa-em-administracao__none__delane-botelho-deborah-moraes-zouain-alda-rosana-almeida-alexandre-linhares-andre-carlos-busanelli-de-aquino-fabio-renato-fukuda-__contracapa__2026-01-18_14-11-35-728644-001.png",
+  "fotos": [
+    "static/uploads/pesquisa-quantitativa-em-administracao__none__delane-botelho-deborah-moraes-zouain-alda-rosana-almeida-alexandre-linhares-andre-carlos-busanelli-de-aquino-fabio-renato-fukuda-__foto-01__2026-01-18_14-11-35-739423-002.jpg",
+    "static/uploads/pesquisa-quantitativa-em-administracao__none__delane-botelho-deborah-moraes-zouain-alda-rosana-almeida-alexandre-linhares-andre-carlos-busanelli-de-aquino-fabio-renato-fukuda-__foto-02__2026-01-18_14-11-35-774571-003.jpg",
+    "static/uploads/pesquisa-quantitativa-em-administracao__none__delane-botelho-deborah-moraes-zouain-alda-rosana-almeida-alexandre-linhares-andre-carlos-busanelli-de-aquino-fabio-renato-fukuda-__foto-03__2026-01-18_14-11-35-807114-004.jpg",
+    "static/uploads/pesquisa-quantitativa-em-administracao__none__delane-botelho-deborah-moraes-zouain-alda-rosana-almeida-alexandre-linhares-andre-carlos-busanelli-de-aquino-fabio-renato-fukuda-__foto-04__2026-01-18_14-11-35-982357-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:03:54",
+  "observacoes": "procedencia_biblioteca"
+}

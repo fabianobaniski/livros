@@ -1,0 +1,63 @@
+{
+  "obra_id": 2895,
+  "autor": "Luiz Caramaschi",
+  "titulo": "Sabedoria e inteligência",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "caramaschi sabedoria inteligencia",
+  "edicao_id": 2875,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 240,
+  "peso": 300,
+  "isbn": "9788589389105",
+  "editora": "Piraju",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Sabedoria e Inteligência é uma obra dedicada à preservação e divulgação dos escritos de Luiz Caramaschi, filósofo cujos textos foram cuidadosamente organizados após sua morte. A Associação Filosófica Luiz Caramaschi, criada por familiares e maçons da Loja Cavaleiros do Sul, tem o propósito de tornar seu legado acessível ao público. Apesar das dificuldades na edição de seus manuscritos, devido à complexidade da caligrafia e revisões detalhadas, já foram publicadas 16 obras, disponíveis online para consulta gratuita, garantindo que seu pensamento continue vivo e relevante.",
+  "exemplar_id": 2874,
+  "sku": "LI01UF",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/sabedoria-e-inteligencia-luiz-caramaschi-capa_rev1848.jpg",
+  "contracapa": "static/uploads/sabedoria-e-inteligencia-luiz-caramaschi-contracapa_rev73.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:46:35",
+  "observacoes": null
+}

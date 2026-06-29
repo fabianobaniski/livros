@@ -1,0 +1,68 @@
+{
+  "obra_id": 5743,
+  "autor": "Thich Nhat Hanh",
+  "titulo": "A arte de sentar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Espiritualidade. Meditação. Mindfulness.",
+  "palavras_chave": "hanh arte sentar",
+  "edicao_id": 5718,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 117,
+  "peso": 150,
+  "isbn": "9788522030835",
+  "editora": "Agir",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "Mindfulness essentials",
+  "volume": null,
+  "transcricao_contracapa": "<p>O primeiro livro da coleção <i>Mindfulness essentials</i> do monge zen-budista Thich Nhat Hanh, <i>A arte de sentar</i>, oferece instruções simples, claras e inspiracionais para quem deseja praticar a meditação que simboliza o estado mental de atenção plena em si e no presente.</p> <p>Com textos curtos, Nhat Hanh compartilha de forma dedicada e detalhada um guia de variados exercícios de respiração e mentalizações, bem como <i>insights</i> e histórias pessoais. Este livro de bolso é perfeito para os iniciantes na prática da meditação sentada e para aqueles que já estão mais avançados em sua caminhada espiritual.</p> <p>Ilustrado por Jason DeAntonis.</p> <p><b>THICH NHAT HANH</b> é professor e o monge zen-budista mais conhecido no mundo. Há mais de setenta anos ensina práticas de <i>mindfulness</i> para milhares de pessoas.</p>",
+  "sinopse": "Primeiro título da coleção Mindfulness essentials, este livro do monge zen-budista Thich Nhat Hanh apresenta instruções simples e claras para praticar a meditação sentada e cultivar atenção plena no presente. Com textos curtos e dedicados, o autor oferece um guia detalhado de exercícios de respiração, mentalizações, insights e histórias pessoais. Ideal para iniciantes e também para praticantes mais experientes em sua jornada espiritual.",
+  "exemplar_id": 5717,
+  "sku": "LI034O",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/a-arte-de-sentar__none__thich-nhat-hanh__capa__2026-01-18_14-11-17-825545-000.png",
+  "contracapa": "static/uploads/a-arte-de-sentar__none__thich-nhat-hanh__contracapa__2026-01-18_14-11-17-858893-001.png",
+  "fotos": [
+    "static/uploads/a-arte-de-sentar__none__thich-nhat-hanh__foto-01__2026-01-18_14-11-17-880989-002.jpg",
+    "static/uploads/a-arte-de-sentar__none__thich-nhat-hanh__foto-02__2026-01-18_14-11-17-909081-003.jpg",
+    "static/uploads/a-arte-de-sentar__none__thich-nhat-hanh__foto-03__2026-01-18_14-11-17-933761-004.jpg",
+    "static/uploads/a-arte-de-sentar__none__thich-nhat-hanh__foto-04__2026-01-18_14-11-17-960442-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Conservação física excelente. Contudo, apresenta grifos feitos com caneta e régua."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:06:25",
+  "observacoes": null
+}

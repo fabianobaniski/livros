@@ -1,0 +1,63 @@
+{
+  "obra_id": 2467,
+  "autor": "Priscila Miraz de Freitas Grecco",
+  "titulo": "De uma máscara a outra",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "",
+  "palavras_chave": "grecco uma mascara outra",
+  "edicao_id": 2447,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 196,
+  "peso": 300,
+  "isbn": "9788579619984",
+  "editora": "Baluarte",
+  "numero_edicao": 1,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro investiga a trajetória do intelectual mexicano Octavio Paz, concentrando-se em sua obra El Laberento de la Soledad, considerada um clássico da literatura. Embora traduzida para o Brasil em 1976, a obra de Paz ainda não havia recebido uma análise crítica aprofundada no contexto brasileiro. A autora utiliza um cruzamento entre história intelectual, cultural e política para oferecer um estudo abrangente, destacando a importância de Paz no cenário intelectual latino-americano e sua relevância na produção de pensamento no Brasil.",
+  "exemplar_id": 2446,
+  "sku": "LI01IJ",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/priscila-miraz-de-freitas-grecco--de-uma-mascara-a-outra--capa--20260316--191827.jpg",
+  "contracapa": "static/uploads/priscila-miraz-de-freitas-grecco--de-uma-mascara-a-outra--contracapa--20260316--191827.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Questões sobre a identidade em El Laberinto de la Soledad, de Octavio Paz / Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:35:40",
+  "observacoes": null
+}

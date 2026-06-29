@@ -1,0 +1,68 @@
+{
+  "obra_id": 396,
+  "autor": "Ruggiero Leoncavallo",
+  "titulo": "I Pagliacci",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Música",
+  "temas": "Ópera.",
+  "palavras_chave": "leoncavallo pagliacci",
+  "edicao_id": 384,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 206,
+  "peso": 350,
+  "isbn": "",
+  "editora": "G. Schirmer",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "G. Schirmer Opera Score Editions",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 383,
+  "sku": "LI00A2",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/ruggiero-leoncavallo--i-pagliacci--capa--20250226--133825.jpg",
+  "contracapa": "static/uploads/ruggiero-leoncavallo--i-pagliacci--contracapa--20250226--133825.jpg",
+  "fotos": [
+    "static/uploads/ruggiero-leoncavallo--i-pagliacci--foto1--20250226--133825.jpg",
+    "static/uploads/ruggiero-leoncavallo--i-pagliacci--foto2--20250226--133825.jpg",
+    "static/uploads/ruggiero-leoncavallo--i-pagliacci--foto3--20250226--133825.jpg",
+    "static/uploads/ruggiero-leoncavallo--i-pagliacci--foto4--20250226--133825.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel amarelado e marcas de dobra na ponta das folhas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:31:10",
+  "observacoes": null
+}

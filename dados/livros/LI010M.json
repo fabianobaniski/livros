@@ -1,0 +1,68 @@
+{
+  "obra_id": 1820,
+  "autor": "Valdo Barcelos",
+  "titulo": "Formação de professores para educação de jovens e adultos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Formação de professores. Educação de jovens e adultos.",
+  "palavras_chave": "barcelos formacao professores para educacao jovens adultos",
+  "edicao_id": 1800,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 108,
+  "peso": 150,
+  "isbn": "9788532632883",
+  "editora": "Vozes",
+  "numero_edicao": 2,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quem é educador neste país sabe o tamanho e a importância da tarefa que tem pela frente. Sabe que precisa ser como os lavradores de ondas imaginados pelo criador do teatro do oprimido, Augusto Boal. Para ele, 'lavra-se uma onda, e tem sempre outra que se aproxima. Mas tem tanto lavrador do mar no Brasil, gente maravilhosa, fazendo coisa. Nós somos um bando de lavradores do mar'.</p>",
+  "sinopse": "O livro destaca o desafio e a importância do trabalho dos educadores no Brasil, comparando-os aos 'lavradores de ondas' do teatro do oprimido de Augusto Boal. Reforça a ideia de que o trabalho educativo é constante, com novos desafios sempre surgindo, e valoriza o papel fundamental dos educadores na transformação social.",
+  "exemplar_id": 1799,
+  "sku": "LI010M",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/valdo-barcelos--forma--o-de-professores-para-educa--o-de-jovens-e-adultos--capa--20250430--102952.jpg",
+  "contracapa": "static/uploads/valdo-barcelos--forma--o-de-professores-para-educa--o-de-jovens-e-adultos--contracapa--20250430--102952.jpg",
+  "fotos": [
+    "static/uploads/valdo-barcelos--forma--o-de-professores-para-educa--o-de-jovens-e-adultos--foto1--20250430--102952.jpg",
+    "static/uploads/valdo-barcelos--forma--o-de-professores-para-educa--o-de-jovens-e-adultos--foto2--20250430--102952.jpg",
+    "static/uploads/valdo-barcelos--forma--o-de-professores-para-educa--o-de-jovens-e-adultos--foto3--20250430--102952.jpg",
+    "static/uploads/valdo-barcelos--forma--o-de-professores-para-educa--o-de-jovens-e-adultos--foto4--20250430--102952.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:12:15",
+  "observacoes": "procedencia_biblioteca"
+}

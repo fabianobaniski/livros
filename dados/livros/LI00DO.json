@@ -1,0 +1,63 @@
+{
+  "obra_id": 529,
+  "autor": "Renato Vargens",
+  "titulo": "Reforma agora",
+  "subtitulo": "O antídoto para a confusão evangélica no brasil",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Doutrina. Evangelicalismo. Teologia.",
+  "palavras_chave": "vargens reforma agora antidoto confusao evangelica",
+  "edicao_id": 514,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 154,
+  "peso": 280,
+  "isbn": "9788581321530",
+  "editora": "Fiel",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Misticismo, culto à personalidade, costumes estranhos e pregação espúria infectam grandemente parte de nossas igrejas hoje. Neste livro, de modo acessível e contextualizado, o Pr. Renato Vargens dá um basta nesses enganos e nos apresenta o antídoto: o retorno às Escrituras. Imperdível!</p><p>Reforma Agora, do Pastor Renato Vargens, é para ser ministrado contra os modismos e distorções de ensino e prática do cenário evangélico e do neopentecostalismo moderno. Com habilidade e respaldo bíblico ele nos indica que o remédio não mudou. A mesma volta às Escrituras, observada na Reforma do Século 16, continua válida e necessária aos nossos dias. A igreja de Cristo deve ouvir o que é dito neste livro.</p><p>Pouca gente conhece o movimento neopentecostal como o Pr. Renato Vargens. E pouca gente está capacitada, como ele, a analisar este movimento e oferecer uma alternativa bíblica aos que estão cansados dos abusos e erros deste movimento. Reforma Agora deve ser lido por todos os evangélicos que anseiam referências sólidas para sua vida cristã.</p><p>O que essa obra oferece é um chamado ao fundamento da fé cristã, como encontrado nos famosos lemas que resumem o cerne da mensagem bíblica e evangélica: Sola Scriptura, Sola Gratia, Sola Fide, Solus Christus e Soli Deo Gloria. Precisamos receber e nos agarrar esta mensagem bíblica e evangélica com toda a seriedade.</p>",
+  "sinopse": "Reforma Agora aborda a necessidade de retorno às Escrituras em um cenário evangélico conturbado por modismos e erros de prática. O autor apresenta uma crítica fundamentada ao neopentecostalismo e uma base bíblica sólida, propondo um retorno aos princípios da Reforma do Século 16, enfatizando a necessidade de referências claras para a fé cristã.",
+  "exemplar_id": 513,
+  "sku": "LI00DO",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/renato-vargens--reforma-agora--capa--20250227--152848.jpg",
+  "contracapa": "static/uploads/renato-vargens--reforma-agora--contracapa--20250227--152848.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:40:41",
+  "observacoes": null
+}

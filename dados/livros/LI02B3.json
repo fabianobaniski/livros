@@ -1,0 +1,68 @@
+{
+  "obra_id": 3500,
+  "autor": "Akihito Tsukushi",
+  "titulo": "Made in Abyss",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Fantasia. Aventura. Exploração.",
+  "palavras_chave": "tsukushi made abyss",
+  "edicao_id": 3477,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 270,
+  "isbn": "9788583622284",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>Riko, Reg e Nanachi prosseguem sua expedição pelo grande buraco do Abismo para chegar às profundezas da sexta camada.</p> <p>Ao chegar no posto avançado, o Id Front, os três se depararam com Bondrewd, o Lorde Desbravador. Enquanto Reg dava o melhor de si para derrotá-lo, Bondrewd exibia seu poder esmagador...</p> <p>Enquanto isso, Prushka desejava ardentemente se aventurar ao lado de Riko e os outros. No entanto, seu desejo foi inútil e acabou se tornando alvo de um assustador experimento de Bondrewd...</p>",
+  "sinopse": "Riko, Reg e Nanachi continuam sua expedição pelo Abismo em busca das profundezas da sexta camada. Ao chegarem ao posto avançado, encontram o temido Bondrewd, o Lorde Desbravador, e precisam enfrentar seu poder esmagador. Enquanto Reg se esforça para derrotá-lo, Prushka sonha em se aventurar com o grupo, mas acaba se tornando vítima de um assustador experimento de Bondrewd.",
+  "exemplar_id": 3476,
+  "sku": "LI02B3",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/made-in-abyss__akihito-tsukushi__capa__2025-11-05_16-16-00-812436.jpg",
+  "contracapa": "static/uploads/made-in-abyss__akihito-tsukushi__contracapa__2025-11-05_16-16-00-851961.jpg",
+  "fotos": [
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-01__2025-11-05_16-16-00-882656.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-02__2025-11-05_16-16-00-906059.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-03__2025-11-05_16-16-00-924158.jpg",
+    "static/uploads/made-in-abyss__akihito-tsukushi__foto-04__2025-11-05_16-16-00-940564.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:53:27",
+  "observacoes": null
+}

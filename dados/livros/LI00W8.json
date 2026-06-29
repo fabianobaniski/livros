@@ -1,0 +1,68 @@
+{
+  "obra_id": 1495,
+  "autor": "Felipe Aquino",
+  "titulo": "A luta contra a depressão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Saúde. Religião.",
+  "palavras_chave": "aquino luta depressao",
+  "edicao_id": 1476,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 198,
+  "peso": 250,
+  "isbn": "8588158175",
+  "editora": "Léofas",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A depressão tornou-se uma verdadeira epidemia. Mas ela tem cura!</p> <p>As suas causas mais profundas são de fundo emocional, psicológico ou espiritual, e sobretudo a falta de auto-estima e de um sentido para a própria vida; além das pressões sufocantes deste mundo moderno, competitivo e ameaçador.</p> <p>Sem desprezar a ajuda da medicina e da psicoterapia, que são valiosas e indispensáveis, este livro apresenta uma terapia espiritual, com base no \"abandono em Deus\".</p> <p>Só em Deus a pessoa encontra o seu grande valor (filho de Deus), o rico e belo sentido de sua vida e a segurança para vencer os problemas.</p> <p>Jesus Cristo é o Médico das almas.</p>",
+  "sinopse": "A depressão é uma epidemia contemporânea, com causas emocionais, psicológicas e espirituais. Este livro propõe um tratamento espiritual fundamentado na fé, enfatizando que a cura pode ser alcançada através da relação com Deus, ao mesmo tempo que reconhece a importância da medicina e da psicoterapia.",
+  "exemplar_id": 1475,
+  "sku": "LI00W8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/prof--felipe-aquino--a-luta-contra-a-depress-o--capa--20250401--115740.jpg",
+  "contracapa": "static/uploads/prof--felipe-aquino--a-luta-contra-a-depress-o--contracapa--20250401--115740.jpg",
+  "fotos": [
+    "static/uploads/prof--felipe-aquino--a-luta-contra-a-depress-o--foto1--20250401--115740.jpg",
+    "static/uploads/prof--felipe-aquino--a-luta-contra-a-depress-o--foto2--20250401--115740.jpg",
+    "static/uploads/prof--felipe-aquino--a-luta-contra-a-depress-o--foto3--20250401--115740.jpg",
+    "static/uploads/prof--felipe-aquino--a-luta-contra-a-depress-o--foto4--20250401--115740.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:30:03",
+  "observacoes": null
+}

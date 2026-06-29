@@ -1,0 +1,68 @@
+{
+  "obra_id": 229,
+  "autor": "Tom Clancy",
+  "titulo": "Les dents du tigre",
+  "subtitulo": "",
+  "idioma": "Francês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Terrorismo. Segurança. Ação.",
+  "palavras_chave": "clancy dents tigre",
+  "edicao_id": 223,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 602,
+  "peso": 250,
+  "isbn": "9782253116646",
+  "editora": "Le Livre de Poche",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Le xx<sup>e</sup> siècle s’est ouvert sur une ère d’hyperterrorisme. Frapper n’importe où, n’importe quand, tel est le mot d’ordre de nouveaux monstres sans visage et, face à eux, CIA et FBI se sentent désormais impuissants. Pour répondre à cette violence aveugle, il faut un réseau et une force imparables.</p> <p>Le « Campus » est une institution indépendante du pouvoir politique, qui s’appuie sur des agents très spéciaux. La mission de ces jeunes recrues est de neutraliser les terroristes et d’éliminer le moindre élément nocif. Quitte à enfreindre les règles... Mais, déjà, la menace islamiste met à feu et à sang des centres commerciaux sur tout le territoire américain. Le Campus est prêt à intervenir.</p> <p>Ce roman de Tom Clancy est des plus actuels : fondé sur des faits réels et sur une nouvelle génération de héros, dont le fils de Jack Ryan, il mêle fiction et réalité pour notre plus grande... terreur.</p>",
+  "sinopse": "O século XXI começa sob a ameaça do hiperterrorismo, onde novos monstros atacam sem aviso. Com a CIA e o FBI impotentes, surge o 'Campus', uma instituição independente e especializada, cuja missão é neutralizar terroristas e eliminar riscos. No entanto, a ação da ameaça islamista já provoca sangue e caos em centros comerciais nos EUA, e o Campus não pode hesitar em intervir.",
+  "exemplar_id": 222,
+  "sku": "LI005Q",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/tom-clancy--les-dents-du-tigre--capa--20250226--133808.jpg",
+  "contracapa": "static/uploads/tom-clancy--les-dents-du-tigre--contracapa--20250226--133808.jpg",
+  "fotos": [
+    "static/uploads/tom-clancy--les-dents-du-tigre--foto1--20250226--133808.jpg",
+    "static/uploads/tom-clancy--les-dents-du-tigre--foto2--20250226--133808.jpg",
+    "static/uploads/tom-clancy--les-dents-du-tigre--foto3--20250226--133808.jpg",
+    "static/uploads/tom-clancy--les-dents-du-tigre--foto4--20250226--133808.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:30:27",
+  "observacoes": null
+}

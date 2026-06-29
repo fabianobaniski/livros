@@ -1,0 +1,63 @@
+{
+  "obra_id": 3194,
+  "autor": "Odília Fachin",
+  "titulo": "Fundamentos de metodologia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "",
+  "palavras_chave": "fachin fundamentos metodologia",
+  "edicao_id": 3174,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 200,
+  "peso": 250,
+  "isbn": "9788502032743",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Destinado a estudantes e pesquisadores, este livro oferece uma base sólida em metodologia científica, abordando desde a elaboração de projetos de pesquisa até a estruturação de trabalhos acadêmicos conforme as normas da ABNT. Relacionando métodos científicos, lógica e teoria do conhecimento, a obra é prática e didática, ideal para iniciantes na pesquisa e para o desenvolvimento de monografias, teses e artigos científicos...",
+  "exemplar_id": 3173,
+  "sku": "LI022Q",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/odilia-fachin--fundamentos-de-metodologia--capa--20260316--202504.jpg",
+  "contracapa": "static/uploads/odilia-fachin--fundamentos-de-metodologia--contracapa--20260316--202504.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado (vide fotos), tendo, apenas, discretos sinais de uso e da passagem dos anos. Papel levemente pigmentado.  Dedicatória na primeira folha. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:19:46",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 790,
+  "autor": "Alderi Souza de Matos; Hermisten Maia Pereira da Costa",
+  "titulo": "Cristo e a cruz",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Cristianismo. História.",
+  "palavras_chave": "souza cristo cruz",
+  "edicao_id": 775,
+  "encadernacao": null,
+  "quantidade_paginas": 112,
+  "peso": 180,
+  "isbn": "9788576220985",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A morte na cruz, amplamente praticada por diversos povos na Antiguidade, é considerada uma das mais dolorosas de todas; essa forma de condenação, dependendo da resistência das vítimas, podia durar dias.</p><p>Começando como um símbolo de desprezo, com o passar do tempo a cruz adquiriu grande valor para a piedade, a liturgia e a teologia cristãs. Os atos livres dos homens concorrem de uma forma ou de outra, para a execução do Plano de Deus. Os homens mataram a Jesus Cristo, entretanto, eles cumpriram livremente a vontade divina.</p><p>O Dr. Rev. Alderi Souza de Matos, doutor em Teologia pela Boston School of Theology, é pastor, escritor e professor no Centro Presbiteriano de Pós-Graduação Andrew Jumper. O Dr. Rev. Hermisten Maia Pereira da Costa, mestre e doutor em Ciências da Religião pela Universidade Metodista de São Paulo, é pastor, escritor e professor em diversas instituições de ensino superior.</p>",
+  "sinopse": "A morte na cruz é abordada como uma prática dolorosa na Antiguidade, que evoluiu de um símbolo de desprezo para um elemento central da fé cristã. O livro descreve como os atos humanos, neste contexto, se entrelaçam com o plano divino de Deus, especialmente na crucificação de Jesus Cristo, ressaltando a liberdade dos atos humanos em cumprimento da vontade divina.",
+  "exemplar_id": 774,
+  "sku": "LI00KX",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/alderi-souza-de-matos--cristo-e-a-cruz--capa--20250227--152904.jpg",
+  "contracapa": "static/uploads/alderi-souza-de-matos--cristo-e-a-cruz--contracapa--20250227--152904.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:02:34",
+  "observacoes": null
+}

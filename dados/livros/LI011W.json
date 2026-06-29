@@ -1,0 +1,68 @@
+{
+  "obra_id": 1866,
+  "autor": "José Carlos Franco de Abreu Filho; Cristóvão Pereira de Souza; Danilo Amerio Gonçalves; Marcus Vinicius Quintella Cury",
+  "titulo": "Finanças corporativas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Finanças corporativas. Crescimento profissional.",
+  "palavras_chave": "abreu financeiras corporativas",
+  "edicao_id": 1846,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 151,
+  "peso": 210,
+  "isbn": "9788522506750",
+  "editora": "FGV",
+  "numero_edicao": 10,
+  "ano": 2008,
+  "serie": "Série Gestão Empresarial",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os livros da <b>Série Gestão Empresarial</b> das Publicações FGV Management visam atender à demanda por profissionais cada vez mais preparados para responder aos desafios do mercado.</p><p>Pela base conceitual que os sustenta, esses livros oferecem a estudantes, gestores e técnicos – a todos, enfim, que têm internalizado o conceito de educação continuada, tão relevante nesta era do conhecimento – ferramentas indispensáveis ao seu crescimento profissional.</p>",
+  "sinopse": "Os livros da Série Gestão Empresarial das Publicações FGV Management têm como objetivo preparar profissionais para os desafios do mercado, fornecendo uma base conceitual sólida. Destinados a estudantes, gestores e técnicos, estes livros são ferramentas essenciais para quem valoriza a educação continuada e busca crescimento profissional em uma era orientada pelo conhecimento.",
+  "exemplar_id": 1845,
+  "sku": "LI011W",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--carlos-franco-de-abreu-filho--finan-as-corporativas--capa--20250430--104251.jpg",
+  "contracapa": "static/uploads/jos--carlos-franco-de-abreu-filho--finan-as-corporativas--contracapa--20250430--104251.jpg",
+  "fotos": [
+    "static/uploads/jos--carlos-franco-de-abreu-filho--finan-as-corporativas--foto1--20250430--104251.jpg",
+    "static/uploads/jos--carlos-franco-de-abreu-filho--finan-as-corporativas--foto2--20250430--104251.jpg",
+    "static/uploads/jos--carlos-franco-de-abreu-filho--finan-as-corporativas--foto3--20250430--104251.jpg",
+    "static/uploads/jos--carlos-franco-de-abreu-filho--finan-as-corporativas--foto4--20250430--104251.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:03:43",
+  "observacoes": "procedencia_biblioteca"
+}

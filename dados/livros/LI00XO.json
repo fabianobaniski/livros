@@ -1,0 +1,68 @@
+{
+  "obra_id": 1685,
+  "autor": "Greg Behrendt; Liz Tuccillo",
+  "titulo": "Ele simplesmente não está a fim de você",
+  "subtitulo": "Entenda os homens sem desculpas",
+  "idioma": "Português",
+  "categoria": "Comportamento",
+  "temas": "Relacionamentos. Autoconhecimento.",
+  "palavras_chave": "behrendt tuccillo fim voce",
+  "edicao_id": 1665,
+  "encadernacao": null,
+  "quantidade_paginas": 170,
+  "peso": 250,
+  "isbn": "9788532518545",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Você que é esperta, bonita, bem resolvida e não tem tempo a perder com caras que não valem a pena, tem agora uma importante arma em suas mãos. Os roteiristas da premiada série televisiva <i>Sex and the City</i>, Greg Behrendt e Liz Tuccillo, escreveram com muita sabedoria e bom humor um guia que entrega todas as táticas que os homens costumam usar quando não têm coragem de dar um fora numa garota.</p><p>Aqui estão todos os toques necessários para descolar alguém que saiba reconhecer o quanto você é incrível!</p>",
+  "sinopse": "O livro oferece um guia prático para mulheres modernas que desejam entender os homens. Com humor e sabedoria, os autores compartilham táticas e estratégias que os homens costumam usar para evitar relacionamentos, ajudando as leitoras a perceberem seu próprio valor e a não perderem tempo com aqueles que não são sinceros.",
+  "exemplar_id": 1664,
+  "sku": "LI00XO",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/greg-behrendt--ele-simplesmente-n-o-est--a-fim-de-voc---capa--20250401--115805.jpg",
+  "contracapa": "static/uploads/greg-behrendt--ele-simplesmente-n-o-est--a-fim-de-voc---contracapa--20250401--115805.jpg",
+  "fotos": [
+    "static/uploads/greg-behrendt--ele-simplesmente-n-o-est--a-fim-de-voc---foto1--20250401--115805.jpg",
+    "static/uploads/greg-behrendt--ele-simplesmente-n-o-est--a-fim-de-voc---foto2--20250401--115805.jpg",
+    "static/uploads/greg-behrendt--ele-simplesmente-n-o-est--a-fim-de-voc---foto3--20250401--115805.jpg",
+    "static/uploads/greg-behrendt--ele-simplesmente-n-o-est--a-fim-de-voc---foto4--20250401--115805.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:04:02",
+  "observacoes": null
+}

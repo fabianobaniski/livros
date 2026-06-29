@@ -1,0 +1,68 @@
+{
+  "obra_id": 1925,
+  "autor": "Vicente de Paula Faleiros",
+  "titulo": "Metodologia e ideologia do trabalho social",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Serviço social. Metodologia. Ideologia. Relações sociais. Intervenção profissional.",
+  "palavras_chave": "faleiros metodologia ideologia trabalho social",
+  "edicao_id": 1905,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 141,
+  "peso": 185,
+  "isbn": "9788524903892",
+  "editora": "Cortez",
+  "numero_edicao": 12,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro é uma das contribuições mais importantes ao movimento de reconceituação do Serviço Social latino-americano.</p><p>Nesta edição brasileira, preparada pelo próprio autor, o texto original espanhol foi minuciosamente revisto, modificado e ampliado.</p><p>Os capítulos sobre ideologia, metodologia, objeto e estratégias do Serviço Social foram acrescidos de um trabalho que analisa as grandes correntes teóricas da profissão nesta última década.</p><p>O livro não fica no criticismo vazio, mas oferece alternativas ao trabalho institucional-profissional de assistentes sociais, educadores, médicos, psicólogos e outros interessados nas “relações sociais” enquanto campo de intervenção.</p>",
+  "sinopse": "Livro fundamental para o movimento de reconceituação do Serviço Social latino-americano, apresenta uma edição brasileira revisada e ampliada pelo autor. Analisa ideologia, metodologia, objeto e estratégias do Serviço Social, assim como as principais correntes teóricas da profissão na última década. Oferece alternativas práticas ao trabalho de assistentes sociais e profissionais interessados nas relações sociais como campo de intervenção.",
+  "exemplar_id": 1904,
+  "sku": "LI013J",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/vicente-de-paula-faleiros--metodologia-e-ideologia-do-trabalho-social--capa--20250430--104301.jpg",
+  "contracapa": "static/uploads/vicente-de-paula-faleiros--metodologia-e-ideologia-do-trabalho-social--contracapa--20250430--104301.jpg",
+  "fotos": [
+    "static/uploads/vicente-de-paula-faleiros--metodologia-e-ideologia-do-trabalho-social--foto1--20250430--104301.jpg",
+    "static/uploads/vicente-de-paula-faleiros--metodologia-e-ideologia-do-trabalho-social--foto2--20250430--104302.jpg",
+    "static/uploads/vicente-de-paula-faleiros--metodologia-e-ideologia-do-trabalho-social--foto3--20250430--104302.jpg",
+    "static/uploads/vicente-de-paula-faleiros--metodologia-e-ideologia-do-trabalho-social--foto4--20250430--104302.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:53:13",
+  "observacoes": "procedencia_biblioteca"
+}

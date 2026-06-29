@@ -1,0 +1,63 @@
+{
+  "obra_id": 2960,
+  "autor": "Conan Doyle",
+  "titulo": "Um estudo em vermelho / O signo dos quatro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "doyle estudo vermelho signo",
+  "edicao_id": 2940,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 250,
+  "peso": 350,
+  "isbn": "",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Arthur Conan Doyle, nascido em 1859, é mundialmente reconhecido por criar o icônico detetive Sherlock Holmes. Formado em medicina, ele lançou seu primeiro romance de Holmes, Um Estudo em Vermelho, em 1887, revolucionando o gênero policial com histórias ricas em dedução lógica e observação. Seus contos, como O Sinal dos Quatro e As Aventuras de Sherlock Holmes, ganharam popularidade na revista *Strand Magazine*. Inspirado por Edgar Allan Poe, Doyle consolidou o detetive como herói romântico da ciência e da lógica. Ele faleceu em 1930, deixando um legado imortal.",
+  "exemplar_id": 2939,
+  "sku": "LI01W8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/um-estudo-em-vermelho--o-signo-dos-quatro-conan-doyle-capa_rev2065.jpg",
+  "contracapa": "static/uploads/um-estudo-em-vermelho--o-signo-dos-quatro-conan-doyle-contracapa_rev1439.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro amarelado pelo tempo, com pequenos desgastes decorrentes do uso, mas, em geral, bem conservado. Sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:35:48",
+  "observacoes": null
+}

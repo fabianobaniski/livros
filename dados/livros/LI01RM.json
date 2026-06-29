@@ -1,0 +1,63 @@
+{
+  "obra_id": 2794,
+  "autor": "Vladimir Maiakowski",
+  "titulo": "O percevejo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Teatro",
+  "temas": "",
+  "palavras_chave": "vladimir maiakowski o percevejo",
+  "edicao_id": 2774,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 119,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Editorial Presença",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2773,
+  "sku": "LI01RM",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/o-percevejo-vladimir-maiakowski-capa_rev651.jpg",
+  "contracapa": "static/uploads/o-percevejo-vladimir-maiakowski-contracapa_rev1448.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso, marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:34:22",
+  "observacoes": null
+}

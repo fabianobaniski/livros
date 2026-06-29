@@ -1,0 +1,63 @@
+{
+  "obra_id": 2860,
+  "autor": "Kátia Devino",
+  "titulo": "Portinari, poeta ocasional",
+  "subtitulo": "Um diálogo entre a pintura e a poesia",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "devino portinari poeta ocasional",
+  "edicao_id": 2840,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 130,
+  "peso": 300,
+  "isbn": "9788559681543",
+  "editora": "Gramma",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra explora a arte de Portinari, tanto em sua pintura quanto em seus poemas, projetando-o em um universo épico que celebra a saga do povo brasileiro. Ao designar Portinari como poeta ocasional, o texto destaca a importância de sua produção poética, ainda que esporádica e despretensiosa, no contexto da modernidade brasileira. Estabelecendo um diálogo entre seus versos e suas pinturas, a análise revela como a brasilidade moderna se expressa e circula entre essas duas linguagens artísticas, unindo o passado e o presente histórico do artista.",
+  "exemplar_id": 2839,
+  "sku": "LI01TG",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/portinari-poeta-ocasional-katia-devino-capa_rev1118.jpg",
+  "contracapa": "static/uploads/portinari-poeta-ocasional-katia-devino-contracapa_rev297.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:08:39",
+  "observacoes": null
+}

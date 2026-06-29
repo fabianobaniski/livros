@@ -1,0 +1,68 @@
+{
+  "obra_id": 1966,
+  "autor": "Edivaldo M. Boaventura",
+  "titulo": "Metodologia da pesquisa",
+  "subtitulo": "Monografia, dissertação, tese",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Metodologia científica. Pesquisa acadêmica. Elaboração de monografia. dissertação e tese.",
+  "palavras_chave": "boaventura metodologia pesquisa monografia dissertacao tese",
+  "edicao_id": 1946,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 160,
+  "peso": 345,
+  "isbn": "9788522436972",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>METODOLOGIA DA PESQUISA<br>Monografia – Dissertação – Tese</b><p>Esta obra resulta da experiência do autor no ensino da disciplina Metodologia da Pesquisa em universidades baianas e da aprendizagem da investigação científica nos cursos de mestrado e doutorado na Pennsylvania State University (EUA).</p><p>Como um manual para elaboração de projetos e relatórios de pesquisas, enfatiza três elementos fundamentais na proposta de dissertação e tese: definição do problema, fundamentação teórica e metodologia.</p><p>O livro foi planejado em três partes. Na primeira, enfoca a proposta da dissertação, centrada na definição do problema, revisão da literatura e procedimentos metodológicos. Na segunda, o processo da pesquisa discute algumas metodologias mais usuais, como a bibliografia, documental, método histórico e estudo de caso. Na última, fecha-se o ciclo do processo investigativo com o relatório da monografia, dissertação ou tese, quando se discute o plano da dissertação e sua redação.</p><b>APLICAÇÃO</b><p>Livro-texto para as disciplinas METODOLOGIA DA PESQUISA, METODOLOGIA DO TRABALHO CIENTÍFICO e PROJETO DE PESQUISA dos cursos de graduação (bacharelado/licenciatura) e de pós-graduação (especialização, mestrado e doutorado) em Administração, Comunicação, Ciências Contábeis, Direito, Economia e Educação.</p>",
+  "sinopse": "O livro apresenta um manual completo para elaboração de projetos e relatórios de pesquisa, focando na definição do problema, fundamentação teórica e metodológica. Estruturado em três partes, aborda desde a proposta de dissertação e seus métodos até o relatório final, sendo indicado como livro-texto para disciplinas de graduação e pós-graduação em diversas áreas do conhecimento.",
+  "exemplar_id": 1945,
+  "sku": "LI014O",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--capa--20250430--104309.jpg",
+  "contracapa": "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--contracapa--20250430--104309.jpg",
+  "fotos": [
+    "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--foto1--20250430--104309.jpg",
+    "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--foto2--20250430--104309.jpg",
+    "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--foto3--20250430--104309.jpg",
+    "static/uploads/edivaldo-m--boaventura--metodologia-da-pesquisa--foto4--20250430--104309.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:52:07",
+  "observacoes": "procedencia_biblioteca"
+}

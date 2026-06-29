@@ -1,0 +1,63 @@
+{
+  "obra_id": 5570,
+  "autor": "Unita Yumi",
+  "titulo": "Usagi Drop",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura. Família. Adoção.",
+  "palavras_chave": "unita usagi drop",
+  "edicao_id": 5545,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 212,
+  "peso": 320,
+  "isbn": "9788583620624",
+  "editora": "NewPop",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>No funeral de seu avô, o solteirão Daikichi Kawachi acaba descobrindo que o velho tinha uma amante e, mais ainda, juntos tiveram uma filha, a pequena Rin! O resto da família fica chocada e ninguém pretende ser responsável pela menina, irado com o descaso familiar, Daikichi resolve tomar a guarda da garota e passa a cuidar dela sozinho. Mas criar uma criança não é trabalho fácil e ele passa a repensar sua vida e – mais ainda – considerar os sacrifícios que fará pelo bem da Rin.</p><p>Sucesso no Japão, a história foi adaptada para uma série animada e ganhou também uma adaptação para o cinema.</p>",
+  "sinopse": "Após o funeral de seu avô, Daikichi Kawachi descobre que seu avô tinha uma amante e uma filha chamada Rin. Daikichi decide cuidar de Rin sozinho, enfrentando desafios ao repensar sua vida e aceitar os sacrifícios necessários para o bem-estar de Rin. A história, que foi um sucesso no Japão, se tornou uma série animada e um filme.",
+  "exemplar_id": 5544,
+  "sku": "LI02ZV",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/usagi-drop__unita-yumi__capa__2026-02-24_13-36-32-386598-000.jpg",
+  "contracapa": "static/uploads/usagi-drop__unita-yumi__contracapa__2026-02-24_13-36-32-421252-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

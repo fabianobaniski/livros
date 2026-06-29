@@ -1,0 +1,68 @@
+{
+  "obra_id": 3453,
+  "autor": "Yoshihiro Togashi",
+  "titulo": "Level E",
+  "subtitulo": "Um alien na Terra",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Vida alienígena. Encontros extraterrestres.",
+  "palavras_chave": "togashi level alien terra",
+  "edicao_id": 3430,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 190,
+  "isbn": "9788577876471",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3429,
+  "sku": "LI029S",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/level-e__um-alien-na-terra__yoshihiro-togashi__capa__2025-11-05_16-15-28-763770.jpg",
+  "contracapa": "static/uploads/level-e__um-alien-na-terra__yoshihiro-togashi__contracapa__2025-11-05_16-15-28-794201.jpg",
+  "fotos": [
+    "static/uploads/level-e__um-alien-na-terra__yoshihiro-togashi__foto-01__2025-11-05_16-15-28-821072.jpg",
+    "static/uploads/level-e__um-alien-na-terra__yoshihiro-togashi__foto-02__2025-11-05_16-15-28-848825.jpg",
+    "static/uploads/level-e__um-alien-na-terra__yoshihiro-togashi__foto-03__2025-11-05_16-15-28-871161.jpg",
+    "static/uploads/level-e__um-alien-na-terra__yoshihiro-togashi__foto-04__2025-11-05_16-15-28-894110.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:00:52",
+  "observacoes": null
+}

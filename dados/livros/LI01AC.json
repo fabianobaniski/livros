@@ -1,0 +1,68 @@
+{
+  "obra_id": 2171,
+  "autor": "José Matias-Pereira",
+  "titulo": "Manual de metodologia da pesquisa científica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Metodologia científica. Pesquisa acadêmica. Ciências sociais. Administração. Economia. Contabilidade.",
+  "palavras_chave": "matiaspereira manual metodologia pesquisa cientifica",
+  "edicao_id": 2151,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 151,
+  "peso": 515,
+  "isbn": "9788522448517",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A teoria e método devem ser entendidos como áreas interdependentes. Ambos – teoria e método – buscam realizar o objetivo da pesquisa, oferecendo resposta ao problema que suscitou investigação. Sem desconsiderar a relação teoria/método, este livro elege o método como prioridade neste trabalho, buscando colocá-lo à disposição do pesquisador.</p><p>Assim, o livro é um guia elaborado para fins didáticos, que, em sua forma e conteúdo, especialmente para os alunos dos cursos de educação a distância, apresenta os principais conceitos da metodologia da pesquisa, suas etapas e instruções para auxiliar os alunos, professores e pesquisadores na produção de um trabalho científico: monografia, dissertação e tese de doutoramento.</p><p>Sua elaboração baseou-se em obras reconhecidas sobre o assunto, respeitando as normas da Associação Brasileira de Normas Técnicas (ABNT) para publicações científicas. O autor preocupou-se, em especial, a partir dos principais elementos de um projeto de pesquisa, que o esforço do pesquisador resulte num trabalho de boa qualidade, agregando conhecimento no campo de estudo das Ciências Sociais, em especial em Administração, Economia e Contabilidade.</p><b>APLICAÇÃO</b><br><p>Livro-texto para a disciplina METODOLOGIA DA PESQUISA CIENTÍFICA dos cursos de Administração, Economia e Ciências Contábeis. Leitura complementar para os cursos de Sociologia, Ciências Políticas e Pedagogia.</p>",
+  "sinopse": "Este livro apresenta um guia didático sobre metodologia da pesquisa científica, abordando conceitos principais, etapas e instruções para a elaboração de monografias, dissertações e teses. Com base em normas da ABNT e voltado para alunos de Administração, Economia e Ciências Contábeis, a obra também é indicada como leitura complementar para cursos de Sociologia, Ciências Políticas e Pedagogia, oferecendo suporte teórico-metodológico para a realização de pesquisas de qualidade.",
+  "exemplar_id": 2150,
+  "sku": "LI01AC",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/jos--matias-pereira--manual-de-metodologia-da-pesquisa-cient-fica--capa--20250430--104919.jpg",
+  "contracapa": "static/uploads/jos--matias-pereira--manual-de-metodologia-da-pesquisa-cient-fica--contracapa--20250430--104919.jpg",
+  "fotos": [
+    "static/uploads/jos--matias-pereira--manual-de-metodologia-da-pesquisa-cient-fica--foto1--20250430--104919.jpg",
+    "static/uploads/jos--matias-pereira--manual-de-metodologia-da-pesquisa-cient-fica--foto2--20250430--104919.jpg",
+    "static/uploads/jos--matias-pereira--manual-de-metodologia-da-pesquisa-cient-fica--foto3--20250430--104919.jpg",
+    "static/uploads/jos--matias-pereira--manual-de-metodologia-da-pesquisa-cient-fica--foto4--20250430--104919.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:40:39",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3143,
+  "autor": "Luís Miguel Pereira",
+  "titulo": "Missão Benfica",
+  "subtitulo": "Luís Filipe Vieira",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": null,
+  "palavras_chave": "pereira missao benfica luis",
+  "edicao_id": 3123,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 350,
+  "isbn": "9789896551469",
+  "editora": "Prime Books",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "O livro relata a transformação do clube Benfica desde a chegada do presidente Luís Filipe Vieira. A narrativa começa com um episódio emblemático de 2003, destacando as condições precárias do clube na época, como a falta de infraestrutura adequada. A obra documenta a reconstrução do Benfica, abordando melhorias nas instalações, incluindo o novo estádio e o centro de treinamento. O autor compartilha suas observações pessoais e revela detalhes desconhecidos sobre a evolução do clube, evidenciando o trabalho árduo e as mudanças...",
+  "exemplar_id": 3122,
+  "sku": "LI021B",
+  "preco_estante_virtual": 42.5,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Miolo seminovo: sem folhas soltas, papel sem manchas, texto livre de anotações e sublinhados. Lombada alinhada.  Sem vestígios de umidade, sol excessivo, mofo ou traça. Possui marquinha de raspagem na capa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:03:58",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

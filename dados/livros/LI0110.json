@@ -1,0 +1,68 @@
+{
+  "obra_id": 1834,
+  "autor": "Abelardo de Lima Puccini; Adriana Puccini",
+  "titulo": "Matemática Financeira objetiva e aplicada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Matemática financeira. Educação financeira. Aplicações práticas. Calculadora financeira. Excel.",
+  "palavras_chave": "puccini matematica financeira objetiva aplicada",
+  "edicao_id": 1814,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 184,
+  "peso": 370,
+  "isbn": "9788502054929",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro apresenta os principais conceitos da matemática financeira, de forma objetiva e com uma abordagem simples e prática.<br>Os procedimentos para a utilização da calculadora HP-12C e da planilha eletrônica Excel são demonstrados passo a passo, priorizando o desenvolvimento natural do raciocínio por parte do leitor.<br>Traz, ainda, mais de 120 exemplos propostos e resolvidos, que ilustram as diferentes utilidades da matemática financeira no nosso cotidiano: cálculo de juros de crediários, operações de leasing, rentabilidade de títulos, valor das prestações de um financiamento, escolha da melhor opção de investimento etc.</p><b>Aplicação:</b><br>Este livro pode ser utilizado na seguinte disciplina: Matemática Financeira.<br><br>Conheça o site do livro e as demais novidades do nosso catálogo no endereço:<br><b>www.saraivauni.com.br</b>",
+  "sinopse": "O livro apresenta os principais conceitos da matemática financeira de maneira objetiva, simples e prática. Ensina a utilizar a calculadora HP-12C e o Excel com instruções passo a passo e incentiva o desenvolvimento do raciocínio do leitor. Com mais de 120 exemplos resolvidos, aborda aplicações como cálculo de juros, operações de leasing, rentabilidade de títulos e financiamentos, ajudando na escolha das melhores opções de investimento e pode ser utilizado na disciplina de Matemática Financeira.",
+  "exemplar_id": 1813,
+  "sku": "LI0110",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--capa--20250430--102954.jpg",
+  "contracapa": "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--contracapa--20250430--102954.jpg",
+  "fotos": [
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto1--20250430--102954.jpg",
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto2--20250430--102954.jpg",
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto3--20250430--102954.jpg",
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto4--20250430--102954.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:20:30",
+  "observacoes": "procedencia_biblioteca"
+}

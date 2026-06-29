@@ -1,0 +1,68 @@
+{
+  "obra_id": 5821,
+  "autor": "Desconhecido",
+  "titulo": "Contos de fadas coreanos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Contos populares. Folclore coreano. Literatura asiática.",
+  "palavras_chave": "contos fadas coreanos",
+  "edicao_id": 5796,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 232,
+  "peso": 310,
+  "isbn": "9786555615524",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Lar dos Genii<br>[*]<br>Uma História De Raposa<br>[*]<br>Um Remédio Milagroso<br>[*]<br>A Donzela Valente<br>[*]<br>Casas Mal-Assombradas<br>[*]<br>entre outros...</p>",
+  "sinopse": "Esta coletânea apresenta contos tradicionais coreanos, trazendo histórias como O Lar dos Genii, Uma História de Raposa, Um Remédio Milagroso, A Donzela Valente e Casas Mal-Assombradas, entre outros. Os relatos exploram temas fantásticos e elementos do folclore coreano, oferecendo uma imersão na rica cultura do país.",
+  "exemplar_id": 5795,
+  "sku": "LI036U",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 33.0,
+  "capa": "static/uploads/contos-de-fadas-coreanos__none__none__capa__2026-01-18_14-12-00-083596-000.png",
+  "contracapa": "static/uploads/contos-de-fadas-coreanos__none__none__contracapa__2026-01-18_14-12-00-103248-001.png",
+  "fotos": [
+    "static/uploads/contos-de-fadas-coreanos__none__none__foto-01__2026-01-18_14-12-00-121654-002.jpg",
+    "static/uploads/contos-de-fadas-coreanos__none__none__foto-02__2026-01-18_14-12-00-160609-003.jpg",
+    "static/uploads/contos-de-fadas-coreanos__none__none__foto-03__2026-01-18_14-12-00-209840-004.jpg",
+    "static/uploads/contos-de-fadas-coreanos__none__none__foto-04__2026-01-18_14-12-00-251424-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:01:55",
+  "observacoes": null
+}

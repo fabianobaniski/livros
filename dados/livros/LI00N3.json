@@ -1,0 +1,63 @@
+{
+  "obra_id": 869,
+  "autor": "Ignacio Larrañaga",
+  "titulo": "Encontro",
+  "subtitulo": "Manual de oração",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Oração. Evangelização.",
+  "palavras_chave": "larranaga encontro oracao",
+  "edicao_id": 854,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 186,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Folha Artes Gráficas",
+  "numero_edicao": null,
+  "ano": 1984,
+  "serie": "Oficinas de Oração e Vida",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 853,
+  "sku": "LI00N3",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ignacio-larra-aga--encontro--capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/ignacio-larra-aga--encontro--contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:18:40",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2028,
+  "autor": "Eliseu Martins",
+  "titulo": "Contabilidade de custos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Contabilidade de custos. Gestão de custos. Legislação empresarial brasileira.",
+  "palavras_chave": "martins contabilidade custos",
+  "edicao_id": 2008,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 370,
+  "peso": 1100,
+  "isbn": "9788522433605",
+  "editora": "Atlas",
+  "numero_edicao": 9,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>CONTABILIDADE DE CUSTOS</b></p><p>Ajustado às mais recentes evoluções conceituais e às novas tendências de utilização da Contabilidade de Custos para fins decisórios e gerenciais, este texto reúne uma série de características que o diferenciam positivamente da bibliografia disponível.</p><p>A primeira entre essas características é torná-lo particularmente apropriado para a realidade brasileira, uma vez que está voltado para as situações típicas observadas no país, para seus institutos legais, para as condições organizacionais prevalecentes no meio empresarial. Assim, ao tratar dos critérios técnicos e legais relacionados, por exemplo, à contabilização dos custos da mão-de-obra e dos impostos, o texto refere-se explicitamente às condições brasileiras, destacando os principais aspectos relacionados aos encargos sociais existentes no país e aos dois principais tributos indiretos, o ICMS e o IPI. Ademais, foram também consideradas pelo autor as regras implícitas na Lei das Sociedades por Ações relacionadas à operacionalização contábil dos custos.</p><p>Uma segunda característica do texto é a análise dedicada ao uso da Contabilidade de Custos como instrumento para fins gerenciais. Outra característica a destacar é suficiente cuidado à utilização da Contabilidade de Custos para as funções de planejamento e controle, relacionadas ao estabelecimento de padrões, orçamentos e outras formas de previsão, com sua subsequente acompanhamento e análise das variações observadas. Além dos critérios usual dos sistemas de custo-padrão são também desenvolvidos modelos para fixar padrões de custos indiretos por unidade. Finalmente, o texto trata uma variada crítica da implantação de sistemas de custos. A partir de uma abordagem realista, foram destacadas as principais barreiras e reações comportamentais às tentativas de implantação e os custos e benefícios dos diferentes sistemas disponíveis.</p><p><b>NOTA SOBRE O AUTOR</b></p><p>ELISEU MARTINS é professor titular do Departamento de Contabilidade e Atuária da Faculdade de Economia, Administração e Contabilidade da Universidade de São Paulo (FEA/USP). É autor do livro <i>Análise da correção monetária das demonstrações financeiras</i> e co-autor de <i>Contabilidade de custos (Exercícios)</i>, <i>Contabilidade introdutória</i>, <i>Contabilidade intermediária</i>, <i>Manual de contabilidade das sociedades por ações</i>, <i>Administração financeira</i> e <i>Avaliação de empresas: da mensuração contábil à econômica</i>, publicados pela Atlas.</p><p><b>APLICAÇÃO</b></p><p>Livro-texto para a disciplina CONTABILIDADE DE CUSTOS dos cursos de Administração e Ciências Contábeis. Leitura de formação e atualização profissional. Obra de referência para cursos especiais.</p>",
+  "sinopse": "A obra aborda a Contabilidade de Custos com foco nas recentes tendências e na realidade brasileira, considerando aspectos legais, organizacionais e tributários do país. Destaca o uso gerencial da contabilidade de custos para planejamento e controle, com análise detalhada de sistemas de custos, padrões e a implantação em empresas. O livro é recomendado como referência para estudantes e profissionais das áreas de Administração e Ciências Contábeis.",
+  "exemplar_id": 2007,
+  "sku": "LI016D",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/eliseu-martins--contabilidade-de-custos--capa--20250430--104321.jpg",
+  "contracapa": "static/uploads/eliseu-martins--contabilidade-de-custos--contracapa--20250430--104321.jpg",
+  "fotos": [
+    "static/uploads/eliseu-martins--contabilidade-de-custos--foto1--20250430--104321.jpg",
+    "static/uploads/eliseu-martins--contabilidade-de-custos--foto2--20250430--104321.jpg",
+    "static/uploads/eliseu-martins--contabilidade-de-custos--foto3--20250430--104321.jpg",
+    "static/uploads/eliseu-martins--contabilidade-de-custos--foto4--20250430--104321.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:00:25",
+  "observacoes": "procedencia_biblioteca"
+}

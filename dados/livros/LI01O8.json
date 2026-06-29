@@ -1,0 +1,63 @@
+{
+  "obra_id": 2672,
+  "autor": "Vários Autores",
+  "titulo": "Luna Córnea",
+  "subtitulo": "Número 28 - 2004",
+  "idioma": "Espanhol",
+  "categoria": "Fotografia",
+  "temas": "",
+  "palavras_chave": "autores luna cornea numero",
+  "edicao_id": 2652,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 119,
+  "peso": 300,
+  "isbn": "9770188800501",
+  "editora": "Gobierno de México",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A fotografia surgiu em um contexto de grandes avanços industriais e tecnológicos, como o advento do trem e da luz elétrica. Mais do que um mero produto dessas inovações, a fotografia é uma extensão da imaginação humana, refletindo o mundo e seus encantos. Com raízes na magia das luzes e sombras, ela se tornou uma forma de capturar tanto o visível quanto o invisível, tocando em nossos medos e desejos. Desde o daguerreótipo até o digital, a essência da fotografia permanece a mesma: transformar matéria em imagem, criando encantos visuais que suspendem o tempo e revelam o extraordinário.",
+  "exemplar_id": 2651,
+  "sku": "LI01O8",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luna-cornea-varios-autores-capa_rev127.jpg",
+  "contracapa": "static/uploads/luna-cornea-varios-autores-contracapa_rev701.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:36:45",
+  "observacoes": null
+}

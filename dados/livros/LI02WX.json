@@ -1,0 +1,63 @@
+{
+  "obra_id": 5241,
+  "autor": "Boichi",
+  "titulo": "Origin",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Tecnologia. Robôs. Relações humanas.",
+  "palavras_chave": "boichi origin",
+  "edicao_id": 5216,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 210,
+  "isbn": "9786555121056",
+  "editora": "Planet Manga",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 7,
+  "transcricao_contracapa": "<p>Hirose, você se apaixonou por mim, né?</p> <p>As grandes forças políticas da REE acobertaram o ataque robótico que aconteceu em Kyoto. Uma equipe formada pelo conglomerado para analisar os destroços do evento chegou à conclusão de que robôs desconhecidos estão infiltrados na sociedade humana. Enquanto isso, Origin tenta machucar o coração de Mai Hirose, que enfim percebeu seus sentimentos pelo colega.</p>",
+  "sinopse": "As forças políticas da REE encobrem um ataque robótico em Kyoto, mas uma equipe descobre que robôs desconhecidos estão infiltrados na sociedade. Paralelamente, Origin tenta afetar emocionalmente Mai Hirose, que reconhece seus sentimentos pelo colega.",
+  "exemplar_id": 5215,
+  "sku": "LI02WX",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/origin__boichi__capa__2026-02-20_10-32-52-730866-000.png",
+  "contracapa": "static/uploads/origin__boichi__contracapa__2026-02-20_10-32-52-786130-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

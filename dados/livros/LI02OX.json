@@ -1,0 +1,63 @@
+{
+  "obra_id": 4943,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Platinum End",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção. Sobrenatural. Romance.",
+  "palavras_chave": "ohba platinum end",
+  "edicao_id": 4918,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 196,
+  "peso": 180,
+  "isbn": "9788545707271",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 2,
+  "transcricao_contracapa": "<p>Eu serei suas asas, Saki.</p> <p>Mirai foi atingido nas costas por uma flecha vermelha quando estava indo para a cerimônia de abertura do colégio onde estuda. E o atirador era Saki Hanakago, a pessoa por quem o garoto sempre foi apaixonado!! Ao mesmo tempo, Metropoliman continua atrás dos candidatos a Deus e propõe um diálogo com os outros onze escolhidos. O que acontece lá é...?!</p>",
+  "sinopse": "Mirai é atingido por uma flecha vermelha durante uma cerimônia escolar. O atirador, Saki Hanakago, é a garota pela qual Mirai sempre foi apaixonado. Enquanto isso, Metropoliman busca outros candidatos a Deus, propondo um encontro com os onze escolhidos. O que acontecerá a seguir?",
+  "exemplar_id": 4917,
+  "sku": "LI02OX",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__capa__2026-02-20_10-31-17-166246-000.png",
+  "contracapa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__contracapa__2026-02-20_10-31-17-376896-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

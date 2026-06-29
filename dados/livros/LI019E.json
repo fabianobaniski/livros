@@ -1,0 +1,68 @@
+{
+  "obra_id": 2137,
+  "autor": "Osmar Coronado",
+  "titulo": "Contabilidade gerencial básica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Contabilidade gerencial. Controladoria. Administração financeira.",
+  "palavras_chave": "coronado contabilidade gerencial basica",
+  "edicao_id": 2117,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 177,
+  "peso": 350,
+  "isbn": "9788502056824",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Aplicação</b></p><p>O material apresentado neste livro pode ser utilizado como conteúdo programático para as disciplinas de Análise de Demonstrativos Contábeis, Controladoria e Contabilidade Gerencial.</p><p>Entendemos que o conteúdo programático desenvolvido no livro possa atender aos quesitos para bibliografia básica para os cursos de graduação nas disciplinas de Contabilidade Gerencial, Controladoria e Administração Financeira, como também para os cursos de pós-graduação <i>lato sensu</i> e <i>stricto sensu</i>, com a inclusão de outros instrumentos de análise.</p><p>Tanto os aspectos teóricos como os práticos são apresentados em linguagem de fácil compreensão, possibilitando acesso ao gestor não qualificado à área contábil, bastando apenas estar participando da gestão empresarial.</p>",
+  "sinopse": "Este livro reúne conteúdos programáticos voltados para as disciplinas de Análise de Demonstrativos Contábeis, Controladoria e Contabilidade Gerencial, sendo indicado como bibliografia básica para cursos de graduação e pós-graduação na área contábil e administrativa. Aborda aspectos teóricos e práticos de forma acessível, facilitando o entendimento inclusive para gestores não qualificados em contabilidade, com foco na aplicação à gestão empresarial.",
+  "exemplar_id": 2116,
+  "sku": "LI019E",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/osmar-coronado--contabilidade-gerencial-b-sica--capa--20250430--104603.jpg",
+  "contracapa": "static/uploads/osmar-coronado--contabilidade-gerencial-b-sica--contracapa--20250430--104603.jpg",
+  "fotos": [
+    "static/uploads/osmar-coronado--contabilidade-gerencial-b-sica--foto1--20250430--104603.jpg",
+    "static/uploads/osmar-coronado--contabilidade-gerencial-b-sica--foto2--20250430--104603.jpg",
+    "static/uploads/osmar-coronado--contabilidade-gerencial-b-sica--foto3--20250430--104603.jpg",
+    "static/uploads/osmar-coronado--contabilidade-gerencial-b-sica--foto4--20250430--104603.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:10:26",
+  "observacoes": "procedencia_biblioteca"
+}

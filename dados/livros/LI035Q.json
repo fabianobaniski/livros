@@ -1,0 +1,68 @@
+{
+  "obra_id": 5781,
+  "autor": "Jayr Figueiredo de Oliveira; Robson M. Marinho",
+  "titulo": "Liderança",
+  "subtitulo": "Uma questão de competência",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Liderança. Competências profissionais.",
+  "palavras_chave": "oliveira lideranca questao competencia",
+  "edicao_id": 5756,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 358,
+  "peso": 600,
+  "isbn": "9788502052000",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>CONHEÇA O SITE DO LIVRO E AS DEMAIS NOVIDADES DO NOSSO CATÁLOGO NO ENDEREÇO: <br> <b>www.saraivauni.com.br</b></p>",
+  "sinopse": "O livro 'Liderança: Uma questão de competência' reúne diversos autores e especialistas para apresentar diferentes perspectivas e discussões sobre liderança no ambiente organizacional. Organizado por Jayr Figueiredo de Oliveira e Robson M. Marinho, oferece uma abordagem abrangente direcionada principalmente ao público acadêmico e profissional de administração.",
+  "exemplar_id": 5755,
+  "sku": "LI035Q",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/lideranca__uma-questao-de-competencia__jayr-figueiredo-de-oliveira-robson-m-marinho-alberto-sugo-david-w-rausch-edmir-kuazaqui-james-a-tucker-joao-r-barroso-joao-pinheiro-de-b__capa__2026-01-18_14-11-38-970528-000.png",
+  "contracapa": "static/uploads/lideranca__uma-questao-de-competencia__jayr-figueiredo-de-oliveira-robson-m-marinho-alberto-sugo-david-w-rausch-edmir-kuazaqui-james-a-tucker-joao-r-barroso-joao-pinheiro-de-b__contracapa__2026-01-18_14-11-38-995010-001.png",
+  "fotos": [
+    "static/uploads/lideranca__uma-questao-de-competencia__jayr-figueiredo-de-oliveira-robson-m-marinho-alberto-sugo-david-w-rausch-edmir-kuazaqui-james-a-tucker-joao-r-barroso-joao-pinheiro-de-b__foto-01__2026-01-18_14-11-39-089400-002.jpg",
+    "static/uploads/lideranca__uma-questao-de-competencia__jayr-figueiredo-de-oliveira-robson-m-marinho-alberto-sugo-david-w-rausch-edmir-kuazaqui-james-a-tucker-joao-r-barroso-joao-pinheiro-de-b__foto-02__2026-01-18_14-11-39-161447-003.jpg",
+    "static/uploads/lideranca__uma-questao-de-competencia__jayr-figueiredo-de-oliveira-robson-m-marinho-alberto-sugo-david-w-rausch-edmir-kuazaqui-james-a-tucker-joao-r-barroso-joao-pinheiro-de-b__foto-03__2026-01-18_14-11-39-276651-004.jpg",
+    "static/uploads/lideranca__uma-questao-de-competencia__jayr-figueiredo-de-oliveira-robson-m-marinho-alberto-sugo-david-w-rausch-edmir-kuazaqui-james-a-tucker-joao-r-barroso-joao-pinheiro-de-b__foto-04__2026-01-18_14-11-39-307114-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:23:58",
+  "observacoes": "procedencia_biblioteca"
+}

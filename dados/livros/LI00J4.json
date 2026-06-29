@@ -1,0 +1,63 @@
+{
+  "obra_id": 725,
+  "autor": "Augustus Nicodemus",
+  "titulo": "O pentecostes e o crescimento da igreja",
+  "subtitulo": "A extraordinária ação do Espírito Santo em Atos 2",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Crescimento da igreja. Espírito Santo.",
+  "palavras_chave": "nicodemus pentecostes crescimento igreja",
+  "edicao_id": 710,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 120,
+  "peso": 200,
+  "isbn": "9788527507240",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O livro de Atos dos Apóstolos registra como os discípulos de Jesus começaram a cumprir a missão de evangelizar o mundo. Essa missão teve início no Dia de Pentecostes, quando o Espírito Santo de Deus desceu sobre os discípulos para capacitá-los a realizá-la. Após a descida do Espírito, a igreja nascente começou a se expandir com rapidez por todo o mundo. O Pentecostes e o crescimento da igreja procura entender a relação entre a vinda do Espírito Santo e as missões cristãs, e, para alcançar esse objetivo, o autor faz uma exposição de textos selecionados do livro de Atos.</p><p>A importância desta obra reside em três aspectos:</p><p>Primeiro: ela aborda as questões polêmicas relacionadas ao Dia de Pentecostes, desde a questão das línguas até o tema do batismo com o Espírito Santo.</p><p>Segundo: mostra que os princípios revelados em Atos estão relacionados com o crescimento extraordinário da igreja cristã nascente, o que oferece um modelo — com a permissão do termo — para as missões. Esse padrão bíblico é muito necessário em dias como os nossos, nos quais não faltam modelos de cunho pragmático, baseados nas experiências bem-sucedidas das megairrejas.</p><p>Terceiro: é uma obra que se pretende exegética e ao mesmo tempo pastoral e missional, com o objetivo de despertar a igreja de Cristo para a tarefa inacabada de evangelizar o mundo.</p>",
+  "sinopse": "O livro investiga a missão de evangelização iniciada pelos discípulos de Jesus no Dia de Pentecostes, destacando a atuação do Espírito Santo e o crescimento da igreja. Apresenta discussões sobre questões polêmicas, princípios para missões e a necessidade de um modelo bíblico contemporâneo, aliado a uma perspectiva exegética e pastoral que visa despertar a igreja para sua tarefa de evangelizar.",
+  "exemplar_id": 709,
+  "sku": "LI00J4",
+  "preco_estante_virtual": 21.0,
+  "preco_amazon": 21.0,
+  "capa": "static/uploads/augustus-nicodemus--o-pentecostes-e-o-crescimento-da-igreja--capa--20250227--152900.jpg",
+  "contracapa": "static/uploads/augustus-nicodemus--o-pentecostes-e-o-crescimento-da-igreja--contracapa--20250227--152900.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:33:41",
+  "observacoes": null
+}

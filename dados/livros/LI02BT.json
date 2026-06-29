@@ -1,0 +1,68 @@
+{
+  "obra_id": 3526,
+  "autor": "Negi Haruba",
+  "titulo": "As Quíntuplas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Vida escolar. Romance. Comédia romântica.",
+  "palavras_chave": "haruba quintuplas",
+  "edicao_id": 3503,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9786559609536",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 10,
+  "transcricao_contracapa": "<p>A missão de Fuutarou, como professor particular, é guiar as lindas irmãs quíntuplas, à beira da repetência e que odeiam estudar, rumo à formatura. Fuutarou cumpre o desafio imposto pelo pai das quíntuplas e não só consegue ficar entre os dez melhores do país no Exame Nacional, como também evitar que elas tirem notas vermelhas. Dessa forma, ele é reinstituído oficialmente à função de professor particular. Em meio a tudo isso, as garotas passam a agir de forma mais ousada para se aproximarem do rapaz!<br><b>Os fogos de artifício do amor são lançados! Tendo como palco a \"viagem escolar\", a guerra do amor se inicia!!</b></p>",
+  "sinopse": "Fuutarou, professor particular, enfrenta o desafio de conduzir as irmãs quíntuplas, famosas por sua aversão aos estudos, até a formatura. Após atingir os melhores resultados no Exame Nacional, ele é reintegrado à função de tutor. Agora, durante uma viagem escolar, as irmãs tomam atitudes mais ousadas para conquistar seu coração, dando início a uma verdadeira guerra amorosa.",
+  "exemplar_id": 3502,
+  "sku": "LI02BT",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/as-quintuplas__negi-haruba__capa__2025-11-05_16-16-14-292934.jpg",
+  "contracapa": "static/uploads/as-quintuplas__negi-haruba__contracapa__2025-11-05_16-16-14-317837.jpg",
+  "fotos": [
+    "static/uploads/as-quintuplas__negi-haruba__foto-01__2025-11-05_16-16-14-335851.jpg",
+    "static/uploads/as-quintuplas__negi-haruba__foto-02__2025-11-05_16-16-14-362562.jpg",
+    "static/uploads/as-quintuplas__negi-haruba__foto-03__2025-11-05_16-16-14-388743.jpg",
+    "static/uploads/as-quintuplas__negi-haruba__foto-04__2025-11-05_16-16-14-843292.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:45:11",
+  "observacoes": null
+}

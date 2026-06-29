@@ -1,0 +1,68 @@
+{
+  "obra_id": 136,
+  "autor": "Holly Black",
+  "titulo": "Boneca de ossos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Terror.Aventura.",
+  "palavras_chave": "black boneca ossos",
+  "edicao_id": 133,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 221,
+  "peso": 350,
+  "isbn": "9788581633916",
+  "editora": "Novo Conceito",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Ninguém é mais assustador do que Holly Black. <b>Boneca de Ossos</b> vai fazer você dormir com a luz acesa.”<br>(Jeff Kinney, autor da série <i>Diário de um Banana</i>)</p><p>“Um pouquinho de susto, um pouquinho de ternura. Esta história me pegou e não me largou.”<br>(Rebecca Stead, autora premiada de <i>When You Reach Me</i>)</p>",
+  "sinopse": "Poppy, Zach e Alice são melhores amigos de infância que, mesmo entrando na adolescência, ainda se entregam a um elaborado jogo de faz de conta com bonecos e uma boneca chinesa feita de ossos, a Grande Rainha. Quando Poppy revela que o espírito de uma menina morta assombra a boneca e exige que ela seja enterrada no túmulo correto, os três embarcam em uma jornada noturna cheia de mistério, medo e autodescoberta, confrontando tanto fantasmas reais quanto as mudanças que ameaçam separá-los para sempre.",
+  "exemplar_id": 132,
+  "sku": "LI003B",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/holly-black--boneca-de-ossos--capa--20250226--133756.jpg",
+  "contracapa": "static/uploads/holly-black--boneca-de-ossos--contracapa--20250226--133757.jpg",
+  "fotos": [
+    "static/uploads/holly-black--boneca-de-ossos--foto1--20250226--133757.jpg",
+    "static/uploads/holly-black--boneca-de-ossos--foto2--20250226--133757.jpg",
+    "static/uploads/holly-black--boneca-de-ossos--foto3--20250226--133757.jpg",
+    "static/uploads/holly-black--boneca-de-ossos--foto4--20250226--133757.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta carimbo de \"cortesia da editora / venda proibida\"."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:50:13",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1722,
+  "autor": "Antônio Callado",
+  "titulo": "Antônio Callado",
+  "subtitulo": "Literatura Comentada",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "Literatura. Política. História.",
+  "palavras_chave": "callado antonio literatura comentada",
+  "edicao_id": 1702,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 107,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Abril",
+  "numero_edicao": null,
+  "ano": 1982,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Em uma hora de conversa com Francisco Julião na sede das Ligas Camponesas, em Recife, vi-o atender a esses casos pessoais que nem consertam a sociedade e nem ajudam a vida dos políticos. Mas o que se há de fazer quando entra uma cabocla tendo nos braços uma criancinha exausta de chorar e em cuja cabeça há um tumor enorme?\"</p><p>(Tempo de Arraes, Antônio Callado)</p><p>Escritor com sólidas raízes no jornalismo, Antônio Callado transpõe para seus livros a rica vivência adquirida nas andanças de repórter pelo país e exterior. O fato narrado pode ser verídico ou fictício, mas sempre se envolve uma aura de realidade.</p><p>Nos livros-reportagens, como Vietnã do Norte e Tempo de Arraes, Callado não se coloca como simples relator dos acontecimentos, mas semeia aqui e ali atentas considerações que enriquecem o texto. Na ficção, monta em geral os personagens e ações sobre um momento histórico, que pode cruzar fronteiras e recriar os movimentos de Guevara na Bolívia, em Bar Don Juan, ou situar-se aqui mesmo, na perseguição de Quinho aos policiais torturadores-matadores de sua mulher, em Sempreviva. Essa habilidade tem seu grande instante em Quarup, em que Callado consegue amoldar magistralmente o romance à realidade e, ao mesmo tempo, utiliza uma linguagem cambiante na narrativa, incorporando às vezes o próprio linguajar dos personagens.</p><p>Em Antônio Callado, todo um contexto político-social das últimas quatro décadas vem à tona. É um escritor que, a par de romancista, não se furta ao compromisso de expor sensações e dramas da fase em que vive, com a visão crítica de arguto observador da história. Mostrar a vida e a obra de Antônio Callado, situada no mundo em que vivemos, é a tarefa que Literatura Comentada confiou à Lígia Chiappini Moraes Leite, doutora em Letras e professora de Teoria Literária da USP.</p>",
+  "sinopse": "Em Antônio Callado, o contexto político-social das últimas quatro décadas é explorado. O autor, com sólidas raízes no jornalismo, integra suas vivências em seus livros, criando uma aura de realidade. Por meio de considerações e narrativas, ele expõe sensações e dramas, fazendo uma crítica aguda da história ao mostrar a vida e a obra de Callado.",
+  "exemplar_id": 1701,
+  "sku": "LI00Y1",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/ant-nio-callado--ant-nio-callado--capa--20250401--115810.jpg",
+  "contracapa": "static/uploads/ant-nio-callado--ant-nio-callado--contracapa--20250401--115810.jpg",
+  "fotos": [
+    "static/uploads/ant-nio-callado--ant-nio-callado--foto1--20250401--115810.jpg",
+    "static/uploads/ant-nio-callado--ant-nio-callado--foto2--20250401--115810.jpg",
+    "static/uploads/ant-nio-callado--ant-nio-callado--foto3--20250401--115810.jpg",
+    "static/uploads/ant-nio-callado--ant-nio-callado--foto4--20250401--115810.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:15:58",
+  "observacoes": null
+}

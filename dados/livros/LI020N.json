@@ -1,0 +1,63 @@
+{
+  "obra_id": 3119,
+  "autor": "Francisca Chen Ai Liang",
+  "titulo": "Chinese Painting",
+  "subtitulo": "the Complete Self-tutor",
+  "idioma": "Inglês",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "liang chinese painting the",
+  "edicao_id": 3099,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 128,
+  "peso": 450,
+  "isbn": "9780713486995",
+  "editora": "Batsford ( London )",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A pintura chinesa requer uma mistura distinta de tons intrincados, contornos minimalistas e familiaridade com a filosofia e o simbolismo oriental. Este excelente livro, escrito por uma artista chinesa da Malásia, apresenta aos alunos iniciantes, passo a passo, todos os elementos necessários na pintura no autêntico estilo chinês. Mais de 100 ilustrações, muitas delas coloridas.",
+  "exemplar_id": 3098,
+  "sku": "LI020N",
+  "preco_estante_virtual": 42.5,
+  "preco_amazon": null,
+  "capa": "",
+  "contracapa": "",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem preservado possuindo, apenas, discretas marcas de uso e da passem do tempo. Lombada reta, miolo firme sem folhas soltas. Texto livre de sublinhados e anotações. Brochura, tamanho grande, ilustrado, com"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:13:40",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

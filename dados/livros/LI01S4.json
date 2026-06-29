@@ -1,0 +1,63 @@
+{
+  "obra_id": 2812,
+  "autor": "Hermann Hesse",
+  "titulo": "O último verão de Klingsor",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "hesse ultimo verao klingsor",
+  "edicao_id": 2792,
+  "encadernacao": null,
+  "quantidade_paginas": 172,
+  "peso": 300,
+  "isbn": "",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra de Hermann Hesse continua viva na admiração da nova geração por sua força espiritual e crença na liberdade individual. Este livro reúne três contos que demonstram sua importância na criação literária. Em Alma de Criança, Hesse explora o delicado sentimento de culpa de um garoto de 11 anos em relação ao pai. Klein e Wagner traz uma densa narrativa sobre crime, castigo e redenção. O volume encerra com O Último Verão de Klingsor, um retrato vibrante e sensorial dos últimos dias de um pintor expressionista. Essas histórias reafirmam o talento e a sensibilidade do autor.",
+  "exemplar_id": 2791,
+  "sku": "LI01S4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-ultimo-verao-de-klingsor-hermann-hesse-capa_rev1953.jpg",
+  "contracapa": "static/uploads/o-ultimo-verao-de-klingsor-hermann-hesse-contracapa_rev886.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro amarelado pelo tempo e com leves sinais deixados pelo uso, porém, no geral em bom estado. Texto livre de anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:46:14",
+  "observacoes": null
+}

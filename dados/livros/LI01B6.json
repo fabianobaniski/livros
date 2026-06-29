@@ -1,0 +1,68 @@
+{
+  "obra_id": 2201,
+  "autor": "Marco Antonio S. Vasconcellos; Manuel Enriquez Garcia",
+  "titulo": "Fundamentos de Economia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Economia",
+  "temas": "Economia. Ciência econômica. Microeconomia. Macroeconomia. Inflação. Setor público. Crescimento econômico. Desenvolvimento econômico.",
+  "palavras_chave": "vasconcellos fundamentos economia",
+  "edicao_id": 2181,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 292,
+  "peso": 530,
+  "isbn": "9788502067677",
+  "editora": "Saraiva",
+  "numero_edicao": 3,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Fundamentos de Economia</b> é um livro dirigido a estudantes e profissionais das áreas de Ciências Humanas em geral, que fornece uma visão abrangente das principais questões econômicas de nosso tempo.<br><br>Trata-se de um livro introdutório de Economia Aplicada, no qual os autores explicam com clareza e concisão conceitos e problemas econômicos fundamentais, de forma que os estudantes possam ter melhor compreensão da realidade econômica.<br><br>A obra apresenta temas como a evolução da Ciência Econômica, Economia e Direito, Teoria Microeconômica (demanda, oferta, mercado, produção e custos), Política Macroeconômica, Inflação, Setor Público e Crescimento e Desenvolvimento Econômico.<br><br>Com abordagem didática, traz, ainda, exercícios e glossário com os principais verbetes da área.<br><br><b>Aplicação:</b><br>Este livro pode ser utilizado nas seguintes disciplinas: Economia, Fundamentos de Economia.</p>",
+  "sinopse": "Este livro introdutório de Economia Aplicada é direcionado a estudantes e profissionais das Ciências Humanas, oferecendo uma visão ampla das principais questões econômicas atuais. Explica de forma clara e concisa os conceitos e problemas fundamentais da economia. Cobre temas como a evolução da ciência econômica, microeconomia, macroeconomia, inflação, setor público e desenvolvimento econômico. Com abordagem didática, inclui exercícios e glossário, sendo indicado para as disciplinas de Economia e Fundamentos de Economia.",
+  "exemplar_id": 2180,
+  "sku": "LI01B6",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marco-antonio-s--vasconcellos--fundamentos-de-economia--capa--20250430--105056.jpg",
+  "contracapa": "static/uploads/marco-antonio-s--vasconcellos--fundamentos-de-economia--contracapa--20250430--105056.jpg",
+  "fotos": [
+    "static/uploads/marco-antonio-s--vasconcellos--fundamentos-de-economia--foto1--20250430--105056.jpg",
+    "static/uploads/marco-antonio-s--vasconcellos--fundamentos-de-economia--foto2--20250430--105056.jpg",
+    "static/uploads/marco-antonio-s--vasconcellos--fundamentos-de-economia--foto3--20250430--105056.jpg",
+    "static/uploads/marco-antonio-s--vasconcellos--fundamentos-de-economia--foto4--20250430--105056.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:19:25",
+  "observacoes": "procedencia_biblioteca"
+}

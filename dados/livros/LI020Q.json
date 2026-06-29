@@ -1,0 +1,63 @@
+{
+  "obra_id": 3122,
+  "autor": "Michael W. Apple",
+  "titulo": "Ideology and Curriculum",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "apple ideology and curriculum",
+  "edicao_id": 3102,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 203,
+  "peso": 380,
+  "isbn": "0710006861",
+  "editora": "Routledge & Keagan Paul",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "As escolas são as instituições centrais para a reprodução do padrão social, cultural e económico da sociedade. Contudo, muito pouca atenção tem sido dada nos estudos curriculares à necessidade de uma abordagem que investigue o papel ideológico do conhecimento escolar nesta reprodução. Nesta análise, Apple baseia-se no trabalho de Gramsci, Williams, Bourdieu e dos sociólogos britânicos do currículo para iluminar claramente o papel complexo das instituições educativas na criação e perpetuação das condições que sustentam a hegemonia ideológica.",
+  "exemplar_id": 3101,
+  "sku": "LI020Q",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Texto íntegro, sem grifos ou anotações. Contudo, o exemplar está bastante amarelado em decorrência da passagem dos anos. Brochura, 203 páginas.  Em inglês.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Texto íntegro, sem grifos ou anotações. Contudo, o exemplar está bastante amarelado em decorrência da passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:04:31",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

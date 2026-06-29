@@ -1,0 +1,63 @@
+{
+  "obra_id": 774,
+  "autor": "John MacArthur",
+  "titulo": "Filipenses",
+  "subtitulo": "Cristo, fonte de alegria e poder",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Unidade da igreja.",
+  "palavras_chave": "macarthur filipenses",
+  "edicao_id": 759,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788576224051",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "Série Estudos Bíblicos John MacArthur",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os crentes da igreja de Filipos sofriam os ataques de dois adversários do cristianismo: a autosuficiência e a complacência. Escrevendo-lhes esta carta enquanto se achava preso em Roma, Paulo apresentava uma perspectiva única a respeito desses inimigos da fé. É que, mesmo enquanto enfrentava provações terríveis, o apóstolo continuava a encorajar seus irmãos declarando que sua prisão era motivo de alegria.</p> <p>Essa carta incluía também a preocupação de Paulo pela igreja quanto à unidade e falsos mestres. Ele insiste para que mantenham seu compromisso e integridade. Os crentes devem continuar crescendo em Cristo.</p> <p>A Série Estudos Bíblicos John MacArthur oferece roteiros para exame do Novo Testamento com doze unidades semanais, incluindo comentário versículo por versículo e perguntas que estimulam o raciocínio. Excelente para células, grupos familiares, grupos de estudo, classes de escola dominical ou classes de discipulado.</p> <p>John MacArthur é conhecido pastor, professor e autor. Seus muitos títulos incluem Abaixo a ansiedade, A morte de Jesus, Como educar seus filhos segundo a Bíblia, Como obter o máximo da Palavra de Deus, Como ser crente em um mundo de descrentes, Crer é difícil, Criação ou evolução, Doze homens comuns, Doze mulheres notáveis, O Caminho da felicidade, O Poder da integridade, Princípios para uma cosmovisão bíblica, todos desta Editora.</p>",
+  "sinopse": "A carta aos Filipenses aborda os desafios enfrentados pelos crentes da igreja, como a autosuficiência e a complacência, enquanto Paulo, preso em Roma, encoraja-os a encontrar alegria mesmo em meio às tribulações. Ela enfatiza a unidade e a integridade da igreja, reforçando a necessidade de continuar crescendo em Cristo, e oferece orientações práticas para grupos de estudo e ensino.",
+  "exemplar_id": 758,
+  "sku": "LI00KH",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/john-macarthur--filipenses--capa--20250227--152903.jpg",
+  "contracapa": "static/uploads/john-macarthur--filipenses--contracapa--20250227--152903.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro sem danos, ainda lacrado! Veja fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:21:55",
+  "observacoes": null
+}

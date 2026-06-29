@@ -1,0 +1,68 @@
+{
+  "obra_id": 1522,
+  "autor": "Claude Cueni",
+  "titulo": "A grande jogada",
+  "subtitulo": "Romance",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "História. Economia.",
+  "palavras_chave": "cueni grande jogada",
+  "edicao_id": 1503,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 418,
+  "peso": 380,
+  "isbn": "9788501079879",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Jogador talentoso, grande conquistador e matemático extraordinário, John Law foi um dos personagens mais brilhantes do seu tempo. O fascinante romance de Claude Cueni conta a trajetória de um homem que põe sua vida em risco por uma ideia sedutora: a introdução do papel-moeda na economia.</p>",
+  "sinopse": "A história de John Law, um homem de talento e ambição, que se arrisca ao introduzir uma ideia inovadora na economia: o papel-moeda. A obra explora sua trajetória como jogador e conquistador, revelando seu impacto histórico e suas contradições.",
+  "exemplar_id": 1502,
+  "sku": "LI00WO",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/claude-cueni--a-grande-jogada--capa--20250401--115744.jpg",
+  "contracapa": "static/uploads/claude-cueni--a-grande-jogada--contracapa--20250401--115744.jpg",
+  "fotos": [
+    "static/uploads/claude-cueni--a-grande-jogada--foto1--20250401--115744.jpg",
+    "static/uploads/claude-cueni--a-grande-jogada--foto2--20250401--115744.jpg",
+    "static/uploads/claude-cueni--a-grande-jogada--foto3--20250401--115744.jpg",
+    "static/uploads/claude-cueni--a-grande-jogada--foto4--20250401--115744.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:23:09",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2872,
+  "autor": "Agatha Christie",
+  "titulo": "Punição para a inocência",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "christie punicao para inocencia",
+  "edicao_id": 2852,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 260,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Record",
+  "numero_edicao": null,
+  "ano": 1987,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em Punição para a Inocência, Jacko Argyle é condenado por matar sua própria mãe, mas morre na prisão antes de cumprir a sentença. Dois anos depois, novas revelações surgem quando Arthur Calgary aparece com uma prova que pode inocentar Jacko. Isso traz à tona antigos segredos e revive as dores da família Argyle. Se Jacko não foi o culpado, quem cometeu o crime? Agatha Christie constrói uma trama envolvente, onde a busca pela verdade reabre feridas e revela que a inocência pode ser uma punição tão cruel quanto a culpa.",
+  "exemplar_id": 2851,
+  "sku": "LI01TS",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/punicao-para-a-inocencia-agatha-christie-capa_rev852.jpg",
+  "contracapa": "static/uploads/punicao-para-a-inocencia-agatha-christie-contracapa_rev505.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bastante amarelado, mas bem conservado. Capa, contracapa e lombada com leves sinais de uso. Lombada alinhada. Texto sem anotações e grifos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:21:46",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 23,
+  "autor": "Tommy Donbavand",
+  "titulo": "Doctor Who: Mortalha da lamentação",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ficção Científica",
+  "temas": "Ficção Científica. Viagem no Tempo. Doctor Who",
+  "palavras_chave": "donbavand doctor who mortalha lamentacao",
+  "edicao_id": 23,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 300,
+  "isbn": "9788581052649",
+  "editora": "Suma de Letras",
+  "numero_edicao": 1,
+  "ano": 2015,
+  "serie": "Doctor Who",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>23 DE NOVEMBRO DE 1963</b></p><p>É o dia seguinte ao assassinato de John F. Kennedy — e o rosto de pessoas mortas começa a aparecer por toda parte. O guarda Reg Cranfield vê o pai na névoa densa ao longo da estrada Totter Lane. A repórter Mae Callon vê a avó em uma mancha de café na mesa de trabalho. O agente especial do FBI Warren Skeet se depara com seu parceiro falecido há muitos anos olhando para ele através das gotas de chuva no vidro da janela.</p><p>Então os rostos começam a falar e gritar. São as Mortalhas, que se alimentam da tristeza alheia, atacando a Terra. Será que o Doutor conseguirá superar o próprio luto para salvar a humanidade?</p><p>Uma aventura inédita do Décimo Primeiro Doutor e sua companion Clara Oswald — interpretados na tevê por Matt Smith e Jenna-Louise Coleman.</p>",
+  "sinopse": "Após o assassinato de John F. Kennedy, rostos de pessoas mortas começam a aparecer, revelando a presença das Mortalhas, criaturas que se alimentam da tristeza. O Doutor e Clara Oswald precisam enfrentar essa ameaça para salvar a humanidade.",
+  "exemplar_id": 22,
+  "sku": "LI000K",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/tommy-donbavand--doctor-who--mortalha-da-lamenta--o--capa--20250225--164044.jpg",
+  "contracapa": "static/uploads/tommy-donbavand--doctor-who--mortalha-da-lamenta--o--contracapa--20250225--164044.jpg",
+  "fotos": [
+    "static/uploads/tommy-donbavand--doctor-who--mortalha-da-lamenta--o--foto1--20250225--164044.jpg",
+    "static/uploads/tommy-donbavand--doctor-who--mortalha-da-lamenta--o--foto2--20250225--164044.jpg",
+    "static/uploads/tommy-donbavand--doctor-who--mortalha-da-lamenta--o--foto3--20250225--164044.jpg",
+    "static/uploads/tommy-donbavand--doctor-who--mortalha-da-lamenta--o--foto4--20250225--164044.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:32:52",
+  "observacoes": null
+}

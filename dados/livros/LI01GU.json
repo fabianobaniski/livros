@@ -1,0 +1,63 @@
+{
+  "obra_id": 2405,
+  "autor": "Carlos Drummond de Andrade",
+  "titulo": "Boca de luar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Poesia",
+  "temas": "",
+  "palavras_chave": "andrade boca luar",
+  "edicao_id": 2385,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 217,
+  "peso": 382,
+  "isbn": "",
+  "editora": "Record",
+  "numero_edicao": 0,
+  "ano": 1984,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2384,
+  "sku": "LI01GU",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/carlos-drummond-de-andrade--boca-de-luar--capa--20260316--175509.jpg",
+  "contracapa": "static/uploads/carlos-drummond-de-andrade--boca-de-luar--contracapa--20260316--175509.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:54:42",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2444,
+  "autor": "Mohamad Ahmad Abou Fares",
+  "titulo": "Condição da mulher na religião muçulmana",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "fares condicao mulher religiao",
+  "edicao_id": 2424,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 100,
+  "peso": 398,
+  "isbn": "",
+  "editora": "Edição do Autor",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro explora a posição da mulher no Islam, abordando tópicos como seus direitos no Alcorão, poligamia, casamento e divórcio. Ele também analisa as peculiaridades do Profeta Muhammad em relação ao casamento, a estrutura da família muçulmana e as etapas do matrimônio islâmico. Questões como o uso do véu (Al Hijab), adultério e diferenças de gênero são discutidas, além de destacar as mulheres que se destacaram na história islâmica.",
+  "exemplar_id": 2423,
+  "sku": "LI01HW",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/mohamad-ahmad-abou-fares--condicao-da-mulher-na-religiao-muculmana--capa--20260316--185359.jpg",
+  "contracapa": "static/uploads/mohamad-ahmad-abou-fares--condicao-da-mulher-na-religiao-muculmana--contracapa--20260316--185359.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:55:42",
+  "observacoes": null
+}

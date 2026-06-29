@@ -1,0 +1,63 @@
+{
+  "obra_id": 2403,
+  "autor": "Fernando Canale",
+  "titulo": "Basic elements of christian theology",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "canale basic elements christian",
+  "edicao_id": 2383,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 260,
+  "peso": 400,
+  "isbn": "9781490365268",
+  "editora": "Andrews University",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Desde a Reforma, os protestantes seguem o princípio da sola scriptura, vendo a Bíblia como autoridade suprema. Contudo, análises da doutrina cristã revelam influências de pensadores como Agostinho, Aquino, Platão e Aristóteles. Com o tempo, tradições e filosofias humanas alteraram os ensinamentos cristãos, distanciando o cristianismo atual das crenças originais de Cristo. No livro Elementos Básicos da Teologia Cristã: A Escritura Substituindo a Tradição, Fernando Canale investiga as causas dessa distorção.",
+  "exemplar_id": 2382,
+  "sku": "LI01GS",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 70.0,
+  "capa": "static/uploads/fernando-canale--basic-elements-of-christian-theology--capa--20260316--175349.jpg",
+  "contracapa": "static/uploads/fernando-canale--basic-elements-of-christian-theology--contracapa--20260316--175349.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, seminovo. formato padrão, em ótimas condições. Papel sem manchas. Lombada reta. Capa e contracapa sem danos. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:53:43",
+  "observacoes": null
+}

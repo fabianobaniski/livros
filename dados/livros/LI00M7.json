@@ -1,0 +1,63 @@
+{
+  "obra_id": 837,
+  "autor": "Marcelo de Oliveira",
+  "titulo": "Reflexões sobre a vida de Paulo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Vida cristã. Ensino religioso.",
+  "palavras_chave": "oliveira reflexoes vida paulo",
+  "edicao_id": 822,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 83,
+  "peso": 150,
+  "isbn": "9788598172864",
+  "editora": "arteliterária",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Há pelo menos três razões pelas quais o amigo leitor se beneficiará da obra do Pr Marcelo:</p> <p>Em primeiro lugar, trata-se de uma obra concisa sobre a vida e os ensinos de Paulo. Em segundo lugar, deve-se destacar o aspecto prático deste opúsculo. Há muitas obras que chegam às mãos do leitor, mas não conseguem atingir seu coração. Finalmente, é necessário dizer que o autor dá suficiente atenção à escatologia. Nem todos se lembram que a escatologia é a referência teológica principal do Novo Testamento.</p> <p>Todavia, podemos dizer de coração que o maior mérito dessa obra não está nos aspectos acima mencionados. Gostaria de ressaltar que o que faz desse livro uma obra séria, útil e abençoadora em nosso confuso contexto religioso de hoje são duas coisas: o enfoque dado à importância do sofrimento na vida e no ensino de Paulo, e o fato de que o autor termina abordando o que significa ser um homem de Deus.</p> <p>Que Deus multiplique suas bênçãos na vida do amado leitor na apreciação desse rico opúsculo.\"</p>",
+  "sinopse": "Este livro oferece uma reflexão concisa sobre a vida e os ensinamentos do apóstolo Paulo, destacando sua importância no contexto da escatologia e suas aplicações práticas na vida contemporânea. A obra também aborda questões relacionadas ao sofrimento e à verdadeira essência do ser um homem de Deus, proporcionando ao leitor uma compreensão profunda e significativa.",
+  "exemplar_id": 821,
+  "sku": "LI00M7",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/pr--marcelo-de-oliveira--reflex-es-sobre-a-vida-de-paulo--capa--20250227--152907.jpg",
+  "contracapa": "static/uploads/pr--marcelo-de-oliveira--reflex-es-sobre-a-vida-de-paulo--contracapa--20250227--152907.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Com dedicatória na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:40:03",
+  "observacoes": null
+}

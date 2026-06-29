@@ -1,0 +1,63 @@
+{
+  "obra_id": 975,
+  "autor": "Ellen G. White",
+  "titulo": "O grande conflito",
+  "subtitulo": "Acontecimentos que mudarão o seu futuro",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Profecias. Conflito entre o bem e o mal. Questões sociais.",
+  "palavras_chave": "white grande conflito acontecimentos",
+  "edicao_id": 960,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 720,
+  "peso": 700,
+  "isbn": "9788534508957",
+  "editora": "Casa",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Pelo que você vê, lê e ouve, pode achar que no conflito entre o bem e o mal, este último esteja vencendo. As notícias são desanimadoras – violência, fome, guerras, desemprego, poluição, corrupção, doenças, acidentes e muitas outras calamidades.</p> <p>Os meios de comunicação podem lhe dizer o que está acontecendo, mas este livro revela por quê. E diz também o que você jamais ouvirá no noticiário – o que ainda está por acontecer.</p> <p>Partindo do alvorecer da era cristã, este livro retrata a ascensão e queda de nações e poderes religiosos até os nossos dias, e então avança futuro adentro, baseado numa fonte que nunca falhou em suas profecias – as Escrituras Sagradas.</p> <p>Anime-se. A guerra está no fim e você ainda pode escolher de que lado estará quando tudo terminar.</p>",
+  "sinopse": "Este livro investiga o conflito entre o bem e o mal, analisando eventos que moldaram nossa história e que ainda moldarão o futuro. Revela a razão por trás das calamidades que afligem a humanidade e explora profecias bíblicas sobre a ascensão e queda de nações. O leitor é convidado a refletir sobre sua posição neste conflito, com a certeza de que a escolha é sua antes que tudo termine.",
+  "exemplar_id": 959,
+  "sku": "LI00PX",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/ellen-g--white--o-grande-conflito--capa--20250305--151237.jpg",
+  "contracapa": "static/uploads/ellen-g--white--o-grande-conflito--contracapa--20250305--151237.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, ainda lacrado, sem danos!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:17:36",
+  "observacoes": null
+}

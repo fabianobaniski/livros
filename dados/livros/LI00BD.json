@@ -1,0 +1,68 @@
+{
+  "obra_id": 446,
+  "autor": "Rainbow Rowell",
+  "titulo": "Fangirl",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Amadurecimento. Fandom. Relações sociais.",
+  "palavras_chave": "rowell fangirl",
+  "edicao_id": 431,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 421,
+  "peso": 350,
+  "isbn": "9788542803686",
+  "editora": "Novo Século",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "Simon Snow",
+  "volume": null,
+  "transcricao_contracapa": "<p>Cath é fã da série de livros Simon Snow. Ok. Todo mundo é fã de Simon Snow, mas para Cath, ser fã é sua vida - ela é realmente boa nisso. Vive lendo e relendo a série; está sempre atenta aos fóruns; escreve uma <i>fanfic</i> de sucesso; e até se veste igual aos personagens na estreia de cada filme.</p><p>Diferente de sua irmã gêmea, Wren, que ao crescer deixou o <i>fandom</i> de lado, Cath simplesmente não conseguiu se desapegar. Ela não quer isso. Em sua <i>fanfiction</i>, um verdadeiro refúgio, Cath sempre sabe exatamente o que dizer, e pode escrever um romance muito mais intenso do que qualquer coisa que já experienciou na vida real.</p><p>Mas agora que as duas estão indo para a faculdade, e Wren diz que não a quer como companheira de quarto, Cath se vê sozinha e completamente fora de sua zona de conforto.</p><p>Uma nova realidade pode parecer assustadora para uma garota demasiadamente tímida. Mas ela terá de decidir se finalmente está preparada para abrir seu coração para novas pessoas e novas experiências.</p><p>Será que Cath está pronta para começar a viver sua própria vida? Escrever suas próprias histórias?</p>",
+  "sinopse": "Cath é uma fã apaixonada da série Simon Snow e vive imersa nesse universo, escrevendo fanfics de sucesso e sendo parte ativa do fandom. Ao entrar na faculdade, enfrenta a realidade de estar sozinha, sem sua irmã gêmea, e precisa lidar com novos desafios sociais e emocionais. O caminho para descobrir sua voz e viver experiências autênticas se torna essencial para seu amadurecimento.",
+  "exemplar_id": 430,
+  "sku": "LI00BD",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/rainbow-rowell--fangirl--capa--20250226--133829.jpg",
+  "contracapa": "static/uploads/rainbow-rowell--fangirl--contracapa--20250226--133829.jpg",
+  "fotos": [
+    "static/uploads/rainbow-rowell--fangirl--foto1--20250226--133829.jpg",
+    "static/uploads/rainbow-rowell--fangirl--foto2--20250226--133829.jpg",
+    "static/uploads/rainbow-rowell--fangirl--foto3--20250226--133829.jpg",
+    "static/uploads/rainbow-rowell--fangirl--foto4--20250226--133829.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:45:39",
+  "observacoes": null
+}

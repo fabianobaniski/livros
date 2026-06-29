@@ -1,0 +1,68 @@
+{
+  "obra_id": 1962,
+  "autor": "Edelvino Razzolini Filho",
+  "titulo": "Logística empresarial no Brasil",
+  "subtitulo": "Tópicos especiais",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Logística. Sistemas logísticos. Operadores logísticos. Global sourcing.",
+  "palavras_chave": "razzolini logistica empresarial brasil topicos especiais",
+  "edicao_id": 1942,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 207,
+  "peso": 360,
+  "isbn": "9788578387938",
+  "editora": "Ibpex",
+  "numero_edicao": 2,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Principalmente a partir do início do século XXI, a logística passa a ser considerada uma área de extrema importância para as organizações.</p><p>Com isso, este livro trata os aspectos primordiais para o bom funcionamento de sistemas logísticos. Temas como logística de resposta rápida, plataformas logísticas e práticas de global sourcing (preparação dos sistemas logísticos para atuação em mercados globalizados) são abordados de modo que sejam facilmente assimilados pelo público envolvido nessa área.</p><p>Esta obra está estruturada de forma que os assuntos possam ser tratados isoladamente ou em conjunto, possibilitando ao leitor consultar os capítulos na ordem que achar mais conveniente.</p><div><b>O que há de novo nesta edição?</b><ul><li>Recursos de aprendizagem que contribuem para a melhor compreensão da obra.</li><li>Atividades incluídas no término de cada capítulo, com respostas no final do livro.</li><li>Indicações de leituras complementares para reforçar os conhecimentos adquiridos.</li><li>Estudo de caso com questionamentos que estimulam o raciocínio do leitor para resolução de problemas que simulam uma situação real do conteúdo estudado.</li><li>Linguagem dialógica</li><li>Inclusão de um capítulo a respeito de operadores logísticos.</li></ul></div>",
+  "sinopse": "A obra aborda os principais aspectos para o funcionamento eficiente dos sistemas logísticos no Brasil, abordando temas como logística de resposta rápida, plataformas logísticas e práticas de global sourcing. Estruturado para permitir estudo isolado ou integrado dos temas, traz recursos como atividades, leituras complementares, estudos de caso e linguagem dialógica, facilitando a compreensão e aplicação de conceitos pelo leitor. Esta edição destaca ainda um capítulo sobre operadores logísticos e amplia ferramentas didáticas para apoio ao aprendizado.",
+  "exemplar_id": 1941,
+  "sku": "LI014K",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/edelvino-razzolini-filho--log-stica-empresarial-no-brasil--capa--20250430--104308.jpg",
+  "contracapa": "static/uploads/edelvino-razzolini-filho--log-stica-empresarial-no-brasil--contracapa--20250430--104308.jpg",
+  "fotos": [
+    "static/uploads/edelvino-razzolini-filho--log-stica-empresarial-no-brasil--foto1--20250430--104308.jpg",
+    "static/uploads/edelvino-razzolini-filho--log-stica-empresarial-no-brasil--foto2--20250430--104308.jpg",
+    "static/uploads/edelvino-razzolini-filho--log-stica-empresarial-no-brasil--foto3--20250430--104308.jpg",
+    "static/uploads/edelvino-razzolini-filho--log-stica-empresarial-no-brasil--foto4--20250430--104308.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:33:48",
+  "observacoes": "procedencia_biblioteca"
+}

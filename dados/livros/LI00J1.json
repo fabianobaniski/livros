@@ -1,0 +1,63 @@
+{
+  "obra_id": 722,
+  "autor": "John MacArthur",
+  "titulo": "Marcos",
+  "subtitulo": "A humanidade de Cristo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo.",
+  "palavras_chave": "macarthur marcos humanidade",
+  "edicao_id": 707,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 80,
+  "peso": 150,
+  "isbn": "9788576223221",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "Série Estudos Bíblicos John MacArthur",
+  "volume": null,
+  "transcricao_contracapa": "<p>O Evangelho de Marcos, mais do que os outros Evangelhos, nos fornece nítidas imagens da humanidade de Cristo. Nosso Mestre maravilha seus seguidores - os do passado e os seus discípulos de hoje - ao ensinar, curar, realizar milagres, expulsar demônios e ressuscitar mortos. O registro de Marcos mostra Jesus aproveitando cada oportunidade, apesar do ressentimento e perseguição dos seus inimigos, para revelar o extraordinário poder de Deus. Com os escritos de Marcos seguimos a dor, a alegria e a fervorosa dedicação de Jesus, enquanto ele caminha sobre a terra, toca vidas e de modo definitivo derrota o pecado e a morte na cruz e na ressurreição.</p><p>A Série Estudos Bíblicos John MacArthur oferece roteiros para exame do Novo Testamento com doze unidades semanais, incluindo comentário versículo por versículo e perguntas que estimulam o raciocínio.</p><p>John MacArthur é conhecido pastor, professor e autor. Seus muitos títulos incluem Abaixar a ansiedade, A morte de Jesus, Como educar seus filhos segundo a Bíblia, Como obter o máximo da Palavra de Deus, Como ser crente em um mundo de descrentes, Crer é difícil, Criação ou evolução, Doze homens comuns, Doze mulheres notáveis, O Caminho da felicidade, O Poder da integridade, Princípios para uma cosmovisão bíblica, todos desta Editora.</p>",
+  "sinopse": "O Evangelho de Marcos destaca a humanidade de Cristo, revelando seu poder e a maneira como interage com seus seguidores. Através de ensinamentos e milagres, Marcos mostra Jesus enfrentando adversidades, tocando vidas e derrotando o pecado e a morte. Com um enfoque em suas emoções e dedicando-se a ajudar os outros, o texto oferece uma visão rica e profunda das obras de Jesus no Novo Testamento.",
+  "exemplar_id": 706,
+  "sku": "LI00J1",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/john-macarthur--marcos--capa--20250227--152900.jpg",
+  "contracapa": "static/uploads/john-macarthur--marcos--contracapa--20250227--152900.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 18:00:28",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2507,
+  "autor": "Françoise Balibar",
+  "titulo": "Einstein",
+  "subtitulo": "O prazer de pensar",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "",
+  "palavras_chave": "balibar einstein prazer pensar",
+  "edicao_id": 2487,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 143,
+  "peso": 300,
+  "isbn": "9788573029086",
+  "editora": "Objetiva",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro revisita o ano de 1905, quando a renomada revista científica Annalen der Physik publicou três artigos revolucionários de um jovem Albert Einstein, de 26 anos. Entre eles, estava a famosa equação E=MC², que desafiou e transformou a física moderna. A obra explora a teoria da relatividade e como ela consolidou Einstein como uma das figuras mais influentes do século XX. Além disso, o livro traz uma seleção de 150 documentos que ajudam a compreender a genialidade de Einstein e o impacto duradouro de suas ideias no mundo.",
+  "exemplar_id": 2486,
+  "sku": "LI01JN",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/francoise-balibar--einstein--capa--20260316--193420.jpg",
+  "contracapa": "static/uploads/francoise-balibar--einstein--contracapa--20260316--193420.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso. Ilustrações em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:58:32",
+  "observacoes": null
+}

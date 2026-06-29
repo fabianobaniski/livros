@@ -1,0 +1,63 @@
+{
+  "obra_id": 2344,
+  "autor": "Maurice Bertrand",
+  "titulo": "A Onu",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Outros Assuntos",
+  "temas": "",
+  "palavras_chave": "maurice bertrand a onu",
+  "edicao_id": 2324,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 162,
+  "peso": 340,
+  "isbn": "9788532614698",
+  "editora": "Vozes",
+  "numero_edicao": null,
+  "ano": 1995,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A ONU é vista como objeto de emoções contrastantes: entusiasmo ou ódio, admiração ou escárnio. Isso ocorre porque, ao contrário de outras instituições, ela não foi criada para responder a necessidades concretas e imediatas, mas para realizar um sonho – o sonho da paz. Assim, cada projeto que a envolve carrega consigo as frustrações, ilusões e expectativas desse ideal global.",
+  "exemplar_id": 2323,
+  "sku": "LI01F5",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/maurice-bertrand--a-onu--capa--20260316--151835.jpg",
+  "contracapa": "static/uploads/maurice-bertrand--a-onu--contracapa--20260316--151842.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel um pouco pigmentado pela ação do tempo, principalmente nas bordas. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados. Sem anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:36:22",
+  "observacoes": null
+}

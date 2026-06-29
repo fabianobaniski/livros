@@ -1,0 +1,68 @@
+{
+  "obra_id": 141,
+  "autor": "Erin A. Craig",
+  "titulo": "Pequenos favores",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura fantástica. Mistério. Aventura.",
+  "palavras_chave": "craig pequenos favores",
+  "edicao_id": 137,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 400,
+  "peso": 400,
+  "isbn": "9786555394023",
+  "editora": "Melhoramentos",
+  "numero_edicao": 1,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Jamais se aventure nas profundezas da floresta.</p> <p>Além dos Sinos, os demônios fazem a festa.</p> <p>- O que planeja fazer?</p> <p>- Não sei. Eu abriria mão de tu…</p> <p>Ele ergueu uma das mãos, interrompendo de súbito o que eu ia dizer.</p> <p>- Tenha cuidado com o que fala na calada da noite, Ellerie Downing.</p> <p>Não prometa nada de que possa se arrepender depois.</p> <p>- Como assim?</p> <p>- Você estava prestes a dizer que abriria mão de tudo pelo açúcar, não?</p> <p>Concordei com a cabeça.</p> <p>- Mas você não abriria de verdade.</p> <p>- Abriria, sim - insisti com fervor.</p> <p>- Não de tudo. Por exemplo, não abriria mão de suas irmãs, abriria?</p> <p>- É claro que não!</p> <p>- Então escolha as palavras com muito cuidado. Nunca se sabe quem está ouvindo - disse Albert em voz baixa, apontando para os pinheiros sussurrantes com uma teatralidade nata.</p>",
+  "sinopse": "A floresta esconde segredos profundos e perigosos, onde demônios têm sua própria festa. A protagonista enfrenta decisões que envolvem abrir mão de aquilo que ama, desafiando a realidade e colocando em risco o que lhe é mais precioso em meio a um ambiente misterioso e opressivo.",
+  "exemplar_id": 136,
+  "sku": "LI003F",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/erin-a--craig--pequenos-favores--capa--20250226--133757.jpg",
+  "contracapa": "static/uploads/erin-a--craig--pequenos-favores--contracapa--20250226--133757.jpg",
+  "fotos": [
+    "static/uploads/erin-a--craig--pequenos-favores--foto1--20250226--133757.jpg",
+    "static/uploads/erin-a--craig--pequenos-favores--foto2--20250226--133757.jpg",
+    "static/uploads/erin-a--craig--pequenos-favores--foto3--20250226--133757.jpg",
+    "static/uploads/erin-a--craig--pequenos-favores--foto4--20250226--133757.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:00:23",
+  "observacoes": null
+}

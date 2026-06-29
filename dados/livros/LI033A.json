@@ -1,0 +1,63 @@
+{
+  "obra_id": 5693,
+  "autor": "Hikaru Nakamura",
+  "titulo": "Arakawa under the bridge",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura. Mangá. Japonês.",
+  "palavras_chave": "nakamura arakawa under bridge",
+  "edicao_id": 5668,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 210,
+  "isbn": "9788542610758",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 12,
+  "transcricao_contracapa": "<p>Sabe aquele momento em que seu coração é roubado pela mudança das estações...? Às vezes, isso acontece até mesmo no meio da baderna diária das margens do Arakawa... No inverno, apertamos os olhos ao nos deparar com o brilho reluzente da paisagem coberta de neve... Na primavera, somos acalentados pela beleza exuberante das flores... Mas, até nessas horas... Vejam... Elas vêm voando de algum lugar... Sim, as pétalas da insanidade desse povo do rio Arakawa...</p>",
+  "sinopse": "Em meio à rotina caótica das margens do Arakawa, as mudanças das estações roubam o coração. Seja no inverno, com a paisagem coberta de neve, ou na primavera, com a beleza das flores, a insanidade do povo à beira do rio se revela em momentos surpreendentes.",
+  "exemplar_id": 5667,
+  "sku": "LI033A",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/arakawa-under-the-bridge__hikaru-nakamura__capa__2026-02-24_13-36-57-442909-000.jpg",
+  "contracapa": "static/uploads/arakawa-under-the-bridge__hikaru-nakamura__contracapa__2026-02-24_13-36-57-472490-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

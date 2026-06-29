@@ -1,0 +1,68 @@
+{
+  "obra_id": 1743,
+  "autor": "Ataliba T. de Castilho",
+  "titulo": "A língua falada no ensino de português ",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Linguística. Ensino de português. Educação. Prática escolar. Língua falada.",
+  "palavras_chave": "castilho lingua falada ensino portugues",
+  "edicao_id": 1723,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 158,
+  "peso": 230,
+  "isbn": "857244095X",
+  "editora": "Contexto",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro propõe a integração da língua falada em nossas práticas escolares. Ele dá uma resposta às conhecidas dificuldades do ensino de Português no Brasil contemporâneo: expansão da rede escolar, despreparo dos professores e faculdades diante dos desafios de uma sociedade em mudança, avanço da pesquisa linguística universitária ainda escassamente aproveitada pelo sistema escolar, e tantos outros desencontros.</p> <p>Apresentam-se aqui propostas concretas de trabalho para os educadores inconformados com a prática escolar vigente, mediante a incorporação do aluno em seu processo de formação. Em lugar do professor que desmotivadamente transmite conteúdos, um empreendedor de projetos de investigação. Em lugar do aluno descontente com sua escola, um sujeito curioso por desvendar seu próprio conhecimento linguístico.</p> <p>Dentro da bibliografia disponível, este livro traz a primeira resposta concreta ao desafio lançado pelos Parâmetros Curriculares de Língua Portuguesa do MEC, nos quais as reflexões sobre a língua falada assumem um papel destacado no processo de ensino-aprendizagem.</p>",
+  "sinopse": "Este livro apresenta propostas concretas para integrar a língua falada nas práticas escolares, respondendo aos desafios do ensino de Português no Brasil contemporâneo, como expansão escolar, despreparo docente e avanço da pesquisa linguística. Voltado a educadores inquietos com o modelo atual, o livro sugere um ensino mais investigativo e participativo, destacando o papel fundamental da reflexão sobre a língua falada no processo de ensino-aprendizagem, em sintonia com os Parâmetros Curriculares de Língua Portuguesa do MEC.",
+  "exemplar_id": 1722,
+  "sku": "LI00YJ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ataliba-t--de-castilho--a-l-ngua-falada-no-ensino-de-portugu-s--capa--20250430--102940.jpg",
+  "contracapa": "static/uploads/ataliba-t--de-castilho--a-l-ngua-falada-no-ensino-de-portugu-s--contracapa--20250430--102940.jpg",
+  "fotos": [
+    "static/uploads/ataliba-t--de-castilho--a-l-ngua-falada-no-ensino-de-portugu-s--foto1--20250430--102940.jpg",
+    "static/uploads/ataliba-t--de-castilho--a-l-ngua-falada-no-ensino-de-portugu-s--foto2--20250430--102940.jpg",
+    "static/uploads/ataliba-t--de-castilho--a-l-ngua-falada-no-ensino-de-portugu-s--foto3--20250430--102940.jpg",
+    "static/uploads/ataliba-t--de-castilho--a-l-ngua-falada-no-ensino-de-portugu-s--foto4--20250430--102940.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, apresenta leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:30:41",
+  "observacoes": "procedencia_biblioteca"
+}

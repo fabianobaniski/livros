@@ -1,0 +1,68 @@
+{
+  "obra_id": 2249,
+  "autor": "Maria Aparecida Ferreira de Aguiar",
+  "titulo": "Psicologia aplicada à Administração",
+  "subtitulo": "Uma abordagem interdisciplinar",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Psicologia organizacional. Administração. Teorias psicológicas aplicadas. Ética e modernidade.",
+  "palavras_chave": "aguiar psicologia aplicada administracao",
+  "edicao_id": 2229,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 423,
+  "peso": 690,
+  "isbn": "9788502050723",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O objetivo desta obra é repensar o ambiente organizacional a partir da psicologia, resgatando a pessoa humana e sua capacidade de vir a ser livre. A autora apóia-se na Teoria Crítica e na Ética Discursiva de Jurgen Habermas, bem como na Teoria do Desenvolvimento do Pensamento de Jean Piaget.</p><p>Traz como temas a modernidade, a compreensão da realidade complexa, os fundamentos morais para repensar as organizações, a administração como ciência social aplicada, a psicologia como ciência aplicada à organização, a psicodinâmica do trabalho, o condicionamento do comportamento, teorias psicológicas e sua aplicação no ambiente organizacional.</p><p>O livro foi escrito numa linguagem adequada aos estudantes e está repleto de questões e exercícios, que discutem as teorias e possibilitam sua aplicação prática, demonstrando suas consequências.</p><p>Aplicação: Este livro pode ser utilizado na disciplina Psicologia Aplicada à Administração.</p><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço:<br>www.saraivauni.com.br</p>",
+  "sinopse": "A obra discute o ambiente organizacional sob a ótica da psicologia, enfatizando a importância do resgate da pessoa humana e sua liberdade. Aborda temas como modernidade, complexidade organizacional, fundamentos morais, psicologia e administração como ciências aplicadas, psicodinâmica do trabalho, condicionamento do comportamento e teorias psicológicas no contexto organizacional. Escrita em linguagem acessível, traz questões e exercícios para aplicação prática dos conceitos, sendo indicada para a disciplina Psicologia Aplicada à Administração.",
+  "exemplar_id": 2228,
+  "sku": "LI01CI",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/maria-aparecida-ferreira-de-aguiar--psicologia-aplicada---administra--o--capa--20250430--105104.jpg",
+  "contracapa": "static/uploads/maria-aparecida-ferreira-de-aguiar--psicologia-aplicada---administra--o--contracapa--20250430--105104.jpg",
+  "fotos": [
+    "static/uploads/maria-aparecida-ferreira-de-aguiar--psicologia-aplicada---administra--o--foto1--20250430--105104.jpg",
+    "static/uploads/maria-aparecida-ferreira-de-aguiar--psicologia-aplicada---administra--o--foto2--20250430--105104.jpg",
+    "static/uploads/maria-aparecida-ferreira-de-aguiar--psicologia-aplicada---administra--o--foto3--20250430--105104.jpg",
+    "static/uploads/maria-aparecida-ferreira-de-aguiar--psicologia-aplicada---administra--o--foto4--20250430--105104.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:19:08",
+  "observacoes": "procedencia_biblioteca"
+}

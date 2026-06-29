@@ -1,0 +1,63 @@
+{
+  "obra_id": 2693,
+  "autor": "Louise Collins",
+  "titulo": "Memoirs of a medieval woman",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "collins memoirs medieval woman",
+  "edicao_id": 2673,
+  "encadernacao": null,
+  "quantidade_paginas": 269,
+  "peso": 300,
+  "isbn": "9780060909925",
+  "editora": "Perennial Library",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Memoirs of a Medieval Woman conta a história extraordinária de Margery Kempe, uma mulher do século XV que viajou por toda a Europa, incluindo uma peregrinação à Terra Santa. Casada e mãe de 14 filhos, Margery desafiou as normas de sua época ao abandonar sua família para seguir uma vida religiosa. Sua autobiografia, ditada a um padre, revela uma mulher com ideias peculiares sobre pecado, santidade, sexualidade e vida cotidiana. Louise Collis, com um estilo envolvente, oferece uma visão detalhada da vida medieval, trazendo à tona as experiências e desafios dessa figura singular.",
+  "exemplar_id": 2672,
+  "sku": "LI01OT",
+  "preco_estante_virtual": 35.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/memoirs-of-a-medieval-woman-louise-collins-capa_rev317.jpg",
+  "contracapa": "static/uploads/memoirs-of-a-medieval-woman-louise-collins-contracapa_rev2012.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, embora amarelado pela passagem dos anos. Lombada reta, miolo firme, texto sem anotações ou sublinhados. Há pequeno carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:57:27",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 329,
+  "autor": "G. K. Chesterton",
+  "titulo": "O homem eterno",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. História. Filosofia.",
+  "palavras_chave": "chesterton homem eterno",
+  "edicao_id": 320,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 382,
+  "peso": 400,
+  "isbn": "9786559962570",
+  "editora": "Penkall",
+  "numero_edicao": 1,
+  "ano": 2021,
+  "serie": "Classicos da literatura cristã",
+  "volume": null,
+  "transcricao_contracapa": "<p>Publicado pela primeira vez em 1925, este livro é uma resposta de G.K. Chesterton ao livro do escritor H.G. Wells que também pretendia traçar um panorama dos acontecimentos relevantes da humanidade. Contudo, Wells deixou de considerar o advento mais importante da história: a vinda de Cristo e o surgimento do Cristianismo.</p> <p>Para Chesterton, a fé cristã e a Igreja mudaram o rumo da história e devem ser consideradas quando se estuda o homem. O autor sabiamente divide o livro em duas partes, “criatura chamada homem” e “homem chamado Cristo”, em que aborda a constituição da humanidade antes e depois de Jesus. Chesterton discute também quais os motivos que impedem a visão plena da importância de Cristo para a história da humanidade.</p>",
+  "sinopse": "O homem eterno é uma análise provocativa sobre o impacto da vinda de Cristo e o surgimento do Cristianismo na história da humanidade. G.K. Chesterton contrapõe as ideias de H.G. Wells, ressaltando a importância crucial da fé cristã e da Igreja. O autor examina a natureza do homem e a influência transformadora de Cristo, destacando os aspectos históricos e espirituais que moldaram a civilização.</p>",
+  "exemplar_id": 319,
+  "sku": "LI008E",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/g-k--chesterton--o-homem-eterno--capa--20250226--133820.jpg",
+  "contracapa": "static/uploads/g-k--chesterton--o-homem-eterno--contracapa--20250226--133820.jpg",
+  "fotos": [
+    "static/uploads/g-k--chesterton--o-homem-eterno--foto1--20250226--133820.jpg",
+    "static/uploads/g-k--chesterton--o-homem-eterno--foto2--20250226--133820.jpg",
+    "static/uploads/g-k--chesterton--o-homem-eterno--foto3--20250226--133820.jpg",
+    "static/uploads/g-k--chesterton--o-homem-eterno--foto4--20250226--133820.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:18:41",
+  "observacoes": null
+}

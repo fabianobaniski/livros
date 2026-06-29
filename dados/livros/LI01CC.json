@@ -1,0 +1,68 @@
+{
+  "obra_id": 2243,
+  "autor": "Gilbert A. Churchill, Jr.; J. Paul Peter",
+  "titulo": "Marketing",
+  "subtitulo": "Criando valor para os clientes",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Marketing. Criação de valor. Globalização. Diversidade. Ética. Educação em marketing.",
+  "palavras_chave": "churchill marketing criando valor ",
+  "edicao_id": 2223,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 626,
+  "peso": 1750,
+  "isbn": "9788502102415",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Marketing<br>Criando valor para os clientes</b></p> <p>Para ser bem-sucedido e destacar-se no mundo do marketing, é necessário criar um valor superior para o cliente. <i>Marketing – Criando valor para os clientes</i> é a única obra no Brasil a enfatizar e integrar a questão da criação de valor como a meta primária do marketing ao longo de todo o texto, apresentando o estado da arte da área. Captando as mudanças dinâmicas que vêm ocorrendo no marketing e no mundo, aborda de forma clara e concisa temas como impacto da globalização, diversidade e ética no marketing.</p><p>É também o único livro traduzido de marketing no Brasil que tem as seguintes características:</p><ul><li>completamente adaptado à nossa realidade;</li><li>ilustrado com propagandas de agências de publicidade brasileiras e com tiras do Dorinho, o maior cartunista na área de marketing do país;</li><li>traz casos e exemplos tanto de companhias de grande porte – multinacionais e brasileiras – como de pequenas e médias empresas;</li><li>acesso a um site inédito e exclusivo para o professor (<a href=\"www.saraivauni.com.br\">www.saraivauni.com.br</a>) com:</li></ul><ul><li>Manual do professor: com anotações de aula padrão e suplementares, exercícios experimentais, perguntas/respostas para discussão, implicações do projeto de cada capítulo e sugestões para projetos adicionais, resumos dos quadros (“Na Prática”, “Você Decide”, “Agitadores de Marketing”), casos e minicasos adicionais e recursos externos recomendados.</li><li>Apresentações: centenas de slides eletrônicos, com figuras, esquemas e tabelas.</li><li>Banco de testes: milhares de questões com respostas classificadas quanto ao nível de aprendizado (definição, conceito ou aplicação), tópico e tipo (verdadeiro/falso, múltipla escolha, respostas curtas/preencha as lacunas e dissertativas);</li></ul><p>projeto gráfico diferenciado: colorido, semi-couchê e capa dura;</p><p>os autores são dois dos mais respeitados da área, atualmente: J. Paul Peter e Gilbert A. Churchill, Jr. (que desde 1996 dá nome ao prêmio anual da American Marketing Association ao profissional que mais se destacou em pesquisa de marketing), ambos ganhadores de vários prêmios internacionais, como os de Eminente Educador e Profissional do Ano.</p><p>Enfim, <i>Marketing – Criando valor para os clientes</i> é o livro brasileiro que mais cria valor, tanto para professores como para alunos e profissionais.</p>",
+  "sinopse": "O livro 'Marketing – Criando valor para os clientes' destaca a criação de valor como meta central do marketing, apresentando o estado da arte da área e abordando temas como globalização, diversidade e ética. Adaptado à realidade brasileira, traz exemplos de empresas de diferentes portes, ilustrações nacionais e materiais de apoio, como bancos de testes, slides eletrônicos e manual do professor. Escrito por dois especialistas reconhecidos internacionalmente, é indicado para professores, alunos e profissionais que buscam excelência em marketing.",
+  "exemplar_id": 2222,
+  "sku": "LI01CC",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/gilbert-a--churchill--jr---marketing--capa--20250430--105102.jpg",
+  "contracapa": "static/uploads/gilbert-a--churchill--jr---marketing--contracapa--20250430--105102.jpg",
+  "fotos": [
+    "static/uploads/gilbert-a--churchill--jr---marketing--foto1--20250430--105103.jpg",
+    "static/uploads/gilbert-a--churchill--jr---marketing--foto2--20250430--105103.jpg",
+    "static/uploads/gilbert-a--churchill--jr---marketing--foto3--20250430--105103.jpg",
+    "static/uploads/gilbert-a--churchill--jr---marketing--foto4--20250430--105103.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:19:25",
+  "observacoes": "procedencia_biblioteca"
+}

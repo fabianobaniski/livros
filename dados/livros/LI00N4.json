@@ -1,0 +1,63 @@
+{
+  "obra_id": 870,
+  "autor": "Lauro Trevisan",
+  "titulo": "A oração que tem poder",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Espiritualidade.",
+  "palavras_chave": "trevisan oracao poder",
+  "edicao_id": 855,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 64,
+  "peso": 100,
+  "isbn": "9780002945882",
+  "editora": "da mente",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O que Você vai ler nessa obra</p> <p>Deus é o PODER.</p> <p>Você, como filho de Deus, Dele recebe o PODER.</p> <p>O poder é usado principalmente pela oração.</p> <p>A verdadeira tudo pode.</p>",
+  "sinopse": "Neste livro, Lauro Trevisan explora o poder da oração, afirmando que Deus é a própria fonte desse poder. Ele aconselha que, como filhos de Deus, recebemos esse poder divino, que deve ser utilizado principalmente através da oração para alcançar realizações significativas.",
+  "exemplar_id": 854,
+  "sku": "LI00N4",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/lauro-trevisan--a-ora--o-que-tem-poder--capa--20250227--152909.jpg",
+  "contracapa": "static/uploads/lauro-trevisan--a-ora--o-que-tem-poder--contracapa--20250227--152909.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:36:10",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 4825,
+  "autor": "Koyoharu Gotouge",
+  "titulo": "Demon Slayer",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá. Ação.",
+  "palavras_chave": "gotouge demon slayer",
+  "edicao_id": 4800,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 230,
+  "isbn": "9786559608027",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "Kimetsu No Yaiba",
+  "volume": 22,
+  "transcricao_contracapa": "<p>Resta mais de uma hora para o amanhecer e os ataques de Muzan ficam ainda mais violentos. Todos os Hashiras do Kisatsutai que permanecem em pé o confrontam, mas será que suas lâminas vão conseguir feri-lo?! Enquanto isso, Tanjirou continua caído devido ao ataque de Muzan... Cada um dá o melhor de si nesta batalha que chega ao seu ápice...!!</p>",
+  "sinopse": "Faltando mais de uma hora para o amanhecer, os ataques de Muzan tornam-se mais violentos. Os Hashiras do Kisatsutai enfrentam Muzan com todas as suas forças. Tanjirou permanece caído após o ataque. Cada personagem luta com o máximo de esforço nesta batalha épica.",
+  "exemplar_id": 4799,
+  "sku": "LI02LN",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/demon-slayer__koyoharu-gotouge__capa__2026-02-20_10-30-47-014882-000.png",
+  "contracapa": "static/uploads/demon-slayer__koyoharu-gotouge__contracapa__2026-02-20_10-30-47-081393-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com capa, sobrecapa e contracapa sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3651,
+  "autor": "David Herbert Lawrence",
+  "titulo": "O amante de Lady Chatterley",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "lawrence amante lady chatterley",
+  "edicao_id": 3628,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 345,
+  "peso": 450,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A história descreve o despertar sexual e emocional de Constance Chatterley que, presa em um casamento sem paixão com um aristocrata paralisado pela guerra, inicia um relacionamento transgressor com o guarda-caça da propriedade, desafiando as barreiras de classe e as rígidas convenções sociais.",
+  "exemplar_id": 3627,
+  "sku": "LI02FA",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/david-herbert-lawrence--o-amante-de-lady-chatterley--capa--20251114--185050.png",
+  "contracapa": "static/uploads/david-herbert-lawrence--o-amante-de-lady-chatterley--contracapa--20251114--185057.png",
+  "fotos": [
+    "static/uploads/david-herbert-lawrence--o-amante-de-lady-chatterley--foto1--20251113--211148.jpg",
+    "static/uploads/david-herbert-lawrence--o-amante-de-lady-chatterley--foto2--20251113--211148.jpg",
+    "static/uploads/david-herbert-lawrence--o-amante-de-lady-chatterley--foto3--20251113--211148.jpg",
+    "static/uploads/david-herbert-lawrence--o-amante-de-lady-chatterley--foto4--20251113--211148.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:50:40",
+  "observacoes": null
+}

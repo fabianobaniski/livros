@@ -1,0 +1,63 @@
+{
+  "obra_id": 2590,
+  "autor": "Carlos Haroldo Porto Cordeiro",
+  "titulo": "História do pensamento econômico",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Economia",
+  "temas": "",
+  "palavras_chave": "cordeiro historia pensamento economico",
+  "edicao_id": 2570,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 601,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Rio",
+  "numero_edicao": null,
+  "ano": 1975,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este trabalho que oferecemos ao público, também como os nossos anteriores, não se destina aos doutos. Foi ele escrito com a finalidade de ajudar os estudantes à compreensão do pensamento econômico através do tempo e do espaço. Pretendemos mostrar que o homem, submetido às influências do meio em que vive, recebe uma série de informações, características de sua época e pode transformá-las em pensamento escrito, que nos ajudem a compreender a história da humanidade.",
+  "exemplar_id": 2569,
+  "sku": "LI01LY",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/carlos-haroldo-porto-cordeiro--historia-do-pensamento-economico--capa--20260316--212246.jpg",
+  "contracapa": "static/uploads/carlos-haroldo-porto-cordeiro--historia-do-pensamento-economico--contracapa--20260316--212246.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel amarelado, principalmente no corte. Pequenos desgastes na capa, lombada e contracapa. Texto preservado, sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:52:38",
+  "observacoes": null
+}

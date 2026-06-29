@@ -1,0 +1,68 @@
+{
+  "obra_id": 97,
+  "autor": "Ivan Turgueniev",
+  "titulo": "Pais e filhos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura clássica. Niilismo. Amor.",
+  "palavras_chave": "turgueniev pais filhos",
+  "edicao_id": 97,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 238,
+  "peso": 280,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1981,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A amarga história de Bazárov, um herói niilista russo. Intelectual materialista, nega o amor e a arte, recusa a religião, combate as tradições, tudo submete à experiência científica e acredita nos benefícios de uma revolução total. Um rebelde que não aceita nenhum princípio sem exame. O amor, no entanto, o desarma e o conduz à morte.</p>",
+  "sinopse": "A história gira em torno de Bazárov, um herói niilista que nega amor e arte, rejeita tradições e religião, confiando apenas na ciência. No entanto, ele se vê desarmado pelo amor, que o leva a um confronto com suas crenças e escolhas de vida.",
+  "exemplar_id": 96,
+  "sku": "LI002D",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ivan-turgueniev--pais-e-filhos--capa--20250226--113546.jpg",
+  "contracapa": "static/uploads/ivan-turgueniev--pais-e-filhos--contracapa--20250226--113546.jpg",
+  "fotos": [
+    "static/uploads/ivan-turgueniev--pais-e-filhos--foto1--20250226--113546.jpg",
+    "static/uploads/ivan-turgueniev--pais-e-filhos--foto2--20250226--113546.jpg",
+    "static/uploads/ivan-turgueniev--pais-e-filhos--foto3--20250226--113546.jpg",
+    "static/uploads/ivan-turgueniev--pais-e-filhos--foto4--20250226--113546.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:32:03",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5683,
+  "autor": "Kaito",
+  "titulo": "Ao no Flag",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Romance. Adolescência.",
+  "palavras_chave": "kaito ao flag",
+  "edicao_id": 5658,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 219,
+  "peso": 250,
+  "isbn": "9786559821457",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Taichi Ichinose acaba caindo na mesma classe de Futaba Kuze, uma garota por quem nutria certa aversão, e de Touma Mita, um cara que vive uma vida plena e é seu amigo de infância. Certo dia, Futaba diz a ele que está apaixonada por Touma e a garota lhe pede ajuda para se aproximar do alvo de seu afeto...!!</p> <p>Abrem-se as cortinas de um novo romance inocente envolvendo esses três, completamente tingido pelas cores da juventude.</p>",
+  "sinopse": "Taichi Ichinose encontra-se na mesma classe que Futaba Kuze e Touma Mita, o que leva a um novo romance inocente. Futaba pede a ajuda de Taichi para se aproximar de Touma, desencadeando uma série de eventos que tingem suas vidas com as cores da juventude.",
+  "exemplar_id": 5657,
+  "sku": "LI0330",
+  "preco_estante_virtual": 19.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/ao-no-flag__kaito__capa__2026-02-24_13-36-55-680862-000.jpg",
+  "contracapa": "static/uploads/ao-no-flag__kaito__contracapa__2026-02-24_13-36-55-732496-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

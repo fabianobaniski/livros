@@ -1,0 +1,63 @@
+{
+  "obra_id": 2971,
+  "autor": "Eduardo Galeano",
+  "titulo": "Vozes & crônicas",
+  "subtitulo": "Che e outras histórias",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "galeano vozes cronicas che",
+  "edicao_id": 2951,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 182,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Global / Versus",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro de reportagens, escrito por Eduardo Galeano, mergulha nas vidas de pessoas em situações extremas, como garimpeiros, favelados, guerrilheiros e torturadores. As palavras são descritas como armas que não permitem descanso, revelando a realidade crua da luta pela vida. Galeano, exilado pela repressão política, utiliza o jornalismo como uma ferramenta de conhecimento e resistência. O livro ensina ao estudante de jornalismo a importância de ouvir e contar histórias verdadeiras, mesmo sob o risco de perseguição, mantendo viva a missão de narrar a verdade.",
+  "exemplar_id": 2950,
+  "sku": "LI01WJ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/vozes--cronicas-eduardo-galeano-capa_rev1195.jpg",
+  "contracapa": "static/uploads/vozes--cronicas-eduardo-galeano-contracapa_rev977.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora bastante amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:45:45",
+  "observacoes": null
+}

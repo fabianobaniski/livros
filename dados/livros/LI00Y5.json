@@ -1,0 +1,68 @@
+{
+  "obra_id": 1726,
+  "autor": "José Luiz Beraldo (org.)",
+  "titulo": "José de Alencar",
+  "subtitulo": "Literatura Comentada",
+  "idioma": "Português",
+  "categoria": "Crítica Literária",
+  "temas": "Literatura.",
+  "palavras_chave": "alencar jose literatura comentada",
+  "edicao_id": 1706,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 107,
+  "peso": 150,
+  "isbn": "",
+  "editora": "Abril",
+  "numero_edicao": null,
+  "ano": 1980,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta é uma coleção de livros de periodicidade quinzenal, que se destina não só a estudantes — especialmente os do segundo grau e de cursos pré-universitários — e professores, mas também a todas as pessoas interessadas em Literatura.</p><p>Cada volume terá por tema um autor (ou autores), clássico ou moderno, de língua portuguesa, de cuja obra serão publicados fragmentos — trechos de romances, poemas, contos, teatro, crítica, letras de músicas — com notas explicativas e comentários. Os volumes apresentarão também um resumo dos livros onde foram extraídos os fragmentos, um panorama geral da época em que viveu o autor, características de sua obra, quadros cronológicos, exercícios de compreensão, atividades de criação, relação de obras do autor e bibliografia para consulta.</p><p>A redação dos textos desta coleção foi confiada a uma equipe de especialistas em Literatura que, coerentes com a finalidade da obra, procuraram manter um nível de linguagem — não raro com sacrifício do próprio estilo — capaz de ser entendido por todos: pelos que estudam, pelos que ensinam e também por aqueles que aguardam um primeiro encontro com a Literatura.</p>",
+  "sinopse": "",
+  "exemplar_id": 1705,
+  "sku": "LI00Y5",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/jos--de-alencar--jos--de-alencar--capa--20250401--115811.jpg",
+  "contracapa": "static/uploads/jos--de-alencar--jos--de-alencar--contracapa--20250401--115811.jpg",
+  "fotos": [
+    "static/uploads/jos--de-alencar--jos--de-alencar--foto1--20250401--115811.jpg",
+    "static/uploads/jos--de-alencar--jos--de-alencar--foto2--20250401--115811.jpg",
+    "static/uploads/jos--de-alencar--jos--de-alencar--foto3--20250401--115811.jpg",
+    "static/uploads/jos--de-alencar--jos--de-alencar--foto4--20250401--115811.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 15:54:13",
+  "observacoes": null
+}

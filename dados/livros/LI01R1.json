@@ -1,0 +1,63 @@
+{
+  "obra_id": 2773,
+  "autor": "Júlio Emílio Braz",
+  "titulo": "O Herdeiro de Aranda",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "braz herdeiro aranda",
+  "edicao_id": 2753,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 78,
+  "peso": 150,
+  "isbn": "9788502020337",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Amasa Delano, um comerciante espacial, explora colônias terrestres e planetoides em busca de negócios. Durante uma de suas viagens, ele e seu imediato, Dergue, encontram uma nave gigantesca e misteriosa, aparentemente abandonada por mais de 500 anos. Ao investigarem, descobrem que a tripulação é composta por robôs negros, comandados por um jovem chamado Dom Benito Cereno. Intrigados, Delano e Dergue se perguntam o que aconteceu com os humanos da nave e como ela ainda está em funcionamento após tanto tempo. O mistério os leva a questionar os segredos dessa antiga embarcação.",
+  "exemplar_id": 2752,
+  "sku": "LI01R1",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-herdeiro-de-aranda-julio-emilio-braz-capa_rev692.jpg",
+  "contracapa": "static/uploads/o-herdeiro-de-aranda-julio-emilio-braz-contracapa_rev119.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, apesar de um tanto amarelado e com leves sinais de uso. Texto livre de sublinhados e anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:18:21",
+  "observacoes": null
+}

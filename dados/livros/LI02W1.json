@@ -1,0 +1,63 @@
+{
+  "obra_id": 5209,
+  "autor": "Kan Takahama",
+  "titulo": "A lanterna de Nix",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Manga.",
+  "palavras_chave": "takahama lanterna nyx",
+  "edicao_id": 5184,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 468,
+  "peso": 850,
+  "isbn": "9786589912477",
+  "editora": "Pipoca & Nanquim",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "",
+  "sinopse": "Em 1878, a França irradia seu poder industrial e cultural organizando exposições em todo o mundo, enquanto isso o Japão se abre para o mundo após 200 anos de isolacionismo. Em Nagasaki, Miyo, uma orfã cujo único talento é o dom da clarividência através dos objetos que toca, consegue encontrar um emprego em Ban, vendendo objetos importados da Europa. Em contato com esse Ocidente, ela descobrirá um novo mundo que a levará a Paris…",
+  "exemplar_id": 5183,
+  "sku": "LI02W1",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/a-lanterna-de-nyx__kan-takahama__capa__2026-02-20_10-32-40-691076-000.png",
+  "contracapa": "static/uploads/a-lanterna-de-nyx__kan-takahama__contracapa__2026-02-20_10-32-40-779988-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Sobrecapa, capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 11:09:51",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2394,
+  "autor": "Não Identificado",
+  "titulo": "Áustria e Seu último Imperador",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "identificado austria seu ultimo",
+  "edicao_id": 2374,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 157,
+  "peso": 616,
+  "isbn": "9788441327603",
+  "editora": "Folio",
+  "numero_edicao": 0,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2373,
+  "sku": "LI01GJ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 35.0,
+  "capa": "static/uploads/nao-identificado--austria-e-seu-ultimo-imperador--capa--20260316--155450.jpg",
+  "contracapa": "static/uploads/nao-identificado--austria-e-seu-ultimo-imperador--contracapa--20260316--155457.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro capa dura, formato grande, em boas condições. Papel sem manchas. Lombada alinhada, mas com um trecho na parte inferior enrugado e revestido com fita adesiva transparente. Capa e contracapa sem danos. Texto livre de anotações e sublinhados. Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:55:09",
+  "observacoes": null
+}

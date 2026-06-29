@@ -1,0 +1,68 @@
+{
+  "obra_id": 2021,
+  "autor": "José Manuel Moran; Marcos T. Masetto; Marilda Aparecida Behrens",
+  "titulo": "Novas tecnologias e mediação pedagógica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Tecnologias educacionais. Informática na educação. Mediação pedagógica.",
+  "palavras_chave": "moran novas tecnologias mediacao pedagogica",
+  "edicao_id": 2001,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 173,
+  "peso": 235,
+  "isbn": "9788530805944",
+  "editora": "Papirus",
+  "numero_edicao": 14,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Investimentos em tecnologias telemáticas de alta velocidade começam a existir com a função de conectar alunos e professores no ensino presencial e a distância. Como em outras épocas, há a expectativa de que as novas tecnologias possam trazer soluções rápidas para mudar a educação. Até que ponto, entretanto, tais investimentos não concorrerão apenas para uma panacéia \"modernosa\" sem afetar profundamente o desenvolvimento educacional?</p><p>Sob diversos ângulos, a finalidade deste livro é discutir a introdução da informática e da telemática na educação. No debate se inserem, entre outros temas, questões associadas a propostas de integração e utilização do computador e da Internet na escola. Numa abordagem de mediação pedagógica, as discussões convergem a uma revisão ampla do papel do professor nos dias de hoje.</p><p>Leitura essencial a professores de quaisquer níveis de ensino, este livro procura expandir o diálogo e as análises sobre investimentos e utilizações tecnológicas em educação com a perspectiva de construir novas propostas.</p>",
+  "sinopse": "O livro discute, sob várias perspectivas, a introdução da informática e telemática na educação, abordando tanto o ensino presencial quanto a distância. Analisa questões como integração do computador, uso da internet na escola e revisa o papel do professor na atualidade. Essencial para educadores, a obra expande o debate sobre investimentos e utilizações tecnológicas em educação, propondo novos caminhos para o ensino.",
+  "exemplar_id": 2000,
+  "sku": "LI0166",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--manuel-moran--novas-tecnologias-e-media--o-pedag-gica--capa--20250430--104319.jpg",
+  "contracapa": "static/uploads/jos--manuel-moran--novas-tecnologias-e-media--o-pedag-gica--contracapa--20250430--104319.jpg",
+  "fotos": [
+    "static/uploads/jos--manuel-moran--novas-tecnologias-e-media--o-pedag-gica--foto1--20250430--104319.jpg",
+    "static/uploads/jos--manuel-moran--novas-tecnologias-e-media--o-pedag-gica--foto2--20250430--104319.jpg",
+    "static/uploads/jos--manuel-moran--novas-tecnologias-e-media--o-pedag-gica--foto3--20250430--104319.jpg",
+    "static/uploads/jos--manuel-moran--novas-tecnologias-e-media--o-pedag-gica--foto4--20250430--104319.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:23:42",
+  "observacoes": "procedencia_biblioteca"
+}

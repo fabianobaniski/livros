@@ -1,0 +1,63 @@
+{
+  "obra_id": 4763,
+  "autor": "Hiro Mashima",
+  "titulo": "Edens Zero",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Aventura. Ficção científica.",
+  "palavras_chave": "mashima edens zero",
+  "edicao_id": 4738,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 230,
+  "isbn": "9786555942101",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 13,
+  "transcricao_contracapa": "<p>Antes de partir para o Espaço Exterior, Shiki e seus amigos visitam o planeta Granbell e encontram o Rei Demônio Ziggy vivo! Mas Ziggy era uma outra pessoa, declarando que 'dominaría toda a humanidade' e tenta destruir a Edens Zero.</p> <p>Os nossos heróis são salvos por Elsie e vão atrás da nave de Ziggy (a Edens One), que partiu em busca da Mother, e chegam a Dragon Falls, na fronteira entre o Sakura Cosmo e o Espaço Exterior.</p> <p>EDENS ZERO é o novo mangá de sucesso de Hiro Mashima, autor de Fairy Tail.</p>",
+  "sinopse": "Shiki e seus amigos partem para o Espaço Exterior após visitar o planeta Granbell e encontrar o Rei Demônio Ziggy vivo. Ziggy busca dominar a humanidade e destruir a Edens Zero. Salvos por Elsie, os heróis perseguem Ziggy até Dragon Falls, na fronteira entre o Sakura Cosmo e o Espaço Exterior.",
+  "exemplar_id": 4737,
+  "sku": "LI02JX",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/edens-zero__hiro-mashima__capa__2026-02-20_10-30-26-315695-000.png",
+  "contracapa": "static/uploads/edens-zero__hiro-mashima__contracapa__2026-02-20_10-30-26-369020-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, mas extremamente bem preservado: livre de marcações, assinaturas ou carimbos; sem qualquer dano físico; papel sem sinais de envelhecimento. Apresenta apenas mínimos vestígios de manuseio leve."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2409,
+  "autor": "Pablo Tovillas",
+  "titulo": "Bourdieu",
+  "subtitulo": "una Introducción",
+  "idioma": "Espanhol",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "tovillas bourdieu una introduccion",
+  "edicao_id": 2389,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 125,
+  "peso": 300,
+  "isbn": "9789876310123",
+  "editora": "Editorial Quadrata",
+  "numero_edicao": 1,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra sociológica de Pierre Bourdieu tornou-se uma parte essencial do corpo de conhecimento na formação de um sociólogo contemporâneo. Nenhum currículo no ensino da sociologia como disciplina pode ignorar a herança de conceitos, pesquisas e descobertas desse autor. Pierre Bourdieu contribui para sua obra dentro do que é conhecido como a sociologia canônica, representada pela tríade Karl Marx-Émile Durkheim-Max Weber.",
+  "exemplar_id": 2388,
+  "sku": "LI01GY",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/pablo-tovillas--bourdieu--capa--20260316--175648.jpg",
+  "contracapa": "static/uploads/pablo-tovillas--bourdieu--contracapa--20260316--175648.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:55:25",
+  "observacoes": null
+}

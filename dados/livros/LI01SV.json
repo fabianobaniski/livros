@@ -1,0 +1,63 @@
+{
+  "obra_id": 2839,
+  "autor": "Carol J. Verburg",
+  "titulo": "Ourselves among others",
+  "subtitulo": "Cross-cultural readings for writers",
+  "idioma": "Inglês",
+  "categoria": "Antropologia",
+  "temas": "",
+  "palavras_chave": "verburg ourselves among others",
+  "edicao_id": 2819,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 672,
+  "peso": 800,
+  "isbn": "9780312003548",
+  "editora": "Bedford Book",
+  "numero_edicao": null,
+  "ano": 1988,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2818,
+  "sku": "LI01SV",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/ourselves-among-others-carol-j-verburg-capa_rev1627.jpg",
+  "contracapa": "static/uploads/ourselves-among-others-carol-j-verburg-contracapa_rev1023.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel bastante amarelado, principalmente nas bordas. Pequenos desgastes na capa, lombada e contracapa. Texto bem conservado, sem anotações ou sublinhados.  / Contracapa: A tecnologia nos obrigou a lidar com pessoas ao redor do mundo, transformando a maneira como interagimos e vivemos. Se antes lançávamos lanças, hoje temos o poder de destruir o planeta. Para garantir que as futuras gerações sobrevivam, precisamos refletir sobre como os povos enfrentam seus problemas e compartilham preocupações comuns. Aprender a conviver sem desumanizar ou estereotipar é crucial. Não precisamos nos amar, mas devemos entender uns aos outros e questionar nossos comportamentos para garantir um futuro mais harmonioso. / Em inglês."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:27:06",
+  "observacoes": null
+}

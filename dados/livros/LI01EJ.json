@@ -1,0 +1,63 @@
+{
+  "obra_id": 2322,
+  "autor": "Marilyn Lawrence",
+  "titulo": "A experiência anoréxica",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Medicina",
+  "temas": "",
+  "palavras_chave": "lawrence experiencia anorexica",
+  "edicao_id": 2302,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 135,
+  "peso": 203,
+  "isbn": "9788532302410",
+  "editora": "Summus",
+  "numero_edicao": null,
+  "ano": 1991,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Marilyn Lawrence, terapeuta especializada em distúrbios alimentares, explora por que a anorexia afeta predominantemente mulheres e meninas e oferece explicações para a ineficácia dos tratamentos atuais. A autora argumenta que a anorexia não é apenas uma doença, mas uma reação à condição feminina. Este manual prático serve de apoio a quem está se recuperando da anorexia, familiares de pacientes e interessados na psicologia da mulher, fornecendo perspectivas valiosas sobre a origem e o tratamento desses distúrbios.",
+  "exemplar_id": 2301,
+  "sku": "LI01EJ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marilyn-lawrence--a-experiencia-anorexica--capa--20260316--095645.jpg",
+  "contracapa": "static/uploads/marilyn-lawrence--a-experiencia-anorexica--contracapa--20260316--095653.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:18:47",
+  "observacoes": null
+}

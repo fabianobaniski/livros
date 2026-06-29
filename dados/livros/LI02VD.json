@@ -1,0 +1,63 @@
+{
+  "obra_id": 5185,
+  "autor": "Kenji Sakaki",
+  "titulo": "Enigma",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Mistério. Suspense.",
+  "palavras_chave": "sakaki enigma",
+  "edicao_id": 5160,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 188,
+  "peso": 190,
+  "isbn": "9788545700340",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Sumio, Takemaru e Hiina vagam sem rumo pelo labirinto do prédio antigo em busca da quinta senha. De corpo e alma exaustos, eles tentam desesperadamente achar alguma esperança... Quando finalmente desperta o talento do Takemaru!! Será esse poder novo a luz no fim do túnel?!!</p>",
+  "sinopse": "Sumio, Takemaru e Hiina exploram o labirinto de um prédio antigo procurando pela quinta senha. Enquanto enfrentam o cansaço extremo, o poder de Takemaru desperta, trazendo esperança em meio à escuridão.",
+  "exemplar_id": 5159,
+  "sku": "LI02VD",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/enigma__kenji-sakaki__capa__2026-02-20_10-32-31-036383-000.png",
+  "contracapa": "static/uploads/enigma__kenji-sakaki__contracapa__2026-02-20_10-32-31-091875-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado mas muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

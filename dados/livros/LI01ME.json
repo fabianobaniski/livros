@@ -1,0 +1,63 @@
+{
+  "obra_id": 2606,
+  "autor": "Carlos Guilherme Mota",
+  "titulo": "Idéia de Revolução no Brasil (1789-1801)",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "mota ideia revolucao brasil",
+  "edicao_id": 2586,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 186,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Cortez",
+  "numero_edicao": 0,
+  "ano": 1989,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2585,
+  "sku": "LI01ME",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/carlos-guilherme-mota--ideia-de-revolucao-no-brasil-1789-1801--capa--20260316--212933.jpg",
+  "contracapa": "static/uploads/carlos-guilherme-mota--ideia-de-revolucao-no-brasil-1789-1801--contracapa--20260316--212933.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Papel um pouco pigmentado pela ação do tempo, principalmente nas bordas. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso. Texto livre de anotações e sublinhados. Há carimbo do antigo proprietário e dedicatória à caneta na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 19:04:18",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1900,
+  "autor": "Abelardo de Lima Puccini",
+  "titulo": "Matemática financeira",
+  "subtitulo": "Objetiva e aplicada",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Matemática financeira. Aplicações em negócios. Ferramentas computacionais para finanças.",
+  "palavras_chave": "puccini matematica financeira objetiva aplicada",
+  "edicao_id": 1880,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 419,
+  "peso": 690,
+  "isbn": "9788502042537",
+  "editora": "Saraiva",
+  "numero_edicao": 7,
+  "ano": 2004,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>MATEMÁTICA FINANCEIRA</b><br><b>OBJETIVA E APLICADA</b><p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço:<br><a href='http://www.saraivauni.com.br'>www.saraivauni.com.br</a></p><br><p>Livro com material de apoio.</p>",
+  "sinopse": "Este livro apresenta uma abordagem objetiva e aplicada de matemática financeira, visando atender tanto à teoria quanto à prática. A obra conta com material de apoio online, tornando-a um recurso útil para estudantes e profissionais que desejam compreensão e aplicação dos conceitos financeiros, com exemplos utilizando Excel e HP.",
+  "exemplar_id": 1879,
+  "sku": "LI012U",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--capa--20250430--104257.jpg",
+  "contracapa": "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--contracapa--20250430--104257.jpg",
+  "fotos": [
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto1--20250430--104257.jpg",
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto2--20250430--104257.jpg",
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto3--20250430--104257.jpg",
+    "static/uploads/abelardo-de-lima-puccini--matem-tica-financeira--foto4--20250430--104257.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:17:24",
+  "observacoes": "procedencia_biblioteca"
+}

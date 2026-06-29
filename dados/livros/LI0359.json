@@ -1,0 +1,68 @@
+{
+  "obra_id": 5764,
+  "autor": "Melody Carlson",
+  "titulo": "Bíblia Grandes Aventuras",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Literatura bíblica infantil.",
+  "palavras_chave": "biblia grandes aventuras",
+  "edicao_id": 5739,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 223,
+  "peso": 580,
+  "isbn": "9788524301889",
+  "editora": "United Press",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Palavra de Deus é mais preciosa do que o ouro... mais doce do que o mel.</p><p>A nova <i>Bíblia Grandes Aventuras</i> levará você e seus filhos a uma jornada de descobertas deslumbrantes.</p><p>São mais de 100 histórias que proporcionarão momentos de indescritível prazer e crescimento para você e seus filhos enquanto compartilham da sua leitura.</p><p>Ilustrações atraentes e uma linguagem de fácil compreensão transmitem o sopro da vida em cada página.</p><p>Envolvam-se nesta grande aventura. Mergulhem nessas páginas recheadas de narrativas emocionantes que revelam o amor e o poder de Deus.</p><p>Deliciem-se com estas histórias eternas, extraídas do maior e melhor livro que o mundo já conheceu!</p>",
+  "sinopse": "A 'Bíblia Grandes Aventuras' apresenta mais de 100 histórias bíblicas adaptadas de forma acessível e envolvente, com ilustrações atraentes e linguagem simples. Voltada para crianças e suas famílias, proporciona momentos de aprendizado e prazer, transmitindo valores e ensinamentos cristãos por meio de narrativas emocionantes que destacam o amor e o poder de Deus.",
+  "exemplar_id": 5738,
+  "sku": "LI0359",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/biblia__grandes-aventuras__none__capa__2026-01-18_14-11-33-237099-000.png",
+  "contracapa": "static/uploads/biblia__grandes-aventuras__none__contracapa__2026-01-18_14-11-33-252730-001.png",
+  "fotos": [
+    "static/uploads/biblia__grandes-aventuras__none__foto-01__2026-01-18_14-11-33-265882-002.jpg",
+    "static/uploads/biblia__grandes-aventuras__none__foto-02__2026-01-18_14-11-33-307232-003.jpg",
+    "static/uploads/biblia__grandes-aventuras__none__foto-03__2026-01-18_14-11-33-339470-004.jpg",
+    "static/uploads/biblia__grandes-aventuras__none__foto-04__2026-01-18_14-11-33-378725-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:50:58",
+  "observacoes": null
+}

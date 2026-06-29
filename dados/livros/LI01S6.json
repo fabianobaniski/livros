@@ -1,0 +1,63 @@
+{
+  "obra_id": 2814,
+  "autor": "Paulo Coelho",
+  "titulo": "O Zahir",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "paulo coelho o zahir",
+  "edicao_id": 2794,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 256,
+  "peso": 300,
+  "isbn": "9788598559568",
+  "editora": "Gold",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Um autor famoso vive tranquilamente com sua esposa, Esther, correspondente de guerra, até que ela desaparece misteriosamente. A polícia considera várias hipóteses, mas ele acredita que foi abandonado. Esther torna-se seu Zahir, uma obsessão que domina seus pensamentos, levando-o a uma jornada de autodescoberta e busca pela amada. Com elementos autobiográficos, a obra explora o poder do amor, da ausência e da busca pelo sentido da vida, revelando muito da trajetória pessoal de Paulo Coelho.",
+  "exemplar_id": 2793,
+  "sku": "LI01S6",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-zahir-paulo-coelho-capa_rev986.jpg",
+  "contracapa": "static/uploads/o-zahir-paulo-coelho-contracapa_rev1230.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Nada de grifos ou anotações. Capa, lombada e contracapa sem danos. Discretos sinais de manuseio e/ou da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:46:44",
+  "observacoes": null
+}

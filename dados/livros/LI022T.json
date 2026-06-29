@@ -1,0 +1,63 @@
+{
+  "obra_id": 3197,
+  "autor": "James Lovelock",
+  "titulo": "Gaia",
+  "subtitulo": "Alerta Final",
+  "idioma": "Português",
+  "categoria": "Biologia",
+  "temas": null,
+  "palavras_chave": "lovelock gaia alerta final",
+  "edicao_id": 3177,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 262,
+  "peso": 350,
+  "isbn": "9788598078618",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Neste livro, James Lovelock, criador da teoria de Gaia, apresenta uma visão provocadora e sombria sobre o futuro do planeta. Ele alerta para uma iminente catástrofe climática que pode limitar a sobrevivência humana a poucos locais na Terra. Com análises fundamentadas e impactantes, a obra desafia o leitor a refletir sobre as consequências das ações humanas e oferece uma perspectiva ainda mais inquietante do que as já apresentadas por outros ambientalistas.",
+  "exemplar_id": 3176,
+  "sku": "LI022T",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado (vide fotos), tendo, apenas, discretos sinais de uso e da passagem dos anos. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Bordas um pouco amareladas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:43:40",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3070,
+  "autor": "William J. Kaufmann Iii; Roger A. Freedman",
+  "titulo": "Universe",
+  "subtitulo": "Fifth Edition - Com Cd Rom",
+  "idioma": "Inglês",
+  "categoria": "Astronomia",
+  "temas": null,
+  "palavras_chave": "iii universe fifth edition",
+  "edicao_id": 3050,
+  "encadernacao": null,
+  "quantidade_paginas": null,
+  "peso": 2000,
+  "isbn": "9780716734956",
+  "editora": "W. H. Freeman and Company",
+  "numero_edicao": null,
+  "ano": 1998,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3049,
+  "sku": "LI01ZA",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "TENÇÃO: A descrição da conservação do produto será incluída em breve. Se tiver interesse e pressa na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual. Obrigado.",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "TENÇÃO: A descrição da conservação do produto será incluída em breve. Se tiver interesse e pressa na aquisição, por favor envie-me uma mensagem aqui pela Estante Virtual. Obrigado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:40:21",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

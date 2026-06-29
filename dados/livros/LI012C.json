@@ -1,0 +1,68 @@
+{
+  "obra_id": 1882,
+  "autor": "Luciano Amaro",
+  "titulo": "Direito tributário brasileiro",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Direito",
+  "temas": "Direito. Direito tributário. Tributação no Brasil.",
+  "palavras_chave": "amaro direito tributario brasileiro",
+  "edicao_id": 1862,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 512,
+  "peso": 760,
+  "isbn": "9788502077485",
+  "editora": "Saraiva",
+  "numero_edicao": 15,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>15ª EDIÇÃO</p><p>DIREITO TRIBUTÁRIO BRASILEIRO<br>LUCIANO AMARO</p><div><span>SaraivaJur</span> O seu portal jurídico na internet<br><span>SAC Jur</span> 0800-0557688<br>saraivajur@editorasaraiva.com.br<br>De 2ª a 6ª, das 8:30 às 19:30</div>",
+  "sinopse": "A obra Direito Tributário Brasileiro, de Luciano Amaro, traz uma análise abrangente dos principais aspectos do direito tributário no Brasil, reunindo conteúdo atualizado e estruturado. Reconhecida com o Prêmio 'Gilberto de Ulhôa Canto' como melhor livro de 1997 pela Academia Brasileira de Direito Tributário, a publicação destina-se a estudantes e profissionais do direito interessados em compreender a legislação e os fundamentos do sistema tributário nacional.",
+  "exemplar_id": 1861,
+  "sku": "LI012C",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--capa--20250430--104254.jpg",
+  "contracapa": "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--contracapa--20250430--104254.jpg",
+  "fotos": [
+    "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--foto1--20250430--104254.jpg",
+    "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--foto2--20250430--104254.jpg",
+    "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--foto3--20250430--104254.jpg",
+    "static/uploads/luciano-amaro--direito-tribut-rio-brasileiro--foto4--20250430--104254.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:49:02",
+  "observacoes": "procedencia_biblioteca"
+}

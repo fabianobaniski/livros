@@ -1,0 +1,68 @@
+{
+  "obra_id": 1507,
+  "autor": "Sylvia Day",
+  "titulo": "Para sempre sua",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Romance. Desejos. Relações pessoais.",
+  "palavras_chave": "day para sempre",
+  "edicao_id": 1488,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 310,
+  "peso": 350,
+  "isbn": "9788565530248",
+  "editora": "Paralela",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "Crossfire",
+  "volume": null,
+  "transcricao_contracapa": "<p>O romance mais esperado do ano!</p> <p>Eva e Gideon decidem enfrentar os demônios de seu passado, mas quais serão as consequências de seus obsessivos desejos?</p> <p>A partir do momento que conheci Gideon Cross, senti nele algo que eu precisava. Algo ao qual eu não podia resistir. Vi sua alma perigosa e descuidada — tão parecida com a minha. Estava completamente atraída e precisava dele assim como precisava de meu coração batendo.</p> <p>Ninguém sabe o quanto ele se arriscou por mim. Como eu tinha sido ameaçada ou somente o quanto a sombra de nosso passado se tornaria escura e desesperadora. Envolvidos pelos nossos segredos, tentamos desafiar as evidências. Fizemos nossas próprias regras e nos rendemos completamente ao sensual poder de ser possuído...</p> <p>CONTEÚDO ADULTO</p>",
+  "sinopse": "Eva e Gideon enfrentam os demônios de seus passados, lidando com desejos obsessivos. Desde o primeiro encontro, Eva sente uma conexão intensa com Gideon, revelando segredos e traições. Enquanto se entregam a essa paixão, eles tentam desafiar as consequências de seus atos e o peso de seus passados sombrios.",
+  "exemplar_id": 1487,
+  "sku": "LI00WI",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/sylvia-day--para-sempre-sua--capa--20250401--115742.jpg",
+  "contracapa": "static/uploads/sylvia-day--para-sempre-sua--contracapa--20250401--115742.jpg",
+  "fotos": [
+    "static/uploads/sylvia-day--para-sempre-sua--foto1--20250401--115742.jpg",
+    "static/uploads/sylvia-day--para-sempre-sua--foto2--20250401--115742.jpg",
+    "static/uploads/sylvia-day--para-sempre-sua--foto3--20250401--115742.jpg",
+    "static/uploads/sylvia-day--para-sempre-sua--foto4--20250401--115742.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, sem grifos ou anotações. Capa com sinalzinho de dobra na ponta superior direita. Papel um tanto amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:35:30",
+  "observacoes": null
+}

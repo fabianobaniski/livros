@@ -1,0 +1,68 @@
+{
+  "obra_id": 2115,
+  "autor": "Lázara Cristina da Silva; Maria Irene Miranda",
+  "titulo": "Estágio supervisionado e prática de ensino",
+  "subtitulo": "Desafios e possibilidades",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Formação de professores. Estágio supervisionado. Prática de ensino.",
+  "palavras_chave": "silva estagio supervisionado pratica ensino",
+  "edicao_id": 2095,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 176,
+  "peso": 240,
+  "isbn": "9788586305566",
+  "editora": "Fapemig",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"[...] O momento de publicação da presente obra se mostra, pois, bastante oportuno. Nela as autoras compartilham experiências, caminhos construídos, práticas vivenciadas e refletidas e, com isso, abrem a possibilidade de fazer avançar o debate sobre a formação dos profissionais da educação. Os textos <b>aqui reunidos certamente se</b> constituirão em importante ferramenta para todos aqueles que se preocupam com os desafios colocados pela formação do educador, no horizonte de fortalecimento da educação pública, de qualidade, que <b>contribua para o desenvolvimento da sociedade</b> em geral, com horizonte de uma sociedade mais humana, justa e solidária.\"</p><p>Marcelo Soares Pereira da Silva</p>",
+  "sinopse": "A obra apresenta experiências, caminhos e práticas referentes ao estágio supervisionado e à prática de ensino, compartilhados por suas organizadoras. O livro abre espaço para o debate sobre a formação dos profissionais da educação, reunindo textos que se constituem em ferramenta importante para todos os interessados nos desafios da formação do educador. O foco está no fortalecimento da educação pública de qualidade e na contribuição para uma sociedade mais justa, humana e solidária.",
+  "exemplar_id": 2094,
+  "sku": "LI018S",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/l-zara-cristina-da-silva--est-gio-supervisionado-e-pr-tica-de-ensino--capa--20250430--104535.jpg",
+  "contracapa": "static/uploads/l-zara-cristina-da-silva--est-gio-supervisionado-e-pr-tica-de-ensino--contracapa--20250430--104535.jpg",
+  "fotos": [
+    "static/uploads/l-zara-cristina-da-silva--est-gio-supervisionado-e-pr-tica-de-ensino--foto1--20250430--104535.jpg",
+    "static/uploads/l-zara-cristina-da-silva--est-gio-supervisionado-e-pr-tica-de-ensino--foto2--20250430--104535.jpg",
+    "static/uploads/l-zara-cristina-da-silva--est-gio-supervisionado-e-pr-tica-de-ensino--foto3--20250430--104535.jpg",
+    "static/uploads/l-zara-cristina-da-silva--est-gio-supervisionado-e-pr-tica-de-ensino--foto4--20250430--104535.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:31:50",
+  "observacoes": "procedencia_biblioteca"
+}

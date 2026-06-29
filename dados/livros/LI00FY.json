@@ -1,0 +1,63 @@
+{
+  "obra_id": 611,
+  "autor": "Stephen J. Nichols",
+  "titulo": "O céu na terra",
+  "subtitulo": "Entendendo a ideia de Jonathan Edwards acerca da vida entre as duas realidades",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Comunhão. Justiça.",
+  "palavras_chave": "nichols ceu terra",
+  "edicao_id": 596,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 133,
+  "peso": 250,
+  "isbn": "9788563563279",
+  "editora": "Voxlitteris",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Os cristãos que mais trabalharam por este mundo eram exatamente os que mais pensavam no outro!\"</p> <p>C. S. Lewis</p> <p>No céu desfrutaremos comunhão ininterrupta e perfeita com o Deus trino. Vamos nos deleitar com a glória de Deus e saborear a doçura de Cristo. Teremos comunhão perfeita com o Espírito Santo. Por que não começar agora?</p> <p>No céu, as brigas, as reclamações e os atos de injustiça terão desaparecido. Paz, harmonia e justiça serão a norma. Amaremos a Deus completa e perfeitamente. Amaremos completa e perfeitamente até os nossos irmãos em Cristo. Sendo assim, por que não começar agora? Não há razão para não fazer isso. Na verdade, há todas as razões do mundo para começarmos a agir assim agora.</p>",
+  "sinopse": "Este livro convida o leitor a refletir sobre a comunhão perfeita que desfrutaremos no céu, destacando a importância de vivermos em harmonia e justiça desde já. Através da sabedoria de Jonathan Edwards e da perspectiva de C. S. Lewis, somos desafiados a amar a Deus e nossos irmãos em Cristo, promovendo a paz e a harmonia em nossas vidas atuais.",
+  "exemplar_id": 595,
+  "sku": "LI00FY",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/stephen-j--nichols--o-c-u-na-terra--capa--20250227--152853.jpg",
+  "contracapa": "static/uploads/stephen-j--nichols--o-c-u-na-terra--contracapa--20250227--152853.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém um tanto amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:56:02",
+  "observacoes": null
+}

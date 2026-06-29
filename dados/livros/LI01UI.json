@@ -1,0 +1,63 @@
+{
+  "obra_id": 2898,
+  "autor": "Osho; Bhagwan Shree Rajneesh",
+  "titulo": "Sementes de sabedoria",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "rajneesh sementes sabedoria",
+  "edicao_id": 2878,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 160,
+  "peso": 250,
+  "isbn": "9788573121902",
+  "editora": "Gente",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Osho nos convida a refletir sobre o processo de autoconhecimento e crescimento espiritual como o cultivo de sementes que revelam o potencial oculto em cada um de nós. Comparando a vida ao florescer de uma planta, ele destaca a importância do saber e do amor como pilares para o desenvolvimento interior. O saber nos aproxima da divindade, enquanto o amor nos transforma, permitindo que alcancemos um estado de plenitude. A obra é uma profunda meditação sobre a consciência divina e o caminho para o preenchimento espiritual.",
+  "exemplar_id": 2877,
+  "sku": "LI01UI",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/sementes-de-sabedoria-osho-bhagwan-shree-rajneesh-capa_rev1205.jpg",
+  "contracapa": "static/uploads/sementes-de-sabedoria-osho-bhagwan-shree-rajneesh-contracapa_rev1710.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:56:05",
+  "observacoes": null
+}

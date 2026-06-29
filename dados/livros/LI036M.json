@@ -1,0 +1,68 @@
+{
+  "obra_id": 5813,
+  "autor": "Paulo Leminski",
+  "titulo": "O ex-estranho",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Poesia",
+  "temas": "",
+  "palavras_chave": "paulo leminski o exestranho",
+  "edicao_id": 5788,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 75,
+  "peso": 110,
+  "isbn": "9788573210293",
+  "editora": "Iluminuras",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "misto de tédio e mistério / meio dia / meio termo / incerto ver nesse inverno / medo que a noite tem / que o dia acorde mais cedo / e seja eterno o amanhecer.",
+  "exemplar_id": 5787,
+  "sku": "LI036M",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/titulo-nao-identificado__autor-nao-identificado__capa__2026-01-18_14-11-57-251876-000.png",
+  "contracapa": "static/uploads/titulo-nao-identificado__autor-nao-identificado__contracapa__2026-01-18_14-11-57-273239-001.png",
+  "fotos": [
+    "static/uploads/titulo-nao-identificado__autor-nao-identificado__foto-01__2026-01-18_14-11-57-289898-002.jpg",
+    "static/uploads/titulo-nao-identificado__autor-nao-identificado__foto-02__2026-01-18_14-11-57-327210-003.jpg",
+    "static/uploads/titulo-nao-identificado__autor-nao-identificado__foto-03__2026-01-18_14-11-57-357651-004.jpg",
+    "static/uploads/titulo-nao-identificado__autor-nao-identificado__foto-04__2026-01-18_14-11-57-396900-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:07:09",
+  "observacoes": null
+}

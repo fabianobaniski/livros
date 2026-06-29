@@ -1,0 +1,63 @@
+{
+  "obra_id": 5266,
+  "autor": "Eiichi Shimizu; Tomohiro Shimoguchi",
+  "titulo": "Ultraman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Aventura. Super-heróis.",
+  "palavras_chave": "shimizu ultraman",
+  "edicao_id": 5241,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 194,
+  "peso": 170,
+  "isbn": "9788545703372",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 9,
+  "transcricao_contracapa": "<p>Koutaro Higashi é um jovem japonês nos Estados Unidos que sonha ser um fotógrafo. Porém, ao descobrir a existência dos alienígenas, se envolve em um incidente e quase perde a vida. Salvo pelo acaso e adquirindo poderes sobre-humanos, Koutaro resolve se tornar o \"defensor da justiça\" e combate o crime na cidade de Nova York!</p>",
+  "sinopse": "Koutaro Higashi, um jovem japonês nos EUA, sonha ser fotógrafo. Ao descobrir alienígenas, quase perde a vida em um incidente. Salvo pelo acaso, adquire poderes sobre-humanos e se torna o 'defensor da justiça', combatendo o crime em Nova York.",
+  "exemplar_id": 5240,
+  "sku": "LI02XM",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/ultraman__eiichi-shimizu-tomohiro-shimoguchi__capa__2026-02-20_10-33-03-805414-000.png",
+  "contracapa": "static/uploads/ultraman__eiichi-shimizu-tomohiro-shimoguchi__contracapa__2026-02-20_10-33-03-850164-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 4773,
+  "autor": "Hiro Mashima",
+  "titulo": "Edens Zero",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Aventura. Amizade. Conflito.",
+  "palavras_chave": "mashima edens zero",
+  "edicao_id": 4748,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 182,
+  "peso": 230,
+  "isbn": "9786555945058",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "",
+  "volume": 23,
+  "transcricao_contracapa": "<p>A luta entre o grupo de Shiki, que pretende derrotar Ziggy, e os Quatro Astros das Trevas do Rei Demônio, que estão no caminho deles, começa! Apesar do grupo dos heróis ser separado, lançados para dimensões diferentes, Shiki consegue derrotar Wizard. Mas Wise é derrotado por Killer, Rebecca perde para Clown, e Homura não está à altura de Brigandine... E, então, Killer e Clown se infiltram na Edens Zero. Com a situação piorando cada vez mais, Hermit e Sister entram na luta. As Quatro Estrelas Cintilantes encaram seus inimigos com orgulho!!</p><p>EDENS ZERO é o novo mangá de sucesso de Hiro Mashima, autor de Fairy Tail.</p>",
+  "sinopse": "A luta entre o grupo de Shiki contra Ziggy e os Quatro Astros das Trevas começa. Com os heróis separados em dimensões diferentes, Shiki vence Wizard, enquanto outros enfrentam desafios. Hermit e Sister entram para ajudar, e todos encaram novos inimigos com orgulho. Este é o novo sucesso de Hiro Mashima, criador de Fairy Tail.",
+  "exemplar_id": 4747,
+  "sku": "LI02K7",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/edens-zero__hiro-mashima__capa__2026-02-20_10-30-30-020493-000.png",
+  "contracapa": "static/uploads/edens-zero__hiro-mashima__contracapa__2026-02-20_10-30-30-070448-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, mas extremamente bem preservado: livre de marcações, assinaturas ou carimbos; sem qualquer dano físico; papel sem sinais de envelhecimento. Apresenta apenas mínimos vestígios de manuseio leve."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

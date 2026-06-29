@@ -1,0 +1,63 @@
+{
+  "obra_id": 2545,
+  "autor": "Marcia Tiburi",
+  "titulo": "Filosofia em comum",
+  "subtitulo": "Para ler junto",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "tiburi filosofia comum para",
+  "edicao_id": 2525,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 186,
+  "peso": 363,
+  "isbn": "",
+  "editora": "Record",
+  "numero_edicao": 0,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2524,
+  "sku": "LI01KP",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marcia-tiburi--filosofia-em-comum--capa--20260316--202120.jpg",
+  "contracapa": "static/uploads/marcia-tiburi--filosofia-em-comum--contracapa--20260316--202120.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados.  Em linguagem simples e clara, Márcia Tiburi constrói um livro-dispositivo no qual leva o leitor a buscar a filosofia não como história de idéias prontas, mas como método, ou seja, um modo de pensar."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:03:07",
+  "observacoes": null
+}

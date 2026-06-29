@@ -1,0 +1,63 @@
+{
+  "obra_id": 2395,
+  "autor": "Luís Cláudio Monteiro; Priscilla Lopes e Lopes",
+  "titulo": "Avaliação para Atividades Físicas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "monteiro avaliacao para atividades",
+  "edicao_id": 2375,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 129,
+  "peso": 523,
+  "isbn": "9788575791820",
+  "editora": "Thomson",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra aborda a importância da avaliação da aptidão física para a prescrição e controle de programas de exercícios. Focada em atividades físicas, esportivas e recreativas, tem como objetivo guiar profissionais a desenvolverem essas práticas com ética e competência. Escrita por especialistas, é uma leitura recomendada para aqueles que buscam consolidar o valor da avaliação morfofuncional no campo da educação física.",
+  "exemplar_id": 2374,
+  "sku": "LI01GK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/luis-claudio-monteiro--avaliacao-para-atividades-fisicas--capa--20260316--155535.jpg",
+  "contracapa": "static/uploads/luis-claudio-monteiro--avaliacao-para-atividades-fisicas--contracapa--20260316--155543.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:31:40",
+  "observacoes": null
+}

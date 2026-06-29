@@ -1,0 +1,68 @@
+{
+  "obra_id": 1412,
+  "autor": "Paul Chavigny",
+  "titulo": "Organização do trabalho intelectual",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Organização. Conhecimento. Aprendizado.",
+  "palavras_chave": "chavigny organizacao trabalho intelectual",
+  "edicao_id": 1394,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 2020,
+  "peso": 200,
+  "isbn": "9788594090447",
+  "editora": "Kirion",
+  "numero_edicao": 1,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Cada dia traz sua cota de conhecimento, através da leitura, da observação e da reflexão. Nem tudo vale a pena ser guardado, é claro. Mas é inegável que muito desse conhecimento se perde, por descuido ou negligência, por não sabermos organizá-lo. Ora, deveríamos estancar essa dissipação de forças. As regras oferecidas pelo Doutor Chavigny ajudam todos — principalmente os jovens, mas também todos os estudiosos e aqueles que, em seu trabalho, não podem prescindir de uma documentação extensa — a fazer seu próprio sumário, a administrar um repertório cômodo de todos os conhecimentos adquiridos no dia-a-dia, de forma que seja possível acessá-los à vontade sempre que necessário, sem nenhum grande esforço da memória.</p>",
+  "sinopse": "O livro 'Organização do Trabalho Intelectual' de Paul Chavigny fornece regras práticas para a melhor organização do conhecimento adquirido diariamente. Destina-se principalmente a jovens e estudiosos que necessitam de um método eficiente para manter e acessar a vasta informação que acumulam em suas atividades, facilitando o trabalho e diminuindo a perda de conhecimento por negligência.",
+  "exemplar_id": 1393,
+  "sku": "LI00U0",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/paul-chavigny--organiza--o-do-trabalho-intelectual--capa--20250401--115342.png",
+  "contracapa": "static/uploads/paul-chavigny--organiza--o-do-trabalho-intelectual--contracapa--20250401--115342.png",
+  "fotos": [
+    "static/uploads/paul-chavigny--organiza--o-do-trabalho-intelectual--foto1--20250401--115342.jpg",
+    "static/uploads/paul-chavigny--organiza--o-do-trabalho-intelectual--foto2--20250401--115342.jpg",
+    "static/uploads/paul-chavigny--organiza--o-do-trabalho-intelectual--foto3--20250401--115342.jpg",
+    "static/uploads/paul-chavigny--organiza--o-do-trabalho-intelectual--foto4--20250401--115342.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:58:44",
+  "observacoes": null
+}

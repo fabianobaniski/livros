@@ -1,0 +1,63 @@
+{
+  "obra_id": 5669,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Romance. Escolares.",
+  "palavras_chave": "saburouta citrus",
+  "edicao_id": 5644,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 161,
+  "peso": 220,
+  "isbn": "9788583622437",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": 4,
+  "transcricao_contracapa": "<p>Desde a noite de Natal, <b>Yuzu</b> e <b>Mei</b> passam dias de desencontros. <b>Yuzu</b> tenta melhorar a relação entre as duas durante a excursão escolar, mas se atrasa muito logo no primeiro dia e não consegue pegar o trem-bala com a turma. Ela ganhou coragem de uma bela garota chamada <b>Sara</b>, que conheceu por coincidência, e tenta dizer a <b>Mei</b> o que sente por ela, mas então surge <b>Nina</b> que diz ser irmã de <b>Sara</b>...</p>",
+  "sinopse": "Yuzu tenta melhorar sua relação com Mei durante uma excursão escolar, mas enfrenta desencontros e atrasos. Com a ajuda de Sara, uma bela garota que conheceu por acaso, Yuzu busca coragem para confessar seus sentimentos. Entretanto, a chegada de Nina, irmã de Sara, promete complicar ainda mais as coisas.",
+  "exemplar_id": 5643,
+  "sku": "LI032M",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2026-02-24_13-36-50-089631-000.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2026-02-24_13-36-50-118305-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

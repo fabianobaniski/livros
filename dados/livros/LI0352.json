@@ -1,0 +1,68 @@
+{
+  "obra_id": 5757,
+  "autor": "Themmy Lima",
+  "titulo": "O encontro de Jesus com Bartimeu",
+  "subtitulo": "O contraponto da cultura judaica.",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Estudo bíblico. Evangelhos. Cultura judaica.",
+  "palavras_chave": "lima encontro jesus com bartimeu",
+  "edicao_id": 5732,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 64,
+  "peso": 90,
+  "isbn": "",
+  "editora": "Mundo Teológico",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O pastor Themmy Lima autor da obra sobre Bartimeu é aluno do Senhor Jesus. Isso muito contribuiu para duas formações: Formado em Turismo pela Associação Brasileira dos Agentes de Viagens (ABAV), área que militou durante vinte e nove anos. Formado em Teologia pela Faculdade Evangélica de São Paulo, propôs em seu coração militar na área do ensino bíblico em cumprimento a ordenança do Senhor Jesus. (Mt 28.19) nesta área pretende militar até sua chamada pelo Senhor. Possui especialização em “Contextualização Bíblica” e “Missiologia” é exegeta e apologista. É autor do Blog. Mundo Teológico, onde também é colunista. Autor de diversos livros todos voltados à área evangélica.</p><p>A narrativa sobre Bartimeu começa trazendo uma aparente contradição, visto que Lucas descreve o início da narrativa dizendo que Jesus dá inicio ao milagre da cura do cego quando está perto de Jericó ao passo que Marcos e Mateus quando Jesus está saindo.<br>Antes de discorrermos sobre o assunto é importante trazer ao conhecimento do leitor que Lucas é importante nesta narrativa por que seu evangelho é o único que por (vinte e duas vezes), registra a palavra “e aconteceu”, isto, significa tratar-se de um fato real. Os gregos ao qual seu evangelho foi direcionado apreciam a exatidão por isto, este evangelho é tão enfático em algumas passagens.<br>O foco é combater a idolatria e desmascarar seus ídolos, neste sentido Lucas é imperativo.<br>Por este, motivo que a cronologia começa com Lucas e tem sequência com Marcos e Mateus.</p>",
+  "sinopse": "A obra analisa a narrativa bíblica do encontro de Jesus com Bartimeu, destacando as diferenças entre os evangelhos de Lucas, Marcos e Mateus, e o foco de Lucas em relatar fatos reais com exatidão. O texto enfatiza o combate à idolatria e a importância de Lucas como ponto de partida para entender a cronologia dos eventos, trazendo à tona o contraponto entre a mensagem cristã e a cultura judaica.",
+  "exemplar_id": 5731,
+  "sku": "LI0352",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/o-encontro-de-jesus-com-bartimeu__o-contraponto-da-cultura-judaica__pastor-themmy-lima__capa__2026-01-18_14-11-25-180492-000.png",
+  "contracapa": "static/uploads/o-encontro-de-jesus-com-bartimeu__o-contraponto-da-cultura-judaica__pastor-themmy-lima__contracapa__2026-01-18_14-11-25-406939-001.png",
+  "fotos": [
+    "static/uploads/o-encontro-de-jesus-com-bartimeu__o-contraponto-da-cultura-judaica__pastor-themmy-lima__foto-01__2026-01-18_14-11-25-676215-002.jpg",
+    "static/uploads/o-encontro-de-jesus-com-bartimeu__o-contraponto-da-cultura-judaica__pastor-themmy-lima__foto-02__2026-01-18_14-11-25-707576-003.jpg",
+    "static/uploads/o-encontro-de-jesus-com-bartimeu__o-contraponto-da-cultura-judaica__pastor-themmy-lima__foto-03__2026-01-18_14-11-25-730659-004.jpg",
+    "static/uploads/o-encontro-de-jesus-com-bartimeu__o-contraponto-da-cultura-judaica__pastor-themmy-lima__foto-04__2026-01-18_14-11-25-770307-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém com algumas pigmentações amareladas nas primeiras e últimas folhas. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:05:27",
+  "observacoes": null
+}

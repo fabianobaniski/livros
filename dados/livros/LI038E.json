@@ -1,0 +1,68 @@
+{
+  "obra_id": 5878,
+  "autor": "Jody Revenson",
+  "titulo": "Os lugares mágicos dos filmes de Harry Potter",
+  "subtitulo": "Hogwarts, Beco Diagonal e além",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Cinema. Harry Potter. Bastidores de filmes. Design de produção.",
+  "palavras_chave": "lugares magicos filmes harry potter ",
+  "edicao_id": 5853,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 205,
+  "peso": 1350,
+  "isbn": "9788501103475",
+  "editora": "Galera Record",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><b>Do castelo de Hogwarts a Azkaban e ao Ministério da Magia</b>, das inesquecíveis locações dos filmes de Harry Potter são, de muitas maneiras, tão amadas quanto os próprios personagens da série. <i>Os lugares mágicos dos filmes de Harry Potter</i> traz um olhar cativante sobre os sets desenhados, construídos, decorados e digitalmente ampliados especificamente para os filmes. Perfis detalhados de cada ambiente incluem artes conceituais jamais vistas, fotografias dos bastidores, capturas de tela e outros segredos do arquivo da Warner Bros. Um mapa destacável do Beco Diagonal – réplica do original criado para o set do Caldeirão Furado – e um panfleto com uma seleção das pinturas de Hogwarts completam este singular acréscimo ao exaustivo <i>O livro das criaturas de Harry Potter</i>.</p>",
+  "sinopse": "Este livro apresenta um olhar detalhado sobre os cenários marcantes dos filmes de Harry Potter, explorando desde o castelo de Hogwarts até Azkaban e o Ministério da Magia. Inclui artes conceituais inéditas, fotos de bastidores, capturas de tela e informações exclusivas dos arquivos da Warner Bros. Um mapa destacável do Beco Diagonal e um panfleto com pinturas de Hogwarts acompanham esta edição especial, tornando-a um item indispensável para fãs do universo bruxo.",
+  "exemplar_id": 5852,
+  "sku": "LI038E",
+  "preco_estante_virtual": 80.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/os-lugares-magicos-dos-filmes-de-harry-potter__hogwarts-beco-diagonal-e-alem__none__capa__2026-01-18_14-12-53-386546-000.png",
+  "contracapa": "static/uploads/os-lugares-magicos-dos-filmes-de-harry-potter__hogwarts-beco-diagonal-e-alem__none__contracapa__2026-01-18_14-12-53-436495-001.png",
+  "fotos": [
+    "static/uploads/os-lugares-magicos-dos-filmes-de-harry-potter__hogwarts-beco-diagonal-e-alem__none__foto-01__2026-01-18_14-12-53-493373-002.jpg",
+    "static/uploads/os-lugares-magicos-dos-filmes-de-harry-potter__hogwarts-beco-diagonal-e-alem__none__foto-02__2026-01-18_14-12-53-679165-003.jpg",
+    "static/uploads/os-lugares-magicos-dos-filmes-de-harry-potter__hogwarts-beco-diagonal-e-alem__none__foto-03__2026-01-18_14-12-53-785802-004.jpg",
+    "static/uploads/os-lugares-magicos-dos-filmes-de-harry-potter__hogwarts-beco-diagonal-e-alem__none__foto-04__2026-01-18_14-12-53-826015-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:21:13",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 4741,
+  "autor": "Yoshihiro Togashi",
+  "titulo": "Hunter x Hunter",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura.",
+  "palavras_chave": "togashi hunter hunter",
+  "edicao_id": 4716,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 203,
+  "peso": 230,
+  "isbn": "9788577874637",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": 28,
+  "transcricao_contracapa": "",
+  "sinopse": "Exemplar de colecionador em ótimo estado! Estrutura impecável com capa e contracapa sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio.",
+  "exemplar_id": 4715,
+  "sku": "LI02JB",
+  "preco_estante_virtual": 32.0,
+  "preco_amazon": 32.0,
+  "capa": "static/uploads/hunter-x-hunter__yoshihiro-togashi__capa__2026-02-20_10-30-22-427247-000.png",
+  "contracapa": "static/uploads/hunter-x-hunter__yoshihiro-togashi__contracapa__2026-02-20_10-30-22-474980-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Estrutura impecável com capa e contracapa sem avarias, além de lombada perfeitamente alinhada. A parte interna está firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2377,
+  "autor": "Luiz Roberto Guedes",
+  "titulo": "Armadilha para Lobisomem",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "guedes armadilha para lobisomem",
+  "edicao_id": 2357,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 184,
+  "peso": 280,
+  "isbn": "9788524911309",
+  "editora": "Cortez",
+  "numero_edicao": 1,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Uma empresa de biogenética busca capturar Tiago Lobo, um raro lobisomem, para explorar seu DNA. Para atrair a fera, o professor Lobão e seus vilões armam uma armadilha, utilizando a bela doutora Liana Monteverde e seu time de desajeitados Caçadores de Lobos. No entanto, o amor entra em cena, e Lobão se vê dividido entre sua missão e a final de um campeonato de futsal juvenil. A paixão torna-se a verdadeira arma contra o lobisomem, em uma trama que mistura humor, romance gótico e um desfecho inesperado.",
+  "exemplar_id": 2356,
+  "sku": "LI01G2",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/luiz-roberto-guedes--armadilha-para-lobisomem--capa--20260316--154711.jpg",
+  "contracapa": "static/uploads/luiz-roberto-guedes--armadilha-para-lobisomem--contracapa--20260316--154719.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso. Há carimbo de livraria na parte interna da contracapa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:15:47",
+  "observacoes": null
+}

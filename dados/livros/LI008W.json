@@ -1,0 +1,68 @@
+{
+  "obra_id": 349,
+  "autor": "Émile Boutroux",
+  "titulo": "Sócrates, fundador da ciência moral",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia. Ciência. Arte.",
+  "palavras_chave": "boutroux socrates fundadores ciencia moral",
+  "edicao_id": 340,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 106,
+  "peso": 150,
+  "isbn": "9788567801049",
+  "editora": "Livraria Danúbio",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Uma união entre ciência e arte é o gérmen mesmo da filosofia socrática. Sócrates não inicia por cultivar separadamente a ciência e a arte, para em seguida fazer que uma sirva a outra. Ele considera que as duas se dispersam quando pretendem caminhar sozinhas. É em seu concurso íntimo, e em sua mútua penetração, que reside a condição de sua existência e de seu êxito.</p><p>Émile Boutroux</p>",
+  "sinopse": "O livro explora a profunda conexão entre ciência e arte, conforme a filosofia de Sócrates, enfatizando que sua união é essencial para evitar a dispersão e garantir o sucesso de ambas. É uma reflexão sobre o impacto mútuo desses campos no pensamento socrático.",
+  "exemplar_id": 339,
+  "sku": "LI008W",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/-mile-boutroux--s-crates--fundador-da-ci-ncia-moral--capa--20250226--133821.jpg",
+  "contracapa": "static/uploads/-mile-boutroux--s-crates--fundador-da-ci-ncia-moral--contracapa--20250226--133821.jpg",
+  "fotos": [
+    "static/uploads/-mile-boutroux--s-crates--fundador-da-ci-ncia-moral--foto1--20250226--133821.jpg",
+    "static/uploads/-mile-boutroux--s-crates--fundador-da-ci-ncia-moral--foto2--20250226--133821.jpg",
+    "static/uploads/-mile-boutroux--s-crates--fundador-da-ci-ncia-moral--foto3--20250226--133821.jpg",
+    "static/uploads/-mile-boutroux--s-crates--fundador-da-ci-ncia-moral--foto4--20250226--133821.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Apresenta, contudo, algumas folhas grifadas à lápis. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:34:43",
+  "observacoes": null
+}

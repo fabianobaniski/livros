@@ -1,0 +1,63 @@
+{
+  "obra_id": 2524,
+  "autor": "Daniela Bouret; Alvaro Martínez; David Telias",
+  "titulo": "Entre la Matzá y el Mate",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "bouret entre matza mate",
+  "edicao_id": 2504,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 158,
+  "peso": 300,
+  "isbn": "",
+  "editora": "La Banda Oriental",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro aborda a perseguição e genocídio do povo judeu durante o regime nazista, destacando a importância de preservar a memória histórica desse período sombrio. A obra traz relatos profundos de sobreviventes e familiares, com o objetivo de conscientizar as gerações futuras sobre os horrores do Holocausto. Além disso, explora o impacto dessa tragédia na identidade nacional e no entendimento coletivo dos eventos do século XX.",
+  "exemplar_id": 2503,
+  "sku": "LI01K4",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/daniela-bouret--entre-la-matza-y-el-mate--capa--20260316--193941.jpg",
+  "contracapa": "static/uploads/daniela-bouret--entre-la-matza-y-el-mate--contracapa--20260316--193942.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "La inmigración judía en Uruguay: una história en construción / Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados.  Ano: 1997."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:21:11",
+  "observacoes": null
+}

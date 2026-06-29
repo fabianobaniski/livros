@@ -1,0 +1,68 @@
+{
+  "obra_id": 1496,
+  "autor": "Marília de Camargo César",
+  "titulo": "Marina",
+  "subtitulo": "A vida por uma causa",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "Biografia. Política. Sustentabilidade.",
+  "palavras_chave": "cesar marina vida causa",
+  "edicao_id": 1477,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 244,
+  "peso": 350,
+  "isbn": "9788573256277",
+  "editora": "Mundo Cristão",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Marina está voltada para o amanhã</p> <p>Enquanto as forças políticas que tocam o Brasil vivem às turras numa discussão estéril sobre quem está mais à direita ou à esquerda ou quem é responsável por isso ou aquilo, e ainda pensam o país com os valores e olhos do passado, focados em crescimento e expansão, como se isso ainda fosse sempre razoável e desejável, Marina está voltada para o amanhã. Vê a possibilidade de outro futuro, não só para o Brasil, mas para o mundo todo. Sabe que precisamos começar hoje a mudar alguns paradigmas de nossa vida, se queremos deixar algum planeta para nossos descendentes.</p> <p>Ao compreender como poucos líderes a importância dessa guinada em nossa civilização, Marina mostra-se alinhada com o pensamento científico de ponta e representa o que de mais novo existe hoje no Brasil.</p>",
+  "sinopse": "Marina, por meio de sua visão inovadora e focada no futuro, discute a necessidade de mudanças para um amanhã melhor, não só para o Brasil, mas para o mundo. Ela apresenta uma nova perspectiva sobre como liderar e desenvolver valores que rompem com paradigmas antigos, ressaltando a importância de agir agora para garantir um futuro sustentável para as próximas gerações.",
+  "exemplar_id": 1476,
+  "sku": "LI00W9",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/mar-lia-de-camargo-c-sar--marina--capa--20250401--115740.jpg",
+  "contracapa": "static/uploads/mar-lia-de-camargo-c-sar--marina--contracapa--20250401--115740.jpg",
+  "fotos": [
+    "static/uploads/mar-lia-de-camargo-c-sar--marina--foto1--20250401--115740.jpg",
+    "static/uploads/mar-lia-de-camargo-c-sar--marina--foto2--20250401--115740.jpg",
+    "static/uploads/mar-lia-de-camargo-c-sar--marina--foto3--20250401--115740.jpg",
+    "static/uploads/mar-lia-de-camargo-c-sar--marina--foto4--20250401--115740.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:59:37",
+  "observacoes": null
+}

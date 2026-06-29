@@ -1,0 +1,68 @@
+{
+  "obra_id": 1773,
+  "autor": "João Álvaro Ruiz",
+  "titulo": "Metodologia científica",
+  "subtitulo": "Guia para eficiência nos estudos",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Metodologia científica. Conhecimento. Ensino superior.",
+  "palavras_chave": "ruiz metodologia cientifica guia para eficiencia estudos",
+  "edicao_id": 1753,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 380,
+  "isbn": "9788522444823",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<b>METODOLOGIA CIENTÍFICA</b><br><i>Guia para eficiência nos estudos</i><p>Este livro propõe-se a examinar diretrizes aptas a instrumentar o universitário para que possa tirar maior proveito do tempo dedicado a aulas, reuniões de grupos, leituras, planejamentos e desenvolvimento de pesquisa. Ele quer caminhar a seu lado, acompanhando-o em seus primeiros passos de vida universitária, indicando-lhe o caminho na procura do conhecimento, iluminando problemas para que melhor possa vê-los, ajudando-o a assumir e a desenvolver hábitos de estudo e técnicas de trabalho que tornem produtivos seus anos de estudo.</p><p>Aborda o problema da natureza do conhecimento e do método científico, os diferentes modos de conhecer, contrapondo o conhecimento vulgar, o conhecimento mítico, o conhecimento intuitivo, o conhecimento teológico e o conhecimento filosófico ao conhecimento científico. Trata também da natureza da verdade, da certeza e da evidência como critério da verdade e fundamento da certeza. E acentua, ainda, as características da ciência, estimulando a assimilação do espírito científico.</p><b>APLICAÇÃO</b><p>Livro-texto para a disciplina METODOLOGIA CIENTÍFICA dos cursos universitários de graduação. Recomendado também para cursos especiais sobre técnicas de estudo, elaboração e redação de trabalhos de pesquisa.</p>",
+  "sinopse": "Este livro examina diretrizes para auxiliar universitários a aproveitarem melhor o tempo em aulas, grupos e pesquisas, fornecendo orientação desde os primeiros passos da vida acadêmica até o desenvolvimento de técnicas de estudo produtivas. Analisa a natureza do conhecimento e do método científico, diferenciando modos de conhecer e contrastando com outros tipos de conhecimento. Aborda ainda questões sobre verdade, certeza e evidência, destacando as características da ciência e incentivando a assimilação do espírito científico. Indicado para graduandos e para cursos sobre elaboração de trabalhos acadêmicos.",
+  "exemplar_id": 1752,
+  "sku": "LI00ZC",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/jo-o--lvaro-ruiz--metodologia-cient-fica--capa--20250430--102944.jpg",
+  "contracapa": "static/uploads/jo-o--lvaro-ruiz--metodologia-cient-fica--contracapa--20250430--102944.jpg",
+  "fotos": [
+    "static/uploads/jo-o--lvaro-ruiz--metodologia-cient-fica--foto1--20250430--102944.jpg",
+    "static/uploads/jo-o--lvaro-ruiz--metodologia-cient-fica--foto2--20250430--102944.jpg",
+    "static/uploads/jo-o--lvaro-ruiz--metodologia-cient-fica--foto3--20250430--102945.jpg",
+    "static/uploads/jo-o--lvaro-ruiz--metodologia-cient-fica--foto4--20250430--102945.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 19:51:05",
+  "observacoes": "procedencia_biblioteca"
+}

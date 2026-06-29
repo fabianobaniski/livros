@@ -1,0 +1,63 @@
+{
+  "obra_id": 3073,
+  "autor": "Rachel Cossetti",
+  "titulo": "A Jornada do Câncer",
+  "subtitulo": "Histórias de Quem Percorreu esse Caminho",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": null,
+  "palavras_chave": "cossetti jornada cancer historias",
+  "edicao_id": 3053,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 208,
+  "peso": 400,
+  "isbn": "9786599992407",
+  "editora": "Edições 4m",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Ninguém escolhe ter o diagnóstico de um câncer. Mas quando esse diagnóstico chega, é como se você estivesse diante de uma estrada obrigatória não antecipada no mapa de sua vida. Ele não espera o melhor momento para acontecer, nem aguarda a concretização de planos ou o merecido descanso após turbulências vividas.",
+  "exemplar_id": 3052,
+  "sku": "LI01ZD",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro seminovo, sem danos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:29:04",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

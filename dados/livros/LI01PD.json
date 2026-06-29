@@ -1,0 +1,63 @@
+{
+  "obra_id": 2713,
+  "autor": "Mário Castro Hipólito",
+  "titulo": "Moedas gregas antigas",
+  "subtitulo": "Ouro",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "hipolito moedas gregas antigas",
+  "edicao_id": 2693,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 164,
+  "peso": 700,
+  "isbn": "9789728128197",
+  "editora": "Museu Calouste Gulbenkian",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro, publicado pelo Museu Gulbenkian em Lisboa sobre moedas de ouro gregas antigas, com fotos de alta qualidade, detalha a coleção de Sarkis Calouste Gulbenkian. Inclui mais de 200 fotografias, um mapa dos centros emissores de moedas gregas e informações detalhadas sobre as 143 peças. É um recurso importante para numismática e cultura do mundo antigo. Aparentemente, o livro não foi publicado novamente devido ao custo. Como resultado, este livro é difícil de encontrar.",
+  "exemplar_id": 2692,
+  "sku": "LI01PD",
+  "preco_estante_virtual": 200.0,
+  "preco_amazon": 200.0,
+  "capa": "static/uploads/moedas-gregas-antigas-mario-castro-hipolito-capa_rev1375.jpg",
+  "contracapa": "static/uploads/moedas-gregas-antigas-mario-castro-hipolito-contracapa_rev1801.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Capa dura com sobrecapa.,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:38:38",
+  "observacoes": null
+}

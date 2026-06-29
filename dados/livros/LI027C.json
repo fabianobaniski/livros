@@ -1,0 +1,68 @@
+{
+  "obra_id": 3365,
+  "autor": "Taishi Tsutsui",
+  "titulo": "We never learn",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Vida escolar. Amizade. Juventude.",
+  "palavras_chave": "tsutsui never learn",
+  "edicao_id": 3342,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 210,
+  "isbn": "9786559820108",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 8,
+  "transcricao_contracapa": "<p>Rizu estreita os laços com sua “melhor amiga”, Sawako. Uruka desabafa sobre suas inseguranças com a Kirisu-sensei antes do campeonato. O grupo de Nariyuki vai amadurecendo enquanto estuda, mas o Festival Cultural começa com o prenúncio de grandes confusões…?!</p>",
+  "sinopse": "Rizu fortalece sua amizade com Sawako, enquanto Uruka compartilha suas inseguranças com Kirisu-sensei antes de um importante campeonato. O grupo de Nariyuki amadurece durante os estudos, mas o início do Festival Cultural traz a promessa de grandes confusões para todos.",
+  "exemplar_id": 3341,
+  "sku": "LI027C",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/we-never-learn__taishi-tsutsui__capa__2025-11-05_16-25-49-922724.jpg",
+  "contracapa": "static/uploads/we-never-learn__taishi-tsutsui__contracapa__2025-11-05_16-25-49-951296.jpg",
+  "fotos": [
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-01__2025-11-05_16-25-49-976902.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-02__2025-11-05_16-25-50-002280.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-03__2025-11-05_16-25-50-024622.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-04__2025-11-05_16-25-50-054511.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:48:00",
+  "observacoes": null
+}

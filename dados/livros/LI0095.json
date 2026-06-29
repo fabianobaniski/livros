@@ -1,0 +1,68 @@
+{
+  "obra_id": 358,
+  "autor": "Renan II de Pinheiro e Pereira",
+  "titulo": "Fátima e Pontmain",
+  "subtitulo": "Aparições de paz em tempos de guerra",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. História. Fé.",
+  "palavras_chave": "pinheiro fátima pontmain ",
+  "edicao_id": 349,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 223,
+  "peso": 300,
+  "isbn": "9788584910199",
+  "editora": "Ecclesiae",
+  "numero_edicao": 1,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este não é um livro com viés pietista ou espiritualista: é uma descrição e análise das circunstâncias dessas aparições e das mensagens nelas divulgadas, que se destacam das demais por terem ocorrido em tempos de guerra, mas tratam de paz.</p> <p>São palavras que repercutiram no mundo inteiro e influenciaram várias pessoas, mas que ainda podem ter muito a revelar, mesmo com tudo o que já foi publicado sobre elas, até porque nem sempre isso foi feito com o cuidado ou o respeito que elas merecem.</p> <p>As duas histórias aqui relatadas foram divulgadas internacionalmente, e inspiraram a edificação de diversas igrejas, capelas e oratórios ao redor do mundo. Mas ainda que esse aspecto devocional seja importante, deve-se ter cuidado para que ele não ofusque aquilo que elas têm de mais instrutivo para a humanidade, que é a sua mensagem: não adiantará alguém rezar Nossa Senhora e ter um nicho com a imagem dela em sua casa, se essa pessoa é incapaz de ter amor em seu coração, reconhecer os seus erros e se penitenciar deles, e se injusta com os outros ou ofende a Deus.</p>",
+  "sinopse": "Neste livro, o autor apresenta uma análise das aparições de Fátima e Pontmain, que ocorreram em tempos de guerra e trouxeram mensagens de paz. As histórias relataram eventos que impactaram vidas ao redor do mundo, inspirando a construção de igrejas e a edificação espiritual. O texto enfatiza a importância de acolher as mensagens com o devido respeito e cuidado, ressaltando que a verdadeira devoção deve ser acompanhada de amor e perdão.",
+  "exemplar_id": 348,
+  "sku": "LI0095",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 23.0,
+  "capa": "static/uploads/renan-ii-de-pinheiro-e-pereira--f-tima-e-pontmain---capa--20250226--133822.jpg",
+  "contracapa": "static/uploads/renan-ii-de-pinheiro-e-pereira--f-tima-e-pontmain---contracapa--20250226--133822.jpg",
+  "fotos": [
+    "static/uploads/renan-ii-de-pinheiro-e-pereira--f-tima-e-pontmain---foto1--20250226--133822.jpg",
+    "static/uploads/renan-ii-de-pinheiro-e-pereira--f-tima-e-pontmain---foto2--20250226--133822.jpg",
+    "static/uploads/renan-ii-de-pinheiro-e-pereira--f-tima-e-pontmain---foto3--20250226--133822.jpg",
+    "static/uploads/renan-ii-de-pinheiro-e-pereira--f-tima-e-pontmain---foto4--20250226--133822.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:49:37",
+  "observacoes": null
+}

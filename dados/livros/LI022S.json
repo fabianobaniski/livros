@@ -1,0 +1,63 @@
+{
+  "obra_id": 3196,
+  "autor": "Alessandro de Melo",
+  "titulo": "Fundamentos Socioculturais da Educação",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": null,
+  "palavras_chave": "melo fundamentos socioculturais educacao",
+  "edicao_id": 3176,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 278,
+  "peso": 150,
+  "isbn": "9788582122303",
+  "editora": "Intersaberes",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Este livro propõe uma análise abrangente sobre a educação como fenômeno humano e social, explorando temas como multiculturalismo, interculturalidade, etnocentrismo, diversidade e pluralidade cultural. Com um enfoque formativo, destaca como a prática pedagógica pode gerar impactos profundos em contextos sociais e antropológicos. Ideal para estudantes de Pedagogia, a obra incentiva uma visão crítica e transformadora, capacitando educadores a promoverem mudanças significativas no universo escolar e na sociedade.",
+  "exemplar_id": 3175,
+  "sku": "LI022S",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:20:23",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2795,
+  "autor": "Mário de Andrade",
+  "titulo": "O poço & outras histórias",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contos",
+  "temas": "",
+  "palavras_chave": "andrade poco outras historias",
+  "edicao_id": 2775,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 76,
+  "peso": 150,
+  "isbn": "9788508034246",
+  "editora": "Ática",
+  "numero_edicao": 8,
+  "ano": 1998,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "A obra explora as complexidades das relações humanas e sociais, revelando traços profundos da alma brasileira. Mário de Andrade utiliza histórias aparentemente simples, como a convivência entre vizinhos e empregados, para refletir sobre a condição humana e a sociedade. Seus textos capturam a essência e o modo de pensar do brasileiro, trazendo à tona questões sobre empatia, identidade e moralidade. O poço e outras histórias oferece uma oportunidade valiosa de mergulhar no universo de um dos maiores escritores da nossa literatura.",
+  "exemplar_id": 2774,
+  "sku": "LI01RN",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-poco--outras-historias-mario-de-andrade-capa_rev909.jpg",
+  "contracapa": "static/uploads/o-poco--outras-historias-mario-de-andrade-contracapa_rev1816.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:37:17",
+  "observacoes": null
+}

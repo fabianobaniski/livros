@@ -1,0 +1,63 @@
+{
+  "obra_id": 2568,
+  "autor": "Michael Reder",
+  "titulo": "Globalização e filosofia",
+  "subtitulo": "Uma introdução",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "reder globalizacao filosofia uma",
+  "edicao_id": 2548,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 167,
+  "peso": 471,
+  "isbn": "9788515039944",
+  "editora": "Edições Loyola",
+  "numero_edicao": 0,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2547,
+  "sku": "LI01LC",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/michael-reder--globalizacao-e-filosofia--capa--20260316--202818.jpg",
+  "contracapa": "static/uploads/michael-reder--globalizacao-e-filosofia--contracapa--20260316--202818.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado, sem qualquer dano na capa, lombada ou contracapa. Miolo impecável. Texto livre de anotações e sublinhados. Também não constam carimbo, selo e assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:14:52",
+  "observacoes": null
+}

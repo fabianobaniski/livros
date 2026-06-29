@@ -1,0 +1,63 @@
+{
+  "obra_id": 5122,
+  "autor": "Gege Akutami",
+  "titulo": "Jujutsu Kaisen",
+  "subtitulo": "Batalha de Feiticeiros",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção Científica. Mangá. Sobrenatural.",
+  "palavras_chave": "akutami jujutsu kaisen batalha feiticeiros",
+  "edicao_id": 5097,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 230,
+  "isbn": "9786559600205",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>Tem início o Intercâmbio da Escola Irmã de Kyoto. O torneio em equipe do primeiro dia terá como vencedor o grupo que exorcizar primeiro uma maldição de nível 2, mas o briguento Todo ataca de surpresa o grupo da Escola de Tokyo e Itadori fica para enfrentá-lo. Ele só não esperava que o restante da equipe da Escola de Kyoto também fosse aparecer para se juntar ao confronto!!</p>",
+  "sinopse": "O Intercâmbio da Escola Irmã de Kyoto começa, com um torneio onde vencerá a equipe que exorcizar primeiro uma maldição de nível 2. Todo ataca de surpresa o grupo de Tokyo, mas não contava com a chegada da equipe de Kyoto para se juntar ao confronto.",
+  "exemplar_id": 5096,
+  "sku": "LI02TM",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/jujutsu-kaisen__batalha-de-feiticeiros__gege-akutami__capa__2026-02-20_10-32-13-342188-000.png",
+  "contracapa": "static/uploads/jujutsu-kaisen__batalha-de-feiticeiros__gege-akutami__contracapa__2026-02-20_10-32-13-391123-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, adquirido de colecionador, em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

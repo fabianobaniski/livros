@@ -1,0 +1,68 @@
+{
+  "obra_id": 2001,
+  "autor": "Ellen G. White",
+  "titulo": "O grande conflito",
+  "subtitulo": "Uma saga milenar e seu final surpreendente",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Conflitos espirituais. Questões existenciais.",
+  "palavras_chave": "white grande conflito",
+  "edicao_id": 1981,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 287,
+  "peso": 255,
+  "isbn": "9788534529310",
+  "editora": "CPB / Novo Tempo",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A história que está em suas mãos é real. De certa forma, ela inclui todas as outras, inclusive a sua. Este livro explica por que o mundo é do jeito que é, respondendo às perguntas mais inquietantes da mente humana: Por que estou aqui? Por que as pessoas sofrem? Existe esperança para a humanidade? Qual é o futuro do planeta?</p><p>Nesta obra instigante e envolvente, você descobrirá o que torna alguém vencedor ou perdedor no intenso conflito no qual todos estamos envolvidos. Esse conhecimento proporcionará paz interior e força moral para você avançar na trajetória da vida sem medo do futuro. Por tudo isso e muito mais, leia este livro imediatamente.</p><p><b>Ellen G. White</b>, uma das personalidades mais influentes do mundo, escreveu muitos livros e é a autora mais traduzida da história.</p>",
+  "sinopse": "O livro aborda as questões existenciais mais profundas da humanidade, explicando por que o mundo é como é e trazendo respostas para temas como sofrimento, esperança e o futuro do planeta. Com uma escrita instigante, apresenta o dilema do conflito entre vencedores e perdedores e oferece ao leitor conhecimento capaz de trazer paz interior e motivação para enfrentar o futuro com coragem.",
+  "exemplar_id": 1980,
+  "sku": "LI015M",
+  "preco_estante_virtual": 14.0,
+  "preco_amazon": 14.0,
+  "capa": "static/uploads/ellen-g--white--o-grande-conflito--capa--20250430--104316.jpg",
+  "contracapa": "static/uploads/ellen-g--white--o-grande-conflito--contracapa--20250430--104316.jpg",
+  "fotos": [
+    "static/uploads/ellen-g--white--o-grande-conflito--foto1--20250430--104316.jpg",
+    "static/uploads/ellen-g--white--o-grande-conflito--foto2--20250430--104316.jpg",
+    "static/uploads/ellen-g--white--o-grande-conflito--foto3--20250430--104316.jpg",
+    "static/uploads/ellen-g--white--o-grande-conflito--foto4--20250430--104316.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:17:41",
+  "observacoes": null
+}

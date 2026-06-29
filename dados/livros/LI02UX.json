@@ -1,0 +1,63 @@
+{
+  "obra_id": 5169,
+  "autor": "Hiroaki Samura",
+  "titulo": "Blade",
+  "subtitulo": "A lâmina do imortal",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura fantástica. Aventura. Lutas samurais.",
+  "palavras_chave": "samura blade lamina imortal",
+  "edicao_id": 5144,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 416,
+  "peso": 500,
+  "isbn": "9788545703396",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 12,
+  "transcricao_contracapa": "<p>Meguro e Tampopo conseguem escapar do ataque, mas logo se veem envolvidas em uma trama inesperada quando Rin e Manji reencontram um velho inimigo. Completo em 15 volumes, Blade— A Lâmina do Imortal retorna em uma coleção especial com o dobro do tamanho da japonesa, em um novo projeto exclusivo da Editora JBC.</p>",
+  "sinopse": "Meguro e Tampopo são pegas em uma trama inesperada quando Rin e Manji encontram um velho inimigo. A coleção de 15 volumes de 'Blade - A Lâmina do Imortal' retorna em uma edição especial com o dobro do tamanho da original japonesa pela editora JBC.",
+  "exemplar_id": 5143,
+  "sku": "LI02UX",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/blade__a-lamina-do-imortal__hiroaki-samura__capa__2026-02-20_10-32-27-200993-000.png",
+  "contracapa": "static/uploads/blade__a-lamina-do-imortal__hiroaki-samura__contracapa__2026-02-20_10-32-27-251713-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

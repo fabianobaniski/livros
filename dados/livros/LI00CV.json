@@ -1,0 +1,63 @@
+{
+  "obra_id": 500,
+  "autor": "Francisco Leonardo Schalkwijk",
+  "titulo": "Meditações de um peregrino",
+  "subtitulo": "Inspiradoras meditações para renovar a fé e fortalecer o ânimo do povo de Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Cristianismo. Meditação. Ministérios.",
+  "palavras_chave": "schalkwijk meditacoes peregrino",
+  "edicao_id": 485,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 280,
+  "isbn": "9788576225355",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A palavra fiel de um pastor, evangelista, plantador de igrejas, professor, autor e pastor de pastores.</p><p>Uma combinação de erudição e piedade de um cristão incansável no serviço do seu Salvador.</p><p>O Rev. Frans Leonard Schalkwijk (nosso querido Rev. Francisco Leonardo) peregrinou no Brasil por 36 anos, como missionário da Igreja Reformada da Holanda, havendo trabalhado com imigrantes holandeses e com brasileiros como evangelista, pastor e plantador de igrejas. No Seminário Presbiteriano do Norte, em Recife, o Rev. Francisco foi professor, deão e diretor, exercendo ali sua maior influência na igreja brasileira. Obteve o título de doutor em História pela Universidade Mackenzie e escreveu <i>Igreja e Estado no Brasil Holandês</i> (Cultura Cristã) e <i>Coiñé – Gramática do grego do Novo Testamento</i>. Francisco Leonardo reside com sua esposa Margrietha em Apeldoorn, Holanda. O casal tem oito filhos – Adriana, Fokjelina, Hendrika, Gert, Leonora, Frans, Malita e Tina – e vários netos e bisnetos agora espalhados em diversos continentes.</p>",
+  "sinopse": "Meditações de um Peregrino traz reflexões inspiradoras que visam renovar a fé e fortalecer o ânimo do povo de Deus. Escrito por um pastor experiente, o livro combina erudição e piedade, oferecendo uma jornada de fé para todos os leitores. A obra é um testemunho da dedicação e do ministério do autor no Brasil, abrangendo suas interações com diferentes culturas e comunidades religiosas.",
+  "exemplar_id": 484,
+  "sku": "LI00CV",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/francisco-leonardo-schalkwijk--medita--es-de-um-peregrino--capa--20250227--111546.jpg",
+  "contracapa": "static/uploads/francisco-leonardo-schalkwijk--medita--es-de-um-peregrino--contracapa--20250227--111546.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:57:11",
+  "observacoes": null
+}

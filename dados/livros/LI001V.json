@@ -1,0 +1,68 @@
+{
+  "obra_id": 71,
+  "autor": "Marcelo Rossi",
+  "titulo": "Ágape",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Fé. Amor. Espiritualidade. Cristianismo. Reflexões.",
+  "palavras_chave": "rossi agape ",
+  "edicao_id": 71,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 124,
+  "peso": 250,
+  "isbn": "9788525048950",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Senhor,</p><p>Tu és o Bom Pastor.</p><p>Eu sou a Tua ovelha.</p><p>Em alguns dias, estou sujo;</p><p>Em outros, estou doente.</p><p>Em alguns dias, me escondo;</p><p>Em outros, me revelo.</p><p>Sou uma ovelha ora mansa, ora agitada.</p><p>Sou uma ovelha ora perdida, ora reconhecida.</p><p>Eu sou Tua ovelha, Senhor.</p><p>Eu conheço a Tua voz.</p><p>É que às vezes a surdez toma conta de mim.</p><p>Eu sou Tua ovelha, Senhor.</p><p>Não permita que eu me perca,</p><p>que eu me desvie do Teu rebanho.</p><p>Mas se eu me perder, eu Te peço, Senhor,</p><p>Vem me encontrar.</p><p>Amém.</p>",
+  "sinopse": "Ágape, do Padre Marcelo Rossi, apresenta mensagens de fé, amor e esperança, inspiradas no evangelho de São João. O livro busca proporcionar conforto espiritual e fortalecer a relação do leitor com Deus por meio de reflexões sobre o amor incondicional e a compaixão.",
+  "exemplar_id": 70,
+  "sku": "LI001V",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 8.0,
+  "capa": "static/uploads/padre-marcelo-rossi---gape--capa--20250225--232436.jpg",
+  "contracapa": "static/uploads/padre-marcelo-rossi---gape--contracapa--20250225--232436.jpg",
+  "fotos": [
+    "static/uploads/padre-marcelo-rossi---gape--foto1--20250225--232436.jpg",
+    "static/uploads/padre-marcelo-rossi---gape--foto2--20250225--232436.jpg",
+    "static/uploads/padre-marcelo-rossi---gape--foto3--20250225--232436.jpg",
+    "static/uploads/padre-marcelo-rossi---gape--foto4--20250225--232436.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:11:04",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2043,
+  "autor": "Robert Henry Srour",
+  "titulo": "Ética empresarial",
+  "subtitulo": "O ciclo virtuoso dos negócios",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Ética empresarial. Responsabilidade social. Sustentabilidade. Tomada de decisão.",
+  "palavras_chave": "srour etica empresarial ciclo virtuoso negocios",
+  "edicao_id": 2023,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 276,
+  "peso": 490,
+  "isbn": "9788535232691",
+  "editora": "Elsevier Campus",
+  "numero_edicao": 3,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro foi celebrado pela crítica brasileira como pioneiro no campo da Ética aplicada às empresas e foi consagrado pelos leitores como obra de referência. Lançado originalmente no ano de 2000, foi revisado e atualizado em 2003, e teve dezenas de tiragens.</p><p>Seu sucesso se deve a dois fatos: foi adotado como livro-texto em várias universidades do país e serviu de guia a inúmeras empresas no trato das questões morais do dia-a-dia, principalmente a seus Comitês de Ética. Agora sai a 3ª edição revista e atualizada.</p><p>Alguns dos méritos da obra merecem destaque, a começar pela clareza e pela objetividade da linguagem:</p><p>a. A abordagem científica da Ética aplicada aos negócios, apresentando um quadro de referência conceitual de caráter universal.<br>b. A discussão de casos atuais, alguns paradigmáticos.<br>c. O estudo das teorias éticas para a tomada de decisão.<br>d. A análise das morais gerais brasileiras e das morais empresariais contemporâneas.<br>e. O exame das questões candentes da responsabilidade social corporativa, do risco de reputação e da sustentabilidade empresarial.<br>f. Os exercícios de apoio disponíveis no site da Editora Campus-Elsevier.</p><p>Trata-se de uma obra indispensável para a capacitação de executivos.</p><h2>APLICAÇÃO</h2><p>Livro indicado para os cursos de graduação e pós-graduação em Administração de Empresas, Ciências Contábeis e Atuariais, Economia, Direito, Ciências Sociais, Psicologia, Publicidade e Propaganda, Jornalismo, Relações Públicas, Tecnologia da Informação, Arquitetura e Engenharia.</p><p>Livro complementar de leitura para as disciplinas de Auditoria, Controles Internos e Compliance, Finanças, Sociologia das Organizações, Psicologia Organizacional, Marketing, Gestão de Pessoas e Administração de Projetos.</p><p>Leitura recomendada a empresários, gestores e profissionais que se deparam com dilemas morais e, em sintonia com as crescentes exigências da cidadania, precisam tomar decisões eticamente orientadas.</p>",
+  "sinopse": "Este livro, considerado pioneiro no campo da ética aplicada às empresas no Brasil, foi adotado por diversas universidades e utilizado como referência em empresas e comitês de ética. A obra apresenta uma abordagem científica, discute casos atuais e teorias éticas para a tomada de decisão, além de analisar questões como responsabilidade social corporativa, reputação e sustentabilidade empresarial. Esta 3ª edição, revista e atualizada, é indicada para cursos em Administração, Ciências Contábeis, Economia, Direito, entre outros, e destina-se também a profissionais que enfrentam dilemas morais nas organizações.",
+  "exemplar_id": 2022,
+  "sku": "LI016S",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/robert-henry-srour---tica-empresarial--capa--20250430--104525.jpg",
+  "contracapa": "static/uploads/robert-henry-srour---tica-empresarial--contracapa--20250430--104525.jpg",
+  "fotos": [
+    "static/uploads/robert-henry-srour---tica-empresarial--foto1--20250430--104525.jpg",
+    "static/uploads/robert-henry-srour---tica-empresarial--foto2--20250430--104525.jpg",
+    "static/uploads/robert-henry-srour---tica-empresarial--foto3--20250430--104525.jpg",
+    "static/uploads/robert-henry-srour---tica-empresarial--foto4--20250430--104525.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:40:46",
+  "observacoes": "procedencia_biblioteca"
+}

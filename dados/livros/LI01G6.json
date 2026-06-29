@@ -1,0 +1,63 @@
+{
+  "obra_id": 2381,
+  "autor": "Denis Diderot; Jean Le Rond D Alembert",
+  "titulo": "Artículos Políticos de La Enciclopedia",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Ciência Política",
+  "temas": "",
+  "palavras_chave": "diderot articulos politicos enciclopedia",
+  "edicao_id": 2361,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 229,
+  "peso": 454,
+  "isbn": "9788430912544",
+  "editora": "Tecnos Editorial S A",
+  "numero_edicao": null,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2360,
+  "sku": "LI01G6",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/denis-diderot--articulos-politicos-de-la-enciclopedia--capa--20260316--154853.jpg",
+  "contracapa": "static/uploads/denis-diderot--articulos-politicos-de-la-enciclopedia--contracapa--20260316--154859.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados.  / A Enciclopedia é um marco da cultura do século XVIII, reunindo todo o conhecimento da época em uma obra monumental. Mais do que uma simples coleção de saberes, reflete a racionalização da tradição cultural à luz dos princípios da Ilustração, promovendo uma filosofia libertadora, onde a razão conduz à liberdade. Esta edição seleciona as principais vozes políticas do Diccionario de la Ilustración, oferecendo uma visão coerente do contexto histórico e político do Século das Luzes, com foco na transformação da monarquia e nas bases da nova teoria política emergente. / Em espanhol."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:16:20",
+  "observacoes": null
+}

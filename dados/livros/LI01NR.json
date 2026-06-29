@@ -1,0 +1,63 @@
+{
+  "obra_id": 2655,
+  "autor": "Nick Freeth",
+  "titulo": "Learn to play the guitar",
+  "subtitulo": "A step-by-step guide - includes interactive DVD",
+  "idioma": "Inglês",
+  "categoria": "Música",
+  "temas": "",
+  "palavras_chave": "freeth learn play the",
+  "edicao_id": 2635,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 96,
+  "peso": 600,
+  "isbn": "9781407500676",
+  "editora": "Parragon",
+  "numero_edicao": 0,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2634,
+  "sku": "LI01NR",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/learn-to-play-the-guitar-nick-freeth-capa_rev944.jpg",
+  "contracapa": "static/uploads/learn-to-play-the-guitar-nick-freeth-contracapa_rev752.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Box (DVD+livro) muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Papel sem manchas. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos.  Provides a basic introduction to the instrument and music-making skills, staff notation and chord theory. This title uses step by step explanations with images highlighting detail and technique. It includes a DVD with background drums, tips and tricks on how to learn the instruments and how to improve your skills."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:29:36",
+  "observacoes": null
+}

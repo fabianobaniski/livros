@@ -1,0 +1,63 @@
+{
+  "obra_id": 2508,
+  "autor": "Abraham Pais",
+  "titulo": "Einstein viveu aqui",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "pais einstein viveu aqui",
+  "edicao_id": 2488,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 331,
+  "peso": 600,
+  "isbn": "9788520908303",
+  "editora": "Nova Fronteira",
+  "numero_edicao": null,
+  "ano": 1997,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro narra a vida fascinante de Albert Einstein, destacando sua genialidade e a complexidade de seu caráter. Além de sua notável contribuição para a física teórica, o livro também aborda seu papel crítico na história política do século XX, especialmente durante a ascensão do nazismo e a Segunda Guerra Mundial. Einstein se posicionou firmemente contra o uso militar de suas descobertas, embora sua pesquisa tenha influenciado a criação da bomba atômica. A obra oferece um retrato íntimo de um homem que, além de revolucionar a ciência, foi uma voz ética e crítica em tempos de grande turbulência mundial.",
+  "exemplar_id": 2487,
+  "sku": "LI01JO",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/abraham-pais--einstein-viveu-aqui--capa--20260316--193437.jpg",
+  "contracapa": "static/uploads/abraham-pais--einstein-viveu-aqui--contracapa--20260316--193437.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora um pouco marcado pelo uso. Texto sem anotações ou sublinhados. Capa com vinco de dobra. Papel amarelado pelo tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:58:35",
+  "observacoes": null
+}

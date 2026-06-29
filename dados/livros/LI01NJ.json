@@ -1,0 +1,63 @@
+{
+  "obra_id": 2647,
+  "autor": "Adrian Doff; Christpher Jones",
+  "titulo": "Language in use",
+  "subtitulo": "Self-study workbook with answer key (intermediate)",
+  "idioma": "Inglês",
+  "categoria": "Ensino de Idiomas",
+  "temas": "",
+  "palavras_chave": "doff language use selfstudy",
+  "edicao_id": 2627,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 136,
+  "peso": 250,
+  "isbn": "9780521435543",
+  "editora": "Cambridge University Press",
+  "numero_edicao": 0,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2626,
+  "sku": "LI01NJ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/adrian-doff--language-in-use--capa--20260316--214004.jpg",
+  "contracapa": "static/uploads/adrian-doff--language-in-use--contracapa--20260316--214005.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:37:46",
+  "observacoes": null
+}

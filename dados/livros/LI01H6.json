@@ -1,0 +1,63 @@
+{
+  "obra_id": 2417,
+  "autor": "N. F. Gray",
+  "titulo": "Calidad del Agua Potable",
+  "subtitulo": "Problemas y Soluciones",
+  "idioma": "Espanhol",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "gray calidad del agua",
+  "edicao_id": 2397,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 365,
+  "peso": 500,
+  "isbn": "9788420008219",
+  "editora": "Editorial Acribia S. A.",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Embora seja um recurso essencial, muitas regiões áridas enfrentam dificuldades no acesso à água limpa, com mulheres e crianças caminhando longas distâncias para buscá-la. A falta de água de qualidade também tem contribuído para a morte de milhões de crianças nos últimos anos. Este livro examina a qualidade da água potável, desde sua origem até seu consumo, e discute os riscos à saúde associados à água contaminada, propondo uma reflexão sobre a segurança e os desafios do acesso à água limpa em várias partes do mundo.",
+  "exemplar_id": 2396,
+  "sku": "LI01H6",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/n-f-gray--calidad-del-agua-potable--capa--20260316--175903.jpg",
+  "contracapa": "static/uploads/n-f-gray--calidad-del-agua-potable--contracapa--20260316--175903.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:10:57",
+  "observacoes": null
+}

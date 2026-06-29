@@ -1,0 +1,68 @@
+{
+  "obra_id": 1888,
+  "autor": "Samuel Cogan",
+  "titulo": "Contabilidade gerencial",
+  "subtitulo": "Uma abordagem da teoria das restrições",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade gerencial. Teoria das restrições. Administração. Gestão de empresas.",
+  "palavras_chave": "cogan contabilidade gerencial ",
+  "edicao_id": 1868,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 294,
+  "peso": 490,
+  "isbn": "9788502061866",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p><i>Contabilidade Gerencial – uma abordagem da teoria das restrições</i>, de Samuel Cogan, é mais uma contribuição do professor da Universidade Federal do Rio de Janeiro para seus alunos e profissionais da área de Administração e Ciências Contábeis, interessados em conhecer a Teoria das Restrições da Contabilidade Gerencial (<i>Theory of Constraints</i>, ou TOC). Essa teoria teve início na década de 1970 com o físico Eliyahu Goldratt, que se envolveu com os problemas da logística de produção e criou um método de administração totalmente novo, buscando identificar forças restritivas e forças propulsoras que permitissem às próprias empresas descobrir seus problemas.</p><p>Nesta obra, os leitores encontram os aspectos essenciais do gerenciamento das restrições, da contabilidade de ganhos e da integração da teoria das restrições com a Contabilidade Gerencial, uma verdadeira preparação para lidar com este raciocínio.</p>",
+  "sinopse": "O livro apresenta uma introdução à Teoria das Restrições aplicada à Contabilidade Gerencial, com foco tanto em estudantes quanto em profissionais de Administração e Ciências Contábeis. A obra explica os fundamentos da teoria desenvolvida por Eliyahu Goldratt e descreve os principais aspectos do gerenciamento de restrições, contabilidade de ganhos e integração das metodologias com práticas gerenciais, preparando o leitor para o uso desse raciocínio inovador nas empresas.",
+  "exemplar_id": 1867,
+  "sku": "LI012I",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/samuel-cogan--contabilidade-gerencial--capa--20250430--104255.jpg",
+  "contracapa": "static/uploads/samuel-cogan--contabilidade-gerencial--contracapa--20250430--104255.jpg",
+  "fotos": [
+    "static/uploads/samuel-cogan--contabilidade-gerencial--foto1--20250430--104255.jpg",
+    "static/uploads/samuel-cogan--contabilidade-gerencial--foto2--20250430--104255.jpg",
+    "static/uploads/samuel-cogan--contabilidade-gerencial--foto3--20250430--104255.jpg",
+    "static/uploads/samuel-cogan--contabilidade-gerencial--foto4--20250430--104255.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:10:44",
+  "observacoes": "procedencia_biblioteca"
+}

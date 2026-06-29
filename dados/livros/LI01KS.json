@@ -1,0 +1,63 @@
+{
+  "obra_id": 2548,
+  "autor": "Rafael Buschmann; Michael Wulzinger",
+  "titulo": "Football leaks",
+  "subtitulo": "Revelando os negócios obscuros por trás do jogo",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "",
+  "palavras_chave": "buschmann football leaks revelando",
+  "edicao_id": 2528,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 300,
+  "peso": 523,
+  "isbn": "9789897771965",
+  "editora": "Planeta",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro narra o processo e a extensão dos negócios obscuros descobertos, incluindo a história do denunciante, um jovem português sem residência fixa no Leste europeu, apaixonado por futebol. Com 18, 6 milhões de documentos confidenciais, a obra aborda a maior fuga de informação no desporto, expondo o submundo do futebol moderno, desde chocantes detalhes de transferências de jogadores famosos até as complexidades fiscais que beneficiam jogadores e agentes. Uma narrativa de ganância e negócios clandestinos, mas também a emocionante jornada de um fã do esporte...",
+  "exemplar_id": 2527,
+  "sku": "LI01KS",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/rafael-buschmann--football-leaks--capa--20260316--202218.jpg",
+  "contracapa": "static/uploads/rafael-buschmann--football-leaks--contracapa--20260316--202219.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado. Capa e contracapa sem danos. Lombada alinhada. Constam, apenas, levíssimos sinais de deixados pelo uso e pela passagem dos anos. Bordas parcialmente amareladas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:11:54",
+  "observacoes": null
+}

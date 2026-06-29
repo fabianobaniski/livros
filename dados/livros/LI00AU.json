@@ -1,0 +1,68 @@
+{
+  "obra_id": 424,
+  "autor": "Jules Payot",
+  "titulo": "O trabalho intelectual e a vontade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Educação. Aprendizagem. Desenvolvimento pessoal.",
+  "palavras_chave": "payot trabalho vontade",
+  "edicao_id": 412,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 245,
+  "peso": 300,
+  "isbn": "9788594090362",
+  "editora": "Kirion",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Existem, também no trabalho intelectual, métodos e ferramentas que expandem a eficácia do espírito, assim como a alavanca multiplica a força de nossos músculos, ou como o telescópio amplia o alcance da visão. Existe uma perfeição técnica, obtida através da adaptação inteligente da energia às leis da memória, da atenção e às leis que regulam a energia corporal. A arte de aprender é a arte de saber obedecer às leis do espírito e do corpo. É para tornar seu trabalho mais prazeroso, mais fácil, mais fecundo — evitando que desperdicem suas energias — que lhes oferecemos este manual de aprendizado do trabalho intelectual.</p>",
+  "sinopse": "O livro aborda métodos e ferramentas que aprimoram o trabalho intelectual, ampliando a eficácia do espírito e facilitando a aprendizagem mediante a adaptação às leis da memória e da atenção. Com a proposta de tornar o trabalho mais prazeroso e eficaz, é um guia prático para otimização do esforço intelectual.",
+  "exemplar_id": 411,
+  "sku": "LI00AU",
+  "preco_estante_virtual": 38.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/jules-payot--o-trabalho-intelectual-e-a-vontade--capa--20250226--133828.jpg",
+  "contracapa": "static/uploads/jules-payot--o-trabalho-intelectual-e-a-vontade--contracapa--20250226--133828.jpg",
+  "fotos": [
+    "static/uploads/jules-payot--o-trabalho-intelectual-e-a-vontade--foto1--20250226--133828.jpg",
+    "static/uploads/jules-payot--o-trabalho-intelectual-e-a-vontade--foto2--20250226--133828.jpg",
+    "static/uploads/jules-payot--o-trabalho-intelectual-e-a-vontade--foto3--20250226--133828.jpg",
+    "static/uploads/jules-payot--o-trabalho-intelectual-e-a-vontade--foto4--20250226--133828.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:45:43",
+  "observacoes": null
+}

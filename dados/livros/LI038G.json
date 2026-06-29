@@ -1,0 +1,67 @@
+{
+  "obra_id": 5880,
+  "autor": "Ellen G. White",
+  "titulo": "Beneficência social",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "white beneficencia social",
+  "edicao_id": 5855,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 349,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Casa Publicadora Brasileira",
+  "numero_edicao": 4,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O ministério da beneficência social é apresentado como um chamado divino para alcançar corações e salvar almas por meio do cuidado amoroso com o próximo. Inspirado em orientações de Ellen G. White, o livro reúne conselhos práticos e relatos de sua vida dedicada ao serviço cristão, enfatizando que atos de bondade são a mais elevada expressão do evangelismo. Com uma seleção de escritos cuidadosamente compilados, a obra incentiva um trabalho altruísta e consciente, promovendo uma vida de fé ativa e compassiva em prol da salvação e do bem-estar.",
+  "exemplar_id": 5854,
+  "sku": "LI038G",
+  "preco_estante_virtual": 80.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/ellen-g-white--beneficencia-social--capa--20260306--093337.jpg",
+  "contracapa": "",
+  "fotos": [
+    "static/uploads/ellen-g-white--beneficencia-social--foto1--20260306--093352.jpg",
+    "static/uploads/ellen-g-white--beneficencia-social--foto2--20260306--093352.jpg",
+    "static/uploads/ellen-g-white--beneficencia-social--foto3--20260306--093352.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica das obras de Ellen White, em capa dura e detalhes em dourado. Conservação geral muito boa. Papel quase sem sinais de envelhecimento. Há, contudo, duas ressalvas: na lombada houve um pouco de perda do pigmento dourado e, ao longo da primeira metade do texto, há grifos feitos com régua e caneta azul, vermelha, e, numa minoria de folhas, destaca-texto amarela. / Há + fotos no anúncio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:49:58",
+  "observacoes": null
+}

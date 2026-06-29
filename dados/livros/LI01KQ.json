@@ -1,0 +1,63 @@
+{
+  "obra_id": 2546,
+  "autor": "Huberto Rohden",
+  "titulo": "Filosofia universal - Segundo Volume",
+  "subtitulo": "O pensamento filosófico dos tempos modernos",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "",
+  "palavras_chave": "rohden filosofia universal segundo",
+  "edicao_id": 2526,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 203,
+  "peso": 400,
+  "isbn": "",
+  "editora": "União Cultural",
+  "numero_edicao": 0,
+  "ano": 1955,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2525,
+  "sku": "LI01KQ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/huberto-rohden--filosofia-universal-segundo-volume--capa--20260316--202139.jpg",
+  "contracapa": "static/uploads/huberto-rohden--filosofia-universal-segundo-volume--contracapa--20260316--202139.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro marcado pela passagem do tempo. Papel fortemente amarelado. Pequenos desgastes na capa, lombada e contracapa. Texto com anotações à lápis e grifos à caneta em quase todas as folhas. Possui carimbos de livraria. Capa dura (encadernado)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:03:33",
+  "observacoes": null
+}

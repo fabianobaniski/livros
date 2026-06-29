@@ -1,0 +1,68 @@
+{
+  "obra_id": 223,
+  "autor": "Jane Austen",
+  "titulo": "Razão e sensibilidade / Orgulho e preconceito / Persuasão",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Romance. Relacionamentos.",
+  "palavras_chave": "austen razao sensibilidade orgulho preconceito persuasao",
+  "edicao_id": 217,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 631,
+  "peso": 1500,
+  "isbn": "9788544000847",
+  "editora": "Martin Claret",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 216,
+  "sku": "LI005K",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/jane-austen--raz-o-e-sensibilidade--capa--20250226--133807.jpg",
+  "contracapa": "static/uploads/jane-austen--raz-o-e-sensibilidade--contracapa--20250226--133807.jpg",
+  "fotos": [
+    "static/uploads/jane-austen--raz-o-e-sensibilidade--foto1--20250226--133807.jpg",
+    "static/uploads/jane-austen--raz-o-e-sensibilidade--foto2--20250226--133807.jpg",
+    "static/uploads/jane-austen--raz-o-e-sensibilidade--foto3--20250226--133807.jpg",
+    "static/uploads/jane-austen--raz-o-e-sensibilidade--foto4--20250226--133807.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:26:44",
+  "observacoes": null
+}

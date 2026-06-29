@@ -1,0 +1,63 @@
+{
+  "obra_id": 761,
+  "autor": "Douglas Neschling",
+  "titulo": "Guia fácil para entender a Bíblia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Teologia.",
+  "palavras_chave": "neschling guia biblia",
+  "edicao_id": 746,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 450,
+  "isbn": "9788589811439",
+  "editora": "Central Gospel",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Se uma pessoa curiosa e inteligente que não conhece ainda a Bíblia Sagrada resolvesse lê-la pela primeira vez, passaria a admirar esse Livro extraordinário e único, e certamente faria as seguintes perguntas: Quem escreveu a Bíblia? Como ela adquiriu a sua forma atual? Por que está dividida em Antigo e Novo Testamento? Qual é o significado do nome Bíblia? Qual é o seu tema principal? Quais são os assuntos fundamentais de cada um dos seus 66 livros? O que é um livro canônico? O que é um livro apócrifo? E muitas outras perguntas dessa natureza.</p> <p>Guia Fácil para Entender a Bíblia tem como principal objetivo responder a essas questões. Preparar uma obra como esta requer precauções de diversas naturezas. A primeira é que não devemos contemplar o majestoso edifício da verdade divina, que é a Bíblia, como meros espectadores. Devemos nos incluir sempre no contexto de suas lições existenciais. A segunda é que a Bíblia jamais deve ser considerada meramente um livro. Ela é única, é o Livro dos livros, é a Palavra de Deus.</p> <p>Que o leitor faça bom proveito da leitura deste Guia Fácil e passe a entender a Bíblia com muito mais amplitude e profundidade, para seu maior proveito espiritual e para a glória de Deus.</p>",
+  "sinopse": "Este Guia Fácil para Entender a Bíblia busca responder a várias perguntas fundamentais sobre a Sagrada Escritura, como sua autoria, estrutura, e a importância de cada um de seus livros. Destaca a unicidade da Bíblia como a Palavra de Deus e a necessidade de uma compreensão profunda dos seus ensinamentos.",
+  "exemplar_id": 745,
+  "sku": "LI00K4",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/douglas-neschling--guia-f-cil--capa--20250227--152903.jpg",
+  "contracapa": "static/uploads/douglas-neschling--guia-f-cil--contracapa--20250227--152903.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro sem uso, lacrado, sem qualquer dano!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:21:02",
+  "observacoes": null
+}

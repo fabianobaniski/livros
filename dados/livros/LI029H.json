@@ -1,0 +1,68 @@
+{
+  "obra_id": 3442,
+  "autor": "Ryo Akizuki; TRIGGER; Kazuki Nakashima",
+  "titulo": "Kill la Kill",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Ação. Fantasia.",
+  "palavras_chave": "akizuki kill kill",
+  "edicao_id": 3419,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 120,
+  "isbn": "9788569212027",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3418,
+  "sku": "LI029H",
+  "preco_estante_virtual": 48.0,
+  "preco_amazon": 80.0,
+  "capa": "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__capa__2025-11-05_16-15-21-966259.jpg",
+  "contracapa": "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__contracapa__2025-11-05_16-15-21-989836.jpg",
+  "fotos": [
+    "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__foto-01__2025-11-05_16-15-22-028310.jpg",
+    "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__foto-02__2025-11-05_16-15-22-055082.jpg",
+    "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__foto-03__2025-11-05_16-15-22-082113.jpg",
+    "static/uploads/kill-la-kill__ryo-akizuki-trigger-kazuki-nakashima__foto-04__2025-11-05_16-15-22-101512.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:08:09",
+  "observacoes": null
+}

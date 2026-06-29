@@ -1,0 +1,68 @@
+{
+  "obra_id": 2130,
+  "autor": "Carla V. Centeno; Silvia Helena A. de Brito",
+  "titulo": "Educação e diversidade cultural",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Diversidade cultural. Historiografia regional. Questões sociais.",
+  "palavras_chave": "centeno educacao diversidade cultural",
+  "edicao_id": 2110,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 154,
+  "peso": 240,
+  "isbn": "9788587392565",
+  "editora": "UNIDERP",
+  "numero_edicao": null,
+  "ano": 2004,
+  "serie": "Educação em perspectiva",
+  "volume": null,
+  "transcricao_contracapa": "<p>Os textos que integram o presente livro são trabalhos que tematizam a relação educação e diversidade cultural. A unidade dos quatro trabalhos, contudo, vai para muito além da temática. A importância maior desses estudos, que enriquecem sobremaneira a historiografia regional, reside, em meu entendimento, no rigor com que foi presidida as pesquisas de onde se originaram. Enquanto regra, eles não se limitam à mera descrição de eventos históricos; exprimem tendências, elas assumem a perspectiva do combate histórico e reclamam a necessidade de a explicação ser presidida por categorias como totalidade e a historicidade; todos eles resistem ao oportunismo fácil de 'encenar para a plateia' e agradar dizendo o que a maioria gosta de ouvir. Com esse rigor na busca incondicional pela verdade, sem se importarem com os incômodos gerados, as autoras terminam por dar contribuições relevantes para a leitura da realidade humana.</p><p>As questões do índio, do negro, do imigrante, mesmo sendo reconhecidas como detentoras de especificidades e merecedoras de estudos, não autorizam as autoras a ceder e dar autonomia a quaisquer delas. Segundo as estudiosas, a abordagem científica do estudo deve subordinar-se à questão do trabalho, para que seja resgatada a própria natureza de sua peculiaridade. Elas partem de um pressuposto muito importante: quando do enfrentamento das questões sociais, o cientista não pode, a qualquer pretexto, fazer a opção ética, antes, em pensamento, pela própria unidade do homem. Pelos motivos arrolados, recomenda-se, a todos os estudiosos que coloquem como exigência o conhecimento rigoroso da realidade humana, a leitura dos trabalhos que integram o presente livro.</p><p><b>Gilberto Luiz Alves</b></p>",
+  "sinopse": "O livro reúne estudos que tratam da relação entre educação e diversidade cultural, indo além do simples tratamento temático para abordar questões históricas, sociais e científicas de forma rigorosa. Os textos analisam as especificidades do índio, do negro e do imigrante sem perder de vista a totalidade da experiência humana, promovendo uma reflexão crítica sobre a historiografia regional e os desafios do enfrentamento das diversidades sociais. As autoras propõem que a análise científica ultrapasse visões parciais e busque uma compreensão profunda da realidade humana.",
+  "exemplar_id": 2109,
+  "sku": "LI0197",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/carla-v--centeno--educa--o-e-diversidade-cultural--capa--20250430--104542.jpg",
+  "contracapa": "static/uploads/carla-v--centeno--educa--o-e-diversidade-cultural--contracapa--20250430--104542.jpg",
+  "fotos": [
+    "static/uploads/carla-v--centeno--educa--o-e-diversidade-cultural--foto1--20250430--104542.jpg",
+    "static/uploads/carla-v--centeno--educa--o-e-diversidade-cultural--foto2--20250430--104542.jpg",
+    "static/uploads/carla-v--centeno--educa--o-e-diversidade-cultural--foto3--20250430--104542.jpg",
+    "static/uploads/carla-v--centeno--educa--o-e-diversidade-cultural--foto4--20250430--104542.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:53:39",
+  "observacoes": "procedencia_biblioteca"
+}

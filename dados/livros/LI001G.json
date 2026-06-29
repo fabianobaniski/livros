@@ -1,0 +1,68 @@
+{
+  "obra_id": 56,
+  "autor": "Cícero Caiçara Junior",
+  "titulo": "Sistemas integrados de gestão ERP",
+  "subtitulo": "Uma abordagem gerencial",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Gestão empresarial. Tecnologia da informação. Sistemas ERP. Tomada de decisão.",
+  "palavras_chave": "caicara sistemas integrados gestao erp",
+  "edicao_id": 56,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 207,
+  "peso": 350,
+  "isbn": "9788582124222",
+  "editora": "Intersaberes",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O crescimento da globalização mundial e o acirramento da concorrência de mercado têm tornado cada vez mais comum a situação em que empresas investem milhões para obter informações sobre características e expectativas de clientes em relação aos seus produtos.</p> <p>Muitas vezes, o devido uso de informações pode identificar um novo nicho de atuação, que, por sua vez, pode trazer consigo um alto retorno para o investimento realizado. Dessa forma, <b>o valor de um banco de dados é imensurável para a empresa que o detém e que deseja prosperar.</b> Basta saber como utilizá-lo estrategicamente.</p> <p>Em <i>Sistemas Integrados de Gestão – ERP: uma abordagem gerencial</i>, Cícero Caiçara Junior aponta os aspectos gerenciais, bem como os principais conceitos relacionados às atividades que envolvem o uso de sistemas de informação em pequenas, médias e grandes empresas.</p> <p>Este livro é destinado a profissionais que utilizam ou desejam aplicar sistemas de informação como suporte aos seus processos de tomada de decisão e, também, a estudantes que buscam maior capacitação na área de tecnologia da informação.</p>",
+  "sinopse": "O livro aborda os aspectos gerenciais e conceituais dos sistemas ERP, destacando sua importância para a gestão estratégica de empresas de diferentes portes. Destinado a profissionais e estudantes da área de tecnologia da informação e administração.",
+  "exemplar_id": 55,
+  "sku": "LI001G",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/c-cero-cai-ara-junior--sistemas-integrados-de-gest-o-erp--capa--20250225--231850.jpg",
+  "contracapa": "static/uploads/c-cero-cai-ara-junior--sistemas-integrados-de-gest-o-erp--contracapa--20250225--231850.jpg",
+  "fotos": [
+    "static/uploads/c-cero-cai-ara-junior--sistemas-integrados-de-gest-o-erp--foto1--20250225--231850.jpg",
+    "static/uploads/c-cero-cai-ara-junior--sistemas-integrados-de-gest-o-erp--foto2--20250225--231850.jpg",
+    "static/uploads/c-cero-cai-ara-junior--sistemas-integrados-de-gest-o-erp--foto3--20250225--231850.jpg",
+    "static/uploads/c-cero-cai-ara-junior--sistemas-integrados-de-gest-o-erp--foto4--20250225--231850.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Há algumas páginas com grifos feitos com caneta destaca-texto. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:30:43",
+  "observacoes": null
+}

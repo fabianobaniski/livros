@@ -1,0 +1,63 @@
+{
+  "obra_id": 3177,
+  "autor": "Celia Ribeiro",
+  "titulo": "Receitas Fáceis de Celia Ribeiro",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Culinária",
+  "temas": null,
+  "palavras_chave": "ribeiro receitas faceis celia",
+  "edicao_id": 3157,
+  "encadernacao": null,
+  "quantidade_paginas": 121,
+  "peso": 200,
+  "isbn": null,
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 1979,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": null,
+  "exemplar_id": 3156,
+  "sku": "LI0229",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "A autora dedica o livro às mulheres com pouco tempo disponível, mas que apreciam uma boa refeição. As receitas foram selecionadas com o intuito de serem práticas, simples e saborosas, especialmente para donas de casa sem empregada. Inspirada no legado culinário de sua família, principalmente nas receitas de sua mãe e avó, a autora compartilha uma tradição de pratos fáceis e memoráveis, como os doces da infância. Tendo aprendido com quituteiras e nutricionistas em sua carreira no jornalismo, a obra visa ajudar as jovens donas de casa a desenvolverem suas habilidades culinárias, com foco em praticidade e prazer à mesa. / Livro bastante amarelado, em formato pocket. Em boas condições de leitura e manuseio. Sem anotações e sublinhados,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:39:42",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

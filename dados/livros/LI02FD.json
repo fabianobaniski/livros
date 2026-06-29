@@ -1,0 +1,68 @@
+{
+  "obra_id": 3654,
+  "autor": "Henry James",
+  "titulo": "Lady Barberina / Outra volta do parafuso",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "james lady barberina outra",
+  "edicao_id": 3631,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 289,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1972,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Outra volta do parafuso: Nesta novela de horror psicológico, uma governante contratada para cuidar de dois órfãos em uma mansão isolada passa a ver os fantasmas de antigos empregados, mergulhando em uma espiral de dúvida sobre se as aparições são reais ou frutos de sua própria mente perturbada. / Lady Barberina: A obra examina o choque de valores entre a aristocracia britânica e a nova riqueza americana quando um médico dos Estados Unidos tenta casar-se com a filha de um lorde, revelando a incompatibilidade de tradições e as dificuldades de adaptação cultural entre o Velho e o Novo Mundo.",
+  "exemplar_id": 3630,
+  "sku": "LI02FD",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/henry-james--lady-barberina-outra-volta-do-parafuso--capa--20251114--185259.png",
+  "contracapa": "static/uploads/henry-james--lady-barberina-outra-volta-do-parafuso--contracapa--20251114--185307.png",
+  "fotos": [
+    "static/uploads/henry-james--lady-barberina-outra-volta-do-parafuso--foto1--20251113--211730.jpg",
+    "static/uploads/henry-james--lady-barberina-outra-volta-do-parafuso--foto2--20251113--211730.jpg",
+    "static/uploads/henry-james--lady-barberina-outra-volta-do-parafuso--foto3--20251113--211730.jpg",
+    "static/uploads/henry-james--lady-barberina-outra-volta-do-parafuso--foto4--20251113--211730.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:22:02",
+  "observacoes": null
+}

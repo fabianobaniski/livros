@@ -1,0 +1,63 @@
+{
+  "obra_id": 518,
+  "autor": "Ada R. Habershon",
+  "titulo": "Manual de tipologia bíblica",
+  "subtitulo": "Como reconhecer e interpretar símbolos, tipos e alegorias das Escrituras Sagradas",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Hermenêutica. Tipologia.",
+  "palavras_chave": "habershon manual tipologia biblica",
+  "edicao_id": 503,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 247,
+  "peso": 350,
+  "isbn": "9788573676242",
+  "editora": "Vida Acadêmica",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Bíblia é um livro extraordinário, repleto de simbologia que torna a mensagem de Deus muito mais saborosa e didática. Dos muitos símbolos e metáforas, há no Antigo Testamento elementos especiais chamados Tipos, que encontraram no Novo Testamento seus correspondentes que os cumprem e fortalecem, conferindo coesão e solidez ao relato bíblico.</p> <p>“O estudo da tipologia bíblica teve grande impacto na história da interpretação das Escrituras, principalmente na igreja primitiva. Desprezado pela alta crítica, o tópico volta à cena em nossos dias, inclusive no contexto teológico que transcende os limites evangelicais. Esta obra é um clássico da matéria. Embora escrita há cerca de cem anos, permanece indispensável a todo estudioso do assunto.”</p> <p>Luiz Sayão, linguista, teólogo e hebraista.</p> <p>Ada R. Habershon (1861-1918) nasceu em Londres, Inglaterra. Amiga de grandes servos de Deus como D. L. Moody, Charles H. Spurgeon e R. A. Torrey, foi uma das mulheres que contribuíram grandemente na área dos estudos bíblicos, além de compor centenas de hinos.</p>",
+  "sinopse": "O Manual de Tipologia Bíblica aborda a riqueza simbólica da Bíblia, apresentando como interpretar tipos e alegorias presentes nas Escrituras. A autora, Ada R. Habershon, destaca a importância destes elementos na coesão do relato bíblico, evidenciando seu impacto ao longo da história da interpretação das Escrituras, especialmente na igreja primitiva.",
+  "exemplar_id": 502,
+  "sku": "LI00DD",
+  "preco_estante_virtual": 27.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/ada-r--habershon--manual-de-tipologia-b-blica--capa--20250227--152847.jpg",
+  "contracapa": "static/uploads/ada-r--habershon--manual-de-tipologia-b-blica--contracapa--20250227--152847.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:54:23",
+  "observacoes": null
+}

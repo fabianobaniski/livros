@@ -1,0 +1,63 @@
+{
+  "obra_id": 914,
+  "autor": "Meir (Marcus) Lehmann",
+  "titulo": "Akiva",
+  "subtitulo": "A história de Rabi Akiva e sua época",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "História. Religião. Literatura.",
+  "palavras_chave": "lehmann akiva historia",
+  "edicao_id": 899,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 342,
+  "peso": 700,
+  "isbn": "9788585553197",
+  "editora": "Lubavitch",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Akiva foi a obra magna de Rav Meir (Marcus) Lehmann, culminando anos de pesquisa. O Talmud e os Midrashim foram as fontes fundamentais dessa narrativa magnífica e detalhada sobre a vida de Rabi Akiva, à medida que ele se desenvolvia de humilde pastor ao líder de sua geração. É uma clássica tapeçaria literária tecida com os detalhes da vida em Eretz Yisrael após a Destruição do Segundo Templo, incluindo um vívido retrato dos contemporâneos de Rabi Akiva e bordada com palavras pungentes de Torá. A empolgante e aventureira história de Rabi Akiva e sua época tem sido uma favorita para geração de leitores. Essa edição, revisada e traduzida, aumentará o prazer dos leitores contemporâneos à medida que são levados ao mundo de Rabi Akiva.</p><p>Rav Meir (Marcus) Lehmann (1831-1890) foi uma figura notável. Talentos, prolífico, o Rav de Mainz foi um aclamado erudito de Torá, Rabino communal, educador e escritor. Um líder judaico que combateu as forças avançadas da assimilação em muitas frentes, uma de suas armas era sua caneta. Akiva é um dos livros históricos mais cuidadosamente pesquisados e inspiradores que ele escreveu sobre os heróis judeus do passado.</p>",
+  "sinopse": "A obra 'Akiva', de Rav Meir (Marcus) Lehmann, apresenta uma narrativa rica sobre a vida do Rabi Akiva e as transformações sociais e religiosas em Eretz Yisrael após a destruição do Segundo Templo. Através de detalhes históricos vívidos e uma metodologia literária rica, o autor leva os leitores a conhecerem a trajetória de Akiva, desde um pastor modesto até um líder influente, enquanto aborda também os desafios contemporâneos enfrentados pelos judeus na época.",
+  "exemplar_id": 898,
+  "sku": "LI00O8",
+  "preco_estante_virtual": 70.0,
+  "preco_amazon": 150.0,
+  "capa": "static/uploads/meir--marcus--lehmann--akiva--capa--20250227--152913.jpg",
+  "contracapa": "static/uploads/meir--marcus--lehmann--akiva--contracapa--20250227--152913.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:11:47",
+  "observacoes": null
+}

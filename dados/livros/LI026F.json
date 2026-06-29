@@ -1,0 +1,68 @@
+{
+  "obra_id": 3331,
+  "autor": "Junya Inoue",
+  "titulo": "Btooom!",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Jogos de sobrevivência. Violência. Relações humanas.",
+  "palavras_chave": "inoue btooom",
+  "edicao_id": 3309,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 180,
+  "isbn": "9788577879021",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": 9,
+  "transcricao_contracapa": "<p>Ryota Sakamoto é um jovem desempregado que passa o dia todo jogando online. Um dia, ele acorda em uma ilha deserta em uma versão real de “Btooom!”. Para sobreviver, deverá derrotar outros participantes nessa disputa mortal.</p><p>Ryota usa toda sua habilidade e derrota Masahito, mas é obrigado a enfrentar seu aliado, o senhor Taira, que ficou paranóico, e que acaba se suicidando ao ser encurralado. Agora são só Ryota e Himiko contra todos.</p>",
+  "sinopse": "Ryota Sakamoto é um jovem desempregado viciado em jogos online que se vê preso em uma versão real do game Btooom! em uma ilha deserta. Para sobreviver, ele precisa derrotar outros participantes em uma disputa mortal. Após vencer Masahito, Ryota se vê forçado a enfrentar seu antigo aliado Taira, que, tomado pela paranoia, acaba se suicidando. Agora, restam apenas Ryota e Himiko lutando juntos contra todos os demais sobreviventes.",
+  "exemplar_id": 3308,
+  "sku": "LI026F",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/btooom__junya-inoue__capa__2025-11-05_16-25-21-310598.jpg",
+  "contracapa": "static/uploads/btooom__junya-inoue__contracapa__2025-11-05_16-25-21-344298.jpg",
+  "fotos": [
+    "static/uploads/btooom__junya-inoue__foto-01__2025-11-05_16-25-21-373802.jpg",
+    "static/uploads/btooom__junya-inoue__foto-02__2025-11-05_16-25-21-405092.jpg",
+    "static/uploads/btooom__junya-inoue__foto-03__2025-11-05_16-25-21-433238.jpg",
+    "static/uploads/btooom__junya-inoue__foto-04__2025-11-05_16-25-21-457598.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 12:57:31",
+  "observacoes": null
+}

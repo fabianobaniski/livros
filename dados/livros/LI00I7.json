@@ -1,0 +1,63 @@
+{
+  "obra_id": 692,
+  "autor": "Hernandes Dias Lopes",
+  "titulo": "Daniel",
+  "subtitulo": "Um homem amado no céu",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Liderança. Ética. Fé.",
+  "palavras_chave": "lopes daniel homem amado",
+  "edicao_id": 677,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 158,
+  "peso": 280,
+  "isbn": "8589320847",
+  "editora": "Hagnos",
+  "numero_edicao": 1,
+  "ano": 2014,
+  "serie": "Comentários Expositivos Hagnos",
+  "volume": null,
+  "transcricao_contracapa": "<p>A mensagem do livro de Daniel pode não ser popular e palatável, mas é desesperadamente necessária. Ela faz uma radiografia da própria alma, investiga os recessos do coração e lança luz nos corredores sombrios da vida. Daniel viveu num tempo em que a verdade estava sendo pisada, os valores morais estavam sendo escandalizados e a religião tinha perdido sua integridade.</p><p>Daniel tem uma mensagem ética clara para o nosso tempo. Revela-nos como podemos ser íntegros na adversidade ou na prosperidade. Mostra-nos como devemos confiar em Deus não simplesmente por aquilo que Ele faz, mas por quem Ele é.</p>",
+  "sinopse": "O livro de Daniel apresenta uma mensagem necessária para os dias atuais, fazendo uma introspecção profunda sobre a alma humana e os desafios éticos enfrentados em tempos de crise. Através da vida de Daniel, somos convidados a refletir sobre a integridade, a moralidade e a confiança em Deus, independente das circunstâncias, revelando uma mensagem de esperança e dignidade.",
+  "exemplar_id": 676,
+  "sku": "LI00I7",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/hernandes-dias-lopes--daniel--capa--20250227--152858.jpg",
+  "contracapa": "static/uploads/hernandes-dias-lopes--daniel--contracapa--20250227--152858.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:34:17",
+  "observacoes": null
+}

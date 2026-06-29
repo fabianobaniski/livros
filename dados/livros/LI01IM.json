@@ -1,0 +1,63 @@
+{
+  "obra_id": 2470,
+  "autor": "Paul Jackson",
+  "titulo": "Decorative origami for parties and celebrations",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Artes",
+  "temas": "",
+  "palavras_chave": "jackson decorative origami for",
+  "edicao_id": 2450,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 127,
+  "peso": 829,
+  "isbn": "9781856279567",
+  "editora": "Grange Books",
+  "numero_edicao": 0,
+  "ano": 1996,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2449,
+  "sku": "LI01IM",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/paul-jackson--decorative-origami-for-parties-and-celebrations--capa--20260316--191934.jpg",
+  "contracapa": "static/uploads/paul-jackson--decorative-origami-for-parties-and-celebrations--contracapa--20260316--191934.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro tamanho grande, em capa dura e com sobrecapa. Ilustrado em cores. Bom estado de conservação. Não foram identificadas anotações nem sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:25:23",
+  "observacoes": null
+}

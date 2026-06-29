@@ -1,0 +1,68 @@
+{
+  "obra_id": 1768,
+  "autor": "Marina de Andrade Marconi; Eva Maria Lakatos",
+  "titulo": "Técnicas de pesquisa",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Metodologia científica. Técnicas de pesquisa. Ciências sociais.",
+  "palavras_chave": "marconi tecnicas pesquisa",
+  "edicao_id": 1748,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 277,
+  "peso": 510,
+  "isbn": "9788522451524",
+  "editora": "Atlas",
+  "numero_edicao": 7,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Técnicas de pesquisa</h1><p>Este texto apresenta-se como uma introdução geral às técnicas de pesquisa. Completa-se com outro, das mesmas autoras, sobre metodologia científica. Seu propósito fundamental é examinar os meios disponíveis, sobretudo na área das Ciências Sociais, para o desenvolvimento de pesquisas fundamentadas em procedimentos sistemáticos, controlados e críticos, que permitam descobrir novos fatos ou dados, novas relações ou leis. Os meios reunidos neste texto não se limitam, porém, à instrumentalização de investigações especializadas e completas; destinam-se, também, a orientar estudos e investigações específicos para a produção de artigos e de monografias.</p><p>O texto examina as várias etapas de um projeto de pesquisa: seleção do tópico ou problema para investigação, definição e diferenciação do problema, levantamento de hipóteses de trabalho, coleta, sistematização e classificação dos dados, análise e interpretação dos dados e relatório do resultado da pesquisa. Foi escrito como texto básico, em nível didático, para cursos introdutórios, mas traz procedimentos fundamentais, de interesse para pesquisadores tanto do meio acadêmico como profissionais, abordando não só as características e a tipologia da pesquisa como também seu planejamento e execução.</p><h2>Nota sobre as autoras</h2><p>Marina de Andrade Marconi graduou-se em História, Pedagogia, Estudos Sociais e Educação Artística. Doutora em Ciências, pela Universidade Paulista Júlio de Mesquita Filho – UNESP. Lecionou Antropologia, Sociologia, Folclore e História da Educação nas Faculdades de Filosofia, Ciências e Letras de Batatais e de Ituverava e no Instituto de História, Direito e Serviço Social de Franca – UNESP. É co-autora de <i>Antropologia: uma introdução</i>, com Zélia Maria Neves Presotto, <i>Fundamentos de metodologia científica, Metodologia do trabalho científico</i> e <i>Metodologia científica</i>, publicados pela Atlas.</p><p>Eva Maria Lakatos é graduada em Jornalismo pela Faculdade de Comunicação Social Cásper Líbero e pós-graduada em Ciências Sociais. Mestre e Doutora em Ciências, Doutora em Filosofia (Metodologia Científica) e Livre-docente em Sociologia, pela Escola de Sociologia e Política de São Paulo, onde foi vice-diretora. É professora de Sociologia e de Metodologia Científica em graduação e pós-graduação nessas mesmas instituições. É autora de <i>Introdução à Sociologia</i> e <i>Sociologia da administração</i> e co-autora de <i>Fundamentos de metodologia científica, Metodologia científica, Metodologia do trabalho científico e Sociologia geral</i>, publicados pela Atlas, e trabalhos sobre Estrutura e Organização Social e Comunidades.</p><h2>Aplicação</h2><p>Livro-texto para a disciplina METODOLOGIA DA PESQUISA CIENTÍFICA e texto complementar para a disciplina INTRODUÇÃO À CIÊNCIA, dos cursos de graduação, sobretudo na área das Ciências Sociais.</p>",
+  "sinopse": "Este livro oferece uma introdução geral às técnicas de pesquisa com foco especial nas Ciências Sociais, abordando desde procedimentos sistemáticos e críticos até o planejamento e a execução de investigações acadêmicas ou profissionais. Explica as etapas do projeto de pesquisa, desde a definição do problema até a análise e interpretação de dados, funcionando como uma obra básica para cursos introdutórios e orientação para produção de artigos e monografias.",
+  "exemplar_id": 1747,
+  "sku": "LI00Z7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marina-de-andrade-marconi--t-cnicas-de-pesquisa--capa--20250430--102944.jpg",
+  "contracapa": "static/uploads/marina-de-andrade-marconi--t-cnicas-de-pesquisa--contracapa--20250430--102944.jpg",
+  "fotos": [
+    "static/uploads/marina-de-andrade-marconi--t-cnicas-de-pesquisa--foto1--20250430--102944.jpg",
+    "static/uploads/marina-de-andrade-marconi--t-cnicas-de-pesquisa--foto2--20250430--102944.jpg",
+    "static/uploads/marina-de-andrade-marconi--t-cnicas-de-pesquisa--foto3--20250430--102944.jpg",
+    "static/uploads/marina-de-andrade-marconi--t-cnicas-de-pesquisa--foto4--20250430--102944.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:53:34",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 5828,
+  "autor": "Sheila Pickles",
+  "titulo": "Le langage des fleurs du temps jadis",
+  "subtitulo": "",
+  "idioma": "Francês",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Linguagem das flores. Cultura. História.",
+  "palavras_chave": "langage fleurs temps jadis",
+  "edicao_id": 5803,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 109,
+  "peso": 500,
+  "isbn": "2263018123",
+  "editora": "Solar",
+  "numero_edicao": null,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Em francês / Livro delicado que resgata a antiga arte vitoriana de expressar sentimentos por meio das flores. Com elegância e poesia, apresenta o significado secreto de cada flor — da rosa vermelha ao lírio-do-vale —, acompanhado de breves poemas franceses evocativos, notas históricas sobre sua origem e uso, e o código emocional exato que um buquê transmitia na época. Um convite nostálgico a redescobrir como as emoções mais profundas podiam ser ditas em silêncio, apenas com pétalas.",
+  "exemplar_id": 5802,
+  "sku": "LI0371",
+  "preco_estante_virtual": 140.0,
+  "preco_amazon": 150.0,
+  "capa": "static/uploads/le-langage-des-fleurs__du-temps-jadis__none__capa__2026-01-18_14-12-02-959971-000.png",
+  "contracapa": "static/uploads/le-langage-des-fleurs__du-temps-jadis__none__contracapa__2026-01-18_14-12-02-975758-001.png",
+  "fotos": [
+    "static/uploads/le-langage-des-fleurs__du-temps-jadis__none__foto-01__2026-01-18_14-12-02-991454-002.jpg",
+    "static/uploads/le-langage-des-fleurs__du-temps-jadis__none__foto-02__2026-01-18_14-12-03-022815-003.jpg",
+    "static/uploads/le-langage-des-fleurs__du-temps-jadis__none__foto-03__2026-01-18_14-12-03-051706-004.jpg",
+    "static/uploads/le-langage-des-fleurs__du-temps-jadis__none__foto-04__2026-01-18_14-12-03-095011-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Ilustrado em cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:22:55",
+  "observacoes": null
+}

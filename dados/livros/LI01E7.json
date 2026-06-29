@@ -1,0 +1,68 @@
+{
+  "obra_id": 2310,
+  "autor": "Roberto Garrido",
+  "titulo": "A Canção das Bruxas",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "garrido cancao das bruxas",
+  "edicao_id": 2290,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 328,
+  "peso": 552,
+  "isbn": "9788586966675",
+  "editora": "Garapuvu",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Roberto Garrido, residente em Florianópolis há mais de 14 anos, divide seu tempo entre a ilha e o mundo, trabalhando em navios de cruzeiro. Autor de letras de música e poemas, lança seu primeiro livro, A Canção das Bruxas, resultado de mais de três anos de pesquisa. Vivendo na Costa do Moçambique, próximo à nascente de um rio na Mata Atlântica, Roberto dedica esta obra ao povo de Florianópolis e a todos que, como ele, aprenderam a amar a ilha.",
+  "exemplar_id": 2289,
+  "sku": "LI01E7",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/roberto-garrido--a-cancao-das-bruxas--capa--20251021--102903.png",
+  "contracapa": "static/uploads/roberto-garrido--a-cancao-das-bruxas--contracapa--20251021--102911.png",
+  "fotos": [
+    "static/uploads/roberto-garrido--a-cancao-das-bruxas--foto1--20251021--102920.jpg",
+    "static/uploads/roberto-garrido--a-cancao-das-bruxas--foto2--20251021--102920.jpg",
+    "static/uploads/roberto-garrido--a-cancao-das-bruxas--foto3--20251021--102920.jpg",
+    "static/uploads/roberto-garrido--a-cancao-das-bruxas--foto4--20251021--102920.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:15:41",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2304,
+  "autor": "Dea Ribeiro Fenelon",
+  "titulo": "50 Textos de História do Brasil",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "História do Brasil",
+  "temas": "",
+  "palavras_chave": "fenelon textos historia brasil",
+  "edicao_id": 2284,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 210,
+  "peso": 366,
+  "isbn": "",
+  "editora": "Hucitec",
+  "numero_edicao": null,
+  "ano": 1983,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2283,
+  "sku": "LI01E1",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/dea-ribeiro-fenelon--50-textos-de-historia-do-brasil--capa--20251021--104251.png",
+  "contracapa": "static/uploads/dea-ribeiro-fenelon--50-textos-de-historia-do-brasil--contracapa--20251021--104257.png",
+  "fotos": [
+    "static/uploads/dea-ribeiro-fenelon--50-textos-de-historia-do-brasil--foto1--20251021--104306.jpg",
+    "static/uploads/dea-ribeiro-fenelon--50-textos-de-historia-do-brasil--foto2--20251021--104306.jpg",
+    "static/uploads/dea-ribeiro-fenelon--50-textos-de-historia-do-brasil--foto3--20251021--104306.jpg",
+    "static/uploads/dea-ribeiro-fenelon--50-textos-de-historia-do-brasil--foto4--20251021--104306.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em regular estado de conservação. Papel um pouco pigmentado pela ação do tempo, principalmente nas bordas. Lombada alinhada. Capa e contracapa em bom estado, apesar dos sinais de uso e desgaste. Texto livre de anotações e sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:02:16",
+  "observacoes": null
+}

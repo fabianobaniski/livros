@@ -1,0 +1,68 @@
+{
+  "obra_id": 47,
+  "autor": "Jorge Amado",
+  "titulo": "Dona Flor e seus dois maridos",
+  "subtitulo": "História moral e de amor",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Romance. Cultura brasileira. Relações interpessoais.",
+  "palavras_chave": "amado dona flor seus dois maridos",
+  "edicao_id": 47,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 489,
+  "peso": 570,
+  "isbn": "",
+  "editora": "Círculo do Livro",
+  "numero_edicao": null,
+  "ano": 1987,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 46,
+  "sku": "LI0017",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jorge-amado--dona-flor-e-seus-dois-maridos--capa--20250225--225324.jpg",
+  "contracapa": "static/uploads/jorge-amado--dona-flor-e-seus-dois-maridos--contracapa--20250225--225324.jpg",
+  "fotos": [
+    "static/uploads/jorge-amado--dona-flor-e-seus-dois-maridos--foto1--20250225--225324.jpg",
+    "static/uploads/jorge-amado--dona-flor-e-seus-dois-maridos--foto2--20250225--225324.jpg",
+    "static/uploads/jorge-amado--dona-flor-e-seus-dois-maridos--foto3--20250225--225324.jpg",
+    "static/uploads/jorge-amado--dona-flor-e-seus-dois-maridos--foto4--20250225--225324.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, sem danos na capa, lombada e contracapa, porém bastante amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:33:37",
+  "observacoes": null
+}

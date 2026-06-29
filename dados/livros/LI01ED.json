@@ -1,0 +1,68 @@
+{
+  "obra_id": 2316,
+  "autor": "Carlos Varaldo",
+  "titulo": "A cura da hepatite C",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Medicina",
+  "temas": "",
+  "palavras_chave": "varaldo cura hepatite",
+  "edicao_id": 2296,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 313,
+  "peso": 385,
+  "isbn": "9788590156635",
+  "editora": "Edição do Autor",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro aborda o tratamento da hepatite C, destacando as situações inesperadas e desafiadoras enfrentadas pelos pacientes. Relata o processo de um ano, desde a indicação até seis meses após a última injeção, incluindo exames, efeitos colaterais e doenças relacionadas ao tratamento. Escrito por um paciente curado, utiliza linguagem simples para esclarecer dúvidas comuns e compartilhar informações valiosas sobre a experiência de tratamento. Serve como um guia para pacientes e seus apoiadores, ajudando a lidar com a convivência e a busca pela cura da hepatite C.",
+  "exemplar_id": 2295,
+  "sku": "LI01ED",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/carlos-varaldo--a-cura-da-hepatite-c--capa--20251020--185756.png",
+  "contracapa": "static/uploads/carlos-varaldo--a-cura-da-hepatite-c--contracapa--20251020--185807.png",
+  "fotos": [
+    "static/uploads/carlos-varaldo--a-cura-da-hepatite-c--foto3--20251020--185724.jpg",
+    "static/uploads/carlos-varaldo--a-cura-da-hepatite-c--foto4--20251020--185724.jpg",
+    "static/uploads/carlos-varaldo--a-cura-da-hepatite-c--foto5--20251020--185724.jpg",
+    "static/uploads/carlos-varaldo--a-cura-da-hepatite-c--foto6--20251020--185724.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados. Há selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:14:40",
+  "observacoes": null
+}

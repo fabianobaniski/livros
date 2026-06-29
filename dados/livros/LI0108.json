@@ -1,0 +1,68 @@
+{
+  "obra_id": 1805,
+  "autor": "Elizabeth George",
+  "titulo": "Preocupação",
+  "subtitulo": "Um hábito que pode ser quebrado",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Autoajuda. Espiritualidade. Ansiedade feminina. Cristianismo.",
+  "palavras_chave": "george preocupacao habito pode ser quebrado",
+  "edicao_id": 1785,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 210,
+  "isbn": "9788563563170",
+  "editora": "Voxlitteris",
+  "numero_edicao": null,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Descubra que é possível livrar-se das preocupações!</h1><p>Você é uma mulher que costuma se preocupar com tudo... Com grandes e pequenas coisas? E essa preocupação está lhe roubando a paz e a alegria de viver? Junte-se, então, à conhecida autora de <i>best-sellers</i> e palestrante internacionalmente conhecida, Elizabeth George, neste livro em que ela aborda exatamente essa característica. Utilizando a Palavra de Deus e experiências pessoais ela compartilhará atitudes e ações que conduzem à libertação das mais profundas ansiedades.</p><p>Elizabeth reconhece como é difícil \"abrir mão e entregar a Deus\", então utiliza o aconselhamento passo a passo, que resulta em uma ajuda prática para...</p><ul><li>Mudar o foco.</li><li>Encontrar pontos positivos em uma situação negativa.</li><li>Saber o que fazer quando o desânimo chegar.</li><li>Desenvolver habilidades proativas para livrar-se da ansiedade.</li><li>Conscientizar-se de que Cristo nunca nos abandonará.</li></ul>",
+  "sinopse": "Escrito por Elizabeth George, este livro aborda o hábito da preocupação, especialmente entre mulheres, e oferece orientações práticas baseadas na Palavra de Deus e em experiências pessoais para superar ansiedades. A autora reconhece as dificuldades de confiar plenamente em Deus e apresenta conselhos para mudar o foco, encontrar aspectos positivos em situações negativas, lidar com o desânimo, desenvolver habilidades proativas e lembrar-se de que Cristo nunca abandona seus seguidores.",
+  "exemplar_id": 1784,
+  "sku": "LI0108",
+  "preco_estante_virtual": 55.0,
+  "preco_amazon": 55.0,
+  "capa": "static/uploads/elizabeth-george--preocupa--o--capa--20250430--102949.jpg",
+  "contracapa": "static/uploads/elizabeth-george--preocupa--o--contracapa--20250430--102949.jpg",
+  "fotos": [
+    "static/uploads/elizabeth-george--preocupa--o--foto1--20250430--102949.jpg",
+    "static/uploads/elizabeth-george--preocupa--o--foto2--20250430--102949.jpg",
+    "static/uploads/elizabeth-george--preocupa--o--foto3--20250430--102949.jpg",
+    "static/uploads/elizabeth-george--preocupa--o--foto4--20250430--102949.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 23:13:18",
+  "observacoes": "procedencia_biblioteca"
+}

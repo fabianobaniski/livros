@@ -1,0 +1,63 @@
+{
+  "obra_id": 2420,
+  "autor": "Adalice Araujo; Heliana Grudzien",
+  "titulo": "Cantos de desamor",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Poesia",
+  "temas": "",
+  "palavras_chave": "araujo cantos desamor",
+  "edicao_id": 2400,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 189,
+  "peso": 550,
+  "isbn": "9788590078814",
+  "editora": "Edição da Autora",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2399,
+  "sku": "LI01H9",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/adalice-araujo--cantos-de-desamor--capa--20260316--180607.jpg",
+  "contracapa": "static/uploads/adalice-araujo--cantos-de-desamor--contracapa--20260316--180607.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado, sem qualquer dano na capa, lombada ou contracapa. Miolo impecável. Texto livre de anotações e sublinhados. Também não constam carimbo, selo e assinatura."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 20:12:23",
+  "observacoes": null
+}

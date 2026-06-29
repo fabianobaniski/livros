@@ -1,0 +1,63 @@
+{
+  "obra_id": 2445,
+  "autor": "Roberto Lorenzo",
+  "titulo": "Conozca el eneagrama y otros test de personalidad",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Auto Ajuda",
+  "temas": "",
+  "palavras_chave": "lorenzo conozca eneagrama otros",
+  "edicao_id": 2425,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 190,
+  "peso": 300,
+  "isbn": "9789877223613",
+  "editora": "Andrómeda",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O eneagrama é um símbolo que revela nove tipos de personalidades, chamados eneatipos, baseados em padrões de conduta e influências das paixões humanas, como os sete pecados capitais. Sua origem remonta ao esoterismo e à filosofia sufi. Através de um teste de 144 itens, é possível identificar a qual eneatipo uma pessoa pertence, entre perfis como o reformador, o triunfador e o desafiador. O método facilita o autoconhecimento e promove mudanças pessoais e profissionais...",
+  "exemplar_id": 2424,
+  "sku": "LI01HX",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/roberto-lorenzo--conozca-el-eneagrama-y-otros-test-de-personalidad--capa--20260316--185419.jpg",
+  "contracapa": "static/uploads/roberto-lorenzo--conozca-el-eneagrama-y-otros-test-de-personalidad--contracapa--20260316--185419.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Un poderoso método para descubrir su tipo de personalidad y favorecer los cambios que su vida necesita. Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 21:57:10",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2003,
+  "autor": "Juan Manuel Álvarez Méndez",
+  "titulo": "Avaliar para conhecer, examinar para excluir",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Educação. Avaliação escolar. Inclusão escolar. Prática pedagógica.",
+  "palavras_chave": "alvarez avaliar para conhecer",
+  "edicao_id": 1983,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 133,
+  "peso": 215,
+  "isbn": "9788573079159",
+  "editora": "Artmed",
+  "numero_edicao": null,
+  "ano": 2002,
+  "serie": "Inovação Pedagógica",
+  "volume": null,
+  "transcricao_contracapa": "<p>A Coleção Inovação Pedagógica é uma iniciativa da ARTMED absolutamente condizente com o momento atual da Educação, a qual vem passando por reformas importantes em todo o mundo, exigindo novos conhecimentos e práticas dos professores. Nestes textos, acessíveis e bem-fundamentados, os educadores encontrarão reflexões e propostas sobre temas determinantes para recriar seu cotidiano pedagógico.</p> <p>A avaliação desempenha uma função formativa importante nos processos de aprendizagem desde que exercida como uma atividade a serviço do conhecimento; por outro lado, se é limitada ao exame, a avaliação pode ser transformada em um instrumento de exclusão. Este livro propõe subsídios práticos para assegurar a aprendizagem, que é o caminho que abre as portas para os alunos para a participação nos meios culturais e científicos.</p>",
+  "sinopse": "O livro discute a avaliação como processo formativo essencial à aprendizagem, destacando a necessidade de ir além do exame para evitar que a avaliação se torne instrumento de exclusão. Apresenta reflexões e propostas práticas para que a avaliação contribua de fato para o crescimento dos alunos, promovendo maior participação nos meios culturais e científicos. É parte da coleção Inovação Pedagógica, voltada à atualização de educadores frente às reformas educacionais contemporâneas.",
+  "exemplar_id": 1982,
+  "sku": "LI015O",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/juan-manuel--lvarez-m-ndez--avaliar-para-conhecer--capa--20250430--104316.jpg",
+  "contracapa": "static/uploads/juan-manuel--lvarez-m-ndez--avaliar-para-conhecer--contracapa--20250430--104316.jpg",
+  "fotos": [
+    "static/uploads/juan-manuel--lvarez-m-ndez--avaliar-para-conhecer--foto1--20250430--104316.jpg",
+    "static/uploads/juan-manuel--lvarez-m-ndez--avaliar-para-conhecer--foto2--20250430--104316.jpg",
+    "static/uploads/juan-manuel--lvarez-m-ndez--avaliar-para-conhecer--foto3--20250430--104316.jpg",
+    "static/uploads/juan-manuel--lvarez-m-ndez--avaliar-para-conhecer--foto4--20250430--104316.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:31:25",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 767,
+  "autor": "Victor P. Hamilton",
+  "titulo": "Manual do Pentateuco",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Estudos Bíblicos. Teologia. Literatura Religiosa.",
+  "palavras_chave": "hamilton manual pentateuco",
+  "edicao_id": 752,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 538,
+  "peso": 900,
+  "isbn": "9788526308022",
+  "editora": "CPAD",
+  "numero_edicao": 2,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“A força do Manual do Pentateuco, de Hamilton, recém-revisado inclui sua atenção equilibrada a todos os cinco livros do Pentateuco, bibliografias úteis e atualizadas, exposição imparcial a debates críticos e pontos de vista opostos, atenção a temas e <i>insights</i> teológicos, e um estilo claro e compreensível. O livro funciona como um substancial comentário contemporâneo em volume único sobre o Pentateuco, escrito a partir de uma perspectiva evangélica moderada e informada.”</p><p>Dennis Olson, Seminário Teológico de Princeton</p><p>“O Manual do Pentateuco, de Hamilton, fornece um guia altamente informativo e de fácil acesso para os livros de Gênesis a Deuteronômio. Com base nos melhores estudos modernos, a obra explora esses principais escritos bíblicos de maneira que é completa e se mantém de acordo com a revelação divina. Entre a abundância de visões conflitantes sobre os origens e o conteúdo do Pentateuco, Hamilton oferece uma análise equilibrada e sensata, complementada com bibliografias atualizadas.”</p><p>T. Desmond Alexander, Union Theological College, Belfast</p><p>“Hamilton produziu uma segunda edição que é ainda mais útil do que a primeira para as gerações presente e futura de estudantes da Bíblia. Ele foi bem-sucedido ao revisar e ampliar a primeira edição com novos esclarecimentos acumulados a partir de estudos bíblicos detalhados e de seus próprios estudos como comentarista bíblico e professor universitário. A segunda edição mantém a força da concisão sem falta de clareza e simplicidade sem ingenuidade do original. A obra está transbordando de informações que mostram o equilíbrio apropriado de comentários sobre contextos da antiguidade, teorias críticas e texto bíblico.”</p><p>Kenneth A. Mathews, Beeson Divinity School</p><p>“A segunda edição do Manual do Pentateuco, de Hamilton, segue a tradição da primeira. A obra não é apenas um ensaio de conteúdos bíblicos, mas oferece resumos concisos e profundos, e articulações de estudos modernos sobre o Pentateuco, ao mesmo tempo em que também fornece a posição evangélica tradicional sobre muitas questões difíceis que confrontam os leitores do Pentateuco. Às bibliografias atualizadas estão notáveis e proporcionam uma orientação a professores e estudantes universitários e seminaristas, e firmam a si mesmas em suas próprias pesquisas. O formato é agradável, com muitas subseções que orientam a leitura, e diversas tabelas que certamente demonstrarão ser valiosas referências e ferramentas de pesquisa.”</p><p>Peter Enns, Seminário Teológico de Westminster</p>",
+  "sinopse": "O Manual do Pentateuco, de Victor P. Hamilton, oferece uma análise detalhada e equilibrada dos cinco livros do Pentateuco, com foco em bibliografias atualizadas e uma abordagem teológica moderada. Esta segunda edição segue a tradição da primeira, proporcionando resumos e articulações que ajudam na compreensão e pesquisa das Escrituras, especialmente para estudantes e acadêmicos da Bíblia.",
+  "exemplar_id": 751,
+  "sku": "LI00KA",
+  "preco_estante_virtual": 85.0,
+  "preco_amazon": 85.0,
+  "capa": "static/uploads/victor-p--hamilton--manual-do-pentateuco--capa--20250227--152903.jpg",
+  "contracapa": "static/uploads/victor-p--hamilton--manual-do-pentateuco--contracapa--20250227--152903.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:54:03",
+  "observacoes": null
+}

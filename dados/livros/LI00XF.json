@@ -1,0 +1,68 @@
+{
+  "obra_id": 1646,
+  "autor": "Miguel Sanches Neto",
+  "titulo": "Vista-se logo, querida",
+  "subtitulo": "Crônicas reunidas",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "Literatura. Crônicas. Vida cotidiana.",
+  "palavras_chave": "sanches neto vista-se",
+  "edicao_id": 1627,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 300,
+  "isbn": "9788568411001",
+  "editora": "Container Edições",
+  "numero_edicao": null,
+  "ano": 2014,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Neste momento a caixa os chamou, perguntando:</p> <p>- Vocês estão juntos?</p> <p>- Não – ela disse em sobressalto, enquanto ouvia-o dizer:</p> <p>- Sim, estamos.</p> <p>A moça do caixa olhou esperando o consenso. Os dois, então, se moveram juntos ao balcão.</p> <p>Ela entregou o livro. Ele entregou o livro e o cartão – enquanto ela procurava o dinheiro na bolsa.</p> <p>- Crédito ou débito? – quis saber a moça.</p> <p>- Crédito – ele respondeu. E, olhando para a mulher, que enfim achara a carteira: – Você deve ter muitos livros.</p> <p>- Não, nenhum. Aliás, só os da faculdade de Economia.</p> <p>- Sabe quantos livros são necessários para começar uma biblioteca?</p> <p>- Sei lá, no mínimo uns cem.</p> <p>- Apenas dois – ele disse e a olhou no fundo dos olhos.</p> <p>- Miguel Sanches Neto</p>",
+  "sinopse": "Esta coletânea de crônicas de Miguel Sanches Neto reúne reflexões e observações da vida cotidiana, levando o leitor a um exercício de introspecção e visão crítica sobre o cotidiano. O autor usa situações do dia a dia para provocar risos e pensamentos profundos, mostrando a beleza e a complexidade das relações humanas.",
+  "exemplar_id": 1626,
+  "sku": "LI00XF",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/miguel-sanches-neto--vista-se-logo--querida--capa--20250401--115800.jpg",
+  "contracapa": "static/uploads/miguel-sanches-neto--vista-se-logo--querida--contracapa--20250401--115800.jpg",
+  "fotos": [
+    "static/uploads/miguel-sanches-neto--vista-se-logo--querida--foto1--20250401--115800.jpg",
+    "static/uploads/miguel-sanches-neto--vista-se-logo--querida--foto2--20250401--115800.jpg",
+    "static/uploads/miguel-sanches-neto--vista-se-logo--querida--foto3--20250401--115800.jpg",
+    "static/uploads/miguel-sanches-neto--vista-se-logo--querida--foto4--20250401--115800.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:45:08",
+  "observacoes": null
+}

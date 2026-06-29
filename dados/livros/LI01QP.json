@@ -1,0 +1,63 @@
+{
+  "obra_id": 2761,
+  "autor": "Paulo Coelho",
+  "titulo": "O diário de um mago",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": "",
+  "palavras_chave": "coelho diario mago",
+  "edicao_id": 2741,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 246,
+  "peso": 300,
+  "isbn": "9788532500342",
+  "editora": "Rocco",
+  "numero_edicao": 123,
+  "ano": 1990,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Quem busca a magia está sempre em busca de um caminho para realizar seus sonhos. *O Diário de um Mago* é um presente valioso para aqueles que desejam descobrir as fontes do espírito humano e se beneficiar de seus mistérios. Através de sua jornada, Paulo Coelho compartilha lições sobre a vida e o autoconhecimento, sem pretender ensinar verdades absolutas, mas sim guiar os leitores em seus próprios processos de descoberta. É uma obra que inspira a busca pelo sonho e pelo entendimento profundo da realidade.",
+  "exemplar_id": 2740,
+  "sku": "LI01QP",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/o-diario-de-um-mago-paulo-coelho-capa_rev2043.jpg",
+  "contracapa": "static/uploads/o-diario-de-um-mago-paulo-coelho-contracapa_rev1942.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado, apesar de leves sinais deixados pelo tempo. Texto livre de anotações ou sublinhados. Há pequeno selo de livraria na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:03:01",
+  "observacoes": null
+}

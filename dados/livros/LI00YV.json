@@ -1,0 +1,68 @@
+{
+  "obra_id": 1756,
+  "autor": "Kenneth Blanchard; Spencer Johnson",
+  "titulo": "O gerente minuto",
+  "subtitulo": "Como tomar decisões rápidas",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Gestão de pessoas. Tomada de decisão. Comunicação no trabalho.",
+  "palavras_chave": "blanchard gerente minuto como tomar decisoes rapidas",
+  "edicao_id": 1736,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 118,
+  "peso": 190,
+  "isbn": "",
+  "editora": "Record",
+  "numero_edicao": 7,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h2>Os Autores de O Gerente Minuto</h2><p><b>Kenneth Blanchard, Ph.D.</b><br>O Dr. Blanchard goza de reputação internacional como consultor de assuntos gerenciais, e é co-autor de um livro didático extremamente difundido sobre gerência e comportamento organizacional.<br>Formado pela Universidade de Colgate, completou cursos de pós-graduação na famosa Universidade de Cornell, onde obteve seu Ph.D. Mais tarde passou a lecionar Administração na Universidade de Massachusetts e começou a trabalhar em The National Training Laboratories.<br>Tem prestado serviços de consultoria a organizações como Xerox, Holiday Inns, o Exército e a Força Aérea dos Estados Unidos, e a UNESCO.</p><p><b>Dr. Spencer Johnson</b><br>Dr. Johnson é autor de mais de uma dúzia de livros sobre Medicina e Psicologia, dos quais já foram vendidos acima de um milhão de exemplares.<br>É formado pela Universidade Southern California, membro do Royal College of Surgeons, e foi interno na Clínica Mayo.<br>Este livro, como outros de sua autoria, reflete o continuado interesse do Dr. Johnson em ajudar as pessoas a terem menos stress e saúde melhor através de melhores comunicações.</p>",
+  "sinopse": "O livro, escrito por dois renomados especialistas em administração e comunicação, busca ajudar executivos e gestores a tomar decisões rápidas e eficazes. Os autores, Kenneth Blanchard e Spencer Johnson, aliam sua experiência em treinamento organizacional e psicologia para oferecer orientações práticas que favorecem a redução do estresse e promovem melhores comunicações no ambiente corporativo.",
+  "exemplar_id": 1735,
+  "sku": "LI00YV",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/kenneth-blanchard--o-gerente-minuto--capa--20250430--102941.jpg",
+  "contracapa": "static/uploads/kenneth-blanchard--o-gerente-minuto--contracapa--20250430--102941.jpg",
+  "fotos": [
+    "static/uploads/kenneth-blanchard--o-gerente-minuto--foto1--20250430--102941.jpg",
+    "static/uploads/kenneth-blanchard--o-gerente-minuto--foto2--20250430--102941.jpg",
+    "static/uploads/kenneth-blanchard--o-gerente-minuto--foto3--20250430--102941.jpg",
+    "static/uploads/kenneth-blanchard--o-gerente-minuto--foto4--20250430--102941.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel fortemente amarelado."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:17:23",
+  "observacoes": "procedencia_biblioteca"
+}

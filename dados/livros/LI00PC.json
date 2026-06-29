@@ -1,0 +1,68 @@
+{
+  "obra_id": 954,
+  "autor": "George M. Marsden",
+  "titulo": "A breve vida de Jonathan Edwards",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. História. Liderança espiritual.",
+  "palavras_chave": "marsden breve vida jonathan edwards",
+  "edicao_id": 939,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 211,
+  "peso": 280,
+  "isbn": "9788581322742",
+  "editora": "FIEL",
+  "numero_edicao": null,
+  "ano": 215,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Jonathan Edwards é uma das figuras mais extraordinárias da história norte-americana. Certamente o teólogo mais brilhante nascido na América, Edwards foi um atencioso pastor, um renomado pregador, missionário, biógrafo, filósofo, presidente de Universidade, marido amoroso e pai afetuoso de onze filhos.</p> <p>George M. Marsden, um autor erudito e premiado, realizou uma meticulosa e extensa pesquisa sobre a vida de Jonathan Edwards para preparar esta edição especial. O resultado é uma obra concisa, clara, de leitura agradável e com reflexões que ajudarão o leitor a valorizar o rico legado de Edwards.</p> <p>Uma obra prima. Este pequeno volume demonstra o profundo conhecimento de Marsden sobre Edwards e uma compreensão aguda das raízes da fé cristã na América. Um livro que deve ser lido por todos, especialmente pastores e pregadores que desejam ser fiéis e, ao mesmo tempo, engajados na cultura de seu próprio tempo.</p> <p>Tim Keller, pastor e escritor, Redeemer Presbyterian Church</p> <p>Marsden é o mais destacado historiador de Edwards de nossos dias. Com seu estilo claro e cativante, ele traz o mais famoso intelectual da América Colonial à vida como nenhum outro erudito o faz.</p> <p>Harry S. Stout, professor e pesquisador, Yale University</p>",
+  "sinopse": "Jonathan Edwards é uma figura central na história norte-americana, conhecido por sua teologia brilhante e por seu papel como pastor, pregador e filósofo. A obra de Marsden, que pesquisa a vida de Edwards, resulta em uma reflexão concisa e esclarecedora, destacando o legado de um homem que foi tanto um líder espiritual quanto um intelectual influente.",
+  "exemplar_id": 938,
+  "sku": "LI00PC",
+  "preco_estante_virtual": 23.0,
+  "preco_amazon": 26.0,
+  "capa": "static/uploads/george-m--marsden--a-breve-vida-de-jonathan-edwards--capa--20250227--152916.jpg",
+  "contracapa": "static/uploads/george-m--marsden--a-breve-vida-de-jonathan-edwards--contracapa--20250227--152916.jpg",
+  "fotos": [
+    "static/uploads/george-m-marsden--a-breve-vida-de-jonathan-edwards--foto1--20251021--103054.jpg",
+    "static/uploads/george-m-marsden--a-breve-vida-de-jonathan-edwards--foto2--20251021--103054.jpg",
+    "static/uploads/george-m-marsden--a-breve-vida-de-jonathan-edwards--foto3--20251021--103054.jpg",
+    "static/uploads/george-m-marsden--a-breve-vida-de-jonathan-edwards--foto4--20251021--103054.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Há, contudo, carimbo de igreja na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:08:57",
+  "observacoes": null
+}

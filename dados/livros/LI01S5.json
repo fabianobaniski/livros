@@ -1,0 +1,63 @@
+{
+  "obra_id": 2813,
+  "autor": "Pedro Bandeira",
+  "titulo": "O vírus final",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "",
+  "palavras_chave": "bandeira virus final",
+  "edicao_id": 2793,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 56,
+  "peso": 150,
+  "isbn": "9788532248756",
+  "editora": "Ftd",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Quando Agostinho iniciou sua carreira, acreditava que teria emprego garantido para o resto da vida. Mas o progresso não pode ser contido. Em uma narrativa cheia de humor ácido, Pedro Bandeira explora como as mudanças tecnológicas podem transformar destinos e abalar a segurança de milhares de pessoas. A coleção Deu no Jornal traz histórias inspiradas em notícias reais, adaptadas com criatividade e sensibilidade. São retratos do cotidiano abordados com humor, fantasia e compaixão, mostrando o impacto das mudanças na vida comum.",
+  "exemplar_id": 2792,
+  "sku": "LI01S5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-virus-final-pedro-bandeira-capa_rev711.jpg",
+  "contracapa": "static/uploads/o-virus-final-pedro-bandeira-contracapa_rev1543.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Sem grifos ou anotações. Apresenta mínimos vestígios de uso. Papel um pouco amarelado pelo tempo, sobretudo nas bordas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:46:40",
+  "observacoes": null
+}

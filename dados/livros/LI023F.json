@@ -1,0 +1,63 @@
+{
+  "obra_id": 3219,
+  "autor": "Adriana Fernandes",
+  "titulo": "A Garota da Banda",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Literatura Brasileira",
+  "temas": null,
+  "palavras_chave": "fernandes garota banda",
+  "edicao_id": 3199,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 518,
+  "peso": 800,
+  "isbn": "9786586262049",
+  "editora": "Prata",
+  "numero_edicao": null,
+  "ano": 2022,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Após oito anos enfrentando medo e angústia, Alex retorna ao seu país determinada a reconstruir sua vida e deixar os traumas para trás. Prestes a realizar o sonho de cantar na banda do melhor amigo, seu mundo vira de cabeça para baixo com a chegada de Henrique, um jovem irresistível que desperta sentimentos inesperados. Atleta destacado e rodeado de amigos, Henrique também se vê atraído por Alex, a nova vocalista da banda universitária. Mas, enquanto tentam se aproximar, os fantasmas do passado ameaçam destruí-los...",
+  "exemplar_id": 3198,
+  "sku": "LI023F",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação (vide fotos)! Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Lombada alinhada. Capa e contracapa bem preservados. Existem, apenas, leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:24:33",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

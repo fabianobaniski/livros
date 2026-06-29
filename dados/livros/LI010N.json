@@ -1,0 +1,68 @@
+{
+  "obra_id": 1821,
+  "autor": "Eliane Cristina Pacola",
+  "titulo": "Secretariado administrativo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Secretariado. Comunicação. Ética profissional. Mercado de trabalho.",
+  "palavras_chave": "pacola secretariado administrativo",
+  "edicao_id": 1801,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 300,
+  "isbn": "9788588524293",
+  "editora": "Viena",
+  "numero_edicao": 3,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro abrange traços de Secretariado e Administração.</p><p>Nossa prioridade é auxiliar aqueles que atuam na área ou estão à procura de colocação no mercado de trabalho, através de breves relatos sobre os assuntos abordados.</p><p>Portanto, esta obra visa complementar o conhecimento do profissional e iniciantes, sem esgotar o assunto pois os temas tratados aqui são bastantes complexos.</p><p>Nesta obra serão esclarecidas dúvidas, proporcionando maior facilidade para o desenvolvimento das atividades do dia-a-dia desta profissão nos seguintes temas:</p><p><i>Características de um profissional ideal · Comunicação · Administração do tempo · Organização racional das atividades · Normas gramaticais · Como escrever melhor · Técnicas de redação · Documento - modelos e como redigi-los · Reuniões · Viagem de negócios · Comunicando-se em inglês e espanhol · História das empresas · Normas ISO · Teoria dos “5’S” · Noções de O&M · Lei e Código de ética do profissional · Pesos e medidas.</i></p>",
+  "sinopse": "Este livro apresenta aspectos essenciais do Secretariado e da Administração, visando apoiar profissionais e iniciantes com relatos práticos e dúvidas frequentes da área. A obra complementa conhecimentos necessários para o desenvolvimento das funções cotidianas, abordando temas como comunicação, administração do tempo, organização, técnicas de redação, reuniões, viagens de negócios, ética profissional e normas ISO, entre outros. É ideal para quem já atua na área ou busca inserção no mercado de trabalho.",
+  "exemplar_id": 1800,
+  "sku": "LI010N",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/eliane-cristina-pacola--secretariado-administrativo--capa--20250430--102952.jpg",
+  "contracapa": "static/uploads/eliane-cristina-pacola--secretariado-administrativo--contracapa--20250430--102952.jpg",
+  "fotos": [
+    "static/uploads/eliane-cristina-pacola--secretariado-administrativo--foto1--20250430--102952.jpg",
+    "static/uploads/eliane-cristina-pacola--secretariado-administrativo--foto2--20250430--102952.jpg",
+    "static/uploads/eliane-cristina-pacola--secretariado-administrativo--foto3--20250430--102952.jpg",
+    "static/uploads/eliane-cristina-pacola--secretariado-administrativo--foto4--20250430--102952.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:54:06",
+  "observacoes": "procedencia_biblioteca"
+}

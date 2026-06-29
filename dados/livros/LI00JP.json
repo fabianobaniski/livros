@@ -1,0 +1,63 @@
+{
+  "obra_id": 746,
+  "autor": "Luciano Subirá",
+  "titulo": "Voz de muitas águas",
+  "subtitulo": "Quando a palavra de Deus fala mais alto",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Vozes. Direcionamento.",
+  "palavras_chave": "subira voz muitas aguas",
+  "edicao_id": 731,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 109,
+  "peso": 150,
+  "isbn": "9788598824178",
+  "editora": "Orvalho",
+  "numero_edicao": 4,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"As Sagradas Escrituras nos revelam que há muitos tipos de vozes no mundo (I Co.14:10). O cristão deve aprender a sujeitar-se à voz de Deus, deixando-a prevalecer sobre as demais vozes em sua vida.</p><p>Sempre que a Bíblia menciona a voz de muitas águas, faz menção do barulho que elas produzem, o que nos mostra que a Palavra de Deus deve falar mais alto em nossas vidas.</p><p>O autor oferece um caminho prático de como sujeitar-se à voz divina e fala sobre alguns dos diferentes tipos de vozes com a qual nos vemos em conflito em nossa caminhada cristã diária.\"</p>",
+  "sinopse": "O livro explora a importância de ouvir e se submeter à voz de Deus em meio a diversas outras vozes. O autor discute como a Palavra de Deus deve prevalecer em nossas vidas e oferece diretrizes práticas para superar as distrações e barulhos que nos cercam.",
+  "exemplar_id": 730,
+  "sku": "LI00JP",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/luciano-subir---voz-de-muitas--guas--capa--20250227--152902.jpg",
+  "contracapa": "static/uploads/luciano-subir---voz-de-muitas--guas--contracapa--20250227--152902.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:45:43",
+  "observacoes": null
+}

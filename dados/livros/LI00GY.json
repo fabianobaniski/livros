@@ -1,0 +1,68 @@
+{
+  "obra_id": 647,
+  "autor": "Geoffrey B. Wilson",
+  "titulo": "1 & 2 Tessalonicenses",
+  "subtitulo": "Compilação de comentários reformados",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Cristianismo. Exegese.",
+  "palavras_chave": "wilson tessalonicenses comentario",
+  "edicao_id": 632,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 141,
+  "peso": 155,
+  "isbn": "9788563905260",
+  "editora": "PES",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>1 & 2 Tessalonicenses</h1> <p>Paulo escreveu suas cartas aos Tessalonicenses no início de seu ministério, e foi lida por cristãos, ainda nos primeiros passos de sua jornada cristã. Por isso, vemos uma profunda preocupação pastoral em suas cartas. Muitas vezes negligenciadas por conta de sua simplicidade, ou, no caso de 2 Tessalonicenses, por conta do ensino que é de difícil compreensão, as cartas estão repletas de ensino vital para cristãos novos na fé.</p> <p>Estas cartas também falam com relevância especial para seus leitores modernos, como falou aos leitores do século I, que se encontravam presos pelo desespero e medo dos poderes destrutivos na humanidade e na natureza. Aqui, Paulo explica a obra de Cristo, passada, presente e futura, como a esperança para o mundo.</p> <p>Geoffrey B. Wilson foi ministro da Igreja Batista Birkby, em Huddersfield, na Inglaterra. Ele é também autor de <i>As epístolas pastorais</i> e <i>Romanos</i>, todos publicados pela PES.</p>",
+  "sinopse": "As cartas de Paulo aos Tessalonicenses fornecem um profundo entendimento da preocupação pastoral do autor, abordando temas essenciais para a fé cristã e oferecendo esperança diante dos desafios enfrentados pelos novos crentes. A obra enfatiza a relevância atemporal das mensagens de Paulo, ligando a obra de Cristo às realidades contemporâneas.",
+  "exemplar_id": 631,
+  "sku": "LI00GY",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/geoffrey-b--wilson--1---2-tessalonicenses--capa--20250227--152855.jpg",
+  "contracapa": "static/uploads/geoffrey-b--wilson--1---2-tessalonicenses--contracapa--20250227--152855.jpg",
+  "fotos": [
+    "static/uploads/geoffrey-b-wilson--1-2-tessalonicenses--foto1--20251020--192120.jpg",
+    "static/uploads/geoffrey-b-wilson--1-2-tessalonicenses--foto2--20251020--192120.jpg",
+    "static/uploads/geoffrey-b-wilson--1-2-tessalonicenses--foto3--20251020--192120.jpg",
+    "static/uploads/geoffrey-b-wilson--1-2-tessalonicenses--foto4--20251020--192120.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 18:10:35",
+  "observacoes": null
+}

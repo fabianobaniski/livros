@@ -1,0 +1,68 @@
+{
+  "obra_id": 1449,
+  "autor": "Içami Tiba",
+  "titulo": "Disciplina ",
+  "subtitulo": "Limite na medida certa",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Educação. Desenvolvimento Pessoal. Disciplina.",
+  "palavras_chave": "tiba disciplina limite medida",
+  "edicao_id": 1430,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 251,
+  "peso": 200,
+  "isbn": "9788582110492",
+  "editora": "Integrare",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Quem tem <b>disciplina</b> dentro de si, comparado a quem não a tem, é: <b>mais competente</b>; <b>mais ético</b>; <b>mais cidadão progressivo</b>; <b>mais livre</b>; <b>mais feliz</b>.</p><p>NUMA SOCIEDADE tão desigual, que canaliza invariavelmente sua atenção e energia ao sustento da prole, muitas vezes não há espaço para refletirmos sobre a melhor educação de nossos filhos, seu crescimento familiar, a vida na escola e sua preparação para o ingresso na sociedade adulta.</p><p>LIDAR COM O MAIOR de nossos desafios, criar filhos para a vida, seria ainda mais difícil sem a intervenção, em nosso auxílio - pais, avós, professores que somos -, de profissionais como o Dr. Içami Tiba, que dedica a vida a estudar a educação do jovem para uma sociedade viva e equilibrada.</p><p>COM CLAREZA, mas avesso a simples manuais, Içami Tiba se debruça mais uma vez sobre as experiências colhidas em seu consultório, cursos, palestras e pesquisas e nos brinda com a nova geração de uma obra, cuja primeira versão já é um best-seller há vários anos e que, agora, neste início de milênio, recebe atualização para novos paradigmas.</p>",
+  "sinopse": "Neste livro, Içami Tiba explora a importância da disciplina na formação do indivíduo. Ele argumenta que a disciplina é essencial para alcançar inteligência emocional e crescer de forma equilibrada em uma sociedade desigual. Com clareza, ele compartilha experiências práticas para ajudar os leitores a lidar com os desafios da educação e da vida. O autor pretende fornecer ferramentas que promovam o desenvolvimento de habilidades essenciais para uma vida plena e feliz.",
+  "exemplar_id": 1429,
+  "sku": "LI00UZ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 25.0,
+  "capa": "static/uploads/i-ami-tiba--disciplina-limite--capa--20250401--115734.jpg",
+  "contracapa": "static/uploads/i-ami-tiba--disciplina-limite--contracapa--20250401--115734.jpg",
+  "fotos": [
+    "static/uploads/i-ami-tiba--disciplina-limite--foto1--20250401--115734.jpg",
+    "static/uploads/i-ami-tiba--disciplina-limite--foto2--20250401--115734.jpg",
+    "static/uploads/i-ami-tiba--disciplina-limite--foto3--20250401--115734.jpg",
+    "static/uploads/i-ami-tiba--disciplina-limite--foto4--20250401--115734.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo. Algumas folhas com marquinha de dobra nas pontas. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:31:13",
+  "observacoes": null
+}

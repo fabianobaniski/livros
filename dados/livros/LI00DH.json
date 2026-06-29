@@ -1,0 +1,63 @@
+{
+  "obra_id": 522,
+  "autor": "Russell P. Shedd",
+  "titulo": "Nos passos de Jesus",
+  "subtitulo": "Uma exposição de 1Pedro",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cristianismo. Teologia.",
+  "palavras_chave": "shedd passos jesus",
+  "edicao_id": 507,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 105,
+  "peso": 250,
+  "isbn": "9788527501873",
+  "editora": "Vida Nova",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Pedro, o impetuoso pescador da Galiléia que negou a Jesus, é o mesmo que enfatizou mais tarde, na sua primeira epístola, a importância de seguir os passos do Mestre. Agora, o Dr. Russell Shedd lança uma luz intensa sobre essa carta aos cristãos da Ásia Menor. Ao examinar essa exposição cuidadosa, identificamo-nos com aqueles primeiros leitores que precisavam resistir à tentação e não esmorecer diante das provações.</p> <p>Como povo eleito de Deus, somos instados a proclamar as virtudes daquele que nos chamou das trevas para sua maravilhosa luz. Como sacerdotes a serviço de Deus, somos motivados a explicar a um mundo perverso e cético a razão da nossa esperança. Como membros da família de Deus somos desafiados a submeter-nos uns aos outros pela graça revelada em Cristo.</p> <p>O estudo de 1Pedro, com auxílio dessa preciosa exposição, trará benefícios duradouros à sua caminhada cristã.</p>",
+  "sinopse": "Neste estudo aprofundado de 1Pedro, o autor explora a necessidade de resistir às tentações e a importância de viver segundo os ensinamentos de Jesus. Este livro é um convite para os leitores proclamarem a luz divina em suas vidas e serem exemplos de fé, em meio a um mundo que desafia seus princípios.",
+  "exemplar_id": 506,
+  "sku": "LI00DH",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/russell-p--shedd--nos-passos-de-jesus--capa--20250227--152847.jpg",
+  "contracapa": "static/uploads/russell-p--shedd--nos-passos-de-jesus--contracapa--20250227--152847.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, porém bastante grifado com caneta destaca-texto até a página 25. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:21:34",
+  "observacoes": null
+}

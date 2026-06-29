@@ -1,0 +1,68 @@
+{
+  "obra_id": 5872,
+  "autor": "Mateus Zillig",
+  "titulo": "Bíblia do pescador 2012",
+  "subtitulo": "O maior guia de rios de pesca do Brasil",
+  "idioma": "Português",
+  "categoria": "Esportes",
+  "temas": "Turismo. Pesca esportiva. Hidrografia brasileira. Ecologia. Equipamentos e serviços.",
+  "palavras_chave": "biblia pescador 2012",
+  "edicao_id": 5847,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 338,
+  "peso": 1110,
+  "isbn": "7898002080266",
+  "editora": "Não identificada",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Pescador pé quente é aquele que faz as escolhas certas.</p><p>Os motores Yamaha são reconhecidos internacionalmente pela sua segurança e durabilidade. Eles são produzidos especialmente para o uso do combustível brasileiro e ainda contam com uma ampla rede de concessionárias em todo o Brasil.</p><p>Isso significa tranquilidade na hora da pesca.</p><p>CONHEÇA TAMBÉM NOSSA LINHA WaveRunner 2012</p>",
+  "sinopse": "A 'Bíblia do pescador 2012' é o maior guia de rios de pesca do Brasil, explorando as 12 bacias hidrográficas do país como nunca visto antes. Com 340 páginas, reúne informações detalhadas sobre peixes, roteiros, mapas, serviços, equipamentos, técnicas, turismo, ecologia e imagens aéreas para quem deseja desbravar os rios brasileiros.",
+  "exemplar_id": 5846,
+  "sku": "LI0388",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/biblia-do-pescador__o-maior-guia-de-rios-de-pesca-do-brasil__none__capa__2026-01-18_14-12-50-072370-000.png",
+  "contracapa": "static/uploads/biblia-do-pescador__o-maior-guia-de-rios-de-pesca-do-brasil__none__contracapa__2026-01-18_14-12-50-115381-001.png",
+  "fotos": [
+    "static/uploads/biblia-do-pescador__o-maior-guia-de-rios-de-pesca-do-brasil__none__foto-01__2026-01-18_14-12-50-150675-002.jpg",
+    "static/uploads/biblia-do-pescador__o-maior-guia-de-rios-de-pesca-do-brasil__none__foto-02__2026-01-18_14-12-50-178545-003.jpg",
+    "static/uploads/biblia-do-pescador__o-maior-guia-de-rios-de-pesca-do-brasil__none__foto-03__2026-01-18_14-12-50-200601-004.jpg",
+    "static/uploads/biblia-do-pescador__o-maior-guia-de-rios-de-pesca-do-brasil__none__foto-04__2026-01-18_14-12-50-230727-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 13:55:40",
+  "observacoes": null
+}

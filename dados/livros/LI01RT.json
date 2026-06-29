@@ -1,0 +1,63 @@
+{
+  "obra_id": 2801,
+  "autor": "Nilo Odalia",
+  "titulo": "O que é violência",
+  "subtitulo": "Coleção Primeiros Passos Nº 85",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "",
+  "palavras_chave": "odalia que violencia colecao",
+  "edicao_id": 2781,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 93,
+  "peso": 150,
+  "isbn": "9788511010855",
+  "editora": "Brasiliense",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Desde que o homem primitivo transformou um osso em arma, a violência tem acompanhado a civilização em suas diversas formas: física, racial, sexual, política e econômica. Neste livro, o professor Nilo Odalia investiga as origens e razões da violência, analisando sua presença constante na história da humanidade. A obra reflete sobre as implicações da violência na sociedade e na natureza humana, questionando se somos, de fato, um animal essencialmente violento.",
+  "exemplar_id": 2780,
+  "sku": "LI01RT",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/o-que-e-violencia-nilo-odalia-capa_rev1410.jpg",
+  "contracapa": "static/uploads/o-que-e-violencia-nilo-odalia-contracapa_rev113.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso. Boa conservação. Não foram encontrados grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:41:08",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 675,
+  "autor": "Henry Frost",
+  "titulo": "Cura miraculosa",
+  "subtitulo": "Um testemunho pessoal e um estudo bíblico",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Cura divina. Testemunho pessoal.",
+  "palavras_chave": "frost cura miraculosa",
+  "edicao_id": 660,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 300,
+  "peso": 250,
+  "isbn": "",
+  "editora": "Publicações Evangélicas Selecionadas",
+  "numero_edicao": null,
+  "ano": 1984,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Cura Miraculosa</h1> <p>DR. D. MARTYN LLOYD-JONES diz: \"Desde que o li pela primeira vez, tenho sentido que é indubitável e incomparavelmente o melhor livro que já li sobre este assunto. É o livro, portanto, que sempre tenho recomendado àqueles que anseiam por ajuda nesta questão.\"</p> <p>Muitas pessoas hoje ficam perplexas por questões sobre a cura divina. O Dr. Frost nota que \"qualquer doutrina pode ser facilmente distorcida; mas aqui temos uma que, devido sua natureza, pode facilmente ser levada ao exagero por alguém que a sustenta e desfruta de seus benefícios\".</p> <p>Cura Miraculosa responde a todas as perguntas desonretantes com uma declaração de clareza e equilíbrio incomuns. O autor escreve de modo sucinto, com discernimento, distinguindo cuidadosamente entre o que é verdadeiro e o que é falso. Sua abordagem plena - o estudo da Bíblia e o testemunho pessoal (inclusive uma experiência de cura na vida de J. Hudson Taylor) - torna o livro indispensável para todos aqueles que procuram entender com maior convicção aquilo que a Bíblia diz acerca da cura em nossos tempos. É um livro que realiza de modo apto a esperança do autor, no sentido de oferecer aos seus leitores conhecimento, clareza, consolo, e fortaleza - e lembra-nos de uma verdade quase esquecida, isto é, \"que Cristo realmente fortalece e cura, e está mais frequentemente pronto para assim fazer em benefício daqueles que Nele confiam, do que a maioria de cristãos reconhece.\"</p> <p>DR. HENRY W. FROST foi pastor nos Estados Unidos, e associado durante muitos anos com a Missão do Interior da China.</p>",
+  "sinopse": "Cura Miraculosa é um livro que proporciona clareza sobre a cura divina, distinguindo o que é verdadeiro do que é falso. O autor, Dr. Henry Frost, elucida suas experiências e o que a Bíblia diz sobre o tema, oferecendo esperança e entendimento àqueles em busca de cura. Este estudo é fundamentado tanto em testemunhos pessoais quanto em princípios bíblicos, ressaltando a importância da fé e da compreensão sobre a verdadeira cura que Cristo pode oferecer.",
+  "exemplar_id": 659,
+  "sku": "LI00HQ",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/henry-frost--cura-miraculosa--capa--20250227--152857.jpg",
+  "contracapa": "static/uploads/henry-frost--cura-miraculosa--contracapa--20250227--152857.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém um pouco amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:18:19",
+  "observacoes": null
+}

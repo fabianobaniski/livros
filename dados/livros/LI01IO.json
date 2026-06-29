@@ -1,0 +1,63 @@
+{
+  "obra_id": 2472,
+  "autor": "Antonio Eximeno",
+  "titulo": "Del origen y reglas de la musica",
+  "subtitulo": "",
+  "idioma": "Espanhol",
+  "categoria": "Música",
+  "temas": "",
+  "palavras_chave": "eximeno del origen reglas",
+  "edicao_id": 2452,
+  "encadernacao": null,
+  "quantidade_paginas": 315,
+  "peso": 358,
+  "isbn": "",
+  "editora": "Nacional",
+  "numero_edicao": null,
+  "ano": 1978,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O texto examina com clareza os fatores subjetivos e as influências culturais que permitiram o desenvolvimento das tradições musicais. Otero Pérez, formado em música na Espanha e Alemanha, explora a interação entre o técnico e o emocional na criação musical. A obra inclui também debates críticos e controvérsias sobre os elementos fundamentais que contribuíram para a evolução da música no contexto europeu.",
+  "exemplar_id": 2451,
+  "sku": "LI01IO",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/antonio-eximeno--del-origen-y-reglas-de-la-musica--capa--20260316--192209.jpg",
+  "contracapa": "static/uploads/antonio-eximeno--del-origen-y-reglas-de-la-musica--contracapa--20260316--192210.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em espanhol em bom estado de conservação, constando amarelecimento das bordas, assinatura e raras páginas com algumas linhas sublinhadas; capas em bom estado; lombada com marca de dobra.  /"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:37:00",
+  "observacoes": null
+}

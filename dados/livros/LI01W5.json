@@ -1,0 +1,63 @@
+{
+  "obra_id": 2957,
+  "autor": "Peter Gammond; Peter Clayton",
+  "titulo": "Tudo que você precisa saber sobre jazz para nunca passar vergonha",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Música",
+  "temas": "",
+  "palavras_chave": "gammond tudo que voce",
+  "edicao_id": 2937,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 61,
+  "peso": 100,
+  "isbn": "9788500223617",
+  "editora": "Ediouro",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Esta introdução traz uma visão bem-humorada sobre o universo do jazz, destacando como ele é um tema aberto a discussões apaixonadas e, muitas vezes, controversas. O autor ressalta a liberdade de opiniões e a incerteza sobre conceitos fundamentais da história do jazz, como quando Louis Armstrong teria deixado de ser grande ou o que significam as composições de Anthony Braxton. Com um tom descontraído, o texto convida o leitor a adentrar no debate sobre jazz sem medo de emitir opiniões e participar desse rico diálogo cultural.",
+  "exemplar_id": 2936,
+  "sku": "LI01W5",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/tudo-que-voce-precisa-saber-sobre-jazz-para-nunca-passar-vergonha-peter-gammond-capa_rev1708.jpg",
+  "contracapa": "static/uploads/tudo-que-voce-precisa-saber-sobre-jazz-para-nunca-passar-vergonha-peter-gammond-contracapa_rev2147.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Capa, lombada e contracapa levemente marcadas pelo uso, mas sem danos significativos. Texto sem anotações ou sublinhados."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:30:54",
+  "observacoes": null
+}

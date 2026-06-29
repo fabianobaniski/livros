@@ -1,0 +1,63 @@
+{
+  "obra_id": 5202,
+  "autor": "Hideki Mori",
+  "titulo": "A Besta",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. História japonesa.",
+  "palavras_chave": "mori besta",
+  "edicao_id": 5177,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 242,
+  "peso": 420,
+  "isbn": "9786586799064",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2020,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>A história do lendário espadachim Musashi Miyamoto é recontada sob a perspectiva do aclamado mangaká especializado em gekigá, Hideki Mori! Mori foi responsável pela nova adaptação do consagrado Lobo Solitário de Kazuo Koike e foi considerado pelo próprio Koike como o seu sucessor, tendo um estilo de desenho similar ao Gouseki Kojima, quem fez os desenhos originais do clássico.</p> <p>“Afinal, o que eu sou?” – em busca da resposta para esta pergunta, o jovem Musashi Miyamoto se lança para dentro do turbilhão de lutas mortais. Para o Bennosuke – nome de infância de Musashi –, o único conforto era a sua irmã, já que ele não via mais outras razões para viver. Contudo, até isso é privado dele, quando a sua irmã é brutalmente assassinada por um desconhecido. Aqui está uma interpretação inédita do aclamado clássico, mostrando um Musashi nunca antes visto em traços estonteantes e envolventes.</p>",
+  "sinopse": "Musashi Miyamoto busca respostas em meio a lutas mortais, após perder sua irmã, seu único conforto. Este clássico é apresentado com traços inéditos e envolventes pelo mangaká Hideki Mori.",
+  "exemplar_id": 5176,
+  "sku": "LI02VU",
+  "preco_estante_virtual": 45.0,
+  "preco_amazon": 110.0,
+  "capa": "static/uploads/a-besta__hideki-mori__capa__2026-02-20_10-32-39-250658-000.png",
+  "contracapa": "static/uploads/a-besta__hideki-mori__contracapa__2026-02-20_10-32-39-286820-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado. Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 11:09:40",
+  "observacoes": null
+}

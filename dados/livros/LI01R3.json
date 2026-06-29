@@ -1,0 +1,63 @@
+{
+  "obra_id": 2775,
+  "autor": "Jeannine Marroncle",
+  "titulo": "O homem proibido",
+  "subtitulo": "Estudo sobre a afetividade sacerdotal",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "marroncle homem proibido estudo",
+  "edicao_id": 2755,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 126,
+  "peso": 200,
+  "isbn": "9788532607393",
+  "editora": "Vozes",
+  "numero_edicao": null,
+  "ano": 1992,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O livro de Jeannine Marroncle explora a complexa relação entre mulheres e padres, analisando a atração que muitas sentem por esse homem proibido. A autora, conselheira conjugal e cronista, discute como a sexualidade humana se manifesta nesse contexto, ressaltando que, em nossa época, a função sacerdotal já não consegue ocultar completamente o homem por trás do padre. A obra reflete sobre as implicações afetivas dessa dinâmica, incentivando uma compreensão mais consciente da castidade e das emoções envolvidas nessas relações.",
+  "exemplar_id": 2754,
+  "sku": "LI01R3",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/o-homem-proibido-jeannine-marroncle-capa_rev563.jpg",
+  "contracapa": "static/uploads/o-homem-proibido-jeannine-marroncle-contracapa_rev1505.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em boas condições. Lombada alinhada. Capa e contracapa sem danos. Texto livre de anotações e sublinhados. Bordas amareladas pela passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:21:54",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 5081,
+  "autor": "Takehiko Inoue",
+  "titulo": "Vagabond",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira.",
+  "palavras_chave": "inoue vagabond",
+  "edicao_id": 5056,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 360,
+  "isbn": "9788542613049",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2018,
+  "serie": "",
+  "volume": 31,
+  "transcricao_contracapa": "",
+  "sinopse": "Vagabond, de Takehiko Inoue, é um mangá seinen histórico que retrata a jornada de Miyamoto Musashi, o lendário espadachim. Após sobreviver à Batalha de Sekigahara, o jovem Takezō abandona sua vida violenta e busca se tornar invencível através de duelos e autodomínio, confrontando brutalidade interior, honra e iluminação espiritual no Japão feudal. A obra destaca-se pela arte excepcional e profundidade psicológica.",
+  "exemplar_id": 5055,
+  "sku": "LI02SH",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/vagabond__takehiko-inoue__capa__2026-02-20_10-31-59-810574-000.png",
+  "contracapa": "static/uploads/vagabond__takehiko-inoue__contracapa__2026-02-20_10-31-59-862237-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1462,
+  "autor": "Ricardo Gozzi",
+  "titulo": "Educação sob ataque",
+  "subtitulo": "Resistência e luta dos educadores no paraná",
+  "idioma": "Português",
+  "categoria": "Pedagogia",
+  "temas": "Luta social. Educação. Democracia.",
+  "palavras_chave": "gozzi educacao ataque",
+  "edicao_id": 1443,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 191,
+  "peso": 300,
+  "isbn": "9788563137685",
+  "editora": "Serpente",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Foi um massacre. E ficou conhecido assim: o Massacre do Centro Cívico. As cenas brutais da repressão policial contra uma manifestação pacífica de educadores paranaenses correram o mundo já no próprio dia 29 de abril de 2015. Esta é a história de como tudo começou e quais foram as consequências daquele dia.</p><p>A história de um dos momentos mais dramáticos da história recente da luta pelo direito à educação e pela democracia no Brasil.</p>",
+  "sinopse": "O livro relata o Massacre do Centro Cívico, que ocorreu em 29 de abril de 2015, quando uma manifestação pacífica de educadores no Paraná foi brutalmente reprimida pela polícia sob o mando do então governador Beto Richa (PSDB). A obra explora como essa repressão aconteceu e as consequências que se seguiram, destacando a luta pelo direito à educação e pela democracia no Brasil.",
+  "exemplar_id": 1442,
+  "sku": "LI00VC",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ricardo-gozzi--educa--o-sob-ataque--capa--20250401--115736.jpg",
+  "contracapa": "static/uploads/ricardo-gozzi--educa--o-sob-ataque--contracapa--20250401--115736.jpg",
+  "fotos": [
+    "static/uploads/ricardo-gozzi--educa--o-sob-ataque--foto1--20250401--115736.jpg",
+    "static/uploads/ricardo-gozzi--educa--o-sob-ataque--foto2--20250401--115736.jpg",
+    "static/uploads/ricardo-gozzi--educa--o-sob-ataque--foto3--20250401--115736.jpg",
+    "static/uploads/ricardo-gozzi--educa--o-sob-ataque--foto4--20250401--115736.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:57:17",
+  "observacoes": null
+}

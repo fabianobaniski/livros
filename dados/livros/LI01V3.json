@@ -1,0 +1,63 @@
+{
+  "obra_id": 2919,
+  "autor": "Dannion e Kathryn Brinkley",
+  "titulo": "Tão longe de casa",
+  "subtitulo": "A vida após a morte",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "",
+  "palavras_chave": "brinkley tao longe casa",
+  "edicao_id": 2899,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 207,
+  "peso": 300,
+  "isbn": "9788576356783",
+  "editora": "Larousse",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Baseado em uma experiência de quase morte, o autor compartilha o que aprendeu sobre a transição entre esta vida e o além. Segundo ele, o pós-vida é mais real e magnífico do que podemos imaginar, e nossas escolhas terrenas têm consequências espirituais. A obra convida o leitor a valorizar o amor, buscar crescimento espiritual e viver com mais alegria e propósito, preparando-se para a passagem e para colher os frutos de suas ações nesta vida.",
+  "exemplar_id": 2898,
+  "sku": "LI01V3",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/tao-longe-de-casa-dannion-e-kathryn-brinkley-capa_rev1283.jpg",
+  "contracapa": "static/uploads/tao-longe-de-casa-dannion-e-kathryn-brinkley-contracapa_rev1436.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Ótima conservação. Nada de grifos ou anotações. Capa, lombada e contracapa sem danos. Discretos sinais de manuseio e/ou da passagem do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:51:45",
+  "observacoes": null
+}

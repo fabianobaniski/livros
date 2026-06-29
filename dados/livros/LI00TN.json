@@ -1,0 +1,68 @@
+{
+  "obra_id": 1399,
+  "autor": "Tori Telfer",
+  "titulo": "Lady Killers",
+  "subtitulo": "Assassinas em série",
+  "idioma": "Português",
+  "categoria": "Infanto Juvenis",
+  "temas": "Criminologia. Mulheres. Psicopatia.",
+  "palavras_chave": "telfer lady killers assassinas",
+  "edicao_id": 1381,
+  "encadernacao": null,
+  "quantidade_paginas": 384,
+  "peso": 600,
+  "isbn": "9788594541475",
+  "editora": "Darkside",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "Crime Scene",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Mulheres letais, inteligentes e manipuladoras.</h1> <p>Prepare-se para realizar uma investigação criminal ao lado da DarkSide® Books e sua divisão Crime Scene®. Esqueça tudo aquilo que você achava que sabia sobre assassinos letais – perto de Mary Ann Cotton e Elizabeth Báthory, para citar apenas algumas, Jack, o Estripador ainda era um aprendiz. <i>Lady Killers: Assassinas em Série</i> é um dossiê completo sobre a vida de catorze mulheres que deixaram rastros de corpos por onde passaram. Uma obra fundamental para as fãs de criminologia que querem compreender a mente de assassinas que são horrivelmente – essencialmente – humanas.</p>",
+  "sinopse": "Neste livro, Tori Telfer explora a vida de mulheres assassinas que deixaram sua marca na história, apresentando um estudo fascinante sobre suas motivações e a percepção social de mulheres letais. Envolvendo casos como o de Mary Ann Cotton e Elizabeth Báthory, a obra convida os leitores a mergulharem na mente dessas psicopatas.",
+  "exemplar_id": 1380,
+  "sku": "LI00TN",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 40.0,
+  "capa": "static/uploads/tori-telfer--lady-killers--capa--20250401--115340.jpg",
+  "contracapa": "static/uploads/tori-telfer--lady-killers--contracapa--20250401--115340.jpg",
+  "fotos": [
+    "static/uploads/tori-telfer--lady-killers--foto1--20250401--115340.jpg",
+    "static/uploads/tori-telfer--lady-killers--foto2--20250401--115340.jpg",
+    "static/uploads/tori-telfer--lady-killers--foto3--20250401--115340.jpg",
+    "static/uploads/tori-telfer--lady-killers--foto4--20250401--115340.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:20:51",
+  "observacoes": null
+}

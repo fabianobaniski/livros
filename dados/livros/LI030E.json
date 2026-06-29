@@ -1,0 +1,63 @@
+{
+  "obra_id": 5589,
+  "autor": "Masakazu Katsura",
+  "titulo": "Zetman",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Ação.",
+  "palavras_chave": "katsura zetman",
+  "edicao_id": 5564,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 210,
+  "peso": 170,
+  "isbn": "9788545702863",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2017,
+  "serie": "",
+  "volume": 18,
+  "transcricao_contracapa": "<p>Kouga faz Zet despertar. Mas parece que o herói não vai conseguir cumprir a promessa que fez para Jin e derrotá-lo quando Zet perde o controle. Se nem Alphas é pareo para o Zet, quem poderá acordar Jin e tirá-lo deste transe destrutivo?</p>",
+  "sinopse": "Kouga acorda Zet, mas enfrenta dificuldades para cumprir sua promessa a Jin e derrotá-lo quando Zet perde o controle. Com Alphas incapaz de enfrentá-lo, a preocupação é sobre quem pode salvar Jin deste transe destrutivo.",
+  "exemplar_id": 5563,
+  "sku": "LI030E",
+  "preco_estante_virtual": 16.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/zetman__masakazu-katsura__capa__2026-02-24_13-36-34-580306-000.jpg",
+  "contracapa": "static/uploads/zetman__masakazu-katsura__contracapa__2026-02-24_13-36-34-615703-001.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá usado, muito bem conservado! Capa e contracapa sem danos, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:39:41",
+  "observacoes": null
+}

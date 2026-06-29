@@ -1,0 +1,63 @@
+{
+  "obra_id": 2838,
+  "autor": "Barbara Goldsmith",
+  "titulo": "Other powers",
+  "subtitulo": "The age of suffrage, spiritualism, and the scandalous Victoria Woodhull",
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "goldsmith other powers",
+  "edicao_id": 2818,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 531,
+  "peso": 300,
+  "isbn": "9780060953324",
+  "editora": "Harper Perenial",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Other Powers oferece um retrato fascinante de Victoria Woodhull, uma figura controversa do século XIX que desafiou as normas de sua época. Através de uma narrativa meticulosamente pesquisada, o livro explora temas como espiritismo, feminismo, moralidade e política, situando Woodhull no centro de debates sobre liberdade sexual e igualdade de gênero. Barbara Goldsmith tece habilmente a história pessoal de Woodhull com os eventos sociais e culturais da América pós-Guerra Civil, resultando em uma biografia cativante e reveladora sobre uma mulher à frente de seu tempo.",
+  "exemplar_id": 2817,
+  "sku": "LI01SU",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/other-powers-barbara-goldsmith-capa_rev384.jpg",
+  "contracapa": "static/uploads/other-powers-barbara-goldsmith-contracapa_rev490.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, embora amarelado pelo tempo. Miolo íntegro, sem folhas soltas; texto sem grifos ou anotações. Há, infelizmente, alguns riscos na capa (solicite fotos, se desejar)."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:27:01",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 2095,
+  "autor": "Alexandre Di Miceli da Silveira",
+  "titulo": "Governança corporativa",
+  "subtitulo": "Desempenho e valor da empresa no Brasil",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Governança corporativa. Mercado de capitais brasileiro. Desempenho empresarial.",
+  "palavras_chave": "silveira governanca corporativa desempenho valor empresa brasil",
+  "edicao_id": 2075,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 181,
+  "peso": 340,
+  "isbn": "9798598838037",
+  "editora": "Saint Paul",
+  "numero_edicao": null,
+  "ano": 2005,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A governança corporativa visa aumentar a probabilidade de os fornecedores de recursos garantirem para si o retorno sobre seu investimento, por meio de um conjunto de mecanismos no qual se inclui o conselho de administração. O tema possui importância crescente, por ser bem difundida a hipótese de que a estrutura de governança afeta o valor da empresa.</p><p>A questão é descobrir se existe uma estrutura de governança corporativa “melhor” ou “ideal”. Vários códigos de governança foram elaborados com este intuito. No Brasil, destacam-se os códigos do Instituto Brasileiro de Governança Corporativa (IBGC) e da Comissão de Valores Mobiliários (CVM). Este texto investiga se a estrutura de governança corporativa foi relevante para as companhias abertas brasileiras e se as companhias adequadas às recomendações do IBGC e da CVM alcançaram maior valor de mercado ou melhor desempenho.</p><p>Três variáveis de governança foram consideradas: (i) separação dos cargos de diretor executivo e presidente do conselho, (ii) tamanho do conselho e (iii) independência do conselho. Utilizou-se uma regressão múltipla do tipo seção transversal entre as variáveis dependentes de valor e desempenho e as variáveis independentes de governança corporativa.</p><p>A variável diretor executivo como presidente do conselho apresentou os resultados mais importantes, com forte evidência de que, em média, as empresas que têm pessoas distintas ocupando os cargos de diretor executivo e presidente do conselho são mais valorizadas pelo mercado. A variável tamanho do conselho apresentou uma relação certamente não linear, sugerindo que as empresas com um número intermediário de conselheiros alcançam melhor desempenho. A variável independência do conselho não apresentou relação significativa contra as variáveis de valor e desempenho.</p>",
+  "sinopse": "Este livro analisa o impacto da governança corporativa sobre o desempenho e o valor das companhias abertas brasileiras, investigando se estruturas de governança alinhadas às recomendações do IBGC e da CVM resultam em melhores resultados de mercado. São avaliadas três variáveis principais: separação dos cargos de diretoria executiva e presidência do conselho, tamanho do conselho e independência do conselho. O autor mostra que separar os cargos executivos valoriza as empresas, enquanto o tamanho ideal do conselho apresenta efeito não linear no desempenho, e a independência do conselho não tem relação significativa com valor ou desempenho.",
+  "exemplar_id": 2074,
+  "sku": "LI0188",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/alexandre-di-miceli-da-silveira--governan-a-corporativa--capa--20250430--104532.jpg",
+  "contracapa": "static/uploads/alexandre-di-miceli-da-silveira--governan-a-corporativa--contracapa--20250430--104532.jpg",
+  "fotos": [
+    "static/uploads/alexandre-di-miceli-da-silveira--governan-a-corporativa--foto1--20250430--104532.jpg",
+    "static/uploads/alexandre-di-miceli-da-silveira--governan-a-corporativa--foto2--20250430--104532.jpg",
+    "static/uploads/alexandre-di-miceli-da-silveira--governan-a-corporativa--foto3--20250430--104532.jpg",
+    "static/uploads/alexandre-di-miceli-da-silveira--governan-a-corporativa--foto4--20250430--104532.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 18:15:34",
+  "observacoes": "procedencia_biblioteca"
+}

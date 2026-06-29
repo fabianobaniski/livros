@@ -1,0 +1,68 @@
+{
+  "obra_id": 2053,
+  "autor": "Seiji Hariki; Oscar J. Abdounur",
+  "titulo": "Matemática aplicada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Ciências Exatas",
+  "temas": "Matemática. Aplicações. Administração. Economia. Contabilidade.",
+  "palavras_chave": "hariki matematica aplicada",
+  "edicao_id": 2033,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 468,
+  "peso": 790,
+  "isbn": "9788502028029",
+  "editora": "Saraiva",
+  "numero_edicao": null,
+  "ano": 1999,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço:<br><b>www.saraivauni.com.br</b></p>",
+  "sinopse": "O livro \"Matemática Aplicada\" apresenta conceitos fundamentais de matemática orientados para as áreas de Administração, Economia e Contabilidade. Indicado para estudantes e profissionais dessas áreas, serve como um guia prático e aplicado ao cotidiano do universo corporativo.",
+  "exemplar_id": 2032,
+  "sku": "LI0172",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/seiji-hariki--matem-tica-aplicada--capa--20250430--104526.jpg",
+  "contracapa": "static/uploads/seiji-hariki--matem-tica-aplicada--contracapa--20250430--104526.jpg",
+  "fotos": [
+    "static/uploads/seiji-hariki--matem-tica-aplicada--foto1--20250430--104526.jpg",
+    "static/uploads/seiji-hariki--matem-tica-aplicada--foto2--20250430--104526.jpg",
+    "static/uploads/seiji-hariki--matem-tica-aplicada--foto3--20250430--104526.jpg",
+    "static/uploads/seiji-hariki--matem-tica-aplicada--foto4--20250430--104526.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:17:39",
+  "observacoes": "procedencia_biblioteca"
+}

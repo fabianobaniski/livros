@@ -1,0 +1,68 @@
+{
+  "obra_id": 338,
+  "autor": "William P. Young",
+  "titulo": "A cabana",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Auto Ajuda",
+  "temas": "Religião. Sofrimento. Redenção.",
+  "palavras_chave": "young cabana",
+  "edicao_id": 329,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 236,
+  "peso": 300,
+  "isbn": "9788599296363",
+  "editora": "Arqueiro",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Publicado nos Estados Unidos por uma editora pequena, <i>A cabana</i> se revelou um desses livros raros que, a partir do entusiasmo e da indicação dos leitores, se tornaram fenômenos de público - 18 milhões de exemplares vendidos - e de imprensa.</p> <p>Durante uma viagem de fim de semana, a filha mais nova de Mack Allen Phillips é raptada e evidências de que ela foi brutalmente assassinada são encontradas numa velha cabana.</p> <p>Após quatro anos vivendo numa tristeza profunda causada pela culpa e pela saudade da menina, Mack recebe um estranho bilhete, pertencente a um misterioso ser que se identifica como Deus, convidando-o a voltar à cabana onde aconteceu a tragédia.</p> <p>Apesar de desconfiado, ele vai ao local numa tarde de inverno e adentra passo a passo o cenário de seu mais terrível pesadelo. Mas o que ele encontra lá muda o seu destino para sempre.</p> <p>Em um mundo cruel e injusto, <i>A cabana</i> levanta um questionamento atemporal: se Deus é tão poderoso, por que não faz nada para amenizar o nosso sofrimento?</p> <p>As respostas que Mack encontrou vão surpreender você e podem transformar sua vida de maneira tão profunda como aconteceu com ele. Você vai querer partilhar este livro com todas as pessoas que ama.</p>",
+  "sinopse": "Após a trágica morte de sua filha, Mack Phillips vive em profunda dor. Quatro anos depois, ele recebe um convite misterioso para voltar à cabana onde tudo aconteceu. Nesse reencontro, ele se depara com questões sobre a dor e o papel de Deus em momentos de sofrimento, resultando em uma jornada de autodescoberta e redenção.",
+  "exemplar_id": 328,
+  "sku": "LI008N",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/william-p--young--a-cabana--capa--20250226--133820.jpg",
+  "contracapa": "static/uploads/william-p--young--a-cabana--contracapa--20250226--133820.jpg",
+  "fotos": [
+    "static/uploads/william-p--young--a-cabana--foto1--20250226--133820.jpg",
+    "static/uploads/william-p--young--a-cabana--foto2--20250226--133820.jpg",
+    "static/uploads/william-p--young--a-cabana--foto3--20250226--133820.jpg",
+    "static/uploads/william-p--young--a-cabana--foto4--20250226--133820.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Possui uma folha com leves marcas de dobra."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:16:04",
+  "observacoes": null
+}

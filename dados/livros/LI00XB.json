@@ -1,0 +1,68 @@
+{
+  "obra_id": 1619,
+  "autor": "José Parramón",
+  "titulo": "Assim se desenha",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Artes",
+  "temas": "Desenho artístico.",
+  "palavras_chave": "parramon assim desenha",
+  "edicao_id": 1600,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 64,
+  "peso": 250,
+  "isbn": "1000242178023",
+  "editora": "Não consta",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "Coleção 'Aprender Fazendo'",
+  "volume": null,
+  "transcricao_contracapa": "<p>Coleção 'Aprender Fazendo', sob a direção de José María Parramón.</p> <p>Cada livro, formato 18 x 26, contém 64 a 136 páginas em cor e capas plastificadas.</p> <p>Para aprender a desenhar ou a pintar, é necessário ter bom gosto, um pouco de tempo e um pouco de talento, mas tudo isto não é suficiente. Não se pode desenhar com um lápis qualquer, nem com qualquer tipo de tinta. Não se obtém os mesmos resultados, empegando qualquer material. Para todos aqueles que não têm tempo livre para seguir um curso de Desenho e Pintura, apresentamos aqui uma série de obras que o iniciarão na sua casa, nas artes plásticas, como se estivesse com o melhor mestre.</p>",
+  "sinopse": "",
+  "exemplar_id": 1599,
+  "sku": "LI00XB",
+  "preco_estante_virtual": 13.0,
+  "preco_amazon": 13.0,
+  "capa": "static/uploads/jos--m---parram-n--assim-se-desenha--capa--20250401--115757.jpg",
+  "contracapa": "static/uploads/jos--m---parram-n--assim-se-desenha--contracapa--20250401--115757.jpg",
+  "fotos": [
+    "static/uploads/jos--m---parram-n--assim-se-desenha--foto1--20250401--115757.jpg",
+    "static/uploads/jos--m---parram-n--assim-se-desenha--foto2--20250401--115757.jpg",
+    "static/uploads/jos--m---parram-n--assim-se-desenha--foto3--20250401--115757.jpg",
+    "static/uploads/jos--m---parram-n--assim-se-desenha--foto4--20250401--115757.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel fortemente amarelado. Capa com vinco de dobra. Texto e ilustrações sem danos."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 18:21:37",
+  "observacoes": null
+}

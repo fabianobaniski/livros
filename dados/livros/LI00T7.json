@@ -1,0 +1,68 @@
+{
+  "obra_id": 1382,
+  "autor": "Alyson Richman",
+  "titulo": "Um amor perdido",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura. Amor. Guerra.",
+  "palavras_chave": "richman amor perdido",
+  "edicao_id": 1364,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 335,
+  "peso": 400,
+  "isbn": "9788528622645",
+  "editora": "Bertrand Brasil",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Na Praga do pré-guerra, Lenka, uma jovem estudante de Artes, apaixona-se por Josef, um médico recém-formado. Eles se casam, mas, pouco tempo depois, como tantas outras famílias, são separados pela guerra. Na América, Josef torna-se um obstetra bem-sucedido e constrói uma família, apesar de nunca esquecer a mulher que acredita ter morrido. No gueto de Terezín, Lenka sobrevive graças aos seus dotes artísticos e à memória de um marido que julgava nunca mais reencontrar. Da glamorosa vida em Praga antes da ocupação aos horrores da Europa nazista, <i>Um amor perdido</i> explora o poder do primeiro amor, a resiliência do espírito humano e a eterna capacidade de recordar.</p>",
+  "sinopse": "Lenka, uma jovem estudante de Artes em Praga, se apaixona por Josef, mas a guerra os separa. Em meio aos horrores do Holocausto, Lenka luta pela sobrevivência, recordando seu amor perdido enquanto Josef constrói uma nova vida na América sem esquecer o passado. A história explora a resiliência do amor em tempos de conflito.",
+  "exemplar_id": 1363,
+  "sku": "LI00T7",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/alyson-richman--um-amor-perdido--capa--20250401--115338.jpg",
+  "contracapa": "static/uploads/alyson-richman--um-amor-perdido--contracapa--20250401--115338.jpg",
+  "fotos": [
+    "static/uploads/alyson-richman--um-amor-perdido--foto1--20250401--115338.jpg",
+    "static/uploads/alyson-richman--um-amor-perdido--foto2--20250401--115338.jpg",
+    "static/uploads/alyson-richman--um-amor-perdido--foto3--20250401--115338.jpg",
+    "static/uploads/alyson-richman--um-amor-perdido--foto4--20250401--115338.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:35:13",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 3139,
+  "autor": "Random House",
+  "titulo": "Timetables of History",
+  "subtitulo": null,
+  "idioma": "Inglês",
+  "categoria": "História Geral",
+  "temas": null,
+  "palavras_chave": "house timetables history",
+  "edicao_id": 3119,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 360,
+  "peso": 200,
+  "isbn": "9780679769606",
+  "editora": "Random House",
+  "numero_edicao": null,
+  "ano": 1996,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Over 5000 major events from Ancient Times to the present.",
+  "exemplar_id": 3118,
+  "sku": "LI0217",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livrinho de bolso, com uma sobrecapa plástica transparente, em bom estado geral, embora um tanto pigmentado pela passagem do tempo. Lombada bem alinhada. Miolo firme, sem folhas soltas. Não possui anotações, sublinhados, rasgos, amassados, marcas de umidade, mofo, traça ou exposição excessiva ao sol."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:24:01",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

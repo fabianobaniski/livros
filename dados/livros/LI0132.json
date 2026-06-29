@@ -1,0 +1,68 @@
+{
+  "obra_id": 1908,
+  "autor": "Jorge Katsumi Niyama",
+  "titulo": "Contabilidade internacional",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade internacional. Normas contábeis. Comparação entre países. Globalização.",
+  "palavras_chave": "niyama contabilidade internacional",
+  "edicao_id": 1888,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 165,
+  "peso": 405,
+  "isbn": "9788522441365",
+  "editora": "Atlas",
+  "numero_edicao": null,
+  "ano": 2008,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>CONTABILIDADE INTERNACIONAL</h1><p>A obra pretende preencher uma lacuna na bibliografia nacional, bem como atender às exigências das diretrizes curriculares do MEC que recomendam o ensino desta matéria para alunos de graduação em ciências contábeis. Começa o texto enfatizando a questão do ambiente legal e institucional da contabilidade no Brasil, destacando sua evolução e a trajetória recente, da influência governamental na promulgação de normas contábeis, do nível de atuação dos profissionais da área, das características da educação na área contábil e os respectivos desafios. Finaliza o Capítulo 1 com a abordagem da participação dos auditores independentes vis-à-vis à estrutura empresarial vigente no país.</p><p>As principais causas das diferenças internacionais na elaboração e apresentação das demonstrações contábeis (<i>financial reporting</i>) são analisadas nos Capítulos 2 e 3, enquanto o Capítulo 4 discute as principais divergências nos critérios de reconhecimento e mensuração, mediante a comparação das normas brasileiras, internacionais e norte-americanas.</p><p>O Capítulo 5 apresenta o ambiente legal e regulamentar da contabilidade em países do modelo anglo-saxão (Grã-Bretanha e Estados Unidos), do modelo da Europa Continental (França e Alemanha) e dois países que aparentemente têm “luz própria”, ora apresentando características de um, ora do outro (no caso, Japão e Holanda). Por fim, o Capítulo 6 faz uma comparação das exigências de evidenciação de dois dos mais representativos organismos mundiais que tratam da normatização contábil: o IASB e o FASB.</p><p>Para melhor sedimentação do processo de ensino-aprendizagem, ao final de cada capítulo contém questões para discussões e questionários. Sugestões de respostas das discussões encontram-se descritas ao final do livro.</p><h2>APLICAÇÃO</h2><p>Livro-texto para a disciplina CONTABILIDADE INTERNACIONAL e leitura complementar para as disciplinas TEORIA DA CONTABILIDADE, CONTABILIDADE AVANÇADA, AUDITORIA, CONTABILIDADE SOCIETÁRIA e TÓPICOS CONTEMPORÂNEOS EM CONTABILIDADE em cursos de graduação em Contabilidade. Indicado também para cursos de pós-graduação na área e como leitura de referência para uso profissional, principalmente para aqueles que buscam familiarizar-se com conhecimento sobre a globalização da contabilidade no mundo atual.</p>",
+  "sinopse": "Este livro aborda a contabilidade internacional, atendendo às exigências do MEC e suprindo uma lacuna na bibliografia nacional. O texto destaca o ambiente institucional da contabilidade no Brasil e analisa as principais causas das diferenças internacionais nas demonstrações contábeis, comparando normas brasileiras, internacionais e norte-americanas. Traz estudos comparativos sobre diferentes sistemas legais e regulatórios, além de discutir a evidenciação segundo os principais organismos mundiais, como IASB e FASB. Destina-se a estudantes de graduação e pós-graduação, bem como a profissionais que buscam compreender o impacto da globalização na contabilidade.",
+  "exemplar_id": 1887,
+  "sku": "LI0132",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jorge-katsumi-niyama--contabilidade-internacional--capa--20250430--104259.jpg",
+  "contracapa": "static/uploads/jorge-katsumi-niyama--contabilidade-internacional--contracapa--20250430--104259.jpg",
+  "fotos": [
+    "static/uploads/jorge-katsumi-niyama--contabilidade-internacional--foto1--20250430--104259.jpg",
+    "static/uploads/jorge-katsumi-niyama--contabilidade-internacional--foto2--20250430--104259.jpg",
+    "static/uploads/jorge-katsumi-niyama--contabilidade-internacional--foto3--20250430--104259.jpg",
+    "static/uploads/jorge-katsumi-niyama--contabilidade-internacional--foto4--20250430--104259.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:10:56",
+  "observacoes": "procedencia_biblioteca"
+}

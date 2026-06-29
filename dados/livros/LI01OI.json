@@ -1,0 +1,63 @@
+{
+  "obra_id": 2682,
+  "autor": "Gordon Bussey",
+  "titulo": "Marconis Atlantic leap",
+  "subtitulo": "",
+  "idioma": "Inglês",
+  "categoria": "Biografias",
+  "temas": "",
+  "palavras_chave": "bussey marconis atlantic leap",
+  "edicao_id": 2662,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 96,
+  "peso": 463,
+  "isbn": "9780953896707",
+  "editora": "Marconi",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2661,
+  "sku": "LI01OI",
+  "preco_estante_virtual": 11.0,
+  "preco_amazon": 11.0,
+  "capa": "static/uploads/marconis-atlantic-leap-gordon-bussey-capa_rev1003.jpg",
+  "contracapa": "static/uploads/marconis-atlantic-leap-gordon-bussey-contracapa_rev1456.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso.  The year 2001 is the centenary year of the first wireless signal in Morse code to be transmitted across the Atlantic. This work provides an account of how Marconi proved to the scientists that the curvature of the earth was not an obstacle for telegraphy over great distances."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 18:00:51",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 3363,
+  "autor": "Taishi Tsutsui",
+  "titulo": "We never learn",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Mangá. Romance escolar. Vida estudantil. Juventude.",
+  "palavras_chave": "tsutsui never learn",
+  "edicao_id": 3340,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 190,
+  "isbn": "9786559822799",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 6,
+  "transcricao_contracapa": "<p>Acompanhada de Nariyuki, Uruka visita sua antiga escola à noite. Enquanto conversavam sobre o passado, o papo acabou descambando para uma declaração de amor! Também temos praia, roupas de banho, acampamentos, termas... Este volume está cheio de tentações e problemas de verão! Aguentem firme, vestibulandos!!</p>",
+  "sinopse": "Neste volume, Uruka visita sua antiga escola à noite acompanhada de Nariyuki, e uma conversa sobre o passado evolui para uma declaração de amor. Além disso, o volume traz situações envolventes com praia, roupas de banho, acampamentos e termas, apresentando diversos desafios e tentações do verão para os vestibulandos.",
+  "exemplar_id": 3339,
+  "sku": "LI027A",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/we-never-learn__taishi-tsutsui__capa__2025-11-05_16-25-49-503606.jpg",
+  "contracapa": "static/uploads/we-never-learn__taishi-tsutsui__contracapa__2025-11-05_16-25-49-534519.jpg",
+  "fotos": [
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-01__2025-11-05_16-25-49-558948.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-02__2025-11-05_16-25-49-590846.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-03__2025-11-05_16-25-49-619400.jpg",
+    "static/uploads/we-never-learn__taishi-tsutsui__foto-04__2025-11-05_16-25-49-649779.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:13:35",
+  "observacoes": null
+}

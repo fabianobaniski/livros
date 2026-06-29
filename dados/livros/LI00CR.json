@@ -1,0 +1,63 @@
+{
+  "obra_id": 496,
+  "autor": "Edmilson Alves; F.E.D S Lucas",
+  "titulo": "O óleo da unção e seus significados",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Unção. Conhecimento espiritual.",
+  "palavras_chave": "alves óleo unção",
+  "edicao_id": 481,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 88,
+  "peso": 200,
+  "isbn": "9788562954245",
+  "editora": "Prince",
+  "numero_edicao": null,
+  "ano": 2016,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"O Espírito do Senhor é sobre mim, Pois que me ungiu para evangelizar os pobres. Enviou-me a curar os quebrantados de coração, A pregar liberdade aos cativos, E restaurar a razão da vista aos cegos, A pôr em liberdade os oprimidos, A anunciar o ano aceitável do Senhor.\"</p>",
+  "sinopse": "",
+  "exemplar_id": 480,
+  "sku": "LI00CR",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 28.0,
+  "capa": "static/uploads/edmilson-alves--o--leo-da-un--o--capa--20250227--111546.jpg",
+  "contracapa": "static/uploads/edmilson-alves--o--leo-da-un--o--contracapa--20250227--111546.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta dedicatória à caneta na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:33:01",
+  "observacoes": null
+}

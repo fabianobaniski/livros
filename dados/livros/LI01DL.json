@@ -1,0 +1,68 @@
+{
+  "obra_id": 2288,
+  "autor": "Hêndricas Nadólskis",
+  "titulo": "Comunicação redacional atualizada",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Comunicação",
+  "temas": "Comunicação. Redação. Educação.",
+  "palavras_chave": "nadolskis comunicacao redacional",
+  "edicao_id": 2268,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 159,
+  "peso": 390,
+  "isbn": "9788502047518",
+  "editora": "Saraiva",
+  "numero_edicao": 10,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Conheça o site do livro e as demais novidades do nosso catálogo no endereço:</p><p><b>www.saraivauni.com.br</b></p>",
+  "sinopse": "Esta edição atualizada do livro 'Comunicação Redacional' de Hêndricas Nadólskis oferece aos leitores uma abordagem prática e moderna sobre a produção textual e a redação. O leitor também pode acessar o site do livro para novidades e materiais complementares, facilitando o aprendizado e atualização na área de comunicação escrita.",
+  "exemplar_id": 2267,
+  "sku": "LI01DL",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/h-ndricas-nad-lskis--comunica--o-redacional--capa--20250430--105109.jpg",
+  "contracapa": "static/uploads/h-ndricas-nad-lskis--comunica--o-redacional--contracapa--20250430--105109.jpg",
+  "fotos": [
+    "static/uploads/h-ndricas-nad-lskis--comunica--o-redacional--foto1--20250430--105110.jpg",
+    "static/uploads/h-ndricas-nad-lskis--comunica--o-redacional--foto2--20250430--105110.jpg",
+    "static/uploads/h-ndricas-nad-lskis--comunica--o-redacional--foto3--20250430--105110.jpg",
+    "static/uploads/h-ndricas-nad-lskis--comunica--o-redacional--foto4--20250430--105110.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:05:29",
+  "observacoes": "procedencia_biblioteca"
+}

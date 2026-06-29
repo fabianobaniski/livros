@@ -1,0 +1,63 @@
+{
+  "obra_id": 2736,
+  "autor": "Mark Lindquist",
+  "titulo": "Nirvana nunca mais",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "lindquist nirvana nunca mais",
+  "edicao_id": 2716,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 305,
+  "peso": 300,
+  "isbn": "9788525034373",
+  "editora": "Globo",
+  "numero_edicao": null,
+  "ano": 2001,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Nirvana nunca mais retrata a vida de Pete Tyler, um jovem da cena grunge de Seattle nos anos 1990, que lida com as incertezas da juventude e a transição para a vida adulta. Confrontado por escolhas difíceis e um relacionamento fracassado, Pete se vê preso entre seu passado rebelde e a necessidade de enfrentar o futuro. A obra capta o espírito alternativo do rock e as angústias de uma geração desiludida, com uma narrativa ágil e sincera, permeada por humor e melancolia. É uma reflexão sobre a busca de sentido em um mundo de rápidas mudanças e expectativas frustradas.",
+  "exemplar_id": 2715,
+  "sku": "LI01Q0",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/nirvana-nunca-mais-mark-lindquist-capa_rev566.jpg",
+  "contracapa": "static/uploads/nirvana-nunca-mais-mark-lindquist-contracapa_rev1799.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro brochura, formato padrão, em ótimas condições. Papel sem manchas. Lombada alinhada. Capa e contracapa em bom estado, apesar de discretos sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:17:08",
+  "observacoes": null
+}

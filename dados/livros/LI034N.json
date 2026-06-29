@@ -1,0 +1,68 @@
+{
+  "obra_id": 5742,
+  "autor": "Márcio Mendes",
+  "titulo": "30 minutos para mudar o seu dia",
+  "subtitulo": "Quando uma simples oração pode transformar absolutamente tudo",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião cristã. Oração. Espiritualidade. Autotransformação.",
+  "palavras_chave": "mendes 30 minutos para mudar seu dia",
+  "edicao_id": 5717,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 96,
+  "peso": 70,
+  "isbn": "9788576774808",
+  "editora": "Canção Nova",
+  "numero_edicao": 16,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>As orações neste livro são poderosas em Deus, capazes de derrubar as barreiras que nos afastam Dele.<br>Elas nos ajudarão muito naqueles dias difíceis em que nem sequer sabemos por onde começar a rezar.<br>Contudo, você verá que pouco a pouco o Espírito Santo vai conduzir você a personalizar sempre mais cada uma delas.<br>A oração é simples, mas é poderosa para mudar qualquer vida.<br>Coisas muito boas nascerão desse momento diário com o Senhor.<br>Tudo pode acontecer quando Deus é envolvido na causa, e você mesmo constatará isso.<br>O Espírito Santo quer lhe mostrar que existe uma maneira muito mais cheia de amor e mais realizadora de se viver.<br>Trata-se de um mergulho no Amor de Deus que nos cura e salva. Quanto mais você se entregar, mais experimentará a graça de Deus purificar, libertar e curar seu coração.<br>Você receberá fortalecimento e proteção.<br>Mas o melhor de tudo é que Deus lhe dará uma efusão do Espírito Santo tão grande que mudará toda a sua vida.<br>Você sentirá crescer a cada dia em seu interior uma paz e uma força que nunca havia imaginado ser possível.</p>",
+  "sinopse": "O livro apresenta orações poderosas que ajudam a vencer barreiras e enfrentar dias difíceis, proporcionando um encontro pessoal com Deus por meio do Espírito Santo. A proposta é viver uma experiência diária de oração simples, mas transformadora, capaz de trazer fortalecimento, proteção, paz e uma profunda renovação interior, levando o leitor a experimentar o amor de Deus e uma mudança significativa em sua vida.",
+  "exemplar_id": 5716,
+  "sku": "LI034N",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/30-minutos-para-mudar-o-seu-dia__quando-uma-simples-oracao-pode-transformar-absolutamente-tudo__marcio-mendes__capa__2026-01-18_14-11-17-550284-000.png",
+  "contracapa": "static/uploads/30-minutos-para-mudar-o-seu-dia__quando-uma-simples-oracao-pode-transformar-absolutamente-tudo__marcio-mendes__contracapa__2026-01-18_14-11-17-580235-001.png",
+  "fotos": [
+    "static/uploads/30-minutos-para-mudar-o-seu-dia__quando-uma-simples-oracao-pode-transformar-absolutamente-tudo__marcio-mendes__foto-01__2026-01-18_14-11-17-602490-002.jpg",
+    "static/uploads/30-minutos-para-mudar-o-seu-dia__quando-uma-simples-oracao-pode-transformar-absolutamente-tudo__marcio-mendes__foto-02__2026-01-18_14-11-17-628061-003.jpg",
+    "static/uploads/30-minutos-para-mudar-o-seu-dia__quando-uma-simples-oracao-pode-transformar-absolutamente-tudo__marcio-mendes__foto-03__2026-01-18_14-11-17-662540-004.jpg",
+    "static/uploads/30-minutos-para-mudar-o-seu-dia__quando-uma-simples-oracao-pode-transformar-absolutamente-tudo__marcio-mendes__foto-04__2026-01-18_14-11-17-690740-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro de bolso em bom estado, tendo, apenas, leves sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. OBS.: Na contracapa há um pequeno escrito à caneta."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:01:40",
+  "observacoes": null
+}

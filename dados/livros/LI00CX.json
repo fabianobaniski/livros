@@ -1,0 +1,63 @@
+{
+  "obra_id": 502,
+  "autor": "Francis A. Schaeffer",
+  "titulo": "Morte na cidade",
+  "subtitulo": "A mensagem à cultura e à igreja que deram as costas a Deus",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Teologia. Cultura. Cristianismo.",
+  "palavras_chave": "schaeffer morte cidade",
+  "edicao_id": 487,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 111,
+  "peso": 200,
+  "isbn": "8586886793",
+  "editora": "Cultura Cristã",
+  "numero_edicao": null,
+  "ano": 2003,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>\"Qual deveria ser nossa perspectiva como indivíduos, como instituições, como cristãos ortodoxos, como aqueles que alegam acreditar na Bíblia? Como devemos olhar para este mundo pós-cristão e nos comportar como cristãos nele? Este livro tentará responder a essas perguntas. Eu iniciaria declarando uma proposição relativa à necessidade básica da igreja ortodoxa em nosso mundo pós-cristão, e depois eu considerarei esta proposição no contexto bíblico dos livros de Romanos, Lamentações e Jeremias. Durante todo o tempo nós olharemos para a situação que enfrentamos no mundo moderno e a perspectiva que devemos ter como cristãos neste mundo.\"</p><p>Francis Schaeffer, capítulo 1</p><p>\"Qual será a longo prazo a importância de Francis Schaeffer? Tenho certeza ... de que não estarei errado ao saudar Francis Schaeffer – que exerceu bem mais do que a maioria de nós ... e agonizou sobre a sua percepção bem mais intensamente do que nós – como um dos verdadeiramente grandes cristãos do meu tempo.\"</p><p>J.I. Packer</p><p>Francis A. Schaeffer (1912-1984) será sempre lembrado como um dos gigantes do século 20. Seus livros foram traduzidos para mais de 25 idiomas com milhões de exemplares vendidos. A L'Abri Fellowship, fundada pelo casal Francis e Edith Schaeffer em 1955, é um tributo vivo à sua obra. Outros títulos de Schaeffer lançados pela Cultura Cristã: A Obra Consumada de Cristo, Poluição e a Morte do Homem, Verdadeira Espiritualidade e a trilogia clássica, O Deus que Intervém, A Morte da Razão e O Deus que se Revela.</p>",
+  "sinopse": "O livro discute a perspectiva cristã em um mundo cada vez mais distante das crenças tradicionais. Através de reflexões sobre instituições e comportamentos, Schaeffer oferece insights sobre a necessidade de uma igreja ortodoxa e a forma como os cristãos devem se posicionar na sociedade moderna. Com referências a textos bíblicos, ele propõe um exame crítico do papel da fé no mundo contemporâneo.",
+  "exemplar_id": 486,
+  "sku": "LI00CX",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 45.0,
+  "capa": "static/uploads/francis-a--schaeffer--morte-na-cidade--capa--20250227--152846.jpg",
+  "contracapa": "static/uploads/francis-a--schaeffer--morte-na-cidade--contracapa--20250227--152846.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Consta carimbo de livraria na parte interna da capa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:09:59",
+  "observacoes": null
+}

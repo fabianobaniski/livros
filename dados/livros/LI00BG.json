@@ -1,0 +1,68 @@
+{
+  "obra_id": 449,
+  "autor": "Louise Edington",
+  "titulo": "O guia completo da astrologia",
+  "subtitulo": "Conheça a si mesmo, seu signo e seu mapa astral",
+  "idioma": "Português",
+  "categoria": "Esoterismo",
+  "temas": "Astrologia.",
+  "palavras_chave": "edington guia completo astrologia",
+  "edicao_id": 434,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 207,
+  "peso": 300,
+  "isbn": "9786555642674",
+  "editora": "Sextante",
+  "numero_edicao": 1,
+  "ano": 2022,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Há milênios a astrologia</h1> <p>revela a sabedoria das estrelas, nos ajudando a interpretar o movimento dos astros e a influência deles em nossa vida.</p> <p>Este livro ensina tudo o que você precisa saber para fazer e interpretar seu mapa astral, se conhecer melhor, descobrir sua compatibilidade com outros signos e identificar seu estilo pessoal no amor e no trabalho.</p> <p>Escrito tanto para iniciantes quanto para quem quer aprofundar seus conhecimentos, ele apresenta os conceitos essenciais da astrologia em seções curtas e acessíveis, com uma linguagem moderna e inclusiva.</p> <h2>Veja o que você vai encontrar aqui:</h2> <ul> <li><b>Os fundamentos da astrologia:</b> Entenda as origens históricas, suas transformações ao longo do tempo e seu contexto na sociedade atual.</li> <li><b>Polaridade Yin e Yang:</b> Conheça a nova abordagem não binária da energia de cada signo.</li> <li><b>Recursos visuais:</b> A partir de tabelas, gráficos e ilustrações, descubra o que significa o posicionamento dos astros em seu mapa de nascimento e como isso se reflete em sua personalidade.</li> <li><b>Mais do que signos solares:</b> Explore associações astrológicas mais complexas, incluindo signos lunares, ascendentes e descendentes, influências de planetas e muito mais.</li> </ul>",
+  "sinopse": "Este livro é uma introdução abrangente à astrologia, revelando sua sabedoria milenar e ensinando como interpretar movimentações celestiais e a influência nas vidas pessoais. Voltado para iniciantes e para aqueles que desejam se aprofundar, inclui explicações sobre os fundamentos da astrologia, polaridade yin e yang, e recursos visuais para melhor compreensão. A obra oferece conhecimento acessível sobre como os astros impactam no amor e no trabalho.",
+  "exemplar_id": 433,
+  "sku": "LI00BG",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/louise-edington--o-guia-completo-da-astrologia--capa--20250226--133830.jpg",
+  "contracapa": "static/uploads/louise-edington--o-guia-completo-da-astrologia--contracapa--20250226--133830.jpg",
+  "fotos": [
+    "static/uploads/louise-edington--o-guia-completo-da-astrologia--foto1--20250226--133830.jpg",
+    "static/uploads/louise-edington--o-guia-completo-da-astrologia--foto2--20250226--133830.jpg",
+    "static/uploads/louise-edington--o-guia-completo-da-astrologia--foto3--20250226--133830.jpg",
+    "static/uploads/louise-edington--o-guia-completo-da-astrologia--foto4--20250226--133830.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto apresenta alguns sublinhados com caneta-destaque. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:18:12",
+  "observacoes": null
+}

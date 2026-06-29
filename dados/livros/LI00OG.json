@@ -1,0 +1,63 @@
+{
+  "obra_id": 922,
+  "autor": "Valdemar Figueredo Filho",
+  "titulo": "Mosaico da espiritualidade",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Espiritualidade. Intelectualismo.",
+  "palavras_chave": "figueredo mosaico espiritualidade",
+  "edicao_id": 907,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 97,
+  "peso": 250,
+  "isbn": "9788561859046",
+  "editora": "Reflexão",
+  "numero_edicao": null,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>O autor é um intelectual e também um pastor comprometido com a igreja local. Estas duas características reunidas raramente são encontradas em uma só pessoa: a maioria dos intelectuais se isola, perto das teorias e longe das pessoas, e muitos dos que cuidam de igrejas esquecem ou colocam em segundo plano a ciência e a teologia. Não é o caso aqui. Valdemar mostra que pode haver perfeita convivência entre a razão e a fé. Na sua ação diurna, elas se somam e se completam no pastor, interagindo em um caráter afável e generoso.</p> <p>É assim como em uma maratona que você, leitor, terá a oportunidade de aproveitar cada capítulo. Talvez, durante o percurso, você se depare com trechos sinuosos, íngremes, que poderão deixar exposta a sua dor, como a do autor; poderá ser encorajado ao perceber que outras pessoas sentem exatamente aquilo que você está sentindo dilacerar seu coração, sua alma, mas, mesmo assim, elas conseguiram força sobrenatural para continuar seguindo; logo, há esperança para você... Seja como for, ao transitar pela sua linha de chegada, ao final deste livro, você poderá ter a satisfação de constatar que, tal como nesta obra e na vida, o importante mesmo não é chegar ao fim, mas, sim, aproveitar bem a caminhada.</p>",
+  "sinopse": "Mosaico da Espiritualidade explora a harmonia entre razão e fé, ao mostrar como o autor, Valdemar Figueredo Filho, equilibra seus papéis de intelectual e pastor. O leitor é convidado a refletir e aproveitar cada capítulo como uma maratona, onde trechos difíceis podem revelar dores, mas também esperanças e aprendizados que enriquecem a caminhada da vida.",
+  "exemplar_id": 906,
+  "sku": "LI00OG",
+  "preco_estante_virtual": 25.0,
+  "preco_amazon": 16.0,
+  "capa": "static/uploads/valdemar-figueredo-filho--mosaico-da-espiritualidade--capa--20250227--152913.jpg",
+  "contracapa": "static/uploads/valdemar-figueredo-filho--mosaico-da-espiritualidade--contracapa--20250227--152913.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Bordas um pouco amareladas."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:10:04",
+  "observacoes": null
+}

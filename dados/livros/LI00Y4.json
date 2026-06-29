@@ -1,0 +1,68 @@
+{
+  "obra_id": 1725,
+  "autor": "Mário Escobar",
+  "titulo": "Francisco",
+  "subtitulo": "O papa da simplicidade",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Biografia. Igreja Católica.",
+  "palavras_chave": "escobar francisco papa simplicidade",
+  "edicao_id": 1705,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 181,
+  "peso": 250,
+  "isbn": "9788522014828",
+  "editora": "Agir",
+  "numero_edicao": null,
+  "ano": 2013,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Francisco: o papa da simplicidade traz revelações inéditas sobre Jorge Mario Bergoglio, o novo pontífice, que na eleição de 2005 pediu aos outros participantes do conclave que não votassem nele, facilitando assim a ascensão de Bento XVI.</p> <p>Agora como papa, Francisco enfrenta uma Igreja Católica em crise, abalada por escândalos de pedofilia e vazamento de documentos sigilosos. Seu caminho não será fácil, mas sua história, contada com profundidade neste livro, mostra que ele nunca foge dos desafios.</p> <p>É este homem, fundamentado em quatro pilares — vida espiritual, vida comunitária, vida intelectual e vida apostólica — que agora assume a liderança aos olhos de mais de um bilhão de católicos no mundo. Como sua proposta de uma \"Igreja pobre para os pobres\" renovará os parâmetros da Santa Sé?</p> <p>Francisco: o papa da simplicidade conta por que a Igreja Católica pode mudar com o novo papa.</p>",
+  "sinopse": "O livro traz uma análise da trajetória de Jorge Mario Bergoglio, desde sua eleição até os desafios que enfrenta como papa. Revela não apenas sua visão para a Igreja Católica em meio a crises, mas também os pilares que fundamentam sua liderança e como ele pretende influenciar a vida de mais de um bilhão de católicos ao redor do mundo.",
+  "exemplar_id": 1704,
+  "sku": "LI00Y4",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/m-rio-escobar--francisco--capa--20250401--115811.jpg",
+  "contracapa": "static/uploads/m-rio-escobar--francisco--contracapa--20250401--115811.jpg",
+  "fotos": [
+    "static/uploads/m-rio-escobar--francisco--foto1--20250401--115811.jpg",
+    "static/uploads/m-rio-escobar--francisco--foto2--20250401--115811.jpg",
+    "static/uploads/m-rio-escobar--francisco--foto3--20250401--115811.jpg",
+    "static/uploads/m-rio-escobar--francisco--foto4--20250401--115811.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 16:13:16",
+  "observacoes": null
+}

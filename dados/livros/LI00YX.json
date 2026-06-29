@@ -1,0 +1,68 @@
+{
+  "obra_id": 1758,
+  "autor": "Samir Keedi",
+  "titulo": "Logística de transporte internacional",
+  "subtitulo": "Veículo prático de competitividade",
+  "idioma": "Português",
+  "categoria": "Administração",
+  "temas": "Administração. Logística. Transporte internacional. Globalização. Comércio exterior.",
+  "palavras_chave": "keedi logistica transporte internacional",
+  "edicao_id": 1738,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 194,
+  "peso": 350,
+  "isbn": "9788571295841",
+  "editora": "Aduaneiras",
+  "numero_edicao": 4,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta obra apresenta o que é e como fazer logística internacional.</p><p>Por meio de uma abordagem própria, o autor mostra a importância da globalização para o desenvolvimento desta, ressaltando seu caráter milenar, e que, graças a ela, também bem muito antiga, tem se destacado como imprescindível arma para transferência de mercadoria de um ponto a outro do planeta.</p><p>O <i>container</i> é destacado como a principal unidade de carga, sendo um dos principais responsáveis pela explosão da globalização, bem como amplia a ideia publicada em artigo, de um grande avanço no transporte aéreo.</p><p>O autor apresenta como cases para estudos, dois bons exemplos de sua utilização, sendo um através da maneira empregada pela Unef para distribuição do frango brasileiro no Iraque nos anos 80, e, o outro, de uma exportação de São Paulo até Moscou, ambos tendo como objetivo o entendimento do assunto.</p>",
+  "sinopse": "O livro apresenta o conceito e a prática da logística internacional, destacando o papel fundamental da globalização e do container como unidade de carga que facilitou o avanço do comércio mundial. Samir Keedi utiliza casos reais, como a distribuição de frango brasileiro ao Iraque e uma exportação de São Paulo a Moscou, para ilustrar a importância e os desafios do tema, fornecendo compreensão aprofundada sobre o assunto.",
+  "exemplar_id": 1737,
+  "sku": "LI00YX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/samir-keedi--log-stica-de-transporte-internacional--capa--20250430--102942.jpg",
+  "contracapa": "static/uploads/samir-keedi--log-stica-de-transporte-internacional--contracapa--20250430--102942.jpg",
+  "fotos": [
+    "static/uploads/samir-keedi--log-stica-de-transporte-internacional--foto1--20250430--102942.jpg",
+    "static/uploads/samir-keedi--log-stica-de-transporte-internacional--foto2--20250430--102942.jpg",
+    "static/uploads/samir-keedi--log-stica-de-transporte-internacional--foto3--20250430--102942.jpg",
+    "static/uploads/samir-keedi--log-stica-de-transporte-internacional--foto4--20250430--102942.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, apresenta leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 16:33:42",
+  "observacoes": "procedencia_biblioteca"
+}

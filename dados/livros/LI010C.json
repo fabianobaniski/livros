@@ -1,0 +1,68 @@
+{
+  "obra_id": 1809,
+  "autor": "Ademir Alves da Silva",
+  "titulo": "A gestão da seguridade social brasileira",
+  "subtitulo": "Entre a política pública e o mercado",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Sociologia. Políticas sociais. Seguridade social. Previdência social. Reformas do Estado.",
+  "palavras_chave": "silva gestao seguridade social brasileira",
+  "edicao_id": 1789,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 255,
+  "peso": 400,
+  "isbn": "9788524910852",
+  "editora": "Cortez",
+  "numero_edicao": 3,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>A partir de uma discussão sobre as tendências da gestão social na virada do século, este livro apresenta cuidadosa caracterização dos problemas e tendências do Estado do Bem-Estar Social em face da ofensiva neoliberal no contexto da prolongada crise capitalista. Aponta os principais traços das reformas realizadas. Procede a uma ampla análise crítica das “novas” formas de gestão social pelo deslocamento de responsabilidades do Estado para a sociedade civil, como parte da estratégia incrementalista de privatização e de fomento ao mercado. E analisa a reforma da previdência social brasileira, explorando a “tensão em torno da garantia de proteção social, sob critérios de universalidade ou do acesso seletivo a produtos do mercado de seguros sob critérios de mérito individual”.</p>",
+  "sinopse": "O livro apresenta uma análise das tendências da gestão social no Brasil na virada do século, como a transformação do Estado do Bem-Estar Social diante do avanço neoliberal e das crises capitalistas. Explora as reformas realizadas e critica as novas formas de gestão social, nas quais responsabilidades são transferidas do Estado para a sociedade civil, favorecendo estratégias de privatização e estímulo ao mercado. A obra também examina a reforma da previdência social brasileira, destacando tensões entre critérios universais de proteção social e o acesso seletivo a produtos do mercado de seguros.",
+  "exemplar_id": 1788,
+  "sku": "LI010C",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/ademir-alves-da-silva--a-gest-o-da-seguridade-social-brasileira--capa--20250430--102950.jpg",
+  "contracapa": "static/uploads/ademir-alves-da-silva--a-gest-o-da-seguridade-social-brasileira--contracapa--20250430--102950.jpg",
+  "fotos": [
+    "static/uploads/ademir-alves-da-silva--a-gest-o-da-seguridade-social-brasileira--foto1--20250430--102950.jpg",
+    "static/uploads/ademir-alves-da-silva--a-gest-o-da-seguridade-social-brasileira--foto2--20250430--102950.jpg",
+    "static/uploads/ademir-alves-da-silva--a-gest-o-da-seguridade-social-brasileira--foto3--20250430--102950.jpg",
+    "static/uploads/ademir-alves-da-silva--a-gest-o-da-seguridade-social-brasileira--foto4--20250430--102950.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:23:43",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 320,
+  "autor": "John Grisham",
+  "titulo": "Tempo de matar",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Questões sociais. Justiça. Racismo.",
+  "palavras_chave": "grisham tempo matar",
+  "edicao_id": 311,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 535,
+  "peso": 600,
+  "isbn": "8532504434",
+  "editora": "Rocco",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Dois homens brancos espancam e violentam impiedosamente uma menina negra de dez anos, numa pequena cidade ao sul dos Estados Unidos. A população da cidade — Clanton, no Mississippi —, apesar da significativa maioria branca, reage com choque e horror ao crime desumano.</p> <p>Mas o drama da menina Tonya e de sua família não para por ali. Ele ganha dimensão nacional a partir do momento em que o pai da menina, Carl Lee Hailey, consegue um fuzil emprestado, relembra seus tempos no Vietnã e mata os estupradores. A opinião pública fica, então, dividida entre os que apoiam a prática da justiça pelas próprias mãos e os que não admitem que um negro acabe com a vida de um branco.</p> <p>Nesse cenário, em que o julgamento é transposto para as ruas através da mídia, vários personagens procuram tirar o máximo de proveito da situação, que coloca em evidência policiais, advogados, juízes, promotores e líderes raciais. O jovem advogado Jack Brigance, que assume a defesa, terá que enfrentar toda sorte de perseguições, principalmente por parte da violenta Ku Klux Klan.</p>",
+  "sinopse": "Em uma pequena cidade do Mississippi, dois homens brancos cometem um crime horrendo contra uma menina negra, gerando um clamor nacional. O pai da menina toma a situação em suas próprias mãos, levando à luta entre a justiça e a violência. Advogados e autoridades se entrelaçam em uma trama complexa enquanto o jovem advogado Jack Brigance defende seu cliente contra a opressão da Ku Klux Klan.",
+  "exemplar_id": 310,
+  "sku": "LI0086",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/john-grisham--tempo-de-matar--capa--20250226--133819.jpg",
+  "contracapa": "static/uploads/john-grisham--tempo-de-matar--contracapa--20250226--133819.jpg",
+  "fotos": [
+    "static/uploads/john-grisham--tempo-de-matar--foto1--20250226--133819.jpg",
+    "static/uploads/john-grisham--tempo-de-matar--foto2--20250226--133819.jpg",
+    "static/uploads/john-grisham--tempo-de-matar--foto3--20250226--133819.jpg",
+    "static/uploads/john-grisham--tempo-de-matar--foto4--20250226--133819.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro fisicamente bem conservado, porém fortemente amarelado. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça. Com assinatura de ex-dono na primeira folha."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:54:35",
+  "observacoes": null
+}

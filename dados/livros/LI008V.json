@@ -1,0 +1,68 @@
+{
+  "obra_id": 347,
+  "autor": "Will Durant",
+  "titulo": "A história da filosofia",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Filosofia",
+  "temas": "Filosofia.",
+  "palavras_chave": "durant historia filosofia",
+  "edicao_id": 338,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 480,
+  "peso": 400,
+  "isbn": "8535106952",
+  "editora": "Nova Cultural",
+  "numero_edicao": null,
+  "ano": 2000,
+  "serie": "Os Pensadores",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 337,
+  "sku": "LI008V",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/will-durant--a-hist-ria-da-filosofia--capa--20250226--133821.jpg",
+  "contracapa": "static/uploads/will-durant--a-hist-ria-da-filosofia--contracapa--20250226--133821.jpg",
+  "fotos": [
+    "static/uploads/will-durant--a-hist-ria-da-filosofia--foto1--20250226--133821.jpg",
+    "static/uploads/will-durant--a-hist-ria-da-filosofia--foto2--20250226--133821.jpg",
+    "static/uploads/will-durant--a-hist-ria-da-filosofia--foto3--20250226--133821.jpg",
+    "static/uploads/will-durant--a-hist-ria-da-filosofia--foto4--20250226--133821.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro muito bem conservado, sem danos na capa, lombada e contracapa, porém amarelado pelo tempo. Texto apresenta uns poucos sublinhados com caneta destaque cor amarela. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 17:25:38",
+  "observacoes": null
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 164,
+  "autor": "Mary Buffett; David Clark",
+  "titulo": "El tao de Warren Buffett",
+  "subtitulo": "La sabiduría de un genio",
+  "idioma": "Espanhol",
+  "categoria": "Administração",
+  "temas": "Finanças. Investimentos. Estratégias.",
+  "palavras_chave": "buffett tao warren",
+  "edicao_id": 160,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 125,
+  "peso": 150,
+  "isbn": "9788493562656",
+  "editora": "Alienta Editorial",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Los éxitos de Warren Buffett como inversor no tienen comparación. Sus logros se basan en la dedicación, la integridad y un ingrediente muy escaso, el sentido común. Las citas de este libro reflejan las estrategias prácticas de Buffett y ofrece ejemplos y modelos útiles para cualquier tipo de inversor, sea grande o pequeño. Las reflexiones y consejos proceden de diferentes fuentes, incluyendo conversaciones personales, informes corporativos y entrevistas.</p> <p>El Tao de Warren Buffett inspira, contribuye a agudizar la mente y ofrece una sabiduría que será de enorme utilidad para todos los inversores.</p> <p>“Si para ser un gran inversor fueran necesarios el cálculo y el álgebra, yo tendría que volver a repartir periódicos.”</p> <p>De El Tao de Warren Buffett</p>",
+  "sinopse": "El Tao de Warren Buffett es una obra clave que destaca la dedicación y la integridad del famoso inversor. A través de citas y reflexiones, el livro revela estrategias prácticas que pueden ser utilizadas por cualquier tipo de inversor, brindando una sabiduría invaluable. Es una lectura inspiradora que agudiza la mente y ofrece consejos útiles, ideales para maximizar el rendimiento financiero.",
+  "exemplar_id": 159,
+  "sku": "LI0042",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 30.0,
+  "capa": "static/uploads/mary-buffett--el-tao-de-warren-buffett--capa--20250226--133800.jpg",
+  "contracapa": "static/uploads/mary-buffett--el-tao-de-warren-buffett--contracapa--20250226--133800.jpg",
+  "fotos": [
+    "static/uploads/mary-buffett--el-tao-de-warren-buffett--foto1--20250226--133800.jpg",
+    "static/uploads/mary-buffett--el-tao-de-warren-buffett--foto2--20250226--133800.jpg",
+    "static/uploads/mary-buffett--el-tao-de-warren-buffett--foto3--20250226--133800.jpg",
+    "static/uploads/mary-buffett--el-tao-de-warren-buffett--foto4--20250226--133800.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em estado regular, com o papel fortemente amarelado. Grifado à lápis."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:03:42",
+  "observacoes": null
+}

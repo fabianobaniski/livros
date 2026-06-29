@@ -1,0 +1,68 @@
+{
+  "obra_id": 3315,
+  "autor": "Saburouta",
+  "titulo": "Citrus",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura japonesa. Mangá. Romance adolescente. Relacionamento entre irmãs.",
+  "palavras_chave": "saburouta citrus ",
+  "edicao_id": 3295,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9788583622420",
+  "editora": "NewPOP",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": 3,
+  "transcricao_contracapa": "<p>Em meio à acelerada aproximação que teve com sua irmã <b>Mei</b>, <b>Yuzu</b> se deu conta de seus sentimentos. Contudo, não consegue avançar na relação por serem “irmãs”.</p><p>Enquanto isso, uma amiga de infância chamada <b>Matsuri</b> aparece de repente diante dela. <b>Matsuri</b>, que possui a aparência e mentalidade de uma típica adolescente rebelde, beija <b>Yuzu</b> à força sem que ela percebesse que estava sendo observada pela <b>Mei</b>...</p>",
+  "sinopse": "Yuzu percebe seus sentimentos por Mei à medida que as duas se aproximam, mas não consegue avançar no relacionamento devido ao fato de serem irmãs. A situação se complica quando Matsuri, uma amiga de infância de Yuzu com personalidade rebelde, aparece de surpresa e beija Yuzu à força, sem perceber que Mei está observando tudo, trazendo conflitos e desafios emocionais ao trio.",
+  "exemplar_id": 3294,
+  "sku": "LI0261",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/citrus__saburouta__capa__2025-11-05_16-25-11-262154.jpg",
+  "contracapa": "static/uploads/citrus__saburouta__contracapa__2025-11-05_16-25-11-448204.jpg",
+  "fotos": [
+    "static/uploads/citrus__saburouta__foto-01__2025-11-05_16-25-11-463504.jpg",
+    "static/uploads/citrus__saburouta__foto-02__2025-11-05_16-25-11-817640.jpg",
+    "static/uploads/citrus__saburouta__foto-03__2025-11-05_16-25-11-841267.jpg",
+    "static/uploads/citrus__saburouta__foto-04__2025-11-05_16-25-11-910809.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 00:11:55",
+  "observacoes": null
+}

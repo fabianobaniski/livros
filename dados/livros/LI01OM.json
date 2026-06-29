@@ -1,0 +1,63 @@
+{
+  "obra_id": 2686,
+  "autor": "Steven Pressfield",
+  "titulo": "Matar Rommel",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "pressfield matar rommel",
+  "edicao_id": 2666,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 309,
+  "peso": 400,
+  "isbn": "9789725686188",
+  "editora": "Ulisseia",
+  "numero_edicao": null,
+  "ano": 2009,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "No outono de 1942, as forças nazistas avançam na Europa e no Norte da África, com Rommel liderando o Afrika Korps. A França está sob ocupação, e Churchill, isolado na Grã-Bretanha, enfrenta a ameaça de uma derrota esmagadora. O Exército Britânico, acuado no Egito, tenta um último golpe estratégico para conter a ofensiva alemã. Matar Rommel retrata essa batalha decisiva com detalhes das táticas militares e o heroísmo de um pequeno grupo que tenta reverter o curso da guerra, mostrando a importância de suas ações para a vitória aliada.",
+  "exemplar_id": 2665,
+  "sku": "LI01OM",
+  "preco_estante_virtual": 40.0,
+  "preco_amazon": 60.0,
+  "capa": "static/uploads/matar-rommel-steven-pressfield-capa_rev1192.jpg",
+  "contracapa": "static/uploads/matar-rommel-steven-pressfield-contracapa_rev1070.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado! Não possui grifos ou anotações. Capa, contracapa e lombada sem danos, apesar de leves sinais de uso."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:58:00",
+  "observacoes": null
+}

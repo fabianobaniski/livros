@@ -1,0 +1,63 @@
+{
+  "obra_id": 2410,
+  "autor": "Fabio Avila; Diego Gazola",
+  "titulo": "Brasilzão",
+  "subtitulo": "Registros e experiências de dois viajantes deslumbrados e inconformados com o brasil de hoje",
+  "idioma": "Português",
+  "categoria": "Brasil",
+  "temas": "",
+  "palavras_chave": "avila brasilzao registros experiencias",
+  "edicao_id": 2390,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 349,
+  "peso": 610,
+  "isbn": "9788506051368",
+  "editora": "Melhoramentos",
+  "numero_edicao": 0,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2389,
+  "sku": "LI01GZ",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/fabio-avila--brasilzao--capa--20260316--175730.jpg",
+  "contracapa": "static/uploads/fabio-avila--brasilzao--contracapa--20260316--175730.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em perfeito estado de conservação! Capa, lombada e contracapa sem danos. Texto livre de sublinhados ou anotações. Apresenta, apenas, carimbo de livraria."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 14:08:35",
+  "observacoes": null
+}

@@ -1,0 +1,63 @@
+{
+  "obra_id": 2691,
+  "autor": "Charles Dalcanale Tesser",
+  "titulo": "Medicinas complementares",
+  "subtitulo": "O que é necessário saber",
+  "idioma": "Português",
+  "categoria": "Saúde",
+  "temas": "",
+  "palavras_chave": "charles medicinas complementares ",
+  "edicao_id": 2671,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 223,
+  "peso": 200,
+  "isbn": "9788539300303",
+  "editora": "Unesp",
+  "numero_edicao": null,
+  "ano": 2010,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Este livro aborda o crescente interesse pelas práticas alternativas e complementares de medicina, discutindo seus significados sociais, culturais, filosóficos e políticos. Técnicas como o uso de plantas medicinais, ioga, homeopatia, remédios naturais e massagens são analisadas, assim como seu impacto na relação entre tratamento e paciente. A obra explora os desafios e controvérsias acerca da validação científica dessas práticas, além de debater sua regulamentação social e legitimação, oferecendo uma reflexão clara e objetiva sobre um tema polêmico e complexo.",
+  "exemplar_id": 2670,
+  "sku": "LI01OR",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/medicinas-complementares-charles-dalcanale-tesser-org-capa_rev751.jpg",
+  "contracapa": "static/uploads/medicinas-complementares-charles-dalcanale-tesser-org-contracapa_rev27.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": null,
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro praticamente novo, sem qualquer dano físico ou ao texto, que encontra-se livre de qualquer anotação, sublinhado, assinatura, etc. Livro de bolso,"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 17:56:57",
+  "observacoes": null
+}

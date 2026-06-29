@@ -1,0 +1,63 @@
+{
+  "obra_id": 2487,
+  "autor": "Palácio Nacional de Queluz",
+  "titulo": "Do Tejo aos mares da China",
+  "subtitulo": "Uma epopeia portuguesa",
+  "idioma": "Português",
+  "categoria": "História Geral",
+  "temas": "",
+  "palavras_chave": "queluz tejo aos mares",
+  "edicao_id": 2467,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 213,
+  "peso": 600,
+  "isbn": "9782711825493",
+  "editora": "Museées Nationaux",
+  "numero_edicao": null,
+  "ano": 1994,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 2466,
+  "sku": "LI01J3",
+  "preco_estante_virtual": 120.0,
+  "preco_amazon": 120.0,
+  "capa": "static/uploads/palacio-nacional-de-queluz--do-tejo-aos-mares-da-china--capa--20260316--192707.jpg",
+  "contracapa": "static/uploads/palacio-nacional-de-queluz--do-tejo-aos-mares-da-china--contracapa--20260316--192707.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro bem conservado. Não apresenta anotações ou sublinhados. Capa, lombada e contracapa em bom estado, apesar de leves sinais de uso. Ilustrado em preto & branco e cores."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:22:51",
+  "observacoes": null
+}

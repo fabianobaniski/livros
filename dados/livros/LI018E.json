@@ -1,0 +1,68 @@
+{
+  "obra_id": 2101,
+  "autor": "Marina Maciel Abreu",
+  "titulo": "Serviço Social e a organização da cultura",
+  "subtitulo": "Perfis pedagógicos da prática profissional",
+  "idioma": "Português",
+  "categoria": "Sociologia",
+  "temas": "Sociologia. Serviço social. Cultura. Pedagogia. Emancipação social.",
+  "palavras_chave": "abreu servico social organizacao cultura",
+  "edicao_id": 2081,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 240,
+  "peso": 380,
+  "isbn": "9788524908958",
+  "editora": "Cortez",
+  "numero_edicao": 4,
+  "ano": 2011,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Tratando a cultura como modo ou sistema de vida, maneira de pensar e agir sob a hegemonia de uma classe, ou seja, como sociabilidade, o livro destaca perfis pedagógicos da prática do assistente social ao longo da trajetória profissional na sociedade. São identificados três perfis, assim nominados: pedagogia da \"ajuda\", da \"participação\" e a proposta de construção de uma pedagogia emancipatória pelas classes subalternas. O que representam esses perfis? Demonstram os vínculos da profissão a estratégias educativas presentes no movimento de organização/reorganização da cultura, traduzindo diferentes modalidades de inserção do assistente social nesse movimento, ao mesmo tempo são indicativos da própria cultura profissional. O livro discute particularidades e tendências pedagógicas atuais do Serviço Social no Brasil, distinguindo metamorfoses das pedagogias da \"ajuda\" e da \"participação\" e desafios da construção de uma pedagogia emancipatória, situados entre o horizonte da cultura do \"bem-estar\" e o da superação da ordem do capital.</p>",
+  "sinopse": "O livro examina como a cultura, entendida como sistema de vida sob a hegemonia de uma classe, influencia os perfis pedagógicos praticados pelo assistente social ao longo de sua trajetória. São apresentados três perfis - pedagogia da 'ajuda', da 'participação' e uma proposta emancipatória voltada às classes subalternas. A obra analisa as estratégias educativas do serviço social brasileiro, suas transformações e desafios, especialmente na busca por uma pedagogia emancipatória e na superação da ordem do capital.",
+  "exemplar_id": 2080,
+  "sku": "LI018E",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/marina-maciel-abreu--servi-o-social-e-a-organiza--o-da-cultura--capa--20250430--104533.jpg",
+  "contracapa": "static/uploads/marina-maciel-abreu--servi-o-social-e-a-organiza--o-da-cultura--contracapa--20250430--104533.jpg",
+  "fotos": [
+    "static/uploads/marina-maciel-abreu--servi-o-social-e-a-organiza--o-da-cultura--foto1--20250430--104533.jpg",
+    "static/uploads/marina-maciel-abreu--servi-o-social-e-a-organiza--o-da-cultura--foto2--20250430--104533.jpg",
+    "static/uploads/marina-maciel-abreu--servi-o-social-e-a-organiza--o-da-cultura--foto3--20250430--104533.jpg",
+    "static/uploads/marina-maciel-abreu--servi-o-social-e-a-organiza--o-da-cultura--foto4--20250430--104533.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 08:59:10",
+  "observacoes": "procedencia_biblioteca"
+}

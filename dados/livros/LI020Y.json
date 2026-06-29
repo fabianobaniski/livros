@@ -1,0 +1,63 @@
+{
+  "obra_id": 3130,
+  "autor": "Manfred Lurker",
+  "titulo": "Dicionário dos Deuses e Demônios",
+  "subtitulo": null,
+  "idioma": "Português",
+  "categoria": "Dicionários",
+  "temas": null,
+  "palavras_chave": "lurker dicionario dos deuses",
+  "edicao_id": 3110,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 283,
+  "peso": 380,
+  "isbn": "8533601808",
+  "editora": "Martins Fontes",
+  "numero_edicao": null,
+  "ano": 1993,
+  "serie": null,
+  "volume": null,
+  "transcricao_contracapa": null,
+  "sinopse": "Os conceitos divindade e demônio não possuem o mesmo peso nas diferentes formas religiosas. Existem seres mortais e seres demoníacos que permanecem intocados pela morte. A linha divisória entre deuses e demônios é fluída e, no processo de cristianização de um povo, suas velhas divindades podem ser reduzidas à condição de diabos ou integradas ao conjunto de santos cristãos. Os deuses e demônios distinguem-se da grande massa anônima de espíritos por terem características individuais mais claramente delineadas, o que é demonstrado, por exemplo, pelo fato de lhes serem conferidos nomes.",
+  "exemplar_id": 3109,
+  "sku": "LI020Y",
+  "preco_estante_virtual": 30.0,
+  "preco_amazon": null,
+  "capa": null,
+  "contracapa": null,
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Regular",
+    "partes_livro": {
+      "capa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": null,
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": null,
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": null,
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": null,
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": null,
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Conservação razoável. Livro fortemente amarelado e com pequenos desgastes na capa e lombada. Texto sem grifos ou anotações."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-11 22:47:18",
+  "observacoes": "falta_fotos_e_revisao_precos"
+}

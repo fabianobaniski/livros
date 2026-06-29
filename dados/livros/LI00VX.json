@@ -1,0 +1,68 @@
+{
+  "obra_id": 1483,
+  "autor": "Ellen G. White",
+  "titulo": "O grande conflito",
+  "subtitulo": "Acontecimentos que mudarão o seu futuro",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Espiritualidade. Questões sociais.",
+  "palavras_chave": "white grande conflito",
+  "edicao_id": 1464,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 290,
+  "peso": 300,
+  "isbn": "9788534514804",
+  "editora": "Casa",
+  "numero_edicao": null,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Pelo que você vê, lê e ouve, pode achar que o mal esteja vencendo o bem.</p> <p>As notícias são desanimadoras: violência, fome, guerras, desemprego, poluição, corrupção, doenças, acidentes e muitas outras calamidades.</p> <p>Os meios de comunicação podem lhe dizer o que está acontecendo, mas este livro revela por quê.</p> <p>E diz também o que você jamais ouvirá no noticiário: o que ainda está por acontecer.</p> <p>Anime-se. O conflito está no fim. E você ainda pode escolher de que lado estará quando tudo terminar.</p>",
+  "sinopse": "Este livro explora a percepção de que o mal pode parecer prevalecer sobre o bem na sociedade atual, e oferece uma análise profunda da situação mundial, revelando os verdadeiros motivos por trás das calamidades e como os leitores podem se preparar para os eventos futuros que ainda estão por vir.",
+  "exemplar_id": 1463,
+  "sku": "LI00VX",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/ellen-g--white--o-grande-conflito--capa--20250401--115738.jpg",
+  "contracapa": "static/uploads/ellen-g--white--o-grande-conflito--contracapa--20250401--115738.jpg",
+  "fotos": [
+    "static/uploads/ellen-g--white--o-grande-conflito--foto1--20250401--115738.jpg",
+    "static/uploads/ellen-g--white--o-grande-conflito--foto2--20250401--115738.jpg",
+    "static/uploads/ellen-g--white--o-grande-conflito--foto3--20250401--115738.jpg",
+    "static/uploads/ellen-g--white--o-grande-conflito--foto4--20250401--115738.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:17:40",
+  "observacoes": null
+}

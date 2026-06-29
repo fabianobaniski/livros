@@ -1,0 +1,68 @@
+{
+  "obra_id": 3271,
+  "autor": "Sankakuhead",
+  "titulo": "Highschool of the head",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos. Paródia. Humor.",
+  "palavras_chave": "sankakuhead highschool head",
+  "edicao_id": 3251,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 120,
+  "isbn": "9788542601497",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "",
+  "sinopse": "",
+  "exemplar_id": 3250,
+  "sku": "LI024T",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 22.0,
+  "capa": "static/uploads/highschool-of-the-head__sankakuhead__capa__2025-11-05_16-24-45-733084.jpg",
+  "contracapa": "static/uploads/highschool-of-the-head__sankakuhead__contracapa__2025-11-05_16-24-45-759826.jpg",
+  "fotos": [
+    "static/uploads/highschool-of-the-head__sankakuhead__foto-01__2025-11-05_16-24-45-787586.jpg",
+    "static/uploads/highschool-of-the-head__sankakuhead__foto-02__2025-11-05_16-24-45-816649.jpg",
+    "static/uploads/highschool-of-the-head__sankakuhead__foto-03__2025-11-05_16-24-45-845692.jpg",
+    "static/uploads/highschool-of-the-head__sankakuhead__foto-04__2025-11-05_16-24-45-870519.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:48:20",
+  "observacoes": null
+}

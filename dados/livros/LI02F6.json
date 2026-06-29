@@ -1,0 +1,68 @@
+{
+  "obra_id": 3647,
+  "autor": "André Gide",
+  "titulo": "Os subterrâneos do Vaticano",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "gide subterraneos vaticano",
+  "edicao_id": 3624,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 286,
+  "peso": 400,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "Misturando farsa e sátira, a obra narra um plano mirabolante envolvendo um boato de sequestro do Papa e as ações de Lafcadio, um jovem que busca a liberdade absoluta por meio do \"ato gratuito\", cometendo um crime sem motivo para testar sua própria independência moral.",
+  "exemplar_id": 3623,
+  "sku": "LI02F6",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/andre-gide--os-subterraneos-do-vaticano--capa--20251114--184721.png",
+  "contracapa": "static/uploads/andre-gide--os-subterraneos-do-vaticano--contracapa--20251114--184727.png",
+  "fotos": [
+    "static/uploads/andre-gide--os-subterraneos-do-vaticano--foto1--20251113--205115.jpg",
+    "static/uploads/andre-gide--os-subterraneos-do-vaticano--foto2--20251113--205115.jpg",
+    "static/uploads/andre-gide--os-subterraneos-do-vaticano--foto3--20251113--205115.jpg",
+    "static/uploads/andre-gide--os-subterraneos-do-vaticano--foto4--20251113--205115.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 22:26:40",
+  "observacoes": null
+}

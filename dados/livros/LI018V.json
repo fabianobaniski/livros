@@ -1,0 +1,68 @@
+{
+  "obra_id": 2118,
+  "autor": "Samir Keedi",
+  "titulo": "Abc do comércio exterior",
+  "subtitulo": "Abrindo as primeiras páginas",
+  "idioma": "Português",
+  "categoria": "Economia",
+  "temas": "Comércio exterior. Economia internacional. Formação profissional.",
+  "palavras_chave": "keedi abc comercio exterior",
+  "edicao_id": 2098,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 180,
+  "peso": 320,
+  "isbn": "9788571295858",
+  "editora": "Aduaneiras",
+  "numero_edicao": 4,
+  "ano": 2012,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Esta nova edição apresenta, em linhas gerais, sem aprofundamento operacional, o que existe e como é feito o comércio exterior; também assuntos que os profissionais da área precisam conhecer para obterem sucesso.</p><p>Samir Keedi teve como principal objetivo inserir tanto o aluno quanto o profissional iniciante nos meandros do comércio exterior.</p><p>Assim, todos aqueles que convivem com o comércio internacional podem contar com mais esta ferramenta para ajudá-los nesta tarefa.</p>",
+  "sinopse": "Esta obra apresenta de forma geral o funcionamento do comércio exterior, abordando tópicos essenciais para estudantes e iniciantes na área. O livro busca inserir o leitor nos meandros do setor, oferecendo uma ferramenta prática para compreender os princípios e desafios do comércio internacional, sendo útil tanto para alunos quanto para profissionais em início de carreira.",
+  "exemplar_id": 2097,
+  "sku": "LI018V",
+  "preco_estante_virtual": 12.0,
+  "preco_amazon": 12.0,
+  "capa": "static/uploads/samir-keedi--abc-do-com-rcio-exterior--capa--20250430--104535.jpg",
+  "contracapa": "static/uploads/samir-keedi--abc-do-com-rcio-exterior--contracapa--20250430--104535.jpg",
+  "fotos": [
+    "static/uploads/samir-keedi--abc-do-com-rcio-exterior--foto1--20250430--104535.jpg",
+    "static/uploads/samir-keedi--abc-do-com-rcio-exterior--foto2--20250430--104535.jpg",
+    "static/uploads/samir-keedi--abc-do-com-rcio-exterior--foto3--20250430--104535.jpg",
+    "static/uploads/samir-keedi--abc-do-com-rcio-exterior--foto4--20250430--104535.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 19:00:04",
+  "observacoes": "procedencia_biblioteca"
+}

@@ -1,0 +1,68 @@
+{
+  "obra_id": 1468,
+  "autor": "Urda Alice Klueger; PHD Chico",
+  "titulo": "Viagem ao umbigo do mundo",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Turismo",
+  "temas": "Cultura. Tradições. Vida rural.",
+  "palavras_chave": "klueger viagem umbigo mundo",
+  "edicao_id": 1449,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 146,
+  "peso": 200,
+  "isbn": "8586857289",
+  "editora": "Hemisfério Sul",
+  "numero_edicao": null,
+  "ano": 2006,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>“ (...) No meio da verdura, casinhas de adobe, como devem ter sido as casas do passado, abrigavam a população que era toda rural, e lá estavam as pessoas, principalmente as mulheres, em duas, em três, em pequenos grupos que vigiavam seus rebanhos de lhama que pastavam nos pastos sem cercas. (...) Sei que era extremamente lindo ver aqueles rebanhos nos pastos verdinhos, e suas donas sentadas próximas a eles, fiando à lá da última tosquia como suas antepassadas devem ter fiado por milhares de anos (...).</p> <p>E, na sombra do entender, chegamos a Cusco! Ah! Cusco, Umbigo do Mundo, como é possível alguém morrer sem ter te conhecido?”</p>",
+  "sinopse": "A obra aborda a vida rural e as tradições de uma população que vive em harmonia com a natureza, descrevendo a beleza dos rebanhos e a importância da conexão com a terra. A narrativa culmina na chegada a Cusco, um local repleto de cultura e história, convidando o leitor a refletir sobre a identidade e as raízes.",
+  "exemplar_id": 1448,
+  "sku": "LI00VI",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/urda-alice-klueger--viagem-ao-umbigo-do-mundo--capa--20250401--115736.jpg",
+  "contracapa": "static/uploads/urda-alice-klueger--viagem-ao-umbigo-do-mundo--contracapa--20250401--115736.jpg",
+  "fotos": [
+    "static/uploads/urda-alice-klueger--viagem-ao-umbigo-do-mundo--foto1--20250401--115736.jpg",
+    "static/uploads/urda-alice-klueger--viagem-ao-umbigo-do-mundo--foto2--20250401--115736.jpg",
+    "static/uploads/urda-alice-klueger--viagem-ao-umbigo-do-mundo--foto3--20250401--115736.jpg",
+    "static/uploads/urda-alice-klueger--viagem-ao-umbigo-do-mundo--foto4--20250401--115736.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 10:41:01",
+  "observacoes": null
+}

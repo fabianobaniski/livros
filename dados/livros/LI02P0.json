@@ -1,0 +1,63 @@
+{
+  "obra_id": 4946,
+  "autor": "Tsugumi Ohba; Takeshi Obata",
+  "titulo": "Platinum End",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Aventura. Drama.",
+  "palavras_chave": "ohba platinum end",
+  "edicao_id": 4921,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 181,
+  "peso": 180,
+  "isbn": "9788545709640",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "<p>Depois de abrir seu coração para Mirai, Saki consegue dar um grande passo. A garota não quer mais ser protegida. Agora, deseja as 'asas' para poder lutar junto de seus companheiros! Ao mesmo tempo, Mukaidô continua a dedicar o tempo restante de sua vida pela família que tanto ama. Porém, uma figura desconhecida vai causar problemas a ele...!</p>",
+  "sinopse": "Após abrir seu coração para Mirai, Saki deseja lutar ao lado de seus amigos, recusando ser protegida. Enquanto isso, Mukaidô dedica seus últimos momentos à família, mas é ameaçado por uma figura misteriosa.",
+  "exemplar_id": 4920,
+  "sku": "LI02P0",
+  "preco_estante_virtual": 15.0,
+  "preco_amazon": 15.0,
+  "capa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__capa__2026-02-20_10-31-18-811751-000.png",
+  "contracapa": "static/uploads/platinum-end__tsugumi-ohba-takeshi-obata__contracapa__2026-02-20_10-31-18-889353-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel quase sem sinais de envelhecimento."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

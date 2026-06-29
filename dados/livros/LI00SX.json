@@ -1,0 +1,68 @@
+{
+  "obra_id": 1371,
+  "autor": "Luís de Camões",
+  "titulo": "Sonetos",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura clássica.",
+  "palavras_chave": "camoes sonetos",
+  "edicao_id": 1354,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 138,
+  "peso": 200,
+  "isbn": "",
+  "editora": "Objetivo",
+  "numero_edicao": null,
+  "ano": null,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Camões, homem de armas e de letras, transformou-se em um dos \"barões assinalados\" que cantou gloriosamente na abertura de sua obra épica, Os Lusíadas (1572). Prova disso é que soube viver de forma própria e intensa as questões de seu tempo, como a retomada da cultura clássica, fundindo-a aos ideais judaico-cristãos. Como resultado, construiu uma visão crítica poderosa do mundo, como pode ser visto no presente livro, que apresenta alguns dos mais belos sonetos de toda a literatura em língua portuguesa.</p>",
+  "sinopse": "",
+  "exemplar_id": 1353,
+  "sku": "LI00SX",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 5.0,
+  "capa": "static/uploads/lu-s-de-cam-es--sonetos--capa--20250401--115336.jpg",
+  "contracapa": "static/uploads/lu-s-de-cam-es--sonetos--contracapa--20250401--115336.jpg",
+  "fotos": [
+    "static/uploads/lu-s-de-cam-es--sonetos--foto1--20250401--115336.jpg",
+    "static/uploads/lu-s-de-cam-es--sonetos--foto2--20250401--115336.jpg",
+    "static/uploads/lu-s-de-cam-es--sonetos--foto3--20250401--115336.jpg",
+    "static/uploads/lu-s-de-cam-es--sonetos--foto4--20250401--115336.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Algumas folhas com marquinha de dobra nas quinas. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-14 09:34:59",
+  "observacoes": null
+}

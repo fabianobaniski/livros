@@ -1,0 +1,68 @@
+{
+  "obra_id": 2179,
+  "autor": "José Carlos Marion",
+  "titulo": "Contabilidade da pecuária",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Contabilidade",
+  "temas": "Contabilidade. Agropecuária. Pecuária. Apuração de custos. Tributação rural.",
+  "palavras_chave": "marion contabilidade pecuaria",
+  "edicao_id": 2159,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 216,
+  "peso": 465,
+  "isbn": "9788522447954",
+  "editora": "Atlas",
+  "numero_edicao": 8,
+  "ano": 2007,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Este livro uniformiza os procedimentos contábeis em relação às operações efetuadas pelas empresas pecuárias, considerando alguns princípios de contabilidade, de grande relevância para a Contabilidade da Pecuária, bem como para as disposições do Imposto sobre a Renda que lhe são pertinentes.</p><p>Propõe um modelo contábil atual, demonstrando a situação real das empresas para os usuários da Contabilidade, sem ferir princípios contábeis e fiscais, e apresenta um Plano de Contas com as particularidades das operações realizadas pelas empresas pecuárias.</p><p>O texto conjuga três variáveis: fazer com que os relatórios contábeis sejam úteis para as tomadas de decisão, desenvolver o processo contábil alicerçado na moderna teoria da Contabilidade e considerar as disposições fiscais relativas à pecuária. São propostos também dois modelos de apuração de custos, considerando a correção monetária dos custos históricos; bezerros a nascer; custo do bezerro nascido; depreciação do touro, matriz e pastagens; custo do gado no momento da venda; custo do gado morto ou desaparecido etc.</p><p>Os aspectos fiscais são ressaltados e comentados. Foram pesquisadas, por exemplo, as vantagens da constituição de uma atividade agropecuária na forma de pessoa física em relação à pessoa jurídica, e desenvolvidos exemplos de tributação em ambas as formas de apuração (pessoa física e jurídica). Modelos de coleta de dados são sugeridos, bem como mapas de planejamento do rebanho em relação à pastagem e de movimentação do rebanho nas diversas categorias.</p><h2>APLICAÇÃO</h2><p>Obra recomendada para a disciplina CONTABILIDADE AGROPECUÁRIA dos cursos de Ciências Contábeis. Manual de consulta para profissionais que exercem atividades pecuárias.</p>",
+  "sinopse": "O livro apresenta procedimentos contábeis específicos para empresas pecuárias, abordando princípios de contabilidade relevantes e aspectos fiscais da atividade. Propõe um modelo contábil atualizado, com plano de contas adequado ao setor, e traz exemplos de apuração de custos e tributação para pessoas físicas e jurídicas. Indicado tanto para estudantes de Ciências Contábeis quanto para profissionais do ramo, serve como manual prático para tomada de decisão e gestão de atividades pecuárias.",
+  "exemplar_id": 2158,
+  "sku": "LI01AK",
+  "preco_estante_virtual": 10.0,
+  "preco_amazon": 10.0,
+  "capa": "static/uploads/jos--carlos-marion--contabilidade-da-pecu-ria--capa--20250430--105010.jpg",
+  "contracapa": "static/uploads/jos--carlos-marion--contabilidade-da-pecu-ria--contracapa--20250430--105010.jpg",
+  "fotos": [
+    "static/uploads/jos--carlos-marion--contabilidade-da-pecu-ria--foto1--20250430--105010.jpg",
+    "static/uploads/jos--carlos-marion--contabilidade-da-pecu-ria--foto2--20250430--105010.jpg",
+    "static/uploads/jos--carlos-marion--contabilidade-da-pecu-ria--foto3--20250430--105010.jpg",
+    "static/uploads/jos--carlos-marion--contabilidade-da-pecu-ria--foto4--20250430--105010.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em bom estado de conservação, com leves marcas de uso e da passagem do tempo (veja fotos neste anúncio). Sem grifos ou anotações. OBS.: Este exemplar, comprado com recibo, pertencia a uma instituição de ensino e possui etiquetas de identificação interna e externa."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 22:03:34",
+  "observacoes": "procedencia_biblioteca"
+}

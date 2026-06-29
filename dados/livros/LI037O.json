@@ -1,0 +1,68 @@
+{
+  "obra_id": 5851,
+  "autor": "Brian Kibuuka",
+  "titulo": "Números",
+  "subtitulo": "Estudo da Torá",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Religião. Judaísmo. Cristianismo. Pentateuco. Estudos bíblicos.",
+  "palavras_chave": "numeros estudo tora ",
+  "edicao_id": 5826,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 335,
+  "peso": 500,
+  "isbn": "9786559967902",
+  "editora": "Penkall",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "Pentateuco",
+  "volume": null,
+  "transcricao_contracapa": "<p>“Explorando as raízes da fé: um guia de comentário bíblico para o Pentateuco”</p><p>Esta obra é um convite para uma jornada de descoberta das raízes da fé judaico-cristã por meio da exploração do Pentateuco. Comentários detalhados sobre cada livro (Gênesis, Êxodo, Levítico, Números e Deuteronômio) ajudam o leitor a entender o contexto histórico, cultural e teológico que moldou a revelação divina na Bíblia.</p><p>O teólogo Brian Kibuuka a cada capítulo faz análises de passagens do Pentateuco, bem como aplicação em nossa vida diária. Descubra a profundidade e a riqueza das Escrituras e como elas ainda são relevantes para nós hoje.</p><p>Este livro é uma ferramenta essencial para estudiosos, pastores, líderes religiosos e qualquer pessoa que deseje aprofundar seu conhecimento e compreensão da Palavra de Deus. Venha se juntar a nós nesta jornada de exploração e descoberta do Pentateuco.</p>",
+  "sinopse": "Este livro convida o leitor a explorar as raízes da fé judaico-cristã por meio de uma análise detalhada do Pentateuco. Com comentários históricos, culturais e teológicos, o teólogo Brian Kibuuka aprofunda a compreensão das passagens e sua aplicação no cotidiano, tornando esta obra essencial para estudiosos, líderes religiosos e todos que buscam compreender a Palavra de Deus.",
+  "exemplar_id": 5825,
+  "sku": "LI037O",
+  "preco_estante_virtual": 100.0,
+  "preco_amazon": 100.0,
+  "capa": "static/uploads/numeros__estudo-da-tora__brian-kibuuka__capa__2026-01-18_14-12-15-426297-000.png",
+  "contracapa": "static/uploads/numeros__estudo-da-tora__brian-kibuuka__contracapa__2026-01-18_14-12-15-456474-001.png",
+  "fotos": [
+    "static/uploads/numeros__estudo-da-tora__brian-kibuuka__foto-01__2026-01-18_14-12-15-497813-002.jpg",
+    "static/uploads/numeros__estudo-da-tora__brian-kibuuka__foto-02__2026-01-18_14-12-15-694415-003.jpg",
+    "static/uploads/numeros__estudo-da-tora__brian-kibuuka__foto-03__2026-01-18_14-12-16-280462-004.jpg",
+    "static/uploads/numeros__estudo-da-tora__brian-kibuuka__foto-04__2026-01-18_14-12-16-324977-005.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:24:44",
+  "observacoes": null
+}

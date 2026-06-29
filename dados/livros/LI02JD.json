@@ -1,0 +1,63 @@
+{
+  "obra_id": 4743,
+  "autor": "Yoshihiro Togashi",
+  "titulo": "Hunter x Hunter",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Literatura estrangeira. Mangá. Aventura.",
+  "palavras_chave": "togashi hunter hunter",
+  "edicao_id": 4718,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 192,
+  "peso": 250,
+  "isbn": "9786555945249",
+  "editora": "JBC",
+  "numero_edicao": null,
+  "ano": 2023,
+  "serie": "",
+  "volume": 37,
+  "transcricao_contracapa": "",
+  "sinopse": "Hunter × Hunter, de Yoshihiro Togashi, é um mangá de aventura, ação e shonen que acompanha Gon Freecss, um garoto de 12 anos que descobre que seu pai ausente é um lendário Hunter — profissional de elite que caça tesouros, criaturas raras e perigos desconhecidos. Determinado a encontrá-lo, Gon parte para realizar o rigoroso Exame Hunter, onde conhece aliados como Killua (um assassino fugitivo), Kurapika (em busca de vingança) e Leorio (aspirante a médico). A série explora o sistema de poder Nen, arcos intensos de batalhas, exploração e dilemas morais em um mundo vasto e imprevisível, destacando-se pela profundidade dos personagens, estratégias complexas e interrupções frequentes do autor.",
+  "exemplar_id": 4717,
+  "sku": "LI02JD",
+  "preco_estante_virtual": 28.0,
+  "preco_amazon": 27.0,
+  "capa": "static/uploads/hunter-x-hunter__yoshihiro-togashi__capa__2026-02-20_10-30-22-652885-000.png",
+  "contracapa": "static/uploads/hunter-x-hunter__yoshihiro-togashi__contracapa__2026-02-20_10-30-22-695052-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Exemplar de colecionador em ótimo estado! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Há, apenas, levíssimos sinais de manuseio."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

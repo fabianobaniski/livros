@@ -1,0 +1,68 @@
+{
+  "obra_id": 3278,
+  "autor": "Tatsuki Fujimoto",
+  "titulo": "Chainsaw man",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Quadrinhos. Fantasia. Ação. Demônios.",
+  "palavras_chave": "fujimoto chainsaw man",
+  "edicao_id": 3258,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": null,
+  "peso": 200,
+  "isbn": "9786555127331",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 1,
+  "transcricao_contracapa": "<p>Denji é um jovem extremamente pobre que trabalha como caçador de demônios ao lado de Pochita, seu demônio de estimação, para pagar uma imensa dívida. Mas sua vida de miséria muda completamente devido a uma traição brutal! Aqui começa a história de um anti-herói que caça demônios com um demônio em seu corpo!!</p>",
+  "sinopse": "Denji, um jovem muito pobre, trabalha como caçador de demônios ao lado de Pochita, seu demônio de estimação, para quitar uma grande dívida. Sua vida de miséria sofre uma reviravolta após uma traição brutal, levando-o a se tornar um anti-herói que caça demônios com um demônio em seu próprio corpo.",
+  "exemplar_id": 3257,
+  "sku": "LI0250",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/chainsaw-man__tatsuki-fujimoto__capa__2025-11-05_16-24-47-224916.jpg",
+  "contracapa": "static/uploads/chainsaw-man__tatsuki-fujimoto__contracapa__2025-11-05_16-24-47-266096.jpg",
+  "fotos": [
+    "static/uploads/chainsaw-man__tatsuki-fujimoto__foto-01__2025-11-05_16-24-47-302317.jpg",
+    "static/uploads/chainsaw-man__tatsuki-fujimoto__foto-02__2025-11-05_16-24-47-332503.jpg",
+    "static/uploads/chainsaw-man__tatsuki-fujimoto__foto-03__2025-11-05_16-24-47-360120.jpg",
+    "static/uploads/chainsaw-man__tatsuki-fujimoto__foto-04__2025-11-05_16-24-47-391277.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado, quase sem sinais de uso (veja fotos). Sem grifos, anotações, assinaturas, carimbos, etc. Seminovo!"
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-10 23:48:39",
+  "observacoes": null
+}

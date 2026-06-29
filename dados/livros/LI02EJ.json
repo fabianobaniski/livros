@@ -1,0 +1,68 @@
+{
+  "obra_id": 3624,
+  "autor": "Honoré de Balzac",
+  "titulo": "Eugênia Grandet",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "",
+  "palavras_chave": "balzac eugenia grandet",
+  "edicao_id": 3601,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 230,
+  "peso": 340,
+  "isbn": "",
+  "editora": "Abril Cultural",
+  "numero_edicao": null,
+  "ano": 1971,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "",
+  "sinopse": "O romance detalha a vida opressiva de Eugênia, filha de um rico e avarento tanoeiro que sacrifica a felicidade da família em nome da acumulação obsessiva de ouro, explorando a desilusão amorosa da protagonista com seu primo e o impacto corrosivo da ganância financeira sobre os sentimentos humanos.",
+  "exemplar_id": 3600,
+  "sku": "LI02EJ",
+  "preco_estante_virtual": 20.0,
+  "preco_amazon": 20.0,
+  "capa": "static/uploads/honore-de-balzac--eugenia-grandet--capa--20251114--180933.png",
+  "contracapa": "static/uploads/honore-de-balzac--eugenia-grandet--contracapa--20251114--180943.png",
+  "fotos": [
+    "static/uploads/honore-de-balzac--eugenia-grandet--foto1--20251113--193747.jpg",
+    "static/uploads/honore-de-balzac--eugenia-grandet--foto2--20251113--193747.jpg",
+    "static/uploads/honore-de-balzac--eugenia-grandet--foto3--20251113--193747.jpg",
+    "static/uploads/honore-de-balzac--eugenia-grandet--foto4--20251113--193747.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Bom",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Edição clássica, impressa na década de 1970, com detalhes dourados na capa e lombada. Livro muito bem conservado (veja fotos neste anúncio). Texto livre de anotações e sublinhados. Papel um pouco amarelado pela ação do tempo."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-12 15:41:19",
+  "observacoes": null
+}

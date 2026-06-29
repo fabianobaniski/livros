@@ -1,0 +1,68 @@
+{
+  "obra_id": 1401,
+  "autor": "Guillermo del Toro; Cornelia Funke",
+  "titulo": "O labirinto do fauno",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Literatura Estrangeira",
+  "temas": "Literatura fantástica. Contos de fadas.",
+  "palavras_chave": "del toro labirinto fauno",
+  "edicao_id": 1383,
+  "encadernacao": "Capa Dura",
+  "quantidade_paginas": 314,
+  "peso": 500,
+  "isbn": "9788551005194",
+  "editora": "Intrínseca",
+  "numero_edicao": null,
+  "ano": 2019,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<p>Na década de 1940, diante da brutalidade de seu cotidiano na Espanha fascista, Ofélia, uma menina de treze anos cujos melhores amigos são os livros, é conduzida a um universo mágico, que extrapola os limites entre sonho e realidade, beleza e horror. Nesta edição, Cornelia Funke tece em palavras a inesquecível obra-prima de Guillermo del Toro. A narrativa de Ofélia é intercalada com ilustrações e contos de fadas inéditos, baseados em elementos-chaves de <i>O Labirinto do Fauno</i>. Uma ode ao poder das histórias, seja em imagens ou palavras, e a sua capacidade de transformar a realidade a nossa volta.</p>",
+  "sinopse": "A história se passa na Espanha de 1944 e acompanha Ofélia, uma jovem que se muda com sua mãe para um moinho ocupado pelo cruel capitão Vidal. Lá, ela descobre um mundo mágico na floresta, habitado por criaturas fantásticas que a reconhecem como uma princesa perdida. O livro intercala a narrativa de Ofélia com ilustrações e contos de fadas inéditos, explorando temas de fantasia e realidade.",
+  "exemplar_id": 1382,
+  "sku": "LI00TP",
+  "preco_estante_virtual": 50.0,
+  "preco_amazon": 50.0,
+  "capa": "static/uploads/guillermo-del-toro--labirinto-do-fauno--capa--20250401--115340.jpg",
+  "contracapa": "static/uploads/guillermo-del-toro--labirinto-do-fauno--contracapa--20250401--115340.jpg",
+  "fotos": [
+    "static/uploads/guillermo-del-toro--labirinto-do-fauno--foto1--20250401--115340.jpg",
+    "static/uploads/guillermo-del-toro--labirinto-do-fauno--foto2--20250401--115340.jpg",
+    "static/uploads/guillermo-del-toro--labirinto-do-fauno--foto3--20250401--115340.jpg",
+    "static/uploads/guillermo-del-toro--labirinto-do-fauno--foto4--20250401--115340.jpg"
+  ],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 21:22:44",
+  "observacoes": null
+}

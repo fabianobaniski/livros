@@ -1,0 +1,63 @@
+{
+  "obra_id": 5023,
+  "autor": "Takehiko Inoue",
+  "titulo": "Real",
+  "subtitulo": "",
+  "idioma": "Português",
+  "categoria": "Gibis",
+  "temas": "Ficção científica. Esportes.",
+  "palavras_chave": "inoue real",
+  "edicao_id": 4998,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 208,
+  "peso": 310,
+  "isbn": "9786559607990",
+  "editora": "Panini Comics",
+  "numero_edicao": null,
+  "ano": 2021,
+  "serie": "",
+  "volume": 5,
+  "transcricao_contracapa": "",
+  "sinopse": "Real, de Takehiko Inoue, é um mangá seinen de drama que acompanha três jovens — Nomiya, Togawa e Takahashi — cujas vidas são transformadas por acidentes ou doenças que os deixam em cadeira de rodas. Unidos pelo basquete (incluindo o adaptado), eles enfrentam superação pessoal, culpa, marginalização e a busca por identidade e propósito, com realismo psicológico profundo e arte detalhada.",
+  "exemplar_id": 4997,
+  "sku": "LI02QV",
+  "preco_estante_virtual": 18.0,
+  "preco_amazon": 18.0,
+  "capa": "static/uploads/real__takehiko-inoue__capa__2026-02-20_10-31-43-059216-000.png",
+  "contracapa": "static/uploads/real__takehiko-inoue__contracapa__2026-02-20_10-31-43-330231-001.png",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Mangá em ótimo estado de conservação! Capa e contracapa sem avarias, lombada alinhada. Parte interna firme, sem folhas soltas e livre de assinaturas, etiquetas, grifos ou qualquer tipo de marcação manual. Papel bem branco."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": null,
+  "observacoes": null
+}

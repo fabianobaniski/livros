@@ -1,0 +1,63 @@
+{
+  "obra_id": 935,
+  "autor": "Kevin J. Mellish",
+  "titulo": "Novo comentário bíblico Beacon",
+  "subtitulo": "1 e 2 Samuel",
+  "idioma": "Português",
+  "categoria": "Religião",
+  "temas": "Estudos bíblicos. Teologia. Comentários.",
+  "palavras_chave": "mellish novo comentario biblico beacon",
+  "edicao_id": 920,
+  "encadernacao": "Brochura",
+  "quantidade_paginas": 351,
+  "peso": 450,
+  "isbn": "9788576894261",
+  "editora": "Central Gospel",
+  "numero_edicao": null,
+  "ano": 2015,
+  "serie": "",
+  "volume": null,
+  "transcricao_contracapa": "<h1>Novo Comentário Bíblico Beacon</h1> <p>Envolvente, perceptivo e academicamente, minucioso e completo, o Novo Comentário Bíblico Beacon expandirá sua compreensão e aprofundará seu apreço pelo significado e pela mensagem de cada livro da Bíblia. Indispensável, esse comentário fornece a pastores, estudiosos profissionais, professores e estudantes da Bíblia uma interpretação crítica, relevante e inspiradora da Palavra de Deus no século 21.</p> <h2>CADA VOLUME APRESENTA:</h2> <ul> <li>TEXTOS CONTEMPORÂNEOS de notáveis especialistas e PhDs.</li> <li>MATERIAL INTRODUTÓRIO PRÁTICO, incluindo informações sobre autoria, data, história, público, questões sociológicas e culturais, propósito, recursos literários, temas teológicos e questões hermenêuticas.</li> <li>EXPLICAÇÕES CLARAS, versículo por versículo, que oferecem uma compreensão contemporânea e derivada do texto bíblico em sua língua original.</li> <li>ANOTAÇÃO ABRANGENTE dividida em três seções, as quais exploram elementos por trás do texto, sentidos encontrados no texto e significado, importância, intertextualidade e aplicação a partir do texto.</li> <li>ANOTAÇÕES COMPLEMENTARES que fornecem uma visão mais aprofundada de questões teológicas, significado das palavras, conexões arqueológicas, relevância histórica e costumes culturais.</li> <li>BIBLIOGRAFIA EXPANDIDA para um estudo mais abrangente de elementos históricos, interpretações adicionais e temas teológicos.</li> </ul>",
+  "sinopse": "O Novo Comentário Bíblico Beacon é um recurso essencial para a compreensão da Bíblia, oferecendo explanações e anotações que ajudam a desvendar o significado e a relevância de 1 e 2 Samuel na vida contemporânea. Com ênfase em aspectos acadêmicos e práticos, este volume é indispensável para pastores e estudiosos.",
+  "exemplar_id": 919,
+  "sku": "LI00OT",
+  "preco_estante_virtual": 95.0,
+  "preco_amazon": 65.0,
+  "capa": "static/uploads/kevin-j--mellish--novo-coment-rio-b-blico-beacon--capa--20250227--152914.jpg",
+  "contracapa": "static/uploads/kevin-j--mellish--novo-coment-rio-b-blico-beacon--contracapa--20250227--152914.jpg",
+  "fotos": [],
+  "conservacao": {
+    "estado_geral": "Ótimo",
+    "partes_livro": {
+      "capa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "miolo": {
+        "estado": "",
+        "defeitos": []
+      },
+      "bordas": {
+        "estado": "",
+        "defeitos": []
+      },
+      "lombada": {
+        "estado": "",
+        "defeitos": []
+      },
+      "sobrecapa": {
+        "estado": "",
+        "defeitos": []
+      },
+      "contracapa": {
+        "estado": "",
+        "defeitos": []
+      }
+    },
+    "descricao_geral": "Livro em ótimo estado de conservação, tendo, apenas, levíssimos sinais de uso e da passagem do tempo. Texto livre de anotações e sublinhados. Não possui marcas de umidade, mofo ou traça."
+  },
+  "disponivel": 1,
+  "status_inventario": "disponivel",
+  "data_inventario": "2026-03-13 20:24:21",
+  "observacoes": null
+}

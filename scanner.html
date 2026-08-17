@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Vender livros — Fabiano Livros</title>
+<meta name="description" content="Escaneie o código de barras dos seus livros e me envie a lista pelo WhatsApp.">
+<meta property="og:title" content="Vender livros — Fabiano Livros">
+<meta property="og:description" content="Escaneie o código de barras dos seus livros e me envie a lista pelo WhatsApp.">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Fabiano Livros">
+<meta property="og:locale" content="pt_BR">
+<meta property="og:url" content="https://fabianobaniski.github.io/livros/scanner.html">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Vender livros — Fabiano Livros">
+<meta name="twitter:description" content="Escaneie o código de barras dos seus livros e me envie a lista pelo WhatsApp.">
+<link rel="stylesheet" href="css/estilo.css">
+<script src="js/config.js"></script>
+<script src="https://unpkg.com/@zxing/library@0.23.0/umd/index.min.js"></script>
+</head>
+<body data-pagina="scanner">
+
+<!-- cabeçalho e rodapé injetados por layout.js -->
+
+<div class="pagina pagina-detalhe">
+  <main class="conteudo">
+    <a class="voltar" id="voltar" href="index.html">‹ Voltar ao catálogo</a>
+
+    <div class="scanner-intro">
+      <h1 class="scanner-titulo">Quer vender seus livros?</h1>
+      <p class="scanner-texto">
+        Escaneie o código de barras (embaixo, atrás do livro) de cada exemplar
+        que você quer vender. Pode escanear vários. No final, envie a lista
+        pra mim pelo WhatsApp que eu avalio os preços.
+      </p>
+    </div>
+
+    <div class="scanner-caixa">
+      <div id="scanner-video-wrap" class="scanner-video-wrap" hidden>
+        <video id="scanner-video" class="scanner-video" playsinline muted></video>
+        <div class="scanner-mira" aria-hidden="true"></div>
+      </div>
+      <p id="scanner-status" class="scanner-status" aria-live="polite"></p>
+      <div class="scanner-botoes">
+        <button id="scanner-iniciar" class="btn-scanner-iniciar">📷 Escanear código de barras</button>
+        <button id="scanner-parar" class="btn-scanner-parar" hidden>Parar leitura</button>
+      </div>
+    </div>
+
+    <div class="scanner-lista-caixa">
+      <div class="scanner-lista-cab">
+        <h2>Códigos escaneados</h2>
+        <span class="scanner-total" id="scanner-total">0</span>
+      </div>
+      <div id="scanner-lista" class="scanner-lista">
+        <p class="vazio">Nenhum código escaneado ainda.</p>
+      </div>
+      <div class="scanner-acoes" id="scanner-acoes" hidden>
+        <button id="scanner-copiar" class="btn-copiar">Copiar lista</button>
+        <a id="scanner-whats" class="btn-envio btn-envio-whats" href="#" target="_blank" rel="noopener">Enviar por WhatsApp</a>
+        <button id="scanner-limpar" class="btn-limpar">Limpar lista</button>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script src="js/layout.js"></script>
+<script src="js/scanner.js"></script>
+</body>
+</html>

@@ -24,11 +24,23 @@
       <input type="search" id="busca" placeholder="Buscar por título ou autor…"
              autocomplete="off" value="${buscaInicial.replace(/"/g, "&quot;")}">
     </div>
-    <button class="btn-interesse-topo" id="abrir-interesse">
-      ♥ Livros que me interessam <span class="badge" id="badge-interesse" hidden>0</span>
-    </button>
+    <div class="cab-acoes">
+      <a class="btn-scanner-topo" id="btn-scanner-topo" href="scanner.html">📷 Vender livros</a>
+      <button class="btn-interesse-topo" id="abrir-interesse">
+        ♥ Livros que me interessam <span class="badge" id="badge-interesse" hidden>0</span>
+      </button>
+    </div>
   `;
   document.body.prepend(header);
+
+  // Na própria página do scanner, os dois botões acima não se aplicam
+  // (é a página do "vender", e ela não usa a lista de interesse).
+  if (document.body.dataset.pagina === "scanner") {
+    const btnScanner = document.getElementById("btn-scanner-topo");
+    const btnInteresse = document.getElementById("abrir-interesse");
+    if (btnScanner) btnScanner.hidden = true;
+    if (btnInteresse) btnInteresse.hidden = true;
+  }
 
   // ---- Rodapé ----
   const footer = document.createElement("footer");

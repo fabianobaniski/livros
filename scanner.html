@@ -40,14 +40,24 @@
         <video id="scanner-video" class="scanner-video" playsinline muted></video>
         <div class="scanner-mira" aria-hidden="true"></div>
       </div>
+
+      <div id="scanner-confirmacao" class="scanner-confirmacao" hidden>
+        <p class="scanner-confirmacao-icone" aria-hidden="true">✅</p>
+        <p id="scanner-confirmacao-texto" class="scanner-confirmacao-texto"></p>
+        <div class="scanner-confirmacao-botoes">
+          <button id="scanner-mais" class="btn-scanner-iniciar">📷 Escanear mais um</button>
+          <button id="scanner-concluir" class="btn-scanner-concluir">Concluir</button>
+        </div>
+      </div>
+
       <p id="scanner-status" class="scanner-status" aria-live="polite"></p>
       <div class="scanner-botoes">
         <button id="scanner-iniciar" class="btn-scanner-iniciar">📷 Escanear código de barras</button>
-        <button id="scanner-parar" class="btn-scanner-parar" hidden>Parar leitura</button>
+        <button id="scanner-parar" class="btn-scanner-parar" hidden>Cancelar</button>
       </div>
     </div>
 
-    <div class="scanner-lista-caixa">
+    <div class="scanner-lista-caixa" id="scanner-lista-caixa">
       <div class="scanner-lista-cab">
         <h2>Códigos escaneados</h2>
         <span class="scanner-total" id="scanner-total">0</span>
@@ -58,6 +68,10 @@
       <div class="scanner-acoes" id="scanner-acoes" hidden>
         <button id="scanner-copiar" class="btn-copiar">Copiar lista</button>
         <a id="scanner-whats" class="btn-envio btn-envio-whats" href="#" target="_blank" rel="noopener">Enviar por WhatsApp</a>
+        <p id="scanner-aviso-whats" class="scanner-aviso" hidden>
+          A lista ficou grande demais pra ir pronta no link do WhatsApp.
+          Toque em "Copiar lista" acima e cole manualmente na conversa que vai abrir.
+        </p>
         <button id="scanner-limpar" class="btn-limpar">Limpar lista</button>
       </div>
     </div>

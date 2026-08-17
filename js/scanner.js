@@ -2,22 +2,36 @@
 // para quem quer vender livros. Usa a biblioteca ZXing (carregada via CDN
 // em scanner.html) para decodificar o código; a lista fica só no navegador
 // de quem escaneou (localStorage) até ser copiada/enviada por WhatsApp.
+//
+// Fluxo: cada toque em "escanear" faz UMA leitura só (não fica lendo em
+// looping o mesmo código). Depois de ler, mostra uma confirmação com
+// "escanear mais um" ou "concluir".
 
 (function () {
   const CHAVE = "scanner_codigos";
   const C = window.SITE_CONFIG || {};
 
-  const elVideoWrap  = document.getElementById("scanner-video-wrap");
-  const elVideo       = document.getElementById("scanner-video");
-  const elStatus       = document.getElementById("scanner-status");
-  const elBtnIniciar   = document.getElementById("scanner-iniciar");
-  const elBtnParar     = document.getElementById("scanner-parar");
-  const elLista        = document.getElementById("scanner-lista");
-  const elTotal        = document.getElementById("scanner-total");
-  const elAcoes        = document.getElementById("scanner-acoes");
-  const elBtnCopiar    = document.getElementById("scanner-copiar");
-  const elBtnWhats     = document.getElementById("scanner-whats");
-  const elBtnLimpar    = document.getElementById("scanner-limpar");
+  // limite de segurança pro tamanho da URL do wa.me (nem todo navegador/
+  // WhatsApp aceita URLs muito longas de forma confiável)
+  const LIMITE_URL_WHATS = 2000;
+
+  const elVideoWrap        = document.getElementById("scanner-video-wrap");
+  const elVideo             = document.getElementById("scanner-video");
+  const elConfirmacao       = document.getElementById("scanner-confirmacao");
+  const elConfirmacaoTexto  = document.getElementById("scanner-confirmacao-texto");
+  const elBtnMais           = document.getElementById("scanner-mais");
+  const elBtnConcluir       = document.getElementById("scanner-concluir");
+  const elStatus            = document.getElementById("scanner-status");
+  const elBtnIniciar        = document.getElementById("scanner-iniciar");
+  const elBtnParar          = document.getElementById("scanner-parar");
+  const elListaCaixa        = document.getElementById("scanner-lista-caixa");
+  const elLista              = document.getElementById("scanner-lista");
+  const elTotal              = document.getElementById("scanner-total");
+  const elAcoes              = document.getElementById("scanner-acoes");
+  const elBtnCopiar          = document.getElementById("scanner-copiar");
+  const elBtnWhats           = document.getElementById("scanner-whats");
+  const elAvisoWhats         = document.getElementById("scanner-aviso-whats");
+  const elBtnLimpar          = document.getElementById("scanner-limpar");
 
   if (!elBtnIniciar) return; // script incluído fora da página do scanner
 
@@ -41,7 +55,7 @@
     else itens.push({ codigo, quantidade: 1 });
     salvar(itens);
     render();
-    return !existente;
+    return existente ? existente.quantidade : 1;
   }
   function remover(codigo) {
     salvar(ler().filter(i => i.codigo !== codigo));
@@ -90,7 +104,17 @@
       b.onclick = () => remover(b.dataset.codigo);
     });
 
-    elBtnWhats.href = `https://wa.me/${C.WHATSAPP_NUMERO || ""}?text=${encodeURIComponent(textoLista())}`;
+    // link do WhatsApp: se a lista deixar a URL grande demais, manda o
+    // link "pelado" (sem o texto) e avisa pra colar a lista manualmente.
+    const numero = C.WHATSAPP_NUMERO || "";
+    const urlComTexto = `https://wa.me/${numero}?text=${encodeURIComponent(textoLista())}`;
+    if (urlComTexto.length > LIMITE_URL_WHATS) {
+      elBtnWhats.href = `https://wa.me/${numero}`;
+      if (elAvisoWhats) elAvisoWhats.hidden = false;
+    } else {
+      elBtnWhats.href = urlComTexto;
+      if (elAvisoWhats) elAvisoWhats.hidden = true;
+    }
   }
 
   async function copiar() {
@@ -112,15 +136,17 @@
     try { if (navigator.vibrate) navigator.vibrate(80); } catch (e) {}
   }
 
-  // ---- leitura pela câmera ----
-  async function iniciar() {
+  // ---- leitura pela câmera (uma leitura por vez) ----
+  async function iniciarLeitura() {
     if (typeof ZXing === "undefined") {
       elStatus.textContent = "Não foi possível carregar o leitor de código de barras. Verifique sua internet e tente de novo.";
       return;
     }
 
+    elConfirmacao.hidden = true;
     elBtnIniciar.hidden = true;
     elVideoWrap.hidden = false;
+    elBtnParar.hidden = false;
     elStatus.textContent = "Solicitando acesso à câmera…";
 
     const hints = new Map();
@@ -138,19 +164,13 @@
       const deviceId = (traseira || dispositivos[dispositivos.length - 1] || {}).deviceId || null;
 
       lendo = true;
-      elBtnParar.hidden = false;
       elStatus.textContent = "Aponte a câmera para o código de barras (geralmente na contracapa).";
 
-      leitor.decodeFromVideoDevice(deviceId, elVideo, (resultado) => {
-        if (!lendo || !resultado) return;
-        const codigo = resultado.getText();
-        const novo = adicionar(codigo);
-        vibrar();
-        elStatus.textContent = novo
-          ? `Código ${codigo} adicionado à lista!`
-          : `Código ${codigo} já estava na lista.`;
-      });
+      const resultado = await leitor.decodeOnceFromVideoDevice(deviceId, elVideo);
+      if (!lendo) return; // usuário cancelou antes de terminar de ler
+      onCodigoLido(resultado.getText());
     } catch (e) {
+      if (!lendo) return; // cancelado pelo usuário; erro esperado do reset()
       elStatus.textContent = "Não foi possível acessar a câmera. Verifique se você deu permissão ao navegador.";
       elBtnIniciar.hidden = false;
       elVideoWrap.hidden = true;
@@ -158,21 +178,49 @@
     }
   }
 
-  function parar() {
+  function onCodigoLido(codigo) {
     lendo = false;
-    if (leitor) { try { leitor.reset(); } catch (e) {} }
+    pararCamera();
+    vibrar();
+    const quantidade = adicionar(codigo);
+
     elVideoWrap.hidden = true;
-    elBtnIniciar.hidden = false;
     elBtnParar.hidden = true;
+    elStatus.textContent = "";
+
+    elConfirmacaoTexto.textContent = quantidade > 1
+      ? `Código ${codigo} escaneado (já estava na lista, agora ${quantidade}x).`
+      : `Código ${codigo} escaneado e adicionado à lista!`;
+    elConfirmacao.hidden = false;
+  }
+
+  function pararCamera() {
+    if (leitor) { try { leitor.reset(); } catch (e) {} }
+  }
+
+  function cancelar() {
+    lendo = false;
+    pararCamera();
+    elVideoWrap.hidden = true;
+    elBtnParar.hidden = true;
+    elBtnIniciar.hidden = false;
     elStatus.textContent = "";
   }
 
-  elBtnIniciar.addEventListener("click", iniciar);
-  elBtnParar.addEventListener("click", parar);
+  function concluir() {
+    elConfirmacao.hidden = true;
+    elBtnIniciar.hidden = false;
+    if (elListaCaixa) elListaCaixa.scrollIntoView({ behavior: "smooth", block: "start" });
+  }
+
+  elBtnIniciar.addEventListener("click", iniciarLeitura);
+  elBtnMais.addEventListener("click", iniciarLeitura);
+  elBtnConcluir.addEventListener("click", concluir);
+  elBtnParar.addEventListener("click", cancelar);
   elBtnCopiar.addEventListener("click", copiar);
   elBtnLimpar.addEventListener("click", limpar);
-  window.addEventListener("pagehide", parar);
-  document.addEventListener("visibilitychange", () => { if (document.hidden) parar(); });
+  window.addEventListener("pagehide", cancelar);
+  document.addEventListener("visibilitychange", () => { if (document.hidden) cancelar(); });
 
   render();
 })();
